@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- power conduit -->
+  <PowerConduit.label></PowerConduit.label>
+  <!-- A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description></PowerConduit.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PowerConduit.label></Blueprint_PowerConduit.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PowerConduit.label></Frame_PowerConduit.label>
+
+  <!-- waterproof conduit -->
+  <WaterproofConduit.label></WaterproofConduit.label>
+  <!-- Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description></WaterproofConduit.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WaterproofConduit.label></Blueprint_WaterproofConduit.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WaterproofConduit.label></Frame_WaterproofConduit.label>
+
+  <!-- power switch -->
+  <PowerSwitch.label></PowerSwitch.label>
+  <!-- Switches power on/off. -->
+  <PowerSwitch.description></PowerSwitch.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PowerSwitch.label></Blueprint_PowerSwitch.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PowerSwitch.label></Frame_PowerSwitch.label>
+
+  <!-- wood-fired generator -->
+  <WoodFiredGenerator.label></WoodFiredGenerator.label>
+  <!-- Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description></WoodFiredGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WoodFiredGenerator.label></Blueprint_WoodFiredGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WoodFiredGenerator.label></Frame_WoodFiredGenerator.label>
+
+  <!-- chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label></ChemfuelPoweredGenerator.label>
+  <!-- Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description></ChemfuelPoweredGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_ChemfuelPoweredGenerator.label></Blueprint_ChemfuelPoweredGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_ChemfuelPoweredGenerator.label></Frame_ChemfuelPoweredGenerator.label>
+
+  <!-- wind turbine -->
+  <WindTurbine.label></WindTurbine.label>
+  <!-- A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description></WindTurbine.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WindTurbine.label></Blueprint_WindTurbine.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WindTurbine.label></Frame_WindTurbine.label>
+
+  <!-- battery -->
+  <Battery.label></Battery.label>
+  <!-- Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description></Battery.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Battery.label></Blueprint_Battery.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Battery.label></Blueprint_Install_Battery.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Battery.label></Frame_Battery.label>
+
+  <!-- solar generator -->
+  <SolarGenerator.label></SolarGenerator.label>
+  <!-- Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description></SolarGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SolarGenerator.label></Blueprint_SolarGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_SolarGenerator.label></Frame_SolarGenerator.label>
+
+  <!-- geothermal generator -->
+  <GeothermalGenerator.label></GeothermalGenerator.label>
+  <!-- Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description></GeothermalGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_GeothermalGenerator.label></Blueprint_GeothermalGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_GeothermalGenerator.label></Frame_GeothermalGenerator.label>
+
+  <!-- watermill generator -->
+  <WatermillGenerator.label></WatermillGenerator.label>
+  <!-- Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation. -->
+  <WatermillGenerator.description></WatermillGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WatermillGenerator.label></Blueprint_WatermillGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WatermillGenerator.label></Frame_WatermillGenerator.label>
+
+
+</LanguageData>

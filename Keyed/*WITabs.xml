@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- Terrain -->
+  <TabTerrain></TabTerrain>
+  <!-- Planet -->
+  <TabPlanet></TabPlanet>
+  <!-- Social -->
+  <TabCaravanSocial></TabCaravanSocial>
+  <!-- Health -->
+  <TabCaravanHealth></TabCaravanHealth>
+  <!-- Needs -->
+  <TabCaravanNeeds></TabCaravanNeeds>
+  <!-- Gear -->
+  <TabCaravanGear></TabCaravanGear>
+  <!-- Items -->
+  <TabCaravanItems></TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- Abandon {{0}}x {0} -->
+  <AbandonSliderText></AbandonSliderText>
+  <!-- Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog></ConfirmAbandonItemDialog>
+  <!-- Abandon -->
+  <AbandonTip></AbandonTip>
+  <!-- Banish -->
+  <BanishTip></BanishTip>
+  <!-- Abandon specific count -->
+  <AbandonSpecificCountTip></AbandonSpecificCountTip>
+  <!-- Abandon (all) -->
+  <AbandonAllTip></AbandonAllTip>
+  <!-- Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText></AbandonItemTipExtraText>
+  <!-- {0} will most likely die. -->
+  <BanishTipWillDie></BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- Colonists -->
+  <CaravanColonists></CaravanColonists>
+  <!-- Prisoners and animals -->
+  <CaravanPrisonersAndAnimals></CaravanPrisonersAndAnimals>
+  <!-- Inventory -->
+  <CaravanItems></CaravanItems>
+  <!-- Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip></OpenSpecificTabButtonTip>
+  <!-- Prisoners -->
+  <CaravanPrisoners></CaravanPrisoners>
+  <!-- Inventory -->
+  <CaravanWeaponsAndApparel></CaravanWeaponsAndApparel>
+  <!-- None capable -->
+  <NoneCapable></NoneCapable>
+  <!-- Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving></GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- Drag to rearrange. -->
+  <DragToRearrange></DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- Assign drug policies -->
+  <AssignDrugPolicies></AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip></BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- Seed -->
+  <PlanetSeed></PlanetSeed>
+  <!-- Coverage -->
+  <PlanetCoverageShort></PlanetCoverageShort>
+
+</LanguageData>

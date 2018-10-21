@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--======== Common to various mechanoids ========-->
+
+  <!-- neck -->
+  <MechanicalNeck.label></MechanicalNeck.label>
+  <!-- head -->
+  <MechanicalHead.label></MechanicalHead.label>
+  <!-- artificial brain -->
+  <ArtificialBrain.label></ArtificialBrain.label>
+  <!-- sight sensor -->
+  <SightSensor.label></SightSensor.label>
+  <!-- hearing sensor -->
+  <HearingSensor.label></HearingSensor.label>
+  <!-- smell sensor -->
+  <SmellSensor.label></SmellSensor.label>
+  <!-- shoulder -->
+  <MechanicalShoulder.label></MechanicalShoulder.label>
+  <!-- arm -->
+  <MechanicalArm.label></MechanicalArm.label>
+  <!-- hand -->
+  <MechanicalHand.label></MechanicalHand.label>
+  <!-- finger -->
+  <MechanicalFinger.label></MechanicalFinger.label>
+  <!-- leg -->
+  <MechanicalLeg.label></MechanicalLeg.label>
+  <!-- foot -->
+  <MechanicalFoot.label></MechanicalFoot.label>
+
+
+  <!--===================== Human-like specific (lancer, scyther) ====================-->
+
+  <!-- thorax -->
+  <MechanicalThorax.label></MechanicalThorax.label>
+
+
+  <!--===================== Scyther specific ====================-->
+
+  <!-- blade -->
+  <Blade.label></Blade.label>
+
+  <!-- first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label></MechanicalCentipedeBodyFirstRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort></MechanicalCentipedeBodyFirstRing.labelShort>
+
+  <!-- second body ring -->
+  <MechanicalCentipedeBodySecondRing.label></MechanicalCentipedeBodySecondRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort></MechanicalCentipedeBodySecondRing.labelShort>
+
+  <!-- third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label></MechanicalCentipedeBodyThirdRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort></MechanicalCentipedeBodyThirdRing.labelShort>
+
+  <!-- fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label></MechanicalCentipedeBodyFourthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort></MechanicalCentipedeBodyFourthRing.labelShort>
+
+  <!-- fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label></MechanicalCentipedeBodyFifthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort></MechanicalCentipedeBodyFifthRing.labelShort>
+
+  <!-- sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label></MechanicalCentipedeBodySixthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort></MechanicalCentipedeBodySixthRing.labelShort>
+
+
+</LanguageData>

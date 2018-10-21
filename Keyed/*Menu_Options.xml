@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <!-- Audiovisuals -->
+  <Audiovisuals></Audiovisuals>
+  <!-- Game volume -->
+  <GameVolume></GameVolume>
+  <!-- Music volume -->
+  <MusicVolume></MusicVolume>
+  <!-- Ambient volume -->
+  <AmbientVolume></AmbientVolume>
+  <!-- Anti-aliasing -->
+  <Antialiasing></Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- Screen-edge mouse scroll -->
+  <EdgeScreenScroll></EdgeScreenScroll>
+  <!-- Pause on load -->
+  <PauseOnLoad></PauseOnLoad>
+  <!-- Pause on urgent letter -->
+  <PauseOnUrgentLetter></PauseOnUrgentLetter>
+  <!-- Custom cursor -->
+  <CustomCursor></CustomCursor>
+  <!-- Hats shown only on game map -->
+  <HatsShownOnlyOnMap></HatsShownOnlyOnMap>
+  <!-- UI scale -->
+  <UIScale></UIScale>
+ <!-- Keyboard configuration -->
+ <KeyboardConfig></KeyboardConfig>
+  <!-- Choose language -->
+  <ChooseLanguage></ChooseLanguage>
+  <!-- Reset learning helper -->
+  <ResetAdaptiveTutor></ResetAdaptiveTutor>
+  <!-- Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset></AdaptiveTutorIsReset>
+  <!-- Run in background -->
+  <RunInBackground></RunInBackground>
+  <!-- Development mode -->
+  <DevelopmentMode></DevelopmentMode>
+  <!-- Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash></ResetModsConfigOnCrash>
+  <!-- Verbose logging -->
+  <LogVerbose></LogVerbose>
+  <!-- Open save data folder -->
+  <OpenSaveGameDataFolder></OpenSaveGameDataFolder>
+  <!-- Show save data location -->
+  <ShowSaveGameDataLocation></ShowSaveGameDataLocation>
+  <!-- Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
+  <NamesYouWantToSee></NamesYouWantToSee>
+  <!-- Add name -->
+  <AddName></AddName>
+  <!-- Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName></TypeFirstNickOrLastName>
+  <!-- This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName></MessageAlreadyPreferredName>
+  <!-- Choose storyteller -->
+  <ChangeStoryteller></ChangeStoryteller>
+  <!-- Autosave interval -->
+  <AutosaveInterval></AutosaveInterval>
+  <!-- Temperature mode -->
+  <TemperatureMode></TemperatureMode>
+  <!-- Show realtime clock -->
+  <ShowRealtimeClock></ShowRealtimeClock>
+  <!-- Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements></MaxNumberOfPlayerSettlements>
+  <!-- Plant wind sway -->
+  <PlantWindSway></PlantWindSway>
+  <!-- Enable test map sizes -->
+  <EnableTestMapSizes></EnableTestMapSizes>
+  <!-- Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo></MaxPermadeathAutosaveIntervalInfo>
+  <!-- Mod Settings -->
+  <ModSettings></ModSettings>
+  <!-- Permanently disable development mode -->
+  <PermanentlyDisableDevMode></PermanentlyDisableDevMode>
+
+  <!-- Resolution -->
+  <!-- Resolution -->
+  <Resolution></Resolution>
+  <!-- Fullscreen -->
+  <Fullscreen></Fullscreen>
+
+  <!-- Privacy -->
+  <!-- Privacy -->
+  <Privacy></Privacy>
+  <!-- User name -->
+  <UserName></UserName>
+  <!-- Gameplay data upload pref. -->
+  <ChooseHistoryUploadPref></ChooseHistoryUploadPref>
+  <!-- Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
+  <AboutHistoryUpload></AboutHistoryUpload>
+
+  <!-- Mods -->
+  <!-- Select mod... -->
+  <SelectMod></SelectMod>
+  <!-- No configurable mods loaded. -->
+  <NoConfigurableMods></NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- Restore to default settings -->
+  <RestoreToDefaultSettings></RestoreToDefaultSettings>
+  <!-- Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart></ResetAndRestart>
+  
+</LanguageData>

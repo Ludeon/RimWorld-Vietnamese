@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- Bills -->
+  <TabBills></TabBills>
+  <!-- Growing -->
+  <TabGrowing></TabGrowing>
+  <!-- Character -->
+  <TabCharacter></TabCharacter>
+  <!-- Training -->
+  <TabTraining></TabTraining>
+  <!-- Prisoner -->
+  <TabPrisoner></TabPrisoner>
+  <!-- Guest -->
+  <TabGuest></TabGuest>
+  <!-- Gear -->
+  <TabGear></TabGear>
+  <!-- Needs -->
+  <TabNeeds></TabNeeds>
+  <!-- Storage -->
+  <TabStorage></TabStorage>
+  <!-- Shells -->
+  <TabShells></TabShells>
+  <!-- Health -->
+  <TabHealth></TabHealth>
+  <!-- Race -->
+  <TabRace></TabRace>
+  <!-- Basics -->
+  <TabBasics></TabBasics>
+  <!-- Stats -->
+  <TabStats></TabStats>
+  <!-- Records -->
+  <TabRecords></TabRecords>
+  <!-- Art -->
+  <TabArt></TabArt>
+  <!-- Social -->
+  <TabSocial></TabSocial>
+  <!-- Log -->
+  <TabLog></TabLog>
+  <!-- Caravan -->
+  <TabFormingCaravan></TabFormingCaravan>
+
+  
+  <!-- Bills tab  -->
+  <!-- Add bill -->
+  <AddBill></AddBill>
+  <!-- The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills></RecipeRequiresSkills>
+  <!-- Min skill -->
+  <MinimumSkill></MinimumSkill>
+  <!-- SUSPENDED -->
+  <SuspendedCaps></SuspendedCaps>
+  <!-- Worker: {0} -->
+  <BoundWorkerIs></BoundWorkerIs>
+  <!-- Plant -->
+  <PlantVerb></PlantVerb>
+  <!-- Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere></ClipboardBillNotAvailableHere>
+  <!-- Move up -->
+  <ReorderBillUpTip></ReorderBillUpTip>
+  <!-- Move down -->
+  <ReorderBillDownTip></ReorderBillDownTip>
+  <!-- Delete -->
+  <DeleteBillTip></DeleteBillTip>
+  <!-- Copy to the clipboard -->
+  <CopyBillTip></CopyBillTip>
+  <!-- Suspend -->
+  <SuspendBillTip></SuspendBillTip>
+  <!-- Paste -->
+  <PasteBillTip></PasteBillTip>
+  <!-- can't add more -->
+  <PasteBillTip_LimitReached></PasteBillTip_LimitReached>
+
+
+  <!-- Guest/prisoner tab -->
+  <!-- Recruitment difficulty -->
+  <RecruitmentDifficulty></RecruitmentDifficulty>
+  <!-- Gets food -->
+  <GetsFood></GetsFood>
+  <!-- Doctors care -->
+  <DoctorsCare></DoctorsCare>
+  <!-- Gets medicine -->
+  <GetsMedicine></GetsMedicine>
+  <!-- Try to recruit -->
+  <ShouldTryToRecruit></ShouldTryToRecruit>
+ <!-- Considered guilty (expires in {0}) -->
+ <ConsideredGuilty></ConsideredGuilty>
+
+
+  <!-- Medical - general -->
+  <!-- Move speed -->
+  <MoveSpeed></MoveSpeed>
+  <!-- Efficiency -->
+  <Efficiency></Efficiency>
+ <!-- Part efficiency -->
+ <PartEfficiency></PartEfficiency>
+ <!-- Body part efficiency -->
+ <BodyPartEfficiency></BodyPartEfficiency>
+ <!-- Gone -->
+ <MissingBodyPart></MissingBodyPart>
+  <!-- Destroyed -->
+  <DestroyedBodyPart></DestroyedBodyPart>
+  <!-- Shattered -->
+  <ShatteredBodyPart></ShatteredBodyPart>
+  <!-- Removed -->
+  <RemovedBodyPart></RemovedBodyPart>
+  <!-- Healthy -->
+  <Healthy></Healthy>
+  <!-- In pain -->
+  <InPain></InPain>
+  <!-- Pain -->
+  <PainLevel></PainLevel>
+  <!-- Injured -->
+  <Injured></Injured>
+  <!-- no health conditions -->
+  <NoHealthConditions></NoHealthConditions>
+  <!-- Whole body -->
+  <WholeBody></WholeBody>
+  <!-- Data processing -->
+  <DataProcessing></DataProcessing>
+  <!-- Communication -->
+  <Communication></Communication>
+  <!-- Affects -->
+  <Affects></Affects>
+  <!-- Bleeding -->
+  <BleedingRate></BleedingRate>
+  <!-- death in {0} -->
+  <TimeToDeath></TimeToDeath>
+  <!-- no immediate danger -->
+  <WontBleedOutSoon></WontBleedOutSoon>
+  <!-- Overview -->
+  <HealthOverview></HealthOverview>
+  <!-- Operations ({0}) -->
+  <MedicalOperationsShort></MedicalOperationsShort>
+  <!-- Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort></MedicalOperationsMechanoidsShort>
+  <!-- Medical operations -->
+  <MedicalOperations></MedicalOperations>
+  <!-- amputate -->
+  <Amputate></Amputate>
+  <!-- harvest -->
+  <HarvestOrgan></HarvestOrgan>
+  <!-- remove -->
+  <RemoveOrgan></RemoveOrgan>
+  <!-- memory -->
+  <MemoryLower></MemoryLower>
+  <!-- social interactions -->
+  <SocialInteractionsLower></SocialInteractionsLower>
+  <!-- Hunger rate -->
+  <HungerRate></HungerRate>
+  <!-- Tiredness -->
+  <Tiredness></Tiredness>
+  <!-- Pain -->
+  <PainFactor></PainFactor>
+  <!-- Prevents infection -->
+  <PreventsInfection></PreventsInfection>
+  <!-- Self-tend -->
+  <SelfTend></SelfTend>
+  <!-- {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip></SelfTendTip>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <!-- None -->
+  <None></None>
+  <!-- Very poor -->
+  <VeryPoor></VeryPoor>
+  <!-- Poor -->
+  <Poor></Poor>
+  <!-- Weakened -->
+  <Weakened></Weakened>
+  <!-- OK -->
+  <GoodCondition></GoodCondition>
+  <!-- Enhanced -->
+  <Enhanced></Enhanced>
+  <!-- Seriously impaired -->
+  <SeriouslyImpaired></SeriouslyImpaired>
+  <!-- Impaired -->
+  <Impaired></Impaired>
+  <!-- Slightly impaired -->
+  <SlightlyImpaired></SlightlyImpaired>
+  <!-- None -->
+  <NoPain></NoPain>
+  <!-- Little -->
+  <LittlePain></LittlePain>
+  <!-- Medium -->
+  <MediumPain></MediumPain>
+  <!-- Severe -->
+  <SeverePain></SeverePain>
+  <!-- Extreme -->
+  <ExtremePain></ExtremePain>
+
+
+  <!-- Training tab -->
+  <!-- Trainability -->
+  <Trainability></Trainability>
+  <!-- Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough></CannotTrainNotSmartEnough>
+  <!-- {0} is too small to train this. -->
+  <CannotTrainTooSmall></CannotTrainTooSmall>
+
+  <!-- Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite></TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- (no relationships) -->
+  <NoRelationships></NoRelationships>
+  <!-- Kidnapped -->
+  <Kidnapped></Kidnapped>
+  <!-- Missing -->
+  <Missing></Missing>
+  <!-- Slave -->
+  <Slave></Slave>
+  <!-- Faction leader -->
+  <FactionLeader></FactionLeader>
+  <!-- Opinion of {0} -->
+  <OpinionOf></OpinionOf>
+  <!-- {0}'s opinion of me -->
+  <SomeonesOpinionOfMe></SomeonesOpinionOfMe>
+  <!-- I'm dead -->
+  <IAmDead></IAmDead>
+  <!-- I'm a psychopath -->
+  <IAmPsychopath></IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- Overall armor -->
+  <OverallArmor></OverallArmor>
+  <!-- Mass carried: {0} / {1} kg -->
+  <MassCarried></MassCarried>
+  <!-- Comfortable temperature range -->
+  <ComfyTemperatureRange></ComfyTemperatureRange>
+  <!-- Blunt -->
+  <ArmorBlunt></ArmorBlunt>
+  <!-- Sharp -->
+  <ArmorSharp></ArmorSharp>
+  <!-- Heat -->
+  <ArmorHeat></ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- Show all -->
+  <ShowAll></ShowAll>
+  <!-- Show combat -->
+  <ShowCombat></ShowCombat>
+  <!-- Show social -->
+  <ShowSocial></ShowSocial>
+  <!-- no recent entries -->
+  <NoRecentEntries></NoRecentEntries>
+  <!-- Copy log to the clipboard. -->
+  <CopyLogTip></CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals></FormingCaravanStatus_GatheringAnimals>
+  <!-- Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause></FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- Gathering items -->
+  <FormingCaravanStatus_GatheringItems></FormingCaravanStatus_GatheringItems>
+  <!-- Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause></FormingCaravanStatus_GatheringItems_Pause>
+  <!-- Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves></FormingCaravanStatus_GatheringSlaves>
+  <!-- Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause></FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- Leaving -->
+  <FormingCaravanStatus_Leaving></FormingCaravanStatus_Leaving>
+  <!-- Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause></FormingCaravanStatus_Leaving_Pause>
+  <!-- Waiting -->
+  <FormingCaravanStatus_Waiting></FormingCaravanStatus_Waiting>
+  <!-- Members -->
+  <CaravanMembers></CaravanMembers>
+  <!-- Animals -->
+  <CaravanAnimals></CaravanAnimals>
+  <!-- Items to load -->
+  <ItemsToLoad></ItemsToLoad>
+  <!-- Loaded items -->
+  <LoadedItems></LoadedItems>
+  <!-- pack animals -->
+  <PackAnimalsCountLower></PackAnimalsCountLower>
+  <!-- mentally broken -->
+  <InMentalStateCountLower></InMentalStateCountLower>
+
+</LanguageData>

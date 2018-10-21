@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- electricity -->
+  <Electricity.label></Electricity.label>
+  <!-- Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description></Electricity.description>
+
+  <!-- battery -->
+  <Batteries.label></Batteries.label>
+  <!-- Build batteries for storing electricity. -->
+  <Batteries.description></Batteries.description>
+
+  <!-- biofuel refining -->
+  <BiofuelRefining.label></BiofuelRefining.label>
+  <!-- Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description></BiofuelRefining.description>
+
+  <!-- waterproof conduit -->
+  <Waterproofing.label></Waterproofing.label>
+  <!-- Build underwater electrical conduits. -->
+  <Waterproofing.description></Waterproofing.description>
+
+  <!-- nutrient paste -->
+  <NutrientPaste.label></NutrientPaste.label>
+  <!-- Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description></NutrientPaste.description>
+
+  <!-- solar panel -->
+  <SolarPanels.label></SolarPanels.label>
+  <!-- Build solar panels for electricity generation. -->
+  <SolarPanels.description></SolarPanels.description>
+
+  <!-- air conditioning -->
+  <AirConditioning.label></AirConditioning.label>
+  <!-- Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description></AirConditioning.description>
+
+  <!-- autodoor -->
+  <Autodoors.label></Autodoors.label>
+  <!-- Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description></Autodoors.description>
+
+  <!-- hydroponics -->
+  <Hydroponics.label></Hydroponics.label>
+  <!-- Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description></Hydroponics.description>
+
+  <!-- electric smelting -->
+  <ElectricSmelting.label></ElectricSmelting.label>
+  <!-- Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items. -->
+  <ElectricSmelting.description></ElectricSmelting.description>
+
+  <!-- tube television -->
+  <TubeTelevision.label></TubeTelevision.label>
+  <!-- Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description></TubeTelevision.description>
+
+  <!-- packaged survival meal -->
+  <PackagedSurvivalMeal.label></PackagedSurvivalMeal.label>
+  <!-- Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description></PackagedSurvivalMeal.description>
+
+  <!-- electric cremation -->
+  <ElectricCremation.label></ElectricCremation.label>
+  <!-- Build crematoriums for vaporizing unwanted corpses. -->
+  <ElectricCremation.description></ElectricCremation.description>
+
+  <!-- colored lights -->
+  <ColoredLights.label></ColoredLights.label>
+  <!-- Construct colored lights for decorative purposes. -->
+  <ColoredLights.description></ColoredLights.description>
+
+  <!-- IEDs -->
+  <IEDs.label></IEDs.label>
+  <!-- Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description></IEDs.description>
+
+  <!-- geothermal power -->
+  <GeothermalPower.label></GeothermalPower.label>
+  <!-- Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description></GeothermalPower.description>
+
+  <!-- sterile materials -->
+  <SterileMaterials.label></SterileMaterials.label>
+  <!-- Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description></SterileMaterials.description>
+
+
+  <!--===================== Machining and its children sub-tier ======================-->
+
+  <!-- machining -->
+  <Machining.label></Machining.label>
+  <!-- Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description></Machining.description>
+
+  <!-- smokepop belts -->
+  <SmokepopBelt.label></SmokepopBelt.label>
+  <!-- Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description></SmokepopBelt.description>
+
+  <!-- prosthetics -->
+  <Prosthetics.label></Prosthetics.label>
+  <!-- Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description></Prosthetics.description>
+
+  <!-- gunsmithing -->
+  <Gunsmithing.label></Gunsmithing.label>
+  <!-- Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description></Gunsmithing.description>
+
+  <!-- flak armor -->
+  <FlakArmor.label></FlakArmor.label>
+  <!-- Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description></FlakArmor.description>
+
+  <!-- mortars -->
+  <Mortars.label></Mortars.label>
+  <!-- Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description></Mortars.description>
+
+  <!-- blowback operation -->
+  <BlowbackOperation.label></BlowbackOperation.label>
+  <!-- Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs. -->
+  <BlowbackOperation.description></BlowbackOperation.description>
+
+  <!-- gas operation -->
+  <GasOperation.label></GasOperation.label>
+  <!-- Craft high-power guns like chain shotguns and LMGs. -->
+  <GasOperation.description></GasOperation.description>
+
+  <!-- gun turrets -->
+  <GunTurrets.label></GunTurrets.label>
+  <!-- Produce simple automated gun turrets. -->
+  <GunTurrets.description></GunTurrets.description>
+
+  <!-- precision rifling -->
+  <PrecisionRifling.label></PrecisionRifling.label>
+  <!-- Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description></PrecisionRifling.description>
+
+  <!-- autocannon turret -->
+  <HeavyTurrets.label></HeavyTurrets.label>
+  <!-- Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description></HeavyTurrets.description>
+
+  <!-- multibarrel weapons -->
+  <MultibarrelWeapons.label></MultibarrelWeapons.label>
+  <!-- Assemble miniguns. -->
+  <MultibarrelWeapons.description></MultibarrelWeapons.description>
+
+  <!-- sniper turret -->
+  <SniperTurret.label></SniperTurret.label>
+  <!-- Produce the extremely long-ranged sniper cannon turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description></SniperTurret.description>
+
+
+</LanguageData>

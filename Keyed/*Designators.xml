@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Cancel -->
+  <DesignatorCancel></DesignatorCancel>
+  <!-- Cancel designated building, mining, hauling, harvesting, and all other designations. -->
+  <DesignatorCancelDesc></DesignatorCancelDesc>
+
+  <!-- Cut plants -->
+  <DesignatorCutPlants></DesignatorCutPlants>
+  <!-- Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
+  <DesignatorCutPlantsDesc></DesignatorCutPlantsDesc>
+
+  <!-- Deconstruct -->
+  <DesignatorDeconstruct></DesignatorDeconstruct>
+  <!-- Deconstruct this and reclaim part of its resources. -->
+  <DesignatorDeconstructDesc></DesignatorDeconstructDesc>
+
+  <!-- Uninstall -->
+  <DesignatorUninstall></DesignatorUninstall>
+  <!-- Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc></DesignatorUninstallDesc>
+
+  <!-- Harvest -->
+  <DesignatorHarvest></DesignatorHarvest>
+  <!-- Marks plants to be harvested for their food or other products. -->
+  <DesignatorHarvestDesc></DesignatorHarvestDesc>
+
+  <!-- Chop wood -->
+  <DesignatorHarvestWood></DesignatorHarvestWood>
+  <!-- Marks trees to be chopped down for wood. -->
+  <DesignatorHarvestWoodDesc></DesignatorHarvestWoodDesc>
+
+  <!-- Haul things -->
+  <DesignatorHaulThings></DesignatorHaulThings>
+  <!-- Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
+  <DesignatorHaulThingsDesc></DesignatorHaulThingsDesc>
+  <!-- Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables></MustHaulHaulables>
+
+  <!-- Hunt -->
+  <DesignatorHunt></DesignatorHunt>
+  <!-- Mark animals to be hunted by your hunters. -->
+  <DesignatorHuntDesc></DesignatorHuntDesc>
+
+  <!-- Mine -->
+  <DesignatorMine></DesignatorMine>
+  <!-- Designate areas of rock to be mined out. -->
+  <DesignatorMineDesc></DesignatorMineDesc>
+
+  <!-- Smooth surface -->
+  <DesignatorSmoothSurface></DesignatorSmoothSurface>
+  <!-- Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc></DesignatorSmoothSurfaceDesc>
+
+  <!-- Plan -->
+  <DesignatorPlan></DesignatorPlan>
+  <!-- Place planning designations. These don't do anything except help you plan future expansions. -->
+  <DesignatorPlanDesc></DesignatorPlanDesc>
+
+  <!-- Remove plans -->
+  <DesignatorPlanRemove></DesignatorPlanRemove>
+  <!-- Remove planning designations. -->
+  <DesignatorPlanRemoveDesc></DesignatorPlanRemoveDesc>
+
+  <!-- Forbid -->
+  <DesignatorForbid></DesignatorForbid>
+  <!-- Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc></DesignatorForbidDesc>
+
+  <!-- Unforbid -->
+  <DesignatorUnforbid></DesignatorUnforbid>
+  <!-- Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc></DesignatorUnforbidDesc>
+
+  <!-- Expand home area -->
+  <DesignatorAreaHomeExpand></DesignatorAreaHomeExpand>
+  <!-- Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc></DesignatorAreaHomeExpandDesc>
+  <!-- Clear home area -->
+  <DesignatorAreaHomeClear></DesignatorAreaHomeClear>
+  <!-- Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc></DesignatorAreaHomeClearDesc>
+
+  <!-- Build roof area -->
+  <DesignatorAreaBuildRoofExpand></DesignatorAreaBuildRoofExpand>
+  <!-- Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc></DesignatorAreaBuildRoofExpandDesc>
+
+  <!-- Remove roof area -->
+  <DesignatorAreaNoRoofExpand></DesignatorAreaNoRoofExpand>
+  <!-- Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc></DesignatorAreaNoRoofExpandDesc>
+
+  <!-- Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand></DesignatorAreaIgnoreRoofExpand>
+  <!-- Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc></DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- Expand snow clear area -->
+  <DesignatorAreaSnowClearExpand></DesignatorAreaSnowClearExpand>
+  <!-- Create a area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc></DesignatorAreaSnowClearExpandDesc>
+  <!-- Clear snow clear Area -->
+  <DesignatorAreaSnowClearClear></DesignatorAreaSnowClearClear>
+  <!-- Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc></DesignatorAreaSnowClearClearDesc>
+
+  <!-- Expand allowed area -->
+  <DesignatorExpandAreaAllowed></DesignatorExpandAreaAllowed>
+  <!-- Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc></DesignatorExpandAreaAllowedDesc>
+  <!-- Clear allowed area -->
+  <DesignatorClearAreaAllowed></DesignatorClearAreaAllowed>
+  <!-- Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc></DesignatorClearAreaAllowedDesc>
+  <!-- Manage areas... -->
+  <ManageAreas></ManageAreas>
+
+  <!-- Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc></DesignatorGrowingZoneDesc>
+
+  <!-- Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageResourcesDesc></DesignatorZoneCreateStorageResourcesDesc>
+
+  <!-- Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageDumpingDesc></DesignatorZoneCreateStorageDumpingDesc>
+
+  <!-- Shrink zones -->
+  <DesignatorZoneDelete></DesignatorZoneDelete>
+  <!-- Shrink zone -->
+  <DesignatorZoneDeleteSingular></DesignatorZoneDeleteSingular>
+  <!-- Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc></DesignatorZoneDeleteDesc>
+
+  <!-- Expand zone -->
+  <DesignatorZoneExpand></DesignatorZoneExpand>
+  
+  <!-- Claim -->
+  <DesignatorClaim></DesignatorClaim>
+  <!-- Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc></DesignatorClaimDesc>
+
+  <!-- Remove floor -->
+  <DesignatorRemoveFloor></DesignatorRemoveFloor>
+  <!-- Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc></DesignatorRemoveFloorDesc>
+
+  <!-- Remove bridge -->
+  <DesignatorRemoveBridge></DesignatorRemoveBridge>
+  <!-- Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc></DesignatorRemoveBridgeDesc>
+
+  <!-- Strip -->
+  <DesignatorStrip></DesignatorStrip>
+  <!-- Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc></DesignatorStripDesc>
+
+  <!-- Rearm trap -->
+  <DesignatorRearmTrap></DesignatorRearmTrap>
+  <!-- Rearm a sprung trap so it can be triggered again. -->
+  <DesignatorRearmTrapDesc></DesignatorRearmTrapDesc>
+
+  <!-- Open -->
+  <DesignatorOpen></DesignatorOpen>
+  <!-- Open containers. -->
+  <DesignatorOpenDesc></DesignatorOpenDesc>
+  
+  <!-- Slaughter -->
+  <DesignatorSlaughter></DesignatorSlaughter>
+  <!-- Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc></DesignatorSlaughterDesc>
+
+  <!-- Tame -->
+  <DesignatorTame></DesignatorTame>
+  <!-- Tame a wild animal. -->
+  <DesignatorTameDesc></DesignatorTameDesc>
+
+
+  <!-- Failure messages -->
+  <!-- Unchosen material -->
+  <UnchosenStuff></UnchosenStuff>
+  <!-- Too close to map edge. -->
+  <TooCloseToMapEdge></TooCloseToMapEdge>
+  <!-- Out of bounds. -->
+  <OutOfBounds></OutOfBounds>
+  <!-- Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered></CannotPlaceInUndiscovered>
+  <!-- Interaction spot is blocked by {0}. -->
+  <InteractionSpotBlocked></InteractionSpotBlocked>
+  <!-- Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds></InteractionSpotOutOfBounds>
+  <!-- Interaction spot will be blocked by {0}. -->
+  <InteractionSpotWillBeBlocked></InteractionSpotWillBeBlocked>
+  <!-- {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot></WouldBlockInteractionSpot>
+  <!-- The terrain here is already {0}. -->
+  <TerrainIsAlready></TerrainIsAlready>
+  <!-- The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed></SurfaceBeingSmoothed>
+  <!-- Identical thing already exists here. -->
+  <IdenticalThingExists></IdenticalThingExists>
+  <!-- Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists></IdenticalBlueprintExists>
+  <!-- The terrain here cannot support this. -->
+  <TerrainCannotSupport></TerrainCannotSupport>
+  <!-- Space already occupied. -->
+  <SpaceAlreadyOccupied></SpaceAlreadyOccupied>
+  <!-- Space being smoothed. -->
+  <SpaceBeingSmoothed></SpaceBeingSmoothed>
+  <!-- Must target a removable floor. -->
+  <TerrainMustBeRemovable></TerrainMustBeRemovable>
+  <!-- The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater></MustBeOnMovingWater>
+  
+  
+  <!-- Mouse attachments -->
+  <!-- Expand {0} or\nCreate new {1} -->
+  <ExpandOrCreateZone></ExpandOrCreateZone>
+  <!-- Create new {0} -->
+  <CreateNewZone></CreateNewZone>
+  
+  
+  <!-- Desc helpers -->
+  <!-- Transmits power -->
+  <TransmitsPower></TransmitsPower>
+  <!-- Construction needed -->
+  <ConstructionNeeded></ConstructionNeeded>
+  <!-- None of your {0} have this skill. -->
+  <NoColonistWithConstructionSkillTip></NoColonistWithConstructionSkillTip>
+  <!-- All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip></AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+
+</LanguageData>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- Manual priorities -->
+  <ManualPriorities></ManualPriorities>
+  <!-- higher priority -->
+  <HigherPriority></HigherPriority>
+  <!-- lower priority -->
+  <LowerPriority></LowerPriority>
+  <!-- Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <RelevantSkills></RelevantSkills>
+  <!-- Click to jump to: -->
+  <ClickToJumpTo></ClickToJumpTo>
+  <!-- {0} cannot do this kind of work. -->
+  <CannotDoThisWork></CannotDoThisWork>
+  <!-- (none) -->
+  <NoneBrackets></NoneBrackets>
+  <!-- This colonist is not able to do any work of this type because of his health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities></IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- E -->
+  <EmergencyWorkMarker></EmergencyWorkMarker>
+  <!-- Warning: the average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill></SelectedWorkTypeWithVeryBadSkill>
+  
+  <!-- Assign tab -->
+  <!-- Manage outfits -->
+  <ManageOutfits></ManageOutfits>
+  <!-- Clear forced -->
+  <ClearForcedApparel></ClearForcedApparel>
+  <!-- forced -->
+  <ApparelForcedLower></ApparelForcedLower>
+  <!-- Forced apparel -->
+  <ForcedApparel></ForcedApparel>
+  <!-- Edit... -->
+  <AssignTabEdit></AssignTabEdit>
+  <!-- Manage drug policies -->
+  <ManageDrugPolicies></ManageDrugPolicies>
+  
+  <!-- Restrictions tab -->
+  <!-- Copy -->
+  <Copy></Copy>
+  <!-- Paste -->
+  <Paste></Paste>
+  <!-- Allowed area -->
+  <AllowedArea></AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- Master -->
+  <Master></Master>
+  <!-- Pregnant ({0} / {1}) -->
+  <PregnantIconDesc></PregnantIconDesc>
+  <!-- Bonded to -->
+  <BondedTo></BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator></IsPredator>
+	
+  <!-- Factions tab -->
+  <!-- Hostile -->
+  <Hostile></Hostile>
+  <!-- Ally -->
+  <Ally></Ally>
+  <!-- defeated -->
+  <DefeatedLower></DefeatedLower>
+  <!-- Enemy of {0} -->
+  <HostileTo></HostileTo>
+  <!-- Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip></CurrentGoodwillTip>
+  <!-- This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy></CurrentGoodwillTip_PermanentEnemy>
+  <!-- This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally></CurrentGoodwillTip_Ally>
+  <!-- This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral></CurrentGoodwillTip_Neutral>
+  <!-- This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile></CurrentGoodwillTip_Hostile>
+  <!-- This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill></CurrentGoodwillTip_NaturalGoodwill>
+  
+  
+	<!-- Social tab -->
+ <!-- Friend -->
+ <Friend></Friend>
+ <!-- Rival -->
+ <Rival></Rival>
+ <!-- Acquaintance -->
+ <Acquaintance></Acquaintance>
+	
+  <!-- History tab - subtabs -->
+  <!-- Graph -->
+  <Graph></Graph>
+  <!-- Messages -->
+  <Messages></Messages>
+  <!-- Statistics -->
+  <Statistics></Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- Select graph -->
+  <SelectGraph></SelectGraph>
+  <!-- Last 30 days -->
+  <Last30Days></Last30Days>
+  <!-- Last 100 days -->
+  <Last100Days></Last100Days>
+  <!-- Last 300 days -->
+  <Last300Days></Last300Days>
+  <!-- All -->
+  <AllDays></AllDays>
+  <!-- Value -->
+  <Value></Value>
+  <!-- External -->
+  <External></External>
+
+  <!-- History tab - Messages -->
+  <!-- Show letters -->
+  <ShowLetters></ShowLetters>
+  <!-- Show messages -->
+  <ShowMessages></ShowMessages>
+  <!-- Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip></PinArchivableTip>
+  <!-- no messages -->
+  <NoMessages></NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- Play time -->
+  <Playtime></Playtime>
+  <!-- Storyteller -->
+  <Storyteller></Storyteller>
+  <!-- Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal></ThisMapColonyWealthTotal>
+  <!-- Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems></ThisMapColonyWealthItems>
+  <!-- Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings></ThisMapColonyWealthBuildings>
+  <!-- Colony wealth (animals) (this map) -->
+  <ThisMapColonyWealthTameAnimals></ThisMapColonyWealthTameAnimals>
+  <!-- Major threats -->
+  <NumThreatBigs></NumThreatBigs>
+  <!-- Enemy raids -->
+  <NumEnemyRaids></NumEnemyRaids>
+  <!-- Damage taken (this map) -->
+  <ThisMapDamageTaken></ThisMapDamageTaken>
+  <!-- Colonists killed -->
+  <ColonistsKilled></ColonistsKilled>
+  <!-- Colonists launched into space -->
+  <ColonistsLaunched></ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- project tech level -->
+  <ProjectTechLevel></ProjectTechLevel>
+  <!-- your tech level -->
+  <YourTechLevel></YourTechLevel>
+  <!-- cost multiplier -->
+  <ResearchCostMultiplier></ResearchCostMultiplier>
+  <!-- Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison></ResearchCostComparison>
+  
+</LanguageData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--================= player pawn filters =================-->
+
+  <!-- game start dialog -->
+  <GameStartDialog.label></GameStartDialog.label>
+
+
+  <!--================= player pawn filters =================-->
+
+  <!-- allowed age range -->
+  <PawnFilter_Age.label></PawnFilter_Age.label>
+
+
+  <!--================== player pawn modifier ================-->
+
+  <!-- characters explode on death -->
+  <OnPawnDeathExplode.label></OnPawnDeathExplode.label>
+  <!-- forced trait -->
+  <ForcedTrait.label></ForcedTrait.label>
+  <!-- forced health condition -->
+  <ForcedHediff.label></ForcedHediff.label>
+  <!-- naked -->
+  <Naked.label></Naked.label>
+  <!-- set need level -->
+  <SetNeedLevel.label></SetNeedLevel.label>
+  <!-- start with research -->
+  <StartingResearch.label></StartingResearch.label>
+  <!-- planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label></GameCondition_Planetkiller.label>
+
+  <!-- cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label></Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description></Rule_DisallowDesignator_ZoneAdd_Growing.description>
+
+  <!-- cannot mine -->
+  <Rule_DisallowDesignator_Mine.label></Rule_DisallowDesignator_Mine.label>
+  <!-- Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description></Rule_DisallowDesignator_Mine.description>
+
+  <!-- cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label></Rule_DisallowDesignator_Hunt.label>
+  <!-- Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description></Rule_DisallowDesignator_Hunt.description>
+
+  <!-- cannot tame -->
+  <Rule_DisallowDesignator_Tame.label></Rule_DisallowDesignator_Tame.label>
+  <!-- Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description></Rule_DisallowDesignator_Tame.description>
+
+  <!-- stat multiplier -->
+  <StatFactor.label></StatFactor.label>
+
+
+  <!--==================== grouped ==================-->
+
+  <!-- disable incident -->
+  <DisableIncident.label></DisableIncident.label>
+  <!-- create incident -->
+  <CreateIncident.label></CreateIncident.label>
+  <!-- disallow building -->
+  <Rule_DisallowBuilding.label></Rule_DisallowBuilding.label>
+  <!-- permanent game condition -->
+  <PermanentGameCondition.label></PermanentGameCondition.label>
+  <!-- start with animal(s) -->
+  <StartingAnimal.label></StartingAnimal.label>
+  <!-- start with -->
+  <StartingThing_Defined.label></StartingThing_Defined.label>
+  <!-- start near -->
+  <ScatterThingsNearPlayerStart.label></ScatterThingsNearPlayerStart.label>
+  <!-- scattered randomly -->
+  <ScatterThingsAnywhere.label></ScatterThingsAnywhere.label>
+
+
+</LanguageData>

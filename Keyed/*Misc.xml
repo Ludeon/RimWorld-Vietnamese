@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Autosaving -->
+  <Autosaving></Autosaving>
+  <!-- The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog></GameStartDialog>
+  <!-- Colony -->
+  <Colony></Colony>
+  <!-- You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu></ChangeLanguageFromMainMenu>
+  <!-- and -->
+  <AndLower></AndLower>
+  <!-- disabled -->
+  <DisabledLower></DisabledLower>
+
+
+  <!-- Version {0} -->
+  <VersionIndicator></VersionIndicator>
+  <!-- development build -->
+  <DevelopmentBuildLower></DevelopmentBuildLower>
+  <!-- Compiled {0} -->
+  <CompiledOn></CompiledOn>
+  <!-- Logged into Steam as {0} -->
+  <LoggedIntoSteamAs></LoggedIntoSteamAs>
+
+  <!-- General-use words -->
+  <!-- Yes -->
+  <Yes></Yes>
+  <!-- No -->
+  <No></No>
+  <!-- min -->
+  <min></min>
+  <!-- max -->
+  <max></max>
+  <!-- chance -->
+  <chance></chance>
+  <!-- context -->
+  <context></context>
+  <!-- multiplier -->
+  <multiplier></multiplier>
+  <!-- damage -->
+  <damage></damage>
+  <!-- radius -->
+  <radius></radius>
+  <!-- duration (days) -->
+  <durationDays></durationDays>
+  <!-- interval (days) -->
+  <intervalDays></intervalDays>
+  <!-- repeat -->
+  <repeat></repeat>
+ <!-- default -->
+ <default></default>
+ <!-- distance -->
+ <distance></distance>
+  <!-- YES -->
+  <YesUppercase></YesUppercase>
+  <!-- NO -->
+  <NoUppercase></NoUppercase>
+  <!-- kg -->
+  <kg></kg>
+  <!-- Day -->
+  <Day></Day>
+  <!-- day -->
+  <day></day>
+  <!-- Default -->
+  <Default></Default>
+  <!-- Average -->
+  <Average></Average>
+
+  <!-- Content generation-->
+  
+ <!-- {0} meat -->
+ <MeatLabel></MeatLabel>
+  <!-- Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc></MeatDesc>
+  <!-- Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc></MeatInsectDesc>
+  <!-- Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc></MeatHumanDesc>
+
+  <!-- {0} corpse -->
+  <CorpseLabel></CorpseLabel>
+ <!-- Dead body of a {0}. -->
+ <CorpseDesc></CorpseDesc>
+  <!-- {0} (dead) -->
+  <DeadLabel></DeadLabel>
+
+  <!-- rough {0} -->
+  <RoughStoneTerrainLabel></RoughStoneTerrainLabel>
+  <!-- Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc></RoughStoneTerrainDesc>
+  <!-- rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel></RoughHewnStoneTerrainLabel>
+  <!-- Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc></RoughHewnStoneTerrainDesc>
+  <!-- smooth {0} -->
+  <SmoothStoneTerrainLabel></SmoothStoneTerrainLabel>
+  <!-- Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc></SmoothStoneTerrainDesc>
+
+  <!--  (blueprint) -->
+  <BlueprintLabelExtra></BlueprintLabelExtra>
+  <!--  (building) -->
+  <FrameLabelExtra></FrameLabelExtra>
+
+  <!-- Unaffiliated -->
+  <FactionUnaffiliated></FactionUnaffiliated>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- {0} {1} -->
+  <ThingMadeOfStuffLabel></ThingMadeOfStuffLabel>
+
+  <!-- {0}'s {1} -->
+  <SomeonesRoom></SomeonesRoom>
+  <!-- {0} and {1}'s {2} -->
+  <CouplesRoom></CouplesRoom>
+  
+  <!-- (various) -->
+  <VariousLabel></VariousLabel>
+
+  <!-- History events -->
+  <!-- Colonist died -->
+  <ColonistDied></ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- North -->
+  <North></North>
+  <!-- South -->
+  <South></South>
+  <!-- West -->
+  <West></West>
+  <!-- East -->
+  <East></East>
+  
+  
+</LanguageData>

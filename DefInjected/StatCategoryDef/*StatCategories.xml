@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--================ General ================-->
+
+  <!-- Basics -->
+  <Basics.label></Basics.label>
+  <!-- Basics -->
+  <BasicsPawn.label></BasicsPawn.label>
+  <!-- Basics -->
+  <BasicsNonPawn.label></BasicsNonPawn.label>
+
+
+  <!--================ Non-pawn ================-->
+
+  <!-- Apparel -->
+  <Apparel.label></Apparel.label>
+  <!-- Weapon -->
+  <Weapon.label></Weapon.label>
+  <!-- Building -->
+  <Building.label></Building.label>
+
+
+  <!--=============== Virtual categories ==============-->
+
+  <!-- Offsets when equipped -->
+  <EquippedStatOffsets.label></EquippedStatOffsets.label>
+  <!-- Multipliers when made of this -->
+  <StuffStatFactors.label></StuffStatFactors.label>
+  <!-- Offsets when made of this -->
+  <StuffStatOffsets.label></StuffStatOffsets.label>
+  <!-- Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label></StuffOfEquipmentStatFactors.label>
+  <!-- Surgical -->
+  <Surgery.label></Surgery.label>
+
+
+  <!--================ Pawn ================-->
+
+  <!-- Combat -->
+  <PawnCombat.label></PawnCombat.label>
+  <!-- Social -->
+  <PawnSocial.label></PawnSocial.label>
+  <!-- Misc -->
+  <PawnMisc.label></PawnMisc.label>
+  <!-- Work -->
+  <PawnWork.label></PawnWork.label>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Note: You cannot reorder elements in this without destroying saved trainability data; see DefMap<>.ExposeData(). -->
+
+  <!-- obedience -->
+  <Obedience.label></Obedience.label>
+  <!-- The animal can be assigned a master who it will follow and defend. -->
+  <Obedience.description></Obedience.description>
+
+  <!-- release -->
+  <Release.label></Release.label>
+  <!-- The animal can be released to attack distant targets instead of just defending its master. -->
+  <Release.description></Release.description>
+
+  <!-- rescue -->
+  <Rescue.label></Rescue.label>
+  <!-- The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description></Rescue.description>
+
+  <!-- haul -->
+  <Haul.label></Haul.label>
+  <!-- The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description></Haul.description>
+
+  <!-- tameness -->
+  <Tameness.label></Tameness.label>
+  <!-- The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description></Tameness.description>
+
+
+</LanguageData>

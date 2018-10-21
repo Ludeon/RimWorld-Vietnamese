@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
+
+  <!-- surgical cut -->
+  <SurgicalCut.label></SurgicalCut.label>
+  <!-- {0} has died during surgery. -->
+  <SurgicalCut.deathMessage></SurgicalCut.deathMessage>
+
+
+  <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
+
+  <!-- execution cut -->
+  <ExecutionCut.label></ExecutionCut.label>
+  <!-- {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage></ExecutionCut.deathMessage>
+
+
+</LanguageData>

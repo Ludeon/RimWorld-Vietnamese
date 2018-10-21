@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- RulePacks included in various places but which are not global -->
+
+  <TribalWordUtility.rulePack.rulesFiles>
+    <!-- tribal_word_file->Words/Foreign/Tribal -->
+    <li></li>
+  </TribalWordUtility.rulePack.rulesFiles>
+  <TribalWordUtility.rulePack.rulesStrings>
+    <!-- WordTribal(p=3)->[tribal_word_file] -->
+    <li></li>
+    <!-- WordTribal(p=3)->[SylG][SylG] -->
+    <li></li>
+    <!-- WordTribal(p=2)->[SylG][SylG][SylG] -->
+    <li></li>
+    <!-- WordTribal->[SylG][SylG][SylG][SylG] -->
+    <li></li>
+  </TribalWordUtility.rulePack.rulesStrings>
+
+  <OutlanderPlaceNameUtility.rulePack.rulesFiles>
+    <!-- place_end->WordParts/PlaceEndings -->
+    <li></li>
+  </OutlanderPlaceNameUtility.rulePack.rulesFiles>
+  <OutlanderPlaceNameUtility.rulePack.rulesStrings>
+    <!-- PlaceOutlander->[SylE][place_end] -->
+    <li></li>
+    <!-- PlaceOutlander->[SylE][place_end] -->
+    <li></li>
+    <!-- PlaceOutlander->[SylE][place_end] -->
+    <li></li>
+    <!-- PlaceOutlander->[SylE][SylE][place_end] -->
+    <li></li>
+    <!-- PlaceOutlander->[SylE][SylE][place_end] -->
+    <li></li>
+    <!-- PlaceOutlander->[SylE][SylE][SylE][place_end] -->
+    <li></li>
+  </OutlanderPlaceNameUtility.rulePack.rulesStrings>
+
+
+</LanguageData>

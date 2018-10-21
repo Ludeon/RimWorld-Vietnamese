@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Tool -->
+  <Tool></Tool>
+  <!-- damage -->
+  <DamageLower></DamageLower>
+  <!-- seconds per attack -->
+  <SecondsPerAttackLower></SecondsPerAttackLower>
+
+  <!-- Base value -->
+  <StatsReport_BaseValue></StatsReport_BaseValue>
+  <!-- Relevant traits -->
+  <StatsReport_RelevantTraits></StatsReport_RelevantTraits>
+  <!-- Relevant gear -->
+  <StatsReport_RelevantGear></StatsReport_RelevantGear>
+  <!-- Relevant health conditions -->
+  <StatsReport_RelevantHediffs></StatsReport_RelevantHediffs>
+  <!-- Life stage -->
+  <StatsReport_LifeStage></StatsReport_LifeStage>
+  <!-- Material -->
+  <StatsReport_Material></StatsReport_Material>
+  <!-- Character quality -->
+  <StatsReport_CharacterQuality></StatsReport_CharacterQuality>
+  <!-- Skills -->
+  <StatsReport_Skills></StatsReport_Skills>
+  <!-- Other stats -->
+  <StatsReport_OtherStats></StatsReport_OtherStats>
+ <!-- Health -->
+ <StatsReport_Health></StatsReport_Health>
+ <!-- {0} importance -->
+ <HealthFactorPercentImpact></HealthFactorPercentImpact>
+ <!-- {0} impact -->
+ <HealthOffsetScale></HealthOffsetScale>
+ <!-- {0} max -->
+ <HealthFactorMaxImpact></HealthFactorMaxImpact>
+  <!-- if below {0} -->
+  <HealthFactorAllowedDefect></HealthFactorAllowedDefect>
+ <!-- Post-process curve -->
+ <StatsReport_PostProcessed></StatsReport_PostProcessed>
+  <!-- Final value -->
+  <StatsReport_FinalValue></StatsReport_FinalValue>
+  <!-- Base market value calculated is from construction materials and work amount. -->
+  <StatsReport_MarketValueFromStuffsAndWork></StatsReport_MarketValueFromStuffsAndWork>
+  <!-- Quality multiplier -->
+  <StatsReport_QualityMultiplier></StatsReport_QualityMultiplier>
+  <!-- Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier></StatsReport_AgeMultiplier>
+  <!-- Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier></StatsReport_HealthMultiplier>
+  <!-- Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier></StatsReport_MoodMultiplier>
+ <!-- Multiplier for light {0} -->
+ <StatsReport_LightMultiplier></StatsReport_LightMultiplier>
+ <!-- Multiplier for difficulty {0} -->
+ <StatsReport_DifficultyMultiplier></StatsReport_DifficultyMultiplier>
+  <!-- In bed -->
+  <StatsReport_InBed></StatsReport_InBed>
+  <!-- Facilities -->
+  <StatsReport_Facilities></StatsReport_Facilities>
+  <!-- Multiplier for body size {0} -->
+  <StatsReport_BodySize></StatsReport_BodySize>
+  <!-- DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation></StatsReport_MeleeDPSExplanation>
+  <!-- Melee damage -->
+  <StatsReport_MeleeDamage></StatsReport_MeleeDamage>
+  <!-- Cooldown -->
+  <StatsReport_Cooldown></StatsReport_Cooldown>
+  <!-- Melee hit chance -->
+  <StatsReport_MeleeHitChance></StatsReport_MeleeHitChance>
+  <!-- {0} s -->
+  <StatsReport_CooldownFormat></StatsReport_CooldownFormat>
+  <!-- Life expectancy -->
+  <StatsReport_LifeExpectancy></StatsReport_LifeExpectancy>
+  <!-- Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts></StatsReport_MissingBodyParts>
+  <!-- Gear and inventory -->
+  <StatsReport_GearAndInventoryMass></StatsReport_GearAndInventoryMass>
+ <!-- Multiplier for worn by corpse -->
+ <StatsReport_WornByCorpse></StatsReport_WornByCorpse>
+ <!-- average of all attacks -->
+ <AverageOfAllAttacks></AverageOfAllAttacks>
+ <!-- Scenario -->
+ <StatsReport_ScenarioFactor></StatsReport_ScenarioFactor>
+  <!-- Ingredients -->
+  <StatsReport_IngredientsMass></StatsReport_IngredientsMass>
+  <!-- Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled></StatsReport_PermanentlyDisabled>
+  <!-- {0} -->
+  <StatsReport_Inspiration></StatsReport_Inspiration>
+  <!-- Added body parts -->
+  <StatsReport_AddedBodyPartsMass></StatsReport_AddedBodyPartsMass>
+  <!-- Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier></StatsReport_StuffEffectMultiplier>
+  <!-- Resting -->
+  <StatsReport_Resting></StatsReport_Resting>
+  <!-- recreation type -->
+  <StatsReport_JoyKind></StatsReport_JoyKind>
+  <!-- work to uninstall -->
+  <StatsReport_WorkToUninstall></StatsReport_WorkToUninstall>
+  <!-- Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth></StatsReport_PlantGrowth>
+  <!-- scaled because wild -->
+  <StatsReport_PlantGrowth_Wild></StatsReport_PlantGrowth_Wild>
+  <!-- Not flesh -->
+  <StatsReport_NotFlesh></StatsReport_NotFlesh>
+  <!-- Not fresh -->
+  <StatsReport_NotFresh></StatsReport_NotFresh>
+  <!-- Wild man -->
+  <StatsReport_WildMan></StatsReport_WildMan>
+
+</LanguageData>

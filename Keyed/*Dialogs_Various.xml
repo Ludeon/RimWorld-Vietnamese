@@ -1,0 +1,818 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Confirm -->
+  <Confirm></Confirm>
+  <!-- Go back -->
+  <GoBack></GoBack>
+  <!-- OK -->
+  <OK></OK>
+  <!-- Close -->
+  <Close></Close>
+  
+  <!-- Game updated to new version -->
+  <!-- RimWorld has been updated from version {0} to version {1}. -->
+  <GameUpdatedToNewVersionInitial></GameUpdatedToNewVersionInitial>
+  <!-- This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible></GameUpdatedToNewVersionSavesIncompatible>
+  <!-- Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible></GameUpdatedToNewVersionSavesCompatible>
+  <!-- Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
+  <GameUpdatedToNewVersionNonSteam></GameUpdatedToNewVersionNonSteam>
+  <!-- If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
+  <GameUpdatedToNewVersionSteam></GameUpdatedToNewVersionSteam>
+  
+  <!-- Recovered from errors caused by mods -->
+  <!-- Recovered from incompatible or corrupted mods errors -->
+  <RecoveredFromErrorsDialogTitle></RecoveredFromErrorsDialogTitle>
+  <!-- It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
+  <RecoveredFromErrorsText></RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <!-- Error while loading assets -->
+  <ErrorWhileLoadingAssetsTitle></ErrorWhileLoadingAssetsTitle>
+  <!-- An error occurred while loading game assets. See error log for more information. -->
+  <ErrorWhileLoadingAssets></ErrorWhileLoadingAssets>
+  <!-- The game is currently running with custom mods - they may or may not cause these problems. -->
+  <ErrorWhileLoadingAssets_ModsInfo></ErrorWhileLoadingAssets_ModsInfo>
+  <!-- Error while generating a map -->
+  <ErrorWhileGeneratingMapTitle></ErrorWhileGeneratingMapTitle>
+  <!-- An error occurred while generating a new map. See error log for more information. -->
+  <ErrorWhileGeneratingMap></ErrorWhileGeneratingMap>
+  <!-- Error while loading a map -->
+  <ErrorWhileLoadingMapTitle></ErrorWhileLoadingMapTitle>
+  <!-- An error occurred while loading a map. See error log for more information. -->
+  <ErrorWhileLoadingMap></ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <!-- The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged></ModsChanged>
+  <!-- Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart></FailedToRestart>
+  <!-- Restarting -->
+  <Restarting></Restarting>
+  
+  <!-- Missing Steam -->
+  <!-- Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
+  <SteamClientMissing></SteamClientMissing>
+  
+  <!-- Long events -->
+  <!-- Initializing interface -->
+  <InitializingInterface></InitializingInterface>
+  <!-- Unloading unused assets -->
+  <UnloadingUnusedAssets></UnloadingUnusedAssets>
+  <!-- Loading all active mods -->
+  <LoadingAllActiveMods></LoadingAllActiveMods>
+  <!-- Loading defs -->
+  <LoadingDefs></LoadingDefs>
+  <!-- Loading assets -->
+  <LoadingAssets></LoadingAssets>
+  <!-- Initializing -->
+  <Initializing></Initializing>
+  <!-- Loading world -->
+  <LoadingWorld></LoadingWorld>
+  <!-- Loading map -->
+  <LoadingMap></LoadingMap>
+  <!-- Initializing game -->
+  <InitializingGame></InitializingGame>
+  <!-- Spawning things -->
+  <SpawningAllThings></SpawningAllThings>
+  <!-- Spawning colonists -->
+  <SpawningColonists></SpawningColonists>
+  
+  <!-- Save/load -->
+  <!-- Save -->
+  <SaveGameButton></SaveGameButton>
+  <!-- Load -->
+  <LoadGameButton></LoadGameButton>
+  <!-- Overwrite -->
+  <OverwriteButton></OverwriteButton>
+  <!-- Really delete {0}? -->
+  <ConfirmDelete></ConfirmDelete>
+  <!-- Delete this savegame. -->
+  <DeleteThisSavegame></DeleteThisSavegame>
+  <!-- Saved as {0}. -->
+  <SavedAs></SavedAs>
+  <!-- Please enter a name. -->
+  <NeedAName></NeedAName>
+  <!-- Loading -->
+  <LoadingLongEvent></LoadingLongEvent>
+  <!-- Saving -->
+  <SavingLongEvent></SavingLongEvent>
+  <!-- (Permadeath) -->
+  <PermadeathModeSaveSuffix></PermadeathModeSaveSuffix>
+  <!-- We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion></SaveIsFromDifferentGameVersion>
+  <!-- We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild></SaveIsFromDifferentGameBuild>
+  <!-- Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild></SaveIsFromThisGameBuild>
+  <!-- Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat></SaveIsUnknownFormat>
+  <!-- There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile></ProblemSavingFile>
+  <!-- Load anyway -->
+  <LoadAnyway></LoadAnyway>
+  <!-- Load mod list from save -->
+  <ChangeLoadedMods></ChangeLoadedMods>
+  <!-- Some mods are unavailable, and need to be installed -->
+  <MissingMods></MissingMods>
+  
+  <!-- Player faction naming -->
+  <!-- {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage></NamePlayerFactionMessage>
+  <!-- Your faction is now known as {0}. -->
+  <PlayerFactionGainsName></PlayerFactionGainsName>
+  <!-- That name isn't valid. -->
+  <PlayerFactionNameIsInvalid></PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <!-- Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called? -->
+  <NamePlayerFactionBaseMessage></NamePlayerFactionBaseMessage>
+  <!-- This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName></PlayerFactionBaseGainsName>
+  <!-- That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid></PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation></NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName></PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <!-- Please enter a valid name. -->
+  <NameIsInvalid></NameIsInvalid>
+  <!-- Name is already in use. -->
+  <NameIsInUse></NameIsInUse>
+  <!-- The zone is now called {0}. -->
+  <ZoneGainsName></ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <!-- This person's nickname is now {0}. [PAWN_possessive] title is {1}. -->
+  <PawnGainsName></PawnGainsName>
+  <!-- The animal's name is now {0}. -->
+  <AnimalGainsName></AnimalGainsName>
+
+  <!-- Save game incompatible warning -->
+  <!-- Version mismatch -->
+  <VersionMismatch></VersionMismatch>
+  <!-- This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText></SaveGameIncompatibleWarningText>
+  <!-- World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch></WorldFileVersionMismatch>
+  <!-- This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning></FileIncompatibleWarning>
+  <!-- Mods mismatch -->
+  <ModsMismatchWarningTitle></ModsMismatchWarningTitle>
+  <!-- This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <ModsMismatchWarningText></ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <!-- You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
+  <ConfirmResolutionChange></ConfirmResolutionChange>
+  <!-- Keep -->
+  <ResolutionKeep></ResolutionKeep>
+  <!-- Revert -->
+  <ResolutionRevert></ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- Do you really want to permanently disable development mode on this computer? -->
+  <ConfirmPermanentlyDisableDevMode></ConfirmPermanentlyDisableDevMode>
+
+  <!-- Research -->
+  <!-- Research -->
+  <Research></Research>
+  <!-- Researched -->
+  <Researched></Researched>
+  <!-- Unresearched -->
+  <Unresearched></Unresearched>
+  <!-- Finished -->
+  <Finished></Finished>
+  <!-- In Progress -->
+  <InProgress></InProgress>
+  <!-- Locked -->
+  <Locked></Locked>
+  <!-- Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
+  <ResearchMenuWithoutBench></ResearchMenuWithoutBench>
+  <!-- Research prerequisites -->
+  <ResearchPrerequisites></ResearchPrerequisites>
+  <!-- Required research bench -->
+  <RequiredResearchBench></RequiredResearchBench>
+  <!-- Required research bench facilities -->
+  <RequiredResearchBenchFacilities></RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <!-- Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
+  <MapTemperatureDangerWarning></MapTemperatureDangerWarning>
+  <!-- The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning></MapSizePerformanceWarning>
+  <!-- Map size -->
+  <MapSize></MapSize>
+  <!-- {0}x{0} ({1} cells) -->
+  <MapSizeDesc></MapSizeDesc>
+  <!-- Small -->
+  <MapSizeSmall></MapSizeSmall>
+  <!-- Medium -->
+  <MapSizeMedium></MapSizeMedium>
+  <!-- Large -->
+  <MapSizeLarge></MapSizeLarge>
+  <!-- Extreme (test) -->
+  <MapSizeExtreme></MapSizeExtreme>
+  <!-- Starting season -->
+  <MapStartSeason></MapStartSeason>
+  <!-- Auto -->
+  <MapStartSeasonDefault></MapStartSeasonDefault>
+  <!-- Notice -->
+  <Notice></Notice>
+  <!-- Permadeath mode -->
+  <PermadeathMode></PermadeathMode>
+  <!-- In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact. -->
+  <PermadeathModeInfo></PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <!-- Suspended -->
+  <Suspended></Suspended>
+  <!-- Not suspended -->
+  <NotSuspended></NotSuspended>
+  <!-- SUSPENDED -->
+  <SuspendedAllCaps></SuspendedAllCaps>
+  <!-- Repeat: -->
+  <RepeatCount></RepeatCount>
+  <!-- Forever -->
+  <Forever></Forever>
+ <!-- Details -->
+ <Details></Details>
+  <!-- Ingredient radius -->
+  <IngredientSearchRadius></IngredientSearchRadius>
+  <!-- Currently have -->
+  <CurrentlyHave></CurrentlyHave>
+  <!-- Counting -->
+  <CountingProducts></CountingProducts>
+  <!-- Infinite -->
+  <Infinite></Infinite>
+  <!-- Allowed {0} skill: -->
+  <AllowedSkillRange></AllowedSkillRange>
+  <!-- incompatible -->
+  <IncompatibleLower></IncompatibleLower>
+  <!-- Any worker -->
+  <AnyWorker></AnyWorker>
+  <!-- Unlimited -->
+  <Unlimited></Unlimited>
+  
+  <!-- (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
+  <RecipeCannotHaveTargetCount></RecipeCannotHaveTargetCount>
+  <!-- Work amount -->
+  <WorkAmount></WorkAmount>
+  <!-- Minimum skills: -->
+  <MinimumSkills></MinimumSkills>
+  <!-- Requires {0} {1} -->
+  <BillRequires></BillRequires>
+  <!-- Requires {0} nutrition -->
+  <BillRequiresNutrition></BillRequiresNutrition>
+  <!-- Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary></BillRequiresMayVary>
+  <!-- This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume></ThisIsSmallVolume>
+  <!-- ingredients -->
+  <UsableIngredients></UsableIngredients>
+  <!-- To {0} -->
+  <BillRepeatTargetCountShort></BillRepeatTargetCountShort>
+
+  <!-- Pause when satisfied -->
+  <PauseWhenSatisfied></PauseWhenSatisfied>
+  <!-- Unpause at -->
+  <UnpauseWhenYouHave></UnpauseWhenYouHave>
+  <!-- Paused -->
+  <Paused></Paused>
+  <!-- Unpause -->
+  <Unpause></Unpause>
+
+  <!-- Count equipped -->
+  <IncludeEquipped></IncludeEquipped>
+  <!-- Count tainted -->
+  <IncludeTainted></IncludeTainted>
+  <!-- Only allowed ingredients -->
+  <LimitToAllowedStuff></LimitToAllowedStuff>
+  <!-- Look everywhere -->
+  <IncludeFromAll></IncludeFromAll>
+  <!-- Look in {0} -->
+  <IncludeSpecific></IncludeSpecific>
+  
+  <!-- Info card -->
+  <!-- Damage -->
+  <Damage></Damage>
+  <!-- Armor penetration -->
+  <ArmorPenetration></ArmorPenetration>
+  <!-- Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation></ArmorPenetrationExplanation>
+  <!-- Accuracy -->
+  <Accuracy></Accuracy>
+  <!-- Burst shot count -->
+  <BurstShotCount></BurstShotCount>
+  <!-- Warmup -->
+  <WarmupTime></WarmupTime>
+  <!-- Melee warmup -->
+  <MeleeWarmupTime></MeleeWarmupTime>
+  <!-- Cooldown -->
+  <CooldownTime></CooldownTime>
+  <!-- Fire rate -->
+  <BurstShotFireRate></BurstShotFireRate>
+  <!-- Range -->
+  <Range></Range>
+  <!-- Stopping power -->
+  <StoppingPower></StoppingPower>
+  <!-- Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation></StoppingPowerExplanation>
+  <!-- Direct hit chance -->
+  <DirectHitChance></DirectHitChance>
+  <!-- Miss radius -->
+  <MissRadius></MissRadius>
+  <!-- Grows wild -->
+  <GrowsWild></GrowsWild>
+  <!-- Harvestable -->
+  <Harvestable></Harvestable>
+  <!-- Limited lifespan -->
+  <LimitedLifespan></LimitedLifespan>
+  <!-- Growing time -->
+  <GrowingTime></GrowingTime>
+  <!-- Harvest yield -->
+  <HarvestYield></HarvestYield>
+  <!-- Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <GrowingTimeDesc></GrowingTimeDesc>
+  <!-- days -->
+  <Days></Days>
+  <!-- Minimum growing skill to sow -->
+  <MinGrowingSkillToSow></MinGrowingSkillToSow>
+  <!-- Fertility requirement -->
+  <FertilityRequirement></FertilityRequirement>
+  <!-- Fertility sensitivity -->
+  <FertilitySensitivity></FertilitySensitivity>
+  <!-- Light requirement -->
+  <LightRequirement></LightRequirement>
+  <!-- Attributes -->
+  <Attributes></Attributes>
+  <!-- Lifespan -->
+  <LifeSpan></LifeSpan>
+  <!-- Nutrition -->
+  <Nutrition></Nutrition>
+  <!-- Recreation -->
+  <Joy></Joy>
+  <!-- Food quality -->
+  <FoodQuality></FoodQuality>
+  <!-- Walk speed -->
+  <WalkSpeedProperty></WalkSpeedProperty>
+  <!-- Min. food quality -->
+  <MinFoodQuality></MinFoodQuality>
+  <!-- Diet -->
+  <Diet></Diet>
+  <!-- Leather type -->
+  <LeatherType></LeatherType>
+ <!-- Body size -->
+ <BodySize></BodySize>
+  <!-- Recruit difficulty -->
+  <RecruitDifficulty></RecruitDifficulty>
+  <!-- Base price -->
+  <MarketValue></MarketValue>
+  <!-- Covers -->
+  <Covers></Covers>
+  <!-- Layer -->
+  <Layer></Layer>
+  <!-- Cover effectiveness -->
+  <CoverEffectiveness></CoverEffectiveness>
+  <!-- How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <CoverEffectivenessExplanation></CoverEffectivenessExplanation>
+  <!-- Experience gain factor -->
+  <MedicineXpGainFactor></MedicineXpGainFactor>
+  <!-- Mood change -->
+  <MoodChange></MoodChange>
+  <!-- Wildness -->
+  <Wildness></Wildness>
+  <!-- Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation></WildnessExplanation>
+  <!-- Training decay interval -->
+  <TrainingDecayInterval></TrainingDecayInterval>
+  <!-- Tameness will never decay. -->
+  <TamenessWillNotDecay></TamenessWillNotDecay>
+  <!-- Animal filth rate -->
+  <AnimalFilthRate></AnimalFilthRate>
+  <!-- Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation></AnimalFilthRateExplanation>
+  <!-- Time -->
+  <TimeRecordsCategory></TimeRecordsCategory>
+  <!-- Misc -->
+  <MiscRecordsCategory></MiscRecordsCategory>
+  <!-- Addictiveness -->
+  <Addictiveness></Addictiveness>
+ <!-- Pack animal -->
+ <PackAnimal></PackAnimal>
+ <!-- Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+ <PackAnimalExplanation></PackAnimalExplanation>
+  <!-- Skill -->
+  <Skill></Skill>
+  <!-- Success rate multiplier -->
+  <SurgerySuccessChanceFactor></SurgerySuccessChanceFactor>
+  <!-- Requires bed -->
+  <SurgeryRequireBed></SurgeryRequireBed>
+  <!-- Work speed governed by -->
+  <WorkSpeedStat></WorkSpeedStat>
+  <!-- Output quantity governed by -->
+  <EfficiencyStat></EfficiencyStat>
+  <!-- Construction skill required -->
+  <ConstructionSkillRequired></ConstructionSkillRequired>
+  <!-- Requires this level of Construction in order to build. -->
+  <ConstructionSkillRequiredExplanation></ConstructionSkillRequiredExplanation>
+  <!-- Nuzzle interval -->
+  <NuzzleInterval></NuzzleInterval>
+  <!-- How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation></NuzzleIntervalExplanation>
+  <!-- Revenge chance on harm -->
+  <HarmedRevengeChance></HarmedRevengeChance>
+  <!-- The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation></HarmedRevengeChanceExplanation>
+  <!-- Revenge chance on tame fail -->
+  <TameFailedRevengeChance></TameFailedRevengeChance>
+  <!-- Terrain requirement -->
+  <TerrainRequirement></TerrainRequirement>
+  <!-- Supports -->
+  <Supports></Supports>
+
+  <!-- Trade -->
+  <!-- Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells></PositiveBuysNegativeSells>
+  <!-- Price you pay to buy this. -->
+  <BuyPriceDesc></BuyPriceDesc>
+  <!-- Price you receive for selling this. -->
+  <SellPriceDesc></SellPriceDesc>
+  <!-- For this item, this price is {0}. -->
+  <PriceTypeDesc></PriceTypeDesc>
+  <!-- How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
+  <ColonyCount></ColonyCount>
+  <!-- How many of this item the trader has to trade. -->
+  <TraderCount></TraderCount>
+  <!-- Accept -->
+  <AcceptButton></AcceptButton>
+  <!-- Reset -->
+  <ResetButton></ResetButton>
+  <!-- Cancel -->
+  <CancelButton></CancelButton>
+  <!-- Close -->
+  <CloseButton></CloseButton>
+  <!-- Your tradeable silver: {0} -->
+  <YourTradeableSilver></YourTradeableSilver>
+ <!-- You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+ <YourTradeableSilverTip></YourTradeableSilverTip>
+  <!-- Trader has no more. -->
+  <TraderHasNoMore></TraderHasNoMore>
+  <!-- No more to sell. -->
+  <ColonyHasNoMore></ColonyHasNoMore>
+  <!-- Trader is not willing to buy this. -->
+  <TraderWillNotTrade></TraderWillNotTrade>
+  <!-- Negotiator -->
+  <Negotiator></Negotiator>
+  <!-- Your negotiator {0} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired></NegotiatorTalkingImpaired>
+  <!-- Your negotiator {0} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired></NegotiatorHearingImpaired>
+  <!-- This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired></NegotiatorCapacityImpaired>
+  <!-- Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds></ConfirmTraderShortFunds>
+  <!-- Sort by -->
+  <SortBy></SortBy>
+ <!-- trader type -->
+ <TraderTypePrice></TraderTypePrice>
+ <!-- selling -->
+ <Selling></Selling>
+ <!-- buying -->
+ <Buying></Buying>
+ <!-- item sell price multiplier -->
+ <ItemSellPriceFactor></ItemSellPriceFactor>
+ <!-- difficulty level -->
+ <DifficultyLevel></DifficultyLevel>
+ <!-- global post-process curve -->
+ <PostCurve></PostCurve>
+ <!-- Your negotiator bonus -->
+ <YourNegotiatorBonus></YourNegotiatorBonus>
+ <!-- Trading with faction base bonus -->
+ <TradeWithFactionBaseBonus></TradeWithFactionBaseBonus>
+ <!-- minimum -->
+ <minimum></minimum>
+ <!-- Final price -->
+ <FinalPrice></FinalPrice>
+  <!-- Gift mode - offer gifts to {0}. -->
+  <GiftModeTip></GiftModeTip>
+  <!-- Return to trade mode. -->
+  <TradeModeTip></TradeModeTip>
+
+  <!-- Sellable items -->
+  <!-- Things this trader will buy -->
+  <SellableItemsTitle></SellableItemsTitle>
+  <!-- Creatures -->
+  <PawnsTabShort></PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <!-- Form caravan -->
+  <FormCaravan></FormCaravan>
+  <!-- Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip></FormCaravanColonyThingCountTip>
+  <!-- People and animals -->
+  <PawnsTab></PawnsTab>
+  <!-- Items -->
+  <ItemsTab></ItemsTab>
+  <!-- You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist></CaravanMustHaveAtLeastOneColonist>
+  <!-- The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot></CaravanCouldNotFindExitSpot>
+  <!-- Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot></CaravanCouldNotFindPackingSpot>
+  <!-- Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot></CaravanCouldNotFindReachableExitSpot>
+  <!-- {0} is unreachable by any of the assigned colonists. -->
+  <CaravanPawnIsUnreachable></CaravanPawnIsUnreachable>
+  <!-- None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle></CaravanItemIsUnreachableSingle>
+  <!-- None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti></CaravanItemIsUnreachableMulti>
+  <!-- The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage></TooBigCaravanMassUsage>
+  <!-- Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip></CaravanMassUsageTooltip>
+  <!-- Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip></CaravanVisibilityTip>
+  <!-- Days of food -->
+  <DaysWorthOfFood></DaysWorthOfFood>
+  <!-- rot in {0} -->
+  <DaysWorthOfFoodInfoRot></DaysWorthOfFoodInfoRot>
+  <!-- Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo></InfiniteDaysWorthOfFoodInfo>
+  <!-- The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip></DaysWorthOfFoodTooltip>
+  <!-- \n(only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint></DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog></DaysWorthOfFoodWarningDialog>
+  <!-- Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood></DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip></ForagedFoodPerDayTip>
+  <!-- Forage per day -->
+  <ForagedFoodPerDay></ForagedFoodPerDay>
+  <!-- A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog></CaravanFoodWillRotSoonWarningDialog>
+  <!-- You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial></CaravanIncapableOfSocial>
+  <!-- Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure></CaravanAreYouSure>
+  <!-- You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst></MessageMustChooseRouteFirst>
+  <!-- Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile></MessageNoValidExitTile>
+  <!-- Weight of this item. -->
+  <ItemWeightTip></ItemWeightTip>
+  <!-- Market value -->
+  <MarketValueTip></MarketValueTip>
+  <!-- The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip></DaysUntilRotTip>
+  <!-- How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip></ItemNutritionTip>
+  <!-- This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip></AnimalCanGrazeTip>
+  <!-- Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip></NutritionForagedPerDayTip>
+  <!-- Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip></NutritionEatenPerDayTip>
+  <!-- Mass carried -->
+  <MassCarriedSimple></MassCarriedSimple>
+  <!-- Mass capacity -->
+  <MassCapacity></MassCapacity>
+  <!-- Mass -->
+  <Mass></Mass>
+  <!-- Equipment and apparel mass -->
+  <EquipmentAndApparelMass></EquipmentAndApparelMass>
+  <!-- Inventory mass -->
+  <InventoryMass></InventoryMass>
+  <!-- Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted></CaravanFormationProcessStarted>
+  <!-- Reform caravan -->
+  <ReformCaravan></ReformCaravan>
+  <!-- Colonists -->
+  <ColonistsSection></ColonistsSection>
+  <!-- Prisoners -->
+  <PrisonersSection></PrisonersSection>
+  <!-- Capture -->
+  <CaptureSection></CaptureSection>
+  <!-- Animals -->
+  <AnimalsSection></AnimalsSection>
+  <!-- Choose route -->
+  <ChooseRouteButton></ChooseRouteButton>
+  <!-- Abandon -->
+  <AbandonButton></AbandonButton>
+  <!-- Movement speed -->
+  <CaravanMovementSpeed></CaravanMovementSpeed>
+  <!-- tiles/day -->
+  <TilesPerDay></TilesPerDay>
+  <!-- Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip></CaravanMovementSpeedTip>
+  <!-- Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze></AnimalsWillBeAbleToGraze>
+  <!-- Animals can graze -->
+  <AnimalsCanGraze></AnimalsCanGraze>
+  <!-- (for {0} more days) -->
+  <PossibleToGrazeFor></PossibleToGrazeFor>
+  <!-- (forever) -->
+  <PossibleToGrazeForever></PossibleToGrazeForever>
+  <!-- ({0}) -->
+  <CantGrazeBecauseOfBiome></CantGrazeBecauseOfBiome>
+  <!-- (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp></CantGrazeBecauseOfTemp>
+  <!-- Total nutrition -->
+  <TotalNutrition></TotalNutrition>
+  <!-- Not moving -->
+  <CaravanNotMoving></CaravanNotMoving>
+  <!-- Foraged nutrition per day -->
+  <ForagedNutritionPerDay></ForagedNutritionPerDay>
+  <!-- Faction type -->
+  <FactionType></FactionType>
+  <!-- Total body size -->
+  <TotalBodySize></TotalBodySize>
+
+  <!-- Split caravan -->
+  <!-- Split caravan -->
+  <SplitCaravan></SplitCaravan>
+  <!-- You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist></SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip></SplitCaravanThingCountTip>
+  
+  <!-- Load transporters -->
+  <!-- Load {0} -->
+  <LoadTransporters></LoadTransporters>
+  <!-- The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage></TooBigTransportersMassUsage>
+  <!-- You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods></CantSendEmptyTransportPods>
+  <!-- {0} can't reach the transport pods. -->
+  <PawnCantReachTransporters></PawnCantReachTransporters>
+  <!-- There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle></TransporterItemIsUnreachableSingle>
+  <!-- There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti></TransporterItemIsUnreachableMulti>
+  
+  <!-- Comms -->
+  <!-- Social skill: {0} -->
+  <SocialSkillIs></SocialSkillIs>
+  
+  <!--Research-->
+  <!-- Research finished: {0} -->
+  <ResearchFinished></ResearchFinished>
+  <!-- Research Screen -->
+  <ResearchScreen></ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <!-- Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage></HistoryUploadMessage>
+  <!-- Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName></HistoryUploadMessagePlayerName>
+  <!-- Allow uploading gameplay data -->
+  <HistoryUploadYes></HistoryUploadYes>
+  <!-- Do not allow uploading gameplay data -->
+  <HistoryUploadNo></HistoryUploadNo>
+  <!-- Upload only this time -->
+  <HistoryUploadYesOnce></HistoryUploadYesOnce>
+  <!-- Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce></HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <!-- Outfit -->
+  <Outfit></Outfit>
+  <!-- Select outfit... -->
+  <SelectOutfit></SelectOutfit>
+  <!-- New outfit -->
+  <NewOutfit></NewOutfit>
+  <!-- Delete outfit... -->
+  <DeleteOutfit></DeleteOutfit>
+  <!-- Outfit is in use by {0}. -->
+  <OutfitInUse></OutfitInUse>
+  <!-- No outfit selected -->
+  <NoOutfitSelected></NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <!-- Drug policy -->
+  <DrugPolicy></DrugPolicy>
+  <!-- Select policy... -->
+  <SelectDrugPolicy></SelectDrugPolicy>
+  <!-- New policy -->
+  <NewDrugPolicy></NewDrugPolicy>
+  <!-- Delete policy... -->
+  <DeleteDrugPolicy></DeleteDrugPolicy>
+  <!-- Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse></DrugPolicyInUse>
+  <!-- Social drugs -->
+  <SocialDrugs></SocialDrugs>
+  <!-- No drugs -->
+  <NoDrugs></NoDrugs>
+  <!-- One drink per day -->
+  <OneDrinkPerDay></OneDrinkPerDay>
+  <!-- Unrestricted -->
+  <Unrestricted></Unrestricted>
+  <!-- No drug policy selected -->
+  <NoDrugPolicySelected></NoDrugPolicySelected>
+  <!-- Add drug... -->
+  <AddDrug></AddDrug>
+  <!-- Drug -->
+  <DrugColumnLabel></DrugColumnLabel>
+  <!-- Usage -->
+  <DrugUsageColumnLabel></DrugUsageColumnLabel>
+  <!-- Frequency -->
+  <FrequencyColumnLabel></FrequencyColumnLabel>
+  <!-- Only if mood below -->
+  <MoodThresholdColumnLabel></MoodThresholdColumnLabel>
+  <!-- Only if recreation below -->
+  <JoyThresholdColumnLabel></JoyThresholdColumnLabel>
+  <!-- Take to inventory -->
+  <TakeToInventoryColumnLabel></TakeToInventoryColumnLabel>
+  <!-- (no drugs) -->
+  <NoDrugsBrackets></NoDrugsBrackets>
+  <!-- Every day -->
+  <EveryDay></EveryDay>
+  <!-- {0} times per day -->
+  <TimesPerDay></TimesPerDay>
+  <!-- Every {0} days -->
+  <EveryDays></EveryDays>
+  <!-- Any -->
+  <NoDrugUseRequirement></NoDrugUseRequirement>
+  <!-- Delete this drug. -->
+  <DeleteDrugTooltip></DeleteDrugTooltip>
+  <!-- The name of a drug. -->
+  <DrugNameColumnDesc></DrugNameColumnDesc>
+  <!-- How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc></DrugUsageColumnDesc>
+  <!-- How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc></FrequencyColumnDesc>
+  <!-- The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc></MoodThresholdColumnDesc>
+  <!-- The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc></JoyThresholdColumnDesc>
+  <!-- An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc></TakeToInventoryColumnDesc>
+ <!-- For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+ <DrugUsageTipForAddiction></DrugUsageTipForAddiction>
+ <!-- For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+ <DrugUsageTipForJoy></DrugUsageTipForJoy>
+  <!-- Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled></DrugUsageTipScheduled>
+
+  <!-- Medical settings -->
+  <!-- Defaults -->
+  <MedGroupDefaults></MedGroupDefaults>
+  <!-- Colonist -->
+  <MedGroupColonist></MedGroupColonist>
+  <!-- Imprisoned colonist -->
+  <MedGroupImprisonedColonist></MedGroupImprisonedColonist>
+  <!-- Colony animal -->
+  <MedGroupColonyAnimal></MedGroupColonyAnimal>
+  <!-- Neutral animal -->
+  <MedGroupNeutralAnimal></MedGroupNeutralAnimal>
+  <!-- Neutral faction -->
+  <MedGroupNeutralFaction></MedGroupNeutralFaction>
+  <!-- Hostile faction -->
+  <MedGroupHostileFaction></MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant></NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns></ConfirmAbandonHomeWithColonyPawns>
+  <!-- Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts></ConfirmAbandonHomeNegativeThoughts>
+  <!-- Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone></ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan></ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- Do you really want to banish {0}? -->
+  <ConfirmBanishPawnDialog></ConfirmBanishPawnDialog>
+  <!-- {0} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie></ConfirmBanishPawnDialog_LeftToDie>
+  <!-- {0} will take the following items with [PAWN_objective]: -->
+  <ConfirmBanishPawnDialog_Items></ConfirmBanishPawnDialog_Items>
+  <!-- All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts></ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- Banishing {0} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts></ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- Pod group isn't completely loaded. {0} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods></ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase></ConfirmSettleNearFactionBase>
+  
+</LanguageData>

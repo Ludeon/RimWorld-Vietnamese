@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ================================== Shooting =======================================-->
+
+  <!-- melee DPS -->
+  <MeleeDPS.label></MeleeDPS.label>
+  <!-- Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description></MeleeDPS.description>
+
+  <!-- melee armor penetration -->
+  <MeleeArmorPenetration.label></MeleeArmorPenetration.label>
+  <!-- Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description></MeleeArmorPenetration.description>
+
+  <!-- melee hit chance -->
+  <MeleeHitChance.label></MeleeHitChance.label>
+  <!-- Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description></MeleeHitChance.description>
+
+  <!-- melee dodge chance -->
+  <MeleeDodgeChance.label></MeleeDodgeChance.label>
+  <!-- Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description></MeleeDodgeChance.description>
+
+
+  <!-- ================================== Shooting =======================================-->
+
+  <!-- shooting accuracy -->
+  <ShootingAccuracyPawn.label></ShootingAccuracyPawn.label>
+  <!-- Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description></ShootingAccuracyPawn.description>
+
+  <!-- aiming time -->
+  <AimingDelayFactor.label></AimingDelayFactor.label>
+  <!-- How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description></AimingDelayFactor.description>
+
+
+</LanguageData>

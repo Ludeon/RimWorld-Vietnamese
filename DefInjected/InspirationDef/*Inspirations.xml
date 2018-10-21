@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- work frenzy -->
+  <Frenzy_Work.label></Frenzy_Work.label>
+  <!-- Inspired: Work frenzy -->
+  <Frenzy_Work.baseInspectLine></Frenzy_Work.baseInspectLine>
+  <!-- {0} has just been inspired. [PAWN_pronoun] will work 2.5 times faster for the next 24 hours. -->
+  <Frenzy_Work.beginLetter></Frenzy_Work.beginLetter>
+  <!-- Inspiration: Work frenzy -->
+  <Frenzy_Work.beginLetterLabel></Frenzy_Work.beginLetterLabel>
+  <!-- {0} is no longer inspired (work frenzy). -->
+  <Frenzy_Work.endMessage></Frenzy_Work.endMessage>
+
+  <!-- go frenzy -->
+  <Frenzy_Go.label></Frenzy_Go.label>
+  <!-- Inspired: Go frenzy -->
+  <Frenzy_Go.baseInspectLine></Frenzy_Go.baseInspectLine>
+  <!-- {0} has just been inspired. [PAWN_pronoun] will walk 1.5 times faster for the next 2 days. -->
+  <Frenzy_Go.beginLetter></Frenzy_Go.beginLetter>
+  <!-- Inspiration: Go frenzy -->
+  <Frenzy_Go.beginLetterLabel></Frenzy_Go.beginLetterLabel>
+  <!-- {0} is no longer inspired (go frenzy). -->
+  <Frenzy_Go.endMessage></Frenzy_Go.endMessage>
+
+  <!-- shoot frenzy -->
+  <Frenzy_Shoot.label></Frenzy_Shoot.label>
+  <!-- Inspired: Shoot frenzy -->
+  <Frenzy_Shoot.baseInspectLine></Frenzy_Shoot.baseInspectLine>
+  <!-- {0} has just been inspired. [PAWN_possessive] shooting accuracy will be improved for the next 3 days. -->
+  <Frenzy_Shoot.beginLetter></Frenzy_Shoot.beginLetter>
+  <!-- Inspiration: Shoot frenzy -->
+  <Frenzy_Shoot.beginLetterLabel></Frenzy_Shoot.beginLetterLabel>
+  <!-- {0} is no longer inspired (shoot frenzy). -->
+  <Frenzy_Shoot.endMessage></Frenzy_Shoot.endMessage>
+
+  <!-- inspired trade -->
+  <Inspired_Trade.label></Inspired_Trade.label>
+  <!-- Inspired: Inspired trade -->
+  <Inspired_Trade.baseInspectLine></Inspired_Trade.baseInspectLine>
+  <!-- {0} has just been inspired. [PAWN_pronoun] will get a significant trade price bonus for [PAWN_possessive] next trade deal.\n\nThe inspiration will end after 8 days or when the deal is done. -->
+  <Inspired_Trade.beginLetter></Inspired_Trade.beginLetter>
+  <!-- Inspiration: Inspired trade -->
+  <Inspired_Trade.beginLetterLabel></Inspired_Trade.beginLetterLabel>
+  <!-- {0} is no longer inspired (inspired trade). -->
+  <Inspired_Trade.endMessage></Inspired_Trade.endMessage>
+
+  <!-- inspired recruitment -->
+  <Inspired_Recruitment.label></Inspired_Recruitment.label>
+  <!-- Inspired: Inspired recruitment -->
+  <Inspired_Recruitment.baseInspectLine></Inspired_Recruitment.baseInspectLine>
+  <!-- {0} has just been inspired. [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty.\n\nThe inspiration will end after 8 days or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter></Inspired_Recruitment.beginLetter>
+  <!-- Inspiration: Inspired recruitment -->
+  <Inspired_Recruitment.beginLetterLabel></Inspired_Recruitment.beginLetterLabel>
+  <!-- {0} is no longer inspired (inspired recruitment). -->
+  <Inspired_Recruitment.endMessage></Inspired_Recruitment.endMessage>
+
+  <!-- inspired surgery -->
+  <Inspired_Surgery.label></Inspired_Surgery.label>
+  <!-- Inspired: Inspired surgery -->
+  <Inspired_Surgery.baseInspectLine></Inspired_Surgery.baseInspectLine>
+  <!-- {0} has just been inspired. The surgery failure chance for the next surgery performed by [PAWN_objective] will be 10 times smaller.\n\nThe inspiration will end after 8 days or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter></Inspired_Surgery.beginLetter>
+  <!-- Inspiration: Inspired surgery -->
+  <Inspired_Surgery.beginLetterLabel></Inspired_Surgery.beginLetterLabel>
+  <!-- {0} is no longer inspired (inspired surgery). -->
+  <Inspired_Surgery.endMessage></Inspired_Surgery.endMessage>
+
+  <!-- inspired creativity -->
+  <Inspired_Creativity.label></Inspired_Creativity.label>
+  <!-- Inspired: Inspired creativity -->
+  <Inspired_Creativity.baseInspectLine></Inspired_Creativity.baseInspectLine>
+  <!-- {0} has just been inspired. Any item crafted or piece of furniture or art completed will be 2 quality levels higher than it would otherwise be.\n\nThe inspiration will end after 8 days or when the item, furniture or art is completed. -->
+  <Inspired_Creativity.beginLetter></Inspired_Creativity.beginLetter>
+  <!-- Inspiration: Inspired creativity -->
+  <Inspired_Creativity.beginLetterLabel></Inspired_Creativity.beginLetterLabel>
+  <!-- {0} is no longer inspired (inspired creativity). -->
+  <Inspired_Creativity.endMessage></Inspired_Creativity.endMessage>
+
+
+</LanguageData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- work to build -->
+  <WorkToBuild.label></WorkToBuild.label>
+  <!-- The base amount of work it takes to build a structure, once all materials are gathered. -->
+  <WorkToBuild.description></WorkToBuild.description>
+
+  <!-- door opening speed -->
+  <DoorOpenSpeed.label></DoorOpenSpeed.label>
+  <!-- The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
+  <DoorOpenSpeed.description></DoorOpenSpeed.description>
+
+  <!-- rest effectiveness -->
+  <BedRestEffectiveness.label></BedRestEffectiveness.label>
+  <!-- How fast people sleeping on this gain rest. -->
+  <BedRestEffectiveness.description></BedRestEffectiveness.description>
+
+  <!-- trap melee damage -->
+  <TrapMeleeDamage.label></TrapMeleeDamage.label>
+  <!-- How much damage this trap does on average. The actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description></TrapMeleeDamage.description>
+
+  <!-- trap spring chance -->
+  <TrapSpringChance.label></TrapSpringChance.label>
+  <!-- The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChance.description></TrapSpringChance.description>
+
+  <!-- research speed factor -->
+  <ResearchSpeedFactor.label></ResearchSpeedFactor.label>
+  <!-- The speed at which people do research is multiplied by this value. -->
+  <ResearchSpeedFactor.description></ResearchSpeedFactor.description>
+  <!-- Room cleanliness -->
+  <ResearchSpeedFactor.parts.1.customLabel></ResearchSpeedFactor.parts.1.customLabel>
+
+  <!-- medical tend quality offset -->
+  <MedicalTendQualityOffset.label></MedicalTendQualityOffset.label>
+  <!-- Medical tend quality is offset by this value. -->
+  <MedicalTendQualityOffset.description></MedicalTendQualityOffset.description>
+
+  <!-- immunity gain speed factor -->
+  <ImmunityGainSpeedFactor.label></ImmunityGainSpeedFactor.label>
+  <!-- Immunity gain speed is multiplied by this value. -->
+  <ImmunityGainSpeedFactor.description></ImmunityGainSpeedFactor.description>
+
+  <!-- work speed factor -->
+  <WorkTableWorkSpeedFactor.label></WorkTableWorkSpeedFactor.label>
+  <!-- Work speed is multiplied by this value. -->
+  <WorkTableWorkSpeedFactor.description></WorkTableWorkSpeedFactor.description>
+
+  <!-- work efficiency factor -->
+  <WorkTableEfficiencyFactor.label></WorkTableEfficiencyFactor.label>
+  <!-- Work efficiency is multiplied by this value. -->
+  <WorkTableEfficiencyFactor.description></WorkTableEfficiencyFactor.description>
+
+  <!-- recreation power -->
+  <JoyGainFactor.label></JoyGainFactor.label>
+  <!-- How effectively this item entertains people and fulfills the need for recreation. -->
+  <JoyGainFactor.description></JoyGainFactor.description>
+
+  <!-- surgery success chance factor -->
+  <SurgerySuccessChanceFactor.label></SurgerySuccessChanceFactor.label>
+  <!-- A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
+  <SurgerySuccessChanceFactor.description></SurgerySuccessChanceFactor.description>
+  <!-- Room cleanliness -->
+  <SurgerySuccessChanceFactor.parts.0.customLabel></SurgerySuccessChanceFactor.parts.0.customLabel>
+
+
+</LanguageData>
