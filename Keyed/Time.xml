@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- d -->
+  <LetterDay> ngày </LetterDay>
+  <!-- h -->
+  <LetterHour> giờ </LetterHour>
+  <!-- m -->
+  <LetterMinute> phút </LetterMinute>
+  <!-- s -->
+  <LetterSecond> giây </LetterSecond>
+
+  <!-- days -->
+  <DaysLower> ngày </DaysLower>
+  <!-- seconds -->
+  <SecondsLower> giây </SecondsLower>
+
+  <!-- spring -->
+  <SeasonSpring>Mùa xuân</SeasonSpring>
+  <!-- summer -->
+  <SeasonSummer>Mùa hạ</SeasonSummer>
+  <!-- fall -->
+  <SeasonFall>Mùa thu</SeasonFall>
+  <!-- winter -->
+  <SeasonWinter>Mùa đông</SeasonWinter>
+  <!-- permanent summer -->
+  <SeasonPermanentSummer>Mùa hạ vĩnh cữu</SeasonPermanentSummer>
+  <!-- permanent winter -->
+  <SeasonPermanentWinter>Mùa đông vĩnh cữu</SeasonPermanentWinter>
+
+  <!-- Aprimay -->
+  <QuadrumAprimay>Quý 1</QuadrumAprimay>
+  <!-- Jugust -->
+  <QuadrumJugust>Quý 2</QuadrumJugust>
+  <!-- Septober -->
+  <QuadrumSeptober>Quý 3</QuadrumSeptober>
+  <!-- Decembary -->
+  <QuadrumDecembary>Quý 4</QuadrumDecembary>
+
+  <!-- Born: {0} -->
+  <Born>Sinh: {0}</Born>
+  <!-- Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Tuổi trên giấy tờ: {0} năm, {1} quý, {2} ngày</AgeChronological>
+  <!-- Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Tuổi thực tế: {0} năm, {1} quý, {2} ngày</AgeBiological>
+
+  <!-- Date periods -->
+ <!-- 1 year -->
+ <Period1Year>1 năm</Period1Year>
+  <!-- {0} years -->
+  <PeriodYears>{0} năm</PeriodYears>
+  <!-- 1 quadrum -->
+  <Period1Quadrum>1 quý</Period1Quadrum>
+  <!-- {0} quadrums -->
+  <PeriodQuadrums>{0} quý</PeriodQuadrums>
+  <!-- 1 day -->
+  <Period1Day>1 ngày</Period1Day>
+  <!-- {0} days -->
+  <PeriodDays>{0} ngày</PeriodDays>
+  <!-- 1 hour -->
+  <Period1Hour>1 giờ</Period1Hour>
+  <!-- {0} hours -->
+  <PeriodHours>{0} giờ</PeriodHours>
+  <!-- 1 second -->
+  <Period1Second>1 giây</Period1Second>
+  <!-- {0} seconds -->
+  <PeriodSeconds>{0} giây</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- Started -->
+  <Started>Bắt đầu từ lúc</Started>
+  <!-- Lasted -->
+  <Lasted>Đã tồn tại</Lasted>
+  <!-- occurred {0} ago -->
+  <OccurredTimeAgo>đã diễn ra {0} trước</OccurredTimeAgo>
+
+</LanguageData>
