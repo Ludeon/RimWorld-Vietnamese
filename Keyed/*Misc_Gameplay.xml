@@ -3,41 +3,41 @@
 
   <!-- Various -->
   <!-- hit points -->
-  <HitPointsBasic></HitPointsBasic>
+  <HitPointsBasic>điểm sát thương</HitPointsBasic>
   <!-- Work left -->
   <WorkLeft></WorkLeft>
   <!-- Contents -->
-  <Contents></Contents>
+  <Contents>Nội dung</Contents>
   <!-- Contained resources -->
-  <ContainedResources></ContainedResources>
+  <ContainedResources>Tài nguyên bên trong</ContainedResources>
   <!-- For prisoner use -->
-  <ForPrisonerUse></ForPrisonerUse>
+  <ForPrisonerUse>Giành cho tù nhân</ForPrisonerUse>
   <!-- In prison cell: For prisoner use -->
   <InPrisonCell></InPrisonCell>
   <!-- For colonist use -->
-  <ForColonistUse></ForColonistUse>
+  <ForColonistUse>Giành cho dân</ForColonistUse>
   <!-- Medical -->
-  <MedicalBed></MedicalBed>
+  <MedicalBed>Giường y tế</MedicalBed>
   <!-- Owner -->
-  <Owner></Owner>
+  <Owner>Chủ sở hữu</Owner>
   <!-- Owners -->
-  <Owners></Owners>
+  <Owners>Những người sở hữu</Owners>
   <!-- Assigned colonist -->
-  <AssignedColonist></AssignedColonist>
+  <AssignedColonist>Chỉ định chủ sở hữu</AssignedColonist>
   <!-- Died on the {0} -->
-  <DiedOn></DiedOn>
+  <DiedOn>Chết ở {0}</DiedOn>
   <!-- Nobody -->
-  <Nobody></Nobody>
+  <Nobody>Không ai cả</Nobody>
   <!-- Unowned -->
-  <Unowned></Unowned>
+  <Unowned>Vô chủ</Unowned>
   <!-- Dead for {0} -->
-  <DeadTime></DeadTime>
+  <DeadTime>Đã chết {0}</DeadTime>
   <!-- walk speed {0} -->
-  <WalkSpeed></WalkSpeed>
+  <WalkSpeed>tốc độ di chuyển {0}</WalkSpeed>
   <!-- fert. -->
-  <FertShort></FertShort>
+  <FertShort>phì nhiêu</FertShort>
   <!-- dying -->
-  <DyingLower></DyingLower>
+  <DyingLower>Đang chết dần.</DyingLower>
   <!-- Filth on feet: -->
   <FilthOnFeet></FilthOnFeet>
   <!-- not enough stored -->
@@ -49,57 +49,57 @@
   <!-- fresh -->
   <FreshMissingBodyPart></FreshMissingBodyPart>
   <!-- developed immunity -->
-  <DevelopedImmunityLower></DevelopedImmunityLower>
+  <DevelopedImmunityLower>tạo được kháng thể miễn dịch</DevelopedImmunityLower>
   <!-- Needs tending now -->
-  <NeedsTendingNow></NeedsTendingNow>
+  <NeedsTendingNow>Cần điều trị ngay</NeedsTendingNow>
   <!-- Can tend now -->
-  <CanTendNow></CanTendNow>
+  <CanTendNow>Có thể điều trị ngay</CanTendNow>
   <!-- Tending expires in {0} -->
-  <TreatmentExpiresIn></TreatmentExpiresIn>
+  <TreatmentExpiresIn>Điều trị hết tác dụng sau {0}</TreatmentExpiresIn>
   <!-- Can be tended in {0} -->
-  <NextTendIn></NextTendIn>
+  <NextTendIn>Có thể điều trị sau {0}</NextTendIn>
   <!-- Tend quality -->
-  <TendQuality></TendQuality>
+  <TendQuality>Chất lượng điều trị</TendQuality>
   <!-- no {0} -->
-  <MissingMedicalBillIngredient></MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>không {0}</MissingMedicalBillIngredient>
   <!-- Immunity -->
-  <Immunity></Immunity>
+  <Immunity>Miễn dịch</Immunity>
   <!-- Race -->
-  <Race></Race>
+  <Race>Loại sinh vật</Race>
   <!-- Description -->
-  <Description></Description>
+  <Description>Mô tả</Description>
   <!-- Equipment -->
-  <Equipment></Equipment>
+  <Equipment>Trang bị</Equipment>
   <!-- Apparel -->
-  <Apparel></Apparel>
+  <Apparel>Trang phục</Apparel>
   <!-- Inventory -->
-  <Inventory></Inventory>
+  <Inventory>Đồ dùng</Inventory>
   <!-- Information -->
-  <ThingInfo></ThingInfo>
+  <ThingInfo>Thông tin</ThingInfo>
   <!-- Drop -->
-  <DropThing></DropThing>
+  <DropThing>Bỏ</DropThing>
   <!-- Rename -->
-  <Rename></Rename>
+  <Rename>Đổi tên</Rename>
   <!-- Rename animal -->
-  <RenameAnimal></RenameAnimal>
+  <RenameAnimal>Đổi tên thú nuôi</RenameAnimal>
   <!-- Rename colonist -->
-  <RenameColonist></RenameColonist>
+  <RenameColonist>Đổi tên dân</RenameColonist>
   <!-- unknown -->
-  <UnknownLower></UnknownLower>
+  <UnknownLower>không rõ</UnknownLower>
   <!-- On -->
-  <On></On>
+  <On>Bật</On>
   <!-- Off -->
-  <Off></Off>
+  <Off>Tắt</Off>
   <!-- Power -->
-  <PowerSwitch_Power></PowerSwitch_Power>
+  <PowerSwitch_Power>Năng lượng</PowerSwitch_Power>
   <!-- Recreation type tolerances -->
   <JoyTolerances></JoyTolerances>
   <!-- Milk fullness -->
-  <MilkFullness></MilkFullness>
+  <MilkFullness>Mức độ sữa</MilkFullness>
   <!-- Wool growth -->
-  <WoolGrowth></WoolGrowth>
+  <WoolGrowth>Mức độ phát triển của len</WoolGrowth>
   <!-- Egg progress -->
-  <EggProgress></EggProgress>
+  <EggProgress>Mức độ phát triển của trứng</EggProgress>
   <!-- Fertilized -->
   <Fertilized></Fertilized>
   <!-- Progress stopped until fertilized -->
@@ -800,7 +800,7 @@
   <MustPlaceNearFuelingPort></MustPlaceNearFuelingPort>
   <!-- Must be placed on drillable resources. -->
   <MustPlaceOnDrillable></MustPlaceOnDrillable>
-  
+
   <!-- Wind Turbine -->
   <!-- Blocked by -->
   <WindTurbine_WindPathIsBlockedBy></WindTurbine_WindPathIsBlockedBy>

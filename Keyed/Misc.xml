@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Autosaving -->
+  <Autosaving>Đang tự động lưu</Autosaving>
+  <!-- The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>3 người dân của bạn bị đánh thức bởi tiếng còi báo động và tiếng kim loại va vào nhau khi họ nằm trong kén ngủ đông. Họ chỉ kịp </GameStartDialog>
+  <!-- Colony -->
+  <Colony>Thuộc địa</Colony>
+  <!-- You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>Bạn chỉ có thể đổi ngôn ngữ ở menu chính.</ChangeLanguageFromMainMenu>
+  <!-- and -->
+  <AndLower>và</AndLower>
+  <!-- disabled -->
+  <DisabledLower>tắt</DisabledLower>
+
+
+  <!-- Version {0} -->
+  <VersionIndicator>Phiên bản</VersionIndicator>
+  <!-- development build -->
+  <DevelopmentBuildLower>Bản phát triển</DevelopmentBuildLower>
+  <!-- Compiled {0} -->
+  <CompiledOn></CompiledOn>
+  <!-- Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>Đăng nhập vào Steam bằng tài khoản</LoggedIntoSteamAs>
+
+  <!-- General-use words -->
+  <!-- Yes -->
+  <Yes>Có</Yes>
+  <!-- No -->
+  <No>Không</No>
+  <!-- min -->
+  <min>ít nhât</min>
+  <!-- max -->
+  <max>nhiều nhất</max>
+  <!-- chance -->
+  <chance>cơ hội</chance>
+  <!-- context -->
+  <context>nội dung</context>
+  <!-- multiplier -->
+  <multiplier>nhân</multiplier>
+  <!-- damage -->
+  <damage>sát thương</damage>
+  <!-- radius -->
+  <radius>độ rộng</radius>
+  <!-- duration (days) -->
+  <durationDays>khoảng (ngày)</durationDays>
+  <!-- interval (days) -->
+  <intervalDays>khoảng (ngày)</intervalDays>
+  <!-- repeat -->
+  <repeat>lặp lại</repeat>
+ <!-- default -->
+ <default>mặc định</default>
+ <!-- distance -->
+ <distance>khoảng cách</distance>
+  <!-- YES -->
+  <YesUppercase>CÓ</YesUppercase>
+  <!-- NO -->
+  <NoUppercase>KHÔNG</NoUppercase>
+  <!-- kg -->
+  <kg></kg>
+  <!-- Day -->
+  <Day>Ngày</Day>
+  <!-- day -->
+  <day>ngày</day>
+  <!-- Default -->
+  <Default>Mặc định</Default>
+  <!-- Average -->
+  <Average>Trung bình</Average>
+
+  <!-- Content generation-->
+
+ <!-- {0} meat -->
+ <MeatLabel>{0} thịt</MeatLabel>
+  <!-- Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>Thịt sống dùng để nấu ch hoặc ăn sống.</MeatDesc>
+  <!-- Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>Thịt sống. Có thể nấu chín hoặc ăn sống nếu cần. Mùi vị cực kì kinh khủng.</MeatInsectDesc>
+  <!-- Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc></MeatHumanDesc>
+
+  <!-- {0} corpse -->
+  <CorpseLabel>Xác {0}</CorpseLabel>
+ <!-- Dead body of a {0}. -->
+ <CorpseDesc>Xác chết của 1 {0}</CorpseDesc>
+  <!-- {0} (dead) -->
+  <DeadLabel></DeadLabel>
+
+  <!-- rough {0} -->
+  <RoughStoneTerrainLabel>{0} gồ ghề</RoughStoneTerrainLabel>
+  <!-- Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>Nền {0} gồ ghề tự nhiên.</RoughStoneTerrainDesc>
+  <!-- rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>{0} gồ gh</RoughHewnStoneTerrainLabel>
+  <!-- Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>Cắt thô nền {0} tự nhiên.</RoughHewnStoneTerrainDesc>
+  <!-- smooth {0} -->
+  <SmoothStoneTerrainLabel>mài nhẵn {0}</SmoothStoneTerrainLabel>
+  <!-- Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>Mài nhẵn nền {0}</SmoothStoneTerrainDesc>
+
+  <!--  (blueprint) -->
+  <BlueprintLabelExtra></BlueprintLabelExtra>
+  <!--  (building) -->
+  <FrameLabelExtra></FrameLabelExtra>
+
+  <!-- Unaffiliated -->
+  <FactionUnaffiliated>Không liên kết</FactionUnaffiliated>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- {0} {1} -->
+  <ThingMadeOfStuffLabel></ThingMadeOfStuffLabel>
+
+  <!-- {0}'s {1} -->
+  <SomeonesRoom>{1} của {0}</SomeonesRoom>
+  <!-- {0} and {1}'s {2} -->
+  <CouplesRoom>{2} của {0} và {1}</CouplesRoom>
+
+  <!-- (various) -->
+  <VariousLabel>(linh tinh)</VariousLabel>
+
+  <!-- History events -->
+  <!-- Colonist died -->
+  <ColonistDied>Dân chết</ColonistDied>
+
+  <!-- Rotation -->
+  <!-- North -->
+  <North>Bắc</North>
+  <!-- South -->
+  <South>Nam</South>
+  <!-- West -->
+  <West>Tây</West>
+  <!-- East -->
+  <East>Đông</East>
+
+
+</LanguageData>
