@@ -4,7 +4,7 @@
   <!-- Autosaving -->
   <Autosaving>Đang tự động lưu</Autosaving>
   <!-- The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>3 người dân của bạn bị đánh thức bởi tiếng còi báo động và tiếng kim loại va vào nhau khi họ nằm trong kén ngủ đông. Họ chỉ kịp </GameStartDialog>
+  <GameStartDialog>3 phi hành đoàn bị đánh thức bởi tiếng còi báo động và tiếng kim loại va vào nhau khi họ nằm trong kén ngủ đông. Họ chỉ kịp chui vào kén thoát hiểm trước khi con tàu nổ tung thành từng mảnh.\n\nMột thời gian sau, kén thoát hiểm của họ đáp xuống 1 hành tinh xa xôi chưa được biết đến.\n\nBằng những gì còn xót lại của con tàu, cả 3 phải bắt đầu nghĩ ra cách để sinh tồn trên vùng đát lạ lẫm này.</GameStartDialog>
   <!-- Colony -->
   <Colony>Thuộc địa</Colony>
   <!-- You can only change language from the options screen on the main menu. -->
@@ -77,14 +77,14 @@
   <!-- Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <MeatInsectDesc>Thịt sống. Có thể nấu chín hoặc ăn sống nếu cần. Mùi vị cực kì kinh khủng.</MeatInsectDesc>
   <!-- Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc></MeatHumanDesc>
+  <MeatHumanDesc>Thịt sống. Có thể nấu chín hoặc ăn sống, mặc dù mọi người đều không thích ý tưởng này.</MeatHumanDesc>
 
   <!-- {0} corpse -->
   <CorpseLabel>Xác {0}</CorpseLabel>
  <!-- Dead body of a {0}. -->
  <CorpseDesc>Xác chết của 1 {0}</CorpseDesc>
   <!-- {0} (dead) -->
-  <DeadLabel></DeadLabel>
+  <DeadLabel>{0} (đã chết)</DeadLabel>
 
   <!-- rough {0} -->
   <RoughStoneTerrainLabel>{0} gồ ghề</RoughStoneTerrainLabel>
@@ -100,9 +100,9 @@
   <SmoothStoneTerrainDesc>Mài nhẵn nền {0}</SmoothStoneTerrainDesc>
 
   <!--  (blueprint) -->
-  <BlueprintLabelExtra></BlueprintLabelExtra>
+  <BlueprintLabelExtra>(bản thiết kế)</BlueprintLabelExtra>
   <!--  (building) -->
-  <FrameLabelExtra></FrameLabelExtra>
+  <FrameLabelExtra>(đang xây)</FrameLabelExtra>
 
   <!-- Unaffiliated -->
   <FactionUnaffiliated>Không liên kết</FactionUnaffiliated>
