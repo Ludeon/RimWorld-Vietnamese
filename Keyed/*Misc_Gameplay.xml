@@ -101,91 +101,91 @@
   <!-- Egg progress -->
   <EggProgress>Mức độ phát triển của trứng</EggProgress>
   <!-- Fertilized -->
-  <Fertilized></Fertilized>
+  <Fertilized>Đã được thụ tinh</Fertilized>
   <!-- Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized></ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Ngừng phát triển cho đến khi  thụ tinh</ProgressStoppedUntilFertilized>
   <!-- need {0} level {2}, have {1} -->
-  <SkillTooLow></SkillTooLow>
+  <SkillTooLow>cần {0} cấp {2}, hiện tại có {1}</SkillTooLow>
   <!-- Freezing -->
-  <Freezing></Freezing>
+  <Freezing>Đông lạnh</Freezing>
   <!-- Overheating -->
-  <Overheating></Overheating>
+  <Overheating>Quá nóng</Overheating>
   <!-- Ruined by temperature. -->
-  <RuinedByTemperature></RuinedByTemperature>
+  <RuinedByTemperature>Hỏng do nhiệt độ</RuinedByTemperature>
   <!-- Missing body parts -->
-  <CorpsePercentMissing></CorpsePercentMissing>
+  <CorpsePercentMissing>Mất 1 phần cơ thể</CorpsePercentMissing>
   <!-- Reproduces in -->
-  <HiveReproducesIn></HiveReproducesIn>
+  <HiveReproducesIn>Tái sản xuất trong</HiveReproducesIn>
   <!-- Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing></DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Bất hoạt: Dừng sản xuất</DormantHiveNotReproducing>
   <!-- Next {0} in -->
-  <NextSpawnedItemIn></NextSpawnedItemIn>
+  <NextSpawnedItemIn>Đợt tiếp theo trong {0}</NextSpawnedItemIn>
   <!-- Broken down -->
-  <BrokenDown></BrokenDown>
+  <BrokenDown>Hư hại</BrokenDown>
   <!-- (bond) -->
   <BondBrackets></BondBrackets>
   <!-- Fuel -->
-  <Fuel></Fuel>
+  <Fuel>Nhiên liệu</Fuel>
   <!-- Fuel -->
-  <FuelLevelGizmoLabel></FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Nhiên liệu</FuelLevelGizmoLabel>
   <!-- Set target fuel level to {0} -->
-  <SetTargetFuelLevel></SetTargetFuelLevel>
+  <SetTargetFuelLevel>Đặt mức nhiên liệu ở {0}</SetTargetFuelLevel>
   <!-- Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel></SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Đặt mức nhiên liệu ở {0}\nKhoảng cách bay được: {1} ô</SetPodLauncherTargetFuelLevel>
   <!-- Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel></ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Chỉ tiêu mức nhiên liệu: {0}</ConfiguredTargetFuelLevel>
   <!-- enemies -->
-  <Enemies></Enemies>
+  <Enemies>kẻ thù</Enemies>
   <!-- time passed -->
-  <TimePassed></TimePassed>
+  <TimePassed>thời gian đã trôi qua</TimePassed>
   <!-- current radius -->
-  <CurrentRadius></CurrentRadius>
+  <CurrentRadius>bán kính hiện tại</CurrentRadius>
   <!-- radius expands in -->
-  <RadiusExpandsIn></RadiusExpandsIn>
+  <RadiusExpandsIn>bán kính mở rộng trong</RadiusExpandsIn>
   <!-- permanent -->
-  <Permanent></Permanent>
+  <Permanent>vĩnh viễn</Permanent>
   <!-- Resting -->
-  <CaravanResting></CaravanResting>
+  <CaravanResting>Đang nghỉ ngơi</CaravanResting>
   <!-- using 1 bedroll -->
-  <UsingBedroll></UsingBedroll>
+  <UsingBedroll>đang sử dụng 1 túi ngủ</UsingBedroll>
   <!-- using {0} bedrolls -->
-  <UsingBedrolls></UsingBedrolls>
+  <UsingBedrolls>đang sử dụng {0} túi ngủ</UsingBedrolls>
   <!-- Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination></CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Ước tính thời gian tới đích: {0} day</CaravanEstimatedTimeToDestination>
   <!-- Estimated days to arrive: {0} -->
-  <CaravanEstimatedDaysToDestination></CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Ước tính ngày tới đích: {0}</CaravanEstimatedDaysToDestination>
   <!-- Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass></CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Bất động: quá nặng để di chuyển.</CaravanImmobilizedByMass>
   <!-- Out of food. -->
-  <CaravanOutOfFood></CaravanOutOfFood>
+  <CaravanOutOfFood>Hết lương thực</CaravanOutOfFood>
   <!-- Days of food: {0} -->
   <CaravanDaysOfFood></CaravanDaysOfFood>
   <!-- Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot></CaravanDaysOfFoodRot>
   <!-- Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned></AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Cả đoàn đã dừng lại do: tất cả thành viên đã gục.</AllCaravanMembersDowned>
   <!-- Stopped because: Everyone has a mental break. -->
-  <AllCaravanMembersMentalBreak></AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Cả đoàn đã dừng lại do: tất cả thành viên đã nổi điên.</AllCaravanMembersMentalBreak>
   <!-- {0} {1} -->
   <CaravanColonistsCount></CaravanColonistsCount>
   <!-- 1 animal -->
-  <CaravanAnimal></CaravanAnimal>
+  <CaravanAnimal>1 con thú</CaravanAnimal>
   <!-- {0} animals -->
-  <CaravanAnimalsCount></CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} con thú</CaravanAnimalsCount>
   <!-- 1 prisoner -->
-  <CaravanPrisoner></CaravanPrisoner>
+  <CaravanPrisoner>1 tù nhân</CaravanPrisoner>
   <!-- {0} prisoners -->
-  <CaravanPrisonersCount></CaravanPrisonersCount>
+  <CaravanPrisonersCount>{0} tù nhân</CaravanPrisonersCount>
   <!-- {0} in mental state -->
-  <CaravanPawnsInMentalState></CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} đang nổi điên</CaravanPawnsInMentalState>
   <!-- {0} downed -->
-  <CaravanPawnsDowned></CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} đã gục.</CaravanPawnsDowned>
   <!-- Traveling. -->
-  <CaravanTraveling></CaravanTraveling>
+  <CaravanTraveling>Đang di chuyển</CaravanTraveling>
   <!-- Resting. -->
-  <CaravanPaused></CaravanPaused>
+  <CaravanPaused>Đang nghỉ ngơi</CaravanPaused>
   <!-- Waiting. -->
-  <CaravanWaiting></CaravanWaiting>
+  <CaravanWaiting>Đang đợi</CaravanWaiting>
   <!-- Being carried due to illness -->
   <BeingCarriedDueToIllness></BeingCarriedDueToIllness>
   <!-- Using bedrolls due to illness -->
@@ -193,53 +193,53 @@
   <!-- Current tile movement time -->
   <CurrentTileMovementTime></CurrentTileMovementTime>
   <!-- Visibility -->
-  <Visibility></Visibility>
+  <Visibility>Tầm nhìn</Visibility>
   <!-- Temperature -->
-  <Temperature></Temperature>
+  <Temperature>Nhiệt độ</Temperature>
   <!-- bad temperature -->
-  <BadTemperature></BadTemperature>
+  <BadTemperature>Nhiệt độ không tốt</BadTemperature>
   <!-- Ideal fermenting temperature -->
-  <IdealFermentingTemperature></IdealFermentingTemperature>
+  <IdealFermentingTemperature>Nhiệt độ lí tưởng</IdealFermentingTemperature>
   <!-- {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier></DrugEffectMultiplier>
+  <DrugEffectMultiplier>ảnh hương của {0} gấp: {1}</DrugEffectMultiplier>
   <!-- Visiting {0}. -->
-  <CaravanVisiting></CaravanVisiting>
+  <CaravanVisiting>Đang thăm {0}</CaravanVisiting>
   <!-- Entering {0}. -->
-  <CaravanEntering></CaravanEntering>
+  <CaravanEntering>Đang tiến vào</CaravanEntering>
   <!-- Attacking {0}. -->
-  <CaravanAttacking></CaravanAttacking>
+  <CaravanAttacking>Đang tấn công {0}</CaravanAttacking>
   <!-- Offering gifts to {0}. -->
-  <CaravanOfferingGifts></CaravanOfferingGifts>
+  <CaravanOfferingGifts>Tặng quà hữu nghị cho {0}</CaravanOfferingGifts>
   <!-- Tainted from being worn by a corpse. -->
-  <WasWornByCorpse></WasWornByCorpse>
+  <WasWornByCorpse>Nhiễm khuẩn do từng mặc bởi xác chết</WasWornByCorpse>
   <!-- T -->
-  <WornByCorpseChar></WornByCorpseChar>
+  <WornByCorpseChar>Nhiễm khuẩn</WornByCorpseChar>
   <!-- unroofed -->
-  <DeterioratingUnroofed></DeterioratingUnroofed>
+  <DeterioratingUnroofed>không có mái nhà</DeterioratingUnroofed>
   <!-- outdoors -->
-  <DeterioratingOutdoors></DeterioratingOutdoors>
+  <DeterioratingOutdoors>ngoài trời</DeterioratingOutdoors>
   <!-- Deteriorating because of -->
-  <DeterioratingBecauseOf></DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Đang hư hại do</DeterioratingBecauseOf>
   <!-- Map -->
-  <Map></Map>
+  <Map>Bản đồ</Map>
   <!-- {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown></ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdown>{0} trước khi rời đi</ForceExitAndRemoveMapCountdown>
   <!-- Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip></ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Dân của bạn sẽ tự động tập hợp và rời khỏi nơi này sau {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- Room -->
-  <Room></Room>
+  <Room>Phòng</Room>
   <!-- Beauty here -->
-  <BeautyHere></BeautyHere>
+  <BeautyHere>Thẩm mỹ</BeautyHere>
   <!-- No power -->
-  <NoPower></NoPower>
+  <NoPower>Không có năng lượng</NoPower>
   <!-- Work speed penalty -->
   <WorkSpeedPenalty></WorkSpeedPenalty>
   <!-- DISABLED -->
   <DisabledCommand></DisabledCommand>
   <!-- Ready for launch. -->
-  <ReadyForLaunch></ReadyForLaunch>
+  <ReadyForLaunch>Sẵn sàng để phóng.</ReadyForLaunch>
   <!-- Not ready for launch -->
-  <NotReadyForLaunch></NotReadyForLaunch>
+  <NotReadyForLaunch>Chưa sẵn sàng để phóng.</NotReadyForLaunch>
   <!-- no fueling port -->
   <NotAllInGroupConnectedToFuelingPort></NotAllInGroupConnectedToFuelingPort>
   <!-- no fuel -->

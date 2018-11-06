@@ -9,7 +9,7 @@
   <!-- lower priority -->
   <LowerPriority>ưu tiên thấp hơn</LowerPriority>
   <!-- Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
-  <RelevantSkills></RelevantSkills>
+  <RelevantSkills>Kĩ năng thích hợp: {0}\nTrung bình của kĩ năng thích hợp: {1} / {2}</RelevantSkills>
   <!-- Click to jump to: -->
   <ClickToJumpTo>Click để đi đến:</ClickToJumpTo>
   <!-- {0} cannot do this kind of work. -->
@@ -55,7 +55,7 @@
 
   <!-- Wildlife tab -->
   <!-- This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>Sinh vật là 1 con thú săn mồi. Khi nó đói, nó sẽ săn lùng những sinh vật nhỏ hơn để ăn thịt - có thể cả con người nữa.</IsPredator>
+  <IsPredator>Sinh vật này là 1 con thú săn mồi. Khi nó đói, nó sẽ săn lùng những sinh vật nhỏ hơn để ăn thịt - có thể cả con người nữa.</IsPredator>
 
   <!-- Factions tab -->
   <!-- Hostile -->
