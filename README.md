@@ -1,12 +1,29 @@
 # RimWorld Vietnamese
 This is Vietnamese translation data for RimWorld.
-
 [Please click here for license info](http://ludeon.com/forums/index.php?topic=2933.0)
 
 ### Translators:
-- Nam Bùi
+- Nam Bùi - **nambn**
+- Hưng Trần - **mw3tv123**
 
-### Want to help?
-1. Follow there step on [this forum thread](https://ludeon.com/forums/index.php?topic=2933.0).
-2. Having added to this repo, contribute by translating unfinished file (File marked with \* ).
-3. Stay active between major release.
+### Dành cho người chơi
+Các bạn làm theo các bước sau để có thể sử dụng được bản dịch chưa chính thức này:
+**1)** Tải về file nén của bản dịch này **(1)** bằng đường link HTTPS **(2)** như trong hình.
+![downloadFile](https://i.imgur.com/X9m8Ecb.png)
+
+**2)** Các bạn vào thư mục **Core** của game (**<ổ đĩa>\Rimworld\Mods\Core\Languages\\**, các bạn sử dụng Steam thì sẽ là **<ổ đĩa>\Stream\steamapps\common\RimWorld\Mods\Core\Languages\\**), giải nén file zip vừa tải về:
+![unzipFile](https://i.imgur.com/d3mVZ5w.png)
+
+**3)** Vào game, ở màn hình chính, các bạn chọn **Options**, chọn ngôn ngữ **Tiếng Việt** và chơi game.
+![changeLanguage](https://i.imgur.com/jJTLkLc.png)
+
+-- Các bạn cảm thấy đoạn nào dịch chưa chuẩn, không hay, có ý tưởng thay thế hay hơn có thể gửi qua link Facebook hoặc email bên dưới.
+
+### Dành cho các bạn muốn dịch
+- Dịch các file có đánh dấu * ở phía trước tên file (VD: ***Alert.xml**)
+- Các bạn có thể làm theo hướng dẫn [ở đây](https://ludeon.com/forums/index.php?topic=2933.0). Nếu các bạn muốn kiểm tra thử bản dịch của mình thì làm theo các bước dành cho người chơi.
+- Bạn nào chưa thể dùng `Git` thì bạn cứ tải bản zip về, giải nén ra rồi dùng `Notepad`, `Word Office` hoặc bất cứ trình soạn thảo văn bản nào mở các file lên rồi dịch. Sau đó gửi bản dịch cho các translators qua Facebook hoặc email:
+-- Nam Bùi: 
+-- Hưng Trần: mw3tv123@gmail.com
+
+### Facebook Cộng đồng Rimworld Việt Nam: [Rimworld Việt Nam](https://www.facebook.com/groups/429801467205824/)
