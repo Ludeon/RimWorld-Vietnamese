@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
- <!-- Click to jump to problem -->
- <ClickToJumpToProblem></ClickToJumpToProblem>
+  <!-- Click to jump to problem -->
+  <ClickToJumpToProblem>Bấm vào đây để xem sự cố</ClickToJumpToProblem>
 
   <!-- Minor break risk -->
-  <BreakRiskMinor></BreakRiskMinor>
+  <BreakRiskMinor>Suy nhược nhẹ</BreakRiskMinor>
   <!-- Major break risk -->
-  <BreakRiskMajor></BreakRiskMajor>
+  <BreakRiskMajor>Suy nhược cao</BreakRiskMajor>
   <!-- Extreme break risk -->
-  <BreakRiskExtreme></BreakRiskExtreme>
+  <BreakRiskExtreme>Suy nhược cực độ</BreakRiskExtreme>
   <!-- These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc></BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Những thành viên sau đang có tâm trạng kém và có thể rơi vào tình trạng suy nhược nhẹ bất cứ lúc nào:\n\n{0}</BreakRiskMinorDesc>
   <!-- These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc></BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Những thành viên sau đang có tâm trạng tồi tệ và có thể rơi vào tình trạng suy nhược cao bất cứ lúc nào:\n\n{0}</BreakRiskMajorDesc>
   <!-- These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc></BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Những thành viên sau đang vô cùng căng thẳng và có thể rơi vào tình trạng suy nhược cực độ (thậm chí tiêu cực) bất cứ lúc nào:\n\n{0}</BreakRiskExtremeDesc>
   <!-- Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding></BreakRiskDescEnding>
-  
+  <BreakRiskDescEnding>Kiểm tra thẻ "Nhu cầu" của từng thành viên để xem họ cần gì.\n\nBạn có thể cho họ ăn thức ăn ngon, tăng lượng thời gian giải khuây cũng như lượng đồ vật giải trí, cho họ một không gian đẹp, cho phép uống rượu và hút thuốc, vân vân... để giúp các thành viên cảm thấy tốt hơn.</BreakRiskDescEnding>
+
   <!-- Colonist needs rescue -->
-  <ColonistNeedsRescue></ColonistNeedsRescue>
+  <ColonistNeedsRescue>Thành viên cần được giải cứu</ColonistNeedsRescue>
   <!-- Colonists need rescue -->
-  <ColonistsNeedRescue></ColonistsNeedRescue>
+  <ColonistsNeedRescue>Các thành viên cần được giải cứu</ColonistsNeedRescue>
   <!-- These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc></ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Các thành viên sau không còn khả năng đi lại:\n\n{0}\nCử thành viên khác đến giải cứu và đưa họ về giường.\n\n(Cách giải cứu: chọn một thành viên khác, sau đó bấm chuột phải vào nạn nhân và chọn "Giải cứu"</ColonistsNeedRescueDesc>
 
   <!-- Need defenses -->
   <NeedDefenses></NeedDefenses>
@@ -57,7 +57,7 @@
   <LowMedicineDesc></LowMedicineDesc>
   <!-- You have no medicine left in storage.\n\nBuy more medicine from traders. -->
   <NoMedicineDesc></NoMedicineDesc>
-  
+
   <!-- Need colonist beds -->
   <NeedColonistBeds></NeedColonistBeds>
   <!-- You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
@@ -73,13 +73,13 @@
   <!-- These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc></AlertTatteredApparelDesc>
 
- <!-- Unhappy nudity -->
- <AlertUnhappyNudity></AlertUnhappyNudity>
- <!-- These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
- <AlertUnhappyNudityDesc></AlertUnhappyNudityDesc>
+  <!-- Unhappy nudity -->
+  <AlertUnhappyNudity></AlertUnhappyNudity>
+  <!-- These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc></AlertUnhappyNudityDesc>
 
- <!-- Starvation -->
- <Starvation></Starvation>
+  <!-- Starvation -->
+  <Starvation></Starvation>
   <!-- These colonists are starving:\n\n{0}\nGet them some food. -->
   <StarvationDesc></StarvationDesc>
 
@@ -140,7 +140,7 @@
   <NeedResearchProject></NeedResearchProject>
   <!-- You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc></NeedResearchProjectDesc>
-  
+
   <!-- {0} colonists idle -->
   <ColonistsIdle></ColonistsIdle>
   <!-- These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
@@ -155,7 +155,7 @@
   <AlertHypothermia></AlertHypothermia>
   <!-- These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc></AlertHypothermiaDesc>
-  
+
   <!-- {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation></PatientsAwaitingMedicalOperation>
   <!-- These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
@@ -191,10 +191,10 @@
   <NeedWarmClothesDesc1All></NeedWarmClothesDesc1All>
   <!-- The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
   <NeedWarmClothesDesc2></NeedWarmClothesDesc2>
-  
+
   <!-- Immobile caravan -->
   <ImmobileCaravan></ImmobileCaravan>
   <!-- One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
   <ImmobileCaravanDesc></ImmobileCaravanDesc>
-  
+
 </LanguageData>
