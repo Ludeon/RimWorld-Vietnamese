@@ -15,25 +15,25 @@
 
   <!-- Gameplay -->
   <!-- Screen-edge mouse scroll -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <EdgeScreenScroll>Di chuyển màn hình khi con trỏ ở rìa</EdgeScreenScroll>
   <!-- Pause on load -->
-  <PauseOnLoad>Tạm dừng khi vào bản lưu</PauseOnLoad>
+  <PauseOnLoad>Tạm dừng khi vào mới vào game</PauseOnLoad>
   <!-- Pause on urgent letter -->
   <PauseOnUrgentLetter>Tạm dừng khi có tin khẩn</PauseOnUrgentLetter>
   <!-- Custom cursor -->
-  <CustomCursor>Tùy biến con trỏ</CustomCursor>
+  <CustomCursor>Tùy chọn con trỏ</CustomCursor>
   <!-- Hats shown only on game map -->
-  <HatsShownOnlyOnMap>Nón chỉ hiện trên bản đồ trò chơi</HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Mũ không hiện trên thanh dân cư</HatsShownOnlyOnMap>
   <!-- UI scale -->
-  <UIScale>Độ lớn bảng điều khiển</UIScale>
- <!-- Keyboard configuration -->
- <KeyboardConfig>Tùy chỉnh phím tắt</KeyboardConfig>
+  <UIScale>Độ lớn giao diện</UIScale>
+  <!-- Keyboard configuration -->
+  <KeyboardConfig>Tùy chỉnh phím tắt</KeyboardConfig>
   <!-- Choose language -->
   <ChooseLanguage>Chọn ngôn ngữ</ChooseLanguage>
   <!-- Reset learning helper -->
-  <ResetAdaptiveTutor>Đặt hướng dẫn chơi về ban đầu</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Cài đặt mặc định</ResetAdaptiveTutor>
   <!-- Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>Hướng dẫn chơi đã được đặt lại. Bạn sẽ được hướng dẫn chơi trò chơi lại từ đầu.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Hướng dẫn chơi đã được đặt lại. Bạn sẽ được hướng dẫn chơi lại từ đầu.</AdaptiveTutorIsReset>
   <!-- Run in background -->
   <RunInBackground>Cho phép chạy nền</RunInBackground>
   <!-- Development mode -->
@@ -53,11 +53,11 @@
   <!-- Type the first name, nickname, or last name. -->
   <TypeFirstNickOrLastName>Nhập tên, biệt danh hoặc họ.</TypeFirstNickOrLastName>
   <!-- This name is already on the preferred list. -->
-  <MessageAlreadyPreferredName>Tên này đã có trong danh sách tên ưa thích rồi.</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>Tên đã có trong danh sách tên ưa thích.</MessageAlreadyPreferredName>
   <!-- Choose storyteller -->
   <ChangeStoryteller>Lựa chọn người dẫn truyện</ChangeStoryteller>
   <!-- Autosave interval -->
-  <AutosaveInterval>Thời gian định kì tự động lưu</AutosaveInterval>
+  <AutosaveInterval>Khoảng thời gian tự động lưu</AutosaveInterval>
   <!-- Temperature mode -->
   <TemperatureMode>Đơn vị nhiệt độ</TemperatureMode>
   <!-- Show realtime clock -->
@@ -65,15 +65,15 @@
   <!-- Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Số lượng thị trấn tối đa: {0}</MaxNumberOfPlayerSettlements>
   <!-- Plant wind sway -->
-  <PlantWindSway>Hiệu ứng gió thổi</PlantWindSway>
+  <PlantWindSway>Hiệu ứng cây rung khi gió thổi</PlantWindSway>
   <!-- Enable test map sizes -->
   <EnableTestMapSizes>Cho phép kiểm tra độ lớn của bản đồ</EnableTestMapSizes>
   <!-- Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Khoảng cách giữa mỗi lần tự động lưu trong chế độ Permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Khoảng thời gian tối đã giữa mỗi lần tự động lưu trong chế độ Permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
   <!-- Mod Settings -->
   <ModSettings>Cấu hình mod</ModSettings>
   <!-- Permanently disable development mode -->
-  <PermanentlyDisableDevMode>Khóa vĩnh viễn chế độ nhà phát triển</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Tắt vĩnh viễn chế độ nhà phát triển</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- Resolution -->
@@ -89,7 +89,7 @@
   <!-- Gameplay data upload pref. -->
   <ChooseHistoryUploadPref>Cài đặt dữ liệu trò chơi để gửi đi.</ChooseHistoryUploadPref>
   <!-- Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
-  <AboutHistoryUpload>Trải nghiệm của người chơi sẽ giúp nhà phát triển cân bằng và cải thiện trò chơi hơn nữa. Nếu bạn đồng ý, thông tin trong quá trình chơi của bạn sẽ được gửi định kì mỗi {0} ngày trong trò chơi (và trong một tình huống khác như sau khi kết thúc trò chơi) đến máy chủ Rimworl để được phân tích. Thông tin được gửi chỉ bao gồm thông tin của màn chơi đó và tên tài khoản người chơi (sẽ được giữ kín), không bao gồm các thông tin cá nhân nào khác.</AboutHistoryUpload>
+  <AboutHistoryUpload>Trải nghiệm của người chơi sẽ giúp nhà phát triển cân bằng và cải thiện trò chơi hơn nữa. Nếu bạn đồng ý, thông tin trong quá trình chơi của bạn sẽ được gửi định kì mỗi {0} ngày trong trò chơi (và trong một tình huống khác như sau khi kết thúc trò chơi) đến máy chủ Rimworld để được phân tích. Thông tin được gửi chỉ bao gồm thông tin của màn chơi đó và tên tài khoản người chơi (sẽ được giữ kín), không bao gồm các thông tin cá nhân nào khác.</AboutHistoryUpload>
 
   <!-- Mods -->
   <!-- Select mod... -->
