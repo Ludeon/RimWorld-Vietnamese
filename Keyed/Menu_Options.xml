@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <!-- Audiovisuals -->
+  <Audiovisuals>Hiệu chỉnh âm thanh</Audiovisuals>
+  <!-- Game volume -->
+  <GameVolume>Âm thanh trò chơi</GameVolume>
+  <!-- Music volume -->
+  <MusicVolume>Nhạc nền trò chơi</MusicVolume>
+  <!-- Ambient volume -->
+  <AmbientVolume>Âm thanh môi trường</AmbientVolume>
+  <!-- Anti-aliasing -->
+  <Antialiasing>Khử răng cưa</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- Screen-edge mouse scroll -->
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <!-- Pause on load -->
+  <PauseOnLoad>Tạm dừng khi vào bản lưu</PauseOnLoad>
+  <!-- Pause on urgent letter -->
+  <PauseOnUrgentLetter>Tạm dừng khi có tin khẩn</PauseOnUrgentLetter>
+  <!-- Custom cursor -->
+  <CustomCursor>Tùy biến con trỏ</CustomCursor>
+  <!-- Hats shown only on game map -->
+  <HatsShownOnlyOnMap>Nón chỉ hiện trên bản đồ trò chơi</HatsShownOnlyOnMap>
+  <!-- UI scale -->
+  <UIScale>Độ lớn bảng điều khiển</UIScale>
+ <!-- Keyboard configuration -->
+ <KeyboardConfig>Tùy chỉnh phím tắt</KeyboardConfig>
+  <!-- Choose language -->
+  <ChooseLanguage>Chọn ngôn ngữ</ChooseLanguage>
+  <!-- Reset learning helper -->
+  <ResetAdaptiveTutor>Đặt hướng dẫn chơi về ban đầu</ResetAdaptiveTutor>
+  <!-- Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>Hướng dẫn chơi đã được đặt lại. Bạn sẽ được hướng dẫn chơi trò chơi lại từ đầu.</AdaptiveTutorIsReset>
+  <!-- Run in background -->
+  <RunInBackground>Cho phép chạy nền</RunInBackground>
+  <!-- Development mode -->
+  <DevelopmentMode>Chế độ nhà phát triển</DevelopmentMode>
+  <!-- Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>Tự động đặt cấu hình mod về mặc định khi trò chơi bị lỗi</ResetModsConfigOnCrash>
+  <!-- Verbose logging -->
+  <LogVerbose>Ghi chú lại mọi thứ</LogVerbose>
+  <!-- Open save data folder -->
+  <OpenSaveGameDataFolder>Mở thư mục chứa trò chơi đã lưu</OpenSaveGameDataFolder>
+  <!-- Show save data location -->
+  <ShowSaveGameDataLocation>Hiển thị nơi lưu dữ liệu</ShowSaveGameDataLocation>
+  <!-- Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
+  <NamesYouWantToSee>Ưu tiên tên do người chơi tạo. Nếu được bật lên, những tên do người chơi thêm vào sẽ thường được thấy trong trò chơi hơn.</NamesYouWantToSee>
+  <!-- Add name -->
+  <AddName>Thêm tên</AddName>
+  <!-- Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>Nhập tên, biệt danh hoặc họ.</TypeFirstNickOrLastName>
+  <!-- This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>Tên này đã có trong danh sách tên ưa thích rồi.</MessageAlreadyPreferredName>
+  <!-- Choose storyteller -->
+  <ChangeStoryteller>Lựa chọn người dẫn truyện</ChangeStoryteller>
+  <!-- Autosave interval -->
+  <AutosaveInterval>Thời gian định kì tự động lưu</AutosaveInterval>
+  <!-- Temperature mode -->
+  <TemperatureMode>Đơn vị nhiệt độ</TemperatureMode>
+  <!-- Show realtime clock -->
+  <ShowRealtimeClock>Hiển thị thời gian thực tế</ShowRealtimeClock>
+  <!-- Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Số lượng thị trấn tối đa: {0}</MaxNumberOfPlayerSettlements>
+  <!-- Plant wind sway -->
+  <PlantWindSway>Hiệu ứng gió thổi</PlantWindSway>
+  <!-- Enable test map sizes -->
+  <EnableTestMapSizes>Cho phép kiểm tra độ lớn của bản đồ</EnableTestMapSizes>
+  <!-- Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>Khoảng cách giữa mỗi lần tự động lưu trong chế độ Permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- Mod Settings -->
+  <ModSettings>Cấu hình mod</ModSettings>
+  <!-- Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Khóa vĩnh viễn chế độ nhà phát triển</PermanentlyDisableDevMode>
+
+  <!-- Resolution -->
+  <!-- Resolution -->
+  <Resolution>Độ phân giải</Resolution>
+  <!-- Fullscreen -->
+  <Fullscreen>Toàn màn hình</Fullscreen>
+
+  <!-- Privacy -->
+  <!-- Privacy -->
+  <Privacy>Riêng tư</Privacy>
+  <!-- User name -->
+  <UserName>Tên đăng nhập</UserName>
+  <!-- Gameplay data upload pref. -->
+  <ChooseHistoryUploadPref>Cài đặt dữ liệu trò chơi để gửi đi.</ChooseHistoryUploadPref>
+  <!-- Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
+  <AboutHistoryUpload>Trải nghiệm của người chơi sẽ giúp nhà phát triển cân bằng và cải thiện trò chơi hơn nữa. Nếu bạn đồng ý, thông tin trong quá trình chơi của bạn sẽ được gửi định kì mỗi {0} ngày trong trò chơi (và trong một tình huống khác như sau khi kết thúc trò chơi) đến máy chủ Rimworl để được phân tích. Thông tin được gửi chỉ bao gồm thông tin của màn chơi đó và tên tài khoản người chơi (sẽ được giữ kín), không bao gồm các thông tin cá nhân nào khác.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <!-- Select mod... -->
+  <SelectMod>Tùy chọn mod...</SelectMod>
+  <!-- No configurable mods loaded. -->
+  <NoConfigurableMods>Không có mod nào được tải lên</NoConfigurableMods>
+
+  <!-- Options reset -->
+  <!-- Restore to default settings -->
+  <RestoreToDefaultSettings>Phục hồi về thiết lập mặc định</RestoreToDefaultSettings>
+  <!-- Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Đã phục hồi về cài đặt ban đầu. Trò chơi sẽ tự khởi động lại ngay.</ResetAndRestart>
+
+</LanguageData>
