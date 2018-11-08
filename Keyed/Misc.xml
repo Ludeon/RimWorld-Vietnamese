@@ -4,7 +4,7 @@
   <!-- Autosaving -->
   <Autosaving>Đang tự động lưu</Autosaving>
   <!-- The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>3 phi hành đoàn bị đánh thức bởi tiếng còi báo động và tiếng kim loại va vào nhau khi họ nằm trong kén ngủ đông. Họ chỉ kịp chui vào kén thoát hiểm trước khi con tàu nổ tung thành từng mảnh.\n\nMột thời gian sau, kén thoát hiểm của họ đáp xuống 1 hành tinh xa xôi chưa được biết đến.\n\nBằng những gì còn xót lại của con tàu, cả 3 phải bắt đầu nghĩ ra cách để sinh tồn trên vùng đát lạ lẫm này.</GameStartDialog>
+  <GameStartDialog>Ba phi hành đoàn bị đánh thức bởi tiếng còi báo động và tiếng kim loại va vào nhau khi họ nằm trong kén ngủ đông. Họ chỉ kịp chui vào kén thoát hiểm trước khi con tàu nổ tung thành từng mảnh.\n\nMột thời gian sau, kén thoát hiểm của họ đáp xuống một hành tinh xa xôi chưa được biết đến.\n\nBằng những gì còn xót lại của con tàu, cả ba phải bắt đầu nghĩ ra cách để sinh tồn trên vùng đất lạ lẫm này.</GameStartDialog>
   <!-- Colony -->
   <Colony>Thuộc địa</Colony>
   <!-- You can only change language from the options screen on the main menu. -->
@@ -20,7 +20,7 @@
   <!-- development build -->
   <DevelopmentBuildLower>Bản phát triển</DevelopmentBuildLower>
   <!-- Compiled {0} -->
-  <CompiledOn></CompiledOn>
+  <CompiledOn>Biên soạn</CompiledOn>
   <!-- Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Đăng nhập vào Steam bằng tài khoản</LoggedIntoSteamAs>
 
@@ -38,27 +38,27 @@
   <!-- context -->
   <context>nội dung</context>
   <!-- multiplier -->
-  <multiplier>nhân</multiplier>
+  <multiplier>nhân với</multiplier>
   <!-- damage -->
   <damage>sát thương</damage>
   <!-- radius -->
-  <radius>độ rộng</radius>
+  <radius>phạm vi</radius>
   <!-- duration (days) -->
-  <durationDays>khoảng (ngày)</durationDays>
+  <durationDays>kéo dài (ngày)</durationDays>
   <!-- interval (days) -->
-  <intervalDays>khoảng (ngày)</intervalDays>
+  <intervalDays>thời gian giữa các lần (ngày)</intervalDays>
   <!-- repeat -->
   <repeat>lặp lại</repeat>
- <!-- default -->
- <default>mặc định</default>
- <!-- distance -->
- <distance>khoảng cách</distance>
+  <!-- default -->
+  <default>mặc định</default>
+  <!-- distance -->
+  <distance>khoảng cách</distance>
   <!-- YES -->
   <YesUppercase>CÓ</YesUppercase>
   <!-- NO -->
   <NoUppercase>KHÔNG</NoUppercase>
   <!-- kg -->
-  <kg></kg>
+  <kg>kg</kg>
   <!-- Day -->
   <Day>Ngày</Day>
   <!-- day -->
@@ -70,19 +70,19 @@
 
   <!-- Content generation-->
 
- <!-- {0} meat -->
- <MeatLabel>{0} thịt</MeatLabel>
+  <!-- {0} meat -->
+  <MeatLabel>{0} thịt</MeatLabel>
   <!-- Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Thịt sống dùng để nấu ch hoặc ăn sống.</MeatDesc>
+  <MeatDesc>Thịt sống. Có thể nấu chín hoặc ăn sống.</MeatDesc>
   <!-- Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Thịt sống. Có thể nấu chín hoặc ăn sống nếu cần. Mùi vị cực kì kinh khủng.</MeatInsectDesc>
+  <MeatInsectDesc>Thịt côn trùng sống. Có thể nấu chín hoặc thậm chí ăn sống, mùi vị cực kì kinh khủng.</MeatInsectDesc>
   <!-- Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Thịt sống. Có thể nấu chín hoặc ăn sống, mặc dù mọi người đều không thích ý tưởng này.</MeatHumanDesc>
+  <MeatHumanDesc>Thịt người sống. Có thể nấu chín hoặc ăn sống, dù hầu hết mọi người coi đây là việc không nên làm.</MeatHumanDesc>
 
   <!-- {0} corpse -->
   <CorpseLabel>Xác {0}</CorpseLabel>
- <!-- Dead body of a {0}. -->
- <CorpseDesc>Xác chết của 1 {0}</CorpseDesc>
+  <!-- Dead body of a {0}. -->
+  <CorpseDesc>Xác chết của một con {0}</CorpseDesc>
   <!-- {0} (dead) -->
   <DeadLabel>{0} (đã chết)</DeadLabel>
 
@@ -91,18 +91,18 @@
   <!-- Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Nền {0} gồ ghề tự nhiên.</RoughStoneTerrainDesc>
   <!-- rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>{0} gồ gh</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>{0} mài thô</RoughHewnStoneTerrainLabel>
   <!-- Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Cắt thô nền {0} tự nhiên.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>Sàn {0} được mài thô.</RoughHewnStoneTerrainDesc>
   <!-- smooth {0} -->
-  <SmoothStoneTerrainLabel>mài nhẵn {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>{0} mài nhẵn</SmoothStoneTerrainLabel>
   <!-- Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>Mài nhẵn nền {0}</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>Sàn {0} được làm nhẵn</SmoothStoneTerrainDesc>
 
   <!--  (blueprint) -->
-  <BlueprintLabelExtra>(bản thiết kế)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (bản thiết kế)</BlueprintLabelExtra>
   <!--  (building) -->
-  <FrameLabelExtra>(đang xây)</FrameLabelExtra>
+  <FrameLabelExtra> (đang xây dựng)</FrameLabelExtra>
 
   <!-- Unaffiliated -->
   <FactionUnaffiliated>Không liên kết</FactionUnaffiliated>
@@ -111,7 +111,7 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- {0} {1} -->
-  <ThingMadeOfStuffLabel></ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
 
   <!-- {0}'s {1} -->
   <SomeonesRoom>{1} của {0}</SomeonesRoom>
@@ -134,6 +134,4 @@
   <West>Tây</West>
   <!-- East -->
   <East>Đông</East>
-
-
 </LanguageData>

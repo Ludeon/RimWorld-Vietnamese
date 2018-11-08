@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Time -->
+  <ClockTime>Thời gian</ClockTime>
+  <!-- Date -->
+  <ClockDate>Ngày</ClockDate>
+  <!-- Year -->
+  <ClockYear>Năm</ClockYear>
+  <!-- Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Số ngày đã trải qua tính từ lúc bạn đến: {0}\nQuý hiện tại: {4}\nMùa hiện tại: {2}\n\nMột năm được chia làm 4 quý và mỗi quý có {3} ngày. Thời gian mỗi quý ở mọi nơi là như nhau. Tuy nhiên mùa ở các khu vực khác nhau sẽ khác nhau.\n\nMùa ở khu vực hiện tại ở mỗi quý:\n{5}</DateReadoutTip>
+
+  <!-- {0} of {1}, {2} -->
+  <FullDate>{0} của {1}, {2}</FullDate>
+ <!-- {0} of {1}, {2} -->
+ <DateReadout>{0} của {1}, {2}</DateReadout>
+  <!-- {0} of {1} -->
+  <SeasonFullDate>{0} của {1}</SeasonFullDate>
+  <!-- Whole year -->
+  <WholeYear>Cả năm</WholeYear>
+
+</LanguageData>

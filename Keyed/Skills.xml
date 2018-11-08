@@ -4,62 +4,62 @@
   <!-- Level -->
   <Level>Cấp độ</Level>
   <!-- Progress to next level -->
-  <ProgressToNextLevel>Tiến tới cấp độ tiếp theo</ProgressToNextLevel>
+  <ProgressToNextLevel>Tiến trình tới cấp độ tiếp theo</ProgressToNextLevel>
   <!-- Experience -->
   <Experience>Điểm kinh nghiệm</Experience>
   <!-- Passion -->
   <Passion>Đam mê</Passion>
   <!-- None\n   -Learns {0} -->
-  <PassionNone>Không có\n   -Học {0}</PassionNone>
+  <PassionNone>Không có\n   - Tốc độ học {0}</PassionNone>
   <!-- Interested\n   -Learns {0} -->
-  <PassionMinor>Hứng thú\n   -Học {0}</PassionMinor>
+  <PassionMinor>Hứng thú\n   - Tốc độ học {0}</PassionMinor>
   <!-- Burning\n   -Learns {0} -->
-  <PassionMajor>Bừng cháy\n   -Học {0}</PassionMajor>
+  <PassionMajor>Bừng cháy\n   - Tốc độ học {0}</PassionMajor>
   <!-- Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>Đã học tối đa hôm nay ({0}/{1}, điểm kinh nghiệm nhận vào nhân với {2})</LearnedMaxToday>
+  <LearnedMaxToday>Đã học tối đa hôm nay ({0}/{1}, điểm kinh nghiệm nhận vào chỉ còn {2} lần)</LearnedMaxToday>
   <!-- Effects at level {0} -->
   <EffectsAtLevel>Có tác dụng tại cấp độ {0}</EffectsAtLevel>
   <!-- MAX -->
   <SkillMax>Tối đa</SkillMax>
 
   <!-- Barely heard of it -->
-  <Skill0>Chưa từng nghe đến</Skill0>
+  <Skill0>Chưa biết gì</Skill0>
   <!-- Utter beginner -->
-  <Skill1>Biết sơ qua</Skill1>
+  <Skill1>Nghe qua</Skill1>
   <!-- Beginner -->
-  <Skill2>Mới vào nghề</Skill2>
+  <Skill2>Biết sơ sơ</Skill2>
   <!-- Basic familiarity -->
-  <Skill3>Hiểu biết cơ bản</Skill3>
+  <Skill3>Mới vào nghề</Skill3>
   <!-- Some familiarity -->
-  <Skill4>Hiểu biết thông thường</Skill4>
+  <Skill4>Tập sự</Skill4>
   <!-- Significant familiarity -->
-  <Skill5>Hiểu biết đáng kể</Skill5>
+  <Skill5>Thực tập</Skill5>
   <!-- Capable amateur -->
   <Skill6>Nghiệp dư</Skill6>
   <!-- Weak professional -->
-  <Skill7>Có phần chuyên nghiệp</Skill7>
+  <Skill7>Lành nghề</Skill7>
   <!-- Employable professional -->
-  <Skill8>Khá chuyên nghiệp</Skill8>
+  <Skill8>Thông thạo</Skill8>
   <!-- Solid professional -->
-  <Skill9>Rất chuyên nghiệp</Skill9>
+  <Skill9>Bán chuyên</Skill9>
   <!-- Skilled professional -->
-  <Skill10>Lành nghề</Skill10>
+  <Skill10>Chuyên nghiệp</Skill10>
   <!-- Very skilled professional -->
-  <Skill11>Rất lành nghề</Skill11>
+  <Skill11>Rất chuyên nghiệp</Skill11>
   <!-- Expert -->
-  <Skill12>Thành thạo</Skill12>
+  <Skill12>Chuyên gia</Skill12>
   <!-- Strong expert -->
-  <Skill13>Rất thành thạo</Skill13>
+  <Skill13>Chuyên gia cao cấp</Skill13>
   <!-- Master -->
   <Skill14>Bậc thầy</Skill14>
   <!-- Strong master -->
   <Skill15>Lão luyện</Skill15>
   <!-- Region-known master -->
-  <Skill16>Được khu vực công nhận</Skill16>
+  <Skill16>Nổi tiếng khu vực</Skill16>
   <!-- Region-leading master -->
   <Skill17>Đứng đầu khu vực</Skill17>
   <!-- Planet-known master -->
-  <Skill18>Được thế giới công nhận</Skill18>
+  <Skill18>Nổi tiếng thế giới</Skill18>
   <!-- Planet-leading master -->
   <Skill19>Đứng đầu thế giới</Skill19>
   <!-- Legendary master -->

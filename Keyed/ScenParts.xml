@@ -17,10 +17,10 @@
   <ScenPart_StartingResearchFinished>Khởi đầu với nghiên cứu: {0} </ScenPart_StartingResearchFinished>
 
   <!-- Arrive in drop pods. -->
-  <ScenPart_ArriveInDropPods>Tiếp đất bằng phi thuyền.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Tiếp đất bằng kén vận chuyển.</ScenPart_ArriveInDropPods>
 
   <!-- The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>Chỉ số {0} sẽ được nhân với {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Chỉ số "{0}" sẽ được nhân với {1}.</ScenPart_StatFactor>
 
 
   <!-- Pawn modifiers -->
@@ -37,7 +37,7 @@
   <!-- {0} have a {1} chance to start with trait: {2} -->
   <ScenPart_PawnsHaveTrait>{0} có {1} cơ hội bắt đầu với tính cách: {2}</ScenPart_PawnsHaveTrait>
   <!-- Characters and creatures explode on death ({0}, radius {1}). -->
-  <ScenPart_OnPawnDeathExplode>Tất cả mọi sinh vật sẽ nổ khi chết ({0}, tầm nổ {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_OnPawnDeathExplode>Tất cả mọi sinh vật sẽ nổ khi chết ({0}, phạm vi nổ {1}).</ScenPart_OnPawnDeathExplode>
   <!-- {0} start naked. -->
   <ScenPart_PawnsAreNaked>{0} sẽ trần truồng khi bắt đầu trò chơi.</ScenPart_PawnsAreNaked>
 
@@ -63,6 +63,6 @@
   <!-- Incident created -->
   <ScenPart_CreateIncident>Khởi đầu với sự kiện</ScenPart_CreateIncident>
   <!-- Can never build -->
-  <ScenPart_DisallowBuilding>Không cho xây</ScenPart_DisallowBuilding>
+  <ScenPart_DisallowBuilding>Không thể xây</ScenPart_DisallowBuilding>
 
 </LanguageData>
