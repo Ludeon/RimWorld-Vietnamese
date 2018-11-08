@@ -19,19 +19,19 @@
 
   <!-- Misc -->
   <!-- Abandon {{0}}x {0} -->
-  <AbandonSliderText>Bỏ lại {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>Bỏ đi {{0}}x {0}</AbandonSliderText>
   <!-- Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Bạn có chắc muốn bỏ {0}?\n\nVật bỏ lại sẽ biến mất và không thể lấy lại nữa.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Bạn có chắc muốn bỏ {0}?\n\nVật phẩm bỏ đi sẽ biến mất vĩnh viễn.</ConfirmAbandonItemDialog>
   <!-- Abandon -->
-  <AbandonTip>Bỏ lại</AbandonTip>
+  <AbandonTip>Bỏ đi</AbandonTip>
   <!-- Banish -->
   <BanishTip>Trục xuất</BanishTip>
   <!-- Abandon specific count -->
-  <AbandonSpecificCountTip></AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Bỏ đi số lượng cụ thể</AbandonSpecificCountTip>
   <!-- Abandon (all) -->
-  <AbandonAllTip>Bỏ lại (tất cả)</AbandonAllTip>
+  <AbandonAllTip>Bỏ đi (tất cả)</AbandonAllTip>
   <!-- Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Vật phẩm bỏ đi sẽ không bao giờ lấy lại được nữa.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Vật phẩm bỏ đi sẽ biến mất vĩnh viễn.</AbandonItemTipExtraText>
   <!-- {0} will most likely die. -->
   <BanishTipWillDie>{0} có thể sẽ chết.</BanishTipWillDie>
 
@@ -43,7 +43,7 @@
   <!-- Inventory -->
   <CaravanItems>Vật phẩm</CaravanItems>
   <!-- Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Click mở thẻ mới để biết thêm chi tiết</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Bấm vào đây để xem chi tiết</OpenSpecificTabButtonTip>
   <!-- Prisoners -->
   <CaravanPrisoners>Tù nhân</CaravanPrisoners>
   <!-- Inventory -->
@@ -51,19 +51,19 @@
   <!-- None capable -->
   <NoneCapable>Không thể di chuyển</NoneCapable>
   <!-- Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Lữ đoàn không có di chuyển</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Lữ đoàn không di chuyển</GainingJoyBecauseCaravanNotMoving>
 
   <!-- Caravan gear -->
   <!-- Drag to rearrange. -->
-  <DragToRearrange>Kéo để sắp xếp lại</DragToRearrange>
+  <DragToRearrange>Kéo thả để sắp xếp lại</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- Assign drug policies -->
-  <AssignDrugPolicies>Chỉ định luật dùng "thuốc"</AssignDrugPolicies>
+  <AssignDrugPolicies>Chỉ định sử dụng chất kích thích</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Có lẽ người này hoặc con vật này nên được vác bởi những đoàn viên khác khi bị bệnh.\n\n Thành viên được vác theo có thể nghỉ ngơi kể cả khi cả đoàn đang di chuyển nhưng cũng vì vậy mà sẽ kéo cả đoàn chậm theo.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Người hoặc con vật này có nên được vác bởi những thành viên khác khi bị bệnh?\n\n Thành viên được vác theo có thể nghỉ ngơi kể cả khi cả đoàn đang di chuyển nhưng cũng vì vậy mà sẽ kéo cả đoàn chậm theo.</BeCarriedIfSickTip>
 
   <!-- Planet -->
   <!-- Seed -->

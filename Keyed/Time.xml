@@ -16,37 +16,37 @@
   <SecondsLower> giây </SecondsLower>
 
   <!-- spring -->
-  <SeasonSpring>Mùa xuân</SeasonSpring>
+  <SeasonSpring>mùa xuân</SeasonSpring>
   <!-- summer -->
-  <SeasonSummer>Mùa hạ</SeasonSummer>
+  <SeasonSummer>mùa hạ</SeasonSummer>
   <!-- fall -->
-  <SeasonFall>Mùa thu</SeasonFall>
+  <SeasonFall>mùa thu</SeasonFall>
   <!-- winter -->
-  <SeasonWinter>Mùa đông</SeasonWinter>
+  <SeasonWinter>mùa đông</SeasonWinter>
   <!-- permanent summer -->
-  <SeasonPermanentSummer>Mùa hạ vĩnh cữu</SeasonPermanentSummer>
+  <SeasonPermanentSummer>mùa hạ vĩnh cữu</SeasonPermanentSummer>
   <!-- permanent winter -->
-  <SeasonPermanentWinter>Mùa đông vĩnh cữu</SeasonPermanentWinter>
+  <SeasonPermanentWinter>mùa đông vĩnh cữu</SeasonPermanentWinter>
 
   <!-- Aprimay -->
-  <QuadrumAprimay>Quý 1</QuadrumAprimay>
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
   <!-- Jugust -->
-  <QuadrumJugust>Quý 2</QuadrumJugust>
+  <QuadrumJugust>Jugust</QuadrumJugust>
   <!-- Septober -->
-  <QuadrumSeptober>Quý 3</QuadrumSeptober>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
   <!-- Decembary -->
-  <QuadrumDecembary>Quý 4</QuadrumDecembary>
+  <QuadrumDecembary>Decembary</QuadrumDecembary>
 
   <!-- Born: {0} -->
   <Born>Sinh: {0}</Born>
   <!-- Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Tuổi trên giấy tờ: {0} năm, {1} quý, {2} ngày</AgeChronological>
+  <AgeChronological>Tuổi niên đại: {0} năm, {1} quý, {2} ngày</AgeChronological>
   <!-- Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Tuổi thực tế: {0} năm, {1} quý, {2} ngày</AgeBiological>
+  <AgeBiological>Tuổi sinh lý: {0} năm, {1} quý, {2} ngày</AgeBiological>
 
   <!-- Date periods -->
- <!-- 1 year -->
- <Period1Year>1 năm</Period1Year>
+  <!-- 1 year -->
+  <Period1Year>1 năm</Period1Year>
   <!-- {0} years -->
   <PeriodYears>{0} năm</PeriodYears>
   <!-- 1 quadrum -->
@@ -68,10 +68,10 @@
 
   <!-- Misc -->
   <!-- Started -->
-  <Started>Bắt đầu từ lúc</Started>
+  <Started>Bắt đầu từ</Started>
   <!-- Lasted -->
-  <Lasted>Đã tồn tại</Lasted>
+  <Lasted>Đã kéo dài</Lasted>
   <!-- occurred {0} ago -->
-  <OccurredTimeAgo>đã diễn ra {0} trước</OccurredTimeAgo>
+  <OccurredTimeAgo>xảy ra {0} trước</OccurredTimeAgo>
 
 </LanguageData>
