@@ -8,16 +8,21 @@ This is Vietnamese translation data for RimWorld.
 
 ### Dành cho người chơi
 Các bạn làm theo các bước sau để có thể sử dụng được bản dịch chưa chính thức này:
-**1)** Tải về file nén của bản dịch này **(1)** bằng đường link HTTPS **(2)** như trong hình.
-![downloadFile](https://i.imgur.com/X9m8Ecb.png)
 
-**2)** Các bạn vào thư mục **Core** của game (**<ổ đĩa>\Rimworld\Mods\Core\Languages\\**, các bạn sử dụng Steam thì sẽ là **<ổ đĩa>\Stream\steamapps\common\RimWorld\Mods\Core\Languages\\**), chép cả folder **English** ra thư mục mới đặt là **Vietnamese** rồi giải nén các file không có dấu * phía trước trong file zip vừa tải về vào thư mục đó:
+#### 1. Tải về bản mới nhất ở link sau
+https://github.com/Ludeon/RimWorld-Vietnamese/releases/
+
+#### 2. Cài đặt
+
+Các bạn vào thư mục **Core** của game (**<ổ đĩa>\Rimworld\Mods\Core\Languages\\**, các bạn sử dụng Steam thì sẽ là **<ổ đĩa>\Stream\steamapps\common\RimWorld\Mods\Core\Languages\\**), chép cả folder **English** ra thư mục mới đặt là **Vietnamese** rồi giải nén các file không có dấu * phía trước trong file zip vừa tải về vào thư mục đó:
+
 ![unzipFile](https://i.imgur.com/HmtIL3s.png)
 
-**3)** Vào game, ở màn hình chính, các bạn chọn **Options**, chọn ngôn ngữ **Tiếng Việt** và chơi game.
+#### 3. Vào game, ở màn hình chính, các bạn chọn **Options**, chọn ngôn ngữ **Tiếng Việt** và chơi game.
+
 ![changeLanguage](https://i.imgur.com/jJTLkLc.png)
 
--- Các bạn cảm thấy đoạn nào dịch chưa chuẩn, không hay, có ý tưởng thay thế hay hơn có thể gửi qua link Facebook hoặc email bên dưới.
+Các bạn cảm thấy đoạn nào dịch chưa chuẩn, không hay, có ý tưởng thay thế hay hơn có thể gửi qua link Facebook hoặc email bên dưới.
 
 ### Dành cho các bạn muốn dịch
 - Dịch các file có đánh dấu * ở phía trước tên file (VD: ***Alert.xml**)
