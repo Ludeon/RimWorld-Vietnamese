@@ -7,7 +7,7 @@
   <!-- New colony -->
   <NewColony>Chơi mới</NewColony>
   <!-- Back to game -->
-  <BackToGame></BackToGame>
+  <BackToGame>Quay lại trò chơi</BackToGame>
   <!-- Review scenario -->
   <ReviewScenario>Xem các cốt truyện</ReviewScenario>
   <!-- Save -->
@@ -23,27 +23,27 @@
   <!-- Generating translation report -->
   <GeneratingTranslationReport>Tạo báo cáo bản dịch</GeneratingTranslationReport>
   <!-- Credits -->
-  <Credits></Credits>
+  <Credits>Lời cảm ơn</Credits>
   <!-- Quit to main menu -->
   <QuitToMainMenu>Trở về màn hình chính</QuitToMainMenu>
   <!-- Save and quit to menu -->
   <SaveAndQuitToMainMenu>Lưu và thoát ra màn hình chính</SaveAndQuitToMainMenu>
   <!-- Quit to OS -->
-  <QuitToOS>Thoát ra hệ thống</QuitToOS>
+  <QuitToOS>Thoát trò chơi</QuitToOS>
   <!-- Save and quit to OS -->
-  <SaveAndQuitToOS>Lưu và thoát ra hệ thống</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Lưu và thoát khỏi trò chơi</SaveAndQuitToOS>
   <!-- Fiction primer -->
-  <FictionPrimer></FictionPrimer>
+  <FictionPrimer>Cốt truyện</FictionPrimer>
   <!-- Ludeon blog -->
   <LudeonBlog>Trang chủ Ludeon</LudeonBlog>
   <!-- Forums -->
   <Forums>Diễn đàn</Forums>
   <!-- Official wiki -->
-  <OfficialWiki>Trang thông tin Wiki</OfficialWiki>
+  <OfficialWiki>Trang Wiki chính thức</OfficialWiki>
   <!-- Tynan's twitter -->
   <TynansTwitter>Twitter của Tynan</TynansTwitter>
   <!-- Tynan's design book -->
-  <TynansDesignBook>Sách của Tynan</TynansDesignBook>
+  <TynansDesignBook>Sách thiết kế của Tynan</TynansDesignBook>
   <!-- Help translate RimWorld -->
   <HelpTranslate>Giúp dịch Rimworld</HelpTranslate>
   <!-- Buy soundtrack -->
@@ -53,15 +53,15 @@
 
   <!--=========== Main menu translations info window ===========-->
   <!-- All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers. -->
-  <TranslationThanks>Tất cả các bản dịch sang ngôn ngữ khác đều do cộng đồng người hâm mộ Rimworld cung cấp. Bản dịch này được tạo nên từ những người chơi tâm quyết sau: </TranslationThanks>
+  <TranslationThanks>Tất cả các bản dịch sang ngôn ngữ khác đều do cộng đồng người hâm mộ Rimworld cung cấp. Bản dịch này được dịch bởi những người chơi tâm quyết dưới đây.</TranslationThanks>
   <!-- You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Bạn cũng có thể hỗ trợ cho bản dịch bằng cách click vào "Mở trình duyệt" bên dưới.</TranslationHowToContribute>
+  <TranslationHowToContribute>Bạn có thể đóng góp cho bản dịch bằng cách bấm vào nút bên dưới (Mở trang mới trong trình duyệt).</TranslationHowToContribute>
   <!-- Learn more -->
   <LearnMore>Tìm hiểu thêm</LearnMore>
 
   <!--=========== Create/review world ================-->
   <!-- Review world -->
-  <ReviewWorld>Tổng quát lại thế giới</ReviewWorld>
+  <ReviewWorld>Tổng quan thế giới</ReviewWorld>
   <!-- Generate -->
   <WorldGenerate>Tạo</WorldGenerate>
   <!-- Save and finish -->
@@ -89,9 +89,9 @@
   <!-- Seed -->
   <WorldSeed>Hạt giống</WorldSeed>
   <!-- Randomize seed -->
-  <RandomizeSeed>Lựa ngẫu nhiên hạt giống</RandomizeSeed>
+  <RandomizeSeed>Chọn hạt giống ngẫu nhiên</RandomizeSeed>
   <!-- The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Tất cả các hành tinh đều có như nhau, nhưng vì số lượng địa điểm lớn hơn cả số lượng cần thiết để chơi nên ta không cần thiết phải tạo hết cả bề mặt hành tinh vì nó sẽ tốn khá nhiều thời gian. Đây là tỉ lệ bề mặt hành tinh mà bạn muốn tạo.</PlanetCoverageTip>
+  <PlanetCoverageTip>Tất cả các hành tinh đều có độ lớn như nhau, nhưng vì bạn sẽ chỉ chơi trên một phần nhỏ của cả hành tinh nên việc tạo dựng toàn bộ bề mặt hành tinh là không cần thiết và sẽ tốn khá nhiều thời gian. Đây là tỉ lệ bề mặt hành tinh mà bạn muốn tạo.</PlanetCoverageTip>
   <!-- Factions -->
   <WorldFactionsTab>Băng nhóm</WorldFactionsTab>
 
@@ -106,12 +106,12 @@
   <!--=========== Version info ==========-->
   <!-- Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Hiện đã có phiên bản {0}. Truy cập trang ludeon.com để biết thêm chi tiết.</BuildNowAvailable>
- <!-- This is the latest version. -->
- <BuildUpToDate>Đây là phiên bản mới nhất.</BuildUpToDate>
- <!-- Error getting version info: {0} -->
- <ErrorGettingVersionInfo>Có lỗi khi lấy thông tin phiên bản: {0}</ErrorGettingVersionInfo>
- <!-- Loading version info... -->
- <LoadingVersionInfo>Đang tải thông tin phiên bản...</LoadingVersionInfo>
+  <!-- This is the latest version. -->
+  <BuildUpToDate>Đây là phiên bản mới nhất.</BuildUpToDate>
+  <!-- Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>Có lỗi khi lấy thông tin phiên bản: {0}</ErrorGettingVersionInfo>
+  <!-- Loading version info... -->
+  <LoadingVersionInfo>Đang tải thông tin phiên bản...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <!-- Generate world -->
@@ -127,15 +127,15 @@
   <!-- Show mods data location -->
   <ShowModsDataLocation>Hiện nơi chứa thông tin mod</ShowModsDataLocation>
   <!-- Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Bạn có chắc là khóa mod Core không? Trò chơi sẽ không chạy được trừ khi bạn có mod khác có thể thay thế hiến chức năng của Core.\n\nHãy nhớ rằng các mod khác có thể cài đè dữ liệu def trong thư mục Core.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Bạn có chắc là muốn tắt mod Core không? Trò chơi sẽ không chạy được trừ khi bạn có mod khác có thể thay thế hiến chức năng của Core.\n\nHãy nhớ rằng các mod khác có thể chỉnh sửa dữ liệu từ Core.</ConfirmDisableCoreMod>
   <!-- Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Bạn có chắc chắn xóa hết nội dung của {0}?</ConfirmDeleteMod>
   <!-- Unsubscribe -->
-  <Unsubscribe>Bỏ đăng kí</Unsubscribe>
+  <Unsubscribe>Hủy theo dõi</Unsubscribe>
   <!-- Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Bạn có chắc rằng không muốn đăng kí {0} nữa?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Bạn có chắc muốn bỏ theo dõi mod {0}?</ConfirmUnsubscribe>
   <!-- Author -->
-  <Author>Người viết mod</Author>
+  <Author>Tác giả</Author>
   <!-- Workshop page -->
   <WorkshopPage>Trang Workshop</WorkshopPage>
   <!-- Upload to Steam Workshop -->
@@ -155,11 +155,11 @@
   <!-- For version: {0} -->
   <ModTargetVersion>Cho phiên bản: {0}</ModTargetVersion>
   <!-- This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Bản mod không dành cho phiên bản Rimworld hiện tại.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Bản mod không phù hợp với phiên bản Rimworld hiện tại, việc sử dụng có thể sẽ khiến trò chơi gặp sự cố.</ModNotMadeForThisVersion>
   <!-- Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>Bản mod này cần chỉ rõ phiên bản Rimworld trong tập tin About.xml. Ví dụ: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
   <!-- Drag to reorder -->
-  <DragToReorder>Kéo để sắp xếp lại</DragToReorder>
+  <DragToReorder>Kéo thả để sắp xếp lại</DragToReorder>
 
   <!--=========== Select scenario =============-->
   <!-- Choose scenario -->
@@ -189,21 +189,21 @@
   <!-- Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Bạn có muốn tải lên Steam Workshop kịch bản này?\n\nBạn phải đồng ý với điều khoản dịch vụ của Steam Workshop. Xem chi tiết của điều khoản tại đây:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor></ConfirmContentAuthor>
+  <ConfirmContentAuthor>Kịch bản mà bạn tải lên nên là do chính bạn sáng tạo ra. Đây có phải kịch bản bạn tự nghĩ ra không?</ConfirmContentAuthor>
   <!-- Incompatible -->
   <Incompatible>Không thích hợp</Incompatible>
   <!-- Too many (max {0}):  -->
   <TooMany>Quá nhiều (tối đa {0}):</TooMany>
   <!-- Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Có thể cập nhật trên Workshop do bạn là chủ sở hữu.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Có thể cập nhật trên Workshop (do bạn là chủ sở hữu).</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
   <!-- Choose AI Storyteller -->
   <ChooseAIStoryteller>Chọn người dẫn truyện</ChooseAIStoryteller>
   <!-- The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>Người dẫn truyện là một AI hệ thống đảm nhận việc tạo ra các sự kiện trong trò chơi như băng cướp, tặng tài nguyên ngẫu nhiên hoặc thú nổi điên,... Các sự kiện này sẽ ảnh hưởng tới quá trình phát triển của người dân của bạn. Bạn có thể thay đổi các thiết lập đó bất kì lúc nào.</HowStorytellersWork>
+  <HowStorytellersWork>Người dẫn truyện là một trí tuệ nhân tạo đảm nhận việc tạo ra các sự kiện ngẫu nhiên trong trò chơi như băng cướp, thời tiết cực đoan, hàng hỗ trợ hay động vật nổi điên, vv... Các sự kiện này sẽ ảnh hưởng tới quá trình phát triển của thị trấn bạn. Bạn có thể thay đổi người dẫn truyện bất kì lúc nào.</HowStorytellersWork>
   <!-- Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Hãy lựa chọn độ khó</MustChooseDifficulty>
+  <MustChooseDifficulty>Lựa chọn độ khó</MustChooseDifficulty>
   <!-- Difficulty -->
   <Difficulty>Độ khó</Difficulty>
 
@@ -223,15 +223,15 @@
   <!-- You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Bạn không thể đáp ở khu vực núi cao.</CannotLandImpassableMountains>
   <!-- {0} already have a base there. -->
-  <BaseAlreadyThere>{0} đã có 1 thị trấn ở đó.</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} đã có một thị trấn ở đó.</BaseAlreadyThere>
   <!-- You already have a base there. -->
-  <YourBaseAlreadyThere>Bạn đã có sẵn 1 thị trấn ở đó.</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Bạn đã có sẵn một thị trấn ở đó.</YourBaseAlreadyThere>
   <!-- This tile is occupied. -->
-  <TileOccupied>Ô đất này đã bị chiếm.</TileOccupied>
+  <TileOccupied>Vùng đất này đã bị chiếm.</TileOccupied>
   <!-- Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Các thị trấn không được nằm cạnh với nhau.</FactionBaseAdjacent>
   <!-- Biome -->
-  <Biome>Kiểu sinh thái</Biome>
+  <Biome>Hệ sinh thái</Biome>
   <!-- Terrain -->
   <Terrain>Địa hình</Terrain>
   <!-- Road -->
@@ -244,10 +244,10 @@
   <Fertility>Độ phì nhiêu</Fertility>
   <!-- Average temperature -->
   <AvgTemp>Nhiệt độ trung bình</AvgTemp>
- <!-- Rainfall -->
- <Rainfall>Lượng mưa</Rainfall>
+  <!-- Rainfall -->
+  <Rainfall>Lượng mưa</Rainfall>
   <!-- Special features -->
-  <SpecialFeatures>Đặc điểm</SpecialFeatures>
+  <SpecialFeatures>Nét đặc biệt</SpecialFeatures>
   <!-- northern coast -->
   <HasCoast0>bờ biển phía bắc</HasCoast0>
   <!-- eastern coast -->
@@ -259,44 +259,43 @@
   <!-- caves -->
   <HasCaves>hang động</HasCaves>
   <!-- Faction base -->
-  <FactionBase></FactionBase>
+  <FactionBase>Thị trấn của băng nhóm</FactionBase>
   <!-- Stone types -->
   <StoneTypesHere>Loại đá</StoneTypesHere>
   <!-- Time zone -->
-  <TimeZone>Mốc giờ</TimeZone>
- <!-- Movement difficulty -->
- <MovementDifficulty>Mức độ khó khăn khi di chuyển</MovementDifficulty>
+  <TimeZone>Múi giờ</TimeZone>
+  <!-- Movement difficulty -->
+  <MovementDifficulty>Cản trở di chuyển</MovementDifficulty>
   <!-- Animals can graze now -->
   <AnimalsCanGrazeNow>Động vật có thể gặm cỏ</AnimalsCanGrazeNow>
   <!-- Average disease frequency -->
-  <AverageDiseaseFrequency>Mật độ nhiễm bệnh</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Tần suất nhiễm bệnh</AverageDiseaseFrequency>
   <!-- per year -->
   <PerYear>mỗi năm</PerYear>
   <!-- Forageability -->
-  <Forageability>Tính khả thi</Forageability>
+  <Forageability>Hoa quả tự nhiên</Forageability>
   <!-- None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Không có ai trong số người dân bạn tạo có khả năng làm công việc sau:\n\n{0}\n\nViệc này có thể khiến trò chơi gặp khó khăn ở thời kì đầu. Bạn có chắc chắn tiếp tục?</ConfirmRequiredWorkTypeDisabledForEveryone>
-
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Không có ai trong số người dân của bạn có khả năng làm công việc sau:\n\n{0}\n\nViệc này có thể khiến trò chơi gặp khó khăn ở giai đoạn đầu. Bạn có muốn tiếp tục?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
 	<!--=========== Character chooser ==========-->
   <!-- Create characters -->
   <CreateCharacters>Tạo nhân vật</CreateCharacters>
   <!-- The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>Tên của nhân vật.\n\nTên này chỉ hiển thị ở 1 số chỗ trong trò chơi.</FirstNameDesc>
+  <FirstNameDesc>Tên của nhân vật.\n\nTên này chỉ hiển thị ở một số bảng chọn.</FirstNameDesc>
   <!-- The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Biệt danh của nhân vật. Tên này sẽ được hiển thị mọi lúc trong trò chơi. Tên này có thể là tên, họ hoặc 1 biệt danh khác của nhân vật.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Tên nhân vật được gọi. Tên này sẽ được hiển thị ở mọi nơi trong trò chơi. Tên này có thể là tên, họ hoặc biệt danh nhân vật.</ShortIdentifierDesc>
   <!-- The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>Họ của nhân vật.\n\nTên này chỉ hiển thị ở 1 vài nơi trong trò chơi.</LastNameDesc>
+  <LastNameDesc>Họ của nhân vật.\n\nTên họ này chỉ hiển thị ở một số bảng chọn.</LastNameDesc>
   <!-- Randomize -->
   <Randomize>Ngẫu nhiên</Randomize>
   <!-- age {0} -->
-  <AgeIndicator>tuổi {0}</AgeIndicator>
+  <AgeIndicator>{0} tuổi</AgeIndicator>
   <!-- Backstory -->
   <Backstory>Tiểu sử</Backstory>
   <!-- Incapable of -->
   <IncapableOf>Không có khả năng</IncapableOf>
   <!-- Traits -->
-  <Traits>Đặc điểm</Traits>
+  <Traits>Tính cách</Traits>
   <!-- Permanent mood effect -->
   <PermanentMoodEffect>Ảnh hưởng tâm lí vĩnh viễn</PermanentMoodEffect>
   <!-- Skills -->
@@ -304,9 +303,9 @@
   <!-- none -->
   <NoneLower>không có</NoneLower>
   <!-- Adulthood -->
-  <Adulthood>Thời niên thiếu</Adulthood>
+  <Adulthood>Trưởng thành</Adulthood>
   <!-- Childhood -->
-  <Childhood>Thời thơ ấu</Childhood>
+  <Childhood>Tuổi thơ</Childhood>
   <!-- Current -->
   <Current>Hiện tại</Current>
   <!-- male -->
@@ -320,11 +319,11 @@
   <!-- Relations -->
   <Relations>Mối quan hệ</Relations>
   <!-- Team skills -->
-  <TeamSkills>Tổng quan kĩ năng của cả nhóm</TeamSkills>
+  <TeamSkills>Tổng quan kĩ năng của nhóm</TeamSkills>
   <!-- Selected -->
   <StartingPawnsSelected>Được chọn</StartingPawnsSelected>
   <!-- Left behind -->
-  <StartingPawnsLeftBehind>Bỏ lại phía sau</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Bỏ lại</StartingPawnsLeftBehind>
 
   <!--=========== Misc ==========-->
   <!-- Start -->
@@ -338,11 +337,11 @@
   <!-- Gameplay -->
   <Gameplay>Cách chơi</Gameplay>
   <!-- Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Chắc chắn thoát chứ? Thông tin chưa được lưu lại sẽ mất hết đó.</ConfirmQuit>
+  <ConfirmQuit>Chắc chắn thoát? Bạn sẽ mất hết thông tin chưa được lưu.</ConfirmQuit>
   <!-- Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Mỗi người dân cần có 1 cái tên đúng quy cách.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Mỗi người dân cần có tên đúng quy cách.</EveryoneNeedsValidName>
   <!-- None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Không có ai trong số người dân bạn chọn có làm được việc sau:</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Không ai trong số người dân bạn chọn có làm được việc sau:</RequiredWorkTypeDisabledForEveryone>
   <!-- Quit -->
   <Quit>Thoát</Quit>
   <!-- Ignore -->
@@ -350,9 +349,9 @@
 
   <!--============ Progress bar==============-->
   <!-- Generating world -->
-  <GeneratingWorld>Đang tạo lập thế giới</GeneratingWorld>
+  <GeneratingWorld>Đang tạo thế giới</GeneratingWorld>
   <!-- Generating planet -->
-  <GeneratingPlanet>Đang tạo ra hành tinh</GeneratingPlanet>
+  <GeneratingPlanet>Đang tạo hành tinh</GeneratingPlanet>
   <!-- Generating map -->
   <GeneratingMap>Đang tạo bản đồ</GeneratingMap>
   <!-- Generating map for new encounter -->

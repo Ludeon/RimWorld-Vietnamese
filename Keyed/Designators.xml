@@ -2,112 +2,112 @@
 <LanguageData>
   
   <!-- Cancel -->
-  <DesignatorCancel></DesignatorCancel>
+  <DesignatorCancel>Dừng</DesignatorCancel>
   <!-- Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc></DesignatorCancelDesc>
+  <DesignatorCancelDesc>Ngưng làm các công việc đang được chỉ định</DesignatorCancelDesc>
 
   <!-- Cut plants -->
-  <DesignatorCutPlants></DesignatorCutPlants>
+  <DesignatorCutPlants>Chặt cây</DesignatorCutPlants>
   <!-- Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc></DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Đánh dấu cây hoặc bụi cây để cắt bỏ lấy chỗ trống, quả hoặc gỗ rơi ra sẽ được giữ lại.</DesignatorCutPlantsDesc>
 
   <!-- Deconstruct -->
-  <DesignatorDeconstruct></DesignatorDeconstruct>
+  <DesignatorDeconstruct>Phá bỏ</DesignatorDeconstruct>
   <!-- Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc></DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Phá bỏ vật này và lấy lại một phần nguyên vật liệu.</DesignatorDeconstructDesc>
 
   <!-- Uninstall -->
-  <DesignatorUninstall></DesignatorUninstall>
+  <DesignatorUninstall>Gỡ cài đặt</DesignatorUninstall>
   <!-- Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc></DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Gỡ cài đặt vật này để di chuyển, cất trữ hoặc đem bán.</DesignatorUninstallDesc>
 
   <!-- Harvest -->
-  <DesignatorHarvest></DesignatorHarvest>
+  <DesignatorHarvest>Thu hoạch</DesignatorHarvest>
   <!-- Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc></DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Đánh dấu cây trồng để thu hoạch.</DesignatorHarvestDesc>
 
   <!-- Chop wood -->
-  <DesignatorHarvestWood></DesignatorHarvestWood>
+  <DesignatorHarvestWood>Chặt gỗ</DesignatorHarvestWood>
   <!-- Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc></DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Đánh dấu cây trưởng thành để chặt lấy củi.</DesignatorHarvestWoodDesc>
 
   <!-- Haul things -->
-  <DesignatorHaulThings></DesignatorHaulThings>
+  <DesignatorHaulThings>Vận chuyển</DesignatorHaulThings>
   <!-- Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc></DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Đánh dấu đá tảng và một vài vật khác để được phép vận chuyển đến nơi chứa, không cần thiết cho những vật như thức ăn hay xác chết, vì những vật này luôn được phép. </DesignatorHaulThingsDesc>
   <!-- Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables></MustHaulHaulables>
+  <MustHaulHaulables>Chỉ có thể đánh dấu những vật vận chuyển được và phải không luôn-được-phép-vận-chuyển</MustHaulHaulables>
 
   <!-- Hunt -->
-  <DesignatorHunt></DesignatorHunt>
+  <DesignatorHunt>Săn bắn</DesignatorHunt>
   <!-- Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc></DesignatorHuntDesc>
+  <DesignatorHuntDesc>Đánh dấu động vật để thợ săn săn.</DesignatorHuntDesc>
 
   <!-- Mine -->
-  <DesignatorMine></DesignatorMine>
+  <DesignatorMine>Khai thác</DesignatorMine>
   <!-- Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc></DesignatorMineDesc>
+  <DesignatorMineDesc>Đánh dấu một vùng đá để khai thác.</DesignatorMineDesc>
 
   <!-- Smooth surface -->
-  <DesignatorSmoothSurface></DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Làm nhẵn bề mặt</DesignatorSmoothSurface>
   <!-- Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc></DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Đánh dấu khu vực có bề mặt gồ ghề để làm nhẵn.</DesignatorSmoothSurfaceDesc>
 
   <!-- Plan -->
-  <DesignatorPlan></DesignatorPlan>
+  <DesignatorPlan>Kế hoạch</DesignatorPlan>
   <!-- Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc></DesignatorPlanDesc>
+  <DesignatorPlanDesc>Phác thảo kế hoạch xây dựng, giúp bạn định hình việc xây dựng ngôi làng của mình.</DesignatorPlanDesc>
 
   <!-- Remove plans -->
-  <DesignatorPlanRemove></DesignatorPlanRemove>
+  <DesignatorPlanRemove>Xóa kế hoạch</DesignatorPlanRemove>
   <!-- Remove planning designations. -->
-  <DesignatorPlanRemoveDesc></DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Xóa kế hoạch đã phác thảo</DesignatorPlanRemoveDesc>
 
   <!-- Forbid -->
-  <DesignatorForbid></DesignatorForbid>
+  <DesignatorForbid>Nghiêm cấm</DesignatorForbid>
   <!-- Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc></DesignatorForbidDesc>
+  <DesignatorForbidDesc>Đánh dấu những vật mà bạn không muốn người dân tiếp xúc với chúng</DesignatorForbidDesc>
 
   <!-- Unforbid -->
-  <DesignatorUnforbid></DesignatorUnforbid>
+  <DesignatorUnforbid>Cho phép</DesignatorUnforbid>
   <!-- Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc></DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Đánh dấu những vật mà người dân được phép tiếp xúc với chúng</DesignatorUnforbidDesc>
 
   <!-- Expand home area -->
-  <DesignatorAreaHomeExpand></DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Mở rộng khu vực nhà</DesignatorAreaHomeExpand>
   <!-- Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc></DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Người dân sẽ tự động sửa chữa, dọn dẹp và dập tắt các đám cháy trong khu vực nhà.</DesignatorAreaHomeExpandDesc>
   <!-- Clear home area -->
-  <DesignatorAreaHomeClear></DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Thu hẹp khu vực nhà</DesignatorAreaHomeClear>
   <!-- Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc></DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Người dân sẽ không sửa chữa, dọn dẹp và dập tắt các đám cháy ở đây nữa.</DesignatorAreaHomeClearDesc>
 
   <!-- Build roof area -->
-  <DesignatorAreaBuildRoofExpand></DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Mở rộng khu vực lợp mái</DesignatorAreaBuildRoofExpand>
   <!-- Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc></DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Người dân sẽ xây mái nhà ở khu vực này.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- Remove roof area -->
-  <DesignatorAreaNoRoofExpand></DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Mở rộng khu vực dỡ mái</DesignatorAreaNoRoofExpand>
   <!-- Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc></DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Người dân sẽ dỡ bỏ mái nhà ở khu vực này.</DesignatorAreaNoRoofExpandDesc>
 
   <!-- Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand></DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Không quan tâm đến mái</DesignatorAreaIgnoreRoofExpand>
   <!-- Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc></DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Người dân sẽ không quan tâm đến việc ở đây có mái nhà hay không.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand></DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Mở rộng khu vực dọn tuyết</DesignatorAreaSnowClearExpand>
   <!-- Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc></DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Người dân sẽ cố gắng dọn sạch tuyết ở khu vực này</DesignatorAreaSnowClearExpandDesc>
   <!-- Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear></DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Thu hẹp khu vực dọn tuyết</DesignatorAreaSnowClearClear>
   <!-- Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc></DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Người dân không dọn tuyết ở khu vực này nữa.</DesignatorAreaSnowClearClearDesc>
 
   <!-- Expand allowed area -->
-  <DesignatorExpandAreaAllowed></DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Mở rộng khu vực cho phép</DesignatorExpandAreaAllowed>
   <!-- Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc></DesignatorExpandAreaAllowedDesc>
   <!-- Clear allowed area -->
@@ -179,25 +179,25 @@
 
   <!-- Failure messages -->
   <!-- Unchosen material -->
-  <UnchosenStuff></UnchosenStuff>
+  <UnchosenStuff>Vật liệu không được chọn</UnchosenStuff>
   <!-- Too close to map edge. -->
-  <TooCloseToMapEdge></TooCloseToMapEdge>
+  <TooCloseToMapEdge>Quá gần mép bản đồ.</TooCloseToMapEdge>
   <!-- Out of bounds. -->
-  <OutOfBounds></OutOfBounds>
+  <OutOfBounds>Ngoài phạm vi quy định.</OutOfBounds>
   <!-- Cannot place in undiscovered areas. -->
-  <CannotPlaceInUndiscovered></CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>Không thể đặt ở khu vực chưa được khám phá.</CannotPlaceInUndiscovered>
   <!-- Interaction spot is blocked by {0}. -->
-  <InteractionSpotBlocked></InteractionSpotBlocked>
+  <InteractionSpotBlocked>Nơi làm việc bị chặn bởi {0}.</InteractionSpotBlocked>
   <!-- Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds></InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>Nơi làm việc ngoài phạm vi quy định.</InteractionSpotOutOfBounds>
   <!-- Interaction spot will be blocked by {0}. -->
-  <InteractionSpotWillBeBlocked></InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Nơi làm việc sẽ bị chặn bởi {0}.</InteractionSpotWillBeBlocked>
   <!-- {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot></WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0} sẽ chặn nơi để người dân làm việc của {1}.</WouldBlockInteractionSpot>
   <!-- The terrain here is already {0}. -->
-  <TerrainIsAlready></TerrainIsAlready>
+  <TerrainIsAlready>Vùng đất ở đây đã được {0}.</TerrainIsAlready>
   <!-- The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed></SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Vùng đất ở đây đã được đánh.</SurfaceBeingSmoothed>
   <!-- Identical thing already exists here. -->
   <IdenticalThingExists></IdenticalThingExists>
   <!-- Identical blueprint already exists here. -->
@@ -216,19 +216,19 @@
   
   <!-- Mouse attachments -->
   <!-- Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone></ExpandOrCreateZone>
+  <ExpandOrCreateZone>Mở rộng {0} hoặc\nTạo {1} mới</ExpandOrCreateZone>
   <!-- Create new {0} -->
-  <CreateNewZone></CreateNewZone>
+  <CreateNewZone>Tạo {0} mới</CreateNewZone>
   
   
   <!-- Desc helpers -->
   <!-- Transmits power -->
-  <TransmitsPower></TransmitsPower>
+  <TransmitsPower>Truyền tải điện</TransmitsPower>
   <!-- Construction needed -->
-  <ConstructionNeeded></ConstructionNeeded>
+  <ConstructionNeeded>Cần được xây</ConstructionNeeded>
   <!-- None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip></NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>Không ai trong số {0} của bạn có kĩ năng này.</NoColonistWithConstructionSkillTip>
   <!-- All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip></AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Những {0} của bạn có kĩ năng này không được chỉ định để {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>
