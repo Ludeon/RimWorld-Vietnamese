@@ -5,7 +5,7 @@
   <!-- hit points -->
   <HitPointsBasic>điểm sát thương</HitPointsBasic>
   <!-- Work left -->
-  <WorkLeft></WorkLeft>
+  <WorkLeft>Lượng công việc</WorkLeft>
   <!-- Contents -->
   <Contents>Nội dung</Contents>
   <!-- Contained resources -->
@@ -391,7 +391,7 @@
   <!-- Dodge -->
   <TextMote_Dodge>Né</TextMote_Dodge>
   <!-- {0} tended -->
-  <TextMote_Tended></TextMote_Tended>
+  <TextMote_Tended>{0} chất lượng</TextMote_Tended>
 
   <!-- Areas -->
   <!-- Home -->
@@ -507,7 +507,7 @@
   <!-- Target lying down -->
   <TargetProne>Mục tiêu nằm dưới đất</TargetProne>
   <!-- Target size -->
-  <TargetSize></TargetSize>
+  <TargetSize>Độ lớn mục tiêu</TargetSize>
   <!-- Weather -->
   <Weather>Thời tiết</Weather>
   <!-- Cover -->
@@ -517,7 +517,7 @@
   <!-- no cover -->
   <NoCoverLower>không ẩn nấp</NoCoverLower>
   <!-- Execution -->
-  <Execution>Xử tử</Execution>
+  <Execution>Kết liễu</Execution>
 
   <!-- Generated recipes -->
   <!-- make {0} -->
@@ -525,13 +525,13 @@
   <!-- Making {0}. -->
   <RecipeMakeJobString>Đang làm {0}.</RecipeMakeJobString>
   <!-- administer {0} -->
-  <RecipeAdminister></RecipeAdminister>
+  <RecipeAdminister>Ép dùng {0}</RecipeAdminister>
   <!-- Administering {0}. -->
-  <RecipeAdministerJobString></RecipeAdministerJobString>
+  <RecipeAdministerJobString>Đang ép dùng {0}.</RecipeAdministerJobString>
   <!-- teetotaler will be unhappy -->
-  <TeetotalerUnhappy></TeetotalerUnhappy>
+  <TeetotalerUnhappy>người kiêng cồn sẽ không vui</TeetotalerUnhappy>
   <!-- body purist will be unhappy -->
-  <ProsthophobeUnhappy></ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>tấm thân thuần khiết sẽ không vui</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- Expires in: {0} -->
@@ -541,11 +541,11 @@
   <!-- Finishes expiring in: {0} -->
   <ThoughtFinishesExpiringIn>Kết thúc hết hạn trong: {0}</ThoughtFinishesExpiringIn>
   <!-- Extreme break threshold -->
-  <MentalBreakThresholdExtreme></MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>Nộ khí xung thiên</MentalBreakThresholdExtreme>
   <!-- Major break threshold -->
-  <MentalBreakThresholdMajor></MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>Nộ khí vừa phải</MentalBreakThresholdMajor>
   <!-- Minor break threshold -->
-  <MentalBreakThresholdMinor></MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>Nộ khí chớm nở</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- {0} {1} -->
@@ -667,11 +667,11 @@
 
   <!-- Plants -->
   <!-- {0} grown -->
-  <PercentGrowth></PercentGrowth>
+  <PercentGrowth>Mức sinh trưởng: {0}</PercentGrowth>
   <!-- Growth rate -->
   <GrowthRate>Tốc độ sinh trưởng</GrowthRate>
   <!-- Fully grown in {0} of growth. -->
-  <FullyGrownIn></FullyGrownIn>
+  <FullyGrownIn>Phát triển đầy đủ trong {0}.</FullyGrownIn>
   <!-- Needs light level -->
   <PlantNeedsLightLevel>Mức độ ánh sáng yêu cầu</PlantNeedsLightLevel>
   <!-- Resting -->
@@ -729,33 +729,33 @@
 
   <!-- Buttons -->
   <!-- Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton></ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Bật/Tắt hiển thị hướng dẫn chơi khi nó trống.\n\nHướng dẫn chơi sẽ luôn hiển thị nếu có một mục mà bạn đang chọn trong đó.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các khu vực.</ZoneVisibilityToggleButton>
   <!-- Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton></ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Bật/tắt hiển thị độ thẩm mĩ.\n\nĐộ thẩm mĩ của khu vực con trỏ bạn đạn chỉ tới thể hiện người dân bạn cảm thấy đẹp thế nào khi đứng đấy.</ShowBeautyToggleButton>
   <!-- Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton></ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Bật/tắt thông tin của phòng.\n\nHiển thị thông tin của phòng mà con chuột bạn đang chỉ vào.</ShowRoomStatsToggleButton>
   <!-- Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton></ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Bật/tắt thanh hiển thị người dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của tất cả người dân dọc màn hình phía trên.\n\nBạn có thể sắp xếp lại bằng cách giữ chuột phải trên hình người dân và kéo đến vị trị mong muốn.</ShowColonistBarToggleButton>
   <!-- Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton></AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Bật/tắt tự động mở rộng khu vực nhà ở xung quanh công trình mới xây.</AutoHomeAreaToggleButton>
   <!-- Toggle automatic rebuild of destroyed structures. -->
-  <AutoRebuildButton></AutoRebuildButton>
+  <AutoRebuildButton>Bật/tắt tự động xây lại công trình bị phá hủy.</AutoRebuildButton>
   <!-- Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton></CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Bật/tắt bảng tự động phân loại tài nguyên.</CategorizedResourceReadoutToggleButton>
   <!-- Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton></ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Bật/tắt hiển thị tên thú đã đã thuần hóa.</ShowAnimalNamesToggleButton>
   <!-- Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton></ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>Bật/tắt hiển thị mái nhà.</ShowRoofOverlayToggleButton>
   <!-- Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton></LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>Khóa xoay camera.</LockNorthUpToggleButton>
   <!-- Toggle day/night lighting system. -->
-  <UsePlanetDayNightSystemToggleButton></UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Bật/tắt hiệu ứng ngày đêm.</UsePlanetDayNightSystemToggleButton>
   <!-- Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton></ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Bật/tắt hiện biểu tượng từ xa thay cho biểu tượng thường.</ShowExpandingIconsToggleButton>
   <!-- Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton></ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Bật/tắt hiện tên địa điểm.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <!-- Fire -->
@@ -919,11 +919,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- {0}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing></DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{1} của {0} đang phát triển.</DiseaseGrowthModeChanged_Growing>
   <!-- {0}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable></DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{1} của {0} đã ổn định lại.</DiseaseGrowthModeChanged_Stable>
   <!-- {0}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission></DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{1} của {0} đang thuyên giảm.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- Usable now. -->
@@ -1021,7 +1021,7 @@
   <!-- Est. travel time: {0} -->
   <EstimatedTimeToTile>Tổng thời gian di chuyển: {0}</EstimatedTimeToTile>
   <!-- Foraged food amount -->
-  <ForagedFoodAmount></ForagedFoodAmount>
+  <ForagedFoodAmount>Lượng cỏ dại</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- Anything -->
