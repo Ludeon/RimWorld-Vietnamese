@@ -1,0 +1,1048 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <!-- hit points -->
+  <HitPointsBasic>điểm sát thương</HitPointsBasic>
+  <!-- Work left -->
+  <WorkLeft>Lượng công việc</WorkLeft>
+  <!-- Contents -->
+  <Contents>Nội dung</Contents>
+  <!-- Contained resources -->
+  <ContainedResources>Tài nguyên bên trong</ContainedResources>
+  <!-- For prisoner use -->
+  <ForPrisonerUse>Giành cho tù nhân</ForPrisonerUse>
+  <!-- In prison cell: For prisoner use -->
+  <InPrisonCell>Trong phòng giam: Giành cho tù nhân dùng</InPrisonCell>
+  <!-- For colonist use -->
+  <ForColonistUse>Giành cho dân</ForColonistUse>
+  <!-- Medical -->
+  <MedicalBed>Giường y tế</MedicalBed>
+  <!-- Owner -->
+  <Owner>Chủ sở hữu</Owner>
+  <!-- Owners -->
+  <Owners>Những người sở hữu</Owners>
+  <!-- Assigned colonist -->
+  <AssignedColonist>Chỉ định chủ sở hữu</AssignedColonist>
+  <!-- Died on the {0} -->
+  <DiedOn>Chết ở {0}</DiedOn>
+  <!-- Nobody -->
+  <Nobody>Không ai cả</Nobody>
+  <!-- Unowned -->
+  <Unowned>Vô chủ</Unowned>
+  <!-- Dead for {0} -->
+  <DeadTime>Đã chết {0}</DeadTime>
+  <!-- walk speed {0} -->
+  <WalkSpeed>tốc độ di chuyển {0}</WalkSpeed>
+  <!-- fert. -->
+  <FertShort>phì nhiêu</FertShort>
+  <!-- dying -->
+  <DyingLower>Đang chết dần.</DyingLower>
+  <!-- Filth on feet: -->
+  <FilthOnFeet>Chất thải dính chân</FilthOnFeet>
+  <!-- not enough stored -->
+  <NotEnoughStoredLower>không đủ kho</NotEnoughStoredLower>
+  <!-- nothing -->
+  <NothingLower>không có gì</NothingLower>
+  <!-- Adapted -->
+  <Adapted>Thích nghi</Adapted>
+  <!-- fresh -->
+  <FreshMissingBodyPart>tươi</FreshMissingBodyPart>
+  <!-- developed immunity -->
+  <DevelopedImmunityLower>tạo được kháng thể miễn dịch</DevelopedImmunityLower>
+  <!-- Needs tending now -->
+  <NeedsTendingNow>Cần điều trị ngay</NeedsTendingNow>
+  <!-- Can tend now -->
+  <CanTendNow>Có thể điều trị ngay</CanTendNow>
+  <!-- Tending expires in {0} -->
+  <TreatmentExpiresIn>Điều trị hết tác dụng sau {0}</TreatmentExpiresIn>
+  <!-- Can be tended in {0} -->
+  <NextTendIn>Có thể điều trị sau {0}</NextTendIn>
+  <!-- Tend quality -->
+  <TendQuality>Chất lượng điều trị</TendQuality>
+  <!-- no {0} -->
+  <MissingMedicalBillIngredient>không {0}</MissingMedicalBillIngredient>
+  <!-- Immunity -->
+  <Immunity>Miễn dịch</Immunity>
+  <!-- Race -->
+  <Race>Loại sinh vật</Race>
+  <!-- Description -->
+  <Description>Mô tả</Description>
+  <!-- Equipment -->
+  <Equipment>Trang bị</Equipment>
+  <!-- Apparel -->
+  <Apparel>Trang phục</Apparel>
+  <!-- Inventory -->
+  <Inventory>Đồ dùng</Inventory>
+  <!-- Information -->
+  <ThingInfo>Thông tin</ThingInfo>
+  <!-- Drop -->
+  <DropThing>Bỏ</DropThing>
+  <!-- Rename -->
+  <Rename>Đổi tên</Rename>
+  <!-- Rename animal -->
+  <RenameAnimal>Đổi tên thú nuôi</RenameAnimal>
+  <!-- Rename colonist -->
+  <RenameColonist>Đổi tên dân</RenameColonist>
+  <!-- unknown -->
+  <UnknownLower>không rõ</UnknownLower>
+  <!-- On -->
+  <On>Bật</On>
+  <!-- Off -->
+  <Off>Tắt</Off>
+  <!-- Power -->
+  <PowerSwitch_Power>Năng lượng</PowerSwitch_Power>
+  <!-- Recreation type tolerances -->
+  <JoyTolerances>Giới hạn mỗi loại hình giải trí</JoyTolerances>
+  <!-- Milk fullness -->
+  <MilkFullness>Mức độ sữa</MilkFullness>
+  <!-- Wool growth -->
+  <WoolGrowth>Độ dày của len</WoolGrowth>
+  <!-- Egg progress -->
+  <EggProgress>Mức độ phát triển của trứng</EggProgress>
+  <!-- Fertilized -->
+  <Fertilized>Đã được thụ tinh</Fertilized>
+  <!-- Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>Ngừng phát triển cho đến khi  thụ tinh</ProgressStoppedUntilFertilized>
+  <!-- need {0} level {2}, have {1} -->
+  <SkillTooLow>cần {0} cấp {2}, hiện tại có {1}</SkillTooLow>
+  <!-- Freezing -->
+  <Freezing>Đông lạnh</Freezing>
+  <!-- Overheating -->
+  <Overheating>Quá nóng</Overheating>
+  <!-- Ruined by temperature. -->
+  <RuinedByTemperature>Hỏng do nhiệt độ</RuinedByTemperature>
+  <!-- Missing body parts -->
+  <CorpsePercentMissing>Mất 1 phần cơ thể</CorpsePercentMissing>
+  <!-- Reproduces in -->
+  <HiveReproducesIn>Tái sản xuất trong</HiveReproducesIn>
+  <!-- Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>Bất hoạt: Dừng sản xuất</DormantHiveNotReproducing>
+  <!-- Next {0} in -->
+  <NextSpawnedItemIn>Đợt tiếp theo trong {0}</NextSpawnedItemIn>
+  <!-- Broken down -->
+  <BrokenDown>Hư hại</BrokenDown>
+  <!-- (bond) -->
+  <BondBrackets>(trung thành)</BondBrackets>
+  <!-- Fuel -->
+  <Fuel>Nhiên liệu</Fuel>
+  <!-- Fuel -->
+  <FuelLevelGizmoLabel>Nhiên liệu</FuelLevelGizmoLabel>
+  <!-- Set target fuel level to {0} -->
+  <SetTargetFuelLevel>Đặt mức nhiên liệu ở {0}</SetTargetFuelLevel>
+  <!-- Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>Đặt mức nhiên liệu ở {0}\nKhoảng cách bay được: {1} ô</SetPodLauncherTargetFuelLevel>
+  <!-- Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>Chỉ tiêu mức nhiên liệu: {0}</ConfiguredTargetFuelLevel>
+  <!-- enemies -->
+  <Enemies>kẻ thù</Enemies>
+  <!-- time passed -->
+  <TimePassed>thời gian đã trôi qua</TimePassed>
+  <!-- current radius -->
+  <CurrentRadius>bán kính hiện tại</CurrentRadius>
+  <!-- radius expands in -->
+  <RadiusExpandsIn>bán kính mở rộng trong</RadiusExpandsIn>
+  <!-- permanent -->
+  <Permanent>vĩnh viễn</Permanent>
+  <!-- Resting -->
+  <CaravanResting>Đang nghỉ ngơi</CaravanResting>
+  <!-- using 1 bedroll -->
+  <UsingBedroll>đang sử dụng 1 túi ngủ</UsingBedroll>
+  <!-- using {0} bedrolls -->
+  <UsingBedrolls>đang sử dụng {0} túi ngủ</UsingBedrolls>
+  <!-- Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>Ước tính thời gian tới đích: {0} day</CaravanEstimatedTimeToDestination>
+  <!-- Estimated days to arrive: {0} -->
+  <CaravanEstimatedDaysToDestination>Ước tính ngày tới đích: {0}</CaravanEstimatedDaysToDestination>
+  <!-- Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>Bất động: quá nặng để di chuyển.</CaravanImmobilizedByMass>
+  <!-- Out of food. -->
+  <CaravanOutOfFood>Hết lương thực</CaravanOutOfFood>
+  <!-- Days of food: {0} -->
+  <CaravanDaysOfFood>Số ngày lương thực: {0}</CaravanDaysOfFood>
+  <!-- Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>Số ngày lương thực: {0} (hư sau {1} ngày)</CaravanDaysOfFoodRot>
+  <!-- Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>Cả đoàn đã dừng lại do: tất cả thành viên đã bất tỉnh.</AllCaravanMembersDowned>
+  <!-- Stopped because: Everyone has a mental break. -->
+  <AllCaravanMembersMentalBreak>Cả đoàn đã dừng lại do: tất cả thành viên đã nổi điên.</AllCaravanMembersMentalBreak>
+  <!-- {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- 1 animal -->
+  <CaravanAnimal>1 con thú</CaravanAnimal>
+  <!-- {0} animals -->
+  <CaravanAnimalsCount>{0} con thú</CaravanAnimalsCount>
+  <!-- 1 prisoner -->
+  <CaravanPrisoner>1 tù nhân</CaravanPrisoner>
+  <!-- {0} prisoners -->
+  <CaravanPrisonersCount>{0} tù nhân</CaravanPrisonersCount>
+  <!-- {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} đang nổi điên</CaravanPawnsInMentalState>
+  <!-- {0} downed -->
+  <CaravanPawnsDowned>{0} đã gục.</CaravanPawnsDowned>
+  <!-- Traveling. -->
+  <CaravanTraveling>Đang di chuyển</CaravanTraveling>
+  <!-- Resting. -->
+  <CaravanPaused>Đang nghỉ ngơi</CaravanPaused>
+  <!-- Waiting. -->
+  <CaravanWaiting>Đang đợi</CaravanWaiting>
+  <!-- Being carried due to illness -->
+  <BeingCarriedDueToIllness>Đang được cõng do bệnh tật</BeingCarriedDueToIllness>
+  <!-- Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>Đang dùng túi ngủ do bệnh tật</UsingBedrollsDueToIllness>
+  <!-- Current tile movement time -->
+  <CurrentTileMovementTime>Thời gian di chuyển từng ô hiện tại</CurrentTileMovementTime>
+  <!-- Visibility -->
+  <Visibility>Tầm nhìn</Visibility>
+  <!-- Temperature -->
+  <Temperature>Nhiệt độ</Temperature>
+  <!-- bad temperature -->
+  <BadTemperature>Nhiệt độ không tốt</BadTemperature>
+  <!-- Ideal fermenting temperature -->
+  <IdealFermentingTemperature>Nhiệt độ lí tưởng</IdealFermentingTemperature>
+  <!-- {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>ảnh hương của {0} gấp: {1}</DrugEffectMultiplier>
+  <!-- Visiting {0}. -->
+  <CaravanVisiting>Đang thăm {0}</CaravanVisiting>
+  <!-- Entering {0}. -->
+  <CaravanEntering>Đang tiến vào</CaravanEntering>
+  <!-- Attacking {0}. -->
+  <CaravanAttacking>Đang tấn công {0}</CaravanAttacking>
+  <!-- Offering gifts to {0}. -->
+  <CaravanOfferingGifts>Tặng quà hữu nghị cho {0}</CaravanOfferingGifts>
+  <!-- Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>Nhiễm khuẩn do từng mặc bởi xác chết</WasWornByCorpse>
+  <!-- T -->
+  <WornByCorpseChar>Nhiễm khuẩn</WornByCorpseChar>
+  <!-- unroofed -->
+  <DeterioratingUnroofed>không có mái nhà</DeterioratingUnroofed>
+  <!-- outdoors -->
+  <DeterioratingOutdoors>ngoài trời</DeterioratingOutdoors>
+  <!-- Deteriorating because of -->
+  <DeterioratingBecauseOf>Đang hư hại do</DeterioratingBecauseOf>
+  <!-- Map -->
+  <Map>Bản đồ</Map>
+  <!-- {0} until leaving -->
+  <ForceExitAndRemoveMapCountdown>{0} trước khi rời đi</ForceExitAndRemoveMapCountdown>
+  <!-- Your colonists will automatically reform the caravan and leave this area in {0}. -->
+  <ForceExitAndRemoveMapCountdownTip>Dân của bạn sẽ tự động tập hợp và rời khỏi nơi này sau {0}.</ForceExitAndRemoveMapCountdownTip>
+  <!-- Room -->
+  <Room>Phòng</Room>
+  <!-- Beauty here -->
+  <BeautyHere>Thẩm mỹ</BeautyHere>
+  <!-- No power -->
+  <NoPower>Không có năng lượng</NoPower>
+  <!-- Work speed penalty -->
+  <WorkSpeedPenalty>Năng suất giảm</WorkSpeedPenalty>
+  <!-- DISABLED -->
+  <DisabledCommand>ĐÃ TẮT</DisabledCommand>
+  <!-- Ready for launch. -->
+  <ReadyForLaunch>Sẵn sàng để phóng.</ReadyForLaunch>
+  <!-- Not ready for launch -->
+  <NotReadyForLaunch>Chưa sẵn sàng để phóng.</NotReadyForLaunch>
+  <!-- no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>không có bồn nhiên liệu</NotAllInGroupConnectedToFuelingPort>
+  <!-- no fuel -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>không có nhiên liệu</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- loading in progress -->
+  <TransportPodInGroupHasSomethingLeftToLoad>đang tải</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>Quá tầm bay</TransportPodDestinationBeyondMaximumRange>
+  <!-- Not enough fuel -->
+  <TransportPodNotEnoughFuel>Không đủ nhiên liệu</TransportPodNotEnoughFuel>
+  <!-- {0} of {1} -->
+  <SettlementTrader>{0} của {1}</SettlementTrader>
+  <!-- Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>Tỉ lệ phẫu thuật thành công ảnh hưởng bởi phòng</RoomSurgerySuccessChanceFactor>
+  <!-- Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>Tỉ lệ nhiễm bệnh ảnh hưởng từ phòng</RoomInfectionChanceFactor>
+  <!-- Closed -->
+  <VentClosed>Đã đóng</VentClosed>
+  <!-- worn by {0} -->
+  <WornBy>đã mặc bởi {0}</WornBy>
+  <!-- equipped by {0} -->
+  <EquippedBy>trang bị bởi {0}</EquippedBy>
+  <!-- {0} wants this destroyed.\n    Reward: {1}. -->
+  <QuestTargetDestroyInspectString>{0} muốn phá hủy nó.\n   Phần thưởng: {1}.</QuestTargetDestroyInspectString>
+  <!-- Time left: {0} -->
+  <WorldObjectTimeout>Thời gian còn lại: {0}</WorldObjectTimeout>
+  <!-- Efficiency: {0} -->
+  <LongRangeMineralScannerEfficiency>Độ hiệu quả: {0}</LongRangeMineralScannerEfficiency>
+  <!-- Contents: {0} -->
+  <ItemStashContents>Chứa: {0}</ItemStashContents>
+  <!-- Click to sort by this column. -->
+  <ClickToSortByThisColumn>Click để sắp xếp theo cột này.</ClickToSortByThisColumn>
+  <!-- Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>Shift + click trái: Tăng độ ưu tiên\nShift + click phải: Giảm độ ưu tiên</WorkPriorityShiftClickTip>
+  <!-- Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click trái: Cho phép tất cả\nShift + click phải: Khóa tất cả</WorkPriorityShiftClickEnableDisableTip>
+  <!-- Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>Shift + click trái: Giới hạn tất cả ở khu vực nhà\nShift + click phải: Không giới hạn khu vực</AllowedAreaShiftClickTip>
+  <!-- Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>Shift + click trái: Chọn tất cả\nShift + click phải: Bỏ đánh dấu tất cả</CheckboxShiftClickTip>
+  <!-- Known threat: {0} -->
+  <KnownSiteThreat>Nguy hiểm: {0}</KnownSiteThreat>
+  <!-- Known threats: {0} -->
+  <KnownSiteThreats>Nguy hiểm: {0}</KnownSiteThreats>
+  <!-- Known threats: None -->
+  <KnownSiteThreatsNone>Nguy hiểm: Không có</KnownSiteThreatsNone>
+  <!-- Skill Requirements -->
+  <SkillRequirements>Kĩ năng yêu cầu</SkillRequirements>
+  <!-- Products -->
+  <Products>Sản xuất</Products>
+  <!-- {0} of {1} -->
+  <Relationship>{0} của {1}</Relationship>
+  <!-- Prisoner -->
+  <Prisoner>Tù nhân</Prisoner>
+  <!-- Refugee -->
+  <Refugee>Dân tị nạn</Refugee>
+  <!-- Terrain movement difficulty -->
+  <TileMovementDifficulty>Khó khăn khi di chuyển qua địa hình này</TileMovementDifficulty>
+  <!-- Impassable -->
+  <Impassable>Đéo qua được</Impassable>
+  <!-- Caravan movement speed -->
+  <CaravanMovementSpeedFull>Tốc độ của đoàn vận tải</CaravanMovementSpeedFull>
+  <!-- downed -->
+  <DownedLower>bất động</DownedLower>
+  <!-- carried -->
+  <Carried>được cõng</Carried>
+  <!-- Avg. person move speed -->
+  <AverageCaravanMemberMoveSpeed>Tốc độ di chuyển trung bình/người</AverageCaravanMemberMoveSpeed>
+  <!-- Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>Ảnh hưởng bởi tải trọngL {0}</MultiplierForCarriedMass>
+  <!-- Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>Tốc độ các thành viên trong đoàn</FinalCaravanPawnsMovementSpeed>
+  <!-- Final speed -->
+  <FinalCaravanMovementSpeed>Tốc độ cuối cùng</FinalCaravanMovementSpeed>
+  <!-- Winter -->
+  <Winter>Mùa đông</Winter>
+  <!-- {0} in winter -->
+  <MovementDifficultyOffsetInWinter>{0} trong mùa đông</MovementDifficultyOffsetInWinter>
+  <!-- to -->
+  <RangeTo>đến</RangeTo>
+  <!-- No letter -->
+  <NoDietCategoryLetter>Không có thư</NoDietCategoryLetter>
+  <!-- Expires in -->
+  <ExpiresIn>Hết hạn sau</ExpiresIn>
+  <!-- {0}'s caravan -->
+  <CaravanLeaderCaravanName>đoàn vận tải của {0}</CaravanLeaderCaravanName>
+  <!-- Reason -->
+  <Reason>Lí do</Reason>
+  <!-- Relations with {0} -->
+  <RelationsWith>Quan hệ với {0}</RelationsWith>
+  <!-- captured by {0} -->
+  <capturedBy>bị bắt bởi {0}</capturedBy>
+  <!-- your caravan -->
+  <yourCaravan>đoàn của bạn</yourCaravan>
+  <!-- {0} wildness -->
+  <CreatureWildness>{0} hoang dã</CreatureWildness>
+  <!-- {0} trainability -->
+  <CreatureTrainability>Khả năng huấn luyện{0}</CreatureTrainability>
+  <!-- {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} với {1}</ProximitySingleGoodwillChange>
+  <!-- You can't re-enter for another {0} days. -->
+  <EnterCooldown>Bạn không thể vào sau {0} ngày.</EnterCooldown>
+  <!-- Caravan -->
+  <Caravan>Đoàn vận tải</Caravan>
+  <!-- there may be danger there -->
+  <HiddenOrNoSitePartDescription>có thể có nguy hiểm ở đó</HiddenOrNoSitePartDescription>
+  <!-- lump of {0} -->
+  <PreciousLumpLabel>cụm {0}</PreciousLumpLabel>
+
+  <!-- Fermentation barrel -->
+  <!-- Contains {0} / {1} wort. -->
+  <ContainsWort>Chứa {0} / {1} men.</ContainsWort>
+  <!-- Contains {0} / {1} beer. -->
+  <ContainsBeer>Chứa {0} / {1} chai bia.</ContainsBeer>
+  <!-- Fermented -->
+  <Fermented>Đã lên men</Fermented>
+  <!-- Progress: {0} ({1} left) -->
+  <FermentationProgress>Tiến trình: {0} (còn {1})</FermentationProgress>
+  <!-- Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>Nhiệt độ không thích hợp. Tốc độ lên men còn: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  <!--TextMotes-->
+  <!-- Headshot -->
+  <Headshot>Headshot</Headshot>
+  <!-- Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>Chữa thành công!\n{0} cơ hội</TextMote_TreatSuccess>
+  <!-- Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>Chữa thất bại!\n{0} cơ hội</TextMote_TreatFailed>
+  <!-- Harvest\nbotched -->
+  <TextMote_HarvestFailed>Thu hoạch\nthất bại</TextMote_HarvestFailed>
+  <!-- Yield\nwasted -->
+  <TextMote_YieldWasted>Ủ\nthất bại</TextMote_YieldWasted>
+  <!-- Product\nwasted -->
+  <TextMote_ProductWasted>Sản xuất\nthất bại</TextMote_ProductWasted>
+  <!-- Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>Thu phục thất bại!\n{0} cơ hội</TextMote_RecruitFail>
+  <!-- Tame failed\n{0} chance -->
+  <TextMote_TameFail>Thuần hóa thất bại!\n{0} cơ hội</TextMote_TameFail>
+  <!-- Tamed!\n{0} chance -->
+  <TextMote_TameSuccess>Thuần hóa thành công!\n{0} cơ hội</TextMote_TameSuccess>
+  <!-- Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>Huấn luyện thất bại: {0}\n{1} cơ hội</TextMote_TrainFail>
+  <!-- Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>Huấn luyện: {0}\n{1} cơ hội</TextMote_TrainSuccess>
+  <!-- Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>Sửa\nthất bại</TextMote_FixBrokenDownBuildingFail>
+  <!-- Construction\nbotched -->
+  <TextMote_ConstructionFail>Xây\nthất bại</TextMote_ConstructionFail>
+  <!-- Dodge -->
+  <TextMote_Dodge>Né</TextMote_Dodge>
+  <!-- {0} tended -->
+  <TextMote_Tended>{0} chất lượng</TextMote_Tended>
+
+  <!-- Areas -->
+  <!-- Home -->
+  <Home>Nơi sống</Home>
+  <!-- Build roof -->
+  <BuildRoof>Có mái</BuildRoof>
+  <!-- No roof -->
+  <NoRoof>Không mái</NoRoof>
+  <!-- Snow clear -->
+  <SnowClear>Dọn tuyết</SnowClear>
+  <!-- Area {0} -->
+  <AreaDefaultLabel>Khu vực {0}</AreaDefaultLabel>
+  <!-- Unrestricted -->
+  <NoAreaAllowed>Không giới hạn</NoAreaAllowed>
+  <!-- New area -->
+  <NewArea>Khu vực mới</NewArea>
+  <!-- Invert -->
+  <InvertArea>Đảo ngược</InvertArea>
+
+  <!-- Control -->
+  <!-- Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>Không thể ra lệnh cho người mà bạn không điều khiển.</CannotOrderNonControlled>
+  <!-- {0} is incapable of violence. -->
+  <IsIncapableOfViolence>{0} không thích vũ lực.</IsIncapableOfViolence>
+  <!-- incapable of violence -->
+  <IsIncapableOfViolenceShort>không thích vũ lực</IsIncapableOfViolenceShort>
+  <!-- {0} is not drafted. -->
+  <IsNotDrafted>{0} chưa ở chế độ chiến đấu.</IsNotDrafted>
+
+  <!-- Snow -->
+  <!-- No snow -->
+  <SnowNone>Không có tuyết</SnowNone>
+  <!-- Snow (dusting) -->
+  <SnowDusting>Tuyết (bụi)</SnowDusting>
+  <!-- Snow (thin) -->
+  <SnowThin>Tuyết (mỏng)</SnowThin>
+  <!-- Snow (medium) -->
+  <SnowMedium>Tuyết (vừa)</SnowMedium>
+  <!-- Snow (thick) -->
+  <SnowThick>Tuyết (dày)</SnowThick>
+
+  <!-- Turrets -->
+  <!-- Installed -->
+  <GunInstalled>Đã dựng xong.</GunInstalled>
+  <!-- Minimum range -->
+  <MinimumRange>Tầm bắn tối thiểu</MinimumRange>
+  <!-- Can fire in -->
+  <CanFireIn>Có thể bắn sau</CanFireIn>
+  <!-- Cannot fire -->
+  <CannotFire>Không thể bắn</CannotFire>
+  <!-- roofed -->
+  <Roofed>mái nhà che</Roofed>
+  <!-- Shell loaded: {0} -->
+  <ShellLoaded>Đạn đã nạp: {0}</ShellLoaded>
+  <!-- Not loaded -->
+  <ShellNotLoaded>Chưa nạp đạn.</ShellNotLoaded>
+
+  <!-- Job reports -->
+  <!-- hauling {0} to {1}. -->
+  <ReportHaulingTo>đang mang {0} tới {1}.</ReportHaulingTo>
+  <!-- hauling {0}. -->
+  <ReportHauling>đang mang {0}.</ReportHauling>
+  <!-- hauling. -->
+  <ReportHaulingUnknown>đang vác đồ.</ReportHaulingUnknown>
+  <!-- sleeping. -->
+  <ReportSleeping>đang ngủ.</ReportSleeping>
+  <!-- resting. -->
+  <ReportResting>đang nghỉ ngơi.</ReportResting>
+  <!-- watching the sunrise. -->
+  <WatchingSunrise>đang ngắm bình minh.</WatchingSunrise>
+  <!-- cloudwatching. -->
+  <CloudWatching>đang ngắm chim.</CloudWatching>
+  <!-- watching the sunset. -->
+  <WatchingSunset>đang ngắm hoàng hôn.</WatchingSunset>
+  <!-- stargazing. -->
+  <Stargazing>đang ngắm sao.</Stargazing>
+  <!-- watching the eclipse. -->
+  <WatchingEclipse>đang ngắm nhật thực</WatchingEclipse>
+  <!-- watching the aurora. -->
+  <WatchingAurora>đang ngắm cực quang.</WatchingAurora>
+  <!-- using {0} on {1}. -->
+  <UsingVerb>đang dùng {0} trên {1}.</UsingVerb>
+  <!-- area -->
+  <AreaLower>khu vực</AreaLower>
+  <!-- cowering. -->
+  <ReportCowering>đang lẩn trốn.</ReportCowering>
+  <!-- standing. -->
+  <ReportStanding>đang đứng.</ReportStanding>
+  <!-- extinguishing fire. -->
+  <ReportExtinguishingFire>đang dập lửa.</ReportExtinguishingFire>
+  <!-- extinguishing fire on {0}. -->
+  <ReportExtinguishingFireOn>đang dập lửa trên {0}.</ReportExtinguishingFireOn>
+  <!-- digging up corpse. -->
+  <ReportDiggingUpCorpse>đang đào xác.</ReportDiggingUpCorpse>
+
+  <!-- Lord job reports -->
+  <!-- Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>Đang tham dự hôn lễ</LordReportAttendingMarriageCeremony>
+  <!-- Attending party -->
+  <LordReportAttendingParty>Đang dự tiệc</LordReportAttendingParty>
+  <!-- Forming caravan -->
+  <LordReportFormingCaravan>Đang tập hợp đội</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- Weapon miss radius -->
+  <WeaponMissRadius>Độ lệch hồng tâm</WeaponMissRadius>
+  <!-- Shooter -->
+  <ShootReportShooterAbility>Kĩ năng</ShootReportShooterAbility>
+  <!-- Weapon -->
+  <ShootReportWeapon>Vũ khí</ShootReportWeapon>
+  <!-- Darkness -->
+  <Darkness>Trời tối</Darkness>
+  <!-- Target lying down -->
+  <TargetProne>Mục tiêu nằm dưới đất</TargetProne>
+  <!-- Target size -->
+  <TargetSize>Độ lớn mục tiêu</TargetSize>
+  <!-- Weather -->
+  <Weather>Thời tiết</Weather>
+  <!-- Cover -->
+  <ShootingCover>Ản nấp</ShootingCover>
+  <!-- {0} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{0} dừng {1}</CoverThingBlocksPercentOfShots>
+  <!-- no cover -->
+  <NoCoverLower>không ẩn nấp</NoCoverLower>
+  <!-- Execution -->
+  <Execution>Kết liễu</Execution>
+
+  <!-- Generated recipes -->
+  <!-- make {0} -->
+  <RecipeMake>làm {0}</RecipeMake>
+  <!-- Making {0}. -->
+  <RecipeMakeJobString>Đang làm {0}.</RecipeMakeJobString>
+  <!-- administer {0} -->
+  <RecipeAdminister>Ép dùng {0}</RecipeAdminister>
+  <!-- Administering {0}. -->
+  <RecipeAdministerJobString>Đang ép dùng {0}.</RecipeAdministerJobString>
+  <!-- teetotaler will be unhappy -->
+  <TeetotalerUnhappy>người kiêng cồn sẽ không vui</TeetotalerUnhappy>
+  <!-- body purist will be unhappy -->
+  <ProsthophobeUnhappy>tấm thân thuần khiết sẽ không vui</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- Expires in: {0} -->
+  <ThoughtExpiresIn>Kết thúc sau: {0}</ThoughtExpiresIn>
+  <!-- Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>Bắt đầu hết hạn trong: {0}</ThoughtStartsExpiringIn>
+  <!-- Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>Kết thúc hết hạn trong: {0}</ThoughtFinishesExpiringIn>
+  <!-- Extreme break threshold -->
+  <MentalBreakThresholdExtreme>Nộ khí xung thiên</MentalBreakThresholdExtreme>
+  <!-- Major break threshold -->
+  <MentalBreakThresholdMajor>Nộ khí vừa phải</MentalBreakThresholdMajor>
+  <!-- Minor break threshold -->
+  <MentalBreakThresholdMinor>Nộ khí chớm nở</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- {0} {1} -->
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- {0} of {1} -->
+  <PawnMainDescFactionedWrap>{0} của {1}</PawnMainDescFactionedWrap>
+  <!-- {1} {0} -->
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <!-- Faction -->
+  <Faction>Băng nhóm</Faction>
+  <!-- Equipped -->
+  <Equipped>Trang bị</Equipped>
+  <!-- nothing -->
+  <EquippedNothing>không có gì</EquippedNothing>
+  <!-- Dead -->
+  <Dead>Đã chết</Dead>
+  <!-- Unconscious -->
+  <Unconscious>Bất tỉnh</Unconscious>
+  <!-- In shock due to pain -->
+  <PainShock>Đang bị sốc vì đau</PainShock>
+  <!-- Pain shock -->
+  <PainShockShort>Sốc cơn đau</PainShockShort>
+  <!-- Incapacitated -->
+  <Incapacitated>Bất động</Incapacitated>
+  <!-- In restraints (slowed) -->
+  <InRestraints>Đang bị giam giữ</InRestraints>
+  <!-- Carrying -->
+  <Carrying>Đang mang</Carrying>
+  <!-- Affected by: -->
+  <AffectedBy>Ảnh hưởng bởi</AffectedBy>
+  <!-- Queued -->
+  <Queued>Hàng đợi</Queued>
+  <!-- State -->
+  <State>Tình trạng</State>
+  <!-- stun -->
+  <StunLower>choáng</StunLower>
+
+  <!-- Inspector general stuff -->
+  <!-- Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>Chọn vật tiếp theo trong cùng ô.\n\nPhím tắt: {0}\n\nHoặc click vào cùng 1 ô vuông chậm rãi để chọn vật tiếp theo.</SelectNextInSquareTip>
+  <!-- View information about this object. -->
+  <DefInfoTip>Xem thông tin của vật này</DefInfoTip>
+
+  <!-- Hostility response -->
+  <!-- Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>Phản ứng của người này lúc gặp nguy hiểm khi không ở chế độ chiến đấu.</HostilityReponseTip>
+  <!-- Current mode -->
+  <HostilityResponseCurrentMode>Phản ứng hiện tại</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- of -->
+  <OfLower>của</OfLower>
+
+  <!-- Power readout -->
+  <!-- Not connected to power. -->
+  <PowerNotConnected>Chưa kết nối tới nguồn điện</PowerNotConnected>
+  <!-- Connected rate/stored: {0} W / {1} Wd -->
+  <PowerConnectedRateStored>Hiệu năng hiện tại (ra/vào): {0} W / {1} W</PowerConnectedRateStored>
+  <!-- Power needed -->
+  <PowerNeeded>Mức năng lượng cần</PowerNeeded>
+  <!-- Power output -->
+  <PowerOutput>Năng lượng đầu ra</PowerOutput>
+  <!-- Stored -->
+  <PowerBatteryStored>Chứa</PowerBatteryStored>
+  <!-- Efficiency -->
+  <PowerBatteryEfficiency>Hiệu năng</PowerBatteryEfficiency>
+  <!-- Self-discharging -->
+  <SelfDischarging>Tự xả</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- Target temperature -->
+  <TargetTemperature>Chỉ tiêu nhiệt độ</TargetTemperature>
+  <!-- Current power use -->
+  <PowerConsumptionMode>Mức năng lượng đang sử dụng</PowerConsumptionMode>
+  <!-- high -->
+  <PowerConsumptionHigh>cao</PowerConsumptionHigh>
+  <!-- low -->
+  <PowerConsumptionLow>thấp</PowerConsumptionLow>
+
+  <!-- Temperature readout -->
+  <!-- Indoors -->
+  <Indoors>Trong phòng</Indoors>
+  <!-- Unroofed -->
+  <IndoorsUnroofed>Không có mái</IndoorsUnroofed>
+  <!-- Outdoors -->
+  <Outdoors>Ngoài trời</Outdoors>
+
+  <!--Rotting-->
+  <!-- Fresh -->
+  <RotStateFresh>Còn tươi</RotStateFresh>
+  <!-- Rotting -->
+  <RotStateRotting>Đang thối rửa</RotStateRotting>
+  <!-- Dessicated -->
+  <RotStateDessicated>Xác khô</RotStateDessicated>
+
+  <!-- Shooting tooltip -->
+  <!-- Shot by {0} -->
+  <ShotBy>Bị bắn bởi {0}</ShotBy>
+  <!-- Cannot hit target. -->
+  <CannotHit>Không thể bắn trúng mục tiêu.</CannotHit>
+  <!-- Manhunter chance per hit -->
+  <ManhunterPerHit>Tỉ lệ chọc thú nổi điên mỗi phát</ManhunterPerHit>
+
+  <!-- Rotting -->
+  <!-- Frozen (won't spoil) -->
+  <CurrentlyFrozen>Đông đá</CurrentlyFrozen>
+  <!-- Refrigerated (spoils in {0}) -->
+  <CurrentlyRefrigerated>Giữ lạnh (thối rửa sau {0})</CurrentlyRefrigerated>
+  <!-- Not refrigerated (spoils in {0}) -->
+  <NotRefrigerated>Không được giữ lạnh (thối rửa sau {0})</NotRefrigerated>
+  <!-- over a decade -->
+  <OverADecade>hơn một thập kỉ</OverADecade>
+  <!-- less than a day -->
+  <LessThanADay>dưới một ngày</LessThanADay>
+
+  <!-- Meal -->
+  <!-- Ingredients -->
+  <Ingredients>Nguyên liệu</Ingredients>
+
+  <!-- Plants -->
+  <!-- {0} grown -->
+  <PercentGrowth>Mức sinh trưởng: {0}</PercentGrowth>
+  <!-- Growth rate -->
+  <GrowthRate>Tốc độ sinh trưởng</GrowthRate>
+  <!-- Fully grown in {0} of growth. -->
+  <FullyGrownIn>Phát triển đầy đủ trong {0}.</FullyGrownIn>
+  <!-- Needs light level -->
+  <PlantNeedsLightLevel>Mức độ ánh sáng yêu cầu</PlantNeedsLightLevel>
+  <!-- Resting -->
+  <PlantResting>Đang nghỉ</PlantResting>
+  <!-- Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <OutOfIdealTemperatureRange>Nhiệt độ không thích hợp. Tốc độ phát triển còn: {0}%</OutOfIdealTemperatureRange>
+  <!-- Non-ideal temperature. Not growing. -->
+  <OutOfIdealTemperatureRangeNotGrowing>Nhiệt độ không thích hợp để phát triển.</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- Ready to harvest. -->
+  <ReadyToHarvest>Có thể thu hoạch</ReadyToHarvest>
+  <!-- Mature. -->
+  <Mature>Trưởng thành</Mature>
+  <!-- Growing period -->
+  <OutdoorGrowingPeriod>Thời gian sinh trưởng</OutdoorGrowingPeriod>
+  <!-- Never -->
+  <NoGrowingPeriod>Không bao giờ</NoGrowingPeriod>
+  <!-- Year-round -->
+  <GrowYearRound>Quanh năm</GrowYearRound>
+  <!-- Growing season here now. -->
+  <GrowSeasonHereNow>Có thể trồng ngay bây giờ.</GrowSeasonHereNow>
+  <!-- Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>Không thể trồng (nhiệt độ không thích hợp).</CannotGrowBadSeasonTemperature>
+  <!-- Blighted -->
+  <Blighted>Nhiễm bạc lá</Blighted>
+  <!-- Dying because exposed to light -->
+  <DyingBecauseExposedToLight>Đang chết dần do tiếp xúc với ánh nắng</DyingBecauseExposedToLight>
+
+  <!-- Zones -->
+  <!-- Zone -->
+  <Zone>Khu vực</Zone>
+  <!-- Growing zone -->
+  <GrowingZone>Vùng trồng trọt</GrowingZone>
+  <!-- Stockpile zone -->
+  <Stockpile>Vùng kho chứa</Stockpile>
+  <!-- Dumping stockpile zone -->
+  <DumpingStockpile>Vùng chứa rác</DumpingStockpile>
+  <!-- Priority -->
+  <Priority>Độ ưu tiên</Priority>
+  <!-- Clear all -->
+  <ClearAll>Xóa tất cả</ClearAll>
+  <!-- Allow all -->
+  <AllowAll>Cho phép tất cả</AllowAll>
+
+  <!-- ThingFilter -->
+  <!-- {0} hit points -->
+  <HitPoints>{0} độ bền</HitPoints>
+  <!-- any quality -->
+  <AnyQuality>mọi chất lượng</AnyQuality>
+  <!-- {0} only -->
+  <OnlyQuality>chỉ {0}</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- Undiscovered -->
+  <Undiscovered>Chưa khám phá</Undiscovered>
+
+  <!-- Buttons -->
+  <!-- Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>Bật/Tắt hiển thị hướng dẫn chơi khi nó trống.\n\nHướng dẫn chơi sẽ luôn hiển thị nếu có một mục mà bạn đang chọn trong đó.</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các khu vực.</ZoneVisibilityToggleButton>
+  <!-- Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
+  <ShowBeautyToggleButton>Bật/tắt hiển thị độ thẩm mĩ.\n\nĐộ thẩm mĩ của khu vực con trỏ bạn đạn chỉ tới thể hiện người dân bạn cảm thấy đẹp thế nào khi đứng đấy.</ShowBeautyToggleButton>
+  <!-- Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
+  <ShowRoomStatsToggleButton>Bật/tắt thông tin của phòng.\n\nHiển thị thông tin của phòng mà con chuột bạn đang chỉ vào.</ShowRoomStatsToggleButton>
+  <!-- Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>Bật/tắt thanh hiển thị người dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của tất cả người dân dọc màn hình phía trên.\n\nBạn có thể sắp xếp lại bằng cách giữ chuột phải trên hình người dân và kéo đến vị trị mong muốn.</ShowColonistBarToggleButton>
+  <!-- Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>Bật/tắt tự động mở rộng khu vực nhà ở xung quanh công trình mới xây.</AutoHomeAreaToggleButton>
+  <!-- Toggle automatic rebuild of destroyed structures. -->
+  <AutoRebuildButton>Bật/tắt tự động xây lại công trình bị phá hủy.</AutoRebuildButton>
+  <!-- Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>Bật/tắt bảng tự động phân loại tài nguyên.</CategorizedResourceReadoutToggleButton>
+  <!-- Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>Bật/tắt hiển thị tên thú đã đã thuần hóa.</ShowAnimalNamesToggleButton>
+  <!-- Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>Bật/tắt hiển thị mái nhà.</ShowRoofOverlayToggleButton>
+  <!-- Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>Khóa xoay camera.</LockNorthUpToggleButton>
+  <!-- Toggle day/night lighting system. -->
+  <UsePlanetDayNightSystemToggleButton>Bật/tắt hiệu ứng ngày đêm.</UsePlanetDayNightSystemToggleButton>
+  <!-- Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>Bật/tắt hiện biểu tượng từ xa thay cho biểu tượng thường.</ShowExpandingIconsToggleButton>
+  <!-- Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>Bật/tắt hiện tên địa điểm.</ShowWorldFeaturesToggleButton>
+
+  <!-- Fire -->
+  <!-- Fire -->
+  <Fire>Cháy</Fire>
+  <!-- Fire on {0} -->
+  <FireOn>Cháy ở {0}</FireOn>
+  <!-- Burning -->
+  <Burning>Đang cháy</Burning>
+  <!-- fire size {0} -->
+  <FireSizeLower>độ lớn: {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- Special conditions affecting the area right now. -->
+  <GameConditionsTip>Chỉ định sự kiện xảy ra.</GameConditionsTip>
+  <!-- time left -->
+  <TimeLeft>thời gian còn lại</TimeLeft>
+  <!-- impact date -->
+  <ImpactDate>ngày xuất hiện</ImpactDate>
+
+  <!-- Building placement -->
+  <!-- You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>Không đủ vật liệu để xây thứ này.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>{0} sẽ giảm năng suất lao động</WillGetWorkSpeedPenalty>
+  <!-- Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>Không thể đặt dưới mái nhà.</MustPlaceUnroofed>
+  <!-- Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>Phải đặt một đầu nối với thân phi thuyền.</MustPlaceHeadOnShipBeam>
+  <!-- Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>Phải đặt kế vật cần phễu.</MustPlaceNextToHopperAccepter>
+  <!-- Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>Phải đặt trên</MustPlaceOnSteamGeyser>
+  <!-- Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>Cả 2 đầu của máy lạnh phải thông thoáng.</MustPlaceCoolerWithFreeSpaces>
+  <!-- Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>Cả 2 đầu phải thông thoáng để không khí đi qua.</MustPlaceVentWithFreeSpaces>
+  <!-- Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>Phải đặt sao cho có không gian thông thoáng ở mọi mặt.</MustPlaceAdjacentStandable>
+  <!-- Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>Phải đặt cạnh bồn tiếp nhiên liệu của bệ phóng.</MustPlaceNearFuelingPort>
+  <!-- Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>Phải được đặt ở mỏ tài nguyên đào được.</MustPlaceOnDrillable>
+
+  <!-- Wind Turbine -->
+  <!-- Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>Chặn bởi</WindTurbine_WindPathIsBlockedBy>
+  <!-- Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>Bị chặn bởi mái nhà</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>Lưu lượng giảm do nằm gần cối xoay nước khác.</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- Contains -->
+  <CasketContains>Chứa</CasketContains>
+  <!-- Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>CẢNH BÁO!\n\n[PAWN_nameDef] là người cuối cùng của thị trấn! Nếu bạn đưa [PAWN_objective] bước vào kén ngủ đông đó, trò chơi sẽ kết thúc ngay. Bạn có muốn tiếp tục?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- Cannot launch. -->
+  <ShipReportCannotLaunch>Không thể cất cánh</ShipReportCannotLaunch>
+  <!-- Ready for launch. -->
+  <ShipReportCanLaunch>Sẵn sàng cất cánh</ShipReportCanLaunch>
+  <!-- Missing critical component -->
+  <ShipReportMissingPart>Thiếu thành phần quan trọng</ShipReportMissingPart>
+  <!-- requires -->
+  <ShipReportMissingPartRequires>yêu cầu</ShipReportMissingPartRequires>
+  <!-- No full cryptosleep caskets -->
+  <ShipReportNoFullPods>Còn buồn ngủ đông trống</ShipReportNoFullPods>
+  <!-- Hibernating component -->
+  <ShipReportHibernating>Tạm dừng bộ phận</ShipReportHibernating>
+  <!-- Component not yet ready -->
+  <ShipReportNotReady>Bộ phận chưa sẵn sàng</ShipReportNotReady>
+  <!-- Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>Charlon Whitestone đã sẵn sàng để bắt đầu quá trình khởi động lò phản ứng.\n\nAnh ta cảnh báo quá trình khởi động sẽ mất 15 ngày, và trong thời gian này thì băng cướp, lính đánh thuê hay mechanoid sẽ liên tục tấn công khu vực này.\n\nCố gắng xây dựng hàng phòng thủ cho tốt nhé.</HibernateWarning>
+  <!-- The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>Lò phản ứng đã sẵn sàng để khởi động.\n\nQuá trình này sẽ mất khoảng 15 ngày, và trong thời gian này thì băng cướp, lính đánh thuê hay mechanoid sẽ liên tục tấn công khu vực này.\n\nCố gắng xây dựng hàng phòng thủ cho tốt nhé.</HibernateWarningStandalone>
+  <!-- Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>Charlon Whitestone đã sẵn sàng để bắt đầu quá trình khởi động lò phản ứng. Anh ta cảnh báo quá trình khởi động sẽ mất 15 ngày.</HibernateWarningPacifist>
+  <!-- The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>Lò phản ứng đã sẵn sàng để bắt đầu khởi động. Quá trình này sẽ mất khoảng 15 ngày.</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- {0} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <NeurotrainerUsed>{0} đã đọc bí kíp {1} để thăng từ cấp độ {2} đến cấp độ {3}.</NeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- Installed -->
+  <Installed>Đã cài đặt</Installed>
+  <!-- Not installed -->
+  <NotInstalled>Chưa cài đặt</NotInstalled>
+
+  <!-- Art -->
+  <!-- Title -->
+  <Title>Tựa đề</Title>
+  <!-- Untitled -->
+  <Untitled>Vô danh</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- Unfinished {0} -->
+  <UnfinishedItem>Chưa hoàn thành {0}</UnfinishedItem>
+  <!-- Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>Chưa hoàn thành {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- Quality -->
+  <Quality>Chất lượng</Quality>
+  <!-- An item's quality is how well-made it is. -->
+  <QualityDescription>Chất lượng của vật nói lên độ tốt của nó</QualityDescription>
+  <!-- Quality: {0} -->
+  <QualityIs>Chất lượng: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- mental state -->
+  <Mood_MentalState>nổi điên</Mood_MentalState>
+  <!-- about to break -->
+  <Mood_AboutToBreak>tuyệt vọng</Mood_AboutToBreak>
+  <!-- on edge -->
+  <Mood_OnEdge>buồn bã</Mood_OnEdge>
+  <!-- stressed -->
+  <Mood_Stressed>căng thẳng</Mood_Stressed>
+  <!-- neutral -->
+  <Mood_Neutral>bình thường</Mood_Neutral>
+  <!-- content -->
+  <Mood_Content>vui vẻ</Mood_Content>
+  <!-- happy -->
+  <Mood_Happy>hạnh phúc</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>Người dân của bạn đã chết hoặc đã đi. Câu chuyện chấm dứt tại đây.\n\nCó lẽ sẽ có ai đó đến sau có thể sử dụng lại tàn tích từng là thị trấn này.</GameOverEveryoneDead>
+  <!-- You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunched>Bạn đã phóng phi thuyền! Thành viên trên phi thuyền:\n\n{0}\nNhững người bị bỏ lại:\n\n{1}\nLõi AI của phi thuyền sẽ cố lái tất cả thành viên trên tàu đến nơi an toàn nhất có thể. Có thể nó sẽ dẫn bạn đến nơi thích hợp trong hệ vũ trụ này. Hoặc có thể mất cả hàng thế kỉ để đến vì sao khác. Nó cũng có thể cho con tàu ẩn dưới mặt băng của ngôi sao nào đó trong vài ngàn năm dể đợi cho đến khi có người xây dựng được thế giới lí tưởng ở đây.\n\nBạn chỉ có thể biết được mọi truyện khi tỉnh lại mà thôi.</GameOverShipLaunched>
+  <!-- At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>Ở tốc độ cận ánh sáng, Chúa tán cho 1 bạt tay bay cmn hành tinh bạn đang sống. Tất cả mọi sinh vật trên hành tinh này đều ra đi.</GameOverPlanetkillerImpact>
+  <!-- As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
+  <GameOverArrivedAtJourneyDestination>Sau khi lên được phi thuyền, người dân của bạn được các thành viên nhiệt liệt chào đón. Họ rất vui vì ít nhất cứu được vài người lên phi thuyền.\n\nNhững thành viên trốn thoát được:\n\n{0}\nNhững người bị bỏ lại:\n\n{1}\nLõi AI của phi thuyền sẽ cố lái con tàu đến được nơi an toàn. Có thể là một hành tinh khác trong hệ vũ trụ này. Hoặc có thể sẽ mất ngàn năm để đến vì sao khác. Thậm chí nó có thể để phi thuyền ẩn dưới lớp băng của ngôi sao nào đó chờ đợi một người có thể xây dựng lại thế giới mới tốt đẹp hơn.\n\nVào thời điểm mọi người bước vào bước vào buồng ngủ đông của mình, bạn chợt nghĩ đến việc có nên tin tưởng vào những người vừa cứu bạn hay không.\n\nBạn chỉ có thể biết được khi bạn tỉnh lại thôi.</GameOverArrivedAtJourneyDestination>
+  <!-- Keep playing -->
+  <GameOverKeepPlaying>Tiếp tục chơi</GameOverKeepPlaying>
+  <!-- Main menu -->
+  <GameOverMainMenu>Màn hình chính</GameOverMainMenu>
+
+  <!-- Generic lifespan -->
+  <!-- Expires in: -->
+  <LifespanExpiry>Hết hạn sau:</LifespanExpiry>
+
+  <!-- Traps -->
+  <!-- Armed -->
+  <TrapArmed>Đã bật</TrapArmed>
+  <!-- Not armed -->
+  <TrapNotArmed>Chưa bật</TrapNotArmed>
+  <!-- Rearming cost: {0} -->
+  <TrapRearmingCost>Tái thiết cần: {0}</TrapRearmingCost>
+
+  <!-- Facilities -->
+  <!-- inactive -->
+  <InactiveFacility>bất hoạt</InactiveFacility>
+
+  <!-- Hediffs growth modes -->
+  <!-- {0}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{1} của {0} đang phát triển.</DiseaseGrowthModeChanged_Growing>
+  <!-- {0}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{1} của {0} đã ổn định lại.</DiseaseGrowthModeChanged_Stable>
+  <!-- {0}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{1} của {0} đang thuyên giảm.</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- Usable now. -->
+  <MarriageSpotUsable>Có thể dùng.</MarriageSpotUsable>
+  <!-- Not usable: {0}. -->
+  <MarriageSpotNotUsable>Không thể dùng: {0}.</MarriageSpotNotUsable>
+  <!-- blocked -->
+  <MarriageSpotNotStandable>chặn</MarriageSpotNotStandable>
+  <!-- too dangerous for {0} -->
+  <MarriageSpotDangerous>quá nguy hiểm cho {0}</MarriageSpotDangerous>
+  <!-- forbidden for {0} -->
+  <MarriageSpotForbidden>cấm cho {0}</MarriageSpotForbidden>
+  <!-- reserved -->
+  <MarriageSpotReserved>dự bị</MarriageSpotReserved>
+  <!-- unreachable for {0} -->
+  <MarriageSpotUnreachable>không với tới vì {0}</MarriageSpotUnreachable>
+  <!-- in prison cell -->
+  <MarriageSpotInPrisonCell>nhà lao</MarriageSpotInPrisonCell>
+  <!-- uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>nhiệt độ không thích hợp</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- Medical rest -->
+  <ActivityIconMedicalRest>Đang dưỡng thương</ActivityIconMedicalRest>
+  <!-- Sleeping -->
+  <ActivityIconSleeping>Đang ngủ</ActivityIconSleeping>
+  <!-- Fleeing -->
+  <ActivityIconFleeing>Đang bỏ chạy</ActivityIconFleeing>
+  <!-- Fighting -->
+  <ActivityIconAttacking>Đang chiến đấu</ActivityIconAttacking>
+  <!-- Idle -->
+  <ActivityIconIdle>Đang rỗi</ActivityIconIdle>
+  <!-- Burning -->
+  <ActivityIconBurning>Đang cháy</ActivityIconBurning>
+  <!-- Forming a caravan -->
+  <ActivityIconFormingCaravan>Đang tập hợp đội</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- Due for maintenance. -->
+  <DueForMaintenance>Đang bảo trì.</DueForMaintenance>
+  <!-- Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>Hư hại do thiếu bảo trì.</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- Progress to next lump -->
+  <ProgressToNextLump>Tiến trình đào khối quặng tiếp theo</ProgressToNextLump>
+  <!-- Resource below -->
+  <ResourceBelow>Khoáng sản bên dưới</ResourceBelow>
+  <!-- Progress to next portion -->
+  <ProgressToNextPortion>Tiến trình tới phần tiếp theo</ProgressToNextPortion>
+  <!-- No resources below. -->
+  <DeepDrillNoResources>Không còn tài nguyên bên dưới</DeepDrillNoResources>
+  <!-- Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>Tài nguyên dưới mũi khoan sâu đã cạn, máy khoan tự động tắt. Mở lại sẽ khoan lên {0}.</DeepDrillExhausted>
+  <!-- Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>Tài nguyên dưới máy khoan sâu đã hết.</DeepDrillExhaustedNoFallback>
+
+  <!-- Learning helper -->
+  <!-- Learning helper -->
+  <LearningHelper>Hướng dẫn cơ bản</LearningHelper>
+  <!-- Mark as learned -->
+  <MarkLearned>Đã biết</MarkLearned>
+  <!-- Already learned -->
+  <AlreadyLearned>Hướng dẫn nâng cao</AlreadyLearned>
+  <!-- Filter -->
+  <Filter>Bộ lọc</Filter>
+
+  <!-- Compass -->
+  <!-- Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>Hiện phía bắc. Click để xoay camera cho kim chỉ phía Bắc hướng lên.</CompassTip>
+
+  <!-- World route planner -->
+  <!-- Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>Click để chuyển sang chế độ giả lập hành trình.</RoutePlannerButtonTip>
+  <!-- Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>Thêm ít nhất 2 điểm đến.</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>Thêm ít nhất 1 điểm đến.</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>Tổng thời gian di chuyển: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Ở chế độ giả lập, tốc độ di chuyển đặt ở mức mặc định. Tốc độ thực tế của đoàn sẽ khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Tính toán: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Click chuột phải: Thêm/Xóa điểm đến.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>ESC: Thoát khỏi chế độ giả định</RoutePlannerPressEscapeToExit>
+  <!-- ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Trờ về bảng thông tin của đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>Thời gian di chuyển: {0}</EstimatedTimeToWaypoint>
+  <!-- Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>Thời gian di chuyển (tính từ điểm cuối cùng): {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- Est. travel time: {0} -->
+  <EstimatedTimeToTile>Tổng thời gian di chuyển: {0}</EstimatedTimeToTile>
+  <!-- Foraged food amount -->
+  <ForagedFoodAmount>Lượng cỏ dại</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- Anything -->
+  <OutfitAnything>Gì cũng mặc</OutfitAnything>
+  <!-- Worker -->
+  <OutfitWorker>Công nhân</OutfitWorker>
+  <!-- Soldier -->
+  <OutfitSoldier>Quân nhân</OutfitSoldier>
+  <!-- Nudist -->
+  <OutfitNudist>Trần trụi</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <!-- Hibernating -->
+  <HibernatableHibernating>Đang ngủ đông</HibernatableHibernating>
+  <!-- Starting up -->
+  <HibernatableStartingUp>Đang khởi động</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Xem những lệnh khả dụng...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>Xem lệnh khả dụng...</ClickToSeeAvailableOrders_Empty>
+
+</LanguageData>
