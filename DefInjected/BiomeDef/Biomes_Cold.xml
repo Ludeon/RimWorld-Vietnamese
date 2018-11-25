@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- boreal forest -->
+  <BorealForest.label>rừng phương bắc</BorealForest.label>
+  <!-- Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Rặng rừng thông bạt ngàn với mùa đông lạnh giá và mùa hè ấm áp, là nơi cư trú của một số lượng đa dạng các loài động thực vật có khả năng chịu lạnh.</BorealForest.description>
+
+  <!-- tundra -->
+  <Tundra.label>đài nguyên</Tundra.label>
+  <!-- These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Vùng đồng hoang lạnh giá thưa thớt cây cối và cỏ dại. Nơi đây chỉ có những loài động vật ăn thịt kiếm ăn rải rác cùng con mồi của chúng, xem lẫn với đó là những đợt di cư lớn của các loài thú ăn cỏ trong hành trình tìm nơi sống lý tưởng hơn.</Tundra.description>
+
+  <!-- cold bog -->
+  <ColdBog.label>đầm lầy băng</ColdBog.label>
+  <!-- A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>Vùng đất trũng ẩm thấp dày đặc dây leo làm việc di chuyển gặp nhiều khó khăn. Phần lớn đất đai không đủ khả năng nâng đỡ các công trình trọng lượng lớn. Ngoài ra hệ sinh thái ẩm thấp nơi đây còn khiến các loại bệnh dịch phát triển mạnh.</ColdBog.description>
+
+  <!-- ice sheet -->
+  <IceSheet.label>thềm băng</IceSheet.label>
+  <!-- Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Nơi đây được hình thành từ một lớp băng dày hàng kilomet. Không có đất nên cây cối không thể mọc, còn động vật nơi đây chỉ có những đàn gặm cỏ di cư qua khu vực này, thỉnh thoảng là một vài con đi lạc... </IceSheet.description>
+
+  <!-- sea ice -->
+  <SeaIce.label>băng vĩnh cửu</SeaIce.label>
+  <!-- Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Lớp băng vĩnh cửu trôi nổi trên mặt nước. Không có đất nên cây cối không thể mọc, không có khoáng sản để khai thác, và sự xuất hiện của động vật là vô cùng hiếm.</SeaIce.description>
+
+</LanguageData>
