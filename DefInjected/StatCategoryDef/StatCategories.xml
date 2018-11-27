@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--================ General ================-->
+
+  <!-- Basics -->
+  <Basics.label>Cơ bản</Basics.label>
+  <!-- Basics -->
+  <BasicsPawn.label>Cơ bản</BasicsPawn.label>
+  <!-- Basics -->
+  <BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
+
+
+  <!--================ Non-pawn ================-->
+
+  <!-- Apparel -->
+  <Apparel.label>Trang bị</Apparel.label>
+  <!-- Weapon -->
+  <Weapon.label>Vũ khí</Weapon.label>
+  <!-- Building -->
+  <Building.label>Công trình</Building.label>
+
+
+  <!--=============== Virtual categories ==============-->
+
+  <!-- Offsets when equipped -->
+  <EquippedStatOffsets.label>Ảnh hưởng khi trang bị</EquippedStatOffsets.label>
+  <!-- Multipliers when made of this -->
+  <StuffStatFactors.label>Tỉ lệ khi làm từ vật này</StuffStatFactors.label>
+  <!-- Offsets when made of this -->
+  <StuffStatOffsets.label>Ảnh hưởng khi làm từ vật này</StuffStatOffsets.label>
+  <!-- Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Tỉ lệ khi trang bị làm từ vật này</StuffOfEquipmentStatFactors.label>
+  <!-- Surgical -->
+  <Surgery.label>Y tế</Surgery.label>
+
+
+  <!--================ Pawn ================-->
+
+  <!-- Combat -->
+  <PawnCombat.label>Chiến đấu</PawnCombat.label>
+  <!-- Social -->
+  <PawnSocial.label>Giao tiếp</PawnSocial.label>
+  <!-- Misc -->
+  <PawnMisc.label>Việc khác</PawnMisc.label>
+  <!-- Work -->
+  <PawnWork.label>Công việc</PawnWork.label>
+
+
+</LanguageData>

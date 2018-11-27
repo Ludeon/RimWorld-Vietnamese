@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- allow colonist corpses -->
+  <AllowCorpsesColonist.label>cho phép tất cả xác người dân</AllowCorpsesColonist.label>
+  <!-- Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>Cho phép xác chết của tất cả người dân.</AllowCorpsesColonist.description>
+
+  <!-- allow stranger corpses -->
+  <AllowCorpsesStranger.label>cho phép xác của người lạ</AllowCorpsesStranger.label>
+  <!-- Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>Cho phép tất cả xác của người ngoài thị trấn (kẻ địch và người lạ).</AllowCorpsesStranger.description>
+
+  <!-- allow rotten -->
+  <AllowRotten.label>cho phép thối rữa</AllowRotten.label>
+  <!-- Allow organic things which have started to rot. -->
+  <AllowRotten.description>Cho phép vật hữu cơ đã bắt đầu thối rữa.</AllowRotten.description>
+
+  <!-- allow fresh -->
+  <AllowFresh.label>cho phép đồ tươi</AllowFresh.label>
+  <!-- Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>Cho phép đồ tươi sống.</AllowFresh.description>
+
+  <!-- allow plant food -->
+  <AllowPlantFood.label>cho phép tất cả thực phẩm tươi</AllowPlantFood.label>
+  <!-- Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Cho phép tất cả thức ăn thuộc dạng chưa sơ chế như rơm rạ,...</AllowPlantFood.description>
+
+  <!-- allow smeltable -->
+  <AllowSmeltable.label>cho phép vật nấu chảy được</AllowSmeltable.label>
+  <!-- allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>cho phép vật không nấu chảy được</AllowNonSmeltableWeapons.label>
+
+  <!-- allow clean apparel -->
+  <AllowNonDeadmansApparel.label>cho phép đồ sạch</AllowNonDeadmansApparel.label>
+  <!-- Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>Cho phép đồ chưa từng mặc bởi xác chết. Nhiều người cho rằng đồ mặc bởi người chết rất ghê tởm và thương buôn cũng chẳng màn tới nó.</AllowNonDeadmansApparel.description>
+
+  <!-- allow tainted apparel -->
+  <AllowDeadmansApparel.label>cho phép đồ hư</AllowDeadmansApparel.label>
+  <!-- Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>Cho phép trang phục từng được mặc bởi người chết. Nhiều người cho rằng đồ mặc bởi người chết rất ghê tởm và thương buôn cũng chẳng màn tới nó.</AllowDeadmansApparel.description>
+
+
+</LanguageData>

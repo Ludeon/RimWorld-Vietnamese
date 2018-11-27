@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--================= player pawn filters =================-->
+
+  <!-- game start dialog -->
+  <GameStartDialog.label>hộp thoát bắt đầu trò chơi</GameStartDialog.label>
+
+
+  <!--================= player pawn filters =================-->
+
+  <!-- allowed age range -->
+  <PawnFilter_Age.label>độ tuổi cho phép</PawnFilter_Age.label>
+
+
+  <!--================== player pawn modifier ================-->
+
+  <!-- characters explode on death -->
+  <OnPawnDeathExplode.label>sinh vật sẽ nổ khi chết</OnPawnDeathExplode.label>
+  <!-- forced trait -->
+  <ForcedTrait.label>ràng buộc tính cách</ForcedTrait.label>
+  <!-- forced health condition -->
+  <ForcedHediff.label>ràng buộc tình trạng sức khỏe</ForcedHediff.label>
+  <!-- naked -->
+  <Naked.label>khỏa thân</Naked.label>
+  <!-- set need level -->
+  <SetNeedLevel.label>đặt mức nhu cầu</SetNeedLevel.label>
+  <!-- start with research -->
+  <StartingResearch.label>khởi đầu với nghiên cứu</StartingResearch.label>
+  <!-- planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>vũ khí diệt trụ đang tới</GameCondition_Planetkiller.label>
+
+  <!-- cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>không thể trồng</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Không thể trồng cây trên mặt đất.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+
+  <!-- cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>không thể đào</Rule_DisallowDesignator_Mine.label>
+  <!-- Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Không thể đào.</Rule_DisallowDesignator_Mine.description>
+
+  <!-- cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>không thể săn</Rule_DisallowDesignator_Hunt.label>
+  <!-- Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Không thể săn.</Rule_DisallowDesignator_Hunt.description>
+
+  <!-- cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>không thể thuần hóa</Rule_DisallowDesignator_Tame.label>
+  <!-- Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Không thể thuần hóa động vật.</Rule_DisallowDesignator_Tame.description>
+
+  <!-- stat multiplier -->
+  <StatFactor.label>hiệu quả chỉ số</StatFactor.label>
+
+
+  <!--==================== grouped ==================-->
+
+  <!-- disable incident -->
+  <DisableIncident.label>khóa sự kiện</DisableIncident.label>
+  <!-- create incident -->
+  <CreateIncident.label>tạo sự khiện</CreateIncident.label>
+  <!-- disallow building -->
+  <Rule_DisallowBuilding.label>không cho xây</Rule_DisallowBuilding.label>
+  <!-- permanent game condition -->
+  <PermanentGameCondition.label>Sự kiện vĩnh cữu</PermanentGameCondition.label>
+  <!-- start with animal(s) -->
+  <StartingAnimal.label>thú nuôi khởi đầu</StartingAnimal.label>
+  <!-- start with -->
+  <StartingThing_Defined.label>khởi đầu với</StartingThing_Defined.label>
+  <!-- start near -->
+  <ScatterThingsNearPlayerStart.label>khởi đầu gần</ScatterThingsNearPlayerStart.label>
+  <!-- scattered randomly -->
+  <ScatterThingsAnywhere.label>đồ vật rải rác khắp bản đồ</ScatterThingsAnywhere.label>
+
+
+</LanguageData>
