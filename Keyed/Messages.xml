@@ -130,7 +130,7 @@
   <MessageNoLongerDowned>{0} không còn bị bất động nữa.</MessageNoLongerDowned>
 
   <!-- {0} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep{0} đã bất tỉnh vì quá kiệt sức.></MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{0} đã bất tỉnh vì quá kiệt sức.</MessageInvoluntarySleep>
 
  <!-- {0} has failed in a minor way while operating on {1}. -->
  <MessageMedicalOperationFailureMinor>{0} đã phẫu thuật thất bai nhẹ, {1} chịu phải tổn thương nhẹ.</MessageMedicalOperationFailureMinor>
@@ -232,7 +232,7 @@
   <MessageRottedAwayInStorage>{0} trong kho đã hư.</MessageRottedAwayInStorage>
 
   <!-- {0} has gotten food poisoning from: {1}. Cause: {2}. -->
-  <MessageFoodPoisoning>{0} đã ngộ độc thực phâmr từ: {2}</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{0} đã ngộ độc thực phẩm từ: {2}</MessageFoodPoisoning>
 
   <!-- {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>{0} đã bị rút khỏi đoàn lữ hành.</MessagePawnLostWhileFormingCaravan>
