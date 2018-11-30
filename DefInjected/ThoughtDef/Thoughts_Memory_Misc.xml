@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ate without table -->
+  <AteWithoutTable.stages.0.label>ăn không có bàn</AteWithoutTable.stages.0.label>
+  <!-- I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.0.description>Bố mày vừa phải ngồi dưới đất để ăn đấy! Xây cái bàn đặt gần đây cho bố mày ngồi ăn đi!</AteWithoutTable.stages.0.description>
+
+  <!-- disturbed sleep -->
+  <SleepDisturbed.stages.0.label>giấn ngủ không ngon</SleepDisturbed.stages.0.label>
+  <!-- I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.0.description>Ngủ cũng không ngon giấc nữa! Xây cho tao cái phòng ngủ riêng coi!</SleepDisturbed.stages.0.description>
+
+  <!-- initial optimism -->
+  <NewColonyOptimism.stages.0.label>lạc quan khởi đầu</NewColonyOptimism.stages.0.label>
+  <!-- It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.0.description>Đúng là lúc khó khăn thật nhưng mình mừng là đã tìm được nơi ở mới rồi.</NewColonyOptimism.stages.0.description>
+
+  <!-- initial hope -->
+  <NewColonyHope.stages.0.label>hi vọng khởi đầu</NewColonyHope.stages.0.label>
+  <!-- I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.0.description>Mình đã dần quen với nơi này rồi, nhưng mà vẫn còn phấn khích về việc này. Mình nghĩ là việc này sẽ thuận lợi thôi...</NewColonyHope.stages.0.description>
+
+  <!-- slept outside -->
+  <SleptOutside.stages.0.label>ngủ ngoài sân</SleptOutside.stages.0.label>
+  <!-- I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.0.description>Mình đã phải nằm ngủ ngoài sương gió mà không có gì bảo vệ hay che chắn cả...</SleptOutside.stages.0.description>
+
+  <!-- slept on ground -->
+  <SleptOnGround.stages.0.label>ngủ dưới đất</SleptOnGround.stages.0.label>
+  <!-- I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.0.description>Mình đã phải ngủ dưới đất như một con thú vậy...</SleptOnGround.stages.0.description>
+
+  <!-- slept in the cold -->
+  <SleptInCold.stages.0.label>ngủ trong lạnh lẽo</SleptInCold.stages.0.label>
+  <!-- I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.0.description>Nằm ngủ mà cứ cảm thấy như mình đang ở Bắc Cực vậy. Xây vài cái lò sưởi đi.</SleptInCold.stages.0.description>
+
+  <!-- slept in the heat -->
+  <SleptInHeat.stages.0.label>ngủ trong nóng nực</SleptInHeat.stages.0.label>
+  <!-- I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.0.description>Ngủ gì mà cứ như ở sa mạc sao mà ngủ được hở trời?! Lắp máy lạnh đi!</SleptInHeat.stages.0.description>
+
+  <!-- a prisoner was sold -->
+  <KnowPrisonerSold.stages.0.label>tù nhân bị bán đi</KnowPrisonerSold.stages.0.label>
+  <!-- This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.0.description>Tù nhân của thị trấn đã bị bán làm nô lệ. Thật đáng ngại mà...</KnowPrisonerSold.stages.0.description>
+
+  <!-- someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.0.label>nội tạng của người khác bị lấy mất</KnowGuestOrganHarvested.stages.0.label>
+  <!-- The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.0.description>Người của thị trấn đã mổ lấy nội tạng của tù nhân hoặc khách đến thăm. Thật kinh khủng, mổ lấy nội tạng của người khác khi mà người đó không có khả năng chống trả.</KnowGuestOrganHarvested.stages.0.description>
+
+  <!-- colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.0.label>nội tạng của thành viên khác bị lấy mất</KnowColonistOrganHarvested.stages.0.label>
+  <!-- Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.0.description>Nội tạng của một thành viên đã bị mổ lấy mất. Thật kinh khủng, mổ lấy nội tạng của người khác khi mà người đó không có khả năng chống trả.</KnowColonistOrganHarvested.stages.0.description>
+
+  <!-- my organ harvested -->
+  <MyOrganHarvested.stages.0.label>nội tạng bị lấy mất</MyOrganHarvested.stages.0.label>
+  <!-- The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.0.description>Bớ người ta, tụi nó đèn tui ra moi lòng phèo phổi tui đi bán nè trời!</MyOrganHarvested.stages.0.description>
+
+  <!-- was imprisoned -->
+  <WasImprisoned.stages.0.label>từng bị bắt giam</WasImprisoned.stages.0.label>
+  <!-- The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.0.description>Thị trấn đã giam tôi một thời gian như con thú trong chuồng vậy.</WasImprisoned.stages.0.description>
+
+  <!-- catharsis -->
+  <Catharsis.stages.0.label>giải tỏa lòng</Catharsis.stages.0.label>
+  <!-- It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.0.description>Thật sảng khoái khi được giải tỏa lòng mình.</Catharsis.stages.0.description>
+
+  <!-- nuzzled -->
+  <Nuzzled.stages.0.label>được làm nũng</Nuzzled.stages.0.label>
+  <!-- A cute animal nuzzled me. -->
+  <Nuzzled.stages.0.description>Một con thú dễ thương trong thị trấn đã làm nũng với mình.</Nuzzled.stages.0.description>
+
+  <!-- buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.0.label>người dân được chôn trong lăng mộ</KnowBuriedInSarcophagus.stages.0.label>
+  <!-- This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.0.description>Thị trấn đã chôn cất tử tế người đã khuất trong lăng mộ tĩnh lặng. Mong linh hồn người đó được yên nghỉ.</KnowBuriedInSarcophagus.stages.0.description>
+
+  <!-- soaking wet -->
+  <SoakingWet.stages.0.label>ước sũng</SoakingWet.stages.0.label>
+  <!-- I'm soaking wet. -->
+  <SoakingWet.stages.0.description>Cả người bố dầm mưa nên ướt hết cả rồi.</SoakingWet.stages.0.description>
+
+
+  <!-- ============== Human corpse butchering ===============-->
+
+  <!-- I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.0.label>Tôi vừa xẻ thịt của con người</ButcheredHumanlikeCorpse.stages.0.label>
+  <!-- I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.0.description>Tôi vừa chặt xác của một người như tôi đã làm với xác mấy con thú vậy.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <!-- we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.0.label>Chúng ta đã xẻ thịt người</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <!-- We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.0.description>Chúng ta vừa xẻ thịt người như những con thú vậy.</KnowButcheredHumanlikeCorpse.stages.0.description>
+
+
+  <!-- ============== Combat ============== -->
+
+  <!-- observed corpse -->
+  <ObservedLayingCorpse.stages.0.label>nhìn thấy xác chết</ObservedLayingCorpse.stages.0.label>
+  <!-- I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.0.description>Tôi đã nhìn thấy xác người nằm bất động ở đó. Thật là kinh khủng!</ObservedLayingCorpse.stages.0.description>
+
+  <!-- observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.0.label>nhìn thấy xác thối rữa</ObservedLayingRottingCorpse.stages.0.label>
+  <!-- I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.0.description>Tôi vừa thấy một cái xác đang thối rữa. Thật kinh tởm!</ObservedLayingRottingCorpse.stages.0.description>
+
+  <!-- witnessed ally's death -->
+  <WitnessedDeathAlly.stages.0.label>chứng kiến đồng minh hi sinh</WitnessedDeathAlly.stages.0.label>
+  <!-- I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.0.description>Tôi đã chứng kiến đồng đội tôi hi sinh. Họ vừa đứng sờ sờ đây, nhưng sau đó đã nằm xuống.</WitnessedDeathAlly.stages.0.description>
+
+  <!-- witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.0.label>chứng kiến người ngoài hi sinh</WitnessedDeathNonAlly.stages.0.label>
+  <!-- I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.0.description>Tôi đã chứng kiến người ta ngã xuống. Họ vừa sống đây mà đã chết rồi...</WitnessedDeathNonAlly.stages.0.description>
+
+  <!-- witnessed family member's death -->
+  <WitnessedDeathFamily.stages.0.label>chứng kiến người thân hi sinh</WitnessedDeathFamily.stages.0.label>
+  <!-- I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.0.description>Tận mắt chứng kiến người thân ngã xuống làm tim tôi như thắt lại...</WitnessedDeathFamily.stages.0.description>
+
+  <!-- witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.0.label>chứng kiến người khác chết</WitnessedDeathBloodlust.stages.0.label>
+  <!-- I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.0.description>Cảm giác thật là Yomoot khi thấy có đứa nằm xuống!</WitnessedDeathBloodlust.stages.0.description>
+
+  <!-- killed someone -->
+  <KilledHumanlikeBloodlust.stages.0.label>vừa "thịt" một thằng</KilledHumanlikeBloodlust.stages.0.label>
+  <!-- I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.0.description>Vừa "thịt" xong một thăng nên trong lòng thật là phấn khích đó mà...!</KilledHumanlikeBloodlust.stages.0.description>
+
+  <!-- defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.0.label>đã đánh bại thủ lĩnh kẻ thù {0}</DefeatedHostileFactionLeader.stages.0.label>
+  <!-- They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.0.description>Dăm ba thằng thủ lĩnh tuổi gì solo với bố! Thằng tiếp theo...!</DefeatedHostileFactionLeader.stages.0.description>
+
+  <!-- defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.0.label>đánh bại thủ lĩnh kẻ thù</DefeatedHostileFactionLeaderOpinion.stages.0.label>
+
+
+  <!-- Banishing pawns -->
+
+  <!-- colonist banished -->
+  <ColonistBanished.stages.0.label>trục xuất người dân</ColonistBanished.stages.0.label>
+  <!-- We just banished someone. I hope they'll make it, but I'm worried. -->
+  <ColonistBanished.stages.0.description>Thị trấn vừa trục xuất một thành viên đi. Tôi hi vọng là người đó có thể vượt qua tình cảnh này.</ColonistBanished.stages.0.description>
+
+  <!-- colonist banished to death -->
+  <ColonistBanishedToDie.stages.0.label>người dân bị bỏ mặc đến chết</ColonistBanishedToDie.stages.0.label>
+  <!-- We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.0.description>Một người dân đã bị bỏ mặc trong hoàn cảnh mà họ khó có thể sống sót được.</ColonistBanishedToDie.stages.0.description>
+
+  <!-- prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.0.label>tù nhân bị bỏ mặc đến chết</PrisonerBanishedToDie.stages.0.label>
+  <!-- We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.0.description>Chúng ta đã bỏ mặc tù nhân trong hoàn cảnh mà họ có thể sống sót được.</PrisonerBanishedToDie.stages.0.description>
+
+  <!-- bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.0.label>thú cưng {} của tôi bị đuổi đi</BondedAnimalBanished.stages.0.label>
+  <!-- My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.0.description>Thú cưng của tôi đã bị đuổi đi!</BondedAnimalBanished.stages.0.description>
+
+
+  <!-- Rescue quest -->
+
+  <!-- failed to rescue {0} -->
+  <FailedToRescueRelative.stages.0.label>giải cứu {0} thất bại</FailedToRescueRelative.stages.0.label>
+  <!-- We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.0.description>Mọi người đã cố gắng cứu người thân của tôi nhưng thất bại. Tôi không thể tin được điều này!</FailedToRescueRelative.stages.0.description>
+
+  <!-- rescued {0} -->
+  <RescuedRelative.stages.0.label>đã giải cứu {0}</RescuedRelative.stages.0.label>
+  <!-- We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.0.description>Mọi người vừa cứu được người thân của tôi. Cuối cùng cũng có thể thở phào nhẹ nhỏm rồi.</RescuedRelative.stages.0.description>
+
+  <!-- rescued -->
+  <Rescued.stages.0.label>được giải cứu</Rescued.stages.0.label>
+  <!-- I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.0.description>Mình đã được cứu! Cứ tưởng là bỏ mạng tại đó rồi chứ.</Rescued.stages.0.description>
+
+
+</LanguageData>
