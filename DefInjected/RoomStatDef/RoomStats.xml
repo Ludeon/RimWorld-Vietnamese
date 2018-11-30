@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--======= Primary stats (calcualated from physical conditions) =======-->
+
+  <!-- impressiveness -->
+  <Impressiveness.label>độ ấn tượng</Impressiveness.label>
+  <!-- awful -->
+  <Impressiveness.scoreStages.0.label>kém sang</Impressiveness.scoreStages.0.label>
+  <!-- dull -->
+  <Impressiveness.scoreStages.1.label>tệ</Impressiveness.scoreStages.1.label>
+  <!-- mediocre -->
+  <Impressiveness.scoreStages.2.label>tầm thường</Impressiveness.scoreStages.2.label>
+  <!-- decent -->
+  <Impressiveness.scoreStages.3.label>tao nhã</Impressiveness.scoreStages.3.label>
+  <!-- slightly impressive -->
+  <Impressiveness.scoreStages.4.label>hơi ấn tượng</Impressiveness.scoreStages.4.label>
+  <!-- somewhat impressive -->
+  <Impressiveness.scoreStages.5.label>ấn tượng</Impressiveness.scoreStages.5.label>
+  <!-- very impressive -->
+  <Impressiveness.scoreStages.6.label>rất ấn tượng</Impressiveness.scoreStages.6.label>
+  <!-- extremely impressive -->
+  <Impressiveness.scoreStages.7.label>cực kì ấn tượng</Impressiveness.scoreStages.7.label>
+  <!-- unbelievably impressive -->
+  <Impressiveness.scoreStages.8.label>thật không thể tin được</Impressiveness.scoreStages.8.label>
+  <!-- wondrously impressive -->
+  <Impressiveness.scoreStages.9.label>thật là quý's tộc mà</Impressiveness.scoreStages.9.label>
+
+  <!-- wealth -->
+  <Wealth.label>giá trị</Wealth.label>
+  <!-- impoverished -->
+  <Wealth.scoreStages.0.label>nghèo rớt mồng tơi</Wealth.scoreStages.0.label>
+  <!-- somewhat poor -->
+  <Wealth.scoreStages.1.label>tạm được</Wealth.scoreStages.1.label>
+  <!-- mediocre -->
+  <Wealth.scoreStages.2.label>bình thường</Wealth.scoreStages.2.label>
+  <!-- somewhat rich -->
+  <Wealth.scoreStages.3.label>hơi giàu</Wealth.scoreStages.3.label>
+  <!-- rich -->
+  <Wealth.scoreStages.4.label>giàu</Wealth.scoreStages.4.label>
+  <!-- luxurious -->
+  <Wealth.scoreStages.5.label>có tiền mua Ex</Wealth.scoreStages.5.label>
+  <!-- very luxurious -->
+  <Wealth.scoreStages.6.label>dư tiền mua Z1000</Wealth.scoreStages.6.label>
+  <!-- extremely luxurious -->
+  <Wealth.scoreStages.7.label>giàu nứt vách</Wealth.scoreStages.7.label>
+  <!-- unbelievably luxurious -->
+  <Wealth.scoreStages.8.label>nhà mặt phố, bố làm to</Wealth.scoreStages.8.label>
+
+  <!-- space -->
+  <Space.label>không gian</Space.label>
+  <!-- cramped -->
+  <Space.scoreStages.0.label>chuồng chó</Space.scoreStages.0.label>
+  <!-- rather tight -->
+  <Space.scoreStages.1.label>hơi chật</Space.scoreStages.1.label>
+  <!-- average-sized -->
+  <Space.scoreStages.2.label>trung bình</Space.scoreStages.2.label>
+  <!-- somewhat spacious -->
+  <Space.scoreStages.3.label>hơi rộng</Space.scoreStages.3.label>
+  <!-- quite spacious -->
+  <Space.scoreStages.4.label>khá rộng</Space.scoreStages.4.label>
+  <!-- very spacious -->
+  <Space.scoreStages.5.label>rất rộng</Space.scoreStages.5.label>
+  <!-- extremely spacious -->
+  <Space.scoreStages.6.label>cực kì rộng</Space.scoreStages.6.label>
+
+  <!-- beauty -->
+  <Beauty.label>độ thẩm mĩ</Beauty.label>
+  <!-- hideous -->
+  <Beauty.scoreStages.0.label>ổ chuột</Beauty.scoreStages.0.label>
+  <!-- ugly -->
+  <Beauty.scoreStages.1.label>xấu xí</Beauty.scoreStages.1.label>
+  <!-- neutral -->
+  <Beauty.scoreStages.2.label>bình thường</Beauty.scoreStages.2.label>
+  <!-- pretty -->
+  <Beauty.scoreStages.3.label>dễ thương</Beauty.scoreStages.3.label>
+  <!-- beautiful -->
+  <Beauty.scoreStages.4.label>đẹp nà</Beauty.scoreStages.4.label>
+  <!-- very beautiful -->
+  <Beauty.scoreStages.5.label>quá đẹp luôn</Beauty.scoreStages.5.label>
+  <!-- extremely beautiful -->
+  <Beauty.scoreStages.6.label>cực kì đẹp</Beauty.scoreStages.6.label>
+  <!-- unbelievably beautiful -->
+  <Beauty.scoreStages.7.label>đẹp không tưởng</Beauty.scoreStages.7.label>
+
+  <!-- cleanliness -->
+  <Cleanliness.label>độ sạch sẽ</Cleanliness.label>
+  <!-- very dirty -->
+  <Cleanliness.scoreStages.0.label>rất bẩn</Cleanliness.scoreStages.0.label>
+  <!-- dirty -->
+  <Cleanliness.scoreStages.1.label>bẩn</Cleanliness.scoreStages.1.label>
+  <!-- slightly dirty -->
+  <Cleanliness.scoreStages.2.label>hơi bẩn</Cleanliness.scoreStages.2.label>
+  <!-- clean -->
+  <Cleanliness.scoreStages.3.label>sạch</Cleanliness.scoreStages.3.label>
+  <!-- sterile -->
+  <Cleanliness.scoreStages.4.label>sáng bóng</Cleanliness.scoreStages.4.label>
+
+
+  <!--======= Dependent stats (calculated from other stats) =======-->
+
+  <!-- infection chance factor -->
+  <InfectionChanceFactor.label>tỉ lệ nhiễm trùng</InfectionChanceFactor.label>
+  <!-- surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>tỉ lệ phẫu thuật thành công nhờ độ sạch sẽ</SurgerySuccessChanceCleanlinessFactor.label>
+  <!-- research speed factor -->
+  <ResearchSpeedFactor.label>tốc độ nghiên cứu</ResearchSpeedFactor.label>
+  <!-- grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>mức giải trí khi thăm mộ</GraveVisitingJoyGainFactor.label>
+  <!-- food poison chance -->
+  <FoodPoisonChance.label>tỉ lệ ngộ độc thức ăn</FoodPoisonChance.label>
+
+
+</LanguageData>
