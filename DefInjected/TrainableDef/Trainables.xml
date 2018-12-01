@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Note: You cannot reorder elements in this without destroying saved trainability data; see DefMap<>.ExposeData(). -->
+
+  <!-- obedience -->
+  <Obedience.label>vâng lời</Obedience.label>
+  <!-- The animal can be assigned a master who it will follow and defend. -->
+  <Obedience.description>Con vật có thể huấn luyện để đi theo người chủ được chỉ định và bảo vệ họ.</Obedience.description>
+
+  <!-- release -->
+  <Release.label>xuất trận</Release.label>
+  <!-- The animal can be released to attack distant targets instead of just defending its master. -->
+  <Release.description>Con vật có thể tấn công mục tiêu ở xa thay vì quanh quẩn bảo vệ chủ nó.</Release.description>
+
+  <!-- rescue -->
+  <Rescue.label>giải cứu</Rescue.label>
+  <!-- The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Con vật có thể đưa người bị thương vào nơi an toàn.</Rescue.description>
+
+  <!-- haul -->
+  <Haul.label>khuân vác</Haul.label>
+  <!-- The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>Con vật này sẽ tự động mang vật phẩm về kho (tuy nhiên không thể chỉ định trực tiếp được).</Haul.description>
+
+  <!-- tameness -->
+  <Tameness.label>sự thuần hóa</Tameness.label>
+  <!-- The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>Con vật này coi bản thân là thành viên của thị trấn của bạn.</Tameness.description>
+
+
+</LanguageData>

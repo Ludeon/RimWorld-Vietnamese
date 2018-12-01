@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Tool -->
+  <Tool>Công cụ</Tool>
+  <!-- damage -->
+  <DamageLower>sát thương</DamageLower>
+  <!-- seconds per attack -->
+  <SecondsPerAttackLower>giây mỗi lần tấn công</SecondsPerAttackLower>
+
+  <!-- Base value -->
+  <StatsReport_BaseValue>Giá trị cơ bản</StatsReport_BaseValue>
+  <!-- Relevant traits -->
+  <StatsReport_RelevantTraits>Tính cách cần thiết</StatsReport_RelevantTraits>
+  <!-- Relevant gear -->
+  <StatsReport_RelevantGear>Trang bị cần thiết</StatsReport_RelevantGear>
+  <!-- Relevant health conditions -->
+  <StatsReport_RelevantHediffs>Tình trạng sức khỏe cần thiết</StatsReport_RelevantHediffs>
+  <!-- Life stage -->
+  <StatsReport_LifeStage>Giai đoạn sống</StatsReport_LifeStage>
+  <!-- Material -->
+  <StatsReport_Material>Vật liệu</StatsReport_Material>
+  <!-- Character quality -->
+  <StatsReport_CharacterQuality>Giá trị nhân vật</StatsReport_CharacterQuality>
+  <!-- Skills -->
+  <StatsReport_Skills>Kĩ năng</StatsReport_Skills>
+  <!-- Other stats -->
+  <StatsReport_OtherStats>Chỉ số khác</StatsReport_OtherStats>
+ <!-- Health -->
+ <StatsReport_Health>Sức khỏe</StatsReport_Health>
+ <!-- {0} importance -->
+ <HealthFactorPercentImpact>{0} yêu cầu</HealthFactorPercentImpact>
+ <!-- {0} impact -->
+ <HealthOffsetScale>{0} ảnh hưởng</HealthOffsetScale>
+ <!-- {0} max -->
+ <HealthFactorMaxImpact>tối đa {0}</HealthFactorMaxImpact>
+  <!-- if below {0} -->
+  <HealthFactorAllowedDefect>nếu dưới {0}</HealthFactorAllowedDefect>
+ <!-- Post-process curve -->
+ <StatsReport_PostProcessed>Hậu xử lí</StatsReport_PostProcessed>
+  <!-- Final value -->
+  <StatsReport_FinalValue>Giá trị cuối cùng</StatsReport_FinalValue>
+  <!-- Base market value calculated is from construction materials and work amount. -->
+  <StatsReport_MarketValueFromStuffsAndWork>Giá trị cơ bản được tính dựa trên nguyên liệu tạo thành và lượng công việc cần để làm ra.</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- Quality multiplier -->
+  <StatsReport_QualityMultiplier>Tỉ lệ chất lượng</StatsReport_QualityMultiplier>
+  <!-- Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>Tỉ lệ theo tuổi tác {0}</StatsReport_AgeMultiplier>
+  <!-- Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>Tỉ lệ sức khỏe {0}</StatsReport_HealthMultiplier>
+  <!-- Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>Tỉ lệ tâm trạng {0}</StatsReport_MoodMultiplier>
+ <!-- Multiplier for light {0} -->
+ <StatsReport_LightMultiplier>Tỉ lệ ánh sáng {0}</StatsReport_LightMultiplier>
+ <!-- Multiplier for difficulty {0} -->
+ <StatsReport_DifficultyMultiplier>Tỉ lệ độ khó {0}</StatsReport_DifficultyMultiplier>
+  <!-- In bed -->
+  <StatsReport_InBed>Trên giường</StatsReport_InBed>
+  <!-- Facilities -->
+  <StatsReport_Facilities>Cơ sở hạ tầng</StatsReport_Facilities>
+  <!-- Multiplier for body size {0} -->
+  <StatsReport_BodySize>Độ lớn cơ thể {0}</StatsReport_BodySize>
+  <!-- DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>Sát thương mỗi giây = Sát thương * Tỉ lệ trúng / Thời gian hồi phục</StatsReport_MeleeDPSExplanation>
+  <!-- Melee damage -->
+  <StatsReport_MeleeDamage>Sát thương cận chiến</StatsReport_MeleeDamage>
+  <!-- Cooldown -->
+  <StatsReport_Cooldown>Thời gian hồi phục</StatsReport_Cooldown>
+  <!-- Melee hit chance -->
+  <StatsReport_MeleeHitChance>Tỉ lệ trúng (cận chiến)</StatsReport_MeleeHitChance>
+  <!-- {0} s -->
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <!-- Life expectancy -->
+  <StatsReport_LifeExpectancy>Tuổi thọ</StatsReport_LifeExpectancy>
+  <!-- Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>Giảm hiểu quả do mất bộ phận cơ thể</StatsReport_MissingBodyParts>
+  <!-- Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>Trang bị và vật phẩm</StatsReport_GearAndInventoryMass>
+ <!-- Multiplier for worn by corpse -->
+ <StatsReport_WornByCorpse>Hiệu quả giảm do từng mặc bởi xác chết</StatsReport_WornByCorpse>
+ <!-- average of all attacks -->
+ <AverageOfAllAttacks>trung bình của tất cả các đòn tấn công</AverageOfAllAttacks>
+ <!-- Scenario -->
+ <StatsReport_ScenarioFactor>Kịch bản</StatsReport_ScenarioFactor>
+  <!-- Ingredients -->
+  <StatsReport_IngredientsMass>Nguyên liệu</StatsReport_IngredientsMass>
+  <!-- Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>Khóa vĩnh viễn</StatsReport_PermanentlyDisabled>
+  <!-- {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- Added body parts -->
+  <StatsReport_AddedBodyPartsMass>Bộ phận cơ thể đã thêm vào</StatsReport_AddedBodyPartsMass>
+  <!-- Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>Hiệu quả từ nguyên liệu</StatsReport_StuffEffectMultiplier>
+  <!-- Resting -->
+  <StatsReport_Resting>Nghỉ ngơi</StatsReport_Resting>
+  <!-- recreation type -->
+  <StatsReport_JoyKind>loại hình giải trí</StatsReport_JoyKind>
+  <!-- work to uninstall -->
+  <StatsReport_WorkToUninstall>gỡ cài đặt</StatsReport_WorkToUninstall>
+  <!-- Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>Tốc độ sinh trưởng nhân với {0}</StatsReport_PlantGrowth>
+  <!-- scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>gỉ set vì tự nhiên</StatsReport_PlantGrowth_Wild>
+  <!-- Not flesh -->
+  <StatsReport_NotFlesh>Không còn tươi</StatsReport_NotFlesh>
+  <!-- Not fresh -->
+  <StatsReport_NotFresh>Không còn tươi</StatsReport_NotFresh>
+  <!-- Wild man -->
+  <StatsReport_WildMan>Dã nhân</StatsReport_WildMan>
+
+</LanguageData>

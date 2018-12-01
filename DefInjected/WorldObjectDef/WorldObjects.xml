@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- caravan -->
+  <Caravan.label>đoàn lữ hành</Caravan.label>
+  <!-- A group of traveling people. -->
+  <Caravan.description>Một nhóm người đang di chuyển.</Caravan.description>
+
+  <!-- settlement -->
+  <Settlement.label>thị trấn</Settlement.label>
+  <!-- A base of one of the factions. -->
+  <Settlement.description>Thị trấn của một băng nhóm.</Settlement.description>
+
+  <!-- abandoned settlement -->
+  <AbandonedSettlement.label>thị trấn hoang</AbandonedSettlement.label>
+  <!-- An abandoned settlement. -->
+  <AbandonedSettlement.description>Một thị trấn bị bỏ hoang</AbandonedSettlement.description>
+
+  <!-- destroyed settlement -->
+  <DestroyedSettlement.label>thị trấn phá hủy</DestroyedSettlement.label>
+  <!-- A destroyed settlement. -->
+  <DestroyedSettlement.description>Những gì còn sót lại của một thị trấn bị tấn công.</DestroyedSettlement.description>
+
+  <!-- landed ship -->
+  <EscapeShip.label>tàu ẩn</EscapeShip.label>
+  <!-- The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>Địa điểm của chiếc phi thuyền có thể đưa bạn ra khỏi hành tinh này.</EscapeShip.description>
+
+  <!-- attacked caravan -->
+  <AttackedNonPlayerCaravan.label>lữ đoàn bị tấn công</AttackedNonPlayerCaravan.label>
+  <!-- A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>Một đoàn lữ hành đang bị tấn công.</AttackedNonPlayerCaravan.description>
+
+  <!-- transport pods -->
+  <TravelingTransportPods.label>kén vận chuyển</TravelingTransportPods.label>
+  <!-- Transport pods in flight. -->
+  <TravelingTransportPods.description>Kén dùng trong vận chuyển.</TravelingTransportPods.description>
+
+  <!-- waypoint -->
+  <RoutePlannerWaypoint.label>điểm đến</RoutePlannerWaypoint.label>
+  <!-- A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>Một điểm đến tạm thời</RoutePlannerWaypoint.description>
+
+  <!-- peace talks -->
+  <PeaceTalks.label>đối thoại hòa bình</PeaceTalks.label>
+  <!-- A site designated for peace talks. -->
+  <PeaceTalks.description>Điểm đối thoại hòa bình</PeaceTalks.description>
+
+
+</LanguageData>

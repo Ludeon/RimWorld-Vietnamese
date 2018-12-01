@@ -1,0 +1,818 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Confirm -->
+  <Confirm>Xác nhận</Confirm>
+  <!-- Go back -->
+  <GoBack>Quay lại</GoBack>
+  <!-- OK -->
+  <OK>OK</OK>
+  <!-- Close -->
+  <Close>Đóng</Close>
+
+  <!-- Game updated to new version -->
+  <!-- RimWorld has been updated from version {0} to version {1}. -->
+  <GameUpdatedToNewVersionInitial>RimWorld đã được cập nhật từ phiên bản {0} lên phiên bản {1}.</GameUpdatedToNewVersionInitial>
+  <!-- This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible>Việc này có thể làm trò chơi đã lưu và mod ở phiên bản cũ không hoạt động được.</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible>Trò chơi đã lưu ở phiên bản cũ có thể hoạt động, tuy nhiên vài mod có thể gặp lỗi.</GameUpdatedToNewVersionSavesCompatible>
+  <!-- Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
+  <GameUpdatedToNewVersionNonSteam>Do đây là bản miễn phí bản quyền, bạn có thể cài đặt trò chơi ở 2 thư mục khác nhau để có thể chơi cả 2 phiên bản mới và cũ.</GameUpdatedToNewVersionNonSteam>
+  <!-- If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
+  <GameUpdatedToNewVersionSteam>Nếu bạn muốn tiếp tục chơi phiên bản cũ, bạn có thể sử dụng tính năng "Beta" của Steam.\n\n  1. Tại thư viện trò chơi Steam, click chuột phải vào RimWorld.\n  2. Click "" (Properties).\n  3. Click vào thẻ "Beta".\n  4. Chọn phiên bản mà bạn muốn choi từ thanh cuộn.\n\nPhiên bản cũ có thể sẽ bị gỡ ra khỏi Steam - chúng tôi chỉ không muốn bỏ quá trình phát triển của trò chơi thôi.\n\nLưu ý răng nếu chủ mod cập nhật mod của họ cho phiên bản mới, họ có lẽ đã dừng hỗ trợ phiên bản cũ rôi. Bạn có thể tắt tính năng tự động cập nhật để có thể chơi được phiên bản cũ hơn.</GameUpdatedToNewVersionSteam>
+
+  <!-- Recovered from errors caused by mods -->
+  <!-- Recovered from incompatible or corrupted mods errors -->
+  <RecoveredFromErrorsDialogTitle>Đã phục hồi lại từ mod lỗi hoặc không hợp phiên bản.</RecoveredFromErrorsDialogTitle>
+  <!-- It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
+  <RecoveredFromErrorsText>Có vài mod đang hoạt động đã gây ra lỗi.\n\nCó thể là nó không tương thích với các mod khác hoặc chạy trên phiên bản khác của trò chơi hoặc đã bị lỗi.\n\nTất cả các mod đã được tắt và bạn có thể kích hoạt lại chúng trong bảng điều khiển mod.</RecoveredFromErrorsText>
+
+  <!-- Errors during loading -->
+  <!-- Error while loading assets -->
+  <ErrorWhileLoadingAssetsTitle>Có lỗi khi đang tải tài nguyên</ErrorWhileLoadingAssetsTitle>
+  <!-- An error occurred while loading game assets. See error log for more information. -->
+  <ErrorWhileLoadingAssets>Có lỗi xuất hiện khi đang tải tài nguyên của trò chơi. Xem nhật kí lỗi để biết thêm chi tiết.</ErrorWhileLoadingAssets>
+  <!-- The game is currently running with custom mods - they may or may not cause these problems. -->
+  <ErrorWhileLoadingAssets_ModsInfo>Trò chơi hiện đang chạy với nhiều mod khác nhau - có thể nó sẽ gây ra lỗi hoặc không.</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- Error while generating a map -->
+  <ErrorWhileGeneratingMapTitle>Có lỗi khi đang tạo ra bản đồ</ErrorWhileGeneratingMapTitle>
+  <!-- An error occurred while generating a new map. See error log for more information. -->
+  <ErrorWhileGeneratingMap>Có lỗi xuất hiện khi đang tạo ra bản đồ mới. Xem nhật kí lỗi để biết thêm chi tiết.</ErrorWhileGeneratingMap>
+  <!-- Error while loading a map -->
+  <ErrorWhileLoadingMapTitle>Có lỗi khi đang tải bản đồ.</ErrorWhileLoadingMapTitle>
+  <!-- An error occurred while loading a map. See error log for more information. -->
+  <ErrorWhileLoadingMap>Có lỗi khi đang tải bản đồ. Xem nhật kí lỗi để biết thêm chi tiết.</ErrorWhileLoadingMap>
+
+  <!-- Unloaded mod with an assembly -->
+  <!-- The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged>Danh sách mod đã thay đổi. Trò chơi sẽ được khởi động lại ngay.</ModsChanged>
+  <!-- Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart>Có điều bất thường khi đang khởi động lại trò chơi. Trò chơi không thể tải đầy đủ tất cả các mod nên có thể một vài mod vẫn chưa tải xong.\n\nĐề nghị đồng chí thoát ra rồi mở lại để trò chơi có thể tải tất cả các mod đầy đủ.</FailedToRestart>
+  <!-- Restarting -->
+  <Restarting>Đang khởi động lại</Restarting>
+
+  <!-- Missing Steam -->
+  <!-- Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
+  <SteamClientMissing>Không thể khởi động Steam API. Có thể là do:\n\n-Steam chưa chạy.\n-Mở RimWorld khi Steam chưa chạy khiến steam_appid.txt không được nạp lên.\n- Chạy ở quyền khác Steam client (VD: "Run as admisnistrator").\n\nĐa số trường hợp có thể sửa bằng cách khởi động lại máy tính của bạn.\n\nBạn có thể chơi không cần Steam nhưng mọi dữ liệu bạn chơi sẽ không được ghi lại trên tài khoản Steam của bạn và các tính năng của Steam sẽ không thể sử dụng được.</SteamClientMissing>
+
+  <!-- Long events -->
+  <!-- Initializing interface -->
+  <InitializingInterface>Khởi động thanh tương tác...</InitializingInterface>
+  <!-- Unloading unused assets -->
+  <UnloadingUnusedAssets>Gỡ các tài nguyên không cần thiết...</UnloadingUnusedAssets>
+  <!-- Loading all active mods -->
+  <LoadingAllActiveMods>Tải tất cả các mod được kích hoạt...</LoadingAllActiveMods>
+  <!-- Loading defs -->
+  <LoadingDefs>Đang tải chỉ mục</LoadingDefs>
+  <!-- Loading assets -->
+  <LoadingAssets>Đang tải tài nguyên</LoadingAssets>
+  <!-- Initializing -->
+  <Initializing>Đang khởi động</Initializing>
+  <!-- Loading world -->
+  <LoadingWorld>Đang nạp thế giới</LoadingWorld>
+  <!-- Loading map -->
+  <LoadingMap>Đang tải bản đồ</LoadingMap>
+  <!-- Initializing game -->
+  <InitializingGame>Đang khởi động trò chơi</InitializingGame>
+  <!-- Spawning things -->
+  <SpawningAllThings>Đang tạo vật thể</SpawningAllThings>
+  <!-- Spawning colonists -->
+  <SpawningColonists>Đang tạo người dân</SpawningColonists>
+
+  <!-- Save/load -->
+  <!-- Save -->
+  <SaveGameButton>Lưu</SaveGameButton>
+  <!-- Load -->
+  <LoadGameButton>Nạp</LoadGameButton>
+  <!-- Overwrite -->
+  <OverwriteButton>Ghi đè</OverwriteButton>
+  <!-- Really delete {0}? -->
+  <ConfirmDelete>Muốn xóa {0}?</ConfirmDelete>
+  <!-- Delete this savegame. -->
+  <DeleteThisSavegame>Xóa bản lưu này.</DeleteThisSavegame>
+  <!-- Saved as {0}. -->
+  <SavedAs>Lưu dưới tên {0}.</SavedAs>
+  <!-- Please enter a name. -->
+  <NeedAName>Hãy nhập tên.</NeedAName>
+  <!-- Loading -->
+  <LoadingLongEvent>Đang tải</LoadingLongEvent>
+  <!-- Saving -->
+  <SavingLongEvent>Đang lưu</SavingLongEvent>
+  <!-- (Permadeath) -->
+  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <!-- We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion>Trò chơi đang ở phiên bản {0} nhưng bản lưu ở bản {1}.\n\nNếu tiếp tục tải bản lưu này, trò chơi có thể không hoạt động bình thường.</SaveIsFromDifferentGameVersion>
+  <!-- We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild>Trò chơi đang ở phiên bản {0} nhưng bản lưu ở bản {1}.\n\nTrò chơi có thể tiếp tục tải bản lưu này.</SaveIsFromDifferentGameBuild>
+  <!-- Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild>Bản lưu đã được lưu dưới phiên bản hiện tại và có thể chạy mà không bị lỗi gì.</SaveIsFromThisGameBuild>
+  <!-- Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat>Bản lưu ở định dạng không xác định và có thể không chơi được.</SaveIsUnknownFormat>
+  <!-- There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile>Có lỗi khi lưu tập tin {0}:\n\n{1}\n\nXem nhật kí lỗi để biết thêm chi tiết.</ProblemSavingFile>
+  <!-- Load anyway -->
+  <LoadAnyway>Vẫn tải lên</LoadAnyway>
+  <!-- Load mod list from save -->
+  <ChangeLoadedMods>Tải danh sách mod từ bản lưu</ChangeLoadedMods>
+  <!-- Some mods are unavailable, and need to be installed -->
+  <MissingMods>Vài mod không khả dụng và cần được cài đặt sau.</MissingMods>
+
+  <!-- Player faction naming -->
+  <!-- {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>{0} nghĩ rằng bạn nên đặt tên cho băng nhóm của bạn đi. Bạn muốn đặt băng của mình là gì?</NamePlayerFactionMessage>
+  <!-- Your faction is now known as {0}. -->
+  <PlayerFactionGainsName>Băng của bạn từ giờ sẽ là {0}.</PlayerFactionGainsName>
+  <!-- That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>Tên đó không hợp lệ.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <!-- Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called? -->
+  <NamePlayerFactionBaseMessage>{0} nghĩ rằng bạn đã định cư ở đây đã lâu nên cũng cần cho cộng đồng của bạn một cái tên chứ hả. Bạn muốn gọi cộng đồng của mình là gì?</NamePlayerFactionBaseMessage>
+  <!-- This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName>Cộng động của bạn giờ là {0}.</PlayerFactionBaseGainsName>
+  <!-- That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>Tên không hợp lệ.</PlayerFactionBaseNameIsInvalid>
+
+  <!-- Player faction and faction base naming -->
+  <!-- Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Vì mọi người sẽ ở đây một thời gian nên {0} đề nghị bạn nên đặt tên cho cộng đồng này. Bạn muốn cộng đồng của mình tên gì?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName>Băng nhóm của bạn giờ là {0}, và cộng đồng này sẽ là {1}.</PlayerFactionAndBaseGainsName>
+
+  <!-- Renaming -->
+  <!-- Please enter a valid name. -->
+  <NameIsInvalid>Chọn tên khác đi người ơi.</NameIsInvalid>
+  <!-- Name is already in use. -->
+  <NameIsInUse>Tên đã được sử dụng.</NameIsInUse>
+  <!-- The zone is now called {0}. -->
+  <ZoneGainsName>Khu vực này giờ sẽ là {0}.</ZoneGainsName>
+
+  <!-- Pawn naming -->
+  <!-- This person's nickname is now {0}. [PAWN_possessive] title is {1}. -->
+  <PawnGainsName>Biệt danh của người này giờ sẽ là {0}. Tên tựa [PAWN_possesive] là {1}.</PawnGainsName>
+  <!-- The animal's name is now {0}. -->
+  <AnimalGainsName>Tên của con vật giờ là {0}.</AnimalGainsName>
+
+  <!-- Save game incompatible warning -->
+  <!-- Version mismatch -->
+  <VersionMismatch>Sai phiên bản</VersionMismatch>
+  <!-- This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText>Bản lưu này ở phiên bản {0}\nPhiên bản hiện tại là {1}\n\nNếu tiếp tục chơi bản lưu này có thể gây ra lỗi và treo trò chơi.</SaveGameIncompatibleWarningText>
+  <!-- World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch>Tập tin thế giới được tạo ra ở phiển bản {0}\nPhiên bản hiện tại là {1}\n\nTiếp tục tải thế giới này có thể khiến trò chơi gặp lỗi. Bạn nên tạo lại thế giới khác để chơi đi.</WorldFileVersionMismatch>
+  <!-- This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning>Bản lưu này đang ở phiên bản {0}\nPhiên bản hiện tại là {1}\n\nNếu tiếp tục chơi bản lưu này có thể sẽ khiến trò chơi gặp lỗi.</FileIncompatibleWarning>
+  <!-- Mods mismatch -->
+  <ModsMismatchWarningTitle>Sai mod</ModsMismatchWarningTitle>
+  <!-- This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <ModsMismatchWarningText>Bản lưu này được lưu theo danh sách mod khác của bạn đang chạy bây giờ. Bạn cũng có thể tiếp tục chơi nếu không có lỗi gì xảy ra.\n\Danh sách mod chơi trong bản lưu này (theo thứ tự từ trên xuống):\n\n{0}\n\nDanh sách mod mà chúng ta đang chạy (theo thứ tự từ trên xuống);\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <!-- You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
+  <ConfirmResolutionChange>Bạn đã thay đổi độ phân giải của màn hình. Thay đổi mới chạy tốt không?\n\nTự động quay lại thiết lập cũ sau {0}...</ConfirmResolutionChange>
+  <!-- Keep -->
+  <ResolutionKeep>Giữ nguyên</ResolutionKeep>
+  <!-- Revert -->
+  <ResolutionRevert>Đổi lại</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- Do you really want to permanently disable development mode on this computer? -->
+  <ConfirmPermanentlyDisableDevMode>Bạn chắc rằng muốn tắt vĩnh viễn chế độ nhà phát triển trên máy tính này?</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Research -->
+  <!-- Research -->
+  <Research>Nghiên cứu</Research>
+  <!-- Researched -->
+  <Researched>Đã nghiên cứu</Researched>
+  <!-- Unresearched -->
+  <Unresearched>Chưa nghiên cứu</Unresearched>
+  <!-- Finished -->
+  <Finished>Đã hoàn thành</Finished>
+  <!-- In Progress -->
+  <InProgress>Trong quá trình</InProgress>
+  <!-- Locked -->
+  <Locked>Đã khóa</Locked>
+  <!-- Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
+  <ResearchMenuWithoutBench>Chỉ khi bạn xây được BÀN NGHIÊN CỨU thì dân của bạn mới thực sự nghiên cứu được.\n\nTuy nhiên, bây giờ bạn có thể xem qua các đề tài mà bạn có thể nghiên cứu.</ResearchMenuWithoutBench>
+  <!-- Research prerequisites -->
+  <ResearchPrerequisites>Yêu cầu để nghiên cứu</ResearchPrerequisites>
+  <!-- Required research bench -->
+  <RequiredResearchBench>Yêu cầu có bàn nghiên cứu</RequiredResearchBench>
+  <!-- Required research bench facilities -->
+  <RequiredResearchBenchFacilities>Yêu cầu có các thiết bị nghiên cứu</RequiredResearchBenchFacilities>
+
+  <!-- Advanced game start options -->
+  <!-- Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
+  <MapTemperatureDangerWarning>CẢNH BÁO: Bạn sẽ đáp ở môi trường băng giá. Người dân của bạn có gần như khó qua tuần trăng đầu. Nếu bạn không muốn "ngập trong hành" ngay từ đầu, chịu khó chọn chỗ khác giùm hoặc đổi mùa bắt đầu đi.</MapTemperatureDangerWarning>
+  <!-- The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning>Trò chơi được thiết kế để chơi ở bản đồ trung bình và bao nhiêu đó là đủ chỗ để xây nhà rồi. Bản đồ lớn cũng không có gì tốt hơn ngoài trừ việc mở ra hằng hà sa số lỗi mà than trời không thấu như ngốn RAM, gây tình trạng giật lag, bot hoạt động không bình thường, v.v. Cỡ bản đồ này chỉ giành cho việc kiểm nghiệm, nếu đang yêu đời và cảm thấy máy bản thân dư sức "cân cả thế giới" thì cứ chơi thoải mái.</MapSizePerformanceWarning>
+  <!-- Map size -->
+  <MapSize>Độ lớn bản đồ</MapSize>
+  <!-- {0}x{0} ({1} cells) -->
+  <MapSizeDesc>{0}x{0} ({1} ô)</MapSizeDesc>
+  <!-- Small -->
+  <MapSizeSmall>Nhỏ</MapSizeSmall>
+  <!-- Medium -->
+  <MapSizeMedium>Vừa</MapSizeMedium>
+  <!-- Large -->
+  <MapSizeLarge>Lớn</MapSizeLarge>
+  <!-- Extreme (test) -->
+  <MapSizeExtreme>Cực đại</MapSizeExtreme>
+  <!-- Starting season -->
+  <MapStartSeason>Mùa bắt đầu</MapStartSeason>
+  <!-- Auto -->
+  <MapStartSeasonDefault>Tự động</MapStartSeasonDefault>
+  <!-- Notice -->
+  <Notice>Chú ý</Notice>
+  <!-- Permadeath mode -->
+  <PermadeathMode>Chế độ Permadeath</PermadeathMode>
+  <!-- In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact. -->
+  <PermadeathModeInfo>Ở chế độ này, bạn chỉ có thể lưu lại khi thoát trò chơi thôi. Bạn không thể chơi lại bản lưu khác để né kết cục xấu hay để cứu dân của mình được.\n\nĐây là cách mà RimWorld muốn "bán hành" cho bạn, để bạn có những phút giây trải nghiệm đủ loại cảm giác và cũng là cách để bạn dễ chửi thề nhất.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <!-- Suspended -->
+  <Suspended>Tạm dừng</Suspended>
+  <!-- Not suspended -->
+  <NotSuspended>Không tạm dừng</NotSuspended>
+  <!-- SUSPENDED -->
+  <SuspendedAllCaps>TẠM DỪNG</SuspendedAllCaps>
+  <!-- Repeat: -->
+  <RepeatCount>Lặp lại:</RepeatCount>
+  <!-- Forever -->
+  <Forever>Mãi mãi</Forever>
+ <!-- Details -->
+ <Details>Chi tiết</Details>
+  <!-- Ingredient radius -->
+  <IngredientSearchRadius>Bán kinh vật liệu</IngredientSearchRadius>
+  <!-- Currently have -->
+  <CurrentlyHave>Hiện có</CurrentlyHave>
+  <!-- Counting -->
+  <CountingProducts>Đang đếm</CountingProducts>
+  <!-- Infinite -->
+  <Infinite>Vô hạn</Infinite>
+  <!-- Allowed {0} skill: -->
+  <AllowedSkillRange>Cho phép kĩ năng {0}:</AllowedSkillRange>
+  <!-- incompatible -->
+  <IncompatibleLower>không thích hợp</IncompatibleLower>
+  <!-- Any worker -->
+  <AnyWorker>Bất kì ai</AnyWorker>
+  <!-- Unlimited -->
+  <Unlimited>Không giới hạn</Unlimited>
+
+  <!-- (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
+  <RecipeCannotHaveTargetCount>(Công việc này không thể đếm được vì sản phẩm làm ra quá nhiều hoặc không thể đoán trước được sản phẩm.)</RecipeCannotHaveTargetCount>
+  <!-- Work amount -->
+  <WorkAmount>Lượng công việc</WorkAmount>
+  <!-- Minimum skills: -->
+  <MinimumSkills>Kĩ năng tối thiểu:</MinimumSkills>
+  <!-- Requires {0} {1} -->
+  <BillRequires>Yêu cầu {0} {1}</BillRequires>
+  <!-- Requires {0} nutrition -->
+  <BillRequiresNutrition>Yêu cầu {0} ca-lo</BillRequiresNutrition>
+  <!-- Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary>CHÚ Ý: Vật liệu nhỏ như vàng thì số lượng cần sẽ tăng thêm x{0} lần.</BillRequiresMayVary>
+  <!-- This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume>Đây là vật liệu nhỏ. Điều này có nghĩa là mỗi 'đơn vị' chỉ bằng 1/{0} so với một đơn vị vật liệu thường. Vì vậy số vật liệu cần sẽ tăng x{0} lần so với bình thường.</ThisIsSmallVolume>
+  <!-- ingredients -->
+  <UsableIngredients>vật liệu</UsableIngredients>
+  <!-- To {0} -->
+  <BillRepeatTargetCountShort>Đủ {0}</BillRepeatTargetCountShort>
+
+  <!-- Pause when satisfied -->
+  <PauseWhenSatisfied>Dừng khi thỏa yêu cầu</PauseWhenSatisfied>
+  <!-- Unpause at -->
+  <UnpauseWhenYouHave>Tiếp tục</UnpauseWhenYouHave>
+  <!-- Paused -->
+  <Paused>Tạm dừng</Paused>
+  <!-- Unpause -->
+  <Unpause>Tiếp tục</Unpause>
+
+  <!-- Count equipped -->
+  <IncludeEquipped>Kể cả trang bị</IncludeEquipped>
+  <!-- Count tainted -->
+  <IncludeTainted>Kể cả đồ hư hại</IncludeTainted>
+  <!-- Only allowed ingredients -->
+  <LimitToAllowedStuff>Chỉ dùng vật liệu</LimitToAllowedStuff>
+  <!-- Look everywhere -->
+  <IncludeFromAll>Tìm khắp nơi</IncludeFromAll>
+  <!-- Look in {0} -->
+  <IncludeSpecific>Chỉ tìm trong {0}</IncludeSpecific>
+
+  <!-- Info card -->
+  <!-- Damage -->
+  <Damage>Sát thương</Damage>
+  <!-- Armor penetration -->
+  <ArmorPenetration>Xuyên giáp</ArmorPenetration>
+  <!-- Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>Xuyên giáp thể hiện lượng giáp mà vũ khí bỏ qua mỗi bắn trúng mục tiêu.\n\nNếu chỉ số xuyên giáp lớn hơn chỉ số giáp của đôi phương, sát thương sẽ giữ nguyên. Ngược lại, chỉ số giáp sẽ trừ đi chỉ số xuyên giáp và làm giảm lượng sát thương gây ra.</ArmorPenetrationExplanation>
+  <!-- Accuracy -->
+  <Accuracy>Độ chính xác</Accuracy>
+  <!-- Burst shot count -->
+  <BurstShotCount>Số đạn mỗi lần bắn</BurstShotCount>
+  <!-- Warmup -->
+  <WarmupTime>Thay đạn</WarmupTime>
+  <!-- Melee warmup -->
+  <MeleeWarmupTime>Ngắt quãng</MeleeWarmupTime>
+  <!-- Cooldown -->
+  <CooldownTime>Hồi chiêu</CooldownTime>
+  <!-- Fire rate -->
+  <BurstShotFireRate>Tốc độ bắn</BurstShotFireRate>
+  <!-- Range -->
+  <Range>Tầm bắn</Range>
+  <!-- Stopping power -->
+  <StoppingPower>Hỏa lực</StoppingPower>
+  <!-- Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>Nếu bị bắn trúng bởi vũ khí này, làm chậm tốc độ di chuyển của mục tiêu vài giây. Nếu mục tiêu có độ lớn cơ thể lớn hơn hỏa lực sẽ không bị ảnh hưởng.</StoppingPowerExplanation>
+  <!-- Direct hit chance -->
+  <DirectHitChance>Tỉ lệ trúng trực diện</DirectHitChance>
+  <!-- Miss radius -->
+  <MissRadius>Sai lệch mục tiêu</MissRadius>
+  <!-- Grows wild -->
+  <GrowsWild>Mọc hoang dã</GrowsWild>
+  <!-- Harvestable -->
+  <Harvestable>Có thể thu hoạch</Harvestable>
+  <!-- Limited lifespan -->
+  <LimitedLifespan>Tuổi thọ</LimitedLifespan>
+  <!-- Growing time -->
+  <GrowingTime>Thời gian sinh trưởng</GrowingTime>
+  <!-- Harvest yield -->
+  <HarvestYield>Lượng thu hoạch được</HarvestYield>
+  <!-- Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
+  <GrowingTimeDesc>Cây trồng chỉ phát triển vào một quãng thời gian cụ thể trong ngày và chỉ khi nhận được ánh sáng. Chỉ số này cho biết lượng tổng lượng thời gian cây trồng cần sinh trưởng để đạt đến độ trưởng thành. Thời gian thực tế có thể kéo dài hơn 2 lần. Nhiệt độ thấp cũng có thể làm chậm sự phát triển của cây.</GrowingTimeDesc>
+  <!-- days -->
+  <Days>ngày</Days>
+  <!-- Minimum growing skill to sow -->
+  <MinGrowingSkillToSow>Kĩ năng trồng trọt tối thiểu để có thể trồng</MinGrowingSkillToSow>
+  <!-- Fertility requirement -->
+  <FertilityRequirement>Yêu cầu độ phì nhiêu</FertilityRequirement>
+  <!-- Fertility sensitivity -->
+  <FertilitySensitivity>Mức ảnh hưởng của độ phì nhiêu</FertilitySensitivity>
+  <!-- Light requirement -->
+  <LightRequirement>Lượng ánh sáng cần</LightRequirement>
+  <!-- Attributes -->
+  <Attributes>Chỉ số</Attributes>
+  <!-- Lifespan -->
+  <LifeSpan>Tuổi thọ</LifeSpan>
+  <!-- Nutrition -->
+  <Nutrition>Ca-lo</Nutrition>
+  <!-- Recreation -->
+  <Joy>Mức giải trí</Joy>
+  <!-- Food quality -->
+  <FoodQuality>Chất lượng thức ăn</FoodQuality>
+  <!-- Walk speed -->
+  <WalkSpeedProperty>Tốc độ di chuyển</WalkSpeedProperty>
+  <!-- Min. food quality -->
+  <MinFoodQuality>Chất lượng thức ăn tối thiểu</MinFoodQuality>
+  <!-- Diet -->
+  <Diet>Chế độ dinh dưỡng</Diet>
+  <!-- Leather type -->
+  <LeatherType>Loại da</LeatherType>
+ <!-- Body size -->
+ <BodySize>Diện tích cơ thể</BodySize>
+  <!-- Recruit difficulty -->
+  <RecruitDifficulty>Độ khó khi thu phục</RecruitDifficulty>
+  <!-- Base price -->
+  <MarketValue>Giá trị cơ bản</MarketValue>
+  <!-- Covers -->
+  <Covers>Độ che phủ</Covers>
+  <!-- Layer -->
+  <Layer>Lớp</Layer>
+  <!-- Cover effectiveness -->
+  <CoverEffectiveness>Hiệu quả che chắn</CoverEffectiveness>
+  <!-- How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>Mức độ che chắn hiệu quả thế nào trong trận đấu súng. Tỉ lệ càng cao càng chặn được nhiều phát súng hơn.</CoverEffectivenessExplanation>
+  <!-- Experience gain factor -->
+  <MedicineXpGainFactor>Tỉ lệ nhận kinh nghiệm</MedicineXpGainFactor>
+  <!-- Mood change -->
+  <MoodChange>Tâm trạng thay đổi</MoodChange>
+  <!-- Wildness -->
+  <Wildness>Mức hoang dã</Wildness>
+  <!-- Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation>Thú càng hoang dã càng khó bị thuần hóa, huấn luyện và chăm sóc.</WildnessExplanation>
+  <!-- Training decay interval -->
+  <TrainingDecayInterval>Thời gian giảm khả năng huấn luyện</TrainingDecayInterval>
+  <!-- Tameness will never decay. -->
+  <TamenessWillNotDecay></TamenessWillNotDecay>
+  <!-- Animal filth rate -->
+  <AnimalFilthRate>Tốc độ thải phân của thú</AnimalFilthRate>
+  <!-- Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
+  <AnimalFilthRateExplanation>Thú nuôi thải ra phân khi đi trên nền nhà. Đây là chỉ số trung bình thải ra mỗi {0} ô đã đi qua của con vật này. \n\nCon số này tỉ lệ thuận với diện tích bề mặt của con vật.</AnimalFilthRateExplanation>
+  <!-- Time -->
+  <TimeRecordsCategory>Thời gian</TimeRecordsCategory>
+  <!-- Misc -->
+  <MiscRecordsCategory>Thông tin khác</MiscRecordsCategory>
+  <!-- Addictiveness -->
+  <Addictiveness>Nghiện</Addictiveness>
+ <!-- Pack animal -->
+ <PackAnimal>Tải đồ</PackAnimal>
+ <!-- Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+ <PackAnimalExplanation>Con vật có khả năng tải đồ cho cả đoàn lữ hành trong quãng đường dài không.</PackAnimalExplanation>
+  <!-- Skill -->
+  <Skill>Kĩ năng</Skill>
+  <!-- Success rate multiplier -->
+  <SurgerySuccessChanceFactor>Tỉ lệ thành công</SurgerySuccessChanceFactor>
+  <!-- Requires bed -->
+  <SurgeryRequireBed>Yêu cầu giường</SurgeryRequireBed>
+  <!-- Work speed governed by -->
+  <WorkSpeedStat>Tốc độ làm việc ảnh hưởng bởi </WorkSpeedStat>
+  <!-- Output quantity governed by -->
+  <EfficiencyStat>Chất lượng sản phẩm làm ra ảnh hưởng bởi</EfficiencyStat>
+  <!-- Construction skill required -->
+  <ConstructionSkillRequired>Kĩ năng Xây dựng yêu cầu</ConstructionSkillRequired>
+  <!-- Requires this level of Construction in order to build. -->
+  <ConstructionSkillRequiredExplanation>Cấp độ kĩ năng Xây dựng cần đạt để có thể xây dựng được thứ này.</ConstructionSkillRequiredExplanation>
+  <!-- Nuzzle interval -->
+  <NuzzleInterval></NuzzleInterval>
+  <!-- How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation></NuzzleIntervalExplanation>
+  <!-- Revenge chance on harm -->
+  <HarmedRevengeChance>Tỉ lệ nổi điên khi bị tấn công</HarmedRevengeChance>
+  <!-- The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <HarmedRevengeChanceExplanation>Là tỉ lệ mà con vật sẽ nổi điên cắn trả khi bị săn ở tầm súng trường.\n\nTỉ lệ này tăng theo khoảng cách giữa nó và thợ săn. Nếu thợ săn ở quá gần nó, tỉ lệ này sẽ tăng lên gấp 3 lần.\n\nTỉ lệ này áp dụng trên mỗi lần nhận sát thương nên vũ khí có sát thương cao và bắn chậm sẽ ít kích động con thú.\n\nĐể giảm thiểu tỉ lệ con vật kích động, hãy săn nó bằng vũ khí sát thương mạnh, tốc độ bắn chậm và có tầm bắn xa.</HarmedRevengeChanceExplanation>
+  <!-- Revenge chance on tame fail -->
+  <TameFailedRevengeChance>Tỉ lệ kích động khi thuần hóa thất bại</TameFailedRevengeChance>
+  <!-- Terrain requirement -->
+  <TerrainRequirement>Môi trường yêu cầu.</TerrainRequirement>
+  <!-- Supports -->
+  <Supports>Hỗ trợ</Supports>
+
+  <!-- Trade -->
+  <!-- Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells>Số dương là mua.\nSố âm là bán.</PositiveBuysNegativeSells>
+  <!-- Price you pay to buy this. -->
+  <BuyPriceDesc>Giá bạn trả để mua vật này.</BuyPriceDesc>
+  <!-- Price you receive for selling this. -->
+  <SellPriceDesc>Giá bạn nhận khi bán vật này.</SellPriceDesc>
+  <!-- For this item, this price is {0}. -->
+  <PriceTypeDesc>Vật này có giá là {0}.</PriceTypeDesc>
+  <!-- How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
+  <ColonyCount>Bao nhiêu vật phẩm mà thị trấn có thể trao đổi.\n\nBạn chỉ có thể bán vật phẩm cho Thương nhân Liên hà nếu vật phẩm đó ở cạnh đèn hiệu trao đổi.</ColonyCount>
+  <!-- How many of this item the trader has to trade. -->
+  <TraderCount>Thương nhân phải trao đổi bao nhiêu vật phẩm này.</TraderCount>
+  <!-- Accept -->
+  <AcceptButton>Chấp nhận</AcceptButton>
+  <!-- Reset -->
+  <ResetButton>Đặt lại</ResetButton>
+  <!-- Cancel -->
+  <CancelButton>Hủy</CancelButton>
+  <!-- Close -->
+  <CloseButton>Đóng</CloseButton>
+  <!-- Your tradeable silver: {0} -->
+  <YourTradeableSilver>Số bạc mà bạn có thể giao dịch: {0}</YourTradeableSilver>
+ <!-- You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+ <YourTradeableSilverTip>Bạn chỉ có thể dùng bạc ở cạnh đèn hiệu giao thương và không nằm dưới mái nhà.</YourTradeableSilverTip>
+  <!-- Trader has no more. -->
+  <TraderHasNoMore>Thương gia không còn gì cả.</TraderHasNoMore>
+  <!-- No more to sell. -->
+  <ColonyHasNoMore>Không còn gì để bán.</ColonyHasNoMore>
+  <!-- Trader is not willing to buy this. -->
+  <TraderWillNotTrade>Thương nhân sẽ không mua thứ này.</TraderWillNotTrade>
+  <!-- Negotiator -->
+  <Negotiator>Người đàm phán</Negotiator>
+  <!-- Your negotiator {0} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>Người đàm phán {0} của bạn không thể nói rõ ràng được vì tình trạng sức khỏe không tốt.</NegotiatorTalkingImpaired>
+  <!-- Your negotiator {0} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>Người đàm phán {0} của bạn không thể nghe rõ ràng được vì tình trạng sức khỏe không tốt.</NegotiatorHearingImpaired>
+  <!-- This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired>Việc này sẽ ảnh hưởng tới giá giao dịch.\n\nHãy chọn người đàm phán khỏe mạnh hơn đi.</NegotiatorCapacityImpaired>
+  <!-- Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds>Họ không đủ bạc để trả cho giao dịch này. Vẫn tiếp tục chứ?</ConfirmTraderShortFunds>
+  <!-- Sort by -->
+  <SortBy>Sắp xếp theo</SortBy>
+ <!-- trader type -->
+ <TraderTypePrice>loại hình giao thương</TraderTypePrice>
+ <!-- selling -->
+ <Selling>đang bán</Selling>
+ <!-- buying -->
+ <Buying>đang mua</Buying>
+ <!-- item sell price multiplier -->
+ <ItemSellPriceFactor>giá trị vật phẩm khi bán</ItemSellPriceFactor>
+ <!-- difficulty level -->
+ <DifficultyLevel>độ khó</DifficultyLevel>
+ <!-- global post-process curve -->
+ <PostCurve>hậu xử lí</PostCurve>
+ <!-- Your negotiator bonus -->
+ <YourNegotiatorBonus>Khả năng đàm phán của bạn</YourNegotiatorBonus>
+ <!-- Trading with faction base bonus -->
+ <TradeWithFactionBaseBonus>Thưởng khi giao dịch với nhóm</TradeWithFactionBaseBonus>
+ <!-- minimum -->
+ <minimum>thấp nhất</minimum>
+ <!-- Final price -->
+ <FinalPrice>Giá cuối cùng</FinalPrice>
+  <!-- Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>Tặng phẩm - tặng quà cho {0}.</GiftModeTip>
+  <!-- Return to trade mode. -->
+  <TradeModeTip>Trở về chế độ trao thương.</TradeModeTip>
+
+  <!-- Sellable items -->
+  <!-- Things this trader will buy -->
+  <SellableItemsTitle>Vật phẩm mà thương nhân này sẽ mua</SellableItemsTitle>
+  <!-- Creatures -->
+  <PawnsTabShort>Sinh vật</PawnsTabShort>
+
+  <!-- Form caravan -->
+  <!-- Form caravan -->
+  <FormCaravan>Tập hợp đoàn lữ hành</FormCaravan>
+  <!-- Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>Số lượng có thể gửi cùng đoàn lữ hành.</FormCaravanColonyThingCountTip>
+  <!-- People and animals -->
+  <PawnsTab>Người và động vật</PawnsTab>
+  <!-- Items -->
+  <ItemsTab>Vật phẩm</ItemsTab>
+  <!-- You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>Bạn phải đưa theo ít nhất một người dân khỏe mạnh của bạn.</CaravanMustHaveAtLeastOneColonist>
+  <!-- The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot>Địa điểm bạn chọn ({0}) không thể tới được.</CaravanCouldNotFindExitSpot>
+  <!-- Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot>Không thể tìm thấy điểm tập kết. Hãy chắc chắn rằng điểm tập kết ({0}) có thể tới được.</CaravanCouldNotFindPackingSpot>
+  <!-- Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>CẢNH BÁO: vài thành viên của đoàn không thể tới điểm tập kết ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- {0} is unreachable by any of the assigned colonists. -->
+  <CaravanPawnIsUnreachable>Không có thành viên nào có thể tới được {0}.</CaravanPawnIsUnreachable>
+  <!-- None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle>Không ai có thể tới được chỗ {0}.</CaravanItemIsUnreachableSingle>
+  <!-- None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti>Không ai có thể tới được chỗ {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <!-- The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage>Cả đoàn không thể mang theo nhiều đến thế.</TooBigCaravanMassUsage>
+  <!-- Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>Bao gồm vật phẩm, trang bị và vũ khí mang theo. Mang ít tải trọng tối đa được tăng tốc độ di chuyển.</CaravanMassUsageTooltip>
+  <!-- Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>Tầm nhìn biểu thị cho việc đoàn lữ hành của bạn dễ bị chú ý như thế nào.\n\nTỉ lệ biểu hiện cho việc đoàn của bạn có khả năng bị chặn đường bởi cướp và thú hoang hay không.\n\nTaamf nhìn không ảnh hưởng tới việc bạn có tìm được thứ bạn muốn hay không.\n\nTầm nhìn được tính toán dựa trên tổng diện tích cơ thể của tất cả mọi thành viên và thú nuôi đi theo đoàn.</CaravanVisibilityTip>
+  <!-- Days of food -->
+  <DaysWorthOfFood>Số ngày lương</DaysWorthOfFood>
+  <!-- rot in {0} -->
+  <DaysWorthOfFoodInfoRot>hư sau {0}</DaysWorthOfFoodInfoRot>
+  <!-- Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>Không giới hạn</InfiniteDaysWorthOfFoodInfo>
+  <!-- The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>Số ngày ước lượng trước khi một thành viên hoặc thú nuôi của bạn không có đồ để ăn nữa. Các loài khác nhau có chế độ dinh dưỡng khác nhau, vì thế số ngày thức ăn cũng sẽ khác nhau. Giá trị này được tính chính xác hơn khi đích đến được chỉ định trước.\n\nẢnh hưởng bởi:\n  - Loại thức ăn mang theo và số lượng\n  - Số lượng thành viên và chế độ ăn của họ\n  - Lượng thức ăn tìm được\n  - Thú đồng hành có thể ăn cỏ không\n  - Nhiệt độ ảnh hưởng tới việc thức ăn hỏng nhanh hay chậm</DaysWorthOfFoodTooltip>
+  <!-- \n(only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(Chỉ có điểm đầu tiên được chọn)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>Đoàn của bạn chỉ còn {0} ngày lương.</DaysWorthOfFoodWarningDialog>
+  <!-- Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>Đoàn của bạn sẽ sớm hết thức ăn và sẽ chết đói đó.</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>Lượng thức ăn trung bình các thành viên trong đoàn tìm được mỗi ngày. Giá trị này biến đổi tùy thuộc vào môi trường mà cả đoàn đang ở.</ForagedFoodPerDayTip>
+  <!-- Forage per day -->
+  <ForagedFoodPerDay>Thúc ăn tìm được mỗi ngày.</ForagedFoodPerDay>
+  <!-- A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>Lượng lớn thức ăn của đoàn sẽ sớm bị hư hỏng.</CaravanFoodWillRotSoonWarningDialog>
+  <!-- You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>Đoàn lữ hành này không có ai có khả năng đàm phán hay trao đổi cả.</CaravanIncapableOfSocial>
+  <!-- Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>Bạn có chắc muốn tạo đoàn lữ hành này?</CaravanAreYouSure>
+  <!-- You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>Bạn phải chọn đích đến cho đoàn lữ hành trước.</MessageMustChooseRouteFirst>
+  <!-- Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>Đoàn của bạn không thể ra khỏi khu vực này. Hãy chắc chắn rằng các thành viên của bạn tới được rìa bản đồ.</MessageNoValidExitTile>
+  <!-- Weight of this item. -->
+  <ItemWeightTip>Cân nặng của vật này.</ItemWeightTip>
+  <!-- Market value -->
+  <MarketValueTip>Giá thị trường</MarketValueTip>
+  <!-- The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>Số ngày còn lại trước khi thức ăn mang theo bắt đầu hư dựa theo nhiệt độ trung bình của khu vực hiện tại.</DaysUntilRotTip>
+  <!-- How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>Lượng ca-lo mà loại thức ăn này cung cấp.\n\nVD: người trưởng thành cần {0} ca-lo mỗi ngày.</ItemNutritionTip>
+  <!-- This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>Con vật này có thể ăn thức ăn ở môi trường xung quanh thay cho việc ăn thức ăn mang theo. Việc này chỉ xảy ra ở một số môi trường nhất định và ở mức nhiệt độ nhất định.</AnimalCanGrazeTip>
+  <!-- Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>Lượng thức ăn tìm được mỗi ngày. Lượng thức ăn tìm được ảnh hưởng bởi môi trường ở ô hiện tại.\n\n{0}</NutritionForagedPerDayTip>
+  <!-- Nutrition eaten per day. For reference, simple meals have {0} nutrition.\n\nCan eat: {2}\n\nLegend:\n{1}. -->
+  <NutritionEatenPerDayTip>Ca-lo mỗi ngày. VD, món đơn giản có {0} ca-lo.\n\nCó thể ăn: {2}\n\nHuyền thoại:\n\n{1}.</NutritionEatenPerDayTip>
+  <!-- Mass carried -->
+  <MassCarriedSimple>Tải trọng hiện tại</MassCarriedSimple>
+  <!-- Mass capacity -->
+  <MassCapacity>Tải trọng tối đa</MassCapacity>
+  <!-- Mass -->
+  <Mass>Trọng lượng</Mass>
+  <!-- Equipment and apparel mass -->
+  <EquipmentAndApparelMass>Trọng lượng trang bị và vũ khí</EquipmentAndApparelMass>
+  <!-- Inventory mass -->
+  <InventoryMass>Trọng lượng hàng hóa</InventoryMass>
+  <!-- Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>Người dân của bạn sẽ tự gói gém hàng hóa và rời khỏi khu vực.</CaravanFormationProcessStarted>
+  <!-- Reform caravan -->
+  <ReformCaravan>Tái tập hợp</ReformCaravan>
+  <!-- Colonists -->
+  <ColonistsSection>Người dân</ColonistsSection>
+  <!-- Prisoners -->
+  <PrisonersSection>Tù nhân</PrisonersSection>
+  <!-- Capture -->
+  <CaptureSection>Bắt giữ</CaptureSection>
+  <!-- Animals -->
+  <AnimalsSection>Thú nuôi</AnimalsSection>
+  <!-- Choose route -->
+  <ChooseRouteButton>Chọn tuyến đường</ChooseRouteButton>
+  <!-- Abandon -->
+  <AbandonButton>Từ bỏ</AbandonButton>
+  <!-- Movement speed -->
+  <CaravanMovementSpeed>Tốc độ di chuyển</CaravanMovementSpeed>
+  <!-- tiles/day -->
+  <TilesPerDay>ô/ngày</TilesPerDay>
+  <!-- Movement speed depends on the average speed of all people and animals, carried mass, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>Tốc độ của đoàn dựa trên tốc độ của tất cả mọi người và vật nuôi đi theo, tổng trọng lượng vật phẩm và địa hình đi qua.</CaravanMovementSpeedTip>
+  <!-- Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>Động vật sẽ có thể ăn cỏ</AnimalsWillBeAbleToGraze>
+  <!-- Animals can graze -->
+  <AnimalsCanGraze>Động vật có thể ăn cỏ xung quanh</AnimalsCanGraze>
+  <!-- (for {0} more days) -->
+  <PossibleToGrazeFor>(còn {0} ngày nữa)</PossibleToGrazeFor>
+  <!-- (forever) -->
+  <PossibleToGrazeForever>{vĩnh viễn}</PossibleToGrazeForever>
+  <!-- ({0}) -->
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <!-- (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>(quá lạnh để {0})</CantGrazeBecauseOfTemp>
+  <!-- Total nutrition -->
+  <TotalNutrition>Tổng lượng ca-lo</TotalNutrition>
+  <!-- Not moving -->
+  <CaravanNotMoving>Không di chuyển</CaravanNotMoving>
+  <!-- Foraged nutrition per day -->
+  <ForagedNutritionPerDay>Lượng ca-lo cần mỗi ngày.</ForagedNutritionPerDay>
+  <!-- Faction type -->
+  <FactionType>Loại băng nhóm</FactionType>
+  <!-- Total body size -->
+  <TotalBodySize>Tổng độ lớn</TotalBodySize>
+
+  <!-- Split caravan -->
+  <!-- Split caravan -->
+  <SplitCaravan>Tách đoàn lữ hành</SplitCaravan>
+  <!-- You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>Ít nhất phải có một thành viên ở đoàn này.</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>Bao nhiêu vật dụng mà đoàn mới đem theo.</SplitCaravanThingCountTip>
+
+  <!-- Load transporters -->
+  <!-- Load {0} -->
+  <LoadTransporters>Tải {0}</LoadTransporters>
+  <!-- The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>Vật phẩm và người được chọn vượt quá tải trọng của kén vận chuyển.</TooBigTransportersMassUsage>
+  <!-- You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>Bạn không thể phóng kén rỗng được.</CantSendEmptyTransportPods>
+  <!-- {0} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{0} không thể vào kén vận chuyển được.</PawnCantReachTransporters>
+  <!-- There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>Không có lối đi giữa kén vận chuyển và {0}.</TransporterItemIsUnreachableSingle>
+  <!-- There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>Không có lỗi đi giữa kén vận chuyển và {0}x {1}.</TransporterItemIsUnreachableMulti>
+
+  <!-- Comms -->
+  <!-- Social skill: {0} -->
+  <SocialSkillIs>Kĩ năng Giao tiếp: {0}</SocialSkillIs>
+
+  <!--Research-->
+  <!-- Research finished: {0} -->
+  <ResearchFinished>Hoàn thành nghiên cứu: {0}</ResearchFinished>
+  <!-- Research Screen -->
+  <ResearchScreen>Bảng nghiên cứu</ResearchScreen>
+
+  <!--HistoryUpload-->
+  <!-- Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage>Bạn có muôn tải lên dữ liệu ghi lại quá trình chơi lên máy chủ RimWorld để giúp đỡ trò chơi hoàn thiện hơn không? Nếu bạn đồng ý, dữ liệu của bạn sẽ được định kì gửi lên máy chủ mỗi {0} ngày trong trò chơi (và ở một số thời điểm khác như kết thúc trò chơi). Quyền riêng tư này có thể thay đồi ở Tùy chọn.</HistoryUploadMessage>
+  <!-- Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName>Dù lịch sử trò chơi được gửi ở chế độ nặc danh, bạn cũng có thể thêm tên của bạn vào.</HistoryUploadMessagePlayerName>
+  <!-- Allow uploading gameplay data -->
+  <HistoryUploadYes>Cho phép tải dữ liệu trò chơi</HistoryUploadYes>
+  <!-- Do not allow uploading gameplay data -->
+  <HistoryUploadNo>Không cho phép chi sẽ dữ liệu</HistoryUploadNo>
+  <!-- Upload only this time -->
+  <HistoryUploadYesOnce>Chỉ cho phép tải dữ liệu lần này</HistoryUploadYesOnce>
+  <!-- Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce>Không cho phép tải lên bây giờ, hãy hỏi lại sau.</HistoryUploadNoOnce>
+
+  <!-- Outfit management -->
+  <!-- Outfit -->
+  <Outfit>Trang phục</Outfit>
+  <!-- Select outfit... -->
+  <SelectOutfit>Chọn trang phục...</SelectOutfit>
+  <!-- New outfit -->
+  <NewOutfit>Trang phục mới</NewOutfit>
+  <!-- Delete outfit... -->
+  <DeleteOutfit>Xóa trang phục...</DeleteOutfit>
+  <!-- Outfit is in use by {0}. -->
+  <OutfitInUse>Trang phục đang được dùng bởi {0}.</OutfitInUse>
+  <!-- No outfit selected -->
+  <NoOutfitSelected>Không có trang phục nào được chọn.</NoOutfitSelected>
+
+  <!-- Drug policy management -->
+  <!-- Drug policy -->
+  <DrugPolicy>Quy định dùng đồ kích thích</DrugPolicy>
+  <!-- Select policy... -->
+  <SelectDrugPolicy>Chọn quy định...</SelectDrugPolicy>
+  <!-- New policy -->
+  <NewDrugPolicy>Quy định mới</NewDrugPolicy>
+  <!-- Delete policy... -->
+  <DeleteDrugPolicy>Xóa quy định...</DeleteDrugPolicy>
+  <!-- Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>Quy định đang được dùng bởi {0}.</DrugPolicyInUse>
+  <!-- Social drugs -->
+  <SocialDrugs>Xã giao</SocialDrugs>
+  <!-- No drugs -->
+  <NoDrugs>Không dùng</NoDrugs>
+  <!-- One drink per day -->
+  <OneDrinkPerDay>Mỗi ngày một lần</OneDrinkPerDay>
+  <!-- Unrestricted -->
+  <Unrestricted>Không cấm cản</Unrestricted>
+  <!-- No drug policy selected -->
+  <NoDrugPolicySelected>Không có quy định nào được chọn</NoDrugPolicySelected>
+  <!-- Add drug... -->
+  <AddDrug>Thêm chất kích thích...</AddDrug>
+  <!-- Drug -->
+  <DrugColumnLabel>Chất kích thích</DrugColumnLabel>
+  <!-- Usage -->
+  <DrugUsageColumnLabel>Sử dụng</DrugUsageColumnLabel>
+  <!-- Frequency -->
+  <FrequencyColumnLabel>Mức độ dùng</FrequencyColumnLabel>
+  <!-- Only if mood below -->
+  <MoodThresholdColumnLabel>Chỉ khi tâm trạng dưới</MoodThresholdColumnLabel>
+  <!-- Only if recreation below -->
+  <JoyThresholdColumnLabel>Chỉ khi giải trí dưới</JoyThresholdColumnLabel>
+  <!-- Take to inventory -->
+  <TakeToInventoryColumnLabel>Đem theo bên mình</TakeToInventoryColumnLabel>
+  <!-- (no drugs) -->
+  <NoDrugsBrackets>(không dùng)</NoDrugsBrackets>
+  <!-- Every day -->
+  <EveryDay>Mỗi ngày</EveryDay>
+  <!-- {0} times per day -->
+  <TimesPerDay>{0} lần mỗi ngày</TimesPerDay>
+  <!-- Every {0} days -->
+  <EveryDays>Mỗi {0} ngày</EveryDays>
+  <!-- Any -->
+  <NoDrugUseRequirement>Nào cũng được</NoDrugUseRequirement>
+  <!-- Delete this drug. -->
+  <DeleteDrugTooltip>Xóa chất kích thích này.</DeleteDrugTooltip>
+  <!-- The name of a drug. -->
+  <DrugNameColumnDesc>Tên của chất kích thích.</DrugNameColumnDesc>
+  <!-- How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc>Cho phép xài chất kích thích như thế nào.</DrugUsageColumnDesc>
+  <!-- How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>Mức độ thường xuyên khi dùng chất này.</FrequencyColumnDesc>
+  <!-- The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>Chỉ dùng khi tâm trạng dưới mức này.</MoodThresholdColumnDesc>
+  <!-- The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>Chỉ dùng khi mức độ giải trí của họ dưới mức này.</JoyThresholdColumnDesc>
+  <!-- An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>Số lượng mỗi lần lấy dùng để tránh việc phải đi đến kho mỗi khi cần.</TakeToInventoryColumnDesc>
+ <!-- For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+ <DrugUsageTipForAddiction>Thỏa cơn nghiện\n\nDùng chất này để nguôi cơn nghiện.\n\nKể cả có cấm, vài người có tính cách đặc biệt, hoặc đang trong cơn điên cũng sẽ tự ý sử dụng thôi.</DrugUsageTipForAddiction>
+ <!-- For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+ <DrugUsageTipForJoy>Thỏa mãn giải trí\n\nChỉ dùng chất này cho giải trí và xã giao.\n\nKể cả có cấm, vài người có tính cách đặc biệt, hoặc đang trong cơn điên cũng sẽ tự ý sử dụng thôi.</DrugUsageTipForJoy>
+  <!-- Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>Theo lịch\n\nDùng chất này theo định kì, khi đủ điều kiện nhất định.</DrugUsageTipScheduled>
+
+  <!-- Medical settings -->
+  <!-- Defaults -->
+  <MedGroupDefaults>Mặc định</MedGroupDefaults>
+  <!-- Colonist -->
+  <MedGroupColonist>Người dân</MedGroupColonist>
+  <!-- Imprisoned colonist -->
+  <MedGroupImprisonedColonist>Người dân đang bị giam</MedGroupImprisonedColonist>
+  <!-- Colony animal -->
+  <MedGroupColonyAnimal>Thú nuôi của thị trấn</MedGroupColonyAnimal>
+  <!-- Neutral animal -->
+  <MedGroupNeutralAnimal>Động vật hoang dã</MedGroupNeutralAnimal>
+  <!-- Neutral faction -->
+  <MedGroupNeutralFaction>Băng nhóm trung lập</MedGroupNeutralFaction>
+  <!-- Hostile faction -->
+  <MedGroupHostileFaction>Băng nhóm kẻ thù</MedGroupHostileFaction>
+
+  <!-- Growing -->
+  <!-- {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} yêu cầu cấp {1} ở kĩ năng Trồng trọt.\n\nKhông có người dân nào của bạn đủ trình để trồng được loại cây này.</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>Vài người dân/vật nuôi của bạn vẫn còn ở khu vực này. Bạn có chắc là từ bỏ nơi này không?\n\nNhững người và vật nuôi sau sẽ bị bỏ rơi:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>Bỏ rơi {0} sẽ khiến những người sau nhận những suy nghĩ sau:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Mọi người:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>Vài con vật hoặc tù nhân đang muốn gia nhập vào đoàn lữ hành này. Nếu đoàn lữ hành này di chuyển, họ sẽ không còn nữa.\n\nĐộng vật, tù nhân và những thành viên không thể cử động bị bỏ lại mà không có thành viên khỏe mạnh ở cùng sẽ bị coi là bỏ rơi và có thể bị bắt bởi kẻ thù.\n\nBạn có chắc muốn di chuyển đoàn lữ hành này?</ConfirmMoveAutoJoinableCaravan>
+
+  <!-- Abandon pawn -->
+  <!-- Do you really want to banish {0}? -->
+  <ConfirmBanishPawnDialog>Bạn chắc chắn muốn đuổi {0}?</ConfirmBanishPawnDialog>
+  <!-- {0} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{0} sẽ chết đó.</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- {0} will take the following items with [PAWN_objective]: -->
+  <ConfirmBanishPawnDialog_Items>{0} sẽ lấy theo vật phẩm sau với [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
+  <!-- All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Mọi người sẽ nghĩ như sau:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- Banishing {0} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>Đuổi {0} đi sẽ khiến những người sau bị ảnh hưởng tâm lí:</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- Pod group isn't completely loaded. {0} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>Nhóm phóng chưa tải xong. Thiếu mất {0}. Bạn vẫn muốn phóng chứ?</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <ConfirmSettleNearFactionBase>Vì vị trí này chỉ cách {0} ô so với thị trấn của băng nhóm khác, họ sẽ nghĩ rằng bạn đang xâm chiếm vùng đất của họ và giao hảo với những băng nhóm đo sẽ giảm {1} mỗi ngày.\n\nChắc chắn định cư ở đây chứ?</ConfirmSettleNearFactionBase>
+
+</LanguageData>

@@ -53,7 +53,7 @@
 
   <!--=========== Main menu translations info window ===========-->
   <!-- All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers. -->
-  <TranslationThanks>Tất cả các bản dịch sang ngôn ngữ khác đều do cộng đồng người hâm mộ Rimworld cung cấp. Bản dịch này được dịch bởi những người chơi tâm quyết dưới đây.</TranslationThanks>
+  <TranslationThanks>Tất cả các bản dịch sang ngôn ngữ khác đều do cộng đồng người hâm mộ Rimworld cung cấp. Bản dịch này được dịch bởi những người chơi tâm quyết dưới đây:\n\n{0}</TranslationThanks>
   <!-- You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>Bạn có thể đóng góp cho bản dịch bằng cách bấm vào nút bên dưới (Mở trang mới trong trình duyệt).</TranslationHowToContribute>
   <!-- Learn more -->
@@ -341,7 +341,7 @@
   <!-- Each person needs a valid name. -->
   <EveryoneNeedsValidName>Mỗi người dân cần có tên đúng quy cách.</EveryoneNeedsValidName>
   <!-- None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Không ai trong số người dân bạn chọn có làm được việc sau:</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Không ai trong số người dân bạn chọn có thể làm được việc sau:</RequiredWorkTypeDisabledForEveryone>
   <!-- Quit -->
   <Quit>Thoát</Quit>
   <!-- Ignore -->

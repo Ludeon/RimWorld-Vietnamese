@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Khả năng sử dụng vũ khí công nghệ cao và thấp.</Shooting.description>
+  <!-- shooting -->
+  <Shooting.skillLabel>viễn chiến</Shooting.skillLabel>
+
+  <!-- Melee combat, both armed and unarmed. -->
+  <Melee.description>Khả năng cận chiến (tay không hoặc có vũ khí).</Melee.description>
+  <!-- melee -->
+  <Melee.skillLabel>cận chiến</Melee.skillLabel>
+
+  <!-- Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Khả năng xây dựng và đập bỏ công trình và nội thất.</Construction.description>
+  <!-- construction -->
+  <Construction.skillLabel>xây dựng</Construction.skillLabel>
+
+  <!-- Digging tunnels and extracting buried resources. -->
+  <Mining.description>Khả năng đào hầm và khai thác tài nguyên.</Mining.description>
+  <!-- mining -->
+  <Mining.skillLabel>đào mỏ</Mining.skillLabel>
+
+  <!-- Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Khả năng nấu nguyên liệu thô sơ thành thức ăn.</Cooking.description>
+  <!-- cooking -->
+  <Cooking.skillLabel>nấu nướng</Cooking.skillLabel>
+
+  <!-- Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Khả năng trồng trọt, thu hoạch cây trồng và hái lượm thức ăn nếu là thành viên của đoàn lữ hành.</Plants.description>
+  <!-- plants -->
+  <Plants.skillLabel>trồng trọt</Plants.skillLabel>
+
+  <!-- Taming, training, and controlling animals. -->
+  <Animals.description>Khả năng thuần hóa, huấn luyện và điều khiển động vật.</Animals.description>
+  <!-- animals -->
+  <Animals.skillLabel>nuôi thú</Animals.skillLabel>
+
+  <!-- Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Khả năng làm ra trang phục, vũ khí, linh kiện và tinh chế tài nguyên.</Crafting.description>
+  <!-- crafting -->
+  <Crafting.skillLabel>chế tạo</Crafting.skillLabel>
+
+  <!-- Crafting art. -->
+  <Artistic.description>Kĩ năng chế tác tượng.</Artistic.description>
+  <!-- artistic -->
+  <Artistic.skillLabel>hội họa</Artistic.skillLabel>
+
+  <!-- Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Khả năng trị thương, chữa bệnh và thực hiện phẫu thuật y tế.</Medicine.description>
+  <!-- medical -->
+  <Medicine.skillLabel>y tế</Medicine.skillLabel>
+
+  <!-- Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Khả năng đàm phán, trao đổi, dẫn dắt và điểm sáng cho người khác.</Social.description>
+  <!-- social -->
+  <Social.skillLabel>xã hội</Social.skillLabel>
+
+  <!-- Researching and drug synthesis. -->
+  <Intellectual.description>Khả năng thực hiện các nghiên cứu khoa học.</Intellectual.description>
+  <!-- intellectual -->
+  <Intellectual.skillLabel>khoa học</Intellectual.skillLabel>
+
+
+</LanguageData>
