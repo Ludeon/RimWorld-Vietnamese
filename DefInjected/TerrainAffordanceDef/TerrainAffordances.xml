@@ -4,55 +4,55 @@
   <!-- Supports light structure -->
 
   <!-- light -->
-  <Light.label></Light.label>
+  <Light.label>ánh sáng</Light.label>
 
 
   <!-- Supports medium structures (mainly walls) -->
 
   <!-- medium -->
-  <Medium.label></Medium.label>
+  <Medium.label>trung bình</Medium.label>
 
 
   <!-- Supports heavy structures -->
 
   <!-- heavy -->
-  <Heavy.label></Heavy.label>
+  <Heavy.label>nặng</Heavy.label>
 
 
   <!-- Can be built on with things that are waterproof -->
 
   <!-- shallow water -->
-  <ShallowWater.label></ShallowWater.label>
+  <ShallowWater.label>nước nông</ShallowWater.label>
 
 
   <!-- Contains power usable for hydroelectrics -->
 
   <!-- moving water -->
-  <MovingFluid.label></MovingFluid.label>
+  <MovingFluid.label>dòng nước đang chảy</MovingFluid.label>
 
 
   <!-- Bridge can be built here -->
 
   <!-- bridgeable -->
-  <Bridgeable.label></Bridgeable.label>
+  <Bridgeable.label>có thể xây cầu</Bridgeable.label>
 
 
   <!-- Things can grow here -->
 
   <!-- growable -->
-  <GrowSoil.label></GrowSoil.label>
+  <GrowSoil.label>có thể trồng trọt</GrowSoil.label>
 
 
   <!-- For graves -->
 
   <!-- diggable -->
-  <Diggable.label></Diggable.label>
+  <Diggable.label>có thể đào</Diggable.label>
 
 
   <!-- Can be ground and smoothed into smooth stone -->
 
   <!-- smoothable -->
-  <SmoothableStone.label></SmoothableStone.label>
+  <SmoothableStone.label>có thể mài nhẵn</SmoothableStone.label>
 
 
 </LanguageData>

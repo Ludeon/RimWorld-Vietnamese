@@ -4,30 +4,30 @@
   <!--=================== executions and prisoner deaths ===================-->
 
   <!-- justified execution -->
-  <KnowGuestExecuted.stages.0.label></KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.label>hành quyết vì công lí</KnowGuestExecuted.stages.0.label>
   <!-- A guilty prisoner or guest was executed. It was justified, but still sad. -->
-  <KnowGuestExecuted.stages.0.description></KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.0.description>Một tù nhân hoặc người khách đã bị hành quyết. Dù biết là vì công lí nhưng vẫn có chút gì đó đượm buồn.</KnowGuestExecuted.stages.0.description>
   <!-- someone was euthanized -->
-  <KnowGuestExecuted.stages.1.label></KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.label>có người bị tiêm thuốc</KnowGuestExecuted.stages.1.label>
   <!-- A prisoner or guest was euthanized. It was humane, but still sad. -->
-  <KnowGuestExecuted.stages.1.description></KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.1.description>Một tù nhân hoặc người khách đã được tiêm thuốc an thần cực mạnh để ra đi thanh thản. Dẫu biết đó là việc nhân đạo nhưng vẫn có chút đượm buồn.</KnowGuestExecuted.stages.1.description>
   <!-- someone was executed -->
-  <KnowGuestExecuted.stages.2.label></KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.label>có người bị hành quyết</KnowGuestExecuted.stages.2.label>
   <!-- A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
-  <KnowGuestExecuted.stages.2.description></KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.2.description>Một tù nhân hoặc người khách đã bị hành quyết. Có chút đáng sợ vương vấn đâu đây.</KnowGuestExecuted.stages.2.description>
   <!-- someone organ-harvested -->
-  <KnowGuestExecuted.stages.3.label></KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.label>có người bị móc nội tạng</KnowGuestExecuted.stages.3.label>
   <!-- A prisoner or guest died because the colony took body parts from him. It's horrible. -->
-  <KnowGuestExecuted.stages.3.description></KnowGuestExecuted.stages.3.description>
+  <KnowGuestExecuted.stages.3.description>Một tù nhân hoặc người khách chết vì bị chúng ta móc mất nội tạng. Thật kinh khủng!</KnowGuestExecuted.stages.3.description>
 
   <!-- justified execution of colonist -->
-  <KnowColonistExecuted.stages.0.label></KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.label>người dân bị hành quyết vì công bằng</KnowColonistExecuted.stages.0.label>
   <!-- A guilty colonist was executed. It was justified, but still sad. -->
-  <KnowColonistExecuted.stages.0.description></KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.0.description>Một người dân phạm tội đã bị hành quyết. Dù là vì công bằng nhưng cũng có chút chua sót đâu đây.</KnowColonistExecuted.stages.0.description>
   <!-- colonist euthanized -->
-  <KnowColonistExecuted.stages.1.label></KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.label>người dân bị tiêm thuốc</KnowColonistExecuted.stages.1.label>
   <!-- A colonist was euthanized. It was humane, but still sad. -->
-  <KnowColonistExecuted.stages.1.description></KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.1.description>Một người dân đã được </KnowColonistExecuted.stages.1.description>
   <!-- colonist executed -->
   <KnowColonistExecuted.stages.2.label></KnowColonistExecuted.stages.2.label>
   <!-- A colonist was killed in cold blood. It seemed a bit evil. -->

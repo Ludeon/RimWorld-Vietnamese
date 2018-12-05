@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- root -->
+  <Root.label>gốc</Root.label>
+
+
+  <!-- Foods -->
+
+  <!-- foods -->
+  <Foods.label>thực phẩm</Foods.label>
+  <!-- meals -->
+  <FoodMeals.label>món ăn</FoodMeals.label>
+  <!-- raw food -->
+  <FoodRaw.label>đồ sống</FoodRaw.label>
+  <!-- meat -->
+  <MeatRaw.label>thịt</MeatRaw.label>
+  <!-- vegetarian -->
+  <PlantFoodRaw.label>rau củ</PlantFoodRaw.label>
+  <!-- animal products -->
+  <AnimalProductRaw.label>sản phẩm từ thú nuôi</AnimalProductRaw.label>
+  <!-- eggs (unfert.) -->
+  <EggsUnfertilized.label>trứng (chưa thụ tinh)</EggsUnfertilized.label>
+  <!-- eggs (fert.) -->
+  <EggsFertilized.label>trứng (đã thụ tinh)</EggsFertilized.label>
+
+
+  <!-- Manufactured -->
+
+  <!-- manufactured -->
+  <Manufactured.label>chế tạo</Manufactured.label>
+  <!-- textiles -->
+  <Textiles.label>dệt may</Textiles.label>
+  <!-- leathers -->
+  <Leathers.label>da thuộc</Leathers.label>
+  <!-- medicine -->
+  <Medicine.label>y tế</Medicine.label>
+  <!-- drugs -->
+  <Drugs.label>thuốc</Drugs.label>
+  <!-- mortar shells -->
+  <MortarShells.label>đạn pháo</MortarShells.label>
+
+
+  <!-- Raw resources -->
+
+  <!-- raw resources -->
+  <ResourcesRaw.label>tài nguyên thô</ResourcesRaw.label>
+  <!-- plant matter -->
+  <PlantMatter.label>thực vật</PlantMatter.label>
+  <!-- stone blocks -->
+  <StoneBlocks.label>đá cắt</StoneBlocks.label>
+
+
+  <!-- Items -->
+
+  <!-- items -->
+  <Items.label>vật phẩm</Items.label>
+  <!-- unfinished -->
+  <Unfinished.label>vật chưa hoàn thành</Unfinished.label>
+  <!-- artifacts -->
+  <Artifacts.label>nhân tạo</Artifacts.label>
+  <!-- body parts -->
+  <BodyParts.label>bộ phận cơ thể</BodyParts.label>
+  <!-- natural -->
+  <BodyPartsNatural.label>tự nhiên</BodyPartsNatural.label>
+  <!-- artificial -->
+  <BodyPartsArtificial.label>vật nhân tạo</BodyPartsArtificial.label>
+
+
+  <!-- Weapons -->
+
+  <!-- weapons -->
+  <Weapons.label>vũ khí</Weapons.label>
+  <!-- melee weapons -->
+  <WeaponsMelee.label>cận chiến</WeaponsMelee.label>
+  <!-- ranged weapons -->
+  <WeaponsRanged.label>tầm xa</WeaponsRanged.label>
+  <!-- grenades -->
+  <Grenades.label>lựu đạn</Grenades.label>
+
+
+  <!-- Apparel -->
+
+  <!-- apparel -->
+  <Apparel.label>trang phục</Apparel.label>
+  <!-- headgear -->
+  <Headgear.label>phụ kiện</Headgear.label>
+
+
+  <!-- Buildings -->
+
+  <!-- buildings -->
+  <Buildings.label>xây dựng</Buildings.label>
+  <!-- art -->
+  <BuildingsArt.label>nghệ thuật</BuildingsArt.label>
+  <!-- production -->
+  <BuildingsProduction.label>sản phẩm</BuildingsProduction.label>
+  <!-- furniture -->
+  <BuildingsFurniture.label>nội thất</BuildingsFurniture.label>
+  <!-- power -->
+  <BuildingsPower.label>năng lượng</BuildingsPower.label>
+  <!-- security -->
+  <BuildingsSecurity.label>bảo vệ</BuildingsSecurity.label>
+  <!-- misc -->
+  <BuildingsMisc.label>khác</BuildingsMisc.label>
+  <!-- recreation -->
+  <BuildingsJoy.label>giải trí</BuildingsJoy.label>
+  <!-- temperature -->
+  <BuildingsTemperature.label>nhiệt độ</BuildingsTemperature.label>
+  <!-- special -->
+  <BuildingsSpecial.label>đặc biệt</BuildingsSpecial.label>
+
+
+  <!-- Chunks -->
+
+  <!-- chunks -->
+  <Chunks.label>tảng</Chunks.label>
+  <!-- stone chunks -->
+  <StoneChunks.label>đá tảng</StoneChunks.label>
+
+
+  <!-- Corpses -->
+
+  <!-- corpses -->
+  <Corpses.label>xác</Corpses.label>
+  <!-- humanlike corpses -->
+  <CorpsesHumanlike.label>xác người</CorpsesHumanlike.label>
+  <!-- animal corpses -->
+  <CorpsesAnimal.label>xác động vật</CorpsesAnimal.label>
+  <!-- insect corpses -->
+  <CorpsesInsect.label>xác côn trùng</CorpsesInsect.label>
+  <!-- mechanoid corpses -->
+  <CorpsesMechanoid.label>xác mechanoid</CorpsesMechanoid.label>
+
+
+</LanguageData>
