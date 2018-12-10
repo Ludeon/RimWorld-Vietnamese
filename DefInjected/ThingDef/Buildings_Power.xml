@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- power conduit -->
+  <PowerConduit.label>dây điện</PowerConduit.label>
+  <!-- A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>Dùng để mang điện đến các nơi. Có thể đặt bên dưới tường hoặc các công trình khác.</PowerConduit.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PowerConduit.label>BlueprintLabelExtra</Blueprint_PowerConduit.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PowerConduit.label>FrameLabelExtra</Frame_PowerConduit.label>
+
+  <!-- waterproof conduit -->
+  <WaterproofConduit.label>dây điện chống nước</WaterproofConduit.label>
+  <!-- Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>Dây điện thường được bọc thêm vỏ chống thấm nước để có thể đặt ở nơi mực nước thấp.</WaterproofConduit.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WaterproofConduit.label>BlueprintLabelExtra</Blueprint_WaterproofConduit.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WaterproofConduit.label>FrameLabelExtra</Frame_WaterproofConduit.label>
+
+  <!-- power switch -->
+  <PowerSwitch.label>công tắc điện</PowerSwitch.label>
+  <!-- Switches power on/off. -->
+  <PowerSwitch.description>Dùng để bật/tắt điện.</PowerSwitch.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PowerSwitch.label>BlueprintLabelExtra</Blueprint_PowerSwitch.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PowerSwitch.label>FrameLabelExtra</Frame_PowerSwitch.label>
+
+  <!-- wood-fired generator -->
+  <WoodFiredGenerator.label>Máy phát điện bằng củi</WoodFiredGenerator.label>
+  <!-- Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Sử dụng gỗ để phát điện. Phải được cung cấp gỗ bằng tay.</WoodFiredGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WoodFiredGenerator.label>BlueprintLabelExtra</Blueprint_WoodFiredGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WoodFiredGenerator.label>FrameLabelExtra</Frame_WoodFiredGenerator.label>
+
+  <!-- chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>máy phát điện bằng nhiên liệu</ChemfuelPoweredGenerator.label>
+  <!-- Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>Sử dụng nhiên liệu để phát điện. Phải được cung cấp nhiên liệu bằng tay.</ChemfuelPoweredGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_ChemfuelPoweredGenerator.label>BlueprintLabelExtra</Blueprint_ChemfuelPoweredGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_ChemfuelPoweredGenerator.label>FrameLabelExtra</Frame_ChemfuelPoweredGenerator.label>
+
+  <!-- wind turbine -->
+  <WindTurbine.label>tua-bin gió</WindTurbine.label>
+  <!-- A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>Máy phát điện dựa vào năng lượng gió. Cần không gian thoáng đãng phía trước và phía sau để tối ưa luồng gió.</WindTurbine.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WindTurbine.label>BlueprintLabelExtra</Blueprint_WindTurbine.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WindTurbine.label>FrameLabelExtra</Frame_WindTurbine.label>
+
+  <!-- battery -->
+  <Battery.label>pin</Battery.label>
+  <!-- Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>Nơi chứa năng lượng dư thừa được tạo ra để sử dụng về sau. Pin đang tích điện dễ bị nổ khi để dưới trời mưa hoặc đám cháy.</Battery.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Battery.label>BlueprintLabelExtra</Blueprint_Battery.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Battery.label>BlueprintLabelExtra</Blueprint_Install_Battery.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Battery.label>FrameLabelExtra</Frame_Battery.label>
+
+  <!-- solar generator -->
+  <SolarGenerator.label>tấm pin năng lượng mặt trời</SolarGenerator.label>
+  <!-- Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>Sản xuất điện từ ánh sáng mặt trời. Bất hoạt khi trời tối hoặc dưới ánh sáng nhân tạo.</SolarGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SolarGenerator.label>BlueprintLabelExtra</Blueprint_SolarGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_SolarGenerator.label>FrameLabelExtra</Frame_SolarGenerator.label>
+
+  <!-- geothermal generator -->
+  <GeothermalGenerator.label>máy phát điện địa nhiệt</GeothermalGenerator.label>
+  <!-- Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description>Sản xuất điện từ mạch nước nóng. Phải đặt trên một mạch nước nóng.</GeothermalGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_GeothermalGenerator.label>BlueprintLabelExtra</Blueprint_GeothermalGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_GeothermalGenerator.label>FrameLabelExtra</Frame_GeothermalGenerator.label>
+
+  <!-- watermill generator -->
+  <WatermillGenerator.label>cối xoay nước</WatermillGenerator.label>
+  <!-- Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation. -->
+  <WatermillGenerator.description>Sản xuất điện từ sông. Phải đặt ở con sông có dòng nước chảy. Nếu cối xoay nước đặt quá gần nhau sẽ bị ảnh hưởng bởi dòng chảy của nhau khiến giảm sản lượng điện sản xuất được.</WatermillGenerator.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_WatermillGenerator.label>BlueprintLabelExtra</Blueprint_WatermillGenerator.label>
+  <!-- FrameLabelExtra -->
+  <Frame_WatermillGenerator.label>FrameLabelExtra</Frame_WatermillGenerator.label>
+
+
+</LanguageData>

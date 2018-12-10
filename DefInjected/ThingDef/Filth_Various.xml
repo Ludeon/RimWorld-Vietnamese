@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- dirt -->
+  <Filth_Dirt.label>đất bẩn</Filth_Dirt.label>
+  <!-- animal filth -->
+  <Filth_AnimalFilth.label>chất thải động vật</Filth_AnimalFilth.label>
+  <!-- human filth -->
+  <Filth_HumanFilth.label>chất thải con người</Filth_HumanFilth.label>
+  <!-- trash -->
+  <Filth_Trash.label>rác</Filth_Trash.label>
+  <!-- sand -->
+  <Filth_Sand.label>cát</Filth_Sand.label>
+  <!-- rock rubble -->
+  <Filth_RubbleRock.label>vụn đá</Filth_RubbleRock.label>
+  <!-- building rubble -->
+  <Filth_RubbleBuilding.label> mảnh vụn công trình</Filth_RubbleBuilding.label>
+  <!-- scattered slag -->
+  <SlagRubble.label>mảnh vỡ</SlagRubble.label>
+  <!-- scattered sandbags -->
+  <SandbagRubble.label>tàn tích bao cát</SandbagRubble.label>
+
+
+  <!--=================== Fluids etc =================-->
+
+  <!-- blood -->
+  <Filth_Blood.label>máu</Filth_Blood.label>
+  <!-- bugblood -->
+  <Filth_BloodInsect.label>máu côn trùng</Filth_BloodInsect.label>
+  <!-- amniotic fluid -->
+  <Filth_AmnioticFluid.label>nước ối</Filth_AmnioticFluid.label>
+  <!-- slime -->
+  <Filth_Slime.label>dịch nhầy</Filth_Slime.label>
+  <!-- vomit -->
+  <Filth_Vomit.label>bãi nôn mửa</Filth_Vomit.label>
+  <!-- firefoam -->
+  <Filth_FireFoam.label>cát chữa cháy</Filth_FireFoam.label>
+
+  <!-- chemfuel puddle -->
+  <Filth_Fuel.label>vũng hóa chất</Filth_Fuel.label>
+  <!-- A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Vũng chứa hoá chất dễ cháy.</Filth_Fuel.description>
+
+  <!-- corpse bile -->
+  <Filth_CorpseBile.label>chất sình từ xác chết</Filth_CorpseBile.label>
+  <!-- ash -->
+  <Filth_Ash.label>tro</Filth_Ash.label>
+
+
+</LanguageData>
