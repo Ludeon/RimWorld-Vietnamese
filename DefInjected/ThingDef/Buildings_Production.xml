@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- crafting spot -->
-  <CraftingSpot.label></CraftingSpot.label>
+  <CraftingSpot.label>điểm </CraftingSpot.label>
   <!-- A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
   <CraftingSpot.description></CraftingSpot.description>
 
@@ -190,128 +190,128 @@
   <Frame_BiofuelRefinery.label></Frame_BiofuelRefinery.label>
 
   <!-- fabrication bench -->
-  <FabricationBench.label></FabricationBench.label>
+  <FabricationBench.label>bàn thêu dệt</FabricationBench.label>
   <!-- A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
   <FabricationBench.description></FabricationBench.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_FabricationBench.label></Blueprint_FabricationBench.label>
+  <Blueprint_FabricationBench.label>BlueprintLabelExtra</Blueprint_FabricationBench.label>
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_FabricationBench.label></Blueprint_Install_FabricationBench.label>
+  <Blueprint_Install_FabricationBench.label>BlueprintLabelExtra</Blueprint_Install_FabricationBench.label>
   <!-- FrameLabelExtra -->
-  <Frame_FabricationBench.label></Frame_FabricationBench.label>
+  <Frame_FabricationBench.label>FrameLabelExtra</Frame_FabricationBench.label>
 
 
   <!-- ========== Non-standard work buildings ==============-->
 
   <!-- simple research bench -->
-  <SimpleResearchBench.label></SimpleResearchBench.label>
+  <SimpleResearchBench.label>bàn nghiên cứu đơn giản</SimpleResearchBench.label>
   <!-- A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
-  <SimpleResearchBench.description></SimpleResearchBench.description>
+  <SimpleResearchBench.description>Loại bàn nghiên cứu với giấy viết cơ bản và các công cụ đo lường đơn giản. Nghiên cứu sinh làm việc tại đây để tìm tòi ra cái mới.</SimpleResearchBench.description>
 
 
   <!-- ========== Non-standard work buildings ==============-->
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_SimpleResearchBench.label></Blueprint_SimpleResearchBench.label>
+  <Blueprint_SimpleResearchBench.label>BlueprintLabelExtra</Blueprint_SimpleResearchBench.label>
 
 
   <!-- ========== Non-standard work buildings ==============-->
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_SimpleResearchBench.label></Blueprint_Install_SimpleResearchBench.label>
+  <Blueprint_Install_SimpleResearchBench.label>BlueprintLabelExtra</Blueprint_Install_SimpleResearchBench.label>
 
 
   <!-- ========== Non-standard work buildings ==============-->
 
   <!-- FrameLabelExtra -->
-  <Frame_SimpleResearchBench.label></Frame_SimpleResearchBench.label>
+  <Frame_SimpleResearchBench.label>FrameLabelExtra</Frame_SimpleResearchBench.label>
 
   <!-- hi-tech research bench -->
-  <HiTechResearchBench.label></HiTechResearchBench.label>
+  <HiTechResearchBench.label>bàn nghiên cứu công nghệ cao</HiTechResearchBench.label>
   <!-- A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description></HiTechResearchBench.description>
+  <HiTechResearchBench.description>Loại bàn nghiên cứu có sẵn máy tính và các công cụ điện cần thiết để đáp ứng nhu cầu nghiên cứu các công nghệ tiên tiến cũng như xúc tác quá trình nghiên cứu nhanh hơn.</HiTechResearchBench.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_HiTechResearchBench.label></Blueprint_HiTechResearchBench.label>
+  <Blueprint_HiTechResearchBench.label>BlueprintLabelExtra</Blueprint_HiTechResearchBench.label>
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_HiTechResearchBench.label></Blueprint_Install_HiTechResearchBench.label>
+  <Blueprint_Install_HiTechResearchBench.label>BlueprintLabelExtra</Blueprint_Install_HiTechResearchBench.label>
   <!-- FrameLabelExtra -->
-  <Frame_HiTechResearchBench.label></Frame_HiTechResearchBench.label>
+  <Frame_HiTechResearchBench.label>FrameLabelExtra</Frame_HiTechResearchBench.label>
 
   <!-- electric crematorium -->
-  <ElectricCrematorium.label></ElectricCrematorium.label>
+  <ElectricCrematorium.label>lò hỏa thiêu điện</ElectricCrematorium.label>
   <!-- A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description></ElectricCrematorium.description>
+  <ElectricCrematorium.description>Lò hỏa thiêu xây bằng đá sử dụng điện tạo ra nguồn nhiệt lớn để phân hủy xác chết.</ElectricCrematorium.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_ElectricCrematorium.label></Blueprint_ElectricCrematorium.label>
+  <Blueprint_ElectricCrematorium.label>BlueprintLabelExtra</Blueprint_ElectricCrematorium.label>
   <!-- FrameLabelExtra -->
-  <Frame_ElectricCrematorium.label></Frame_ElectricCrematorium.label>
+  <Frame_ElectricCrematorium.label>FrameLabelExtra</Frame_ElectricCrematorium.label>
 
   <!-- hydroponics basin -->
-  <HydroponicsBasin.label></HydroponicsBasin.label>
+  <HydroponicsBasin.label>chậu thủy canh</HydroponicsBasin.label>
   <!-- An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description></HydroponicsBasin.description>
+  <HydroponicsBasin.description>Loại chậu dài chứa đất đầy dinh dưỡng để trồng trọt. Phải liên tục cung cấp điện cho chậu, nếu không cây trồng trong chậu sẽ chết vì thiếu dưỡng chất.</HydroponicsBasin.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_HydroponicsBasin.label></Blueprint_HydroponicsBasin.label>
+  <Blueprint_HydroponicsBasin.label>BlueprintLabelExtra</Blueprint_HydroponicsBasin.label>
   <!-- FrameLabelExtra -->
-  <Frame_HydroponicsBasin.label></Frame_HydroponicsBasin.label>
+  <Frame_HydroponicsBasin.label>FrameLabelExtra</Frame_HydroponicsBasin.label>
 
   <!-- fermenting barrel -->
-  <FermentingBarrel.label></FermentingBarrel.label>
+  <FermentingBarrel.label>thùng ủ</FermentingBarrel.label>
   <!-- A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description></FermentingBarrel.description>
+  <FermentingBarrel.description>Thùng bằng gỗ dùng để ủ men thô thành bia.</FermentingBarrel.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_FermentingBarrel.label></Blueprint_FermentingBarrel.label>
+  <Blueprint_FermentingBarrel.label>BlueprintLabelExtra</Blueprint_FermentingBarrel.label>
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_FermentingBarrel.label></Blueprint_Install_FermentingBarrel.label>
+  <Blueprint_Install_FermentingBarrel.label>BlueprintLabelExtra</Blueprint_Install_FermentingBarrel.label>
   <!-- FrameLabelExtra -->
-  <Frame_FermentingBarrel.label></Frame_FermentingBarrel.label>
+  <Frame_FermentingBarrel.label>FrameLabelExtra</Frame_FermentingBarrel.label>
 
   <!-- deep drill -->
-  <DeepDrill.label></DeepDrill.label>
+  <DeepDrill.label>máy khoan sâu</DeepDrill.label>
   <!-- A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description></DeepDrill.description>
+  <DeepDrill.description>Cỗ máy khoan sâu vào lòng đất để đào lên khoáng sản. Sử dụng máy quét tầng sâu để quét tài nguyên ngầm. Máy khoan sẽ đào lên các tảng đá nếu không có tài nguyên nào bên dưới nó. Có thể tái cài đặt ở vị trí khác thoải mái.</DeepDrill.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_DeepDrill.label></Blueprint_DeepDrill.label>
+  <Blueprint_DeepDrill.label>BlueprintLabelExtra</Blueprint_DeepDrill.label>
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_DeepDrill.label></Blueprint_Install_DeepDrill.label>
+  <Blueprint_Install_DeepDrill.label>BlueprintLabelExtra</Blueprint_Install_DeepDrill.label>
   <!-- FrameLabelExtra -->
-  <Frame_DeepDrill.label></Frame_DeepDrill.label>
+  <Frame_DeepDrill.label>FrameLabelExtra</Frame_DeepDrill.label>
 
 
   <!--======================== Nutrient dispenser ==============================-->
 
   <!-- nutrient paste dispenser -->
-  <NutrientPasteDispenser.label></NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>máy trộn thức ăn</NutrientPasteDispenser.label>
   <!-- A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description></NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>Một cỗ máy trộn lẫn các nguyên liệu thô với nhau để tổng hợp thành thức ăn hỗn hợp. Tuy nó tốn ít nguyên liệu và thời gian hơn nấu ăn truyền thống nhưng không ai thích loại thức ăn này cả. Có thể xử lí nguyên liệu thô nhưng không quá thô như rơm rạ đâu.</NutrientPasteDispenser.description>
 
 
   <!--======================== Nutrient dispenser ==============================-->
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_NutrientPasteDispenser.label></Blueprint_NutrientPasteDispenser.label>
+  <Blueprint_NutrientPasteDispenser.label>BlueprintLabelExtra</Blueprint_NutrientPasteDispenser.label>
 
 
   <!--======================== Nutrient dispenser ==============================-->
 
   <!-- FrameLabelExtra -->
-  <Frame_NutrientPasteDispenser.label></Frame_NutrientPasteDispenser.label>
+  <Frame_NutrientPasteDispenser.label>FrameLabelExtra</Frame_NutrientPasteDispenser.label>
 
   <!-- hopper -->
-  <Hopper.label></Hopper.label>
+  <Hopper.label>thùng nguyên liệu</Hopper.label>
   <!-- Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description></Hopper.description>
+  <Hopper.description>Nơi đựng nguyên liệu thức ăn cho máy trộn thức ăn.</Hopper.description>
 
   <!-- BlueprintLabelExtra -->
-  <Blueprint_Hopper.label></Blueprint_Hopper.label>
+  <Blueprint_Hopper.label>BlueprintLabelExtra</Blueprint_Hopper.label>
   <!-- FrameLabelExtra -->
-  <Frame_Hopper.label></Frame_Hopper.label>
+  <Frame_Hopper.label>FrameLabelExtra</Frame_Hopper.label>
 
 
 </LanguageData>
