@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.label>đại pháo không gian</OrbitalTargeterBombardment.label>
+  <!-- An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+  <OrbitalTargeterBombardment.description>Một loại thiết bị dùng để điểu khiển loại vũ khí từ xưa còn hoạt động ngoài quỹ đạo hành tình. Bộ điều khiển này sẽ chỉ định mục tiêu và truyền tín hiệu đến hệ thống vệ tinh trên quỹ đạo. Sau đó, vệ tinh gắn đại pháo sẽ bắn các cột kim loại thẳng xuống khu vực. Thiết bị này chấp nhận cả lệnh không có thẩm quyền, tuy nhiên sau khi tín hiệu gửi lên vệ tinh, bộ xử lí của vệ tinh sẽ nhận biết được thiết bị vượt quyền và tự động ngắt liên lạc với thiết bị đó vĩnh viễn. Nói cách khác, thiết bị này chỉ có thể sử dụng 1 lần duy nhất.</OrbitalTargeterBombardment.description>
+
+  <!-- orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.label>pháo la-ze không gian</OrbitalTargeterPowerBeam.label>
+  <!-- An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
+  <OrbitalTargeterPowerBeam.description>Một loại thiết bị dùng để điều khiển một hệ thống vệ tinh chứa vũ khí từ thời xa xưa. Thiết bị này sẽ chỉ định mục tiêu rồi gửi tọa độ của mục tiêu đó lên hệ thống vệ tinh. Đại pháo trên vệ tinh sẽ bắn một luồng năng lượng cực lớn lên địa điểm đước chỉ định. Khu vực tại mục tiêu chỉ định sẽ bị thiêu cháy dưới sức nóng hàng ngàn độ C. Cột năng lượng sẽ kéo dài cho đến khi vệ tinh phát hiện mục tiêu không còn an toàn nữa, tự động dừng và vĩnh viễn ngắt kết nối với thiết bị điều khiển này. Nói cách khác, thiết bị này chỉ có thể dùng 1 lần.</OrbitalTargeterPowerBeam.description>
+
+  <!-- tornado generator -->
+  <TornadoGenerator.label>máy tạo lốc xoáy</TornadoGenerator.label>
+  <!-- An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
+  <TornadoGenerator.description>Một thiết bị của nền văn minh cổ đại dùng để điều khiển các vệ tinh điều khiển thời tiết. Thiết bị này nay đã cũ và chốt an toàn của nó đã hư dẫn đến việc nó có thể tạo ra những xáo trộn không khí cực lớn tại một điểm dẫn đến việc hình thành lốc xoáy tại điểm đó. Mạng lưới vệ tính điều khiển thời tiết sẽ nhanh chóng phát hiện ra lệnh vượt quyền của thiết bị này và sẽ tự động khóa thiết bị này khỏa hệ thống. Tuy nhiên, lốc xoáy vẫn còn tồn tại cho tới khi nó giải phóng hết năng lượng thì thôi.</TornadoGenerator.description>
+
+
+</LanguageData>

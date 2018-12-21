@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <!-- centipede -->
+  <Mech_Centipede.label>centipede</Mech_Centipede.label>
+  <!-- Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_Centipede.description>Mechanoid chiến đấu hạng nặng di chuyển nhờ hàng ngàn cái chân nhỏ dưới bụng. Lớp vỏ dày và được trang bị hỏa lực cực mạnh khiến nó vô cùng hữu hiệu khi chiến đấu với những mục tiêu bất động. Tuy nhiên vì trang bị quá nặng khiến chúng di chuyển khá ì ạch, vì thế chiến thuật hit-n-run (vừa bắn vừa chạy) vô cùng hữu hiệu khi đối đầu với chúng.</Mech_Centipede.description>
+  <!-- head -->
+  <Mech_Centipede.tools.0.label>đầu</Mech_Centipede.tools.0.label>
+
+
+  <!-- Lancer - fast sniper -->
+
+  <!-- lancer -->
+  <Mech_Lancer.label>lancer</Mech_Lancer.label>
+  <!-- A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
+  <Mech_Lancer.description>Mechanoid hình người trang bị cảm biến quang học cỡ đại trên đầu dùng để nhắm bắn mục tiêu ở khoảng cách xa. Tuy là đại diện sáng giá cho bộ môn đấu súng tầm xa nhưng lancer lại yếu về khoảng cận chiến. Những cựu binh từng chiến đấu trong cuộc chiến chống mechanoid đều biết cách tốt nhất khi đối đầu với lancer là tìm cách đánh cận chiến với nó.</Mech_Lancer.description>
+  <!-- left fist -->
+  <Mech_Lancer.tools.0.label>tay phải</Mech_Lancer.tools.0.label>
+  <!-- right fist -->
+  <Mech_Lancer.tools.1.label>tay trái</Mech_Lancer.tools.1.label>
+  <!-- head -->
+  <Mech_Lancer.tools.2.label>đầu</Mech_Lancer.tools.2.label>
+
+
+  <!-- Scyther - fast melee -->
+
+  <!-- scyther -->
+  <Mech_Scyther.label>scyther</Mech_Scyther.label>
+  <!-- Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Mechanoi hình người với tốc độ di chuyển cao, linh hoạt, có khả năng tiếp cận mục tiêu một cách nhanh chóng và khả năng cận chiến vượt bậc. Scyther thường dùng 2 thanh đao gắn ở 2 tay để lóc thịt ra khỏi người nạn nhân.</Mech_Scyther.description>
+  <!-- left blade -->
+  <Mech_Scyther.tools.0.label>đao trái</Mech_Scyther.tools.0.label>
+  <!-- right blade -->
+  <Mech_Scyther.tools.1.label>đao phải</Mech_Scyther.tools.1.label>
+  <!-- head -->
+  <Mech_Scyther.tools.2.label>đầu</Mech_Scyther.tools.2.label>
+
+
+</LanguageData>
