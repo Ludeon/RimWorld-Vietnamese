@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ====================================== Neolithic =========================================== -->
+
+  <!-- tribalwear -->
+  <Apparel_TribalA.label>trang phục bộ lạc</Apparel_TribalA.label>
+  <!-- A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>Bộ trang phục che toàn thân sử dụng kĩ thuật cổ điển. Nhìn cổ vậy thôi chứ thiệt ra nó cổ gần chết luôn á! Được cái mặc ấm người lắm.</Apparel_TribalA.description>
+
+  <!-- parka -->
+  <Apparel_Parka.label>áo khoác mùa đông</Apparel_Parka.label>
+  <!-- A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>Áo khoác dùng cho thời tiết mùa đông khắc nghiệt.</Apparel_Parka.description>
+
+
+  <!-- ====================================== Medieval =========================================== -->
+
+  <!-- pants -->
+  <Apparel_Pants.label>quần</Apparel_Pants.label>
+  <!-- A simple set of pants. -->
+  <Apparel_Pants.description>Cái quần giản đơn.</Apparel_Pants.description>
+
+  <!-- T-shirt -->
+  <Apparel_BasicShirt.label>áo thun</Apparel_BasicShirt.label>
+  <!-- A simple T-shirt. -->
+  <Apparel_BasicShirt.description>Cái áo thun giản đơn.</Apparel_BasicShirt.description>
+
+  <!-- button-down shirt -->
+  <Apparel_CollarShirt.label>áo sơ mi</Apparel_CollarShirt.label>
+  <!-- A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>Áo sơ mi đầy tính thẩm mỹ.</Apparel_CollarShirt.description>
+
+  <!-- duster -->
+  <Apparel_Duster.label>áo khoác cao bồi</Apparel_Duster.label>
+  <!-- A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>Áo khoác dài theo xì-tai cao bồi viễn tây để chống cái nóng đổ lửa của mùa hè.</Apparel_Duster.description>
+
+  <!-- jacket -->
+  <Apparel_Jacket.label>áo khoác thường</Apparel_Jacket.label>
+  <!-- A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>Áo khoác thường có thể cản được mấy vết cào cấu và những cú va đập. Ngoài ra còn giữ ấm người khi trời lạnh.</Apparel_Jacket.description>
+
+  <!-- plate armor -->
+  <Apparel_PlateArmor.label>giáp phẳng</Apparel_PlateArmor.label>
+  <!-- Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>Những miếng thép được nối với nhau thành bộ giáp che chắn từ phần đầu đến chân.</Apparel_PlateArmor.description>
+
+
+  <!-- ======================================= Industrial =======================================-->
+
+  <!-- flak vest -->
+  <Apparel_FlakVest.label>áo vét chống đạn</Apparel_FlakVest.label>
+  <!-- A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>Áo thun thường được gắn thêm vào các mảnh thép để tăng cường khả năng bảo vệ của cơ thể. Tuy khá hữu hiệu trong việc chống đạn và chống các vết chém vào ngực nhưng nó lại không có khả năng bảo vệ các cơ bắp của cơ thể.</Apparel_FlakVest.description>
+
+  <!-- flak pants -->
+  <Apparel_FlakPants.label>quần chống đạn</Apparel_FlakPants.label>
+  <!-- A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>Loại quần được gắn thêm những mảnh thép nhằm tăng khả năng bảo vệ. Tuy không có khả năng bảo vệ tốt như giáp cứng nhưng cũng đủ hiệu quả để chống lại đa phần các loại sát thương mà vẫn giữ được độ êm ái khi mặc.</Apparel_FlakPants.description>
+
+  <!-- flak jacket -->
+  <Apparel_FlakJacket.label>áo khoác chống đạn</Apparel_FlakJacket.label>
+  <!-- A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>Loại áo khoác thường được may thêm mảnh thép vào. Tuy không có khả năng bảo vệ tốt như giáp cứng nhưng cũng đủ hiệu quả để chống lại đa phần các loại sát thương mà vẫn giữ được độ êm ái khi mặc.</Apparel_FlakJacket.description>
+
+
+  <!-- ==================================== Spacer =====================================-->
+
+  <!-- power armor -->
+  <Apparel_PowerArmor.label>giáp năng lượng</Apparel_PowerArmor.label>
+  <!-- A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks. Neuro-memetic robotics allow a human to wear the heavy armor and still be capable of moving easily.\n\nPowered armor usually used by heavy infantry and space marines from spacer-tech militaries. -->
+  <Apparel_PowerArmor.description>Một bộ giáp năng lượng thường được mặc bởi các lục quân hạng nặng hoặc các lính đánh thuê không gian. Lớp bảo vệ bằng vật liệu plasteel mang lại khả năng chống đạn rất tốt. Hệ thống trợ lực cho phép con người dễ dàng di chuyển dù là đang trong bộ đồ cồng kềnh.</Apparel_PowerArmor.description>
+
+
+</LanguageData>

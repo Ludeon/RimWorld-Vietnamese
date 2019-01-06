@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=============== AI persona core ====================-->
+
+  <!-- AI persona core -->
+  <AIPersonaCore.label>lõi AI</AIPersonaCore.label>
+  <!-- A hyper-advanced computer core that houses a peak-human-equivalent AI persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <AIPersonaCore.description>Lõi xử lí siêu tiên tiến chứa siêu trí tuệ nhân tạo tương tự như con người. Khi không hoạt động, lõi rơi vào trạng thái ngủ đông. Khi được cài đặt vào hệ thống hỗ trợ, nó có thể trở nên vô cùng mạnh mẽ.</AIPersonaCore.description>
+
+  <!-- neurotrainer mech serum -->
+  <MechSerumNeurotrainer.label>thuốc kích não</MechSerumNeurotrainer.label>
+  <!-- A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <MechSerumNeurotrainer.description>Loại thuốc 1 lần dùng có tác dụng kích thích một vùng não để lập tức đạt được kĩ năng mong muốn.</MechSerumNeurotrainer.description>
+  <!-- Use neurotrainer mech serum to learn {0} -->
+  <MechSerumNeurotrainer.comps.0.useLabel>Sử dụng thuốc kích não để học {0}</MechSerumNeurotrainer.comps.0.useLabel>
+
+  <!-- healer mech serum -->
+  <MechSerumHealer.label>thuốc hồi phục</MechSerumHealer.label>
+  <!-- A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
+  <MechSerumHealer.description>Loại thuốc 1 lần dùng có tác dụng chữa lành một thương tật trên người dùng. Có thể dùng để làm các bộ phận nội tạng quan trọng nếu cần.</MechSerumHealer.description>
+  <!-- Use healer mech serum -->
+  <MechSerumHealer.comps.0.useLabel>Dùng thuốc hồi phục</MechSerumHealer.comps.0.useLabel>
+
+  <!-- resurrector mech serum -->
+  <MechSerumResurrector.label>thuốc hồi sinh</MechSerumResurrector.label>
+  <!-- A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
+  <MechSerumResurrector.description>Loại thuốc 1 lần dùng có khả năng tái sinh người đã chết. Tuy nhiên khả năng người được hồi sinh sẽ bị tổn thương não, mù mắt hoặc rơi vào trạng thái thần kinh tồi tệ khác. Kết quả sẽ khả quan hơn nếu tình trạng cơ thể của người được hồi sinh còn tốt. Nếu cơ thể được bảo quản tốt, người đã chết lâu vẫn có thể được hồi sinh.</MechSerumResurrector.description>
+  <!-- Use resurrector mech serum -->
+  <MechSerumResurrector.comps.0.useLabel>Dùng thuốc hồi sinh</MechSerumResurrector.comps.0.useLabel>
+
+
+  <!--=============== Technology helper persona ====================-->
+
+  <!-- techprof subpersona core -->
+  <TechprofSubpersonaCore.label>lõi công nghệ</TechprofSubpersonaCore.label>
+  <!-- A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you one technology you don't know, instantly and for free. Can only be used once. -->
+  <TechprofSubpersonaCore.description>Lõi công nghệ AI nhỏ có khả năng mở khóa một dự án chưa được nghiên cứu ngay lập tức. Chỉ có thể sử dụng một lần và mở khóa một công nghệ.</TechprofSubpersonaCore.description>
+  <!-- Use techprof subpersona core -->
+  <TechprofSubpersonaCore.comps.0.useLabel>Sử dụng lõi công nghệ</TechprofSubpersonaCore.comps.0.useLabel>
+
+
+  <!--=============== Thrumbo horn ====================-->
+
+  <!-- thrumbo horn -->
+  <ThrumboHorn.label>sừng thrumbo</ThrumboHorn.label>
+  <!-- A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
+  <ThrumboHorn.description>Một cái sừng thrumbo. Khá nhọn, cứng và vô cùng giá trị ở thị trường chợ đen. Cái sừng này vừa là kỉ vật vừa là vũ khí cầm tay vô cùng đáng sợ.</ThrumboHorn.description>
+  <!-- point -->
+  <ThrumboHorn.tools.0.label>điểm</ThrumboHorn.tools.0.label>
+  <!-- base -->
+  <ThrumboHorn.tools.1.label>cơ sở</ThrumboHorn.tools.1.label>
+
+
+  <!--=============== Elephant tusk ====================-->
+
+  <!-- elephant tusk -->
+  <ElephantTusk.label>ngà voi</ElephantTusk.label>
+  <!-- An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
+  <ElephantTusk.description>Một cái ngà voi. Rất chắc chắn và giá trị. Tuy không phải là vũ khí cầm tay chính thông nhưng sát thương của nó thuộc hàng cực khủng.</ElephantTusk.description>
+  <!-- point -->
+  <ElephantTusk.tools.0.label>điểm</ElephantTusk.tools.0.label>
+  <!-- base -->
+  <ElephantTusk.tools.1.label>cơ sở</ElephantTusk.tools.1.label>
+
+
+</LanguageData>
