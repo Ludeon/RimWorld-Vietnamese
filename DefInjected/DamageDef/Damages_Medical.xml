@@ -4,17 +4,17 @@
   <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
 
   <!-- surgical cut -->
-  <SurgicalCut.label></SurgicalCut.label>
+  <SurgicalCut.label>phẫu thuật</SurgicalCut.label>
   <!-- {0} has died during surgery. -->
-  <SurgicalCut.deathMessage></SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>{0} đã chết trong lúc phẫu thuật.</SurgicalCut.deathMessage>
 
 
   <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
 
   <!-- execution cut -->
-  <ExecutionCut.label></ExecutionCut.label>
+  <ExecutionCut.label>tử hình</ExecutionCut.label>
   <!-- {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage></ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} đã bị tử hình.</ExecutionCut.deathMessage>
 
 
 </LanguageData>
