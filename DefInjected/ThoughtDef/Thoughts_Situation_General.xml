@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- darkness -->
+  <EnvironmentDark.stages.0.label>bóng tối</EnvironmentDark.stages.0.label>
+  <!-- I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.0.description>Trời tối đen như mực, không thấy gì hết cả. Cảm giác cứ rợn người làm sao!</EnvironmentDark.stages.0.description>
+
+  <!-- ratty apparel -->
+  <ApparelDamaged.stages.0.label>trang phục rách lỗ chỗ</ApparelDamaged.stages.0.label>
+  <!-- The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.0.description>Đồ mặc càng ngày càng rách. May cho mình đồ mới được không?</ApparelDamaged.stages.0.description>
+  <!-- tattered apparel -->
+  <ApparelDamaged.stages.1.label>trang phục tơi tả</ApparelDamaged.stages.1.label>
+  <!-- This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.1.description>Đồ tôi đang mặc càng ngày càng tơi tả. Có thể may cho tôi đồ mới được không?</ApparelDamaged.stages.1.description>
+
+  <!-- tainted {0} -->
+  <DeadMansApparel.stages.0.label>{0} nhiễm độc</DeadMansApparel.stages.0.label>
+  <!-- I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.0.description>Tôi đang mặc đồ của người đã chết làm tôi có cảm giác đáng sợ.</DeadMansApparel.stages.0.description>
+  <!-- tainted {0} (+1) -->
+  <DeadMansApparel.stages.1.label>2 cái {0} nhiễm độc</DeadMansApparel.stages.1.label>
+  <!-- I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.1.description>Tôi đang mặc 2 thứ đã từng mặc bởi người chết. Cái này làm tôi sợ và cảm giác mặc nó thật khó chịu.</DeadMansApparel.stages.1.description>
+  <!-- tainted {0} (+2) -->
+  <DeadMansApparel.stages.2.label>3 cái {0} nhiễm độc</DeadMansApparel.stages.2.label>
+  <!-- I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.2.description>Tôi đang mặc 3 thứ đã từng mặc bởi người chết. Cái này làm tôi sợ và cảm giác mặc nó thật khó chịu.</DeadMansApparel.stages.2.description>
+  <!-- tainted {0} etc -->
+  <DeadMansApparel.stages.3.label>{0} nhiễm độc (4 cái hoặc hơn)</DeadMansApparel.stages.3.label>
+  <!-- I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.3.description>Tôi đang mặc nhiều thứ đã từng mặc bởi người chết. Cái này làm tôi sợ và cảm giác mặc nó thật khó chịu.</DeadMansApparel.stages.3.description>
+
+  <!-- human leather {0} -->
+  <HumanLeatherApparelSad.stages.0.label>{0} bằng da người</HumanLeatherApparelSad.stages.0.label>
+  <!-- Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparelSad.stages.0.description>Mặc đồ làm từ da người? Thật kinh khủng! Ai lại có thể làm điều này chứ?</HumanLeatherApparelSad.stages.0.description>
+  <!-- human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.1.label>2 bộ {0} bằng da người</HumanLeatherApparelSad.stages.1.label>
+  <!-- I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.1.description>Tôi mặc đồ làm từ da người giống những thằng biến thái vậy!</HumanLeatherApparelSad.stages.1.description>
+  <!-- human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.2.label>3 bộ {0} bằng da người</HumanLeatherApparelSad.stages.2.label>
+  <!-- I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.2.description>Hình như tôi thấy có bộ mặt của người khác trên bộ đồ tôi đang mặc. Ôi thần linh ơi...!</HumanLeatherApparelSad.stages.2.description>
+  <!-- human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.3.label>nhiều bộ {0} bằng da người</HumanLeatherApparelSad.stages.3.label>
+  <!-- I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparelSad.stages.3.description>Mình như thằng biến thái bước ra từ bộ phim kinh dị vậy!</HumanLeatherApparelSad.stages.3.description>
+
+  <!-- human leather {0} -->
+  <HumanLeatherApparelHappy.stages.0.label>{0} bằng da người</HumanLeatherApparelHappy.stages.0.label>
+  <!-- I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.0.description>Tao thích cảm nhận nỗi đau của người khác.</HumanLeatherApparelHappy.stages.0.description>
+  <!-- human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.1.label>2 bô {0} bằng da người</HumanLeatherApparelHappy.stages.1.label>
+  <!-- This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.1.description>Những thứ này sẽ dọa chết tụi nó và sẽ thể hiện sức mạnh của mình.</HumanLeatherApparelHappy.stages.1.description>
+  <!-- human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.2.label>3 bô {0} bằng da người</HumanLeatherApparelHappy.stages.2.label>
+  <!-- The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.2.description>Những khung mặt trên bộ đồ của ta không cười nhưng nó lại làm ta cười!</HumanLeatherApparelHappy.stages.2.description>
+  <!-- human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.3.label>nhiều bộ {0} bằng da người</HumanLeatherApparelHappy.stages.3.label>
+  <!-- The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.3.description>Thứ ta đang mặc thể hiện sự sức mạnh của ta!</HumanLeatherApparelHappy.stages.3.description>
+
+  <!-- sick -->
+  <Sick.stages.0.label>long thể bất an</Sick.stages.0.label>
+  <!-- I don't feel very well. -->
+  <Sick.stages.0.description>Mau truyền ngự y!</Sick.stages.0.description>
+
+  <!-- chilly -->
+  <EnvironmentCold.stages.0.label>hơi lạnh</EnvironmentCold.stages.0.label>
+  <!-- I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.0.description>Bổn phu cảm thấy hơi lạnh đó.</EnvironmentCold.stages.0.description>
+  <!-- cold -->
+  <EnvironmentCold.stages.1.label>lạnh</EnvironmentCold.stages.1.label>
+  <!-- I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.1.description>Lạnh từ trong bụng lạnh ra - Lạnh từ ngã bốn ngã ba lạnh vào.</EnvironmentCold.stages.1.description>
+  <!-- numbing cold -->
+  <EnvironmentCold.stages.2.label>lạnh buốt</EnvironmentCold.stages.2.label>
+  <!-- I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.2.description>Lạnh run cả người, lạnh tới mức hàm răng đánh lô tô luôn.</EnvironmentCold.stages.2.description>
+  <!-- absolutely freezing -->
+  <EnvironmentCold.stages.3.label>hàn băng</EnvironmentCold.stages.3.label>
+  <!-- My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.3.description>Hàm răng đánh cầm cập mạnh tới mức không thể nói lên lời. Đôi chân tê cứng. Tôi cần chỗ ấm!</EnvironmentCold.stages.3.description>
+
+  <!-- sweaty -->
+  <EnvironmentHot.stages.0.label>hơi nóng</EnvironmentHot.stages.0.label>
+  <!-- It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.0.description>Cảm giác ở đây hơi nóng nhỉ? Mồ hôi cứ chảy từng giọt từng giọt ra...</EnvironmentHot.stages.0.description>
+  <!-- hot -->
+  <EnvironmentHot.stages.1.label>nóng</EnvironmentHot.stages.1.label>
+  <!-- It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.1.description>Nóng gì mà nóng dữ thần ôn vậy! Làm ơn mở máy lạnh lên đi...</EnvironmentHot.stages.1.description>
+  <!-- sweltering hot -->
+  <EnvironmentHot.stages.2.label>nóng nực</EnvironmentHot.stages.2.label>
+  <!-- I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.2.description>NAM! Mở cho anh quảng cáo của Điện máy Xanh...</EnvironmentHot.stages.2.description>
+  <!-- blistering hot -->
+  <EnvironmentHot.stages.3.label>nóng khủng khiếp</EnvironmentHot.stages.3.label>
+  <!-- This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.3.description>Máy... lạnh...!!!</EnvironmentHot.stages.3.description>
+
+
+</LanguageData>

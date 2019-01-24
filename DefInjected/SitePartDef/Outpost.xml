@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- outpost -->
+  <Outpost.label>tiền đồn</Outpost.label>
+  <!-- A small, guarded outpost. -->
+  <Outpost.description>Một tiền đồn nhỏ được canh gác.</Outpost.description>
+  <!-- Attacking {0} -->
+  <Outpost.approachingReportString>Đang tấn công {0}</Outpost.approachingReportString>
+  <!-- Attack {0} -->
+  <Outpost.approachOrderString>Tấn công {0}</Outpost.approachOrderString>
+  <!-- There is an enemy outpost in this area. -->
+  <Outpost.arrivedLetter>Có một tiền đồn của địch ở khu vực này.</Outpost.arrivedLetter>
+  <!-- Enemy outpost -->
+  <Outpost.arrivedLetterLabel>Tiền đồn địch</Outpost.arrivedLetterLabel>
+  <!-- there is an enemy outpost at the site guarded by {0} enemies -->
+  <Outpost.descriptionDialogue>có một tiền đồn địch ở khu vực được canh giữ bởi {0} kẻ địch.</Outpost.descriptionDialogue>
+
+
+</LanguageData>
