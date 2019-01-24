@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- blood loss -->
+  <BloodLoss.label>mất máu</BloodLoss.label>
+  <!-- minor -->
+  <BloodLoss.stages.0.label>ít</BloodLoss.stages.0.label>
+  <!-- minor -->
+  <BloodLoss.stages.1.label>kha khá</BloodLoss.stages.1.label>
+  <!-- moderate -->
+  <BloodLoss.stages.2.label>nhiều</BloodLoss.stages.2.label>
+  <!-- severe -->
+  <BloodLoss.stages.3.label>nghiêm trọng</BloodLoss.stages.3.label>
+  <!-- extreme -->
+  <BloodLoss.stages.4.label>nguy hiểm</BloodLoss.stages.4.label>
+
+  <!-- anesthetic -->
+  <Anesthetic.label>hôn mê</Anesthetic.label>z
+
+  <!-- catatonic breakdown -->
+  <CatatonicBreakdown.label>rối loạn cử động</CatatonicBreakdown.label>
+  <!-- a catatonic breakdown -->
+  <CatatonicBreakdown.labelNoun>rối loạn cử động</CatatonicBreakdown.labelNoun>
+
+  <!-- psychic shock -->
+  <PsychicShock.label>sốc tâm lí</PsychicShock.label>
+  <!-- a psychic shock -->
+  <PsychicShock.labelNoun>sốc tâm lí</PsychicShock.labelNoun>
+
+  <!-- cryptosleep sickness -->
+  <CryptosleepSickness.label>mệt sau ngủ đông</CryptosleepSickness.label>
+
+  <!-- food poisoning -->
+  <FoodPoisoning.label>ngộ độc thức ăn</FoodPoisoning.label>
+  <!-- recovering -->
+  <FoodPoisoning.stages.0.label>đang hồi phục</FoodPoisoning.stages.0.label>
+  <!-- major -->
+  <FoodPoisoning.stages.1.label>nặng</FoodPoisoning.stages.1.label>
+  <!-- initial -->
+  <FoodPoisoning.stages.2.label>nhẹ</FoodPoisoning.stages.2.label>
+
+  <!-- toxic buildup -->
+  <ToxicBuildup.label>nhiễm độc</ToxicBuildup.label>
+  <!-- initial -->
+  <ToxicBuildup.stages.0.label>sơ nhiễm</ToxicBuildup.stages.0.label>
+  <!-- initial -->
+  <ToxicBuildup.stages.1.label>sơ nhiễm</ToxicBuildup.stages.1.label>
+  <!-- minor -->
+  <ToxicBuildup.stages.2.label>nhẹ</ToxicBuildup.stages.2.label>
+  <!-- moderate -->
+  <ToxicBuildup.stages.3.label>trung bình</ToxicBuildup.stages.3.label>
+  <!-- serious -->
+  <ToxicBuildup.stages.4.label>nặng</ToxicBuildup.stages.4.label>
+  <!-- extreme -->
+  <ToxicBuildup.stages.5.label>nguy hiểm</ToxicBuildup.stages.5.label>
+
+  <!-- pregnant -->
+  <Pregnant.label>mang thai</Pregnant.label>
+  <!-- {0} pregnant -->
+  <Pregnant.comps.0.discoverLetterLabel>{0} có thai</Pregnant.comps.0.discoverLetterLabel>
+  <!-- {0} is pregnant! -->
+  <Pregnant.comps.0.discoverLetterText>{0} đang mang thai!</Pregnant.comps.0.discoverLetterText>
+  <!-- pregnancy -->
+  <Pregnant.labelNoun>thai kì</Pregnant.labelNoun>
+  <!-- early-stage -->
+  <Pregnant.stages.0.label>kì đầu</Pregnant.stages.0.label>
+  <!-- middle-stage -->
+  <Pregnant.stages.1.label>kì giữa</Pregnant.stages.1.label>
+  <!-- late-stage -->
+  <Pregnant.stages.2.label>kì cuối</Pregnant.stages.2.label>
+
+  <!-- heart attack -->
+  <HeartAttack.label>đau tim</HeartAttack.label>
+  <!-- a heart attack -->
+  <HeartAttack.labelNoun>đau tim</HeartAttack.labelNoun>
+  <!-- painful -->
+  <HeartAttack.stages.0.label>đau đớn</HeartAttack.stages.0.label>
+  <!-- debilitating -->
+  <HeartAttack.stages.1.label>suy tim</HeartAttack.stages.1.label>
+  <!-- fatal -->
+  <HeartAttack.stages.2.label>chí tử</HeartAttack.stages.2.label>
+
+  <!-- drug overdose -->
+  <DrugOverdose.label>sốc thuốc</DrugOverdose.label>
+  <!-- Overdose: {0} -->
+  <DrugOverdose.comps.1.discoverLetterLabel>Sốc thuốc: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+  <!-- {0} is overdosing! -->
+  <DrugOverdose.comps.1.discoverLetterText>{0} đang bị sốc thuốc</DrugOverdose.comps.1.discoverLetterText>
+  <!-- a drug overdose -->
+  <DrugOverdose.labelNoun>sốc thuốc</DrugOverdose.labelNoun>
+  <!-- minor -->
+  <DrugOverdose.stages.0.label>nhẹ</DrugOverdose.stages.0.label>
+  <!-- minor -->
+  <DrugOverdose.stages.1.label>nhẹ</DrugOverdose.stages.1.label>
+  <!-- major -->
+  <DrugOverdose.stages.2.label>nặng</DrugOverdose.stages.2.label>
+
+  <!-- resurrection sickness -->
+  <ResurrectionSickness.label>mệt sau hồi sinh</ResurrectionSickness.label>
+
+
+</LanguageData>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--======== Common to various mechanoids ========-->
+  <!-- neck -->
+  <MechanicalNeck.label>cổ</MechanicalNeck.label>
+  <!-- head -->
+  <MechanicalHead.label>đầu</MechanicalHead.label>
+  <!-- artificial brain -->
+  <ArtificialBrain.label>não nhân tạo</ArtificialBrain.label>
+  <!-- sight sensor -->
+  <SightSensor.label>cảm biến hình ảnh</SightSensor.label>
+  <!-- hearing sensor -->
+  <HearingSensor.label>cảm biến âm thanh</HearingSensor.label>
+  <!-- smell sensor -->
+  <SmellSensor.label>cảm biến mùi vị</SmellSensor.label>
+  <!-- shoulder -->
+  <MechanicalShoulder.label>vai</MechanicalShoulder.label>
+  <!-- arm -->
+  <MechanicalArm.label>cánh tay</MechanicalArm.label>
+  <!-- hand -->
+  <MechanicalHand.label>bàn tay</MechanicalHand.label>
+  <!-- finger -->
+  <MechanicalFinger.label>ngón tay</MechanicalFinger.label>
+  <!-- leg -->
+  <MechanicalLeg.label>chân</MechanicalLeg.label>
+  <!-- foot -->
+  <MechanicalFoot.label>bàn chân</MechanicalFoot.label>
+
+  <!--===================== Human-like specific (lancer, scyther) ====================-->
+  <!-- thorax -->
+  <MechanicalThorax.label>ngực</MechanicalThorax.label>
+
+
+  <!--===================== Scyther specific ====================-->
+  <!-- blade -->
+  <Blade.label>lưỡi hái</Blade.label>
+
+  <!-- first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>đốt thứ nhất</MechanicalCentipedeBodyFirstRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>đốt cơ thể</MechanicalCentipedeBodyFirstRing.labelShort>
+
+  <!-- second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>đốt thứ hai</MechanicalCentipedeBodySecondRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>đốt cơ thể</MechanicalCentipedeBodySecondRing.labelShort>
+
+  <!-- third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>đốt thứ ba</MechanicalCentipedeBodyThirdRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>đốt cơ thể</MechanicalCentipedeBodyThirdRing.labelShort>
+
+  <!-- fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>đốt thứ tư</MechanicalCentipedeBodyFourthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>đốt cơ thể</MechanicalCentipedeBodyFourthRing.labelShort>
+
+  <!-- fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>đốt thứ năm</MechanicalCentipedeBodyFifthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>đốt cơ thể</MechanicalCentipedeBodyFifthRing.labelShort>
+
+  <!-- sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>đốt thứ sáu</MechanicalCentipedeBodySixthRing.label>
+  <!-- body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>đốt cơ thể</MechanicalCentipedeBodySixthRing.labelShort>
+
+
+</LanguageData>
