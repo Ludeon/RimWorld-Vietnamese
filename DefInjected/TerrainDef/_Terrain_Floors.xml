@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ================= Misc ================= -->
+
+  <!-- concrete -->
+  <Concrete.label></Concrete.label>
+  <!-- Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description></Concrete.description>
+
+  <!-- paved tile -->
+  <PavedTile.label></PavedTile.label>
+  <!-- Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description></PavedTile.description>
+
+  <!-- wood floor -->
+  <WoodPlankFloor.label></WoodPlankFloor.label>
+  <!-- Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description></WoodPlankFloor.description>
+
+
+  <!-- ================= Tiles ================= -->
+
+  <!-- metal tile -->
+  <MetalTile.label></MetalTile.label>
+  <!-- Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description></MetalTile.description>
+
+  <!-- silver tile -->
+  <SilverTile.label></SilverTile.label>
+  <!-- For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description></SilverTile.description>
+
+  <!-- gold tile -->
+  <GoldTile.label></GoldTile.label>
+  <!-- For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description></GoldTile.description>
+
+  <!-- sterile tile -->
+  <SterileTile.label></SterileTile.label>
+  <!-- Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description></SterileTile.description>
+
+  <!-- red carpet -->
+  <CarpetRed.label></CarpetRed.label>
+  <!-- Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description></CarpetRed.description>
+
+  <!-- green carpet -->
+  <CarpetGreen.label></CarpetGreen.label>
+  <!-- Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description></CarpetGreen.description>
+
+  <!-- blue carpet -->
+  <CarpetBlue.label></CarpetBlue.label>
+  <!-- Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description></CarpetBlue.description>
+
+  <!-- cream carpet -->
+  <CarpetCream.label></CarpetCream.label>
+  <!-- Inviting cream-colored carpet. -->
+  <CarpetCream.description></CarpetCream.description>
+
+  <!-- dark carpet -->
+  <CarpetDark.label></CarpetDark.label>
+  <!-- Professional-looking dark gray carpet. -->
+  <CarpetDark.description></CarpetDark.description>
+
+
+</LanguageData>

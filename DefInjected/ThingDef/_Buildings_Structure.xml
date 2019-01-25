@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- door -->
+  <Door.label></Door.label>
+  <!-- Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description></Door.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Door.label></Blueprint_Door.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Door.label></Frame_Door.label>
+
+  <!-- autodoor -->
+  <Autodoor.label></Autodoor.label>
+  <!-- Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description></Autodoor.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Autodoor.label></Blueprint_Autodoor.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Autodoor.label></Frame_Autodoor.label>
+
+
+  <!--========================= Walls =============================-->
+
+  <!-- wall -->
+  <Wall.label></Wall.label>
+  <!-- An impassable wall. Capable of holding up a roof. -->
+  <Wall.description></Wall.description>
+
+
+  <!--========================= Walls =============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Wall.label></Blueprint_Wall.label>
+
+
+  <!--========================= Walls =============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Wall.label></Frame_Wall.label>
+
+
+</LanguageData>

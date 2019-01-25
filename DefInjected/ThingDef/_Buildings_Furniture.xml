@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--============================== Beds ==============================-->
+
+  <!-- sleeping spot -->
+  <SleepingSpot.label></SleepingSpot.label>
+  <!-- Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description></SleepingSpot.description>
+
+
+  <!--============================== Beds ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SleepingSpot.label></Blueprint_SleepingSpot.label>
+
+
+  <!--============================== Beds ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_SleepingSpot.label></Frame_SleepingSpot.label>
+
+  <!-- double sleeping spot -->
+  <DoubleSleepingSpot.label></DoubleSleepingSpot.label>
+  <!-- Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description></DoubleSleepingSpot.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DoubleSleepingSpot.label></Blueprint_DoubleSleepingSpot.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DoubleSleepingSpot.label></Frame_DoubleSleepingSpot.label>
+
+  <!-- bed -->
+  <Bed.label></Bed.label>
+  <!-- A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description></Bed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Bed.label></Blueprint_Bed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Bed.label></Blueprint_Install_Bed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Bed.label></Frame_Bed.label>
+
+  <!-- double bed -->
+  <DoubleBed.label></DoubleBed.label>
+  <!-- A simple double-wide bed that fits two people. -->
+  <DoubleBed.description></DoubleBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DoubleBed.label></Blueprint_DoubleBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_DoubleBed.label></Blueprint_Install_DoubleBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DoubleBed.label></Frame_DoubleBed.label>
+
+  <!-- royal bed -->
+  <RoyalBed.label></RoyalBed.label>
+  <!-- A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description></RoyalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_RoyalBed.label></Blueprint_RoyalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_RoyalBed.label></Blueprint_Install_RoyalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_RoyalBed.label></Frame_RoyalBed.label>
+
+  <!-- hospital bed -->
+  <HospitalBed.label></HospitalBed.label>
+  <!-- A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description></HospitalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_HospitalBed.label></Blueprint_HospitalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_HospitalBed.label></Blueprint_Install_HospitalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_HospitalBed.label></Frame_HospitalBed.label>
+
+  <!-- bedroll -->
+  <Bedroll.label></Bedroll.label>
+  <!-- A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description></Bedroll.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Bedroll.label></Blueprint_Bedroll.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Bedroll.label></Blueprint_Install_Bedroll.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Bedroll.label></Frame_Bedroll.label>
+
+  <!-- double bedroll -->
+  <BedrollDouble.label></BedrollDouble.label>
+  <!-- A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description></BedrollDouble.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_BedrollDouble.label></Blueprint_BedrollDouble.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_BedrollDouble.label></Blueprint_Install_BedrollDouble.label>
+  <!-- FrameLabelExtra -->
+  <Frame_BedrollDouble.label></Frame_BedrollDouble.label>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- animal sleeping spot -->
+  <AnimalSleepingSpot.label></AnimalSleepingSpot.label>
+  <!-- Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description></AnimalSleepingSpot.description>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalSleepingSpot.label></Blueprint_AnimalSleepingSpot.label>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalSleepingSpot.label></Frame_AnimalSleepingSpot.label>
+
+  <!-- animal sleeping box -->
+  <AnimalSleepingBox.label></AnimalSleepingBox.label>
+  <!-- A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description></AnimalSleepingBox.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalSleepingBox.label></Blueprint_AnimalSleepingBox.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_AnimalSleepingBox.label></Blueprint_Install_AnimalSleepingBox.label>
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalSleepingBox.label></Frame_AnimalSleepingBox.label>
+
+  <!-- animal bed -->
+  <AnimalBed.label></AnimalBed.label>
+  <!-- A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description></AnimalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalBed.label></Blueprint_AnimalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_AnimalBed.label></Blueprint_Install_AnimalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalBed.label></Frame_AnimalBed.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- stool -->
+  <Stool.label></Stool.label>
+  <!-- A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description></Stool.description>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Stool.label></Blueprint_Stool.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Stool.label></Blueprint_Install_Stool.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Stool.label></Frame_Stool.label>
+
+  <!-- dining chair -->
+  <DiningChair.label></DiningChair.label>
+  <!-- A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description></DiningChair.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DiningChair.label></Blueprint_DiningChair.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_DiningChair.label></Blueprint_Install_DiningChair.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DiningChair.label></Frame_DiningChair.label>
+
+  <!-- armchair -->
+  <Armchair.label></Armchair.label>
+  <!-- A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description></Armchair.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Armchair.label></Blueprint_Armchair.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Armchair.label></Blueprint_Install_Armchair.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Armchair.label></Frame_Armchair.label>
+
+  <!-- end table -->
+  <EndTable.label></EndTable.label>
+  <!-- A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description></EndTable.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_EndTable.label></Blueprint_EndTable.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_EndTable.label></Blueprint_Install_EndTable.label>
+  <!-- FrameLabelExtra -->
+  <Frame_EndTable.label></Frame_EndTable.label>
+
+  <!-- table (1x2) -->
+  <Table1x2c.label></Table1x2c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description></Table1x2c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table1x2c.label></Blueprint_Table1x2c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table1x2c.label></Blueprint_Install_Table1x2c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table1x2c.label></Frame_Table1x2c.label>
+
+  <!-- table (2x2) -->
+  <Table2x2c.label></Table2x2c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description></Table2x2c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table2x2c.label></Blueprint_Table2x2c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table2x2c.label></Blueprint_Install_Table2x2c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table2x2c.label></Frame_Table2x2c.label>
+
+  <!-- table (2x4) -->
+  <Table2x4c.label></Table2x4c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description></Table2x4c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table2x4c.label></Blueprint_Table2x4c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table2x4c.label></Blueprint_Install_Table2x4c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table2x4c.label></Frame_Table2x4c.label>
+
+  <!-- table (3x3) -->
+  <Table3x3c.label></Table3x3c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description></Table3x3c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table3x3c.label></Blueprint_Table3x3c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table3x3c.label></Blueprint_Install_Table3x3c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table3x3c.label></Frame_Table3x3c.label>
+
+  <!-- plant pot -->
+  <PlantPot.label></PlantPot.label>
+  <!-- Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description></PlantPot.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PlantPot.label></Blueprint_PlantPot.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_PlantPot.label></Blueprint_Install_PlantPot.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PlantPot.label></Frame_PlantPot.label>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- torch lamp -->
+  <TorchLamp.label></TorchLamp.label>
+  <!-- A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description></TorchLamp.description>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_TorchLamp.label></Blueprint_TorchLamp.label>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- FrameLabelExtra -->
+  <Frame_TorchLamp.label></Frame_TorchLamp.label>
+
+  <!-- standing lamp -->
+  <StandingLamp.label></StandingLamp.label>
+  <!-- An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description></StandingLamp.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp.label></Blueprint_StandingLamp.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp.label></Blueprint_Install_StandingLamp.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp.label></Frame_StandingLamp.label>
+
+  <!-- standing lamp (red) -->
+  <StandingLamp_Red.label></StandingLamp_Red.label>
+  <!-- A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description></StandingLamp_Red.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Red.label></Blueprint_StandingLamp_Red.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Red.label></Blueprint_Install_StandingLamp_Red.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Red.label></Frame_StandingLamp_Red.label>
+
+  <!-- standing lamp (green) -->
+  <StandingLamp_Green.label></StandingLamp_Green.label>
+  <!-- A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description></StandingLamp_Green.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Green.label></Blueprint_StandingLamp_Green.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Green.label></Blueprint_Install_StandingLamp_Green.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Green.label></Frame_StandingLamp_Green.label>
+
+  <!-- standing lamp (blue) -->
+  <StandingLamp_Blue.label></StandingLamp_Blue.label>
+  <!-- A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description></StandingLamp_Blue.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Blue.label></Blueprint_StandingLamp_Blue.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Blue.label></Blueprint_Install_StandingLamp_Blue.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Blue.label></Frame_StandingLamp_Blue.label>
+
+  <!-- sun lamp -->
+  <SunLamp.label></SunLamp.label>
+  <!-- An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description></SunLamp.description>
+  <!-- Off for plant resting period -->
+  <SunLamp.comps.2.offMessage></SunLamp.comps.2.offMessage>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SunLamp.label></Blueprint_SunLamp.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_SunLamp.label></Blueprint_Install_SunLamp.label>
+  <!-- FrameLabelExtra -->
+  <Frame_SunLamp.label></Frame_SunLamp.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- shelf -->
+  <Shelf.label></Shelf.label>
+  <!-- A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description></Shelf.description>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Shelf.label></Blueprint_Shelf.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Shelf.label></Blueprint_Install_Shelf.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Shelf.label></Frame_Shelf.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- dresser -->
+  <Dresser.label></Dresser.label>
+  <!-- A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description></Dresser.description>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Dresser.label></Blueprint_Dresser.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Dresser.label></Blueprint_Install_Dresser.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Dresser.label></Frame_Dresser.label>
+
+
+</LanguageData>

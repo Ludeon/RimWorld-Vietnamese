@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=============== Medicine ====================-->
+
+  <!-- herbal medicine -->
+  <MedicineHerbal.label></MedicineHerbal.label>
+  <!-- A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description></MedicineHerbal.description>
+
+  <!-- medicine -->
+  <MedicineIndustrial.label></MedicineIndustrial.label>
+  <!-- A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description></MedicineIndustrial.description>
+
+  <!-- glitterworld medicine -->
+  <MedicineUltratech.label></MedicineUltratech.label>
+  <!-- A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description></MedicineUltratech.description>
+
+
+  <!--=============== ComponentIndustrial ====================-->
+
+  <!-- component -->
+  <ComponentIndustrial.label></ComponentIndustrial.label>
+  <!-- Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description></ComponentIndustrial.description>
+
+  <!-- advanced component -->
+  <ComponentSpacer.label></ComponentSpacer.label>
+  <!-- Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description></ComponentSpacer.description>
+
+
+  <!--=============== Neutroamine ====================-->
+
+  <!-- neutroamine -->
+  <Neutroamine.label></Neutroamine.label>
+  <!-- A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description></Neutroamine.description>
+
+
+  <!--=============== Chemfuel ====================-->
+
+  <!-- chemfuel -->
+  <Chemfuel.label></Chemfuel.label>
+  <!-- A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
+  <Chemfuel.description></Chemfuel.description>
+
+
+</LanguageData>

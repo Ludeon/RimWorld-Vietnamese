@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- flame -->
+  <Flame.label></Flame.label>
+  <!-- {0} has burned to death. -->
+  <Flame.deathMessage></Flame.deathMessage>
+
+
+  <!-- Burn is like Flame, but doesn't ignite anything -->
+
+  <!-- burn -->
+  <Burn.label></Burn.label>
+  <!-- {0} has burned to death. -->
+  <Burn.deathMessage></Burn.deathMessage>
+
+  <!-- frostbite -->
+  <Frostbite.label></Frostbite.label>
+  <!-- {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage></Frostbite.deathMessage>
+
+  <!-- scratch -->
+  <TornadoScratch.label></TornadoScratch.label>
+  <!-- {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage></TornadoScratch.deathMessage>
+
+
+</LanguageData>

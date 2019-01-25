@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ========================== Warg ================================= -->
+
+  <!-- warg -->
+  <Warg.label></Warg.label>
+  <!-- Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description></Warg.description>
+  <!-- left claw -->
+  <Warg.tools.0.label></Warg.tools.0.label>
+  <!-- right claw -->
+  <Warg.tools.1.label></Warg.tools.1.label>
+  <!-- razorfangs -->
+  <Warg.tools.2.label></Warg.tools.2.label>
+  <!-- head -->
+  <Warg.tools.3.label></Warg.tools.3.label>
+
+
+  <!-- ========================== Warg ================================= -->
+
+  <!-- MeatLabel -->
+  <Meat_Warg.label></Meat_Warg.label>
+  <!-- MeatDesc -->
+  <Meat_Warg.description></Meat_Warg.description>
+
+
+  <!-- ========================== Warg ================================= -->
+
+  <!-- CorpseLabel -->
+  <Corpse_Warg.label></Corpse_Warg.label>
+  <!-- CorpseDesc -->
+  <Corpse_Warg.description></Corpse_Warg.description>
+
+  <!-- timber wolf -->
+  <Wolf_Timber.label></Wolf_Timber.label>
+  <!-- A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description></Wolf_Timber.description>
+  <!-- wolfmeat -->
+  <Wolf_Timber.race.meatLabel></Wolf_Timber.race.meatLabel>
+  <!-- left claw -->
+  <Wolf_Timber.tools.0.label></Wolf_Timber.tools.0.label>
+  <!-- right claw -->
+  <Wolf_Timber.tools.1.label></Wolf_Timber.tools.1.label>
+  <!-- head -->
+  <Wolf_Timber.tools.3.label></Wolf_Timber.tools.3.label>
+
+  <!-- MeatLabel -->
+  <Meat_Wolf_Timber.label></Meat_Wolf_Timber.label>
+  <!-- MeatDesc -->
+  <Meat_Wolf_Timber.description></Meat_Wolf_Timber.description>
+
+  <!-- CorpseLabel -->
+  <Corpse_Wolf_Timber.label></Corpse_Wolf_Timber.label>
+  <!-- CorpseDesc -->
+  <Corpse_Wolf_Timber.description></Corpse_Wolf_Timber.description>
+
+  <!-- arctic wolf -->
+  <Wolf_Arctic.label></Wolf_Arctic.label>
+  <!-- An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description></Wolf_Arctic.description>
+  <!-- left claw -->
+  <Wolf_Arctic.tools.0.label></Wolf_Arctic.tools.0.label>
+  <!-- right claw -->
+  <Wolf_Arctic.tools.1.label></Wolf_Arctic.tools.1.label>
+  <!-- head -->
+  <Wolf_Arctic.tools.3.label></Wolf_Arctic.tools.3.label>
+
+  <!-- MeatLabel -->
+  <Meat_Wolf_Arctic.label></Meat_Wolf_Arctic.label>
+  <!-- MeatDesc -->
+  <Meat_Wolf_Arctic.description></Meat_Wolf_Arctic.description>
+
+  <!-- CorpseLabel -->
+  <Corpse_Wolf_Arctic.label></Corpse_Wolf_Arctic.label>
+  <!-- CorpseDesc -->
+  <Corpse_Wolf_Arctic.description></Corpse_Wolf_Arctic.description>
+
+
+  <!--========================== Fox fennec ========================-->
+
+  <!-- fennec fox -->
+  <Fox_Fennec.label></Fox_Fennec.label>
+  <!-- A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description></Fox_Fennec.description>
+  <!-- foxmeat -->
+  <Fox_Fennec.race.meatLabel></Fox_Fennec.race.meatLabel>
+  <!-- left claw -->
+  <Fox_Fennec.tools.0.label></Fox_Fennec.tools.0.label>
+  <!-- right claw -->
+  <Fox_Fennec.tools.1.label></Fox_Fennec.tools.1.label>
+  <!-- head -->
+  <Fox_Fennec.tools.3.label></Fox_Fennec.tools.3.label>
+
+
+  <!--========================== Fox fennec ========================-->
+
+  <!-- MeatLabel -->
+  <Meat_Fox_Fennec.label></Meat_Fox_Fennec.label>
+  <!-- MeatDesc -->
+  <Meat_Fox_Fennec.description></Meat_Fox_Fennec.description>
+
+
+  <!--========================== Fox fennec ========================-->
+
+  <!-- CorpseLabel -->
+  <Corpse_Fox_Fennec.label></Corpse_Fox_Fennec.label>
+  <!-- CorpseDesc -->
+  <Corpse_Fox_Fennec.description></Corpse_Fox_Fennec.description>
+
+
+  <!--========================== Fox red ========================-->
+
+  <!-- red fox -->
+  <Fox_Red.label></Fox_Red.label>
+  <!-- A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description></Fox_Red.description>
+  <!-- left claw -->
+  <Fox_Red.tools.0.label></Fox_Red.tools.0.label>
+  <!-- right claw -->
+  <Fox_Red.tools.1.label></Fox_Red.tools.1.label>
+  <!-- head -->
+  <Fox_Red.tools.3.label></Fox_Red.tools.3.label>
+
+
+  <!--========================== Fox red ========================-->
+
+  <!-- MeatLabel -->
+  <Meat_Fox_Red.label></Meat_Fox_Red.label>
+  <!-- MeatDesc -->
+  <Meat_Fox_Red.description></Meat_Fox_Red.description>
+
+
+  <!--========================== Fox red ========================-->
+
+  <!-- CorpseLabel -->
+  <Corpse_Fox_Red.label></Corpse_Fox_Red.label>
+  <!-- CorpseDesc -->
+  <Corpse_Fox_Red.description></Corpse_Fox_Red.description>
+
+
+  <!--========================== Fox arctic ========================-->
+
+  <!-- arctic fox -->
+  <Fox_Arctic.label></Fox_Arctic.label>
+  <!-- A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description></Fox_Arctic.description>
+  <!-- left claw -->
+  <Fox_Arctic.tools.0.label></Fox_Arctic.tools.0.label>
+  <!-- right claw -->
+  <Fox_Arctic.tools.1.label></Fox_Arctic.tools.1.label>
+  <!-- head -->
+  <Fox_Arctic.tools.3.label></Fox_Arctic.tools.3.label>
+
+
+  <!--========================== Fox arctic ========================-->
+
+  <!-- MeatLabel -->
+  <Meat_Fox_Arctic.label></Meat_Fox_Arctic.label>
+  <!-- MeatDesc -->
+  <Meat_Fox_Arctic.description></Meat_Fox_Arctic.description>
+
+
+  <!--========================== Fox arctic ========================-->
+
+  <!-- CorpseLabel -->
+  <Corpse_Fox_Arctic.label></Corpse_Fox_Arctic.label>
+  <!-- CorpseDesc -->
+  <Corpse_Fox_Arctic.description></Corpse_Fox_Arctic.description>
+
+
+</LanguageData>
