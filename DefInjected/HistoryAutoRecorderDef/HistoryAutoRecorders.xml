@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
+
+  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
+
+  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
+
+  <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
+  <Wealth_Pawns.graphLabelY>Amount</Wealth_Pawns.graphLabelY>
+
+  <FreeColonists.label>free colonists</FreeColonists.label>
+  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
+
+  <Prisoners.label>prisoners</Prisoners.label>
+  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
+
+  <ColonistMood.label>mood</ColonistMood.label>
+  <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
+
+
+  <!-- Debug -->
+
+  <Adaptation.label>recovery</Adaptation.label>
+  <Adaptation.graphLabelY>Days</Adaptation.graphLabelY>
+
+  <ThreatPoints.label>fun points /10</ThreatPoints.label>
+  <ThreatPoints.graphLabelY>Points</ThreatPoints.graphLabelY>
+
+  <PopAdaptation.label>pop recovery</PopAdaptation.label>
+  <PopAdaptation.graphLabelY>Days</PopAdaptation.graphLabelY>
+
+  <PopIntent.label>pop intent x10</PopIntent.label>
+  <PopIntent.graphLabelY>Days</PopIntent.graphLabelY>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>A multiplier on a character's speed at doing any kind of work.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>mining speed</MiningSpeed.label>
+  <MiningSpeed.description>A speed at which this person digs at walls and drills for deep resources.</MiningSpeed.description>
+
+  <MiningYield.label>mining yield</MiningYield.label>
+  <MiningYield.description>The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks.</MiningYield.description>
+
+  <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
+  <SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>research speed</ResearchSpeed.label>
+  <ResearchSpeed.description>How fast this person performs research and how quickly they can find things using scanning equipment.</ResearchSpeed.description>
+
+  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+
+  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
+  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+
+  <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>The speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+
+  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
+  <PlantHarvestYield.description>The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+
+  <HuntingStealth.label>hunting stealth</HuntingStealth.label>
+  <HuntingStealth.description>This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack.</HuntingStealth.description>
+
+  <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
+  <ConstructionSpeed.description>The speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+
+  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
+
+  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
+
+
+</LanguageData>

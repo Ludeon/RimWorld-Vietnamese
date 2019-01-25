@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Big threats -->
+
+  <RaidEnemy.label>enemy raid</RaidEnemy.label>
+
+  <Infestation.label>infestation</Infestation.label>
+  <Infestation.letterText>Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.</Infestation.letterText>
+  <Infestation.letterLabel>Infestation</Infestation.letterLabel>
+
+  <DeepDrillInfestation.label>deep drill infestation</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterText>Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base.</DeepDrillInfestation.letterText>
+  <DeepDrillInfestation.letterLabel>Too deep: Infestation</DeepDrillInfestation.letterLabel>
+
+  <ManhunterPack.label>manhunter pack</ManhunterPack.label>
+
+  <PsychicEmanatorShipPartCrash.label>ship part crash (psychic)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterLabel>Psychic ship</PsychicEmanatorShipPartCrash.letterLabel>
+
+  <PoisonShipPartCrash.label>ship part crash (poison)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.letterText>A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterLabel>Poison ship</PoisonShipPartCrash.letterLabel>
+
+  <AnimalInsanityMass.label>mass animal insanity</AnimalInsanityMass.label>
+
+
+  <!-- Small threats -->
+
+  <AnimalInsanitySingle.label>single animal insanity</AnimalInsanitySingle.label>
+
+
+</LanguageData>

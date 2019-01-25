@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Threats -->
+
+  <Ambush.label>ambush</Ambush.label>
+  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+
+  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+
+
+  <!-- Good -->
+
+  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+
+
+  <!-- Bad -->
+
+  <CaravanDemand.label>payment demand</CaravanDemand.label>
+
+
+</LanguageData>
