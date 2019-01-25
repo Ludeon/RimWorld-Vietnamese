@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- inferno cannon shell -->
+  <Bullet_InfernoCannon.label>đạn pháo địa ngục</Bullet_InfernoCannon.label>
+
+  <!-- inferno cannon -->
+  <Gun_InfernoCannon.label>pháo địa ngục</Gun_InfernoCannon.label>
+  <!-- An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannon.description>Đại pháo phiên bản thu nhỏ bắn đạn gây cháy.</Gun_InfernoCannon.description>
+  <!-- barrel -->
+  <Gun_InfernoCannon.tools.0.label>nòng súng</Gun_InfernoCannon.tools.0.label>
+
+  <!-- charge blaster shot -->
+  <Bullet_ChargeBlasterHeavy.label>đạn pháo năng lượng</Bullet_ChargeBlasterHeavy.label>
+
+  <!-- heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.label>pháo năng lượng hạng nặng</Gun_ChargeBlasterHeavy.label>
+  <!-- A pulse-charged rapid-fire blaster for area suppressive fire. -->
+  <Gun_ChargeBlasterHeavy.description>Loại pháo năng lượng với tốc độ bắn cao hiệu quả trong bắn yểm trợ khá tốt.</Gun_ChargeBlasterHeavy.description>
+  <!-- barrel -->
+  <Gun_ChargeBlasterHeavy.tools.0.label>nòng súng</Gun_ChargeBlasterHeavy.tools.0.label>
+
+
+</LanguageData>

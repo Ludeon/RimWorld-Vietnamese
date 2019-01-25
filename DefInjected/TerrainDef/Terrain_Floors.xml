@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ================= Misc ================= -->
+
+  <!-- concrete -->
+  <Concrete.label>bê tông</Concrete.label>
+  <!-- Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Bê tông thô. Đi lại dễ dàng, rẻ, dễ xây nhưng khá xấu.</Concrete.description>
+
+  <!-- paved tile -->
+  <PavedTile.label>gạch lát đường</PavedTile.label>
+  <!-- Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Gạch bê tông. Rẻ và di chuyển dễ dàng nhưng không đẹp cũng không xấu và mất thời gian để xây.</PavedTile.description>
+
+  <!-- wood floor -->
+  <WoodPlankFloor.label>sàn gỗ</WoodPlankFloor.label>
+  <!-- Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Sàn gỗ cho cảm giác ấm cúng, thoải mái, dễ dàng lát nhưng lại khá bắt lửa.</WoodPlankFloor.description>
+
+
+  <!-- ================= Tiles ================= -->
+
+  <!-- metal tile -->
+  <MetalTile.label>gạch kim loại</MetalTile.label>
+  <!-- Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Phong cách khoa học viễn tưởng. Khá đẹp và lại cho điểm thưởng về độ sạch sẽ nữa.</MetalTile.description>
+
+  <!-- silver tile -->
+  <SilverTile.label>gạch bạc</SilverTile.label>
+  <!-- For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Phong cách hiện đại nhưng không kém phần sang chảnh, thích hợp cho những căn phòng tiện nghi cao cấp. Được thưởng điểm sạch sẽ.</SilverTile.description>
+
+  <!-- gold tile -->
+  <GoldTile.label>gạch vàng</GoldTile.label>
+  <!-- For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Khỏi phải nói, độ sang chảnh của loại gạch này thuộc dạng thượng thừa. Cực kì đắt đỏ để xây, cực kì đẹp và thằng nào mà xây được tới loại gạch này rồi thì khỏi thoát bằng phi thuyền chi cho mệt, ở đây sống cho lành.</GoldTile.description>
+
+  <!-- sterile tile -->
+  <SterileTile.label>gạch sứ</SterileTile.label>
+  <!-- Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Gạch sứ có khả năng tăng cường độ sạch sẽ cho phòng. Độ sạch sẽ tăng tốc độ nghiên cứu và tăng tỉ thành công khi phẫu thuật cho bệnh xá. Ngoài ra còn giảm tỉ lệ nhiễm trùng nữa. Mất rất nhiều thời gian để lát.</SterileTile.description>
+
+  <!-- red carpet -->
+  <CarpetRed.label>thảm đỏ</CarpetRed.label>
+  <!-- Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Tấm thảm sang trọng trong màu hoa hồng đẹp đẽ.</CarpetRed.description>
+
+  <!-- green carpet -->
+  <CarpetGreen.label>thảm lục</CarpetGreen.label>
+  <!-- Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Cho cảm giác nhẹ nhàng thân thuộc với tự nhiên.</CarpetGreen.description>
+
+  <!-- blue carpet -->
+  <CarpetBlue.label>thảm xanh dương</CarpetBlue.label>
+  <!-- Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>Dịu dàng, mát mẻ đầy vẻ ngầu lòi.</CarpetBlue.description>
+
+  <!-- cream carpet -->
+  <CarpetCream.label>thảm trắng</CarpetCream.label>
+  <!-- Inviting cream-colored carpet. -->
+  <CarpetCream.description>Thuần khiết, thanh thoát từ trong ra ngoài.</CarpetCream.description>
+
+  <!-- dark carpet -->
+  <CarpetDark.label>thảm đen</CarpetDark.label>
+  <!-- Professional-looking dark gray carpet. -->
+  <CarpetDark.description>Mang lại sự quý phái đầy bí mật.</CarpetDark.description>
+
+
+</LanguageData>

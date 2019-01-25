@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--============================== Beds ==============================-->
+
+  <!-- sleeping spot -->
+  <SleepingSpot.label>chỗ ngủ</SleepingSpot.label>
+  <!-- Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Chỉ định một nơi trên nền đất để mọi người có thể ngủ. Không thoải mái lắm.</SleepingSpot.description>
+
+
+  <!--============================== Beds ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SleepingSpot.label>BlueprintLabelExtra</Blueprint_SleepingSpot.label>
+
+
+  <!--============================== Beds ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_SleepingSpot.label>FrameLabelExtra</Frame_SleepingSpot.label>
+
+  <!-- double sleeping spot -->
+  <DoubleSleepingSpot.label>điểm ngủ đôi</DoubleSleepingSpot.label>
+  <!-- Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Chỉ định nơi trên mặt đất để 2 người có thể ngủ chung. Không mấy thoải mái lắm.</DoubleSleepingSpot.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DoubleSleepingSpot.label>BlueprintLabelExtra</Blueprint_DoubleSleepingSpot.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DoubleSleepingSpot.label>FrameLabelExtra</Frame_DoubleSleepingSpot.label>
+
+  <!-- bed -->
+  <Bed.label>giường</Bed.label>
+  <!-- A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Giường ngủ mềm mại và ấm cúng để ngã lưng xuống ngủ.</Bed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Bed.label>BlueprintLabelExtra</Blueprint_Bed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Bed.label>BlueprintLabelExtra</Blueprint_Install_Bed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Bed.label>FrameLabelExtra</Frame_Bed.label>
+
+  <!-- double bed -->
+  <DoubleBed.label>giường đôi</DoubleBed.label>
+  <!-- A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Giường đôi đủ chỗ cho 2 người nằm.</DoubleBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DoubleBed.label>BlueprintLabelExtra</Blueprint_DoubleBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_DoubleBed.label>BlueprintLabelExtra</Blueprint_Install_DoubleBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DoubleBed.label>FrameLabelExtra</Frame_DoubleBed.label>
+
+  <!-- royal bed -->
+  <RoyalBed.label>giường hoàng gia</RoyalBed.label>
+  <!-- A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Giường sang chảnh giành cho cặp tình nhân đú đởn với nhau trên này cho thêm phần hưng phấn. Êm ái, dịu dàng và thẩm mỹ, là một tác phẩm nghệ thuật đầy giá trị và cũng là vật dùng để thể hiện độ giàu sang hiện tại của thị trấn bạn.</RoyalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_RoyalBed.label>BlueprintLabelExtra</Blueprint_RoyalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_RoyalBed.label>BlueprintLabelExtra</Blueprint_Install_RoyalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_RoyalBed.label>FrameLabelExtra</Frame_RoyalBed.label>
+
+  <!-- hospital bed -->
+  <HospitalBed.label>giường y tế</HospitalBed.label>
+  <!-- A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Loại giường đặt biệt thiết kế cho viện xá với những trang bị bổ trợ cho y tế giúp cải thiện kết quả chữa trị y tế hơn giường bình thường.</HospitalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_HospitalBed.label>BlueprintLabelExtra</Blueprint_HospitalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_HospitalBed.label>BlueprintLabelExtra</Blueprint_Install_HospitalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_HospitalBed.label>FrameLabelExtra</Frame_HospitalBed.label>
+
+  <!-- bedroll -->
+  <Bedroll.label>túi ngủ</Bedroll.label>
+  <!-- A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Túi ngủ đơn giản được may từ vải hoặc da thú, đính thêm vào cọng lông thú cho màu mè hoa lá hẹ. Khá nhẹ và dễ dàng mang theo đoàn lữ hành nhưng không thoải như loại giường ngủ thường. Đoàn lữ hành có thể mang theo để có giấc ngủ tốt hơn.</Bedroll.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Bedroll.label>BlueprintLabelExtra</Blueprint_Bedroll.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Bedroll.label>BlueprintLabelExtra</Blueprint_Install_Bedroll.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Bedroll.label>FrameLabelExtra</Frame_Bedroll.label>
+
+  <!-- double bedroll -->
+  <BedrollDouble.label>túi ngủ đôi</BedrollDouble.label>
+  <!-- A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Loại túi ngủ thường nay được nới rộng ra để có thể vừa 2 người.</BedrollDouble.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_BedrollDouble.label>BlueprintLabelExtra</Blueprint_BedrollDouble.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_BedrollDouble.label>BlueprintLabelExtra</Blueprint_Install_BedrollDouble.label>
+  <!-- FrameLabelExtra -->
+  <Frame_BedrollDouble.label>FrameLabelExtra</Frame_BedrollDouble.label>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- animal sleeping spot -->
+  <AnimalSleepingSpot.label>điểm ngủ cho thú</AnimalSleepingSpot.label>
+  <!-- Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Chỉ định điểm ngủ trên mặt đất cho thú nuôi.</AnimalSleepingSpot.description>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalSleepingSpot.label>BlueprintLabelExtra</Blueprint_AnimalSleepingSpot.label>
+
+
+  <!--=========================== Animal beds ===============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalSleepingSpot.label>FrameLabelExtra</Frame_AnimalSleepingSpot.label>
+
+  <!-- animal sleeping box -->
+  <AnimalSleepingBox.label>thùng ngủ</AnimalSleepingBox.label>
+  <!-- A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Thùng ngủ là nơi thú nuôi ngủ và nghỉ. Chỉ vừa cho các loại thú nhỏ nhừ gà, mèo hoặc chó nhỏ.</AnimalSleepingBox.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_AnimalSleepingBox.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_Install_AnimalSleepingBox.label>
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalSleepingBox.label>FrameLabelExtra</Frame_AnimalSleepingBox.label>
+
+  <!-- animal bed -->
+  <AnimalBed.label>đệm ngủ cho thú</AnimalBed.label>
+  <!-- A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>Đệm ngủ cho thú nuôi, khá mềm mại, vừa với bất kì con vật nào.</AnimalBed.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_AnimalBed.label>BlueprintLabelExtra</Blueprint_AnimalBed.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_AnimalBed.label>BlueprintLabelExtra</Blueprint_Install_AnimalBed.label>
+  <!-- FrameLabelExtra -->
+  <Frame_AnimalBed.label>FrameLabelExtra</Frame_AnimalBed.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- stool -->
+  <Stool.label>ghế đẩu</Stool.label>
+  <!-- A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Thiết kế đơn giản. Không được thoải mái lắm khi ngồi nhưng đỡ hơn là không có gì để ngồi. Có thể đặt cạnh bàn, nơi làm việc hoặc bất cứ đâu.</Stool.description>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Stool.label>BlueprintLabelExtra</Blueprint_Stool.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Stool.label>BlueprintLabelExtra</Blueprint_Install_Stool.label>
+
+
+  <!--======================= Basic domestic furniture ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Stool.label>FrameLabelExtra</Frame_Stool.label>
+
+  <!-- dining chair -->
+  <DiningChair.label>ghế ăn</DiningChair.label>
+  <!-- A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Một chiếc ghế êm ái và thoái mái. Có thể đặt cạnh bàn, nơi làm việc hoặc bất cứ đâu.</DiningChair.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_DiningChair.label>BlueprintLabelExtra</Blueprint_DiningChair.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_DiningChair.label>BlueprintLabelExtra</Blueprint_Install_DiningChair.label>
+  <!-- FrameLabelExtra -->
+  <Frame_DiningChair.label>FrameLabelExtra</Frame_DiningChair.label>
+
+  <!-- armchair -->
+  <Armchair.label>ghế sô-pha</Armchair.label>
+  <!-- A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Loại ghế to, mềm mại và êm ái. Rất tốt cho giải trí. Có thể đặt cạnh bàn, nơi làm việc hoặc bất cứ đâu.</Armchair.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Armchair.label>BlueprintLabelExtra</Blueprint_Armchair.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Armchair.label>BlueprintLabelExtra</Blueprint_Install_Armchair.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Armchair.label>FrameLabelExtra</Frame_Armchair.label>
+
+  <!-- end table -->
+  <EndTable.label>bàn phụ</EndTable.label>
+  <!-- A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Một loại bàn nhỏ thường được đặt cạnh đầu giường để tăng độ thoải mái của chiết giường (phải đặt cạnh đầu giường để có tác dụng). Một giường chỉ có thể có một bàn phụ.</EndTable.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_EndTable.label>BlueprintLabelExtra</Blueprint_EndTable.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_EndTable.label>BlueprintLabelExtra</Blueprint_Install_EndTable.label>
+  <!-- FrameLabelExtra -->
+  <Frame_EndTable.label>FrameLabelExtra</Frame_EndTable.label>
+
+  <!-- table (1x2) -->
+  <Table1x2c.label>bàn (1x2)</Table1x2c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Mọi người ăn ở bàn ăn khi có ghế đặt xoay vào bàn.</Table1x2c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table1x2c.label>BlueprintLabelExtra</Blueprint_Table1x2c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table1x2c.label>BlueprintLabelExtra</Blueprint_Install_Table1x2c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table1x2c.label>FrameLabelExtra</Frame_Table1x2c.label>
+
+  <!-- table (2x2) -->
+  <Table2x2c.label>bàn (2x2)</Table2x2c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Mọi người ăn ở bàn ăn khi có ghế đặt xoay vào bàn.</Table2x2c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table2x2c.label>BlueprintLabelExtra</Blueprint_Table2x2c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table2x2c.label>BlueprintLabelExtra</Blueprint_Install_Table2x2c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table2x2c.label>FrameLabelExtra</Frame_Table2x2c.label>
+
+  <!-- table (2x4) -->
+  <Table2x4c.label>bàn (2x4)</Table2x4c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Mọi người ăn ở bàn ăn khi có ghế đặt xoay vào bàn.</Table2x4c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table2x4c.label>BlueprintLabelExtra</Blueprint_Table2x4c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table2x4c.label>BlueprintLabelExtra</Blueprint_Install_Table2x4c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table2x4c.label>FrameLabelExtra</Frame_Table2x4c.label>
+
+  <!-- table (3x3) -->
+  <Table3x3c.label>bàn (3x3)</Table3x3c.label>
+  <!-- People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Mọi người ăn ở bàn ăn khi có ghế đặt xoay vào bàn.</Table3x3c.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Table3x3c.label>BlueprintLabelExtra</Blueprint_Table3x3c.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Table3x3c.label>BlueprintLabelExtra</Blueprint_Install_Table3x3c.label>
+  <!-- FrameLabelExtra -->
+  <Frame_Table3x3c.label>FrameLabelExtra</Frame_Table3x3c.label>
+
+  <!-- plant pot -->
+  <PlantPot.label>chậu kiểng</PlantPot.label>
+  <!-- Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Có thể trồng hoa để cải thiện cảm xúc của mọi người xung quanh.</PlantPot.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_PlantPot.label>BlueprintLabelExtra</Blueprint_PlantPot.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_PlantPot.label>BlueprintLabelExtra</Blueprint_Install_PlantPot.label>
+  <!-- FrameLabelExtra -->
+  <Frame_PlantPot.label>FrameLabelExtra</Frame_PlantPot.label>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- torch lamp -->
+  <TorchLamp.label>đuốc</TorchLamp.label>
+  <!-- A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Một ngọn đuốc đốt bằng gỗ. Mọi người sẽ di chuyển và làm việc dễ dàng hơn khi có ánh sáng. Cần thêm gỗ để đuốc sáng liên tục. Sinh ra lượng nhiệt nhỏ.</TorchLamp.description>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_TorchLamp.label>BlueprintLabelExtra</Blueprint_TorchLamp.label>
+
+
+  <!-- ======================== Lighting ======================= -->
+
+  <!-- FrameLabelExtra -->
+  <Frame_TorchLamp.label>FrameLabelExtra</Frame_TorchLamp.label>
+
+  <!-- standing lamp -->
+  <StandingLamp.label>đèn đứng</StandingLamp.label>
+  <!-- An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Một cây đèn đứng thắp sáng một khu vực rộng. Mọi người sẽ dễ dàng làm việc và di chuyển hơn khi có ánh sáng soi đường cho họ.</StandingLamp.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp.label>BlueprintLabelExtra</Blueprint_StandingLamp.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp.label>FrameLabelExtra</Frame_StandingLamp.label>
+
+  <!-- standing lamp (red) -->
+  <StandingLamp_Red.label>đèn đứng (đỏ)</StandingLamp_Red.label>
+  <!-- A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>Một cây đèn đứng tỏa ra ánh sáng đỏ.</StandingLamp_Red.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Red.label>BlueprintLabelExtra</Blueprint_StandingLamp_Red.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Red.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Red.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Red.label>FrameLabelExtra</Frame_StandingLamp_Red.label>
+
+  <!-- standing lamp (green) -->
+  <StandingLamp_Green.label>đèn đứng (lục)</StandingLamp_Green.label>
+  <!-- A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>Một cây đèn đứng tỏa ra ánh sáng lục.</StandingLamp_Green.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Green.label>BlueprintLabelExtra</Blueprint_StandingLamp_Green.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Green.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Green.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Green.label>FrameLabelExtra</Frame_StandingLamp_Green.label>
+
+  <!-- standing lamp (blue) -->
+  <StandingLamp_Blue.label>đèn đứng (xanh dương)</StandingLamp_Blue.label>
+  <!-- A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>Một cây đèn đứng tỏa ra ánh sáng xanh dương.</StandingLamp_Blue.description>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_StandingLamp_Blue.label>BlueprintLabelExtra</Blueprint_StandingLamp_Blue.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_StandingLamp_Blue.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp_Blue.label>
+  <!-- FrameLabelExtra -->
+  <Frame_StandingLamp_Blue.label>FrameLabelExtra</Frame_StandingLamp_Blue.label>
+
+  <!-- sun lamp -->
+  <SunLamp.label>đèn mặt trời</SunLamp.label>
+  <!-- An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Loại đèn công nghiệp tạo ra ánh sáng nhân tạo thay thế ánh sáng mặt trời để ứng dụng vào loại hình trồng trọt trong nhà kính. Do khá sáng nên tốn khá nhiều năng lượng điện. Tự động tắt khi trời tối.</SunLamp.description>
+  <!-- Off for plant resting period -->
+  <SunLamp.comps.2.offMessage>Đã tắt để cây trồng được nghỉ ngơi</SunLamp.comps.2.offMessage>
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_SunLamp.label>BlueprintLabelExtra</Blueprint_SunLamp.label>
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_SunLamp.label>BlueprintLabelExtra</Blueprint_Install_SunLamp.label>
+  <!-- FrameLabelExtra -->
+  <Frame_SunLamp.label>FrameLabelExtra</Frame_SunLamp.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- shelf -->
+  <Shelf.label>tủ đồ</Shelf.label>
+  <!-- A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description>Dùng để đựng vật phẩm. Vật phẩm đựng trong tủ đồ sẽ không bị hư hại dù là để ngoài trời không có mái che.</Shelf.description>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Shelf.label>BlueprintLabelExtra</Blueprint_Shelf.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Shelf.label>BlueprintLabelExtra</Blueprint_Install_Shelf.label>
+
+
+  <!--============================== Storage ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Shelf.label>FrameLabelExtra</Frame_Shelf.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- dresser -->
+  <Dresser.label>tủ quần áo</Dresser.label>
+  <!-- A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>Tăng thêm ít điểm thoải mái cho các giường nằm cạnh nó. Hiệu ứng không cộng dồn khi xây hơn 1 cái tủ quần áo cạnh một giường.</Dresser.description>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Dresser.label>BlueprintLabelExtra</Blueprint_Dresser.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- BlueprintLabelExtra -->
+  <Blueprint_Install_Dresser.label>BlueprintLabelExtra</Blueprint_Install_Dresser.label>
+
+
+  <!--============================== Dressers ==============================-->
+
+  <!-- FrameLabelExtra -->
+  <Frame_Dresser.label>FrameLabelExtra</Frame_Dresser.label>
+
+
+</LanguageData>

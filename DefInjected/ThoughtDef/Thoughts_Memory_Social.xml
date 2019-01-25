@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <!-- chitchat -->
+  <Chitchat.stages.0.label>trò chuyện</Chitchat.stages.0.label>
+  <!-- deep talk -->
+  <DeepTalk.stages.0.label>tâm sự</DeepTalk.stages.0.label>
+  <!-- slighted -->
+  <Slighted.stages.0.label>khinh bỉ</Slighted.stages.0.label>
+  <!-- insulted -->
+  <Insulted.stages.0.label>xúc phạm</Insulted.stages.0.label>
+
+  <!-- insulted -->
+  <InsultedMood.stages.0.label>bị xúc phạm</InsultedMood.stages.0.label>
+  <!-- I've been directly insulted! What an awful person! -->
+  <InsultedMood.stages.0.description>Tui bị nó chửi cho sấp mặt nè trời! Cái thứ cô hồn đó!</InsultedMood.stages.0.description>
+
+  <!-- kind words -->
+  <KindWords.stages.0.label>hảo ý</KindWords.stages.0.label>
+
+  <!-- kind words -->
+  <KindWordsMood.stages.0.label>hảo ý</KindWordsMood.stages.0.label>
+  <!-- I've been bestowed with kind words! What a nice person! -->
+  <KindWordsMood.stages.0.description>Nói chuyện nhẹ nhàng dễ thương ghê! Người gì mà tốt bụng hết sức!</KindWordsMood.stages.0.description>
+
+
+  <!-- Special -->
+
+  <!-- rapport built -->
+  <RapportBuilt.stages.0.label>tạo mối quan hệ</RapportBuilt.stages.0.label>
+
+
+  <!-- Social fights -->
+
+  <!-- angering fight -->
+  <HadAngeringFight.stages.0.label>đánh vì giận</HadAngeringFight.stages.0.label>
+  <!-- cathartic fight -->
+  <HadCatharticFight.stages.0.label>đánh nhau bộc phát</HadCatharticFight.stages.0.label>
+
+
+  <!-- Misc actions affecting opinion -->
+
+  <!-- harmed me -->
+  <HarmedMe.stages.0.label>làm hại tôi</HarmedMe.stages.0.label>
+  <!-- botched my surgery -->
+  <BotchedMySurgery.stages.0.label>phẫu thuật tôi thất bại</BotchedMySurgery.stages.0.label>
+  <!-- rescued me -->
+  <RescuedMe.stages.0.label>giải cứu tôi</RescuedMe.stages.0.label>
+  <!-- recruited me -->
+  <RecruitedMe.stages.0.label>tuyển mộ tôi</RecruitedMe.stages.0.label>
+  <!-- crashed together -->
+  <CrashedTogether.stages.0.label>té giếng cùng nhau</CrashedTogether.stages.0.label>
+
+  <!-- loved one sold -->
+  <SoldMyLovedOne.stages.0.label>người yêu bị bán đi</SoldMyLovedOne.stages.0.label>
+  <!-- Someone I love was sold to a trader like a piece of meat! -->
+  <SoldMyLovedOne.stages.0.description>Kể từ lúc đó đôi ta chẳng thấy nhau, người sống ra sao, ăn nhậu thế nào?</SoldMyLovedOne.stages.0.description>
+  <!-- sold my loved one -->
+  <SoldMyLovedOne.stages.0.labelSocial>bán người tôi yêu</SoldMyLovedOne.stages.0.labelSocial>
+
+  <!-- bonded animal sold -->
+  <SoldMyBondedAnimal.stages.0.label>thú cưng bị bán đi</SoldMyBondedAnimal.stages.0.label>
+  <!-- My special bonded animal was sold to a trader! -->
+  <SoldMyBondedAnimal.stages.0.description>Con thú cưng thân thiết với tôi đã bị bán đi mất rồi!</SoldMyBondedAnimal.stages.0.description>
+  <!-- sold my bonded animal -->
+  <SoldMyBondedAnimal.stages.0.labelSocial>bán thú cưng của tôi</SoldMyBondedAnimal.stages.0.labelSocial>
+
+  <!-- forced me to take drugs -->
+  <ForcedMeToTakeDrugs.stages.0.label>bị ép "chơi" thuốc</ForcedMeToTakeDrugs.stages.0.label>
+
+  <!-- forced to take drugs -->
+  <ForcedMeToTakeDrugsMood.stages.0.label>bị ép chơi thuốc</ForcedMeToTakeDrugsMood.stages.0.label>
+  <!-- I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeDrugsMood.stages.0.description>Bổn phu bẩm sinh ghét thứ đan dược gây hại cho cơ thể, nay lại bị người khác ép uống mà không thể kháng cự lại, thật là nhục nhã mà!</ForcedMeToTakeDrugsMood.stages.0.description>
+
+  <!-- forced me to take luciferium -->
+  <ForcedMeToTakeLuciferium.stages.0.label>ép uống luciferium</ForcedMeToTakeLuciferium.stages.0.label>
+
+  <!-- forced to take luciferium -->
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>ép uống luciferium</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <!-- I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>Xác định là hết thuốc là bố cũng hết đời nhé!</ForcedMeToTakeLuciferiumMood.stages.0.description>
+
+
+  <!-- Romance -->
+
+  <!-- rebuffed me -->
+  <RebuffedMyRomanceAttempt.stages.0.label>bị từ chối</RebuffedMyRomanceAttempt.stages.0.label>
+
+  <!-- rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.0.label>từ chối bởi {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
+  <!-- I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.0.description>Tui đã tỏ tình với người mà người nỡ lòng nào từ chối tui vậy...</RebuffedMyRomanceAttemptMood.stages.0.description>
+
+  <!-- failed to romance me -->
+  <FailedRomanceAttemptOnMe.stages.0.label>tỏ tình mình thất bại</FailedRomanceAttemptOnMe.stages.0.label>
+
+  <!-- had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>từ chối lời tỏ tình của {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <!-- Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>Thứ kém sang đòi làm người yêu của người khác hả? Mơ đi cưng!</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+
+  <!-- broke up with me -->
+  <BrokeUpWithMe.stages.0.label>chia tay</BrokeUpWithMe.stages.0.label>
+
+  <!-- broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.0.label>chia tay {0}</BrokeUpWithMeMood.stages.0.label>
+  <!-- I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.0.description>Mình vừa "đá" như bịch rác bên đường vậy!</BrokeUpWithMeMood.stages.0.description>
+
+  <!-- cheated on me -->
+  <CheatedOnMe.stages.0.label>đầu mọc sừng</CheatedOnMe.stages.0.label>
+
+  <!-- cheated on by {0} -->
+  <CheatedOnMeMood.stages.0.label>bị cắm sừng bởi {0}</CheatedOnMeMood.stages.0.label>
+  <!-- How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.0.description>Tao có phải là bò để mày cắm sừng trên đầu tao đâu!</CheatedOnMeMood.stages.0.description>
+
+  <!-- divorced me -->
+  <DivorcedMe.stages.0.label>li hôn</DivorcedMe.stages.0.label>
+
+  <!-- divorced by {0} -->
+  <DivorcedMeMood.stages.0.label>li hôn với {0}</DivorcedMeMood.stages.0.label>
+  <!-- We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.0.description>Cuộc đời vừa có thêm 2 đứa FA!</DivorcedMeMood.stages.0.description>
+
+  <!-- rejected my proposal -->
+  <RejectedMyProposal.stages.0.label>từ chối lời cầu hôn</RejectedMyProposal.stages.0.label>
+
+  <!-- my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.0.label>lời cầu hôn bị từ chối bởi {0}</RejectedMyProposalMood.stages.0.label>
+  <!-- I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.0.description>Những tưởng sẽ đến với nhau hạnh phúc nhưng nào ngờ...</RejectedMyProposalMood.stages.0.description>
+
+  <!-- I rejected their proposal -->
+  <IRejectedTheirProposal.stages.0.label>Từ chối lời cầu hôn của họ</IRejectedTheirProposal.stages.0.label>
+  <!-- honeymoon phase -->
+  <HoneymoonPhase.stages.0.label>tuần trăng mật</HoneymoonPhase.stages.0.label>
+
+  <!-- got some lovin’ -->
+  <GotSomeLovin.stages.0.label>được chịch</GotSomeLovin.stages.0.label>
+  <!-- There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.0.description>Không có gì sướng hơn được chịch người mình yêu!</GotSomeLovin.stages.0.description>
+
+
+  <!-- Killed my X -->
+
+  <!-- killed my friend -->
+  <KilledMyFriend.stages.0.label>giết bạn thân</KilledMyFriend.stages.0.label>
+  <!-- killed my rival -->
+  <KilledMyRival.stages.0.label>giết kẻ địch</KilledMyRival.stages.0.label>
+  <!-- killed my lover -->
+  <KilledMyLover.stages.0.label>giết người yêu</KilledMyLover.stages.0.label>
+  <!-- killed my fiance -->
+  <KilledMyFiance.stages.0.label>giết hôn phu</KilledMyFiance.stages.0.label>
+  <!-- killed my spouse -->
+  <KilledMySpouse.stages.0.label>giết người chung chăn gối</KilledMySpouse.stages.0.label>
+  <!-- killed my father -->
+  <KilledMyFather.stages.0.label>giết cha</KilledMyFather.stages.0.label>
+  <!-- killed my mother -->
+  <KilledMyMother.stages.0.label>giết mẹ</KilledMyMother.stages.0.label>
+  <!-- killed my son -->
+  <KilledMySon.stages.0.label>giết con trai</KilledMySon.stages.0.label>
+  <!-- killed my daughter -->
+  <KilledMyDaughter.stages.0.label>giết con gái</KilledMyDaughter.stages.0.label>
+  <!-- killed my brother -->
+  <KilledMyBrother.stages.0.label>giết anh/em trai</KilledMyBrother.stages.0.label>
+  <!-- killed my sister -->
+  <KilledMySister.stages.0.label>giết chị/em gái</KilledMySister.stages.0.label>
+  <!-- killed my kin -->
+  <KilledMyKin.stages.0.label>giết bà con</KilledMyKin.stages.0.label>
+  <!-- killed my bonded animal -->
+  <KilledMyBondedAnimal.stages.0.label>giết thú cưng</KilledMyBondedAnimal.stages.0.label>
+
+
+</LanguageData>

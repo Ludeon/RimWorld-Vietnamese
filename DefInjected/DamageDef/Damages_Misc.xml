@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- deterioration -->
+  <Deterioration.label>hao mòn</Deterioration.label>
+  <!-- {0} has been killed. -->
+  <Deterioration.deathMessage>{0} đã bị giết.</Deterioration.deathMessage>
+
+  <!-- mining -->
+  <Mining.label>khai thác</Mining.label>
+  <!-- {0} has been killed. -->
+  <Mining.deathMessage>{0} đã bị giết.</Mining.deathMessage>
+
+  <!-- rotting -->
+  <Rotting.label>mục rữa</Rotting.label>
+  <!-- {0} has been killed. -->
+  <Rotting.deathMessage>{0} đã bị giết.</Rotting.deathMessage>
+
+  <!-- extinguish -->
+  <Extinguish.label>dập lửa</Extinguish.label>
+  <!-- {0} has been killed. -->
+  <Extinguish.deathMessage>{0} đã bị giết.</Extinguish.deathMessage>
+
+  <!-- bomb -->
+  <Bomb.label>bom</Bomb.label>
+  <!-- {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} đã bị bom nổ chết.</Bomb.deathMessage>
+
+  <!-- bomb -->
+  <BombSuper.label>bom</BombSuper.label>
+  <!-- {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} đã bị bom nổ chết.</BombSuper.deathMessage>
+
+  <!-- smoke -->
+  <Smoke.label>khói</Smoke.label>
+  <!-- {0} has been killed. -->
+  <Smoke.deathMessage>{0} đã bị giết.</Smoke.deathMessage>
+
+</LanguageData>

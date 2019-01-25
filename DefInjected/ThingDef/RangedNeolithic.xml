@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- short bow -->
+  <Bow_Short.label>cung ngắn</Bow_Short.label>
+  <!-- A simple short selfbow made from a single piece of wood. -->
+  <Bow_Short.description>Loại cung đơn giản làm từ một nhánh cây.</Bow_Short.description>
+  <!-- limb -->
+  <Bow_Short.tools.0.label>mũi cung</Bow_Short.tools.0.label>
+
+  <!-- shortbow arrow -->
+  <Arrow_Short.label>tên cung ngắn</Arrow_Short.label>
+
+  <!-- pila -->
+  <Pila.label>lao</Pila.label>
+  <!-- Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
+  <Pila.description>Lao là những mũi thương được thiết kế nhẹ đi để dễ phóng. Thời gian nhắm lao khá lâu nhưng mỗi mũi lao trúng đích sẽ là một vết thương chí mạng cho kẻ địch.</Pila.description>
+  <!-- shaft -->
+  <Pila.tools.0.label>thân</Pila.tools.0.label>
+  <!-- point -->
+  <Pila.tools.1.label>mũi</Pila.tools.1.label>
+
+  <!-- pilum -->
+  <Pilum_Thrown.label>lao</Pilum_Thrown.label>
+
+  <!-- recurve bow -->
+  <Bow_Recurve.label>cung recurse</Bow_Recurve.label>
+  <!-- A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
+  <Bow_Recurve.description>Là loại cung mà ở 2 đầu cung cong ngược với người cầm cung giúp tăng lực bắn và tốc độ mũi tên nhanh hơn.</Bow_Recurve.description>
+  <!-- limb -->
+  <Bow_Recurve.tools.0.label>mũi cung</Bow_Recurve.tools.0.label>
+
+  <!-- recurve bow arrow -->
+  <Arrow_Recurve.label>tên cung recurve</Arrow_Recurve.label>
+
+  <!-- greatbow -->
+  <Bow_Great.label>trường cung</Bow_Great.label>
+  <!-- A powerful greatbow. Fires a heavy arrow long distances. -->
+  <Bow_Great.description>Loại cung lớn. Thường bắn những mũi tên thép ở khoảng cách xa.</Bow_Great.description>
+  <!-- limb -->
+  <Bow_Great.tools.0.label>đầu cung</Bow_Great.tools.0.label>
+
+  <!-- greatbow arrow -->
+  <Arrow_Great.label>tên trường cung</Arrow_Great.label>
+
+
+</LanguageData>

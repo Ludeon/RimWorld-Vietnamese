@@ -403,7 +403,7 @@
   <!-- Misc -->
   <MiscRecordsCategory>Thông tin khác</MiscRecordsCategory>
   <!-- Addictiveness -->
-  <Addictiveness>Nghiện</Addictiveness>
+  <Addictiveness>Tỉ lệ nghiện</Addictiveness>
  <!-- Pack animal -->
  <PackAnimal>Tải đồ</PackAnimal>
  <!-- Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -423,9 +423,9 @@
   <!-- Requires this level of Construction in order to build. -->
   <ConstructionSkillRequiredExplanation>Cấp độ kĩ năng Xây dựng cần đạt để có thể xây dựng được thứ này.</ConstructionSkillRequiredExplanation>
   <!-- Nuzzle interval -->
-  <NuzzleInterval></NuzzleInterval>
+  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
   <!-- How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation></NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species,     where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leav    e them in a good mood for a period of time.</NuzzleIntervalExplanation>
   <!-- Revenge chance on harm -->
   <HarmedRevengeChance>Tỉ lệ nổi điên khi bị tấn công</HarmedRevengeChance>
   <!-- The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
