@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Supports light structure -->
+
+  <!-- light -->
+  <Light.label></Light.label>
+
+
+  <!-- Supports medium structures (mainly walls) -->
+
+  <!-- medium -->
+  <Medium.label></Medium.label>
+
+
+  <!-- Supports heavy structures -->
+
+  <!-- heavy -->
+  <Heavy.label></Heavy.label>
+
+
+  <!-- Can be built on with things that are waterproof -->
+
+  <!-- shallow water -->
+  <ShallowWater.label></ShallowWater.label>
+
+
+  <!-- Contains power usable for hydroelectrics -->
+
+  <!-- moving water -->
+  <MovingFluid.label></MovingFluid.label>
+
+
+  <!-- Bridge can be built here -->
+
+  <!-- bridgeable -->
+  <Bridgeable.label></Bridgeable.label>
+
+
+  <!-- Things can grow here -->
+
+  <!-- growable -->
+  <GrowSoil.label></GrowSoil.label>
+
+
+  <!-- For graves -->
+
+  <!-- diggable -->
+  <Diggable.label></Diggable.label>
+
+
+  <!-- Can be ground and smoothed into smooth stone -->
+
+  <!-- smoothable -->
+  <SmoothableStone.label></SmoothableStone.label>
+
+
+</LanguageData>

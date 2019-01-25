@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--====================================== Carpets ======================================== -->
+
+  <!-- grass -->
+  <Plant_Grass.label></Plant_Grass.label>
+  <!-- Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description></Plant_Grass.description>
+
+  <!-- tall grass -->
+  <Plant_TallGrass.label></Plant_TallGrass.label>
+  <!-- Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description></Plant_TallGrass.description>
+
+
+  <!--====================================== Bushes ======================================== -->
+
+  <!-- bush -->
+  <Plant_Bush.label></Plant_Bush.label>
+  <!-- A short shrub. Does not typically talk. -->
+  <Plant_Bush.description></Plant_Bush.description>
+
+  <!-- brambles -->
+  <Plant_Brambles.label></Plant_Brambles.label>
+  <!-- Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description></Plant_Brambles.description>
+
+  <!-- wild healroot -->
+  <Plant_HealrootWild.label></Plant_HealrootWild.label>
+  <!-- A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description></Plant_HealrootWild.description>
+
+
+</LanguageData>

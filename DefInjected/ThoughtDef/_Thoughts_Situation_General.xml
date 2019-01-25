@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- darkness -->
+  <EnvironmentDark.stages.0.label></EnvironmentDark.stages.0.label>
+  <!-- I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.0.description></EnvironmentDark.stages.0.description>
+
+  <!-- ratty apparel -->
+  <ApparelDamaged.stages.0.label></ApparelDamaged.stages.0.label>
+  <!-- The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.0.description></ApparelDamaged.stages.0.description>
+  <!-- tattered apparel -->
+  <ApparelDamaged.stages.1.label></ApparelDamaged.stages.1.label>
+  <!-- This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.1.description></ApparelDamaged.stages.1.description>
+
+  <!-- tainted {0} -->
+  <DeadMansApparel.stages.0.label></DeadMansApparel.stages.0.label>
+  <!-- I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.0.description></DeadMansApparel.stages.0.description>
+  <!-- tainted {0} (+1) -->
+  <DeadMansApparel.stages.1.label></DeadMansApparel.stages.1.label>
+  <!-- I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.1.description></DeadMansApparel.stages.1.description>
+  <!-- tainted {0} (+2) -->
+  <DeadMansApparel.stages.2.label></DeadMansApparel.stages.2.label>
+  <!-- I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.2.description></DeadMansApparel.stages.2.description>
+  <!-- tainted {0} etc -->
+  <DeadMansApparel.stages.3.label></DeadMansApparel.stages.3.label>
+  <!-- I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.3.description></DeadMansApparel.stages.3.description>
+
+  <!-- human leather {0} -->
+  <HumanLeatherApparelSad.stages.0.label></HumanLeatherApparelSad.stages.0.label>
+  <!-- Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparelSad.stages.0.description></HumanLeatherApparelSad.stages.0.description>
+  <!-- human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.1.label></HumanLeatherApparelSad.stages.1.label>
+  <!-- I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.1.description></HumanLeatherApparelSad.stages.1.description>
+  <!-- human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.2.label></HumanLeatherApparelSad.stages.2.label>
+  <!-- I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.2.description></HumanLeatherApparelSad.stages.2.description>
+  <!-- human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.3.label></HumanLeatherApparelSad.stages.3.label>
+  <!-- I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparelSad.stages.3.description></HumanLeatherApparelSad.stages.3.description>
+
+  <!-- human leather {0} -->
+  <HumanLeatherApparelHappy.stages.0.label></HumanLeatherApparelHappy.stages.0.label>
+  <!-- I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.0.description></HumanLeatherApparelHappy.stages.0.description>
+  <!-- human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.1.label></HumanLeatherApparelHappy.stages.1.label>
+  <!-- This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.1.description></HumanLeatherApparelHappy.stages.1.description>
+  <!-- human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.2.label></HumanLeatherApparelHappy.stages.2.label>
+  <!-- The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.2.description></HumanLeatherApparelHappy.stages.2.description>
+  <!-- human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.3.label></HumanLeatherApparelHappy.stages.3.label>
+  <!-- The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.3.description></HumanLeatherApparelHappy.stages.3.description>
+
+  <!-- sick -->
+  <Sick.stages.0.label></Sick.stages.0.label>
+  <!-- I don't feel very well. -->
+  <Sick.stages.0.description></Sick.stages.0.description>
+
+  <!-- chilly -->
+  <EnvironmentCold.stages.0.label></EnvironmentCold.stages.0.label>
+  <!-- I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.0.description></EnvironmentCold.stages.0.description>
+  <!-- cold -->
+  <EnvironmentCold.stages.1.label></EnvironmentCold.stages.1.label>
+  <!-- I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.1.description></EnvironmentCold.stages.1.description>
+  <!-- numbing cold -->
+  <EnvironmentCold.stages.2.label></EnvironmentCold.stages.2.label>
+  <!-- I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.2.description></EnvironmentCold.stages.2.description>
+  <!-- absolutely freezing -->
+  <EnvironmentCold.stages.3.label></EnvironmentCold.stages.3.label>
+  <!-- My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.3.description></EnvironmentCold.stages.3.description>
+
+  <!-- sweaty -->
+  <EnvironmentHot.stages.0.label></EnvironmentHot.stages.0.label>
+  <!-- It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.0.description></EnvironmentHot.stages.0.description>
+  <!-- hot -->
+  <EnvironmentHot.stages.1.label></EnvironmentHot.stages.1.label>
+  <!-- It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.1.description></EnvironmentHot.stages.1.description>
+  <!-- sweltering hot -->
+  <EnvironmentHot.stages.2.label></EnvironmentHot.stages.2.label>
+  <!-- I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.2.description></EnvironmentHot.stages.2.description>
+  <!-- blistering hot -->
+  <EnvironmentHot.stages.3.label></EnvironmentHot.stages.3.label>
+  <!-- This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.3.description></EnvironmentHot.stages.3.description>
+
+
+</LanguageData>
