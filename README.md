@@ -14,11 +14,11 @@ Các bạn làm theo các bước sau để có thể sử dụng được bản
 
 - B2: Tìm đến thư mục ngôn ngữ của Rimworld:
     - Mặc định sẽ là: <br>\<steampath\>\steamapps\common\RimWorld\Mods\Core\Languages<br>trong đó \<steampath\> là thư mục cài đặt Steam
-    - Cách khác để tìm đến thư mục ngôn ngữ:<br>Mở Steam -> Chọn thẻ Library -> Tìm đến game Rimworld -> Bấm chuột phải vào tên Rimworld -> Chọn Properties<br><img src="assets/pic1.jpg" style="display:block;margin:auto;max-width:70%"><br>Ở cửa sổ Rimworld - Properties vừa mở: Chuyển sang thẻ Local Files -> Chọn Browse Local Files...<br><img src="assets/pic2.jpg" style="display:block;margin:auto;max-width:70%"><br>Sau bước này thư mục Rimworld sẽ hiện ra, tiếp tục tìm đến \Mods\Core\Languages
+    - Cách khác để tìm đến thư mục ngôn ngữ:<br>Mở Steam -> Chọn thẻ Library -> Tìm đến game Rimworld -> Bấm chuột phải vào tên Rimworld -> Chọn Properties<br><img src="assets/pic1.jpg" style="display:block;margin:auto;max-width:50%"><br>Ở cửa sổ Rimworld - Properties vừa mở: Chuyển sang thẻ Local Files -> Chọn Browse Local Files...<br><img src="assets/pic2.jpg" style="display:block;margin:auto;max-width:50%"><br>Sau bước này thư mục Rimworld sẽ hiện ra, tiếp tục tìm đến \Mods\Core\Languages
 
 - B3: Giải nén file đã tải vào thư mục ngôn ngữ:
-    - Sau thi làm xong bước 2 các bạn nên ở trong thư mục Language của Rimworld:<br><img src="assets/pic3.png" style="display:block;margin:auto;max-width:70%"><br>
-    - Copy file đã tải về vào thư mục Language và giải nén:<br><img src="assets/pic4.jpg" style="display:block;margin:auto;max-width:70%">
+    - Sau thi làm xong bước 2 các bạn nên ở trong thư mục Language của Rimworld:<br><img src="assets/pic3.png" style="display:block;margin:auto;max-width:50%"><br>
+    - Copy file đã tải về vào thư mục Language và giải nén:<br><img src="assets/pic4.jpg" style="display:block;margin:auto;max-width:50%">
 
 #### Cách 2: Sử dụng git
 - Tìm đến thư mục Language của Rimworld (xem phần trên)
@@ -31,7 +31,7 @@ git checkout release
 #### Sau khi cài đặt
 Vào game, ở màn hình chính, các bạn chọn **Options**, chọn ngôn ngữ **Tiếng Việt** và chơi game.
 
-<img src="assets/pic5.png" style="display:block;margin:auto;max-width:70%">
+<img src="assets/pic5.png" style="display:block;margin:auto;max-width:50%">
 
 ### 2. Bugs and errors report (Phát hiện lỗi và báo cáo)
 Vì lí do bản dịch chưa hoàn thiện nên chắc chắn có rất nhiều lỗi, do đó nhóm dịch tạm thời chưa thể nhận phản hồi từ phía các bạn, mong các bạn thông cảm.
@@ -43,7 +43,6 @@ Vì lí do bản dịch chưa hoàn thiện nên chắc chắn có rất nhiều
 ### 4. Translators: (Thông tin nhóm dịch)
 - Nam Bùi - **nambn**
     - Email: nambn1996@gmail.com
-    - Facebook: fb.com/Nambn96
 - Hưng Trần - **mw3tv123**
     - Email: mw3tv123@gmail.com
 
