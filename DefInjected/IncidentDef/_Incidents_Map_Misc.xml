@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- =========================== Good ============================-->
+
+  <!-- resource pod crash -->
+  <ResourcePodCrash.label></ResourcePodCrash.label>
+  <!-- psychic soothe -->
+  <PsychicSoothe.label></PsychicSoothe.label>
+  <!-- self-tame -->
+  <SelfTame.label></SelfTame.label>
+
+  <!-- ambrosia sprout -->
+  <AmbrosiaSprout.label></AmbrosiaSprout.label>
+  <!-- Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel></AmbrosiaSprout.letterLabel>
+  <!-- A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText></AmbrosiaSprout.letterText>
+
+  <!-- farm animals wander in -->
+  <FarmAnimalsWanderIn.label></FarmAnimalsWanderIn.label>
+  <!-- wanderer join -->
+  <WandererJoin.label></WandererJoin.label>
+  <!-- refugee pod crash -->
+  <RefugeePodCrash.label></RefugeePodCrash.label>
+
+
+  <!-- =========================== Neutral ============================-->
+
+  <!-- chased refugee -->
+  <RefugeeChased.label></RefugeeChased.label>
+  <!-- thrumbos pass -->
+  <ThrumboPasses.label></ThrumboPasses.label>
+
+  <!-- ransom demand -->
+  <RansomDemand.label></RansomDemand.label>
+  <!-- Ransom demand -->
+  <RansomDemand.letterLabel></RansomDemand.letterLabel>
+
+  <!-- meteorite impact -->
+  <MeteoriteImpact.label></MeteoriteImpact.label>
+  <!-- Meteorite -->
+  <MeteoriteImpact.letterLabel></MeteoriteImpact.letterLabel>
+  <!-- A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText></MeteoriteImpact.letterText>
+
+  <!-- herd migration -->
+  <HerdMigration.label></HerdMigration.label>
+  <!-- Animal migration: {0} -->
+  <HerdMigration.letterLabel></HerdMigration.letterLabel>
+  <!-- A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText></HerdMigration.letterText>
+
+  <!-- wild man wanders in -->
+  <WildManWandersIn.label></WildManWandersIn.label>
+  <!-- Wild man wanders in -->
+  <WildManWandersIn.letterLabel></WildManWandersIn.letterLabel>
+  <!-- A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective]. -->
+  <WildManWandersIn.letterText></WildManWandersIn.letterText>
+
+
+  <!--========================== Bad ===============================-->
+
+  <!-- psychic drone -->
+  <PsychicDrone.label></PsychicDrone.label>
+
+  <!-- toxic fallout -->
+  <ToxicFallout.label></ToxicFallout.label>
+  <!-- Toxic fallout -->
+  <ToxicFallout.letterLabel></ToxicFallout.letterLabel>
+  <!-- A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText></ToxicFallout.letterText>
+
+  <!-- volcanic winter -->
+  <VolcanicWinter.label></VolcanicWinter.label>
+  <!-- Volcanic winter -->
+  <VolcanicWinter.letterLabel></VolcanicWinter.letterLabel>
+  <!-- A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText></VolcanicWinter.letterText>
+
+  <!-- heat wave -->
+  <HeatWave.label></HeatWave.label>
+  <!-- Heat wave -->
+  <HeatWave.letterLabel></HeatWave.letterLabel>
+  <!-- An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText></HeatWave.letterText>
+
+  <!-- cold snap -->
+  <ColdSnap.label></ColdSnap.label>
+  <!-- Cold snap -->
+  <ColdSnap.letterLabel></ColdSnap.letterLabel>
+  <!-- An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText></ColdSnap.letterText>
+
+  <!-- flashstorm -->
+  <Flashstorm.label></Flashstorm.label>
+  <!-- Flashstorm -->
+  <Flashstorm.letterLabel></Flashstorm.letterLabel>
+  <!-- A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText></Flashstorm.letterText>
+
+  <!-- short circuit -->
+  <ShortCircuit.label></ShortCircuit.label>
+  <!-- crop blight -->
+  <CropBlight.label></CropBlight.label>
+  <!-- alphabeavers -->
+  <Alphabeavers.label></Alphabeavers.label>
+
+
+</LanguageData>

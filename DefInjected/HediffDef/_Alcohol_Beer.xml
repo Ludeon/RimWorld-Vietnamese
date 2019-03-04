@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- alcohol -->
+  <AlcoholHigh.label>chất cồn</AlcoholHigh.label>
+  <!-- drunkenness -->
+  <AlcoholHigh.labelNoun>tình trạng say</AlcoholHigh.labelNoun>
+  <!-- warm -->
+  <AlcoholHigh.stages.0.label>ấm người</AlcoholHigh.stages.0.label>
+  <!-- tipsy -->
+  <AlcoholHigh.stages.1.label>chuếnh choáng</AlcoholHigh.stages.1.label>
+  <!-- drunk -->
+  <AlcoholHigh.stages.2.label>say mềm</AlcoholHigh.stages.2.label>
+  <!-- hammered -->
+  <AlcoholHigh.stages.3.label>tí bỉ</AlcoholHigh.stages.3.label>
+  <!-- blackout -->
+  <AlcoholHigh.stages.4.label>sấp mặt</AlcoholHigh.stages.4.label>
+
+  <!-- hangover -->
+  <Hangover.label>mệt sau cơn say</Hangover.label>
+  <!-- a hangover -->
+  <Hangover.labelNoun>mệt sau cơn say</Hangover.labelNoun>
+  <!-- slight -->
+  <Hangover.stages.0.label>gần hết</Hangover.stages.0.label>
+  <!-- strong -->
+  <Hangover.stages.1.label>nôn nao</Hangover.stages.1.label>
+  <!-- pounding -->
+  <Hangover.stages.2.label>nôn mửa</Hangover.stages.2.label>
+
+
+  <!-- Alcohol addiction -->
+
+  <!-- alcohol tolerance -->
+  <AlcoholTolerance.label>cai nghiện cồn</AlcoholTolerance.label>
+  <!-- small -->
+  <AlcoholTolerance.stages.0.label></AlcoholTolerance.stages.0.label>
+  <!-- small -->
+  <AlcoholTolerance.stages.1.label></AlcoholTolerance.stages.1.label>
+  <!-- large -->
+  <AlcoholTolerance.stages.2.label></AlcoholTolerance.stages.2.label>
+  <!-- massive -->
+  <AlcoholTolerance.stages.3.label></AlcoholTolerance.stages.3.label>
+
+  <!-- alcohol addiction -->
+  <AlcoholAddiction.label></AlcoholAddiction.label>
+  <!-- withdrawal -->
+  <AlcoholAddiction.stages.1.label></AlcoholAddiction.stages.1.label>
+
+
+</LanguageData>

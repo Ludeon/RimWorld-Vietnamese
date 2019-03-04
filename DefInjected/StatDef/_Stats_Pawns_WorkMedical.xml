@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- medical tend speed -->
+  <MedicalTendSpeed.label></MedicalTendSpeed.label>
+  <!-- Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description></MedicalTendSpeed.description>
+
+  <!-- medical tend quality -->
+  <MedicalTendQuality.label></MedicalTendQuality.label>
+  <!-- The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
+  <MedicalTendQuality.description></MedicalTendQuality.description>
+
+  <!-- medical operation speed -->
+  <MedicalOperationSpeed.label></MedicalOperationSpeed.label>
+  <!-- The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description></MedicalOperationSpeed.description>
+
+  <!-- medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label></MedicalSurgerySuccessChance.label>
+  <!-- The chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, and the difficulty of the surgery. -->
+  <MedicalSurgerySuccessChance.description></MedicalSurgerySuccessChance.description>
+
+
+</LanguageData>
