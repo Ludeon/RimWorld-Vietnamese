@@ -6,14 +6,6 @@
   <!-- Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
   <Sandbags.description>Những bao tải đựng cát hoặc đất đặt chồng lên nhau tạo thanh nơi che chắn hoàn hảo khi có đọ súng xảy ra.</Sandbags.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Sandbags.label>BlueprintLabelExtra</Blueprint_Sandbags.label>
-  <!-- FrameLabelExtra -->
-  <Frame_Sandbags.label>FrameLabelExtra</Frame_Sandbags.label>
-
-
-  <!--=============== Mini-turret ===============-->
-
   <!-- mini-turret -->
   <Turret_MiniTurret.label>ụ súng nhỏ</Turret_MiniTurret.label>
   <!-- A small, short-ranged automatic turret. Requires steel to replace its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
@@ -24,24 +16,6 @@
   <Turret_MiniTurret.comps.5.fuelLabel>Số đạn có thể bắn trước khi thay nòng khác</Turret_MiniTurret.comps.5.fuelLabel>
   <!-- Cannot shoot: Needs new barrel -->
   <Turret_MiniTurret.comps.5.outOfFuelMessage>Không thể tiếp tục bắn: Cần thay nòng mới</Turret_MiniTurret.comps.5.outOfFuelMessage>
-
-
-  <!--=============== Mini-turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Turret_MiniTurret.label>BlueprintLabelExtra</Blueprint_Turret_MiniTurret.label>
-
-
-  <!--=============== Mini-turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_Turret_MiniTurret.label>BlueprintLabelExtra</Blueprint_Install_Turret_MiniTurret.label>
-
-
-  <!--=============== Mini-turret ===============-->
-
-  <!-- FrameLabelExtra -->
-  <Frame_Turret_MiniTurret.label>FrameLabelExtra</Frame_Turret_MiniTurret.label>
   <!-- mini-turret bullet -->
   <Bullet_MiniTurret.label>đạn ụ súng nhỏ</Bullet_MiniTurret.label>
 
@@ -49,9 +23,6 @@
   <Gun_MiniTurret.label>súng máy loại nhỏ</Gun_MiniTurret.label>
   <!-- A simple automatic gun made to be mounted on a turret. -->
   <Gun_MiniTurret.description>Một cây súng máy tự động đơn giản được đặt trên ụ súng.</Gun_MiniTurret.description>
-
-
-  <!--=============== Autocannon turret ===============-->
 
   <!-- autocannon turret -->
   <Turret_Autocannon.label>ụ súng tự động</Turret_Autocannon.label>
@@ -63,18 +34,6 @@
   <Turret_Autocannon.comps.5.fuelLabel>Số đạn có thể bắn trước khi thay nòng khác</Turret_Autocannon.comps.5.fuelLabel>
   <!-- Cannot shoot: Needs new barrel -->
   <Turret_Autocannon.comps.5.outOfFuelMessage>Không thể tiếp tục bắn: Cần thay nòng mới</Turret_Autocannon.comps.5.outOfFuelMessage>
-
-
-  <!--=============== Autocannon turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Turret_Autocannon.label>BlueprintLabelExtra</Blueprint_Turret_Autocannon.label>
-
-
-  <!--=============== Autocannon turret ===============-->
-
-  <!-- FrameLabelExtra -->
-  <Frame_Turret_Autocannon.label>FrameLabelExtra</Frame_Turret_Autocannon.label>
   <!-- autocannon shell -->
   <Bullet_AutocannonTurret.label>đạn pháo tự động</Bullet_AutocannonTurret.label>
 
@@ -82,9 +41,6 @@
   <Gun_AutocannonTurret.label>pháo tự động</Gun_AutocannonTurret.label>
   <!-- A self-loading large-bore cannon designed to attach to a turret. -->
   <Gun_AutocannonTurret.description>Pháo tự động được đặt trên một ụ súng.</Gun_AutocannonTurret.description>
-
-
-  <!--=============== Sniper turret ===============-->
 
   <!-- sniper turret -->
   <Turret_Sniper.label>ụ súng nhắm</Turret_Sniper.label>
@@ -102,18 +58,6 @@
   <Turret_Sniper.comps.5.fuelLabel>Số đạn trong băng</Turret_Sniper.comps.5.fuelLabel>
   <!-- Cannot shoot: Needs rearm -->
   <Turret_Sniper.comps.5.outOfFuelMessage>Không thể tiếp tục bắn: Cần thay đạn</Turret_Sniper.comps.5.outOfFuelMessage>
-
-
-  <!--=============== Sniper turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Turret_Sniper.label>BlueprintLabelExtra</Blueprint_Turret_Sniper.label>
-
-
-  <!--=============== Sniper turret ===============-->
-
-  <!-- FrameLabelExtra -->
-  <Frame_Turret_Sniper.label>FrameLabelExtra</Frame_Turret_Sniper.label>
   <!-- sniper shell -->
   <Bullet_TurretSniper.label>đạn súng nhắm</Bullet_TurretSniper.label>
 
@@ -122,106 +66,45 @@
   <!-- A self-loading sniper cannon designed to attach to a turret. Precise at range, it's not good at tracking close targets. -->
   <Gun_TurretSniper.description>Pháo tự động tầm xa đặt trên bệ súng. Cực chính xác ở tầm xa nhưng lại khó bắn trúng được mục tiêu ở quá gần.</Gun_TurretSniper.description>
 
-
-  <!--=============== Mortar turret ===============-->
-
   <!-- mortar -->
   <Turret_Mortar.label>pháo cối</Turret_Mortar.label>
   <!-- A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>Là loại pháo bắn các viên pháo đến mục tiêu theo hình parabol. Tuy độ hủy diệt của pháo cối vô cùng lớn, độ chính của nó lại quá thấp khiến nó chỉ hợp cho việc bắn phá công trình cố định hơn là bắn những mục tiêu nhỏ đang di chuyển.</Turret_Mortar.description>
-
-
-  <!--=============== Mortar turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Turret_Mortar.label>BlueprintLabelExtra</Blueprint_Turret_Mortar.label>
-
-
-  <!--=============== Mortar turret ===============-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_Turret_Mortar.label>BlueprintLabelExtra</Blueprint_Install_Turret_Mortar.label>
-
-
-  <!--=============== Mortar turret ===============-->
-
-  <!-- FrameLabelExtra -->
-  <Frame_Turret_Mortar.label>FrameLabelExtra</Frame_Turret_Mortar.label>
 
   <!-- mortar -->
   <Artillery_Mortar.label>pháo cối</Artillery_Mortar.label>
   <!-- Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
   <Artillery_Mortar.description>Bệ pháo cối. Phóng pháo theo hình vòng cung. Độ chính xác thấp nhưng tầm bắn xa.</Artillery_Mortar.description>
 
-
-  <!--==================== Traps ======================== -->
-
   <!-- deadfall trap -->
   <TrapDeadfall.label>bẫy sập</TrapDeadfall.label>
   <!-- A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso. -->
   <TrapDeadfall.description>Một quả tạ với những chông nhọn được treo lên cao với một sợi dây chắn ngang mặt đường. Khi ai đó vấp phải sợi dây, sợi dây sẽ đứt khiến quả tạ rơi thẳng xuống đầu hoặc ngực của mục tiêu.</TrapDeadfall.description>
-
-
-  <!--==================== Traps ======================== -->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapDeadfall.label>BlueprintLabelExtra</Blueprint_TrapDeadfall.label>
-
-
-  <!--==================== Traps ======================== -->
-
-  <!-- FrameLabelExtra -->
-  <Frame_TrapDeadfall.label>FrameLabelExtra</Frame_TrapDeadfall.label>
 
   <!-- IED trap -->
   <TrapIED_HighExplosive.label>mìn nổ</TrapIED_HighExplosive.label>
   <!-- A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. Wild animals will avoid these. -->
   <TrapIED_HighExplosive.description>Làm từ một quả pháo cối nối với dây kích nổ. Khi bị kích hoạt, quả pháo sẽ nổ gây sát thương diện rộng. Động vật hoang dã sẽ tránh xa những quả mìn này.</TrapIED_HighExplosive.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapIED_HighExplosive.label>BlueprintLabelExtra</Blueprint_TrapIED_HighExplosive.label>
-  <!-- FrameLabelExtra -->
-  <Frame_TrapIED_HighExplosive.label>FrameLabelExtra</Frame_TrapIED_HighExplosive.label>
-
   <!-- IED incendiary trap -->
   <TrapIED_Incendiary.label>mìn cháy</TrapIED_Incendiary.label>
   <!-- Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Wild animals will avoid these. -->
   <TrapIED_Incendiary.description>Hỗn hợp chất nổ gây cháy trộn với một chất hóa học khác để tạo ra quả mìn. Khi bị kích hoạt, mìn sẽ nổ bắn hỗn hợp cháy văng ra vùng rộng gây bỏng cho nạn nhân tiếp xúc. Thú hoang sẽ tránh những bãi mìn này.</TrapIED_Incendiary.description>
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapIED_Incendiary.label>BlueprintLabelExtra</Blueprint_TrapIED_Incendiary.label>
-  <!-- FrameLabelExtra -->
-  <Frame_TrapIED_Incendiary.label>FrameLabelExtra</Frame_TrapIED_Incendiary.label>
 
   <!-- IED EMP trap -->
   <TrapIED_EMP.label>mìn điện từ</TrapIED_EMP.label>
   <!-- A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions. Wild animals will avoid these. -->
   <TrapIED_EMP.description>Quả mìn làm từ pháo shock điện và dây kích hoạt. Vụ nổ từ quả mìn này tạo ra xung điện cực mạnh gây tê liệt tạm thời các thiết bị điện và mechanoid gần đó. Có thể bị kích hoạt bởi các những sinh vật không bị ảnh hưởng bởi xung điện từ. Thú hoang sẽ tránh những bãi mìn này.</TrapIED_EMP.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapIED_EMP.label>BlueprintLabelExtra</Blueprint_TrapIED_EMP.label>
-  <!-- FrameLabelExtra -->
-  <Frame_TrapIED_EMP.label>FrameLabelExtra</Frame_TrapIED_EMP.label>
-
   <!-- IED firefoam trap -->
   <TrapIED_Firefoam.label>mìn chữa cháy</TrapIED_Firefoam.label>
   <!-- When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. Wild animals will avoid these. -->
   <TrapIED_Firefoam.description>Khi bị kích hoạt, mìn sẽ phát nổ và bắn ra hỗn hợp chữa cháy ra vùng rộng xung quanh nó. Thú hoang sẽ tránh xa bãi mìn này.</TrapIED_Firefoam.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapIED_Firefoam.label>BlueprintLabelExtra</Blueprint_TrapIED_Firefoam.label>
-  <!-- FrameLabelExtra -->
-  <Frame_TrapIED_Firefoam.label>FrameLabelExtra</Frame_TrapIED_Firefoam.label>
-
   <!-- IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>mìn phản vật chất</TrapIED_AntigrainWarhead.label>
   <!-- A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion. Wild animals will avoid these. -->
   <TrapIED_AntigrainWarhead.description>Dây kích hoạt gắn vào đầu tên lửa đạn đạo. Khi bị kích hoạt, đầu đạn tên lửa bị kích hoạt gây ra vụ nổ phản chất cực lớn. Thú hoang sẽ tránh xa khu này.</TrapIED_AntigrainWarhead.description>
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_TrapIED_AntigrainWarhead.label>BlueprintLabelExtra</Blueprint_TrapIED_AntigrainWarhead.label>
-  <!-- FrameLabelExtra -->
-  <Frame_TrapIED_AntigrainWarhead.label>FrameLabelExtra</Frame_TrapIED_AntigrainWarhead.label>
 
 
 </LanguageData>

@@ -6,40 +6,14 @@
   <!-- Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
   <Door.description>Chia cắt các phòng, thiết kế đơn giản, phải đóng mở thủ công nên làm chậm các hoạt động lại. Thời gian làm chậm dựa vào vật liệu làm nên cánh cửa này.</Door.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Door.label>BlueprintLabelExtra</Blueprint_Door.label>
-  <!-- FrameLabelExtra -->
-  <Frame_Door.label>FrameLabelExtra</Frame_Door.label>
-
   <!-- autodoor -->
   <Autodoor.label>cửa tự động</Autodoor.label>
   <!-- Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Chia cắt các phòng. Thiết kế để tự động đóng mở cho phép thông suốt mọi hoạt động một cách nhanh chóng.</Autodoor.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Autodoor.label>BlueprintLabelExtra</Blueprint_Autodoor.label>
-  <!-- FrameLabelExtra -->
-  <Frame_Autodoor.label>FrameLabelExtra</Frame_Autodoor.label>
-
-
-  <!--========================= Walls =============================-->
-
   <!-- wall -->
   <Wall.label>tường</Wall.label>
   <!-- An impassable wall. Capable of holding up a roof. -->
   <Wall.description>Không thể băng qua một cách dễ dàng được, có khả năng đỡ mái nhà.</Wall.description>
-
-
-  <!--========================= Walls =============================-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Wall.label>BlueprintLabelExtra</Blueprint_Wall.label>
-
-
-  <!--========================= Walls =============================-->
-
-  <!-- FrameLabelExtra -->
-  <Frame_Wall.label>FrameLabelExtra</Frame_Wall.label>
-
 
 </LanguageData>

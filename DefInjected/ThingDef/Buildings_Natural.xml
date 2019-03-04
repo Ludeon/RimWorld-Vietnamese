@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--============================ Simple mineables ===============================-->
-
   <!-- collapsed rocks -->
   <CollapsedRocks.label>đá sập</CollapsedRocks.label>
   <!-- Collapsed rocks, packed tightly enough to hold up a roof. -->
   <CollapsedRocks.description>Trần đá rơi xuống và nén lại với nhau. Đủ sức để đỡ cả trần nhà đó.</CollapsedRocks.description>
-
-
-  <!--============================ Resource rocks ===============================-->
 
   <!-- compacted steel -->
   <MineableSteel.label>ụ thép</MineableSteel.label>
@@ -60,9 +55,6 @@
   <GlowPod.label>kén phát quang</GlowPod.label>
   <!-- A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
   <GlowPod.description>Kén do mối lớn tạo ra phát ra ánh sáng kì lạ. Có thể tự phát sáng một thời gian rồi tắt.</GlowPod.description>
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_GlowPod.label>BlueprintLabelExtra</Blueprint_Install_GlowPod.label>
 
 
 </LanguageData>

@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--================================ Sculptures ======================================-->
-
   <!-- small sculpture -->
   <SculptureSmall.label>tượng nhỏ</SculptureSmall.label>
   <!-- A torso-sized piece of material sculpted into an artistic form. -->
   <SculptureSmall.description>Bức tượng kích cỡ bằng trẻ sơ sinh được chế tác từ vật liệu thô.</SculptureSmall.description>
-
-
-  <!--================================ Sculptures ======================================-->
-
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_SculptureSmall.label>BlueprintLabelExtra</Blueprint_Install_SculptureSmall.label>
 
   <!-- large sculpture -->
   <SculptureLarge.label>tượng vừa</SculptureLarge.label>
   <!-- A person-sized piece of material sculpted into an artistic form. -->
   <SculptureLarge.description>Bức tượng kích cỡ bằng người trưởng thành được chế tác từ vật liệu thô.</SculptureLarge.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_SculptureLarge.label>BlueprintLabelExtra</Blueprint_Install_SculptureLarge.label>
-
   <!-- grand sculpture -->
   <SculptureGrand.label>tượng lớn</SculptureGrand.label>
   <!-- A huge sculpture sized to dominate a room. -->
   <SculptureGrand.description>Bức tượng kích cỡ bằng khá to được chế tác từ vật liệu thô.</SculptureGrand.description>
 
-  <!-- BlueprintLabelExtra -->
-  <Blueprint_Install_SculptureGrand.label>BlueprintLabelExtra</Blueprint_Install_SculptureGrand.label>
-
-
-  <!--================================ Snowman ======================================-->
-
   <!-- snowman -->
   <Snowman.label>người tuyết</Snowman.label>
   <!-- A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
   <Snowman.description>Khi những người rảnh háng hết chuyện để làm và muốn tìm kiếm niềm vui mới bằng những đống tuyết ngoài sân.</Snowman.description>
-
 
 </LanguageData>
