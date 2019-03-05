@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- starflight basics -->
+  <ShipBasics.label>lí thuyết xuyên hà</ShipBasics.label>
+  <!-- Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Nghiên cứu khoa học về vũ trụ cho phép ta xây dựng con tàu có thể di chuyển qua các hành tinh. Mở khóa xây dựng các thành phần cơ bản của tàu vũ trụ.</ShipBasics.description>
+
+  <!-- vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>kén ngủ đông chân không</ShipCryptosleep.label>
+  <!-- Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Cho phép xây dựng các kén ngủ đông có thễ vững chắc trước áp lực trong chân không và để bảo vệ con người trong thời gian dài khi đang trong hành trình xuyên không gian giữa các hành tinh.</ShipCryptosleep.description>
+
+  <!-- starship reactor -->
+  <ShipReactor.label>lò phản ứng lượng tử</ShipReactor.label>
+  <!-- Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Sử dụng các hiểu biết về lượng tử của con người cho phép ta xây dựng được lò phản ứng có khả năng đáp ứng năng lượng cho tàu vũ trụ trong thời gian dài. CHÚ Ý: do khởi động 1 cách bình thường khiến mọi thứ trở nên nhàm chán nên để tăng phần kịch tính hấp dẫn cũng như khả năng tiễn tất cả dân bạn lên trời mà không cần phi thuyền, quá trình khởi động lò phản ứng sẽ diễn ra trong thời gian dài và kích thích các anh raider đến thăm nhà các bạn thường xuyên luôn.</ShipReactor.description>
+
+  <!-- Johnson-Tanaka drive -->
+  <ShipEngine.label>động cơ phản lực</ShipEngine.label>
+  <!-- Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Cho phép xây dựng động cơ phản lực dùng cho tàu vũ trụ.</ShipEngine.description>
+
+  <!-- AI persuasion -->
+  <ShipComputerCore.label>bộ xử lí trung tâm</ShipComputerCore.label>
+  <!-- Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Cho phép xây dựng bộ xử lí trung tâm có khả năng dẫn đường cho con tàu đến được nơi cần đến.</ShipComputerCore.description>
+
+  <!-- starflight sensors -->
+  <ShipSensorCluster.label>cảm biến ánh sáng</ShipSensorCluster.label>
+  <!-- Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Cho phép xây dựng cảm biến tầm xa trên tàu vũ trụ. Cảm biến này có vai trò định hướng, liên lạc và các mối nguy hiểm đang hướng đến con tàu và đưa thông tin đó cho bộ xử lí trung tâm xử lí.</ShipSensorCluster.description>
+
+
+</LanguageData>

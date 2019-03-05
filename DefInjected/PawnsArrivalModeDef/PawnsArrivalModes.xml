@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>Băng {0} từ {1} đã đến khu ta.</EdgeWalkIn.textEnemy>
+  <!-- A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>Một nhóm {0} từ {1} đã đến khu ta.</EdgeWalkIn.textFriendly>
+
+  <!-- A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>Băng {0} từ {1} tới "thăm nhà" bạn bằng kén vận chuyển.</EdgeDrop.textEnemy>
+  <!-- A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>Khách {0} từ {1} tới chơi nhà bạn.</EdgeDrop.textFriendly>
+
+  <!-- Several separate groups of {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textEnemy>Nhiều băng xã hội đen {0} từ {1} đến đòi nợ nhà bạn.</EdgeWalkInGroups.textEnemy>
+  <!-- Several separate groups of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInGroups.textFriendly>Anh em {0} từ {1} tới hỗ trợ bạn.</EdgeWalkInGroups.textFriendly>
+
+  <!-- Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>Nhiều băng {0} từ {1} đã đáp xuống bằng kén vận chuyển.</EdgeDropGroups.textEnemy>
+  <!-- Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Nhiều đồng minh {0} từ {1} đã đáp xuống nhà bạn bằng kén vận chuyển.</EdgeDropGroups.textFriendly>
+
+  <!-- A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>Băng {0} từ {1} đáp thẳng ngay giữa làng bạn luôn.</CenterDrop.textEnemy>
+  <!-- A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Đồng mình {0} từ {1} đáp thằng ngay giữa nhà bạn luôn.</CenterDrop.textFriendly>
+
+  <!-- A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>Băng {0} từ {1} đã đến chỗ bạn bằng kén vận chuyển nhưng vì mạch dẫn cổ lỗ sỉ nên cả bọn đã đáp tán loạn chỗ hết rồi.</RandomDrop.textEnemy>
+  <!-- A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>Đồng minh {0} từ {1} đã đến chỗ bạn bằng kén vận chuyển nhưng vì mạch bị chập nên cả đám đã đáp loạn khắp bản đồ rồi.</RandomDrop.textFriendly>
+
+
+</LanguageData>

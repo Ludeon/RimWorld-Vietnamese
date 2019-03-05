@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- electricity -->
+  <Electricity.label>điện năng</Electricity.label>
+  <!-- Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Khai thác nguồn lực của điện năng phục vụ cho các mục đích khác.</Electricity.description>
+
+  <!-- battery -->
+  <Batteries.label>pin</Batteries.label>
+  <!-- Build batteries for storing electricity. -->
+  <Batteries.description>Cho phép xây pin để chứa điện năng.</Batteries.description>
+
+  <!-- biofuel refining -->
+  <BiofuelRefining.label>tinh chế nhiên liệu sinh học</BiofuelRefining.label>
+  <!-- Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Cho phép xây dựng máy tinh chế nhiên liệu sinh học từ vật chất hữu cơ như gỗ hoặc nguyên liệu thức ăn.</BiofuelRefining.description>
+
+  <!-- waterproof conduit -->
+  <Waterproofing.label>dây điện chống thấm</Waterproofing.label>
+  <!-- Build underwater electrical conduits. -->
+  <Waterproofing.description>Cho phép xây nhưng đường dây điện nằm dưới mặt nước nông hoặc đầm lầy.</Waterproofing.description>
+
+  <!-- nutrient paste -->
+  <NutrientPaste.label>thức ăn hỗn hợp</NutrientPaste.label>
+  <!-- Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Cho phép xây dựng máy trộn thức ăn cho phép sản xuất ra các phần ăn hỗn hợp từ nguyên liệu thô mà không cần mất thời gian và nhân lực để nấu.</NutrientPaste.description>
+
+  <!-- solar panel -->
+  <SolarPanels.label>pin mặt trời</SolarPanels.label>
+  <!-- Build solar panels for electricity generation. -->
+  <SolarPanels.description>Cho phép xây những tấm pin mặt trời để sản xuất điện năng.</SolarPanels.description>
+
+  <!-- air conditioning -->
+  <AirConditioning.label>máy điều hòa</AirConditioning.label>
+  <!-- Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Cho phép xây máy điều hòa làm mát không khí trong tình hình thời tiết nóng nực khiến người ta nứng nọc, à mà thôi... hoặc để tạo phòng đông dùng chứa món hàng dễ hỏng.</AirConditioning.description>
+
+  <!-- autodoor -->
+  <Autodoors.label>cửa tự động</Autodoors.label>
+  <!-- Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Cho phép xây cửa tự động đóng mở khi có người đi qua mà không làm chậm họ lại.</Autodoors.description>
+
+  <!-- hydroponics -->
+  <Hydroponics.label>thủy canh</Hydroponics.label>
+  <!-- Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Mở khóa xây các chậu thủy canh cho phép cây trồng sinh trưởng nhanh hơn trong nhà mà không cần quan tâm tới địa hình hoặc thời tiết bên ngoài ra sao.</Hydroponics.description>
+
+  <!-- electric smelting -->
+  <ElectricSmelting.label>lò luyện kim điện</ElectricSmelting.label>
+  <!-- Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items. -->
+  <ElectricSmelting.description>Cho phép xây dựng lò luyện kim điện với tốc độ luyện kim nhanh hơn.\n\n Lò luyện kim điện sử dụng điện để hoạt động thay cho nhiên liệu đốt. Lò luyện kim điện có thể tách kim loại từ các mảnh kim loại lớn hoặc các vật dụng khác.</ElectricSmelting.description>
+
+  <!-- tube television -->
+  <TubeTelevision.label>tv ống</TubeTelevision.label>
+  <!-- Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Cho phép xây tv ống truyền thống để phục vụ nhu cầu giải trí của người dân.</TubeTelevision.description>
+
+  <!-- packaged survival meal -->
+  <PackagedSurvivalMeal.label>thức ăn đóng hộp</PackagedSurvivalMeal.label>
+  <!-- Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Cho phép sản xuất thức ăn đóng hộp - loại thức ăn không bao giờ bị hư thích hợp cho các chuyến đi dài ngày.</PackagedSurvivalMeal.description>
+
+  <!-- electric cremation -->
+  <ElectricCremation.label>lò hỏa thiêu điện</ElectricCremation.label>
+  <!-- Build crematoriums for vaporizing unwanted corpses. -->
+  <ElectricCremation.description>Cho phép xây lò hỏa thiêu bằng điện nhằm hỏa thiêu những cái xác bạn không muốn chôn.</ElectricCremation.description>
+
+  <!-- colored lights -->
+  <ColoredLights.label>đèn màu</ColoredLights.label>
+  <!-- Construct colored lights for decorative purposes. -->
+  <ColoredLights.description>Cho phép xây dựng các bóng đèn màu để trang trí.</ColoredLights.description>
+
+  <!-- IEDs -->
+  <IEDs.label>địa lôi</IEDs.label>
+  <!-- Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Cho phép xây dựng bẫy mìn từ các loại đạn pháo.</IEDs.description>
+
+  <!-- geothermal power -->
+  <GeothermalPower.label>địa năng</GeothermalPower.label>
+  <!-- Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Cho phép xây dựng máy phát điện địa nhiệt trên miệng các mạch nước nóng. Máy phát điện địa nhiệt hoạt động ngày đêm liên tục.</GeothermalPower.description>
+
+  <!-- sterile materials -->
+  <SterileMaterials.label>đồ sứ</SterileMaterials.label>
+  <!-- Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Cho phép xây dựng nền bằng sứ để tăng độ sạch sẽ của căn phòng nhằm tăng độ an toàn và tỉ lệ phẫu thuật thành công trong điều trị y tế, nghiên cứu và xây dựng.</SterileMaterials.description>
+
+
+  <!--===================== Machining and its children sub-tier ======================-->
+
+  <!-- machining -->
+  <Machining.label>cơ khí</Machining.label>
+  <!-- Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Cho phép xây bàn chế tạo dùng để chế tạo súng ống, lựu đạn, áo giáp và rã xác của mechanoid lấy tài nguyên.</Machining.description>
+
+  <!-- smokepop belts -->
+  <SmokepopBelt.label>đai bom khói</SmokepopBelt.label>
+  <!-- Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Cho phép chế tạo đai bom khói tự động phun màn khói phòng vệ cho người đeo khi người đeo bị bắn.</SmokepopBelt.description>
+
+  <!-- prosthetics -->
+  <Prosthetics.label>bộ phận giả</Prosthetics.label>
+  <!-- Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Cho phép tạo ra các bộ phận cơ thể rẻ tiền nhằm thay thế cho các bộ phận bị mất. Cần bác sĩ có kinh nghiệm để có thể tiến hành phẫu thuật gắn vào.</Prosthetics.description>
+
+  <!-- gunsmithing -->
+  <Gunsmithing.label>chế tác súng</Gunsmithing.label>
+  <!-- Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Cho phép chế tác thủ công các loại súng cơ bản như sungs lục ổ xoay, shotgun, súng trường và súng phóng lựu.</Gunsmithing.description>
+
+  <!-- flak armor -->
+  <FlakArmor.label>giáp chống đạn</FlakArmor.label>
+  <!-- Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Mở khóa kĩ thuật may vá thất truyền từ cổ xưa: vá các mảnh vải lại với nhau thành áo 3 lỗ rồi đặt mảnh thép giữa áo thành chiếc áo giáp có khả năng chống đạn và giảm thiệt hại từ các vụ nổ. Do lất thép làm tông màu chủ đạo cho chiếc áo nên người mặc sẽ dĩ chuyển có phần chậm hơn bình thường.</FlakArmor.description>
+
+  <!-- mortars -->
+  <Mortars.label>súng cối</Mortars.label>
+  <!-- Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Cho phép chế tạo súng cối - loại đại bác hiện đại cho phép bắn những viên pháo đi xa qua tường hoặc địa hình hiểm trở theo hình vòng cung.</Mortars.description>
+
+  <!-- blowback operation -->
+  <BlowbackOperation.label>nạp đạn tự động</BlowbackOperation.label>
+  <!-- Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs. -->
+  <BlowbackOperation.description>Nắm được học thuyết vật lí - cơ khí cho phép chế tạo các loại súng tự động với tốc độ bắn cao như súng lục, tiểu liên và tiểu liên hạng nặng.</BlowbackOperation.description>
+
+  <!-- gas operation -->
+  <GasOperation.label>trích xuất khí ga</GasOperation.label>
+  <!-- Craft high-power guns like chain shotguns and LMGs. -->
+  <GasOperation.description>Áp dụng học thuyết kiểu mới cho phép chế tạo shotgun tự động và súng máy.</GasOperation.description>
+
+  <!-- gun turrets -->
+  <GunTurrets.label>ụ súng</GunTurrets.label>
+  <!-- Produce simple automated gun turrets. -->
+  <GunTurrets.description>Cho phép xây dựng các ụ súng tự động đơn giản.</GunTurrets.description>
+
+  <!-- precision rifling -->
+  <PrecisionRifling.label>kính quang học</PrecisionRifling.label>
+  <!-- Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>Cho phép sản xuất súng có độ chính xác cao hơn và xác thương lớn hơn như súng trường tấn công và súng ngắm.</PrecisionRifling.description>
+
+  <!-- autocannon turret -->
+  <HeavyTurrets.label>tháp pháo tự động</HeavyTurrets.label>
+  <!-- Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>Cho phép xây dựng tháp pháo tự dộng hạng nặng tầm xa.</HeavyTurrets.description>
+
+  <!-- multibarrel weapons -->
+  <MultibarrelWeapons.label>đa nòng</MultibarrelWeapons.label>
+  <!-- Assemble miniguns. -->
+  <MultibarrelWeapons.description>Cho phép chế tạo đại liên.</MultibarrelWeapons.description>
+
+  <!-- sniper turret -->
+  <SniperTurret.label>ụ súng ngắm</SniperTurret.label>
+  <!-- Produce the extremely long-ranged sniper cannon turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Cho phép xây dựng ụ súng ngắm tầm cực xa tự động. Đạn sử dụng bởi ụ pháo này làm từ Uranium nên dễ dàng xuyên qua plasteel như giấy nhưng ụ súng không hiệu quả khi giao chiến tầm gần.</SniperTurret.description>
+
+
+</LanguageData>

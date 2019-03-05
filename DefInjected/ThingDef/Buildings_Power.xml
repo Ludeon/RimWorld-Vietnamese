@@ -17,7 +17,7 @@
   <PowerSwitch.description>Dùng để bật/tắt điện.</PowerSwitch.description>
 
   <!-- wood-fired generator -->
-  <WoodFiredGenerator.label>Máy phát điện bằng củi</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>máy phát điện bằng củi</WoodFiredGenerator.label>
   <!-- Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
   <WoodFiredGenerator.description>Sử dụng gỗ để phát điện. Phải được cung cấp gỗ bằng tay.</WoodFiredGenerator.description>
 
@@ -37,7 +37,7 @@
   <Battery.description>Nơi chứa năng lượng dư thừa được tạo ra để sử dụng về sau. Pin đang tích điện dễ bị nổ khi để dưới trời mưa hoặc đám cháy.</Battery.description>
 
   <!-- solar generator -->
-  <SolarGenerator.label>tấm pin năng lượng mặt trời</SolarGenerator.label>
+  <SolarGenerator.label>pin mặt trời</SolarGenerator.label>
   <!-- Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
   <SolarGenerator.description>Sản xuất điện từ ánh sáng mặt trời. Bất hoạt khi trời tối hoặc dưới ánh sáng nhân tạo.</SolarGenerator.description>
 
