@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>Chỉ số cách nhiệt khỏi lạnh của vật liệu</StuffEffectMultiplierInsulation_Cold.label>
+  <!-- Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>Chỉ số cách nhiệt khỏi nóng của vật liệu</StuffEffectMultiplierInsulation_Heat.label>
+  <!-- Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>Chỉ số giáp hiệu quả của vật liệu</StuffEffectMultiplierArmor.label>
+
+  <!-- Armor - Sharp -->
+  <ArmorRating_Sharp.label>Giáp - Chống mảnh</ArmorRating_Sharp.label>
+  <!-- Armor against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and converted into a half-damage blunt impact. Many attacks have armor penetration that will cancel part of this armor rating. -->
+  <ArmorRating_Sharp.description>Là khả năng bảo vệ chủ thể trước các loại sát thương cắt/mảnh như đạn, dao, lựu đạn và đòn tấn công từ động vật.\n\nChỉ số này làm giảm sát thương của các đòn tấn công mà chủ thể nhận (trừ vào độ bền của giáp). Sau khi chịu ảnh hưởng từ giáp, đòn tấn công có 50% tỉ lệ bật lại (không gây sát thương cho chủ thể) và 50% tỉ lệ gây 50% sát thương dưới dạng sát thương cùn. Có nhiều loại đòn tấn công có khả năng xuyên giáp khiến hiệu ứng này của giáp trở nên vô dụng.</ArmorRating_Sharp.description>
+
+  <!-- Armor - Blunt -->
+  <ArmorRating_Blunt.label>Giáp - Chống va đập (sát thương cùn)</ArmorRating_Blunt.label>
+  <!-- Armor against blunt damage like fists, club impacts and rock falls.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and have damage reduced by half. Many attacks have armor penetration that will cancel part of this armor rating. -->
+  <ArmorRating_Blunt.description>Là khả năng bảo vệ chủ thể trước các loại sát thương cùn như nấm đấm, gậy gộc hoặc đá rơi trong hang.\n\nChỉ số này làm giảm sát thương của các đòn tấn công mà chủ thể nhận (trừ vào độ bền của giáp). Sau khi chịu ảnh hưởng từ giáp, đòn tấn công có 50% tỉ lệ bật lại (không gây sát thương cho chủ thể) và 50% tỉ lệ gây 50% sát thương lên chủ thể. Có nhiều loại đòn tấn công có khả năng xuyên giáp khiến hiệu ứng này của giáp trở nên vô dụng.</ArmorRating_Blunt.description>
+
+  <!-- Armor - Heat -->
+  <ArmorRating_Heat.label>Giáp - Chống cháy</ArmorRating_Heat.label>
+  <!-- Armor against temperature-related damage like burns.\n\nThis is the percentage chance that an attack will be affected by the armor. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and have damage reduced by half. Some attacks may have armor penetration that will cancel part of this armor rating. -->
+  <ArmorRating_Heat.description>Là khả năng bảo vệ chủ thể khỏi các loại sát thương liên quan đến nhiệt.\n\nChỉ số này làm giảm sát thương của các đòn tấn công mà chủ thể nhận (trừ vào độ bền của giáp). Sau khi chịu ảnh hưởng từ giáp, đòn tấn công có 50% tỉ lệ bật lại (không gây sát thương cho chủ thể) và 50% tỉ lệ gây 50% sát thương lên chủ thể. Có vài loại đòn tấn công có khả năng xuyên giáp khiến hiệu ứng này của giáp trở nên vô dụng.</ArmorRating_Heat.description>
+
+  <!-- Insulation - Cold -->
+  <Insulation_Cold.label>Giữ ấm</Insulation_Cold.label>
+  <!-- How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>Là chỉ số giúp giảm nhiệt độ tối thiểu mà chủ thể có thể chịu được. Chỉ số càng cao, khả năng chịu lạnh càng tốt.</Insulation_Cold.description>
+
+  <!-- Insulation - Heat -->
+  <Insulation_Heat.label>Cách nhiệt</Insulation_Heat.label>
+  <!-- How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>Là chỉ số giúp tăng nhiệt độ tối đa mà chủ thể có thể chịu được. Chỉ số càng cao, khả năng chịu nóng càng tốt.</Insulation_Heat.description>
+
+  <!-- Shield max energy -->
+  <EnergyShieldEnergyMax.label>Năng lượng tối đa của khiên</EnergyShieldEnergyMax.label>
+  <!-- The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>Chỉ số năng lượng tối đa mà chiếc khiên có được. Năng lượng tối đa càng cao, lượng sát thương chiếc khiên hấp thụ càng nhiều.</EnergyShieldEnergyMax.description>
+
+  <!-- Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Tốc độ hồi năng lượng</EnergyShieldRechargeRate.label>
+  <!-- The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>Lượng năng lượng hồi phục mỗi giây của chiếc khiên khi nó chưa bị phá hủy.</EnergyShieldRechargeRate.description>
+  <!-- {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/giây</EnergyShieldRechargeRate.formatString>
+
+  <!-- Smokepop belt radius -->
+  <SmokepopBeltRadius.label>Tầm bao phủ</SmokepopBeltRadius.label>
+  <!-- The area obscured when a smokepop belt detonates. -->
+  <SmokepopBeltRadius.description>Là bán kính mà màn khói che phủ khi bom khói phát nổ.</SmokepopBeltRadius.description>
+  <!-- {0} c -->
+  <SmokepopBeltRadius.formatString>{0} ô</SmokepopBeltRadius.formatString>
+
+  <!-- equip delay -->
+  <EquipDelay.label>tốc độ trang bị</EquipDelay.label>
+  <!-- The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>Thời gian cần tốn để đeo và tháo trang bị này.</EquipDelay.description>
+  <!-- {0} s -->
+  <EquipDelay.formatString>{0} giây</EquipDelay.formatString>
+
+
+</LanguageData>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- max hit points -->
+  <MaxHitPoints.label>HP tối đa</MaxHitPoints.label>
+  <!-- The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>Lượng máu/độ bền tối đa của 1 vật. Chỉ số này thể hiện lượng sát thương tối đa mà vật này có thể nhận trước khi bị phá hủy/chết.</MaxHitPoints.description>
+
+  <!-- mass -->
+  <Mass.label>khối lượng</Mass.label>
+  <!-- The physical mass of an object. -->
+  <Mass.description>Khối lượng vật lí của một vật thể.</Mass.description>
+  <!-- {0} kg -->
+  <Mass.formatString>{0} kg</Mass.formatString>
+
+  <!-- market value -->
+  <MarketValue.label>giá trị thị trường</MarketValue.label>
+  <!-- The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>Giá trị thị trường của 1 vật. Giá trị thực khi mua/bán sẽ thay đổi dựa vào kĩ năng Thương lượng, tình trạng quan hệ và các chỉ số phụ khác.</MarketValue.description>
+  <!-- ${0} -->
+  <MarketValue.formatString>{0}$</MarketValue.formatString>
+
+  <!-- sell price multiplier -->
+  <SellPriceFactor.label>bội số khi bán</SellPriceFactor.label>
+  <!-- A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>Thể hiện tỉ lệ giá thực khi bán vật phẩm này.</SellPriceFactor.description>
+
+  <!-- flammability -->
+  <Flammability.label>khả năng cháy</Flammability.label>
+  <!-- How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>Thể hiện vật này dễ bắt lửa thế nào và độ lớn của ngọn lửa khi vật này cháy.</Flammability.description>
+
+  <!-- work to make -->
+  <WorkToMake.label>lượng công việc cần làm</WorkToMake.label>
+  <!-- The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>Lượng công việc cơ sở để hoàn thành 1 vật phẩm khi đã đủ vật liệu để thực hiện.</WorkToMake.description>
+
+  <!-- deterioration rate -->
+  <DeteriorationRate.label>tốc độ hư hỏng</DeteriorationRate.label>
+  <!-- The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>Thể hiện lượng máu/độ bền mất sau mỗi ngày vật để ở không gian ngoài trời. Tốc độ hư hổng còn bị ảnh hưởng bởi các yếu tố như thời tiết, trần nhà, thảm họa hạt nhân hoặc để ở nơi nước nông.</DeteriorationRate.description>
+  <!-- {0} / day -->
+  <DeteriorationRate.formatString>{0} / ngày</DeteriorationRate.formatString>
+
+  <!-- beauty -->
+  <Beauty.label>thẩm mỹ</Beauty.label>
+  <!-- How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>Điểm thẩm mỹ mà vật này mang lại. Điểm thẩm mỹ càng cao càng có nhiều điểm cộng có lợi cho tâm trạng những nhân vật đứng gần nó.</Beauty.description>
+
+  <!-- cleanliness -->
+  <Cleanliness.label>sạch sẽ</Cleanliness.label>
+  <!-- How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>Điểm sạch sẽ mà vật này mang lại cho căn phòng.</Cleanliness.description>
+
+  <!-- comfort -->
+  <Comfort.label>êm ái</Comfort.label>
+  <!-- How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>Mức độ êm ái mà vật này mang lại khi ngồi hoặc nằm lên. Sử dụng vật có độ êm ái để thỏa mãn nhu cầu tận hưởng của 1 người.</Comfort.description>
+
+  <!-- nutrition -->
+  <Nutrition.label>lượng dinh dưỡng</Nutrition.label>
+  <!-- How nutritious this food is. -->
+  <Nutrition.description>Lượng dinh dưỡng mà loại thực phẩm này mang lại.</Nutrition.description>
+
+  <!-- food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>tỉ lệ ngộ độc</FoodPoisonChanceFixedHuman.label>
+  <!-- The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>Tỉ lệ gây ngộ độc mà loại thực phẩm này có thể gây ra.</FoodPoisonChanceFixedHuman.description>
+
+  <!-- shooting accuracy -->
+  <ShootingAccuracyTurret.label>độ chính xác</ShootingAccuracyTurret.label>
+  <!-- Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>Tỉ lệ chính xác cơ sở khi bắn vật ở khoảng cách xa. Chỉ số này còn ảnh hưởng bởi nhiều yếu tố khác. Tỉ lệ chính xác thực có thể nhìn được bằng cách chọn một xạ thủ và chỉ con trỏ chuột đến mục tiêu cần bắn.</ShootingAccuracyTurret.description>
+
+
+</LanguageData>
