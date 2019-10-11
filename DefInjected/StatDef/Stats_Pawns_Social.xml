@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- recruit prisoner chance -->
+  <RecruitPrisonerChance.label>tỉ lệ chiêu mộ tù nhân thành công</RecruitPrisonerChance.label>
+  <!-- The base chance this person will recruit a prisoner on any given attempt. The actual chance is also affected by factors like prisoner mood, prisoner difficulty, and so on. -->
+  <RecruitPrisonerChance.description>Tỉ lệ cơ sở mà người này có thể chiêu mộ thành công 1 người tù nhân trong mỗi lần thuyết phục họ. Tỉ lệ này có thể ảnh hưởng bởi các yếu tố khác như tâm trạng tù nhân, mức độ trung thành của tù nhân,...</RecruitPrisonerChance.description>
+
+  <!-- tame animal chance -->
+  <TameAnimalChance.label>tỉ lệ thuần hóa thú thành công</TameAnimalChance.label>
+  <!-- The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Tỉ lệ cơ sở mà người này có thể thuần hóa 1 con thú trong mỗi lần cố gắng. Tỉ lệ này có thể bị ảnh hưởng bởi mức độ hoang dã của con thú. Thuần hóa thất bại có khả năng khiến con thú nổi điên và tấn công người này, đặc biệt dễ xảy ra trên các con vật hung dữ.</TameAnimalChance.description>
+
+  <!-- train animal chance -->
+  <TrainAnimalChance.label>tỉ lệ huấn luyện thú thành công</TrainAnimalChance.label>
+  <!-- The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Là tỉ lệ cơ sở mà người này có thể huấn luyện thành công những kĩ năng của con thú. Tỉ lệ này có thể bị ảnh hưởng bởi mức độ hoang dã của con thú dù cho nó đã có liên kết với người huấn luyện hay chưa,...</TrainAnimalChance.description>
+
+  <!-- social chat impact -->
+  <SocialImpact.label>khả năng giao tiếp</SocialImpact.label>
+  <!-- A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Là chỉ số ảnh hưởng đến người khác khi họ giao tiếp với người này.</SocialImpact.description>
+
+  <!-- diplomacy power -->
+  <DiplomacyPower.label>khả năng ngoại giao</DiplomacyPower.label>
+  <!-- How effective this person is as a diplomat. This affects the impact on relations when giving gifts to another faction, and determines the outcome of peace talks. -->
+  <DiplomacyPower.description>Thể hiện khả năng ngoại giao trong các cuộc đàm phán. Chỉ số này ảnh hưởng đến lượng điểm quan hệ khi tặng quà cho các băng nhóm khác và quyết định kết quả của cuộc thương lượng hòa bình.</DiplomacyPower.description>
+
+  <!-- trade price improvement -->
+  <TradePriceImprovement.label>khả năng giao thương</TradePriceImprovement.label>
+  <!-- When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Khi nhân vật này giao dịch, giá cả của vật phẩm khi bán/mua sẽ được cải thiện tùy thuộc vào chỉ số này.</TradePriceImprovement.description>
+
+
+</LanguageData>

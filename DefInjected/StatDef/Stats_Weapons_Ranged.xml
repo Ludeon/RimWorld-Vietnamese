@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Accuracy (touch) -->
+  <AccuracyTouch.label>Chính xác (cận chiến)</AccuracyTouch.label>
+  <!-- The weapon's effect on accuracy at a distance of 4 cells or less. -->
+  <AccuracyTouch.description>Độ chính xác của vũ khí ở khoảng cách 4 ô trở lại.</AccuracyTouch.description>
+
+  <!-- Accuracy (short) -->
+  <AccuracyShort.label>Chính xác (tầm gần)</AccuracyShort.label>
+  <!-- The weapon's effect on accuracy at a distance of 15 cells. -->
+  <AccuracyShort.description>Độ chính xác của vũ khí ở khoảng cách 15 ô.</AccuracyShort.description>
+
+  <!-- Accuracy (medium) -->
+  <AccuracyMedium.label>Chính xác (tầm trung)</AccuracyMedium.label>
+  <!-- The weapon's effect on accuracy at a distance of 30 cells. -->
+  <AccuracyMedium.description>Độ chính xác của vũ khí ở khoảng cách 30 ô.</AccuracyMedium.description>
+
+  <!-- Accuracy (long) -->
+  <AccuracyLong.label>Chính xác (tầm xa)</AccuracyLong.label>
+  <!-- The weapon's effect on accuracy at a distance of 50 cells or more. -->
+  <AccuracyLong.description>Độ chính xác của vũ khí ở khoảng cách từ 50 ô trở đi.</AccuracyLong.description>
+
+  <!-- ranged cooldown -->
+  <RangedWeapon_Cooldown.label>Tốc độ nạp đạn</RangedWeapon_Cooldown.label>
+  <!-- How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>Thời gian cần để lên đạn cho lần bắn tiếp theo.</RangedWeapon_Cooldown.description>
+  <!-- {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} giây</RangedWeapon_Cooldown.formatString>
+
+  <!-- damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>bội số sát thương</RangedWeapon_DamageMultiplier.label>
+  <!-- A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Chỉ số sẽ áp dụng để tính lượng sát thương gây bởi đạn được bắn từ vũ khí này.</RangedWeapon_DamageMultiplier.description>
+
+
+</LanguageData>

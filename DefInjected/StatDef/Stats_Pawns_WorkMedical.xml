@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- medical tend speed -->
+  <MedicalTendSpeed.label>tốc độ chữa trị</MedicalTendSpeed.label>
+  <!-- Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Thể hiện tốc độ chữa trị y tế cho người bị thương và người bệnh.</MedicalTendSpeed.description>
+
+  <!-- medical tend quality -->
+  <MedicalTendQuality.label>chất lượng chữa trị</MedicalTendQuality.label>
+  <!-- The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
+  <MedicalTendQuality.description>Thể hiện chất lượng khi chữa trị y tế cho bệnh binh và thương binh. Kết quả thực có thể bị ảnh hưởng bởi các yếu tố khác như loại dược phẩm dùng, cơ sở vật chất, độ sạch của phòng, may mắn,...</MedicalTendQuality.description>
+
+  <!-- medical operation speed -->
+  <MedicalOperationSpeed.label>tốc độ phẫu thuật</MedicalOperationSpeed.label>
+  <!-- The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>Tốc độ thực hiện các ca phẫu thuật y tế.</MedicalOperationSpeed.description>
+
+  <!-- medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>tỉ lệ phẫu thuật thành công</MedicalSurgerySuccessChance.label>
+  <!-- The chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, and the difficulty of the surgery. -->
+  <MedicalSurgerySuccessChance.description>Là tỉ lệ cuộc phẫu thuật diễn ra thành công tốt đẹp. Tỉ lệ này có thể có thể bị ảnh hưởng bởi các yếu tố khác như cơ sở vật chất, độ sạch sẽ, loại dược phẩm dùng và độ phức tạp của cuộc phẫu thuật.</MedicalSurgerySuccessChance.description>
+
+
+</LanguageData>

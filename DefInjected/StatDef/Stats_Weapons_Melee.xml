@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>sát thương cận chiến mỗi giây</MeleeWeapon_AverageDPS.label>
+  <!-- Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>Lượng sát thương trung bình mỗi giây bởi vũ khí này nếu tất cả các đòn đánh đều trúng đích.</MeleeWeapon_AverageDPS.description>
+
+  <!-- melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>chỉ số xuyên giáp cận chiến</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>Lượng xuyên giáp trung bình khi đánh cận chiến.</MeleeWeapon_AverageArmorPenetration.description>
+
+  <!-- melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>bội số sát thương cận chiến</MeleeWeapon_DamageMultiplier.label>
+  <!-- A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>Chỉ số sẽ áp dụng để tính lượng sát thương gây bởi vũ khí này.</MeleeWeapon_DamageMultiplier.description>
+
+
+  <!-- Damage multipliers should be stats on stuffs only-->
+
+  <!-- melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>tốc độ tấn công</MeleeWeapon_CooldownMultiplier.label>
+  <!-- A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>Thể hiện thời gian ngắt quãng giữa 2 đòn tấn công.</MeleeWeapon_CooldownMultiplier.description>
+
+  <!-- sharp damage -->
+  <SharpDamageMultiplier.label>sát thương mảnh</SharpDamageMultiplier.label>
+  <!-- A multiplier on damage from sharp-type attacks for weapons made of this material. -->
+  <SharpDamageMultiplier.description>Chỉ số thể hiện lượng sát thương mảnh mà vũ khí làm từ vật liệu này gây ra.</SharpDamageMultiplier.description>
+
+  <!-- blunt damage -->
+  <BluntDamageMultiplier.label>sát thương cùn</BluntDamageMultiplier.label>
+  <!-- A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>Chỉ số thể hiện lượng sát thương cùn/đập mà vũ khí làm từ vật liệu này gây ra.</BluntDamageMultiplier.description>
+
+
+</LanguageData>
