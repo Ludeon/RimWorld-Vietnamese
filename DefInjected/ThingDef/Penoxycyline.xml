@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- penoxycyline -->
-  <Penoxycyline.label>pê-nô-xi-lin</Penoxycyline.label>
-  <!-- A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
+  
+  <!-- EN: penoxycyline -->
+  <Penoxycyline.label>penoxycyline</Penoxycyline.label>
+  <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
   <Penoxycyline.description>Dùng để ngừa các loại dịch hay gặp như sốt rét, ngủ li bì, dịch hạch. Tái sử dụng sau mỗi 5 ngày.\n\nThuốc chỉ có tác dụng phòng bệnh, không có tác dụng chữa bệnh.</Penoxycyline.description>
-  <!-- Take {0} -->
+  <!-- EN: Take {0} -->
   <Penoxycyline.ingestible.ingestCommandString>Uống {0}</Penoxycyline.ingestible.ingestCommandString>
-  <!-- Taking {0}. -->
+  <!-- EN: Taking {0}. -->
   <Penoxycyline.ingestible.ingestReportString>Đang uống {0}</Penoxycyline.ingestible.ingestReportString>
-
-
+  
 </LanguageData>

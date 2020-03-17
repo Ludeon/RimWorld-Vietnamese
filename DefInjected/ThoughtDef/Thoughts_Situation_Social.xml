@@ -1,101 +1,121 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- affecting opinion -->
-
-  <!-- affair -->
-  <Affair.stages.0.label>cảm tình</Affair.stages.0.label>
-  <!-- incestuous -->
-  <Incestuous.stages.0.label>loạn luân</Incestuous.stages.0.label>
-  <!-- disfigured -->
-  <Disfigured.stages.0.label>ô uế thanh danh</Disfigured.stages.0.label>
-  <!-- hard worker vs lazy -->
-  <HardWorkerVsLazy.stages.0.label>siêng năng với lười biến</HardWorkerVsLazy.stages.0.label>
-  <!-- teetotaler vs chemical interest -->
-  <TeetotalerVsChemicalInterest.stages.0.label>kị và thích chất kích thích</TeetotalerVsChemicalInterest.stages.0.label>
-  <!-- teetotaler vs addict -->
-  <TeetotalerVsAddict.stages.0.label>kị và nghiền chất kích thích</TeetotalerVsAddict.stages.0.label>
-  <!-- chemical interest vs teetotaler -->
-  <ChemicalInterestVsTeetotaler.stages.0.label>thích và ghét chất kích thích</ChemicalInterestVsTeetotaler.stages.0.label>
-  <!-- drunk -->
-  <Drunk.stages.0.label>say xỉn</Drunk.stages.0.label>
-
-  <!-- pretty -->
-  <Pretty.stages.0.label>dễ thương</Pretty.stages.0.label>
-  <!-- beautiful -->
-  <Pretty.stages.1.label>xinh đẹp</Pretty.stages.1.label>
-
-  <!-- ugly -->
-  <Ugly.stages.0.label>xấu xí</Ugly.stages.0.label>
-  <!-- staggeringly ugly -->
-  <Ugly.stages.1.label>xấu dã man</Ugly.stages.1.label>
-
-  <!-- annoying voice -->
-  <AnnoyingVoice.stages.0.label>giọng nói phiền phức</AnnoyingVoice.stages.0.label>
-  <!-- creepy breathing -->
-  <CreepyBreathing.stages.0.label>hơi thở kinh dị</CreepyBreathing.stages.0.label>
-  <!-- man -->
-  <Man.stages.0.label>nam</Man.stages.0.label>
-  <!-- woman -->
-  <Woman.stages.0.label>nữ</Woman.stages.0.label>
-
-  <!-- transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.0.label>cải thiện cơ thể</TranshumanistAppreciation.stages.0.label>
-  <!-- transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.1.label>cải thiện cơ thể</TranshumanistAppreciation.stages.1.label>
-  <!-- transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.2.label>cải thiện cơ thể</TranshumanistAppreciation.stages.2.label>
-  <!-- transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.3.label>cải thiện cơ thể</TranshumanistAppreciation.stages.3.label>
-  <!-- transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.4.label>cải thiện cơ thể</TranshumanistAppreciation.stages.4.label>
-
-  <!-- body purist disgust -->
-  <BodyPuristDisgust.stages.0.label>kinh tởm thân thể trong trắng</BodyPuristDisgust.stages.0.label>
-  <!-- body purist disgust -->
-  <BodyPuristDisgust.stages.1.label>kinh tởm thân thể trong trắng</BodyPuristDisgust.stages.1.label>
-  <!-- body purist disgust -->
-  <BodyPuristDisgust.stages.2.label>kinh tởm thân thể trong trắng</BodyPuristDisgust.stages.2.label>
-  <!-- body purist disgust -->
-  <BodyPuristDisgust.stages.3.label>kinh tởm thân thể trong trắng</BodyPuristDisgust.stages.3.label>
-  <!-- body purist disgust -->
-  <BodyPuristDisgust.stages.4.label>kinh tởm thân thể trong trắng</BodyPuristDisgust.stages.4.label>
-
-  <!-- butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.0.label>chặt xác người</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-  <!-- ate raw humanlike meat -->
-  <AteRawHumanlikeMeat.stages.0.label>ăn thịt người sống</AteRawHumanlikeMeat.stages.0.label>
-  <!-- sold prisoner to slavery -->
-  <SoldPrisoner.stages.0.label>bán tù nhân làm nô lệ</SoldPrisoner.stages.0.label>
-  <!-- executed prisoner -->
-  <ExecutedPrisoner.stages.0.label>hành quyết tù nhân</ExecutedPrisoner.stages.0.label>
-  <!-- killed colonist -->
-  <KilledColonist.stages.0.label>giết chết thành viên khác</KilledColonist.stages.0.label>
-  <!-- killed colony animal -->
-  <KilledColonyAnimal.stages.0.label>giết thú nuôi của thị trấn</KilledColonyAnimal.stages.0.label>
-
-
-  <!-- affecting mood -->
-
-  <!-- opinion of my {0} {1} -->
-  <OpinionOfMyLover.stages.0.label>tình ý đối với {0} {1} của tôi</OpinionOfMyLover.stages.0.label>
-  <!-- Being with my lover makes me feel this way. -->
-  <OpinionOfMyLover.stages.0.description>Ở cạnh người mình yêu vui lắm.</OpinionOfMyLover.stages.0.description>
-
-  <!-- {0}'s master -->
-  <BondedAnimalMaster.stages.0.label>được là chủ của {0}</BondedAnimalMaster.stages.0.label>
-  <!-- Being together with my bonded animal makes me feel better. -->
-  <BondedAnimalMaster.stages.0.description>Được làm chủ nhân của con thú yêu dấu của mình thật tuyệt vời mà.</BondedAnimalMaster.stages.0.description>
-
-  <!-- not {0}'s master -->
-  <NotBondedAnimalMaster.stages.0.label>không đườn làm chủ của {0}</NotBondedAnimalMaster.stages.0.label>
-  <!-- I should be together with my bonded animal. -->
-  <NotBondedAnimalMaster.stages.0.description>Mình là chủ của thú yêu của mình mà!</NotBondedAnimalMaster.stages.0.description>
-
-  <!-- want to sleep with {0} -->
-  <WantToSleepWithSpouseOrLover.stages.0.label>muốn ngủ cùng {0}</WantToSleepWithSpouseOrLover.stages.0.label>
-  <!-- I don't like sleeping apart from my partner. -->
-  <WantToSleepWithSpouseOrLover.stages.0.description>Muốn ngủ cùng người thương cơ!</WantToSleepWithSpouseOrLover.stages.0.description>
-
-
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>ngoại tình</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>giọng nói khó ưa</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>ăn sống thịt người</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>cơ thể ghê tởm</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>ơ thể ghê tởm</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>ơ thể ghê tởm</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>ơ thể ghê tởm</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>ơ thể ghê tởm</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>chủ nhân của {0}</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Ở cùng với động vật thuần hóa của tôi làm cho tôi cảm thấy tốt hơn.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>master of {0}</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>Being together with my bonded animals makes me feel better.</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>chặt xác người</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>hóa chất vs không hóa chất</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>hơi thở đáng sợ</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>ô nhục</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>say rựu</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>tử hình tù nhân</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>chăm chỉ vs lười biếng</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: holding me prisoner -->
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>TODO</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>loạn luân</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>cư dân bị giết</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>thú nuôi bị giết</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>đàn ông</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>không phải chủ nhân của {0}</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>Tôi nên ở cùng với động vật thuần hóa của tôi.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>not master of {0}</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>I should be together with my bonded animals.</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>cảm nhận của tôi về {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with my lover makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Ở bên người yêu khiến tôi cảm thấy như vậy đó.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: physically appealing -->
+  <Pretty.stages.physically_appealing.label>TODO</Pretty.stages.physically_appealing.label>
+  <!-- EN: physically stunning -->
+  <Pretty.stages.physically_stunning.label>TODO</Pretty.stages.physically_stunning.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>bán tù nhân thành nô lệ</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>không uống rựu vs nghiện rựu</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>không hóa chất vs hóa chất</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>phê bình cơ thể máy móc</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>phê bình cơ thể máy móc</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>phê bình cơ thể máy móc</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>phê bình cơ thể máy móc</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>phê bình cơ thể máy móc</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  
+  <!-- EN: physically unsightly -->
+  <Ugly.stages.physically_unsightly.label>TODO</Ugly.stages.physically_unsightly.label>
+  <!-- EN: physically hideous -->
+  <Ugly.stages.physically_hideous.label>TODO</Ugly.stages.physically_hideous.label>
+  
+  <!-- EN: want to sleep with {0} -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>muốn ngủ cùng với {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <!-- EN: I don't like sleeping apart from my partner. -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Tôi không thích ngủ xa người bạn đời của mình.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>phụ nữ</Woman.stages.woman.label>
+  
 </LanguageData>

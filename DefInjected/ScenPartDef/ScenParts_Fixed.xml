@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Player faction -->
-  <PlayerFaction.label>Băng nhóm của người chơi</PlayerFaction.label>
-  <!-- starting people -->
-  <ConfigPage_ConfigureStartingPawns.label>người dân khởi đầu</ConfigPage_ConfigureStartingPawns.label>
-  <!-- arrival method -->
-  <PlayerPawnsArriveMethod.label>cách đến</PlayerPawnsArriveMethod.label>
-
-
+  
+  <!-- EN: starting people -->
+  <ConfigPage_ConfigureStartingPawns.label>người bắt đầu</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>Phe người chơi</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
+  <PlayerPawnsArriveMethod.label>phương thức đến</PlayerPawnsArriveMethod.label>
+  
 </LanguageData>

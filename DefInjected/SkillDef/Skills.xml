@@ -1,65 +1,88 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>Khả năng sử dụng vũ khí công nghệ cao và thấp.</Shooting.description>
-  <!-- shooting -->
-  <Shooting.skillLabel>viễn chiến</Shooting.skillLabel>
-
-  <!-- Melee combat, both armed and unarmed. -->
-  <Melee.description>Khả năng cận chiến (tay không hoặc có vũ khí).</Melee.description>
-  <!-- melee -->
-  <Melee.skillLabel>cận chiến</Melee.skillLabel>
-
-  <!-- Constructing and deconstructing structures and furniture. -->
-  <Construction.description>Khả năng xây dựng và đập bỏ công trình và nội thất.</Construction.description>
-  <!-- construction -->
+  
+  <!-- EN: animals -->
+  <Animals.label>luyện thú</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Thuần hóa, huấn luyện và kiểm soát động vật.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>luyện thú</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>nghệ thuật</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Nghệ thuật chế tác.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>nghệ thuật</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>xây dựng</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Xây dựng và phân giải cấu trúc và đồ nội thất.</Construction.description>
+  <!-- EN: construction -->
   <Construction.skillLabel>xây dựng</Construction.skillLabel>
-
-  <!-- Digging tunnels and extracting buried resources. -->
-  <Mining.description>Khả năng đào hầm và khai thác tài nguyên.</Mining.description>
-  <!-- mining -->
-  <Mining.skillLabel>đào mỏ</Mining.skillLabel>
-
-  <!-- Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Khả năng nấu nguyên liệu thô sơ thành thức ăn.</Cooking.description>
-  <!-- cooking -->
-  <Cooking.skillLabel>nấu nướng</Cooking.skillLabel>
-
-  <!-- Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>Khả năng trồng trọt, thu hoạch cây trồng và hái lượm thức ăn nếu là thành viên của đoàn lữ hành.</Plants.description>
-  <!-- plants -->
-  <Plants.skillLabel>trồng trọt</Plants.skillLabel>
-
-  <!-- Taming, training, and controlling animals. -->
-  <Animals.description>Khả năng thuần hóa, huấn luyện và điều khiển động vật.</Animals.description>
-  <!-- animals -->
-  <Animals.skillLabel>nuôi thú</Animals.skillLabel>
-
-  <!-- Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>Khả năng làm ra trang phục, vũ khí, linh kiện và tinh chế tài nguyên.</Crafting.description>
-  <!-- crafting -->
+  
+  <!-- EN: cooking -->
+  <Cooking.label>nấu ăn</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Tạo bữa ăn từ nguyên liệu thô nhanh chóng và không bị ngộ độc thực phẩm.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>nấu ăn</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>chế tạo</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Chế tạo các vật phẩm nói chung bao gồm vũ khí, linh kiện và tài nguyên tinh chế.</Crafting.description>
+  <!-- EN: crafting -->
   <Crafting.skillLabel>chế tạo</Crafting.skillLabel>
-
-  <!-- Crafting art. -->
-  <Artistic.description>Kĩ năng chế tác tượng.</Artistic.description>
-  <!-- artistic -->
-  <Artistic.skillLabel>hội họa</Artistic.skillLabel>
-
-  <!-- Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>Khả năng trị thương, chữa bệnh và thực hiện phẫu thuật y tế.</Medicine.description>
-  <!-- medical -->
-  <Medicine.skillLabel>y tế</Medicine.skillLabel>
-
-  <!-- Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>Khả năng đàm phán, trao đổi, dẫn dắt và điểm sáng cho người khác.</Social.description>
-  <!-- social -->
-  <Social.skillLabel>xã hội</Social.skillLabel>
-
-  <!-- Researching and drug synthesis. -->
-  <Intellectual.description>Khả năng thực hiện các nghiên cứu khoa học.</Intellectual.description>
-  <!-- intellectual -->
-  <Intellectual.skillLabel>khoa học</Intellectual.skillLabel>
-
-
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>trí tuệ</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Nghiên cứu và tổng hợp thuốc.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>trí tuệ</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>y học</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Chăm sóc vết thương và bệnh và thực hiện phẫu thuật.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>y học</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>cận chiến</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Chiến đấu cận chiến, cả vũ trang và không vũ trang.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>cận chiến</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>đào mỏ</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Đào đường hầm và khai thác tài nguyên bị chôn vùi.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>đào mỏ</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>trồng trọt</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Gieo hạt, chăm sóc và thu hoạch mùa màng, và kiếm thức ăn khi đi du lịch.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>trồng trọt</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>bắn súng</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Chiến đấu tầm xa, với cả vũ khí công nghệ cao và công nghệ thấp.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>bắn súng</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>giao tiếp</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Đàm phán, thuyết phục, thao túng, lãnh đạo và cổ vũ người khác.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>giao tiếp</Social.skillLabel>
+  
 </LanguageData>

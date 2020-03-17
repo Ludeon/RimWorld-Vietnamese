@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- skin -->
-  <OnSkin.label>trong</OnSkin.label>
-  <!-- middle -->
-  <Middle.label>giữa</Middle.label>
-  <!-- outer -->
-  <Shell.label>ngoài</Shell.label>
-  <!-- belt -->
+  
+  <!-- EN: belt -->
   <Belt.label>thắt lưng</Belt.label>
-  <!-- headgear -->
-  <Overhead.label>mũ</Overhead.label>
-
+  
+  <!-- EN: middle -->
+  <Middle.label>lớp giữa</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>lớp lót</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>mũ đội đầu</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>lớp ngoài</Shell.label>
+  
 </LanguageData>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alerts -->
+  <Alerts.label>Cảnh báo</Alerts.label>
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
+  <Alerts.helpText>Các cảnh báo ở cạnh phải của màn hình cho bạn biết về các vấn đề cần chú ý của bạn. \n\nHãy chú ý đến các cảnh báo.</Alerts.helpText>
+  
+  <!-- EN: Allowed areas -->
+  <AllowedAreas.label>Khu vực được phép</AllowedAreas.label>
+  <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
+  <AllowedAreas.helpText>Người dân thuộc địa và động vật thuộc địa có thể được chỉ định cho CÁC VÙNG ĐƯỢC PHÉP. Điều này cấm họ đi các điểm đến bên ngoài khu vực được phép của họ. \n\nĐiều này có thể được sử dụng, ví dụ, cấm thực dân đi ra ngoài. \n\nBạn có thể tạo nhiều khu vực được phép và gán chúng cho các thuộc địa và động vật khác nhau. \n\nTạo, xóa và chỉ định các khu vực được phép trong tab RESTRICT. \n\nLàm mờ các khu vực được phép trên bản đồ bằng cách sử dụng các chỉ định KHU VỰC DUY NHẤT VÀ KHU VỰC DỄ DÀNG trong tab Kiến trúc sư.</AllowedAreas.helpText>
+  
+  <!-- EN: Animal taming -->
+  <AnimalTaming.label>Động vật thuần hóa</AnimalTaming.label>
+  <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
+  <AnimalTaming.helpText>Bạn có thể chỉ định những cư dân thuần hóa một động vật hoang dã bằng công cụ chỉ định TAME. \n\nColonists sẽ cung cấp thức ăn cho động vật và cố gắng thuần hóa nó. \n\nChú ý: Một số động vật có thể phản ứng dữ dội với những nỗ lực thuần hóa thất bại.</AnimalTaming.helpText>
+  
+  <!-- EN: Animal training -->
+  <AnimalTraining.label>Huấn luyện động vật</AnimalTraining.label>
+  <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
+  <AnimalTraining.helpText>Bạn có thể chỉ định một con vật thuần hóa được huấn luyện các kỹ năng cụ thể trên tab ĐÀO TẠO của nó. \n\nKhông thể đào tạo liên tục; họ cần thời gian giữa các buổi đào tạo.</AnimalTraining.helpText>
+  
+  <!-- EN: Camera dolly -->
+  <CameraDolly.label>Camera dolly</CameraDolly.label>
+  <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
+  <CameraDolly.helpText>Di chuyển máy ảnh bằng cách nhấp và kéo MOUSE BUTTON 3 (nút giữa) hoặc bằng các phím {Key:MapDolly_Up} - {Key:MapDolly_Left} - {Key:MapDolly_Down} - {Key:MapDolly_Right}.</CameraDolly.helpText>
+  
+  <!-- EN: Camera zoom -->
+  <CameraZoom.label>Camera zoom</CameraZoom.label>
+  <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
+  <CameraZoom.helpText>Phóng to và thu nhỏ bằng các phím MOUSEWHEEL hoặc các phím {Key:MapZoom_In} và {Key:MapZoom_Out}.</CameraZoom.helpText>
+  
+  <!-- EN: Clicking messages -->
+  <ClickingMessages.label>Bấm tin nhắn</ClickingMessages.label>
+  <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
+  <ClickingMessages.helpText>Bạn có thể nhấp vào các thông báo ở góc trên bên trái màn hình để ngay lập tức đặt camera ở giữa đối tượng.</ClickingMessages.helpText>
+  
+  <!-- EN: Cover and shooting -->
+  <CoverAndShooting.label>Nấp và bắn</CoverAndShooting.label>
+  <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
+  <CoverAndShooting.helpText>Điều quan trọng nhất cần làm trong chiến đấu tầm xa là biết ẩn nấp. \n\nNấp chỉ hoạt động nếu thực dân của bạn chạm vào nó, và nó nằm giữa thực dân của bạn và kẻ thù. \n\nBạn cũng có thể đặt thực dân phía sau các góc tường. Họ sẽ nghiêng ra để bắn. \n\nHầu hết mọi thứ có thể được sử dụng làm chỗ nấp, nhưng một số thứ tốt hơn những thứ khác. Ẩn nấp đằng sau một cái cây tốt hơn là không có gì, nhưng ẩn nấp đằng sau bao cát tốt hơn là cái cây.</CoverAndShooting.helpText>
+  
+  <!-- EN: Item deterioration -->
+  <Deterioration.label>Vật phẩm xuống cấp</Deterioration.label>
+  <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
+  <Deterioration.helpText>Các vật dụng để ngoài trời sẽ dần xuống cấp. \n\nNếu bạn muốn lưu trữ các vật phẩm lâu dài, hãy giữ chúng trong một căn phòng có mái che.</Deterioration.helpText>
+  
+  <!-- EN: Equipping weapons -->
+  <EquippingWeapons.label>Trang bị vũ khí</EquippingWeapons.label>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
+  <EquippingWeapons.helpText>Thực dân của bạn đã đến với một số vũ khí. Trang bị cho họ! \n\nChọn từng thuộc địa và nhấp chuột phải vào vũ khí bạn muốn họ trang bị.</EquippingWeapons.helpText>
+  
+  <!-- EN: Fire preparation -->
+  <FirePreparation.label>Chuẩn bị chữa cháy</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>Hỏa hoạn có thể dễ dàng đốt cháy một thuộc địa. Để đánh bại họ, bạn phải chuẩn bị trước khi chúng xảy ra.\n\nNhững yếu tố thiết kế này có thể giúp giảm thiệt hại từ các đám cháy:\n\n1. Thay vì xây dựng một siêu tòa nhà, hãy xây dựng các tòa nhà riêng biệt với không gian ở giữa.\n\n2. Sử dụng vật liệu ít bắt lửa. Gỗ rẻ và nhanh - nhưng rất dễ cháy.\n\n3. Xây dựng các ngọn lửa để ngăn chặn các vụ cháy rừng tiếp cận căn cứ của bạn. Một dải sàn bê tông rộng 3 hoặc 4 ô thường sẽ ngăn chặn đám cháy tiến lên.</FirePreparation.helpText>
+  
+  <!-- EN: Forbid and allow -->
+  <Forbidding.label>Cấm và cho phép</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
+  <Forbidding.helpText>Các thuộc địa sẽ không tương tác với các mục được đánh dấu ngăn cấm. \n\nCác mục bị cấm có dấu X nhỏ màu đỏ được đính kèm. Chọn một mục bị cấm và sử dụng các điều khiển ở phía dưới để DÙNG nó.</Forbidding.helpText>
+  
+  <!-- EN: Forbidding doors -->
+  <ForbiddingDoors.label>Cấm cửa</ForbiddingDoors.label>
+  <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
+  <ForbiddingDoors.helpText>Bạn có thể Cấm cửa cửa để cư dân và động vật thuần hóa sẽ không đi qua chúng. \n\nLưu ý rằng đây không phải là khóa cửa. Cửa luôn bị khóa, vì vậy kẻ thù không thể tự do đi qua. Cấm chỉ đạo thực dân của bạn không sử dụng cửa. Những cư dân đang phát điên có thể sử dụng cửa.</ForbiddingDoors.helpText>
+  
+  <!-- EN: Forming caravans -->
+  <FormCaravan.label>Hình thành các đoàn lữ hành</FormCaravan.label>
+  <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
+  <FormCaravan.helpText>Bạn có thể tạo một đoàn lữ hành để gửi các nhóm người đi du lịch trên khắp hành tinh! \n\nTrong tab WORLD, chọn cơ sở nhà của bạn và nhấp vào nút "biểu mẫu caravan".</FormCaravan.helpText>
+  
+  <!-- EN: Friendly fire safety -->
+  <FriendlyFireSafety.label>An toàn phòng cháy chữa cháy</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <FriendlyFireSafety.helpText>Hỏa lực thân thiện không bao giờ xảy ra nếu người bắn gần với đồng minh của họ. \n\nVí dụ, bạn có thể đặt một thực dân cầm kiếm một cách an toàn ngay trước mặt người cầm súng. Người bắn sẽ bắn vào vai bạn mình. \n\nĐây là một cách hay để kết hợp máy bay chiến đấu tầm xa và cận chiến.</FriendlyFireSafety.helpText>
+  
+  <!-- EN: Getting more traders -->
+  <GettingMoreTraders.label>Nhận nhiều thương nhân hơn</GettingMoreTraders.label>
+  <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
+  <GettingMoreTraders.helpText>Nhiều đoàn lữ hành sẽ đến thăm bạn nếu bạn liên minh với nhiều phe phái hơn. \n\nNếu bạn không có đồng minh, sẽ không có đoàn lữ hành nào ghé thăm! \n\nBạn cũng có thể trả tiền cho các đồng minh để gửi đoàn lữ hành từ bàn điều khiển.</GettingMoreTraders.helpText>
+  
+  <!-- EN: Growing zones -->
+  <GrowingFood.label>Vùng trồng</GrowingFood.label>
+  <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
+  <GrowingFood.helpText>Để trồng thực phẩm, hãy đặt các khu vực TĂNG TRƯỞNG bằng menu Kiến trúc sư. \n\nChúng chỉ có thể được đặt trên mảnh đất màu mỡ.</GrowingFood.helpText>
+  
+  <!-- EN: History tab -->
+  <HistoryTab.label>Tab lịch sử</HistoryTab.label>
+  <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
+  <HistoryTab.helpText>Bạn có thể thấy một bản ghi về vận may của thuộc địa của bạn theo thời gian trong tab LỊCH SỬ ở cuối màn hình.</HistoryTab.helpText>
+  
+  <!-- EN: Home area -->
+  <HomeArea.label>Khu vực nhà</HomeArea.label>
+  <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
+  <HomeArea.helpText>KHU VỰC NHÀ cho các thuộc địa của bạn biết khu vực nào cần làm sạch và nơi để dập tắt đám cháy. \n\nXác định KHU VỰC HOME với danh mục Khu vực trong menu Kiến trúc sư</HomeArea.helpText>
+  
+  <!-- EN: Hostility response modes -->
+  <HostilityResponse.label>Chế độ phản ứng thù địch</HostilityResponse.label>
+  <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
+  <HostilityResponse.helpText>Bạn có thể định cấu hình cách cư dân tự động đối phó với các mối đe dọa như động vật săn mồi. \n\nChọn từ các chế độ FLEE, ATTACK và IGNORE trong menu ASSIGN.</HostilityResponse.helpText>
+  
+  <!-- EN: Info card -->
+  <InfoCard.label>Thẻ thông tin</InfoCard.label>
+  <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
+  <InfoCard.helpText>Thẻ thông tin hiển thị cho bạn số liệu thống kê chi tiết về bất kỳ mục, người hoặc công trình nào. \n\nChọn một người hoặc vật phẩm và mở thẻ thông tin của họ bằng nút 'i' trên khung kiểm tra.</InfoCard.helpText>
+  
+  <!-- EN: Room stats inspector -->
+  <InspectRoomStats.label>Kiểm soát chỉ số phòng</InspectRoomStats.label>
+  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
+  <InspectRoomStats.helpText>Bạn có thể kiểm tra mức độ ấn tượng, sự giàu có và vẻ đẹp của từng phòng bằng cách sử dụng chuyển đổi ROOM STATS INSPECT ở phía dưới bên phải.</InspectRoomStats.helpText>
+  
+  <!-- EN: Manual work priorities -->
+  <ManualWorkPriorities.label>Ưu tiên công việc thủ công</ManualWorkPriorities.label>
+  <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
+  <ManualWorkPriorities.helpText>Một trong những phần quan trọng nhất của RimWorld là chọn cài đặt công việc tốt cho cư dân của bạn. \n\nCài đặt công việc bên ngoài có thể khiến công việc thiết yếu bị bỏ dở trong một thời gian dài trong khi thực dân lãng phí thời gian cho các nhiệm vụ không quan trọng. \n\nĐể kiểm soát nhiều hơn công việc nào thực dân làm, bạn có thể sử dụng chế độ Ưu tiên thủ công trong tab CÔNG VIỆC. \n\nTrong chế độ này, mỗi thuộc địa có một số ưu tiên cho từng loại công việc. cư dân sẽ thực hiện công việc ưu tiên 1 từ trái sang phải, sau đó ưu tiên 2 làm việc từ trái sang phải, v.v. \n\nViệc sử dụng thông minh các cài đặt này là rất cần thiết cho một thuộc địa lớn, tự động hóa tốt.</ManualWorkPriorities.helpText>
+  
+  <!-- EN: Medical operations -->
+  <MedicalOperations.label>Hoạt động y tế</MedicalOperations.label>
+  <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
+  <MedicalOperations.helpText>Để chỉ định một hoạt động y tế, như thu hoạch nội tạng hoặc lắp đặt bộ phận giả, hãy mở tab SỨC KHỎE của thực dân, sau đó chuyển sang tab phụ HOẠT ĐỘNG.</MedicalOperations.helpText>
+  
+  <!-- EN: Mining -->
+  <Mining.label>Khai thác mỏ</Mining.label>
+  <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
+  <Mining.helpText>Bạn có thể chỉ định nơi khai thác bằng cách mở menu KIẾN TRÚC và chọn tab ĐƠN HÀNG. \n\nMột số khối có thể khai thác mang lại THÉP, VÀNG, NHỰA và các vật liệu hữu ích khác.</Mining.helpText>
+  
+  <!-- EN: Outfits -->
+  <Outfits.label>Trang phục</Outfits.label>
+  <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
+  <Outfits.helpText>cư dân sẽ tự động thử mặc trang phục mới nhất, chất lượng cao nhất có thể. \n\nBạn không cần phải tự gán từng bộ trang phục cho cư dân (mặc dù bạn có thể, nếu bạn muốn). \n\nĐể chỉ định hạn chế của cư dân về cách ăn mặc, mở tab ASSIGN, sử dụng hộp thoại "Quản lý trang phục" để thiết kế trang phục mới, sau đó gán trang phục cho thực dân.</Outfits.helpText>
+  
+  <!-- EN: Pausing -->
+  <Pause.label>Tạm dừng</Pause.label>
+  <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
+  <Pause.helpText>Nhấn {Key:TogglePause} để tạm dừng hoặc bỏ tạm dừng trò chơi. \n\nBạn có thể ra lệnh trong khi tạm dừng. \n\nHãy nhớ điều này - nếu mọi thứ trở nên sôi nổi, chỉ cần nhấn {Key:TogglePause}!</Pause.helpText>
+  
+  <!-- EN: Shot accuracy tooltip -->
+  <ShotAccuracyTooltip.label>Tooltip bắn chính xác</ShotAccuracyTooltip.label>
+  <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
+  <ShotAccuracyTooltip.helpText>Bạn có thể xem các tính toán chính xác đằng sau độ chính xác của bất kỳ phát bắn nào. \n\nĐể làm như vậy, hãy chọn người bắn, sau đó đặt chuột lên mục tiêu. Chú giải công cụ sẽ hiển thị cơ hội để đánh và phân tích sự đóng góp của nhiều hệ số nhân cơ hội để đạt được.</ShotAccuracyTooltip.helpText>
+  
+  <!-- EN: Spoilage and freezers -->
+  <SpoilageAndFreezers.label>Hư hỏng và đông lạnh</SpoilageAndFreezers.label>
+  <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
+  <SpoilageAndFreezers.helpText>Hầu hết các loại thực phẩm sẽ bị hỏng sau một thời gian tương đối ngắn. \n\nĐể ngăn chặn điều này, bạn có thể xây dựng một tủ đông không cửa. \n\nĐể xây dựng một tủ đông, xây một phòng kín và đặt một hoặc hai máy làm mát vào tường. Đặt bộ làm mát đến nhiệt độ mục tiêu âm. \n\nThực phẩm đông lạnh sẽ không bao giờ bị hỏng.</SpoilageAndFreezers.helpText>
+  
+  <!-- EN: Stockpiles -->
+  <Stockpiles.label>Dự trữ</Stockpiles.label>
+  <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
+  <Stockpiles.helpText>Thực dân của bạn cần một nơi nào đó để lưu trữ các mặt hàng. Chỉ định một CỔ PHẦN cho họ để lưu trữ mọi thứ. \n\nTìm kho dự trữ trong phần KHU của menu KIẾN TRÚC ở phía dưới bên trái.</Stockpiles.helpText>
+  
+  <!-- EN: Storage tab -->
+  <StorageTab.label>Lưu trữ</StorageTab.label>
+  <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
+  <StorageTab.helpText>Bạn có thể định cấu hình kho lưu trữ và tòa nhà lưu trữ bằng cách chọn chúng và mở TOR BẢO QUẢN phía trên ngăn thanh tra phía dưới bên trái. \n\nTrong tab lưu trữ của kho, bạn có thể mở rộng các danh mục để cho phép hoặc từ chối các mục cụ thể. Nhấp vào hình tam giác ở bên trái của tên danh mục. \n\nBạn có thể thay đổi ƯU TIÊN của bộ nhớ. Các thuộc địa sẽ điền vào bộ lưu trữ ưu tiên cao hơn trước và chuyển các mục từ mức ưu tiên thấp hơn sang mức ưu tiên cao hơn.</StorageTab.helpText>
+  
+  <!-- EN: Time assignments -->
+  <TimeAssignments.label>Quản lý thời gian</TimeAssignments.label>
+  <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
+  <TimeAssignments.helpText>Bạn có thể sửa đổi thời gian trong ngày cư dân nên thực hiện các hoạt động khác nhau bằng cách sử dụng tab RESTRICT.</TimeAssignments.helpText>
+  
+  <!-- EN: Time controls -->
+  <TimeControls.label>Kiểm soát thời gian</TimeControls.label>
+  <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.helpText>Bạn có thể tăng tốc thời gian. \n\nHãy thử kiểm soát thời gian bằng các phím {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} và {Key:TimeSpeed_Superfast} hoặc với các nút điều khiển thời gian ở dưới cùng bên phải.</TimeControls.helpText>
+  
+  <!-- EN: Work settings -->
+  <WorkTab.label>Cài đặt công việc</WorkTab.label>
+  <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
+  <WorkTab.helpText>Bạn có thể đặt cài đặt công việc của từng thuộc địa trong tab WORK ở phía dưới bên trái màn hình. \n\nHọ sẽ luôn thực hiện công việc ưu tiên cao nhất mà họ có thể tìm thấy. \n\nNếu không ai có loại công việc nhất định được chỉ định hoặc nếu họ đang bận rộn với các nhiệm vụ ưu tiên cao hơn, nó sẽ không bao giờ được thực hiện.</WorkTab.helpText>
+  
+</LanguageData>

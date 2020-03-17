@@ -1,71 +1,70 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- deer -->
-  <Deer.label>nai</Deer.label>
-  <!-- A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. Being very docile by nature, deer don't attack even if harmed. -->
-  <Deer.description>Loài thú ăn cỏ cỡ vừa thích sống ở khu rừng hỗn hợp và thảo nguyên. Nai có chạy rất nhanh, bản tính tự nhiên rất nhát và chỉ bỏ chạy khi bị tấn công.</Deer.description>
-  <!-- venison -->
-  <Deer.race.meatLabel>thịt nai</Deer.race.meatLabel>
-  <!-- left hoof -->
-  <Deer.tools.0.label>sừng trái</Deer.tools.0.label>
-  <!-- right hoof -->
-  <Deer.tools.1.label>sừng phải</Deer.tools.1.label>
-  <!-- teeth -->
-  <Deer.tools.2.label>răng</Deer.tools.2.label>
-  <!-- head -->
-  <Deer.tools.3.label>đầu</Deer.tools.3.label>
-
-  <!-- ibex -->
-  <Ibex.label>linh dương</Ibex.label>
-  <!-- The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>Thủy tổ còn sống ngoài tự nhiên của loài dê nhà, linh dương sống ở khu vực mà không một loài linh dương nào khác có thể sống, ăn địa y và cỏ mọc trên núi. Linh dương có khả năng nhảy lên bậc núi cao dựng đứng và cú húc trực diện khiến nhiều con thú săn mồi phải sợ hãi.</Ibex.description>
-  <!-- left hoof -->
-  <Ibex.tools.0.label>sừng trái</Ibex.tools.0.label>
-  <!-- right hoof -->
-  <Ibex.tools.1.label>sừng phải</Ibex.tools.1.label>
-  <!-- head -->
-  <Ibex.tools.3.label>đầu</Ibex.tools.3.label>
-
-  <!-- elk -->
-  <Elk.label>nai sừng tấm</Elk.label>
-  <!-- A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>Một chi lớn của loài nai đã thích nghi với điều kiện sống khắc nghiệt ở vùng hàn đới. Nai sừng tấm khi được thuần chủng có thể nuôi để thu hoạch sữa nhưng không thể dùng làm thú thồ hàng được.</Elk.description>
-  <!-- left hoof -->
-  <Elk.tools.0.label>sừng trái</Elk.tools.0.label>
-  <!-- right hoof -->
-  <Elk.tools.1.label>sừng phải</Elk.tools.1.label>
-  <!-- head -->
-  <Elk.tools.3.label>đầu</Elk.tools.3.label>
-
-  <!-- caribou -->
+  
+  <!-- EN: caribou -->
   <Caribou.label>tuần lộc</Caribou.label>
-  <!-- A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
   <Caribou.description>Một chi lớn tiến hóa từ loài nai để thích ứng với cuộc sống băng giá khắc nghiệt. Tuần lộc thuần chủng có thể thu hoạch sữa nhưng không thể làm thú thồ hàng được.</Caribou.description>
-  <!-- left hoof -->
-  <Caribou.tools.0.label>sừng trái</Caribou.tools.0.label>
-  <!-- right hoof -->
-  <Caribou.tools.1.label>sừng phải</Caribou.tools.1.label>
-  <!-- head -->
-  <Caribou.tools.3.label>đầu</Caribou.tools.3.label>
-
-  <!-- wild boar -->
-  <WildBoar.label>lợn rừng</WildBoar.label>
-  <!-- This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>Loài động vật ăn tạp tiến hóa từ loài lợn nhà đi lạc mà thành.\n\nCặp sừng của nó khiến nó có khả năng cận chiến mạnh hơn nhiều so với lơn nhà. Tuy nhiên, vì lợn rừng rất hiếu động nên có thể huấn luyện nó làm được nhiều nhiệm vụ phức tạp khác.</WildBoar.description>
-  <!-- tusk -->
-  <WildBoar.tools.0.label>sừng</WildBoar.tools.0.label>
-  <!-- head -->
-  <WildBoar.tools.2.label>đầu</WildBoar.tools.2.label>
-
-  <!-- tortoise -->
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>sừng trái</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>sừng phải</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>đầu</Caribou.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>nai</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Loài thú ăn cỏ cỡ vừa thích sống ở khu rừng hỗn hợp và thảo nguyên. Nai có chạy rất nhanh, bản tính tự nhiên rất nhát và chỉ bỏ chạy khi bị tấn công.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>thịt nai</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>sừng trái</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>sừng phải</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>răng</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>đầu</Deer.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>nai sừng tấm</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Một chi lớn của loài nai đã thích nghi với điều kiện sống khắc nghiệt ở vùng hàn đới. Nai sừng tấm khi được thuần chủng có thể nuôi để thu hoạch sữa nhưng không thể dùng làm thú thồ hàng được.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>sừng trái</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>sừng phải</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>đầu</Elk.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>linh dương</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Thủy tổ còn sống ngoài tự nhiên của loài dê nhà, linh dương sống ở khu vực mà không một loài linh dương nào khác có thể sống, ăn địa y và cỏ mọc trên núi. Linh dương có khả năng nhảy lên bậc núi cao dựng đứng và cú húc trực diện khiến nhiều con thú săn mồi phải sợ hãi.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>sừng trái</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>sừng phải</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>đầu</Ibex.tools.head.label>
+  
+  <!-- EN: tortoise -->
   <Tortoise.label>rùa</Tortoise.label>
-  <!-- This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>Loài rùa với chiếc mai cứng như đá, tốc độ di chuyển như rùa bò và những cú cắn chính xác . Vì chiếc mai cứng như thép của mình mà rùa rất khó để bị tiêu diệt.</Tortoise.description>
-  <!-- beak -->
-  <Tortoise.tools.0.label>mỏ</Tortoise.tools.0.label>
-  <!-- head -->
-  <Tortoise.tools.1.label>đầu</Tortoise.tools.1.label>
-
-
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>mỏ</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>đầu</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>lợn rừng</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Loài động vật ăn tạp tiến hóa từ loài lợn nhà đi lạc mà thành.\n\nCặp sừng của nó khiến nó có khả năng cận chiến mạnh hơn nhiều so với lơn nhà. Tuy nhiên, vì lợn rừng rất hiếu động nên có thể huấn luyện nó làm được nhiều nhiệm vụ phức tạp khác.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>sừng</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>đầu</WildBoar.tools.head.label>
+  
 </LanguageData>

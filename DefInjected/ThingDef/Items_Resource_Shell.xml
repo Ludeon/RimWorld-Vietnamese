@@ -1,54 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- High-explosive -->
-
-  <!-- high-explosive shell -->
-  <Shell_HighExplosive.label>pháo nổ mảnh</Shell_HighExplosive.label>
-  <!-- A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_HighExplosive.description>Viên pháo được nhồi đầy thuốc nổ mạnh. Dùng làm đạn súng cối hoặc làm bẫy. Nổ khi bị hư hại.</Shell_HighExplosive.description>
-  <!-- high-explosive shell -->
-  <Bullet_Shell_HighExplosive.label>pháo nổ mảnh</Bullet_Shell_HighExplosive.label>
-
-
-  <!-- Incendiary -->
-
-  <!-- incendiary shell -->
-  <Shell_Incendiary.label>pháo cháy</Shell_Incendiary.label>
-  <!-- A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_Incendiary.description>Viên pháo chứa lượng nhỏ thuốc nổ và lượng lớn chất dễ cháy. Gây cháy diện rộng khi nổ. Có thể làm đạn súng cối hoặc đặt làm bẫy. Nổ khi bị hư hại.</Shell_Incendiary.description>
-  <!-- incendiary shell -->
-  <Bullet_Shell_Incendiary.label>pháo cháy</Bullet_Shell_Incendiary.label>
-
-
-  <!-- EMP -->
-
-  <!-- EMP shell -->
-  <Shell_EMP.label>pháo từ</Shell_EMP.label>
-  <!-- A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_EMP.description>Viên đạn chứa nhiều pin cùng ăn-ten dùng để tạo ra xung điện từ khi kích nổ. Xung điện từ sẽ tạm thời vô hiệu hóa các thiết bị điện và làm tê liệt mechanoid. Có thể dùng làm đạn súng cối hoặc cài làm bẫy. Nổ khi bị hư hại.</Shell_EMP.description>
-  <!-- EMP shell -->
-  <Bullet_Shell_EMP.label>pháo từ</Bullet_Shell_EMP.label>
-
-
-  <!-- Firefoam -->
-
-  <!-- firefoam shell -->
-  <Shell_Firefoam.label>pháo chữa cháy</Shell_Firefoam.label>
-  <!-- A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_Firefoam.description>Viên pháo chứa hỗn hợp chữa cháy nén. Có thể dùng làm đạn súng cối hoặc đặt làm bẫy. Nổ khi bị hư hại.</Shell_Firefoam.description>
-  <!-- firefoam shell -->
-  <Bullet_Shell_Firefoam.label>pháo chữa cháy</Bullet_Shell_Firefoam.label>
-
-
-  <!-- Antigrain warhead -->
-
-  <!-- antigrain warhead -->
-  <Shell_AntigrainWarhead.label>đầu đạn hạt nhân</Shell_AntigrainWarhead.label>
-  <!-- An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_AntigrainWarhead.description>Đầu đạn chứa vật liệu phản vật chất dùng bởi phi thuyền hoặc cỗ máy chiến tranh trong vũ trụ. Khi phát nổ, nó tạo ra một vụ nổ cực lớn và gây cháy xung quanh mục tiêu. Có thể dùng làm đạn súng cối hoặc cài làm bẫy. Nổ khi bị hư hại.</Shell_AntigrainWarhead.description>
-  <!-- antigrain warhead -->
+  
+  <!-- EN: antigrain warhead -->
   <Bullet_Shell_AntigrainWarhead.label>đầu đạn hạt nhân</Bullet_Shell_AntigrainWarhead.label>
-
-
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>pháo từ</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>pháo chữa cháy</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>pháo nổ mảnh</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>pháo cháy</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>đầu đạn hạt nhân</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>Đầu đạn chứa vật liệu phản vật chất dùng bởi phi thuyền hoặc cỗ máy chiến tranh trong vũ trụ. Khi phát nổ, nó tạo ra một vụ nổ cực lớn và gây cháy xung quanh mục tiêu. Có thể dùng làm đạn súng cối hoặc cài làm bẫy. Nổ khi bị hư hại.</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>pháo từ</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>Viên đạn chứa nhiều pin cùng ăn-ten dùng để tạo ra xung điện từ khi kích nổ. Xung điện từ sẽ tạm thời vô hiệu hóa các thiết bị điện và làm tê liệt mechanoid. Có thể dùng làm đạn súng cối hoặc cài làm bẫy. Nổ khi bị hư hại.</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>pháo chữa cháy</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>Viên pháo chứa hỗn hợp chữa cháy nén. Có thể dùng làm đạn súng cối hoặc đặt làm bẫy. Nổ khi bị hư hại.</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>pháo nổ mảnh</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>Viên pháo được nhồi đầy thuốc nổ mạnh. Dùng làm đạn súng cối hoặc làm bẫy. Nổ khi bị hư hại.</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>pháo cháy</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>Viên pháo chứa lượng nhỏ thuốc nổ và lượng lớn chất dễ cháy. Gây cháy diện rộng khi nổ. Có thể làm đạn súng cối hoặc đặt làm bẫy. Nổ khi bị hư hại.</Shell_Incendiary.description>
+  
 </LanguageData>

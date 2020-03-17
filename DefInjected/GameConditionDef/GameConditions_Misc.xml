@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>cực quang</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>Một cực quang đang thắp sáng bầu trời. Màn hình ngoạn mục sẽ thúc đẩy tâm trạng của bất cứ ai bên ngoài để xem nó.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>Cực quang đang kết thúc.</Aurora.endMessage>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>TODO</Aurora.letterText>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>chu kỳ khí hậu</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>Một chu kỳ khí hậu nhiều năm do quỹ đạo hình elip.</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>đợt lạnh</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Một đợt lạnh bất thường đang đóng băng khu vực.</ColdSnap.description>
+  <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>Cái Đợt lạnh đã qua.</ColdSnap.endMessage>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>nhật thực</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Một nhật thực đang phủ bóng lên bề mặt. Trời sẽ tối, ngay cả vào ban ngày.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>Nhật thực sắp kết thúc.</Eclipse.endMessage>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>TODO</Eclipse.letterText>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>sấm chớp</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Một cơn bão cục bộ kỳ dị đang làm nổ tung một khu vực nhỏ với các vụ sét đánh lặp đi lặp lại.</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>Bão chớp đã qua.</Flashstorm.endMessage>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>TODO</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>sóng nhiệt</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Một làn sóng cực nóng đang nướng khu vực này.</HeatWave.description>
+  <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
+  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>Sóng nhiệt đã qua.</HeatWave.endMessage>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
+  <HeatWave.letterText>TODO</HeatWave.letterText>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>người hành tinh</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>Một vũ khí hành tinh liên sao đang tiếp cận hành tinh này. Nó sẽ đập vỡ hành tinh như một viên đạn súng trường bắn trúng một quả trứng, hủy diệt tất cả sự sống.</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>xung thần kinh đau đớn</PsychicDrone.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
+  <PsychicDrone.description>Một AI mạnh mẽ, xa cách đang phát ra những làn sóng lực tâm linh đang hướng con người tới sự điên rồ.</PsychicDrone.description>
+  <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
+  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>xung thần kinh đau đớn đang kết thúc.</PsychicDrone.endMessage>
+  <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
+  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>xung thần kinh êm dịu</PsychicSoothe.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Một AI mạnh mẽ, xa cách đang phát ra những làn sóng lực tâm linh đang làm dịu con người và ổn định tâm trí của họ.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>xung thần kinh êm dịu kết thúc.</PsychicSoothe.endMessage>
+  <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
+  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>bức xạ mặt trời</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
+  <SolarFlare.description>Một cơn bức xạ mặt trời đang làm nổ tung hành tinh. Sự can thiệp điện từ ngăn cản hầu hết các thiết bị điện hoạt động.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>Bức xạ mặt trời đang kết thúc.</SolarFlare.endMessage>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>bụi độc</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Một đám bụi độc hại từ một nguồn xa xôi nào đó đang dần lắng xuống toàn bộ khu vực này. Bất kỳ sinh vật sống không dưới một mái nhà sẽ bị nhiễm độc từ từ, và các vật phẩm còn lại bên ngoài sẽ bị ăn mòn.</ToxicFallout.description>
+  <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
+  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>Điều tồi tệ nhất của bụi phóng xạ độc hại đã giải quyết.</ToxicFallout.endMessage>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
+  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>núi lửa mùa đông</VolcanicWinter.label>
+  <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Một ngọn núi lửa xa xôi đã bóp nghẹt bầu khí quyển với các hạt núi lửa, làm giảm đáng kể lượng ánh sáng chiếu xuống bề mặt. Nhiệt độ sẽ lạnh hơn và thực vật sẽ phát triển chậm hơn.</VolcanicWinter.description>
+  <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicWinter.endMessage>Hầu hết tro núi lửa đã lắng xuống.</VolcanicWinter.endMessage>
+  <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  
+</LanguageData>

@@ -1,34 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- none -->
-  <None.label>không</None.label>
-  <!-- room -->
-  <Room.label>phòng thường</Room.label>
-  <!-- bedroom -->
-  <Bedroom.label>phòng ngủ</Bedroom.label>
-  <!-- prison cell -->
-  <PrisonCell.label>nhà lao</PrisonCell.label>
-  <!-- dining room -->
-  <DiningRoom.label>phòng ăn</DiningRoom.label>
-  <!-- rec room -->
-  <RecRoom.label>phòng giải trí</RecRoom.label>
-  <!-- hospital -->
-  <Hospital.label>phòng y tế</Hospital.label>
-  <!-- laboratory -->
-  <Laboratory.label>phòng thí nghiệm</Laboratory.label>
-  <!-- workshop -->
-  <Workshop.label>xưởng</Workshop.label>
-  <!-- barracks -->
+  
+  <!-- EN: barn -->
+  <Barn.label>kho nuôi gia súc</Barn.label>
+  
+  <!-- EN: barracks -->
   <Barracks.label>phòng ngủ chung</Barracks.label>
-  <!-- prison barracks -->
-  <PrisonBarracks.label>phòng tù nhân chung</PrisonBarracks.label>
-  <!-- kitchen -->
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>phòng ngủ</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>phòng ăn</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>phòng y tế</Hospital.label>
+  
+  <!-- EN: kitchen -->
   <Kitchen.label>nhà bếp</Kitchen.label>
-  <!-- tomb -->
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>phòng thí nghiệm</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>không</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>phòng giam tập thể</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>nhà lao</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>phòng giải trí</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>phòng thường</Room.label>
+  
+  <!-- EN: tomb -->
   <Tomb.label>hầm mộ</Tomb.label>
-  <!-- barn -->
-  <Barn.label>kho nuôi gia xúc</Barn.label>
-
-
+  
+  <!-- EN: workshop -->
+  <Workshop.label>xưởng</Workshop.label>
+  
 </LanguageData>

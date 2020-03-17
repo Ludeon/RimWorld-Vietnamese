@@ -1,55 +1,68 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- multi-analyzer -->
-  <MultiAnalyzer.label>máy phân tích đa năng</MultiAnalyzer.label>
-  <!-- Build multi-analyzers which increase research speed and allow higher-level research projects. Requires advanced components to construct. -->
-  <MultiAnalyzer.description>Cho phép xây máy phân tích đa năng - loại vật phẩm giúp tăng tốc độ nghiên cứu và cho phép nghiên cứu thêm các loại công trình nghiên cứu cao cấp hơn. Cần phụ tùng cao cấp để xây.</MultiAnalyzer.description>
-
-  <!-- ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>máy quét tầng sâu</GroundPenetratingScanner.label>
-  <!-- Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
-  <GroundPenetratingScanner.description>Cho phép xây máy quét tầng sâu, loại công cụ dùng để dò tìm khoán sản nằm sâu dưới đất. Cần phụ kiện cao cấp để xây dựng.</GroundPenetratingScanner.description>
-
-  <!-- deep drilling -->
-  <DeepDrilling.label>máy khoan sâu</DeepDrilling.label>
-  <!-- Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>Cho phép xây dựng máy khoan sâu để khai thác khoáng sản nằm sâu dưới lòng đất. Cần máy quét tầng sâu để dò tìm nguồn khoáng sản.</DeepDrilling.description>
-
-  <!-- vitals monitor -->
-  <VitalsMonitor.label>máy điện tâm đồ</VitalsMonitor.label>
-  <!-- Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>Cho phép xây dựng máy điện tâm đồ giúp cải thiện tình trạng sức khỏe của bệnh nhân khi đặt cạnh giường bệnh.</VitalsMonitor.description>
-
-  <!-- fabrication -->
-  <Fabrication.label>vải dệt tiên tiến</Fabrication.label>
-  <!-- Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>Mở khóa bàn dệt công nghệ cao, cho phép may những áo giáp năng lượng công nghệ cao và các vật liệu cao cấp khác.</Fabrication.description>
-
-  <!-- advanced fabrication -->
-  <AdvancedFabrication.label>vải dệt cao cấp</AdvancedFabrication.label>
-  <!-- Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>Cho phép tạo phụ tùng cao cấp từ phụ tùng thường và các vật liệu khác.</AdvancedFabrication.description>
-
-  <!-- cryptosleep casket -->
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>chế tạo tiên tiến</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Chế tạo các thành phần tiên tiến từ các thành phần tiêu chuẩn và các vật liệu khác.</AdvancedFabrication.description>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>bionics</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Xây dựng các bộ phận cơ thể bionic công nghệ cao để thay thế tay chân và mắt bị mất. Yêu cầu một bác sĩ lành nghề để đính kèm.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>đạn dược tích điện</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Chế tạo vũ khí bắn đạn điện tử để có thêm sát thương. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
   <Cryptosleep.label>kén ngủ đông</Cryptosleep.label>
-  <!-- Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>Cho phép xây kén ngủ đông - có thể đưa vật sống nằm trong nó vào trạng thái ngủ đông.</Cryptosleep.description>
-
-  <!-- powered armor -->
-  <PoweredArmor.label>giáp năng lượng</PoweredArmor.label>
-  <!-- Build the power armor and power armor helmets. Note that these also require advanced components. -->
-  <PoweredArmor.description>Cho phép chế tạo giáp năng lượng với sức bảo vệ cao hơn. Cần phụ tùng cao cấp để chế tạo.</PoweredArmor.description>
-
-  <!-- pulse-charged munitions -->
-  <ChargedShot.label>đạn năng lượng</ChargedShot.label>
-  <!-- Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>Cho phép chế tạo vũ khí năng lượng cao có sát thương lớn hơn vũ khí thường. Để chế tạo những loại vũ khí này cần có phụ kiện cao cấp.</ChargedShot.description>
-
-  <!-- bionics -->
-  <Bionics.label>bộ phận sinh học</Bionics.label>
-  <!-- Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>Cho phép chế tạo các bộ phận sinh học cải tiến để thay thế bộ phận đã mất. Yêu cầu bác sĩ có kĩ năng để có thể phẫu thuật gắn bộ phận sinh học.</Bionics.description>
-
-
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Xây dựng kén ngủ đông, có thể đưa sinh vật vào trạng thái ngủ đông không thời hạn</Cryptosleep.description>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>khoan sâu</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Xây dựng máy khoan sâu để khai thác tài nguyên từ dưới lòng đất. Bạn sẽ cần một máy quét xuyên mặt đất để tìm tài nguyên.</DeepDrilling.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>chế tạo</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Xây dựng băng ghế chế tạo, có khả năng cho các dự án công nghệ cao, từ lắp ráp linh kiện đến chế tạo áo giáp điện.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components.\n  -Some special threats drop them when defeated. -->
+  <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>máy quét mặt đất</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct. -->
+  <GroundPenetratingScanner.description>Xây dựng các máy quét xuyên mặt đất có thể phát hiện các tài nguyên có thể khoan dưới bề mặt. Yêu cầu các thành phần tiên tiến để xây dựng.</GroundPenetratingScanner.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>đa phân tích</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Xây dựng nhiều máy phân tích làm tăng tốc độ nghiên cứu và cho phép các dự án nghiên cứu cấp cao hơn. Yêu cầu các thành phần tiên tiến để xây dựng.</MultiAnalyzer.description>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>áo giáp năng lượng</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>Xây dựng áo giáp năng lượng và mũ giáp năng lượng. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>TODO</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>TODO</ReconArmor.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>tháp pháo bắn tỉa</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Sản xuất tháp pháo bắn tỉa có tầm bắn cực xa. Nó bắn ra những đạn uranium nhỏ xé rách tấm thép như giấy, nhưng nó kém hiệu quả ở cự ly gần.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>máy điện tâm đồ</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Xây dựng máy điện tâm đồ cải thiện kết quả y tế khi đặt cạnh giường bệnh.</VitalsMonitor.description>
+  
 </LanguageData>

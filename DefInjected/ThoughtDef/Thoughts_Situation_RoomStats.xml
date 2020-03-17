@@ -1,104 +1,103 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- awful prison cell -->
-  <PrisonCell.stages.0.label>nhà lao như chuồng heo</PrisonCell.stages.0.label>
-  <!-- My prison cell is an awful place. -->
-  <PrisonCell.stages.0.description>Nhà lao của như cái chuồng heo vậy. Thế mà coi được à?</PrisonCell.stages.0.description>
-  <!-- decent prison cell -->
-  <PrisonCell.stages.3.label>nhà lao tạm được</PrisonCell.stages.3.label>
-  <!-- My prison cell is pretty decent. -->
-  <PrisonCell.stages.3.description>Nhà lao của bố coi như tạm được đi.</PrisonCell.stages.3.description>
-  <!-- slightly impressive prison cell -->
-  <PrisonCell.stages.4.label>nhà lao hơi ấn tượng</PrisonCell.stages.4.label>
-  <!-- My prison cell seems to be a nice place. -->
-  <PrisonCell.stages.4.description>Nhà lao này cũng có chút ấn tượng đó.</PrisonCell.stages.4.description>
-  <!-- impressive prison cell -->
-  <PrisonCell.stages.5.label>nhà lao ấn tượng</PrisonCell.stages.5.label>
-  <!-- My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
-  <PrisonCell.stages.5.description>Nhà lao gì mà ngon vậy. Phải mình đang bị giam không vậy?</PrisonCell.stages.5.description>
-  <!-- very impressive prison cell -->
-  <PrisonCell.stages.6.label>nhà lao rất ấn tượng</PrisonCell.stages.6.label>
-  <!-- My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.6.description>Trời ơi, đây có phải là nhà lao không vậy? </PrisonCell.stages.6.description>
-  <!-- extremely impressive prison cell -->
-  <PrisonCell.stages.7.label>nhà lao cực kì ấn tượng</PrisonCell.stages.7.label>
-  <!-- My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
-  <PrisonCell.stages.7.description>Tự nhủ với lòng "Đây là nhà lao! Đay là nhà lao!" nhưng sao muốn ở mãi thế này?!</PrisonCell.stages.7.description>
-  <!-- unbelievably impressive prison cell -->
-  <PrisonCell.stages.8.label>nhà lao huyền thoại</PrisonCell.stages.8.label>
-  <!-- My prison cell is unbelievably impressive. This is the best place ever! -->
-  <PrisonCell.stages.8.description>Có lẽ chăng đây là nhà lao trong truyền thuyết?!</PrisonCell.stages.8.description>
-  <!-- wondrously impressive prison cell -->
-  <PrisonCell.stages.9.label>nhà lao thiên đường</PrisonCell.stages.9.label>
-  <!-- My prison cell is the best place one can ever imagine. I can stay here forever. -->
-  <PrisonCell.stages.9.description>Nhốt em mãi đi mấy anh! Em muốn được ở đây mãi.</PrisonCell.stages.9.description>
-
-  <!-- awful barrack -->
-  <PrisonBarracks.stages.0.label>nhà lao tập thể như ổ chuột</PrisonBarracks.stages.0.label>
-  <!-- My prison barrack is an awful place. -->
-  <PrisonBarracks.stages.0.description>Nhà tù thì cũng phải sạch sẽ chút cho bố còn ở chứ.</PrisonBarracks.stages.0.description>
-  <!-- dull barrack -->
-  <PrisonBarracks.stages.1.label>nhà lao tập thể tù túng</PrisonBarracks.stages.1.label>
-  <!-- I'm living in a dull barrack. -->
-  <PrisonBarracks.stages.1.description>Cái nhà lao gì mà như tù tùng kinh.</PrisonBarracks.stages.1.description>
-  <!-- slightly impressive barrack -->
-  <PrisonBarracks.stages.4.label>nhà lao tập thể hơi ấn tượng</PrisonBarracks.stages.4.label>
-  <!-- My prison barrack is slightly impressive. -->
-  <PrisonBarracks.stages.4.description>Nhà lao này coi vậy cũng tạm chấp nhận được đó.</PrisonBarracks.stages.4.description>
-  <!-- somewhat impressive barrack -->
-  <PrisonBarracks.stages.5.label>nhà lao tập thể ấn tượng</PrisonBarracks.stages.5.label>
-  <!-- My prison barrack is impressive. I like it. -->
-  <PrisonBarracks.stages.5.description>Nhà lao tập thể này được. Anh thích rồi đó.</PrisonBarracks.stages.5.description>
-  <!-- very impressive barrack -->
-  <PrisonBarracks.stages.6.label>nhà lao tập thể rất ấn tượng</PrisonBarracks.stages.6.label>
-  <!-- My prison barrack is very impressive. I like it. -->
-  <PrisonBarracks.stages.6.description>Nhà lao tập thể ấn tượng đó.</PrisonBarracks.stages.6.description>
-  <!-- extremely impressive barrack -->
-  <PrisonBarracks.stages.7.label>nhà lao tập thể rất ấn tượng</PrisonBarracks.stages.7.label>
-  <!-- My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.7.description>Ngon. Chỗ đại ca ở ít nhất cũng phải vậy chứ!</PrisonBarracks.stages.7.description>
-  <!-- unbelievably impressive barrack -->
-  <PrisonBarracks.stages.8.label>nhà lao tập thể vô cùng ấn tượng</PrisonBarracks.stages.8.label>
-  <!-- My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.8.description>Nhà lao này méo phải dạng thường nữa rồi.</PrisonBarracks.stages.8.description>
-  <!-- wondrously impressive barrack -->
-  <PrisonBarracks.stages.9.label>nhà lao tập thể loại VIP</PrisonBarracks.stages.9.label>
-  <!-- My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.9.description>Bọn tao là VIP hay sao mà lại nhốt chỗ này?</PrisonBarracks.stages.9.description>
-
-  <!-- awful hospital -->
-  <HospitalPatientRoomStats.stages.0.label>bệnh xá tệ hại</HospitalPatientRoomStats.stages.0.label>
-  <!-- This hospital is awful. -->
-  <HospitalPatientRoomStats.stages.0.description>Bệnh xá này thật tệ hại!</HospitalPatientRoomStats.stages.0.description>
-  <!-- dull hospital -->
-  <HospitalPatientRoomStats.stages.1.label>bệnh xá tù túng</HospitalPatientRoomStats.stages.1.label>
-  <!-- I'm stuck in a dull hospital. -->
-  <HospitalPatientRoomStats.stages.1.description>Mình phải nằm ở cái xá này sao?!!</HospitalPatientRoomStats.stages.1.description>
-  <!-- slightly impressive hospital -->
-  <HospitalPatientRoomStats.stages.4.label>bệnh xá hơi ấn tượng</HospitalPatientRoomStats.stages.4.label>
-  <!-- My hospital is slightly impressive. It makes me feel a bit better. -->
-  <HospitalPatientRoomStats.stages.4.description>Bệnh xá mình đang nằm cũng ấn tượng. Cảm giác đỡ mệt hơn nhiều rồi.</HospitalPatientRoomStats.stages.4.description>
-  <!-- somewhat impressive hospital -->
-  <HospitalPatientRoomStats.stages.5.label>bệnh xá ấn tượng</HospitalPatientRoomStats.stages.5.label>
-  <!-- My hospital is impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.5.description>Bệnh xá này ấn tượng đó. Cảm giác đỡ mệt hơn nhiều rồi.</HospitalPatientRoomStats.stages.5.description>
-  <!-- very impressive hospital -->
-  <HospitalPatientRoomStats.stages.6.label>bệnh xá khá ấn tượng</HospitalPatientRoomStats.stages.6.label>
-  <!-- My hospital is very impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.6.description>Bệnh xá này khá ấn tượng đó. Cảm giác đỡ mệt hơn nhiều rồi.</HospitalPatientRoomStats.stages.6.description>
-  <!-- extremely impressive hospital -->
-  <HospitalPatientRoomStats.stages.7.label>bệnh xá rất ấn tượng</HospitalPatientRoomStats.stages.7.label>
-  <!-- My hospital is extremely impressive. It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.7.description>Bệnh xá này rất ấn tượng. Cảm giác đỡ mệt hơn nhiều rồi.</HospitalPatientRoomStats.stages.7.description>
-  <!-- unbelievably impressive hospital -->
-  <HospitalPatientRoomStats.stages.8.label>bệnh xá cực kì ấn tượng</HospitalPatientRoomStats.stages.8.label>
-  <!-- My hospital is unbelievably impressive. It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.8.description>Bệnh xá này cực kì ấn tượng. Cảm giác khá hơn rất nhiều.</HospitalPatientRoomStats.stages.8.description>
-  <!-- wondrously impressive hospital -->
-  <HospitalPatientRoomStats.stages.9.label>bệnh xá toẹt zời</HospitalPatientRoomStats.stages.9.label>
-  <!-- My hospital is wonderful! It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.9.description>Em muốn nằm viện mãi bác sĩ ơi!</HospitalPatientRoomStats.stages.9.description>
-
-
+  
+  <!-- EN: awful hospital -->
+  <HospitalPatientRoomStats.stages.awful_hospital.label>bệnh viện khủng khiếp</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <!-- EN: This hospital is awful. -->
+  <HospitalPatientRoomStats.stages.awful_hospital.description>Bệnh viện này khủng khiếp.</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <!-- EN: dull hospital -->
+  <HospitalPatientRoomStats.stages.dull_hospital.label>bệnh viện buồn tẻ</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <!-- EN: I'm stuck in a dull hospital. -->
+  <HospitalPatientRoomStats.stages.dull_hospital.description>Tôi bị mắc kẹt trong một bệnh viện buồn tẻ.</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <!-- EN: slightly impressive hospital -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>bệnh viện hơi ấn tượng</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Bệnh viện của tôi hơi ấn tượng. Nó làm cho tôi cảm thấy tốt hơn một chút.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <!-- EN: somewhat impressive hospital -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>bệnh viện ấn tượng</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <!-- EN: My hospital is impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Bệnh viện của tôi rất ấn tượng. Điều đó làm tôi cảm thấy tốt hơn.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <!-- EN: very impressive hospital -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>bệnh viện rất ấn tượng</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <!-- EN: My hospital is very impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Bệnh viện của tôi rất ấn tượng. Điều đó làm tôi cảm thấy tốt hơn.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <!-- EN: extremely impressive hospital -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>bệnh viện cực kỳ ấn tượng</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Bệnh viện của tôi vô cùng ấn tượng. Nó làm cho tôi cảm thấy tốt hơn rồi.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <!-- EN: unbelievably impressive hospital -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>bệnh viện ấn tượng không thể tin được</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Bệnh viện của tôi ấn tượng không thể tin được. Nó làm cho tôi cảm thấy tốt hơn rồi.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <!-- EN: wondrously impressive hospital -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>bệnh viện ấn tượng tuyệt vời</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <!-- EN: My hospital is wonderful! It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Bệnh viện của tôi thật tuyệt vời! Nó làm cho tôi cảm thấy tốt hơn rồi.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  <!-- EN: awful barrack -->
+  <PrisonBarracks.stages.awful_barrack.label>trại tù khủng khiếp</PrisonBarracks.stages.awful_barrack.label>
+  <!-- EN: My prison barrack is an awful place. -->
+  <PrisonBarracks.stages.awful_barrack.description>Trại tù của tôi là một nơi khủng khiếp.</PrisonBarracks.stages.awful_barrack.description>
+  <!-- EN: dull barrack -->
+  <PrisonBarracks.stages.dull_barrack.label>trại tù buồn tẻ</PrisonBarracks.stages.dull_barrack.label>
+  <!-- EN: I'm living in a dull barrack. -->
+  <PrisonBarracks.stages.dull_barrack.description>Tôi đang sống trong một trại tù buồn tẻ.</PrisonBarracks.stages.dull_barrack.description>
+  <!-- EN: slightly impressive barrack -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.label>trại tù hơi ấn tượng</PrisonBarracks.stages.slightly_impressive_barrack.label>
+  <!-- EN: My prison barrack is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barrack.description>Trại tù của tôi là một chút ấn tượng.</PrisonBarracks.stages.slightly_impressive_barrack.description>
+  <!-- EN: somewhat impressive barrack -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.label>trại tù ấn tượng</PrisonBarracks.stages.somewhat_impressive_barrack.label>
+  <!-- EN: My prison barrack is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barrack.description>Trại tù của tôi rất ấn tượng. Tôi thích nó.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
+  <!-- EN: very impressive barrack -->
+  <PrisonBarracks.stages.very_impressive_barrack.label>trại tù rất ấn tượng</PrisonBarracks.stages.very_impressive_barrack.label>
+  <!-- EN: My prison barrack is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barrack.description>Trại tù của tôi rất ấn tượng. Tôi thích nó.</PrisonBarracks.stages.very_impressive_barrack.description>
+  <!-- EN: extremely impressive barrack -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.label>trại tù cực kỳ ấn tượng</PrisonBarracks.stages.extremely_impressive_barrack.label>
+  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barrack.description>Trại tù của tôi vô cùng ấn tượng. Tôi không thể tin rằng họ đang giữ tôi ở một nơi như thế này.</PrisonBarracks.stages.extremely_impressive_barrack.description>
+  <!-- EN: unbelievably impressive barrack -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>trại tù ấn tượng không thể tin được</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
+  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>Trại tù của tôi là ấn tượng không thể tin được. Tôi không thể tin rằng họ đang giữ tôi ở một nơi như thế này.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
+  <!-- EN: wondrously impressive barrack -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.label>trại tù ấn tượng tuyệt vời</PrisonBarracks.stages.wondrously_impressive_barrack.label>
+  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barrack.description>Trại tù của tôi là tuyệt vời! Tôi không thể tin rằng họ đang giữ tôi ở một nơi như thế này.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
+  
+  <!-- EN: awful prison cell -->
+  <PrisonCell.stages.awful_prison_cell.label>nhà tù khủng khiếp</PrisonCell.stages.awful_prison_cell.label>
+  <!-- EN: My prison cell is an awful place. -->
+  <PrisonCell.stages.awful_prison_cell.description>Phòng giam của tôi là một nơi tồi tệ</PrisonCell.stages.awful_prison_cell.description>
+  <!-- EN: decent prison cell -->
+  <PrisonCell.stages.decent_prison_cell.label>nhà tù đàng hoàng</PrisonCell.stages.decent_prison_cell.label>
+  <!-- EN: My prison cell is pretty decent. -->
+  <PrisonCell.stages.decent_prison_cell.description>Phòng giam của tôi là khá tốt.</PrisonCell.stages.decent_prison_cell.description>
+  <!-- EN: slightly impressive prison cell -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>nhà tù hơi ấn tượng</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <!-- EN: My prison cell seems to be a nice place. -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>Phòng giam của tôi dường như là một nơi tốt đẹp.</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <!-- EN: impressive prison cell -->
+  <PrisonCell.stages.impressive_prison_cell.label>nhà tù ấn tượng</PrisonCell.stages.impressive_prison_cell.label>
+  <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
+  <PrisonCell.stages.impressive_prison_cell.description>Phòng giam của tôi thật ấn tượng. Tôi không thể tin rằng họ đang giữ tôi trong một căn phòng như thế này.</PrisonCell.stages.impressive_prison_cell.description>
+  <!-- EN: very impressive prison cell -->
+  <PrisonCell.stages.very_impressive_prison_cell.label>nhà tù rất ấn tượng</PrisonCell.stages.very_impressive_prison_cell.label>
+  <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.very_impressive_prison_cell.description>Phòng giam của tôi rất ấn tượng. Tôi không thể tin rằng họ đang giữ tôi trong một căn phòng như thế này. Tôi thích nó!</PrisonCell.stages.very_impressive_prison_cell.description>
+  <!-- EN: extremely impressive prison cell -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>nhà tù cực kỳ ấn tượng</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>Phòng giam của tôi vô cùng ấn tượng. Tôi không thể tin rằng họ đang giữ tôi trong một căn phòng như thế này. Tôi thích nó!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <!-- EN: unbelievably impressive prison cell -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>nhà tù ấn tượng không thể tin được</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>Phòng giam của tôi ấn tượng không thể tin được. Đây là nơi tốt nhất bao giờ hết!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <!-- EN: wondrously impressive prison cell -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>nhà tù tuyệt vời</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>Phòng giam của tôi là nơi tốt nhất mà người ta có thể tưởng tượng. Tôi có thể ở đây mãi mãi.</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  
 </LanguageData>

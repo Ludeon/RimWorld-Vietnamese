@@ -1,82 +1,81 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- squirrel -->
-  <Squirrel.label>sóc</Squirrel.label>
-  <!-- One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
-  <Squirrel.description>Một loài gặm nhắm có mặt ở khắp mọi nơi con người sống. Dễ dàng nhận ra loài này nhờ cái đuôi dày mà chúng dùng để làm dù che lúc trời đổ mưa.</Squirrel.description>
-  <!-- left claw -->
-  <Squirrel.tools.0.label>vuốt trái</Squirrel.tools.0.label>
-  <!-- right claw -->
-  <Squirrel.tools.1.label>vuốt phải</Squirrel.tools.1.label>
-  <!-- head -->
-  <Squirrel.tools.3.label>đầu</Squirrel.tools.3.label>
-
-  <!-- alphabeaver -->
-  <Alphabeaver.label>hải li alpha</Alphabeaver.label>
-  <!-- A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
-  <Alphabeaver.description>Một loài hải li được thí nghiệm chỉnh sửa gen nhằm tạo ra loài vật có khả năng thu hoạch gỗ nhanh chóng như máy vậy. Khi không được ăn loài thức ăn đặc biệt giành cho mình, chúng sẽ rơi vào trạng thái điên cuồng ăn toàn bộ cây và sẽ hung dữ tấn công lại nếu bị đe dọa tính mạng.</Alphabeaver.description>
-  <!-- left claw -->
-  <Alphabeaver.tools.0.label>vuốt trái</Alphabeaver.tools.0.label>
-  <!-- right claw -->
-  <Alphabeaver.tools.1.label>vuốt phải</Alphabeaver.tools.1.label>
-  <!-- head -->
-  <Alphabeaver.tools.3.label>đầu</Alphabeaver.tools.3.label>
-
-  <!-- capybara -->
-  <Capybara.label>chuột lang nước</Capybara.label>
-  <!-- The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
-  <Capybara.description>Là loài gặm nhắm lớn nhất tự nhiên, chuột lang nước thích nghi tốt với môi trường rừng nhiệt đới ẩm.</Capybara.description>
-  <!-- left claw -->
-  <Capybara.tools.0.label>vuốt trái</Capybara.tools.0.label>
-  <!-- right claw -->
-  <Capybara.tools.1.label>vuốt phải</Capybara.tools.1.label>
-  <!-- head -->
-  <Capybara.tools.3.label>đầu</Capybara.tools.3.label>
-
-  <!-- chinchilla -->
-  <Chinchilla.label>sóc sin-sin</Chinchilla.label>
-  <!-- A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
-  <Chinchilla.description>Loài gặm nhắm nhỏ, lông mềm nhất vũ trụ này và vô cùng đáng giá đối với thương buôn.</Chinchilla.description>
-  <!-- left claw -->
-  <Chinchilla.tools.0.label>vuốt trái</Chinchilla.tools.0.label>
-  <!-- right claw -->
-  <Chinchilla.tools.1.label>vuốt phải</Chinchilla.tools.1.label>
-  <!-- head -->
-  <Chinchilla.tools.3.label>đầu</Chinchilla.tools.3.label>
-
-  <!-- boomrat -->
-  <Boomrat.label>boomrat</Boomrat.label>
-  <!-- Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>hải ly alpha</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Một loài hải ly được thí nghiệm chỉnh sửa gen nhằm tạo ra loài vật có khả năng thu hoạch gỗ nhanh chóng như máy vậy. Khi không được ăn loài thức ăn đặc biệt giành cho mình, chúng sẽ rơi vào trạng thái điên cuồng ăn toàn bộ cây và sẽ hung dữ tấn công lại nếu bị đe dọa tính mạng.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>vuốt trái</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>vuốt phải</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>đầu</Alphabeaver.tools.head.label>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>thú nổ</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
   <Boomrat.description>Sinh vật bắt nguồn từ loài chuột được chỉnh sửa gen để tạo ra vũ khí chết người hoặc một loại vũ khí phòng vệ khác thường nào đó. Boomrat khi chết cũng tạo ra vụ nổ như Boomalope nhưng với bán kính nhỏ hơn nhiều.</Boomrat.description>
-  <!-- left claw -->
-  <Boomrat.tools.0.label>vuốt trái</Boomrat.tools.0.label>
-  <!-- right claw -->
-  <Boomrat.tools.1.label>vuốt phải</Boomrat.tools.1.label>
-  <!-- head -->
-  <Boomrat.tools.3.label>đầu</Boomrat.tools.3.label>
-
-  <!-- raccoon -->
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>vuốt trái</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>vuốt phải</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>đầu</Boomrat.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>chuột lang nước</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Là loài gặm nhắm lớn nhất tự nhiên, chuột lang nước thích nghi tốt với môi trường rừng nhiệt đới ẩm.</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>vuốt trái</Capybara.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>vuốt phải</Capybara.tools.right_claw.label>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>đầu</Capybara.tools.head.label>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>sóc sin-sin</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>Loài gặm nhắm nhỏ, lông mềm nhất vũ trụ này và vô cùng đáng giá đối với thương buôn.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>vuốt trái</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>vuốt phải</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>đầu</Chinchilla.tools.head.label>
+  
+  <!-- EN: raccoon -->
   <Raccoon.label>gấu mèo</Raccoon.label>
-  <!-- A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
   <Raccoon.description>Loài gậm nhắm nhỏ có mặt ở hầu hết khu rừng bụi rậm. Loài ăn tạp này có thể đột nhập vào thùng rác hay bếp của bạn và ăn tất cả mọi thứ có thể.</Raccoon.description>
-  <!-- left claw -->
-  <Raccoon.tools.0.label>vuốt trái</Raccoon.tools.0.label>
-  <!-- right claw -->
-  <Raccoon.tools.1.label>vuốt phải</Raccoon.tools.1.label>
-  <!-- head -->
-  <Raccoon.tools.3.label>đầu</Raccoon.tools.3.label>
-
-  <!-- rat -->
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>vuốt trái</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>vuốt phải</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>đầu</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
   <Rat.label>chuột</Rat.label>
-  <!-- A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>Loài gặm nhắm mà mọi người, mọi nhà ghét nhất do phá nát đồ trong nhà bếp và phát tán bệnh dịch truyền nhiễm này có mặt ở khắp nơi mà con người sinh sống. Chuột ăn hầu như tất cả mọi thứ và sống hầu như khắp nơi.</Rat.description>
-  <!-- left claw -->
-  <Rat.tools.0.label>vuốt trái</Rat.tools.0.label>
-  <!-- right claw -->
-  <Rat.tools.1.label>vuốt phải</Rat.tools.1.label>
-  <!-- head -->
-  <Rat.tools.3.label>đầu</Rat.tools.3.label>
-
-
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>vuốt trái</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>vuốt phải</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>đầu</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>sóc</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>Một loài gặm nhắm có mặt ở khắp mọi nơi con người sống. Dễ dàng nhận ra loài này nhờ cái đuôi dày mà chúng dùng để làm dù che lúc trời đổ mưa.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>vuốt trái</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>vuốt phải</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>đầu</Squirrel.tools.head.label>
+  
 </LanguageData>

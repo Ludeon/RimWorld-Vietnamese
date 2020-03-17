@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- wake-up -->
-  <WakeUp.label>wake-up</WakeUp.label>
-  <!-- A synthetic stimulant. Wake-up fills the user's need for rest, and allows users to work for extended periods without getting tired. However, repeated use will produce and addiction which reduces mental performance and can even generate psychotic breaks.\n\nIn the most competitive universities and companies of many worlds, high-flying achievers are known for occasionally breaking down into psychosis due to wake-up addiction. -->
+  
+  <!-- EN: wake-up -->
+  <WakeUp.label>thuốc kích thích wake-up</WakeUp.label>
+  <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, and allows users to work for extended periods without getting tired. However, repeated use will produce an addiction which reduces mental performance and can even generate psychotic breaks.\n\nIn the most competitive universities and companies of many worlds, high-flying achievers are known for occasionally breaking down into psychosis due to wake-up addiction. -->
   <WakeUp.description>Loại thuốc kích thích tổng hợp. Wake-up kích thích não của người dùng, tăng cường năng lượng tức thì cho họ và giúp họ làm việc với khoảng thời gian lâu hơn. Tuy nhiên, nếu sử dụng liên tục sẽ dẫn đến giảm hiệu quả của thuốc và có khả năng nghiện thuốc lâu dài.</WakeUp.description>
-  <!-- Take {0} -->
+  <!-- EN: Take {0} -->
   <WakeUp.ingestible.ingestCommandString>Dùng {0}</WakeUp.ingestible.ingestCommandString>
-  <!-- Taking {0}. -->
+  <!-- EN: Taking {0}. -->
   <WakeUp.ingestible.ingestReportString>Đang dùng {0}</WakeUp.ingestible.ingestReportString>
-
-
+  
 </LanguageData>

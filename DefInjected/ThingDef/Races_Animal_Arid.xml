@@ -1,101 +1,48 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- muffalo -->
-  <Muffalo.label>bò Bắc Mỹ</Muffalo.label>
-  <!-- A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>Loại bò lớn ăn thực vật có thể thích nghi với khí hậu lạnh và ấm. Tuy khi bò này nổi điên rất đáng sợ nhưng nếu có thể hãy thuần chủng chúng để dùng làm thú chở hàng cho lữ đoàn.\n\nKhông ai biết tại sao lông chúng lại có màu xanh - có thể là do thí nghiệm sửa đổi gen di truyền từ xưa chăng?</Muffalo.description>
-  <!-- head -->
-  <Muffalo.tools.0.label>đầu</Muffalo.tools.0.label>
-
-  <!-- MeatLabel -->
-  <Meat_Muffalo.label>Thịt bò</Meat_Muffalo.label>
-
-  <!-- CorpseLabel -->
-  <Corpse_Muffalo.label>CorpseLabel</Corpse_Muffalo.label>
-  <!-- CorpseDesc -->
-  <Corpse_Muffalo.description>CorpseDesc</Corpse_Muffalo.description>
-
-  <!-- gazelle -->
-  <Gazelle.label>linh dương</Gazelle.label>
-  <!-- A small, extremely quick antelope known for its amazingly long leap. -->
-  <Gazelle.description>Một loài linh dương nhỏ nhưng cực nhanh nhẹn vì những cú nhảy cực xa của nó.</Gazelle.description>
-  <!-- left hoof -->
-  <Gazelle.tools.0.label>sừng trái</Gazelle.tools.0.label>
-  <!-- right hoof -->
-  <Gazelle.tools.1.label>sừng phải</Gazelle.tools.1.label>
-  <!-- head -->
-  <Gazelle.tools.3.label>đầu</Gazelle.tools.3.label>
-
-<<<<<<< HEAD
-=======
-  <!-- MeatLabel -->
-  <Meat_Gazelle.label>Thịt nai</Meat_Gazelle.label>
-  <!-- MeatDesc -->
-  <Meat_Gazelle.description>MeatDesc</Meat_Gazelle.description>
-
-  <!-- CorpseLabel -->
-  <Corpse_Gazelle.label>CorpseLabel</Corpse_Gazelle.label>
-  <!-- CorpseDesc -->
-  <Corpse_Gazelle.description>CorpseDesc</Corpse_Gazelle.description>
-
->>>>>>> bc6a65c8930aad322da74bdcc4d115992e875eb9
-  <!-- iguana -->
-  <Iguana.label>kỳ nhông</Iguana.label>
-  <!-- These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
-  <Iguana.description>Loài thằn lằn lớn chuyên ăn thực vật. Tuy nhiên, khi bị chọc giận, lớp da dày cùng đôi vuốt nhọn khiến chúng trở nên nguy hiểm hơn. \n\nKỳ nhông lúc ngủ thường ngửa đầu lên cao tạo nên tư thế "oai phong" của mình. Nhưng thực tế thì kỳ nhông chỉ đang ngẩn cao đầu để có thể dễ dàng quan sát những kẻ săn mồi khác xung quanh mình thôi.</Iguana.description>
-  <!-- left claw -->
-  <Iguana.tools.0.label>vuốt trái</Iguana.tools.0.label>
-  <!-- right claw -->
-  <Iguana.tools.1.label>vuốt phải</Iguana.tools.1.label>
-  <!-- head -->
-  <Iguana.tools.3.label>đầu</Iguana.tools.3.label>
-
-<<<<<<< HEAD
-=======
-  <!-- MeatLabel -->
-  <Meat_Iguana.label>Thịt kỳ nhông</Meat_Iguana.label>
-  <!-- MeatDesc -->
-  <Meat_Iguana.description>MeatDesc</Meat_Iguana.description>
-
-  <!-- CorpseLabel -->
-  <Corpse_Iguana.label>CorpseLabel</Corpse_Iguana.label>
-  <!-- CorpseDesc -->
-  <Corpse_Iguana.description>CorpseDesc</Corpse_Iguana.description>
-
->>>>>>> bc6a65c8930aad322da74bdcc4d115992e875eb9
-  <!-- rhinoceros -->
-  <Rhinoceros.label>tê giác</Rhinoceros.label>
-  <!-- Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
-  <Rhinoceros.description>Tuy là loài ăn thực vật nhưng tê giác lại dễ dàng bị chọc giận. Khi nổi điển, hình dáng khổng lồ cùng cái sừng nhọn khiến nó là đối thủ chết người trong cuộc đấu tay đôi.</Rhinoceros.description>
-  <!-- horn -->
-  <Rhinoceros.tools.0.label>sừng</Rhinoceros.tools.0.label>
-  <!-- horn -->
-  <Rhinoceros.tools.1.label>sừng</Rhinoceros.tools.1.label>
-  <!-- head -->
-  <Rhinoceros.tools.3.label>đầu</Rhinoceros.tools.3.label>
-
-<<<<<<< HEAD
-=======
-  <!-- MeatLabel -->
-  <Meat_Rhinoceros.label>Thịt tê giác</Meat_Rhinoceros.label>
-
->>>>>>> bc6a65c8930aad322da74bdcc4d115992e875eb9
-  <!-- dromedary -->
+  
+  <!-- EN: dromedary -->
   <Dromedary.label>lạc đà một bứu</Dromedary.label>
-  <!-- A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but it's bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
   <Dromedary.description>Loài thú có vú lớn đã thích nghi với khí hậu khô nóng. Xuất hiện từ thời xa xưa, da và lông của loài lạc đà này cực kì tốt trong việc chống cái nhiệt độ chết người ở sa mạc và sửa của nó cũng vô cùng ngon nữa. Lạc đà một bứu có thể dùng làm thú thồ hàng cho lữ đoàn.\n\nBằng cách dự trữ nước ở những cục gù trên lưng và lọc lấy nước từ hơi thở của mình, lạc đà một bứu có thể sống nhiều ngày mà không cần uống một giọt nước nào cả.</Dromedary.description>
-  <!-- left hoof -->
-  <Dromedary.tools.0.label>sừng trái</Dromedary.tools.0.label>
-  <!-- right hoof -->
-  <Dromedary.tools.1.label>sừng phải</Dromedary.tools.1.label>
-  <!-- head -->
-  <Dromedary.tools.3.label>đầu</Dromedary.tools.3.label>
-
-<<<<<<< HEAD
-=======
-  <!-- MeatLabel -->
-  <Meat_Dromedary.label>Thịt lạc đà</Meat_Dromedary.label>
-
->>>>>>> bc6a65c8930aad322da74bdcc4d115992e875eb9
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>sừng trái</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>sừng phải</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>đầu</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>linh dương</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>Một loài linh dương nhỏ nhưng cực nhanh nhẹn vì những cú nhảy cực xa của nó.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>sừng trái</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>sừng phải</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>đầu</Gazelle.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>kỳ nhông</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Loài thằn lằn lớn chuyên ăn thực vật. Tuy nhiên, khi bị chọc giận, lớp da dày cùng đôi vuốt nhọn khiến chúng trở nên nguy hiểm hơn. \n\nKỳ nhông lúc ngủ thường ngửa đầu lên cao tạo nên tư thế "oai phong" của mình. Nhưng thực tế thì kỳ nhông chỉ đang ngẩn cao đầu để có thể dễ dàng quan sát những kẻ săn mồi khác xung quanh mình thôi.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>vuốt trái</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>vuốt phải</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>đầu</Iguana.tools.head.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>bò Bắc Mỹ</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Loại bò lớn ăn thực vật có thể thích nghi với khí hậu lạnh và ấm. Tuy khi bò này nổi điên rất đáng sợ nhưng nếu có thể hãy thuần chủng chúng để dùng làm thú chở hàng cho lữ đoàn.\n\nKhông ai biết tại sao lông chúng lại có màu xanh - có thể là do thí nghiệm sửa đổi gen di truyền từ xưa chăng?</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>đầu</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>móng chân trái</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>móng chân phải</Muffalo.tools.right_hoof.label>
+  
 </LanguageData>

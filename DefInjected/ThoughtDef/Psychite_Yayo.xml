@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- high on yayo -->
-  <YayoHigh.stages.0.label>phê yayo</YayoHigh.stages.0.label>
-  <!-- Feeling pumped! Let's do this! -->
-  <YayoHigh.stages.0.description>YEAH! TOẸT ZỜI ÔNG MẶT TRỜI!!!</YayoHigh.stages.0.description>
-
-
-  <!-- Psychite addiction -->
-
-  <!-- psychite withdrawal -->
-  <PsychiteWithdrawal.stages.1.label>cai nghiện psychite</PsychiteWithdrawal.stages.1.label>
-  <!-- God I'm tired. Everything's so slow and boring. Especially me. -->
-  <PsychiteWithdrawal.stages.1.description>Người lạ ơi, cho em mượn ít tiền chơi thuốc đi...</PsychiteWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: psychite withdrawal -->
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>cai nghiện bạch phiến</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <!-- EN: God I'm tired. Everything's so slow and boring. Especially me. -->
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>Người lạ ơi, cho em mượn ít tiền chơi thuốc đi...</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.stages.high_on_yayo.label>phê bạch phiến</YayoHigh.stages.high_on_yayo.label>
+  <!-- EN: Feeling pumped! Let's do this! -->
+  <YayoHigh.stages.high_on_yayo.description>YEAH! TOẸT ZỜI ÔNG MẶT TRỜI!!!</YayoHigh.stages.high_on_yayo.description>
+  
 </LanguageData>

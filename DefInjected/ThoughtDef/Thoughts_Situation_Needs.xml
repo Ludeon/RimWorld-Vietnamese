@@ -1,148 +1,191 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- hungry -->
-  <NeedFood.stages.0.label>đói bụng</NeedFood.stages.0.label>
-  <!-- I'm really hungry. -->
-  <NeedFood.stages.0.description>Đói bụng quá!</NeedFood.stages.0.description>
-  <!-- ravenously hungry -->
-  <NeedFood.stages.1.label>Rất đói bụng</NeedFood.stages.1.label>
-  <!-- These hunger pangs are hard to ignore. -->
-  <NeedFood.stages.1.description>Cơn đói cứ thôi thúc mỗi lúc vậy.</NeedFood.stages.1.description>
-  <!-- malnourished -->
-  <NeedFood.stages.2.label>suy dinh dưỡng</NeedFood.stages.2.label>
-  <!-- It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
-  <NeedFood.stages.2.description>Bị bỏ đói quá lâu khiến cơ thể dần suy kiệt. Không thể tập trung việc gì cả.</NeedFood.stages.2.description>
-  <!-- badly malnourished -->
-  <NeedFood.stages.3.label>suy dinh dưỡng nặng</NeedFood.stages.3.label>
-  <!-- I can feel my body wasting away. My stomach hurts like never before. -->
-  <NeedFood.stages.3.description>Bản thân ngày càng gầy đi. Bao tử thì đau dữ dội hơn.</NeedFood.stages.3.description>
-  <!-- starving -->
-  <NeedFood.stages.4.label>chết đói</NeedFood.stages.4.label>
-  <!-- I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
-  <NeedFood.stages.4.description>Trong đầu chỉ có thể nghĩ về thức ăn. Cả người gầy trơ xương. Mình sẽ chết ư?</NeedFood.stages.4.description>
-  <!-- advanced starvation -->
-  <NeedFood.stages.5.label>chết đói khủng khiếp</NeedFood.stages.5.label>
-  <!-- I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
-  <NeedFood.stages.5.description>Trong đầu bây giờ chỉ có thức ăn. Bao tử đau như chưa từng được đau vậy. Cảm giác như sắp chết đến nơi rồi.</NeedFood.stages.5.description>
-  <!-- extreme starvation -->
-  <NeedFood.stages.6.label>chết đói tột độ</NeedFood.stages.6.label>
-  <!-- Food... food... anything... please... -->
-  <NeedFood.stages.6.description>Thức ăn... thức ăn... gì... cũng... được... làm... ơn...</NeedFood.stages.6.description>
-
-  <!-- drowsy -->
-  <NeedRest.stages.0.label>buồn ngủ</NeedRest.stages.0.label>
-  <!-- I haven't slept in a while. It's hard to keep focus. -->
-  <NeedRest.stages.0.description>Mình chưa được đủ giấc. Bây giờ cảm giác thật buồn ngủ.</NeedRest.stages.0.description>
-  <!-- tired -->
-  <NeedRest.stages.1.label>mệt mỏi</NeedRest.stages.1.label>
-  <!-- I'm so tired. I just want to lay down and rest for a few minutes... -->
-  <NeedRest.stages.1.description>Thật là mệt mỏi. Bây giờ chỉ muốn nằm xuống và đánh một giấc thật dài thôi...</NeedRest.stages.1.description>
-  <!-- exhausted -->
-  <NeedRest.stages.2.label>kiệt sức</NeedRest.stages.2.label>
-  <!-- I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
-  <NeedRest.stages.2.description>Bây giờ cả người rã rời, mí mắt cứ sụp liên hồi, không thể nào mà tập trung được. Cho tui ngủ đi mà...</NeedRest.stages.2.description>
-
-  <!-- recreation-starved -->
-  <NeedJoy.stages.0.label>thiếu niềm vui</NeedJoy.stages.0.label>
-  <!-- It's been so long since I did anything for fun on my own time. -->
-  <NeedJoy.stages.0.description>Lâu rồi chưa tìm thấy niềm vui nào cho bản thân cả.</NeedJoy.stages.0.description>
-  <!-- recreation-deprived -->
-  <NeedJoy.stages.1.label>thiếu thốn kiểu giải trí</NeedJoy.stages.1.label>
-  <!-- We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
-  <NeedJoy.stages.1.description>Chúng ta cần nhiều loại hình giải trí hơn và thời gian để giải trí. Nơi này thật tồi tàn mà.</NeedJoy.stages.1.description>
-  <!-- recreation unfulfilled -->
-  <NeedJoy.stages.2.label>không đáp ứng được nhu cầu giải trí</NeedJoy.stages.2.label>
-  <!-- We need more variation in the recreation activities, and I need time to enjoy them. -->
-  <NeedJoy.stages.2.description>Chúng ta cần nhiều loại hình giải trí hơn và thời gian để giải trí.</NeedJoy.stages.2.description>
-  <!-- recreation satisfied -->
-  <NeedJoy.stages.3.label>đáp ứng nhu cầu giải trí</NeedJoy.stages.3.label>
-  <!-- I've been having a great time doing various things I like to do. -->
-  <NeedJoy.stages.3.description>Mình đã có thời gian khá là vui khi được làm những gì mình thích.</NeedJoy.stages.3.description>
-  <!-- recreation fully satisfied -->
-  <NeedJoy.stages.4.label>thỏa mãn đầy đủ nhu cầu giải trí</NeedJoy.stages.4.label>
-  <!-- I've been enjoying myself so much, I love it! -->
-  <NeedJoy.stages.4.description>Thật là quãng thời gian vui vẻ mà!</NeedJoy.stages.4.description>
-
-  <!-- uncomfortable -->
-  <NeedComfort.stages.0.label>không thoải mái</NeedComfort.stages.0.label>
-  <!-- I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
-  <NeedComfort.stages.0.description>Bàn tọa của bổn phu thật không thoải mái mà. Nhờ các hạ xây giúp cái gì đó mềm mại để ngồi đi.</NeedComfort.stages.0.description>
-  <!-- comfortable -->
-  <NeedComfort.stages.1.label>thoải mái</NeedComfort.stages.1.label>
-  <!-- I've been comfortable recently. -->
-  <NeedComfort.stages.1.description>Vừa được hưởng cảm giác thoải mái.</NeedComfort.stages.1.description>
-  <!-- quite comfortable -->
-  <NeedComfort.stages.2.label>Khá thoải mái</NeedComfort.stages.2.label>
-  <!-- I've been very comfortable recently. -->
-  <NeedComfort.stages.2.description>Vừa thưởng thức cảm giác khá thoải mái.</NeedComfort.stages.2.description>
-  <!-- extremely comfortable -->
-  <NeedComfort.stages.3.label>cực kì thoải mái</NeedComfort.stages.3.label>
-  <!-- I've been extremely comfortable recently. This place is so cushy! -->
-  <NeedComfort.stages.3.description>Vừa được trải nghiệm giác cực kì thoải mái luôn. Nơi đây thật tuyệt vời mà!</NeedComfort.stages.3.description>
-  <!-- luxuriantly comfortable -->
-  <NeedComfort.stages.4.label>thỏa mãn</NeedComfort.stages.4.label>
-  <!-- I am resting on clouds of heaven. -->
-  <NeedComfort.stages.4.description>Cảm giác cứ như đang ở trên thiên đàng vậy.</NeedComfort.stages.4.description>
-
-  <!-- hideous environment -->
-  <NeedBeauty.stages.0.label>khu ổ chuột</NeedBeauty.stages.0.label>
-  <!-- This place is unbearably grotesque. I can't look at this any more. -->
-  <NeedBeauty.stages.0.description>Chỗ này thật kì quái. Mình không thể chịu nổi chỗ này nữa!</NeedBeauty.stages.0.description>
-  <!-- ugly environment -->
-  <NeedBeauty.stages.1.label>khu dơ bẩn</NeedBeauty.stages.1.label>
-  <!-- This place is really ugly. I wish I didn't have to look at this any more. -->
-  <NeedBeauty.stages.1.description>Nơi này thật xấu xí. Ước gì mình không phải thấy nơi này nữa.</NeedBeauty.stages.1.description>
-  <!-- unsightly environment -->
-  <NeedBeauty.stages.2.label>khu kém sang</NeedBeauty.stages.2.label>
-  <!-- This place is kind of unsightly. I wish I didn't have to look at all this. -->
-  <NeedBeauty.stages.2.description>Chỗ này thật kém sang. Trừ 100 điểm thanh lịch.</NeedBeauty.stages.2.description>
-  <!-- pretty environment -->
-  <NeedBeauty.stages.3.label>khu dễ nhìn</NeedBeauty.stages.3.label>
-  <!-- This place looks nice. -->
-  <NeedBeauty.stages.3.description>Chỗ này coi cũng được đó!</NeedBeauty.stages.3.description>
-  <!-- beautiful environment -->
-  <NeedBeauty.stages.4.label>khu xinh đẹp</NeedBeauty.stages.4.label>
-  <!-- I really like this place. It's beautiful. -->
-  <NeedBeauty.stages.4.description>Chỗ này đẹp quá à! Thích quá đi!</NeedBeauty.stages.4.description>
-  <!-- gorgeous environment -->
-  <NeedBeauty.stages.5.label>khu lung linh</NeedBeauty.stages.5.label>
-  <!-- This place is beautiful. It lifts me up and makes me love life. -->
-  <NeedBeauty.stages.5.description>Chỗ này thật lung linh, xinh đẹp và còn cho ta cảm giác yêu đời nữa.</NeedBeauty.stages.5.description>
-
-  <!-- confined interior -->
-  <NeedRoomSize.stages.0.label>lồng thú</NeedRoomSize.stages.0.label>
-  <!-- This space is so tiny. I feel like a rat in a cage. -->
-  <NeedRoomSize.stages.0.description>Nơi này thật chật hẹp. Cảm giác cứ như thú bị nhốt trong lồng vậy.</NeedRoomSize.stages.0.description>
-  <!-- cramped interior -->
-  <NeedRoomSize.stages.1.label>chật hẹp</NeedRoomSize.stages.1.label>
-  <!-- This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.1.description>Căn phòng này thật nhỏ. Ước gì chỗ này rộng một chút để mình có không gian để thở nữa.</NeedRoomSize.stages.1.description>
-  <!-- spacious interior -->
-  <NeedRoomSize.stages.2.label>không gian rộng rãi</NeedRoomSize.stages.2.label>
-  <!-- This room is so expansive, I feel free. -->
-  <NeedRoomSize.stages.2.description>Căn phòng này thật rộng rãi và thoáng đãng.</NeedRoomSize.stages.2.description>
-
-  <!-- entombed underground -->
-  <NeedOutdoors.stages.0.label>chôn lòng đất</NeedOutdoors.stages.0.label>
-  <!-- I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
-  <NeedOutdoors.stages.0.description>Tôi đã dưới lòng đất lâu quá rồi. Cảm giác cứ như cả quả núi như đang đè lên tôi vậy. Tôi cần ra ngoài hít thở không khí ngoài trời.</NeedOutdoors.stages.0.description>
-  <!-- trapped underground -->
-  <NeedOutdoors.stages.1.label>kẹt dưới lòng đất</NeedOutdoors.stages.1.label>
-  <!-- How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
-  <NeedOutdoors.stages.1.description>Mình dưới này bao lâu rồi nhỉ? Mình cần ra ngoài và hít thở khí trời thanh mát mới được.</NeedOutdoors.stages.1.description>
-  <!-- cabin fever -->
-  <NeedOutdoors.stages.2.label>không gian kín</NeedOutdoors.stages.2.label>
-  <!-- I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
-  <NeedOutdoors.stages.2.description>Ở trong nhà quá lâu khiến tôi cảm thấy mái nhà như đang đè xuống tôi vậy. Tôi cần ra ngoài và hít thở không khí trong lành.</NeedOutdoors.stages.2.description>
-  <!-- trapped indoors -->
-  <NeedOutdoors.stages.3.label>không gian dồn nén</NeedOutdoors.stages.3.label>
-  <!-- It's been too long since I've seen the sky. -->
-  <NeedOutdoors.stages.3.description>Đã lâu rồi tôi được được thấy mặt trời rồi đó!</NeedOutdoors.stages.3.description>
-  <!-- stuck indoors -->
-  <NeedOutdoors.stages.4.label>kẹt trong nhà</NeedOutdoors.stages.4.label>
-  <!-- I'd like to go outside and get some fresh air. -->
-  <NeedOutdoors.stages.4.description>Tôi muốn ra ngoài nhìn bầu trời xanh!</NeedOutdoors.stages.4.description>
-
-
+  
+  <!-- EN: chemical desire -->
+  <DrugDesireFascination.stages.chemical_desire-0.label>TODO</DrugDesireFascination.stages.chemical_desire-0.label>
+  <!-- EN: I want to experience the exciting effects of drugs. -->
+  <DrugDesireFascination.stages.chemical_desire-0.description>TODO</DrugDesireFascination.stages.chemical_desire-0.description>
+  <!-- EN: chemical desire -->
+  <DrugDesireFascination.stages.chemical_desire-1.label>TODO</DrugDesireFascination.stages.chemical_desire-1.label>
+  <!-- EN: I want to experience the exciting effects of drugs. I haven't had the chance to experience them in quite some time. -->
+  <DrugDesireFascination.stages.chemical_desire-1.description>TODO</DrugDesireFascination.stages.chemical_desire-1.description>
+  <!-- EN: chemical desire -->
+  <DrugDesireFascination.stages.chemical_desire-2.label>TODO</DrugDesireFascination.stages.chemical_desire-2.label>
+  <!-- EN: I want to experience the exciting effects of drugs. I haven't had the chance to experience them for a long time now. -->
+  <DrugDesireFascination.stages.chemical_desire-2.description>TODO</DrugDesireFascination.stages.chemical_desire-2.description>
+  
+  <!-- EN: chemical statisfaction -->
+  <DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.label>TODO</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.label>
+  <!-- EN: I am fascinated by the exciting effects of drugs. -->
+  <DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.description>TODO</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-0.description>
+  <!-- EN: chemical statisfaction -->
+  <DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.label>TODO</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.label>
+  <!-- EN: I am fascinated by the exciting effects of drugs. I've recently taken drugs and enjoyed their effect on me! -->
+  <DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.description>TODO</DrugDesireFascinationStatisfied.stages.chemical_statisfaction-1.description>
+  
+  <!-- EN: chemical desire -->
+  <DrugDesireInterest.stages.chemical_desire-0.label>TODO</DrugDesireInterest.stages.chemical_desire-0.label>
+  <!-- EN: I want to experience the exciting effects of drugs. -->
+  <DrugDesireInterest.stages.chemical_desire-0.description>TODO</DrugDesireInterest.stages.chemical_desire-0.description>
+  <!-- EN: chemical desire -->
+  <DrugDesireInterest.stages.chemical_desire-1.label>TODO</DrugDesireInterest.stages.chemical_desire-1.label>
+  <!-- EN: I want to experience the exciting effects of drugs. I havent had the chance to experience them in quite some time. -->
+  <DrugDesireInterest.stages.chemical_desire-1.description>TODO</DrugDesireInterest.stages.chemical_desire-1.description>
+  <!-- EN: chemical desire -->
+  <DrugDesireInterest.stages.chemical_desire-2.label>TODO</DrugDesireInterest.stages.chemical_desire-2.label>
+  <!-- EN: I want to experience the exciting effects of drugs. I havent had the chance to experience them for a long time now. -->
+  <DrugDesireInterest.stages.chemical_desire-2.description>TODO</DrugDesireInterest.stages.chemical_desire-2.description>
+  
+  <!-- EN: chemical statisfaction -->
+  <DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.label>TODO</DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.label>
+  <!-- EN: I am interested in experiencing the exciting effects of drugs. -->
+  <DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.description>TODO</DrugDesireInterestStatisfied.stages.chemical_statisfaction-0.description>
+  <!-- EN: chemical statisfaction -->
+  <DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.label>TODO</DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.label>
+  <!-- EN: I am fascinated by the exciting effects of drugs. I've recently taken drugs and enjoyed their effect on me! -->
+  <DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.description>TODO</DrugDesireInterestStatisfied.stages.chemical_statisfaction-1.description>
+  
+  <!-- EN: hideous environment -->
+  <NeedBeauty.stages.hideous_environment.label>môi trường gớm ghiếc</NeedBeauty.stages.hideous_environment.label>
+  <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
+  <NeedBeauty.stages.hideous_environment.description>Nơi này là kỳ cục không chịu nổi. Tôi không thể trông thấy mọi thứ nữa.</NeedBeauty.stages.hideous_environment.description>
+  <!-- EN: ugly environment -->
+  <NeedBeauty.stages.ugly_environment.label>môi trường xấu</NeedBeauty.stages.ugly_environment.label>
+  <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
+  <NeedBeauty.stages.ugly_environment.description>Nơi này thực sự xấu xí. Tôi ước tôi đã không phải trông thấy mọi thứ.</NeedBeauty.stages.ugly_environment.description>
+  <!-- EN: unsightly environment -->
+  <NeedBeauty.stages.unsightly_environment.label>môi trường khó coi</NeedBeauty.stages.unsightly_environment.label>
+  <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
+  <NeedBeauty.stages.unsightly_environment.description>Nơi này trông thật khó coi. Tôi ước tôi đã không phải trông thấy mọi thứ.</NeedBeauty.stages.unsightly_environment.description>
+  <!-- EN: pretty environment -->
+  <NeedBeauty.stages.pretty_environment.label>môi trường đẹp</NeedBeauty.stages.pretty_environment.label>
+  <!-- EN: This place looks nice. -->
+  <NeedBeauty.stages.pretty_environment.description>Nơi này có vẻ tốt đẹp.</NeedBeauty.stages.pretty_environment.description>
+  <!-- EN: beautiful environment -->
+  <NeedBeauty.stages.beautiful_environment.label>môi trường thật đẹp</NeedBeauty.stages.beautiful_environment.label>
+  <!-- EN: I really like this place. It's beautiful. -->
+  <NeedBeauty.stages.beautiful_environment.description>Tôi thực sự thích nơi này. Nó thật đẹp.</NeedBeauty.stages.beautiful_environment.description>
+  <!-- EN: gorgeous environment -->
+  <NeedBeauty.stages.gorgeous_environment.label>môi trường tuyệt đẹp</NeedBeauty.stages.gorgeous_environment.label>
+  <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
+  <NeedBeauty.stages.gorgeous_environment.description>Nơi này thật đẹp. Nó nâng tôi lên và làm cho tôi yêu cuộc sống.</NeedBeauty.stages.gorgeous_environment.description>
+  
+  <!-- EN: uncomfortable -->
+  <NeedComfort.stages.uncomfortable.label>Khó chịu</NeedComfort.stages.uncomfortable.label>
+  <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
+  <NeedComfort.stages.uncomfortable.description>Gần đây tôi cảm thấy khó chịu. Chúng ta cần phải có một cái gì đó mềm mại để ngồi quanh đây.</NeedComfort.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <NeedComfort.stages.comfortable.label>thoải mái</NeedComfort.stages.comfortable.label>
+  <!-- EN: I've been comfortable recently. -->
+  <NeedComfort.stages.comfortable.description>Gần đây tôi cảm thấy thoải mái.</NeedComfort.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <NeedComfort.stages.quite_comfortable.label>khá thoải mái</NeedComfort.stages.quite_comfortable.label>
+  <!-- EN: I've been very comfortable recently. -->
+  <NeedComfort.stages.quite_comfortable.description>Gần đây tôi rất thoải mái.</NeedComfort.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <NeedComfort.stages.extremely_comfortable.label>cực kỳ thoải mái</NeedComfort.stages.extremely_comfortable.label>
+  <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
+  <NeedComfort.stages.extremely_comfortable.description>Gần đây tôi đã rất thoải mái. Nơi này thật là cushy!</NeedComfort.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <NeedComfort.stages.luxuriantly_comfortable.label>thoải mái xa xỉ</NeedComfort.stages.luxuriantly_comfortable.label>
+  <!-- EN: I am resting on clouds of heaven. -->
+  <NeedComfort.stages.luxuriantly_comfortable.description>Tôi đang nghỉ ngơi trên mây trời.</NeedComfort.stages.luxuriantly_comfortable.description>
+  
+  <!-- EN: hungry -->
+  <NeedFood.stages.hungry.label>đói bụng</NeedFood.stages.hungry.label>
+  <!-- EN: I'm really hungry. -->
+  <NeedFood.stages.hungry.description>Tôi thực sự đói.</NeedFood.stages.hungry.description>
+  <!-- EN: ravenously hungry -->
+  <NeedFood.stages.ravenously_hungry.label>rất đói bụng</NeedFood.stages.ravenously_hungry.label>
+  <!-- EN: These hunger pangs are hard to ignore. -->
+  <NeedFood.stages.ravenously_hungry.description>Những cơn đói này rất khó bỏ qua.</NeedFood.stages.ravenously_hungry.description>
+  <!-- EN: malnourished -->
+  <NeedFood.stages.malnourished.label>suy dinh dưỡng</NeedFood.stages.malnourished.label>
+  <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
+  <NeedFood.stages.malnourished.description>Đã quá lâu kể từ khi tôi ăn. Tôi hoàn toàn mờ nhạt và thật khó để tập trung. Cơ thể tôi đang bắt đầu rụng rời.</NeedFood.stages.malnourished.description>
+  <!-- EN: badly malnourished -->
+  <NeedFood.stages.badly_malnourished.label>suy dinh dưỡng thậm tệ</NeedFood.stages.badly_malnourished.label>
+  <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
+  <NeedFood.stages.badly_malnourished.description>Tôi có thể cảm thấy cơ thể của tôi đang rụng rời. Bụng tôi đau như chưa từng thấy.</NeedFood.stages.badly_malnourished.description>
+  <!-- EN: starving -->
+  <NeedFood.stages.starving.label>chết đói</NeedFood.stages.starving.label>
+  <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
+  <NeedFood.stages.starving.description>Tôi hầu như không thể nghĩ về bất cứ điều gì ngoài thức ăn. Da tôi đang căng trên xương. Tôi sẽ chết à?</NeedFood.stages.starving.description>
+  <!-- EN: advanced starvation -->
+  <NeedFood.stages.advanced_starvation.label>chắc chắn chết đói</NeedFood.stages.advanced_starvation.label>
+  <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
+  <NeedFood.stages.advanced_starvation.description>Tôi hầu như không thể di chuyển hoặc suy nghĩ về bất cứ điều gì ngoài thức ăn. Bụng tôi đau như chưa từng thấy. Tôi cảm thấy như mình sắp bất tỉnh.</NeedFood.stages.advanced_starvation.description>
+  <!-- EN: extreme starvation -->
+  <NeedFood.stages.extreme_starvation.label>chết đói cùng cực</NeedFood.stages.extreme_starvation.label>
+  <!-- EN: Food... food... anything... please... -->
+  <NeedFood.stages.extreme_starvation.description>Thức ăn... thức ăn... bất cứ cái gì... làm ơn...</NeedFood.stages.extreme_starvation.description>
+  
+  <!-- EN: recreation-starved -->
+  <NeedJoy.stages.recreationstarved.label>giải trí bị lãng quên</NeedJoy.stages.recreationstarved.label>
+  <!-- EN: It's been so long since I did anything for fun on my own time. -->
+  <NeedJoy.stages.recreationstarved.description>Đã quá lâu kể từ khi tôi làm bất cứ điều gì cho vui vào thời gian riêng của mình.</NeedJoy.stages.recreationstarved.description>
+  <!-- EN: recreation-deprived -->
+  <NeedJoy.stages.recreationdeprived.label>thiếu giải trí</NeedJoy.stages.recreationdeprived.label>
+  <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
+  <NeedJoy.stages.recreationdeprived.description>Chúng tôi cần nhiều sự thay đổi trong các hoạt động giải trí và tôi cần thời gian để thưởng thức chúng. Nơi này thực sự buồn tẻ.</NeedJoy.stages.recreationdeprived.description>
+  <!-- EN: recreation unfulfilled -->
+  <NeedJoy.stages.recreation_unfulfilled.label>giải trí chưa hoàn hảo</NeedJoy.stages.recreation_unfulfilled.label>
+  <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
+  <NeedJoy.stages.recreation_unfulfilled.description>Chúng tôi cần nhiều sự thay đổi trong các hoạt động giải trí và tôi cần thời gian để thưởng thức chúng.</NeedJoy.stages.recreation_unfulfilled.description>
+  <!-- EN: recreation satisfied -->
+  <NeedJoy.stages.recreation_satisfied.label>hài lòng về giải trí</NeedJoy.stages.recreation_satisfied.label>
+  <!-- EN: I've been having a great time doing various things I like to do. -->
+  <NeedJoy.stages.recreation_satisfied.description>Tôi đã có một thời gian tuyệt vời để làm nhiều việc tôi muốn làm.</NeedJoy.stages.recreation_satisfied.description>
+  <!-- EN: recreation fully satisfied -->
+  <NeedJoy.stages.recreation_fully_satisfied.label>yêu thích giải trí</NeedJoy.stages.recreation_fully_satisfied.label>
+  <!-- EN: I've been enjoying myself so much, I love it! -->
+  <NeedJoy.stages.recreation_fully_satisfied.description>Tôi đã được tận hưởng rất nhiều, tôi yêu nó!</NeedJoy.stages.recreation_fully_satisfied.description>
+  
+  <!-- EN: entombed underground -->
+  <NeedOutdoors.stages.entombed_underground.label>chìm trong lòng đất</NeedOutdoors.stages.entombed_underground.label>
+  <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
+  <NeedOutdoors.stages.entombed_underground.description>Tôi đã ở dưới lòng đất quá lâu. Tôi cảm thấy sức nặng của ngọn núi này đang đè bẹp tôi. Tôi cần nhìn thấy bầu trời và cảm nhận gió.</NeedOutdoors.stages.entombed_underground.description>
+  <!-- EN: trapped underground -->
+  <NeedOutdoors.stages.trapped_underground.label>kẹt dưới lòng đất</NeedOutdoors.stages.trapped_underground.label>
+  <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
+  <NeedOutdoors.stages.trapped_underground.description>Tôi ở dưới lòng đất bao lâu rồi? Tôi cần ra ngoài trời trong lành và dành chút thời gian dưới bầu trời.</NeedOutdoors.stages.trapped_underground.description>
+  <!-- EN: cabin fever -->
+  <NeedOutdoors.stages.cabin_fever.label>căn phòng bức bối</NeedOutdoors.stages.cabin_fever.label>
+  <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
+  <NeedOutdoors.stages.cabin_fever.description>Tôi đã ở trong nhà quá lâu Tôi cảm thấy như mái nhà đang ấn vào. Tôi cần phải ra ngoài và nhìn thấy bầu trời.</NeedOutdoors.stages.cabin_fever.description>
+  <!-- EN: trapped indoors -->
+  <NeedOutdoors.stages.trapped_indoors.label>bị bẫy trong nhà</NeedOutdoors.stages.trapped_indoors.label>
+  <!-- EN: It's been too long since I've seen the sky. -->
+  <NeedOutdoors.stages.trapped_indoors.description>Đã quá lâu kể từ khi tôi nhìn thấy bầu trời.</NeedOutdoors.stages.trapped_indoors.description>
+  <!-- EN: stuck indoors -->
+  <NeedOutdoors.stages.stuck_indoors.label>mắc kẹt trong nhà</NeedOutdoors.stages.stuck_indoors.label>
+  <!-- EN: I'd like to go outside and get some fresh air. -->
+  <NeedOutdoors.stages.stuck_indoors.description>Tôi muốn ra ngoài và tận hưởng không khí trong lành.</NeedOutdoors.stages.stuck_indoors.description>
+  
+  <!-- EN: drowsy -->
+  <NeedRest.stages.drowsy.label>buồn ngủ</NeedRest.stages.drowsy.label>
+  <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
+  <NeedRest.stages.drowsy.description>Tôi đã không ngủ được một lúc. Thật khó để giữ tập trung.</NeedRest.stages.drowsy.description>
+  <!-- EN: tired -->
+  <NeedRest.stages.tired.label>mệt mỏi</NeedRest.stages.tired.label>
+  <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
+  <NeedRest.stages.tired.description>Tôi mệt quá. Tôi chỉ muốn nằm xuống và nghỉ ngơi trong vài phút...</NeedRest.stages.tired.description>
+  <!-- EN: exhausted -->
+  <NeedRest.stages.exhausted.label>kiệt sức</NeedRest.stages.exhausted.label>
+  <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
+  <NeedRest.stages.exhausted.description>Tôi kiệt sức đến mức tôi không thể đứng vững. Mí mắt của tôi nặng như chì. Để tôi ngủ...</NeedRest.stages.exhausted.description>
+  
+  <!-- EN: confined interior -->
+  <NeedRoomSize.stages.confined_interior.label>nội thất giới hạn</NeedRoomSize.stages.confined_interior.label>
+  <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
+  <NeedRoomSize.stages.confined_interior.description>Không gian này rất nhỏ. Tôi cảm thấy như một con chuột trong lồng.</NeedRoomSize.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <NeedRoomSize.stages.cramped_interior.label>nội thất chật chội</NeedRoomSize.stages.cramped_interior.label>
+  <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
+  <NeedRoomSize.stages.cramped_interior.description>Căn phòng này quá nhỏ. Tôi ước tôi có nhiều không gian hơn để di chuyển và thở.</NeedRoomSize.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <NeedRoomSize.stages.spacious_interior.label>nội thất rộng rãi</NeedRoomSize.stages.spacious_interior.label>
+  <!-- EN: This room is so expansive, I feel free. -->
+  <NeedRoomSize.stages.spacious_interior.description>Căn phòng này rất rộng, tôi cảm thấy tự do.</NeedRoomSize.stages.spacious_interior.description>
+  
 </LanguageData>

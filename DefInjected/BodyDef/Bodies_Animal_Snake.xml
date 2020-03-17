@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- snake -->
+  
+  <!-- EN: snake -->
   <Snake.label>rắn</Snake.label>
-  <!-- left lung -->
-  <Snake.corePart.parts.2.customLabel>phổi trái</Snake.corePart.parts.2.customLabel>
-  <!-- right lung -->
-  <Snake.corePart.parts.3.customLabel>phổi phải</Snake.corePart.parts.3.customLabel>
-  <!-- left kidney -->
-  <Snake.corePart.parts.4.customLabel>thận trái</Snake.corePart.parts.4.customLabel>
-  <!-- right kidney -->
-  <Snake.corePart.parts.5.customLabel>thận phải</Snake.corePart.parts.5.customLabel>
-  <!-- left eye -->
-  <Snake.corePart.parts.7.parts.1.customLabel>mắt trái</Snake.corePart.parts.7.parts.1.customLabel>
-  <!-- right eye -->
-  <Snake.corePart.parts.7.parts.2.customLabel>mắt phải</Snake.corePart.parts.7.parts.2.customLabel>
-
+  <!-- EN: left lung -->
+  <Snake.corePart.parts.left_lung.customLabel>phổi trái</Snake.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Snake.corePart.parts.right_lung.customLabel>phổi phải</Snake.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Snake.corePart.parts.left_kidney.customLabel>thận trái</Snake.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Snake.corePart.parts.right_kidney.customLabel>thận phải</Snake.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>mắt trái</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>mắt phải</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
+  
 </LanguageData>

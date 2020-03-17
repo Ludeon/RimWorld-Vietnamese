@@ -1,113 +1,140 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- mechanical centipede -->
-  <MechanicalCentipede.label>Rết Máy</MechanicalCentipede.label>
-  <!-- left sight sensor -->
-  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>cảm biến hình ảnh trái</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
-  <!-- right sight sensor -->
-  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>cảm biến hình ảnh phải</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
-  <!-- left hearing sensor -->
-  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>cảm biến âm thanh trái</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
-  <!-- right hearing sensor -->
-  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>cảm biến âm thanh phải</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
-
-  <!-- lancer -->
+  
+  <!-- EN: lancer -->
   <Lancer.label>Kỵ Binh Sắt</Lancer.label>
-  <!-- left sight sensor -->
-  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>cảm biến hình ảnh trái</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
-  <!-- right sight sensor -->
-  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>cảm biến hình ảnh phải</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
-  <!-- left hearing sensor -->
-  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>cảm biến âm thanh trái</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
-  <!-- right hearing sensor -->
-  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>cảm biến âm thanh phải</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
-  <!-- left shoulder -->
-  <Lancer.corePart.parts.1.customLabel>vai trái</Lancer.corePart.parts.1.customLabel>
-  <!-- left arm -->
-  <Lancer.corePart.parts.1.parts.0.customLabel>tay trái</Lancer.corePart.parts.1.parts.0.customLabel>
-  <!-- left hand -->
-  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>bàn tay trái</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
-  <!-- left pinky -->
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>ngón út tay trái</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
-  <!-- left middle finger -->
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>ngón giữa tay trái</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
-  <!-- left index finger -->
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>ngón trỏ tay trái</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
-  <!-- left thumb -->
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>ngón cái tay trái</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
-  <!-- right mechanical shoulder -->
-  <Lancer.corePart.parts.2.customLabel>vai máy bên phải</Lancer.corePart.parts.2.customLabel>
-  <!-- right arm -->
-  <Lancer.corePart.parts.2.parts.0.customLabel>tay phải</Lancer.corePart.parts.2.parts.0.customLabel>
-  <!-- right hand -->
-  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>bàn tay phải</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
-  <!-- right pinky -->
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>ngón út tay phải</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
-  <!-- right middle finger -->
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>ngón giữa tay phải</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
-  <!-- right index finger -->
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>ngón trỏ tay phải</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
-  <!-- right thumb -->
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>ngón cái tay phải</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
-  <!-- left leg -->
-  <Lancer.corePart.parts.3.customLabel>chân trái</Lancer.corePart.parts.3.customLabel>
-  <!-- left foot -->
-  <Lancer.corePart.parts.3.parts.0.customLabel>bàn chân trái</Lancer.corePart.parts.3.parts.0.customLabel>
-  <!-- right leg -->
-  <Lancer.corePart.parts.4.customLabel>chân phải</Lancer.corePart.parts.4.customLabel>
-  <!-- right foot -->
-  <Lancer.corePart.parts.4.parts.0.customLabel>bàn chân phải</Lancer.corePart.parts.4.parts.0.customLabel>
-
-  <!-- scyther -->
+  <!-- EN: left sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>cảm biến hình ảnh trái</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>cảm biến hình ảnh phải</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <Lancer.corePart.parts.left_shoulder.customLabel>vai trái</Lancer.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>bàn tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>ngón út tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ngón giữa tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ngón trỏ tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ngón cái tay trái</Lancer.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right mechanical shoulder -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>vai máy bên phải</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>bàn tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>ngón út tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ngón giữa tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ngón trỏ tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ngón cái tay phải</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Lancer.corePart.parts.left_leg.customLabel>chân trái</Lancer.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>bàn chân trái</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Lancer.corePart.parts.right_leg.customLabel>chân phải</Lancer.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>bàn chân phải</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <!-- EN: mechanical centipede -->
+  <MechanicalCentipede.label>Rết Máy</MechanicalCentipede.label>
+  <!-- EN: left sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>cảm biến hình ảnh trái</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>cảm biến hình ảnh phải</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: pikeman -->
+  <Pikeman.label>TODO</Pikeman.label>
+  <!-- EN: left sight sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: front left leg -->
+  <Pikeman.corePart.parts.front_left_leg.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left foot -->
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <!-- EN: front right leg -->
+  <Pikeman.corePart.parts.front_right_leg.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right foot -->
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <!-- EN: rear left leg -->
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left foot -->
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <!-- EN: rear right leg -->
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right foot -->
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+  <!-- EN: scyther -->
   <Scyther.label>Lưỡi Hái Sắt</Scyther.label>
-  <!-- left sight sensor -->
-  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>cảm biến hình ảnh trái</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
-  <!-- right sight sensor -->
-  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>cảm biến hình ảnh phải</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
-  <!-- left hearing sensor -->
-  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>cảm biến âm thanh trái</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
-  <!-- right hearing sensor -->
-  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>cảm biến âm thanh phải</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
-  <!-- left shoulder -->
-  <Scyther.corePart.parts.1.customLabel>vai trái</Scyther.corePart.parts.1.customLabel>
-  <!-- left arm -->
-  <Scyther.corePart.parts.1.parts.0.customLabel>tay trái</Scyther.corePart.parts.1.parts.0.customLabel>
-  <!-- left blade -->
-  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>dao tay trái</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
-  <!-- left hand -->
-  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>bàn tay trái</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
-  <!-- left pinky -->
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>ngón út tay trái</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
-  <!-- left middle finger -->
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>ngón giữa tay trái</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
-  <!-- left index finger -->
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>ngón trỏ tay trái</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
-  <!-- left thumb -->
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>ngón cái tay trái</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
-  <!-- right shoulder -->
-  <Scyther.corePart.parts.2.customLabel>vai phải</Scyther.corePart.parts.2.customLabel>
-  <!-- right arm -->
-  <Scyther.corePart.parts.2.parts.0.customLabel>tay phải</Scyther.corePart.parts.2.parts.0.customLabel>
-  <!-- right blade -->
-  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>dao tay phải</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
-  <!-- right hand -->
-  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>bàn tay phải</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
-  <!-- right pinky -->
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>ngón út tay phải</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
-  <!-- right middle finger -->
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>ngón giữa tay phải</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
-  <!-- right index finger -->
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>ngón trỏ tay phải</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
-  <!-- right thumb -->
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>ngón cái tay phải</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
-  <!-- left leg -->
-  <Scyther.corePart.parts.3.customLabel>chân trái</Scyther.corePart.parts.3.customLabel>
-  <!-- left foot -->
-  <Scyther.corePart.parts.3.parts.0.customLabel>bàn chân trái</Scyther.corePart.parts.3.parts.0.customLabel>
-  <!-- right leg -->
-  <Scyther.corePart.parts.4.customLabel>chân phải</Scyther.corePart.parts.4.customLabel>
-  <!-- right foot -->
-  <Scyther.corePart.parts.4.parts.0.customLabel>bàn chân phải</Scyther.corePart.parts.4.parts.0.customLabel>
-
+  <!-- EN: left sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>cảm biến hình ảnh trái</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>cảm biến hình ảnh phải</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <Scyther.corePart.parts.left_shoulder.customLabel>vai trái</Scyther.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left blade -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>dao tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <!-- EN: left hand -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>bàn tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>ngón út tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ngón giữa tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ngón trỏ tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ngón cái tay trái</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Scyther.corePart.parts.right_shoulder.customLabel>vai phải</Scyther.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right blade -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>dao tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <!-- EN: right hand -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>bàn tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>ngón út tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ngón giữa tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ngón trỏ tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ngón cái tay phải</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Scyther.corePart.parts.left_leg.customLabel>chân trái</Scyther.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>bàn chân trái</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Scyther.corePart.parts.right_leg.customLabel>chân phải</Scyther.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>bàn chân phải</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
 </LanguageData>

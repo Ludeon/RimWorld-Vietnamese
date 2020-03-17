@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- drop pod (incoming) -->
-  <DropPodIncoming.label>kén vận chuyển (đang tới)</DropPodIncoming.label>
-  <!-- drop pod (incoming) -->
-  <ExplosiveDropPodIncoming.label>kén vận chuyển (đang tới)</ExplosiveDropPodIncoming.label>
-  <!-- drop pod (leaving) -->
-  <DropPodLeaving.label>kén vận chuyển (rời đi)</DropPodLeaving.label>
-  <!-- ship chunk (incoming) -->
-  <ShipChunkIncoming.label>mảnh vỡ phi thuyền (đang tới)</ShipChunkIncoming.label>
-  <!-- crashed ship part (incoming) -->
+  
+  <!-- EN: crashed ship part (incoming) -->
   <CrashedShipPartIncoming.label>mảnh vỡ phi thuyền (đang tới)</CrashedShipPartIncoming.label>
-  <!-- meteorite (incoming) -->
+  
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncoming.label>kén vận chuyển (đang tới)</DropPodIncoming.label>
+  
+  <!-- EN: drop pod (leaving) -->
+  <DropPodLeaving.label>kén vận chuyển (rời đi)</DropPodLeaving.label>
+  
+  <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>thiên thạch (đang tới)</MeteoriteIncoming.label>
-
-
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming.label>mảnh phi thuyền (đang tới)</ShipChunkIncoming.label>
+  
 </LanguageData>

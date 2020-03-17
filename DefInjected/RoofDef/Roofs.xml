@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- constructed roof -->
-  <RoofConstructed.label>mái nhà được xây</RoofConstructed.label>
-  <!-- rock roof (thin) -->
-  <RoofRockThin.label>trần nhà đá (dày)</RoofRockThin.label>
-  <!-- overhead mountain -->
-  <RoofRockThick.label>trần nhà núi đá</RoofRockThick.label>
-
-
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>nhà có mái che</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>trần là núi</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>trần là đá (mỏng)</RoofRockThin.label>
+  
 </LanguageData>

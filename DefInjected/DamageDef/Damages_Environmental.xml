@@ -1,26 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- flame -->
-  <Flame.label>lửa</Flame.label>
-  <!-- {0} has burned to death. -->
-  <Flame.deathMessage>{0} đã chết cháy.</Flame.deathMessage>
-
-  <!-- Burn is like Flame, but doesn't ignite anything -->
-
-  <!-- burn -->
+  
+  <!-- EN: burn -->
   <Burn.label>bỏng</Burn.label>
-  <!-- {0} has burned to death. -->
+  <!-- EN: {0} has burned to death. -->
   <Burn.deathMessage>{0} đã chết vì bỏng nặng.</Burn.deathMessage>
-
-  <!-- frostbite -->
+  
+  <!-- EN: flame -->
+  <Flame.label>lửa</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} đã chết cháy.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>đóng băng</Frostbite.label>
-  <!-- {0} has succumbed to frostbite. -->
+  <!-- EN: {0} has succumbed to frostbite. -->
   <Frostbite.deathMessage>{0} đã chết cóng.</Frostbite.deathMessage>
-
-  <!-- scratch -->
+  
+  <!-- EN: scratch -->
   <TornadoScratch.label>cuốn bay</TornadoScratch.label>
-  <!-- {0} has been killed by a tornado. -->
+  <!-- EN: {0} has been killed by a tornado. -->
   <TornadoScratch.deathMessage>{0} đã chết vì lốc xoáy cuốn.</TornadoScratch.deathMessage>
-
+  
 </LanguageData>

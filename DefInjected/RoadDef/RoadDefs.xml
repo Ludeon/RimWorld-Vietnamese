@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- dirt path -->
-  <DirtPath.label>đường mòn đất</DirtPath.label>
-  <!-- dirt road -->
-  <DirtRoad.label>đường đất</DirtRoad.label>
-  <!-- stone road -->
-  <StoneRoad.label>đường lát đá</StoneRoad.label>
-  <!-- ancient asphalt road -->
-  <AncientAsphaltRoad.label>đường nhựa cổ đại</AncientAsphaltRoad.label>
-  <!-- ancient asphalt highway -->
+  
+  <!-- EN: ancient asphalt highway -->
   <AncientAsphaltHighway.label>xa lộ nhựa cổ đại</AncientAsphaltHighway.label>
-
-
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>đường nhựa cổ đại</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>đường mòn đất</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>đường đất</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>đường lát đá</StoneRoad.label>
+  
 </LanguageData>

@@ -1,284 +1,325 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
-  <!-- Bills -->
-  <TabBills>Công việc</TabBills>
-  <!-- Growing -->
-  <TabGrowing>Trồng trọt</TabGrowing>
-  <!-- Character -->
-  <TabCharacter>Tính cách</TabCharacter>
-  <!-- Training -->
-  <TabTraining>Huấn luyện</TabTraining>
-  <!-- Prisoner -->
+  <!-- EN: Bills -->
+  <TabBills>Danh mục</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Nẩy mầm</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Nhân vật</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Tập luyện</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Tù nhân</TabPrisoner>
-  <!-- Guest -->
+  <!-- EN: Guest -->
   <TabGuest>Khách</TabGuest>
-  <!-- Gear -->
+  <!-- EN: Gear -->
   <TabGear>Trang bị</TabGear>
-  <!-- Needs -->
+  <!-- EN: Needs -->
   <TabNeeds>Nhu cầu</TabNeeds>
-  <!-- Storage -->
-  <TabStorage>Kho chứa</TabStorage>
-  <!-- Shells -->
-  <TabShells>Đạn pháo</TabShells>
-  <!-- Health -->
+  <!-- EN: Storage -->
+  <TabStorage>Kho</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>Đạn</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Sức khỏe</TabHealth>
-  <!-- Race -->
-  <TabRace>Chủng loại</TabRace>
-  <!-- Basics -->
+  <!-- EN: Race -->
+  <TabRace>Chủng tộc</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Cơ bản</TabBasics>
-  <!-- Stats -->
+  <!-- EN: Stats -->
   <TabStats>Chỉ số</TabStats>
-  <!-- Records -->
-  <TabRecords>Lịch sử</TabRecords>
-  <!-- Art -->
-  <TabArt>Thẩm mỹ</TabArt>
-  <!-- Social -->
+  <!-- EN: Records -->
+  <TabRecords>Hồ sơ</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Nghệ thuật</TabArt>
+  <!-- EN: Social -->
   <TabSocial>Quan hệ</TabSocial>
-  <!-- Log -->
-  <TabLog>Nhật kí</TabLog>
-  <!-- Caravan -->
-  <TabFormingCaravan>Thương đoàn</TabFormingCaravan>
-
-
+  <!-- EN: Log -->
+  <TabLog>Nhật ký</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Đoàn xe</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Nội dung</TabTransporterContents>
+  <!-- EN: Contents -->
+  <TabCasketContents>TODO</TabCasketContents>
+  
   <!-- Bills tab  -->
-  <!-- Add bill -->
-  <AddBill>Thêm việc</AddBill>
-  <!-- The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>Việc {0} đòi hỏi kĩ năng sau. Không có người dân nào của bạn có kĩ năng đó nên không việc này sẽ không được thực hiện.</RecipeRequiresSkills>
-  <!-- Min skill -->
-  <MinimumSkill>Kĩ năng tối thiểu</MinimumSkill>
-  <!-- SUSPENDED -->
-  <SuspendedCaps>TẠM DỪNG</SuspendedCaps>
-  <!-- Worker: {0} -->
-  <BoundWorkerIs>Đang làm: {0}</BoundWorkerIs>
-  <!-- Plant -->
-  <PlantVerb>Thực vật</PlantVerb>
-  <!-- Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>Việc đã sao chép không thẻ dán ở dây.</ClipboardBillNotAvailableHere>
-  <!-- Move up -->
+  <!-- EN: Add bill -->
+  <AddBill>Thêm mục</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>Mục {0} yêu cầu các kỹ năng dưới đây. Không ai trong số những cư dân của bạn có những kỹ năng này, vì vậy không ai sẽ làm mục này.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Kỹ năng tối thiểu</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>HOÃN</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Công nhân: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Thiết kế</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Danh sách sao chép không thể được dán ở đây.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
   <ReorderBillUpTip>Đưa lên</ReorderBillUpTip>
-  <!-- Move down -->
+  <!-- EN: Move down -->
   <ReorderBillDownTip>Đưa xuống</ReorderBillDownTip>
-  <!-- Delete -->
+  <!-- EN: Delete -->
   <DeleteBillTip>Xóa</DeleteBillTip>
-  <!-- Copy to the clipboard -->
-  <CopyBillTip>Chép vào khay nhớ tạm</CopyBillTip>
-  <!-- Suspend -->
-  <SuspendBillTip>Tạm dừng</SuspendBillTip>
-  <!-- Paste -->
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Sao chép vào bộ nhớ</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>hoãn</SuspendBillTip>
+  <!-- EN: Paste -->
   <PasteBillTip>Dán</PasteBillTip>
-  <!-- can't add more -->
-  <PasteBillTip_LimitReached>không thể thêm</PasteBillTip_LimitReached>
-
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>không thể thêm nữa</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
-  <!-- Recruitment difficulty -->
-  <RecruitmentDifficulty>Độ khó khi tuyển mộ</RecruitmentDifficulty>
-  <!-- Gets food -->
-  <GetsFood>Cho ăn</GetsFood>
-  <!-- Doctors care -->
-  <DoctorsCare>Được chữa trị</DoctorsCare>
-  <!-- Gets medicine -->
-  <GetsMedicine>Chế độ y tế</GetsMedicine>
-  <!-- Try to recruit -->
-  <ShouldTryToRecruit>Cố tuyển mộ</ShouldTryToRecruit>
- <!-- Considered guilty (expires in {0}) -->
- <ConsideredGuilty>Mang tội (hết sau {0})</ConsideredGuilty>
-
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Kháng cự còn lại</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Độ khó kháng cự</RecruitmentDifficulty>
+  <!-- EN: Recruitment chance -->
+  <RecruitmentChance>TODO</RecruitmentChance>
+  <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
+  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
+  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <!-- EN: \nResistance reduction: {0} -->
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
+  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <!-- EN: Slave price -->
+  <SlavePrice>TODO</SlavePrice>
+  <!-- EN: Gets food -->
+  <GetsFood>Lấy thức ăn</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Bác sĩ chăm sóc</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Lấy thuốc</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Thử chiêu mộ</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>Bị coi là có tội (hết hạn trong {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
-  <!-- Move speed -->
+  <!-- EN: Move speed -->
   <MoveSpeed>Tốc độ di chuyển</MoveSpeed>
-  <!-- Efficiency -->
-  <Efficiency>Hiệu quả</Efficiency>
- <!-- Part efficiency -->
- <PartEfficiency>Độ hiệu quả của bộ phận</PartEfficiency>
- <!-- Body part efficiency -->
- <BodyPartEfficiency>Độ hiệu quả của bộ phân cơ thể</BodyPartEfficiency>
- <!-- Gone -->
- <MissingBodyPart>Mất</MissingBodyPart>
-  <!-- Destroyed -->
+  <!-- EN: Efficiency -->
+  <Efficiency>Hiệu suất</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>Phần bị ảnh hưởng</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Cơ thể bị ảnh hưởng</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Mất</MissingBodyPart>
+  <!-- EN: Destroyed -->
   <DestroyedBodyPart>Bị phá hủy</DestroyedBodyPart>
-  <!-- Shattered -->
-  <ShatteredBodyPart>Vỡ nát</ShatteredBodyPart>
-  <!-- Removed -->
-  <RemovedBodyPart>Lấy mất</RemovedBodyPart>
-  <!-- Healthy -->
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Bị nát</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Tháo gỡ</RemovedBodyPart>
+  <!-- EN: Healthy -->
   <Healthy>Khỏe mạnh</Healthy>
-  <!-- In pain -->
-  <InPain>Trong cơn đau</InPain>
-  <!-- Pain -->
-  <PainLevel>Cơn đau</PainLevel>
-  <!-- Injured -->
+  <!-- EN: In pain -->
+  <InPain>Đau</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Đau đớn</PainLevel>
+  <!-- EN: Injured -->
   <Injured>Bị thương</Injured>
-  <!-- no health conditions -->
-  <NoHealthConditions>không có biểu đồ sức khỏe</NoHealthConditions>
-  <!-- Whole body -->
-  <WholeBody>Cả người</WholeBody>
-  <!-- Data processing -->
-  <DataProcessing>Đang xử lí dữ liệu</DataProcessing>
-  <!-- Communication -->
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>Không bệnh tật</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Toàn thân</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Xử lý dữ liệu</DataProcessing>
+  <!-- EN: Communication -->
   <Communication>Giao tiếp</Communication>
-  <!-- Affects -->
+  <!-- EN: Affects -->
   <Affects>Ảnh hưởng</Affects>
-  <!-- Bleeding -->
-  <BleedingRate>Đang chảy máu</BleedingRate>
-  <!-- death in {0} -->
-  <TimeToDeath>chết sau {0}</TimeToDeath>
-  <!-- no immediate danger -->
-  <WontBleedOutSoon>không có nguy hiểm tức thời</WontBleedOutSoon>
-  <!-- Overview -->
-  <HealthOverview>Tổng quát</HealthOverview>
-  <!-- Operations ({0}) -->
-  <MedicalOperationsShort>Phẫu thuật ({0})</MedicalOperationsShort>
-  <!-- Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>Chỉnh sửa ({0})</MedicalOperationsMechanoidsShort>
-  <!-- Medical operations -->
-  <MedicalOperations>Phẫu thuật y tế</MedicalOperations>
-  <!-- amputate -->
-  <Amputate>cắt bỏ</Amputate>
-  <!-- harvest -->
-  <HarvestOrgan>thu hoạch</HarvestOrgan>
-  <!-- remove -->
-  <RemoveOrgan>lấy ra</RemoveOrgan>
-  <!-- memory -->
-  <MemoryLower>trí nhớ</MemoryLower>
-  <!-- social interactions -->
-  <SocialInteractionsLower>giao tiếp xã hội</SocialInteractionsLower>
-  <!-- Hunger rate -->
-  <HungerRate>Mức độ đói</HungerRate>
-  <!-- Tiredness -->
+  <!-- EN: Bleeding -->
+  <BleedingRate>Chảy máu</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>chết trong {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>không nguy kịch</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Tổng quan</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Hoạt động ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Sửa đổi ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Hoạt động y tế</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>cưa</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>lấy</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>tháo</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>ký ức</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>tương tác xã hội</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Tỷ lệ đói</HungerRate>
+  <!-- EN: Tiredness -->
   <Tiredness>Mệt mỏi</Tiredness>
-  <!-- Pain -->
-  <PainFactor>Cơn đau</PainFactor>
-  <!-- Prevents infection -->
-  <PreventsInfection>Ngăn ngừa nhiễm khuẩn</PreventsInfection>
-  <!-- Self-tend -->
-  <SelfTend>Tự chữa trị</SelfTend>
-  <!-- {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>Nếu cho phép, {0} sẽ tự động chữa trị cho bản thân với chất lượng ở mức {1} so với bình thường.</SelfTendTip>
-
-
+  <!-- EN: Pain -->
+  <PainFactor>Đau đớn</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>Ngăn ngừa nhiễm trùng</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>Tự chăm sóc</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>{0} với tính năng tự chăm sóc sẽ có xu hướng tự chăm sóc bản thân nhưng chỉ đạt {1} hiệu quả so với bình thường.</SelfTendTip>
+  
   <!-- Medical - Body and activities condition -->
-  <!-- None -->
-  <None>Mất</None>
-  <!-- Very poor -->
-  <VeryPoor>Cực tệ</VeryPoor>
-  <!-- Poor -->
+  <!-- EN: None -->
+  <None>Không</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Rất tệ</VeryPoor>
+  <!-- EN: Poor -->
   <Poor>Tệ</Poor>
-  <!-- Weakened -->
+  <!-- EN: Weakened -->
   <Weakened>Yếu</Weakened>
-  <!-- OK -->
+  <!-- EN: OK -->
   <GoodCondition>OK</GoodCondition>
-  <!-- Enhanced -->
-  <Enhanced>Mạnh</Enhanced>
-  <!-- Seriously impaired -->
-  <SeriouslyImpaired>Suy nhược nặng</SeriouslyImpaired>
-  <!-- Impaired -->
-  <Impaired>Suy nhược</Impaired>
-  <!-- Slightly impaired -->
-  <SlightlyImpaired>Suy nhược nhẹ</SlightlyImpaired>
-  <!-- None -->
-  <NoPain>Không có</NoPain>
-  <!-- Little -->
+  <!-- EN: Enhanced -->
+  <Enhanced>Nâng cấp</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Suy yếu nghiêm trọng</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Suy yếu</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Hơi suy yếu</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Không</NoPain>
+  <!-- EN: Little -->
   <LittlePain>Nhẹ</LittlePain>
-  <!-- Medium -->
-  <MediumPain>Trung bình</MediumPain>
-  <!-- Severe -->
+  <!-- EN: Medium -->
+  <MediumPain>Vừa</MediumPain>
+  <!-- EN: Severe -->
   <SeverePain>Nặng</SeverePain>
-  <!-- Extreme -->
-  <ExtremePain>Cực nặng</ExtremePain>
-
+  <!-- EN: Extreme -->
+  <ExtremePain>Rất nặng</ExtremePain>
 
   <!-- Training tab -->
-  <!-- Trainability -->
+  <!-- EN: Trainability -->
   <Trainability>Khả năng huấn luyện</Trainability>
-  <!-- Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>Yêu cầu khả năng huấn luyện {0}</CannotTrainNotSmartEnough>
-  <!-- {0} is too small to train this. -->
-  <CannotTrainTooSmall>{0} quá nhỏ để huấn luyện việc này.</CannotTrainTooSmall>
+  <!-- EN: Requires {0} trainability. -->
+  <CannotTrainNotSmartEnough>Yêu cầu khả năng huấn luyện {0}.</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} quá thấp để đào tạo điều này.</CannotTrainTooSmall>
 
-  <!-- Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>Yêu cầu tiên quyết: {0}</TrainingNeedsPrerequisite>
-
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Điều kiện yêu cầu cần thiết: {0}</TrainingNeedsPrerequisite>
+  
   <!-- Social tab -->
-  <!-- (no relationships) -->
-  <NoRelationships>(không có mỗi quan hệ nào)</NoRelationships>
-  <!-- Kidnapped -->
-  <Kidnapped>Đã bị bắt cóc</Kidnapped>
-  <!-- Missing -->
-  <Missing>Mất tích</Missing>
-  <!-- Slave -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(không có mối quan hệ)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Bị bắt cóc</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>TODO</Lent>
+  <!-- EN: Missing -->
+  <Missing>Bị lạc</Missing>
+  <!-- EN: Slave -->
   <Slave>Nô lệ</Slave>
-  <!-- Faction leader -->
-  <FactionLeader>Thủ lĩnh băng nhóm</FactionLeader>
-  <!-- Opinion of {0} -->
-  <OpinionOf>Cảm nghĩ về {0}</OpinionOf>
-  <!-- {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>Cảm nghĩ của {0} về bản thân</SomeonesOpinionOfMe>
-  <!-- I'm dead -->
-  <IAmDead>I'm dead</IAmDead>
-  <!-- I'm a psychopath -->
-  <IAmPsychopath>I'm psychopath</IAmPsychopath>
-
+  <!-- EN: Faction leader -->
+  <FactionLeader>Lãnh đạo băng nhóm</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Quan điểm của {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>cảm nhận của {1_labelShort} về tôi</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Tôi đã chết rồi ông giáo ạ</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Tôi là kẻ thần kinh</IAmPsychopath>
+  
   <!-- Gear tab -->
-  <!-- Overall armor -->
-  <OverallArmor>Tổng quát trang bị</OverallArmor>
-  <!-- Mass carried: {0} / {1} kg -->
-  <MassCarried>Khối lượng mang: {0} / {1} kg</MassCarried>
-  <!-- Comfortable temperature range -->
-  <ComfyTemperatureRange>Mức nhiệt độ chịu được</ComfyTemperatureRange>
-  <!-- Blunt -->
-  <ArmorBlunt>Kháng va đập</ArmorBlunt>
-  <!-- Sharp -->
-  <ArmorSharp>Kháng mảnh</ArmorSharp>
-  <!-- Heat -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Giáp tổng thể</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>Độ nặng có thể mang: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>Phạm vi nhiệt độ thoải mái</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>Kháng đập</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>Kháng sắc bén</ArmorSharp>
+  <!-- EN: Heat -->
   <ArmorHeat>Kháng nhiệt</ArmorHeat>
-
+  
   <!-- Log tab -->
-  <!-- Show all -->
+  <!-- EN: Show all -->
   <ShowAll>Hiện tất cả</ShowAll>
-  <!-- Show combat -->
-  <ShowCombat>Hiện giao tranh</ShowCombat>
-  <!-- Show social -->
-  <ShowSocial>Hiện giao tiếp</ShowSocial>
-  <!-- no recent entries -->
-  <NoRecentEntries>không có nhật kí</NoRecentEntries>
-  <!-- Copy log to the clipboard. -->
-  <CopyLogTip>Chép nhật kí vào khay nhớ tạm</CopyLogTip>
+  <!-- EN: Show combat -->
+  <ShowCombat>Hiện chiến đấu</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Hiện xã hội</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>không có mục gần đây</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <!-- Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>Đang tập hợp thú</FormingCaravanStatus_GatheringAnimals>
-  <!-- Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>Đang tập hợp thú (đang đợi)</FormingCaravanStatus_GatheringAnimals_Pause>
-  <!-- Gathering items -->
-  <FormingCaravanStatus_GatheringItems>Đang lấy vật phẩm</FormingCaravanStatus_GatheringItems>
-  <!-- Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>Đang lấy vật phẩm (đang đợi)</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>Đang tập hợp nô lệ</FormingCaravanStatus_GatheringSlaves>
-  <!-- Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>Đang tập hợp nô lệ (đang đợi)</FormingCaravanStatus_GatheringSlaves_Pause>
-  <!-- Leaving -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Gom động vật</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Gom động vật (đang chờ)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Gom vật phẩm</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Gom vật phẩm (đang chờ)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Gom nô lệ</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Gom nô lệ (đang chờ)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Gom người bị hạ</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Gom người bị hạ (đang chờ)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Rời đi</FormingCaravanStatus_Leaving>
-  <!-- Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>Rời đi (đang đợi)</FormingCaravanStatus_Leaving_Pause>
-  <!-- Waiting -->
-  <FormingCaravanStatus_Waiting>Đang đợi</FormingCaravanStatus_Waiting>
-  <!-- Members -->
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Rời đi (đang chờ)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Đang chờ</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
   <CaravanMembers>Thành viên</CaravanMembers>
-  <!-- Animals -->
-  <CaravanAnimals>Thú nuôi</CaravanAnimals>
-  <!-- Items to load -->
-  <ItemsToLoad>Vật phẩm chờ tải</ItemsToLoad>
-  <!-- Loaded items -->
-  <LoadedItems>Vật phẩm đã tải lên</LoadedItems>
-  <!-- pack animals -->
-  <PackAnimalsCountLower>thú mang đồ</PackAnimalsCountLower>
-  <!-- mentally broken -->
-  <InMentalStateCountLower>suy sụp thần kinh</InMentalStateCountLower>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Động vật</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>Các mặt hàng để tải</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Các mặt hàng đã tải</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>gói động vật</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>suy sụp tinh thần</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Loại bỏ {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>TODO</ContainedItems>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Bạn có thực sự muốn loại bỏ {0}?</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
+  <DismissQuest>TODO</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>TODO</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>TODO</QuestDismissed>
 
 </LanguageData>

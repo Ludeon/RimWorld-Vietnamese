@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- rect trigger -->
-  <RectTrigger.label>rect trigger</RectTrigger.label>
-  <!-- explosion -->
-  <Explosion.label>nổ</Explosion.label>
-  <!-- blight -->
+  
+  <!-- EN: blight -->
   <Blight.label>sáng</Blight.label>
-  <!-- tornado -->
+  
+  <!-- EN: explosion -->
+  <Explosion.label>nổ</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>rect trigger</RectTrigger.label>
+  
+  <!-- EN: tornado -->
   <Tornado.label>vòi rồng</Tornado.label>
-  <!-- tunnel -->
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>hầm</TunnelHiveSpawner.label>
-
-
+  
 </LanguageData>

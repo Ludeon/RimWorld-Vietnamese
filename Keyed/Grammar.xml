@@ -1,52 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- a -->
+  <!-- EN: a -->
   <IndefiniteArticle>một</IndefiniteArticle>
-  <!-- the -->
-  <DefiniteArticle></DefiniteArticle>
-  <!-- a {0} -->
+  <!-- EN: the -->
+  <DefiniteArticle>the</DefiniteArticle>
+  <!-- EN: a {0} -->
   <IndefiniteForm>một {0}</IndefiniteForm>
-  <!-- the {0} -->
-  <DefiniteForm>{0}</DefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>the {0}</DefiniteForm>
 
-  <!-- its -->
+  <!-- EN: its -->
   <Proits>của nó</Proits>
-  <!-- his -->
+  <!-- EN: his -->
   <Prohis>của anh ấy</Prohis>
-  <!-- her -->
+  <!-- EN: her -->
   <Proher>của cô ấy</Proher>
-  <!-- Its -->
+  <!-- EN: Its -->
   <ProitsCap>Của nó</ProitsCap>
-  <!-- His -->
+  <!-- EN: His -->
   <ProhisCap>Của anh ấy</ProhisCap>
-  <!-- Her -->
+  <!-- EN: Her -->
   <ProherCap>Của cô ấy</ProherCap>
 
-  <!-- it -->
+  <!-- EN: it -->
   <ProitObj>nó</ProitObj>
-  <!-- him -->
+  <!-- EN: him -->
   <ProhimObj>anh ấy</ProhimObj>
-  <!-- her -->
+  <!-- EN: her -->
   <ProherObj>cô ấy</ProherObj>
-  <!-- It -->
+  <!-- EN: It -->
   <ProitObjCap>Nó</ProitObjCap>
-  <!-- Him -->
+  <!-- EN: Him -->
   <ProhimObjCap>Anh ấy</ProhimObjCap>
-  <!-- Her -->
+  <!-- EN: Her -->
   <ProherObjCap>Cô ấy</ProherObjCap>
 
-  <!-- he -->
-  <Prohe>anh ấy</Prohe>
-  <!-- she -->
-  <Proshe>cô ấy</Proshe>
-  <!-- it -->
+  <!-- EN: he -->
+  <Prohe>anh ta</Prohe>
+  <!-- EN: she -->
+  <Proshe>cô ta</Proshe>
+  <!-- EN: it -->
   <Proit>nó</Proit>
-  <!-- He -->
-  <ProheCap>Anh ấy</ProheCap>
-  <!-- She -->
-  <ProsheCap>Cô ấy</ProsheCap>
-  <!-- It -->
+  <!-- EN: He -->
+  <ProheCap>Anh ta</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Cô ta</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>Nó</ProitCap>
+
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>TODO</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>TODO</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>TODO</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>TODO</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>TODO</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>TODO</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>TODO</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>TODO</XorY>
 
 </LanguageData>

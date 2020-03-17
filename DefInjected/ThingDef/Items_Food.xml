@@ -1,40 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- packaged survival meal -->
-  <MealSurvivalPack.label>thức ăn đóng hộp</MealSurvivalPack.label>
-  <!-- A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can stilll deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>Thức ăn chất lượng cao được đóng thành hộp dành cho mục đích du lịch, di chuyển đường dài,... Tuy nó không bao giờ bị ôi thiu nhưng nếu để ngoài trời nó vẫn có thể bị hư hại qua ngày.</MealSurvivalPack.description>
-
-  <!-- nutrient paste meal -->
-  <MealNutrientPaste.label>thức ăn hỗn hợp</MealNutrientPaste.label>
-  <!-- A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>Hỗn hợp gồm prô-tê-in, các-bon hi-đờ-rát, vi-ta-min, a-xít a-mi-nô, khoáng chất,... mọi thứ mà cơ thể cần để duy trì sự sống. Hỗn hợp được tạo ra từ việc xay nhuyễn thực phẩm thô (thịt, rau củ, quả,...) và mùi vị thì vô cùng kinh tởm.</MealNutrientPaste.description>
-
-  <!-- simple meal -->
-  <MealSimple.label>món bình thương</MealSimple.label>
-  <!-- A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>Như tên gọi: đơn giản, nấu nhanh, chỉ dùng 1 loại nguyên liệu chính. Ngoài ra chả có gì đặt sắc.</MealSimple.description>
-
-  <!-- fine meal -->
-  <MealFine.label>món ngon</MealFine.label>
-  <!-- A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>Được nấu từ thịt và rau củ, khẩu vị khá ngon (+5 điểm tâm trạng).</MealFine.description>
-
-  <!-- lavish meal -->
-  <MealLavish.label>món cực phẩm</MealLavish.label>
-  <!-- A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>Chỉ có thể được nấu bởi bàn tay của đầu bếp nhà hàng 5 sao. Tinh túy từ nguyên liệu hòa trộn làm thỏa mãn cả cơ thể lẫn tinh thần của người ăn.</MealLavish.description>
-
-  <!-- kibble -->
-  <Kibble.label>thức ăn chăn nuôi</Kibble.label>
-  <!-- Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  
+  <!-- EN: kibble -->
+  <Kibble.label>thức ăn gia súc</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
   <Kibble.description>Thức ăn ở dạng hạt nhỏ giành cho thú nuôi làm từ thịt và rau củ. Con người có thể ăn nhưng họ cực kì, cực kì ghét nó.</Kibble.description>
-
-  <!-- pemmican -->
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>bữa ăn ngon</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>Được nấu từ thịt và rau củ, khẩu vị khá ngon (+5 điểm tâm trạng).</MealFine.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>bữa ăn xa hoa</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Một kiệt tác nghệ thuật của ẩm thực, bữa ăn này làm thỏa mãn cả cơ thể lẫn tinh thần của người ăn.</MealLavish.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>thức ăn hỗn hợp</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>Hỗn hợp gồm prô-tê-in, các-bon hi-đờ-rát, vi-ta-min, a-xít a-mi-nô, khoáng chất,... mọi thứ mà cơ thể cần để duy trì sự sống. Hỗn hợp được tạo ra từ việc xay nhuyễn thực phẩm thô (thịt, rau củ, quả,...) và mùi vị thì vô cùng kinh tởm.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>bữa ăn đơn giản</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>Như tên gọi: đơn giản, nấu nhanh, chỉ dùng 1 loại nguyên liệu chính. Ngoài ra chả có gì đặt sắc.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>thức ăn đóng hộp</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Thức ăn chất lượng cao được đóng thành hộp dành cho mục đích du lịch, di chuyển đường dài,... Tuy nó không bao giờ bị ôi thiu nhưng nếu để ngoài trời nó vẫn có thể bị hư hại qua ngày.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
   <Pemmican.label>lương khô</Pemmican.label>
-  <!-- A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
   <Pemmican.description>Thức ăn được sấy khô để bảo quản được lâu hơn. Không có vị gì hết. Tồn tại rất lâu trước khi bị ôi thiu. Thích hợp đem theo lữ đoàn.</Pemmican.description>
-
-
+  
 </LanguageData>

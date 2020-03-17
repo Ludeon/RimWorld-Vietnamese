@@ -1,77 +1,90 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- d -->
+  <!-- EN: d -->
   <LetterDay> ngày </LetterDay>
-  <!-- h -->
+  <!-- EN: h -->
   <LetterHour> giờ </LetterHour>
-  <!-- m -->
+  <!-- EN: m -->
   <LetterMinute> phút </LetterMinute>
-  <!-- s -->
+  <!-- EN: s -->
   <LetterSecond> giây </LetterSecond>
-
-  <!-- days -->
+  <!-- EN: y -->
+  <LetterYear>TODO</LetterYear>
+  
+  <!-- EN: days -->
   <DaysLower> ngày </DaysLower>
-  <!-- seconds -->
+  <!-- EN: hours -->
+  <HoursLower>TODO</HoursLower>
+  <!-- EN: seconds -->
   <SecondsLower> giây </SecondsLower>
 
-  <!-- spring -->
+  <!-- EN: spring -->
   <SeasonSpring>mùa xuân</SeasonSpring>
-  <!-- summer -->
+  <!-- EN: summer -->
   <SeasonSummer>mùa hạ</SeasonSummer>
-  <!-- fall -->
+  <!-- EN: fall -->
   <SeasonFall>mùa thu</SeasonFall>
-  <!-- winter -->
+  <!-- EN: winter -->
   <SeasonWinter>mùa đông</SeasonWinter>
-  <!-- permanent summer -->
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>mùa hạ vĩnh cữu</SeasonPermanentSummer>
-  <!-- permanent winter -->
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>mùa đông vĩnh cữu</SeasonPermanentWinter>
 
-  <!-- Aprimay -->
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <!-- Jugust -->
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <!-- Septober -->
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <!-- Decembary -->
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Quý I</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Quý II</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Quý III</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Quý IV</QuadrumDecembary>
 
-  <!-- Born: {0} -->
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
   <Born>Sinh: {0}</Born>
-  <!-- Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Tuổi niên đại: {0} năm, {1} tháng, {2} ngày</AgeChronological>
-  <!-- Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Tuổi sinh lý: {0} năm, {1} tháng, {2} ngày</AgeBiological>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Tuổi niên đại: {0} năm, {1} quý, {2} ngày</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Tuổi sinh lý: {0} năm, {1} quý, {2} ngày</AgeBiological>
 
   <!-- Date periods -->
-  <!-- 1 year -->
+  <!-- EN: 1 year -->
   <Period1Year>1 năm</Period1Year>
-  <!-- {0} years -->
+  <!-- EN: {0} years -->
   <PeriodYears>{0} năm</PeriodYears>
-  <!-- 1 quadrum -->
-  <Period1Quadrum>1 tháng</Period1Quadrum>
-  <!-- {0} quadrums -->
-  <PeriodQuadrums>{0} tháng</PeriodQuadrums>
-  <!-- 1 day -->
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 quý</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} quý</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 ngày</Period1Day>
-  <!-- {0} days -->
+  <!-- EN: {0} days -->
   <PeriodDays>{0} ngày</PeriodDays>
-  <!-- 1 hour -->
+  <!-- EN: 1 hour -->
   <Period1Hour>1 giờ</Period1Hour>
-  <!-- {0} hours -->
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} giờ</PeriodHours>
-  <!-- 1 second -->
+  <!-- EN: 1 second -->
   <Period1Second>1 giây</Period1Second>
-  <!-- {0} seconds -->
+  <!-- EN: {0} seconds -->
   <PeriodSeconds>{0} giây</PeriodSeconds>
 
   <!-- Misc -->
-  <!-- Started -->
-  <Started>Bắt đầu từ</Started>
-  <!-- Lasted -->
-  <Lasted>Đã kéo dài</Lasted>
-  <!-- occurred {0} ago -->
-  <OccurredTimeAgo>xảy ra {0} trước</OccurredTimeAgo>
-
+  <!-- EN: Started -->
+  <Started>Bắt đầu</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Tồn tại</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>xảy ra {0} trước đây</OccurredTimeAgo>
+  
 </LanguageData>

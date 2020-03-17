@@ -1,48 +1,47 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- ancients -->
+  
+  <!-- EN: neutral ancients -->
   <Ancients.label>cổ đại</Ancients.label>
-  <!-- Ancients -->
+  <!-- EN: Ancients -->
   <Ancients.fixedName>Cổ đại</Ancients.fixedName>
-  <!-- leader -->
+  <!-- EN: leader -->
   <Ancients.leaderTitle>thủ lĩnh</Ancients.leaderTitle>
-  <!-- ancient -->
+  <!-- EN: ancient -->
   <Ancients.pawnSingular>cổ đại</Ancients.pawnSingular>
-  <!-- ancients -->
+  <!-- EN: ancients -->
   <Ancients.pawnsPlural>cổ đại</Ancients.pawnsPlural>
-
-  <!-- ancients -->
+  
+  <!-- EN: hostile ancients -->
   <AncientsHostile.label>cổ đại</AncientsHostile.label>
-  <!-- Ancients -->
+  <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Cổ đại</AncientsHostile.fixedName>
-  <!-- leader -->
+  <!-- EN: leader -->
   <AncientsHostile.leaderTitle>thủ lĩnh</AncientsHostile.leaderTitle>
-  <!-- ancient -->
+  <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>cổ đại</AncientsHostile.pawnSingular>
-  <!-- ancients -->
+  <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>cổ đại</AncientsHostile.pawnsPlural>
-
-  <!-- mechanoid hive -->
-  <Mechanoid.label>tổ máy móc</Mechanoid.label>
-  <!-- a mechanoid hive -->
-  <Mechanoid.fixedName>một tổ máy móc</Mechanoid.fixedName>
-  <!-- leader -->
-  <Mechanoid.leaderTitle>đầu đàn</Mechanoid.leaderTitle>
-  <!-- mechanoid -->
-  <Mechanoid.pawnSingular>cỗ máy</Mechanoid.pawnSingular>
-  <!-- mechanoids -->
-  <Mechanoid.pawnsPlural>nhiều cỗ máy</Mechanoid.pawnsPlural>
-
-  <!-- insects -->
+  
+  <!-- EN: insects -->
   <Insect.label>sâu bọ</Insect.label>
-  <!-- insects -->
+  <!-- EN: Sorne Insect Geneline -->
   <Insect.fixedName>sâu bọ</Insect.fixedName>
-  <!-- leader -->
+  <!-- EN: leader -->
   <Insect.leaderTitle>đầu đàn</Insect.leaderTitle>
-  <!-- insect -->
+  <!-- EN: insect -->
   <Insect.pawnSingular>sâu bọ</Insect.pawnSingular>
-  <!-- insects -->
+  <!-- EN: insects -->
   <Insect.pawnsPlural>sâu bọ</Insect.pawnsPlural>
-
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>tổ máy móc</Mechanoid.label>
+  <Mechanoid.fixedName>một tổ máy móc</Mechanoid.fixedName>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>đầu đàn</Mechanoid.leaderTitle>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>cỗ máy</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>nhiều cỗ máy</Mechanoid.pawnsPlural>
+  
 </LanguageData>

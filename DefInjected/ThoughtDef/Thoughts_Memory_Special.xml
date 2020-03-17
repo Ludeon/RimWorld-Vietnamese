@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- strange feeling -->
-  <ArtifactMoodBoost.stages.0.label>cảm giác lạ</ArtifactMoodBoost.stages.0.label>
-  <!-- I feel strange, but also very relaxed. -->
-  <ArtifactMoodBoost.stages.0.description>Tôi cảm thấy trong người lạ lắm, cảm giác thật sảng khoái làm sao.</ArtifactMoodBoost.stages.0.description>
-
-
+  
+  <!-- EN: strange feeling -->
+  <ArtifactMoodBoost.stages.strange_feeling.label>cảm giác kỳ lạ</ArtifactMoodBoost.stages.strange_feeling.label>
+  <!-- EN: I feel strange, but also very relaxed. -->
+  <ArtifactMoodBoost.stages.strange_feeling.description>Tôi thấy lạ, nhưng cũng rất thư thái.</ArtifactMoodBoost.stages.strange_feeling.description>
+  
 </LanguageData>

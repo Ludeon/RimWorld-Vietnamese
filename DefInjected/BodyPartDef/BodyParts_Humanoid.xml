@@ -1,35 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso -->
-  <Torso.label>thân</Torso.label>
-  <!-- shoulder -->
-  <Shoulder.label>vai</Shoulder.label>
-  <!-- arm -->
+  
+  <!-- EN: arm -->
   <Arm.label>cánh tay</Arm.label>
-  <!-- hand -->
-  <Hand.label>bàn tay</Hand.label>
-  <!-- finger -->
-  <Finger.label>ngón tay</Finger.label>
-  <!-- waist -->
-  <Waist.label>eo</Waist.label>
-  <!-- toe -->
-  <Toe.label>ngón chân</Toe.label>
-
-  <!-- Bones -->
-  <!-- clavicle -->
+  
+  <!-- EN: clavicle -->
   <Clavicle.label>xương đòn</Clavicle.label>
-  <!-- sternum -->
-  <Sternum.label>xương ức</Sternum.label>
-  <!-- humerus -->
-  <Humerus.label>xương cánh tay</Humerus.label>
-  <!-- radius -->
-  <Radius.label>xương quay</Radius.label>
-  <!-- pelvis -->
-  <Pelvis.label>xương chậu</Pelvis.label>
-  <!-- femur -->
+  
+  <!-- EN: femur -->
   <Femur.label>xương đùi</Femur.label>
-  <!-- tibia -->
+  
+  <!-- EN: finger -->
+  <Finger.label>ngón tay</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>bàn tay</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>xương cánh tay</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>xương chậu</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>xương quay</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>vai</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>xương ức</Sternum.label>
+  
+  <!-- EN: tibia -->
   <Tibia.label>xương ống chân</Tibia.label>
-
+  
+  <!-- EN: toe -->
+  <Toe.label>ngón chân</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>thân</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>eo</Waist.label>
+  
 </LanguageData>

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- arid shrubland -->
+  
+  <!-- EN: arid shrubland -->
   <AridShrubland.label>vùng cây bụi</AridShrubland.label>
-  <!-- A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
-  <AridShrubland.description>Một khu vực khá khô hạn nhưng không giống như hoang mạc, nơi đây vẫn có những bụi cây nằm rải rác với lượng sinh vật dồi dào. Tuy vậy nơi đây có rất ít đất canh tác.</AridShrubland.description>
-
-  <!-- desert -->
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Một vùng khô, nhưng không đủ khô để trở thành một sa mạc thực sự. Đồng bằng mở với cỏ và bụi cây nhường chỗ cho những lùm cây rải rác. Thực vật rất khỏe mạnh và có mật độ động vật vừa phải, nhưng đất trồng trọt rất khó tìm.</AridShrubland.description>
+  
+  <!-- EN: desert -->
   <Desert.label>hoang mạc</Desert.label>
-  <!-- A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>Khu vực rất khô hạn, có thể nóng bức hoặc lạnh giá. Động vật nơi đây thưa thớt và đất canh tác khan hiếm gây khó khăn không nhỏ cho việc định cư ở đây.</Desert.description>
-
-  <!-- extreme desert -->
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Một khu vực rất khô mà hỗ trợ cuộc sống nhỏ. Có rất ít đất trồng trọt, và đời sống động vật rất thưa thớt. Các sa mạc có thể nóng, hoặc khá lạnh.</Desert.description>
+  
+  <!-- EN: extreme desert -->
   <ExtremeDesert.label>sa mạc</ExtremeDesert.label>
-  <!-- An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
-  <ExtremeDesert.description>Khu vực cực kỳ khô hạn, nóng cháy da, không có bóng dáng sự sống. Việc định cư ở đây là vô cùng khó bởi nhiệt độ cao và hoàn toàn không có đất canh tác.</ExtremeDesert.description>
-
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Một khu vực cực kỳ nóng, khô, không có sự sống. Hâm nóng và gần như thiếu đất canh tác khiến việc sinh tồn ở đây rất khó khăn.</ExtremeDesert.description>
+  
 </LanguageData>

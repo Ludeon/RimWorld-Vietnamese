@@ -1,74 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- WITab titles -->
-  <!-- Terrain -->
+  <!-- EN: Terrain -->
   <TabTerrain>Địa hình</TabTerrain>
-  <!-- Planet -->
+  <!-- EN: Planet -->
   <TabPlanet>Hành tinh</TabPlanet>
-  <!-- Social -->
+  <!-- EN: Social -->
   <TabCaravanSocial>Xã hội</TabCaravanSocial>
-  <!-- Health -->
+  <!-- EN: Health -->
   <TabCaravanHealth>Sức khỏe</TabCaravanHealth>
-  <!-- Needs -->
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Nhu cầu</TabCaravanNeeds>
-  <!-- Gear -->
+  <!-- EN: Gear -->
   <TabCaravanGear>Trang bị</TabCaravanGear>
-  <!-- Items -->
+  <!-- EN: Items -->
   <TabCaravanItems>Vật dụng</TabCaravanItems>
-
+  
   <!-- Misc -->
-  <!-- Abandon {{0}}x {0} -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Bỏ đi {{0}}x {0}</AbandonSliderText>
-  <!-- Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Bạn có chắc muốn bỏ {0}?\n\nVật phẩm bỏ đi sẽ biến mất vĩnh viễn.</ConfirmAbandonItemDialog>
-  <!-- Abandon -->
+  <!-- EN: Abandon -->
   <AbandonTip>Bỏ đi</AbandonTip>
-  <!-- Banish -->
+  <!-- EN: Banish -->
   <BanishTip>Trục xuất</BanishTip>
-  <!-- Abandon specific count -->
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Bỏ đi số lượng cụ thể</AbandonSpecificCountTip>
-  <!-- Abandon (all) -->
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Bỏ đi (tất cả)</AbandonAllTip>
-  <!-- Abandoned items vanish and can never be recovered. -->
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Vật phẩm bỏ đi sẽ biến mất vĩnh viễn.</AbandonItemTipExtraText>
-  <!-- {0} will most likely die. -->
-  <BanishTipWillDie>{0} có thể sẽ chết.</BanishTipWillDie>
-
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} có thể sẽ chết.</BanishTipWillDie>
+  
   <!-- Caravan inspect -->
-  <!-- Colonists -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Cư dân</CaravanColonists>
-  <!-- Prisoners and animals -->
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Tù nhân và động vật</CaravanPrisonersAndAnimals>
-  <!-- Inventory -->
+  <!-- EN: Inventory -->
   <CaravanItems>Vật phẩm</CaravanItems>
-  <!-- Click to open a tab with more details. -->
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Bấm vào đây để xem chi tiết</OpenSpecificTabButtonTip>
-  <!-- Prisoners -->
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Tù nhân</CaravanPrisoners>
-  <!-- Inventory -->
+  <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>Vật phẩm</CaravanWeaponsAndApparel>
-  <!-- None capable -->
+  <!-- EN: None capable -->
   <NoneCapable>Không thể di chuyển</NoneCapable>
-  <!-- Caravan not moving -->
+  <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>Lữ đoàn không di chuyển</GainingJoyBecauseCaravanNotMoving>
-
+  
   <!-- Caravan gear -->
-  <!-- Drag to rearrange. -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Kéo thả để sắp xếp lại</DragToRearrange>
 
   <!-- Caravan items -->
-  <!-- Assign drug policies -->
+  <!-- EN: Assign drug policies -->
   <AssignDrugPolicies>Chỉ định sử dụng chất kích thích</AssignDrugPolicies>
 
   <!-- Caravan health -->
-  <!-- Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
   <BeCarriedIfSickTip>Người hoặc con vật này có nên được vác bởi những thành viên khác khi bị bệnh?\n\n Thành viên được vác theo có thể nghỉ ngơi kể cả khi cả đoàn đang di chuyển nhưng cũng vì vậy mà sẽ kéo cả đoàn chậm theo.</BeCarriedIfSickTip>
-
+  
   <!-- Planet -->
-  <!-- Seed -->
-  <PlanetSeed>Hạt giống</PlanetSeed>
-  <!-- Coverage -->
+  <!-- EN: Seed -->
+  <PlanetSeed>Hành tinh</PlanetSeed>
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>Mức độ bao phủ</PlanetCoverageShort>
 
 </LanguageData>

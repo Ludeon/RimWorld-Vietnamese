@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Save -->
-  <SaveButton>Lưu lại</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
-  <!-- Clear -->
-  <ClearBinding>Không</ClearBinding>
-  <!-- Reset to default -->
-  <ResetBinding>Mặc định</ResetBinding>
-  <!-- Left-click to bind this key or right-click for options -->
-  <BindingButtonToolTip>Bấm chuột trái để chọn phím tắt, chuột phải để mở tùy chọn</BindingButtonToolTip>
-  <!-- Press any key or Esc to cancel... -->
-  <PressAnyKeyOrEsc>Bấm phím bất kì hoặc bỏ chọn với phím Esc...</PressAnyKeyOrEsc>
-  <!-- Key binding overwritten: {0} -->
-  <KeyBindingOverwritten>Phím tắt bị ghi đè: {0}</KeyBindingOverwritten>
+  <!-- EN: Save -->
+  <SaveButton>Lưu</SaveButton>
+  <!-- EN: Clear -->
+  <ClearBinding>Xóa</ClearBinding>
+  <!-- EN: Reset to default -->
+  <ResetBinding>Đặt về mặc định</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
+  <BindingButtonToolTip>Nhấp chuột trái để liên kết phím này hoặc nhấp chuột phải cho các tùy chọn</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
+  <PressAnyKeyOrEsc>Nhấn phím bất kỳ hoặc Esc để hủy...</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
+  <KeyBindingOverwritten>Phím thay đổi được ghi đè: {0}</KeyBindingOverwritten>
   
 </LanguageData>

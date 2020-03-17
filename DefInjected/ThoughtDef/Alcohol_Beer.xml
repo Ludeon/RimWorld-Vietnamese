@@ -1,45 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- alcohol warmth -->
-  <Inebriated.stages.0.label>ấm người</Inebriated.stages.0.label>
-  <!-- I just feel a bit more relaxed after that drink. That's good. -->
-  <Inebriated.stages.0.description>Cảm thấy trong người lân lân sau khi uống.</Inebriated.stages.0.description>
-  <!-- quite inebriated -->
-  <Inebriated.stages.1.label>lân lân</Inebriated.stages.1.label>
-  <!-- I'm a bit wobbly! And this is quite enjoyable. -->
-  <Inebriated.stages.1.description>Cảm thấy hơi choáng người. Chai tiếp theo...</Inebriated.stages.1.description>
-  <!-- drunk -->
-  <Inebriated.stages.2.label>say</Inebriated.stages.2.label>
-  <!-- I feel so uninhibited and unafraid! This is a great time! -->
-  <Inebriated.stages.2.description>Tao chưa say! Dăm ba chai chưa đủ đô... Chai tiếp theo...</Inebriated.stages.2.description>
-  <!-- hammered -->
-  <Inebriated.stages.3.label>Quắc cần câu</Inebriated.stages.3.label>
-  <!-- Wooo! What's going on? -->
-  <Inebriated.stages.3.description>Bố méo ngại cha con thằng nào đâu đấy!</Inebriated.stages.3.description>
-
-  <!-- mild hangover -->
-  <Hungover.stages.0.label>nôn mửa nhẹ</Hungover.stages.0.label>
-  <!-- The headache is almost gone. -->
-  <Hungover.stages.0.description>Cơn đau đầu gần biến mất.</Hungover.stages.0.description>
-  <!-- serious hangover -->
-  <Hungover.stages.1.label>choáng váng</Hungover.stages.1.label>
-  <!-- My head hurts from all that liquor. -->
-  <Hungover.stages.1.description>Đầu đau thắt sau khi uống.</Hungover.stages.1.description>
-  <!-- pounding hangover -->
-  <Hungover.stages.2.label>Đau khủng khiếp</Hungover.stages.2.label>
-  <!-- It feels like a gaggle of geese are pecking at my skull. -->
-  <Hungover.stages.2.description>Đầu đau như búa bổ.</Hungover.stages.2.description>
-  <!-- hung over (hidden) -->
-  <Hungover.stages.3.label>hơi say sẩm (ẩn)</Hungover.stages.3.label>
-
-
-  <!-- Alcohol addiction -->
-
-  <!-- alcohol withdrawal -->
-  <AlcoholWithdrawal.stages.1.label>cai rượu</AlcoholWithdrawal.stages.1.label>
-  <!-- Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
-  <AlcoholWithdrawal.stages.1.description>Cảm thấy ngứa ngáy khắp người. Muốn làm một ngụm cho đỡ thèm quá.</AlcoholWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: alcohol withdrawal -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>cai rượu</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Cảm thấy ngứa ngáy khắp người. Muốn làm một ngụm cho đỡ thèm quá.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>nôn mửa nhẹ</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>Cơn đau đầu gần biến mất.</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>choáng váng</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>Đầu đau thắt sau khi uống.</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>Đau khủng khiếp</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>Đầu đau như búa bổ.</Hungover.stages.pounding_hangover.description>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>ấm người</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>Cảm thấy trong người lân lân sau khi uống.</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>lân lân</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>Cảm thấy hơi choáng người. Chai tiếp theo...</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>say</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>Tao chưa say! Dăm ba chai chưa đủ đô... Chai tiếp theo...</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>Quắc cần câu</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>Bố méo ngại cha con thằng nào đâu đấy!</Inebriated.stages.hammered.description>
+  
 </LanguageData>

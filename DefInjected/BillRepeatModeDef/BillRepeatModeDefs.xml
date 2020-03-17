@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- do X times -->
-  <RepeatCount.label>lặp lại X lần</RepeatCount.label>
-  <!-- do until you have X -->
-  <TargetCount.label>lặp lại đến khi đủ X</TargetCount.label>
-  <!-- do forever -->
-  <Forever.label>lặp lại mãi mãi</Forever.label>
-
+  
+  <!-- EN: do forever -->
+  <Forever.label>làm mãi mãi</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>làm X lần</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>làm cho đến khi đủ X</TargetCount.label>
+  
 </LanguageData>

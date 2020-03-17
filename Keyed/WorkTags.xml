@@ -1,35 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- none -->
+
+  <!-- EN: none -->
   <WorkTagNone>không</WorkTagNone>
-  <!-- intellectual -->
-  <WorkTagIntellectual>nghiên cứu</WorkTagIntellectual>
-  <!-- dumb labor -->
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>trí tuệ</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>công việc tay chân</WorkTagManualDumb>
-  <!-- skilled labor -->
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>công việc trí óc</WorkTagManualSkilled>
-  <!-- violent -->
-  <WorkTagViolent>bạo lực</WorkTagViolent>
-  <!-- caring -->
+  <!-- EN: violent -->
+  <WorkTagViolent>hung bạo</WorkTagViolent>
+  <!-- EN: caring -->
   <WorkTagCaring>chăm sóc</WorkTagCaring>
-  <!-- social -->
-  <WorkTagSocial>giao tiếp xã hội</WorkTagSocial>
-  <!-- animals -->
+  <!-- EN: social -->
+  <WorkTagSocial>giao tiếp</WorkTagSocial>
+  <!-- EN: animals -->
   <WorkTagAnimals>động vật</WorkTagAnimals>
-  <!-- artistic -->
+  <!-- EN: artistic -->
   <WorkTagArtistic>nghệ thuật</WorkTagArtistic>
-  <!-- crafting -->
-  <WorkTagCrafting>thủ công</WorkTagCrafting>
-  <!-- cooking -->
-  <WorkTagCooking>nấu nướng</WorkTagCooking>
-  <!-- firefighting -->
+  <!-- EN: crafting -->
+  <WorkTagCrafting>chế tạo</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>nấu ăn</WorkTagCooking>
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>chữa cháy</WorkTagFirefighting>
-  <!-- cleaning -->
+  <!-- EN: cleaning -->
   <WorkTagCleaning>dọn dẹp</WorkTagCleaning>
-  <!-- hauling -->
+  <!-- EN: hauling -->
   <WorkTagHauling>khuân vác</WorkTagHauling>
-  <!-- plant work -->
+  <!-- EN: plant work -->
   <WorkTagPlantWork>trồng trọt</WorkTagPlantWork>
-  <!-- mining -->
+  <!-- EN: mining -->
   <WorkTagMining>khai thác</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+
 </LanguageData>

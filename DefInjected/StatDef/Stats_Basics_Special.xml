@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>tốc độ thi công</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>Tốc độ xây dựng của các công trình được nhân với giá trị này. Một số vật liệu, như đá, được xây dựng chậm, trong khi những vật liệu khác, như gỗ, thì nhanh.</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>hiệu quả y tế</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Làm thế nào hiệu quả này là khi được sử dụng để có xu hướng vết thương và bệnh, hoặc làm phẫu thuật. Hiệu quả y tế cao hơn giúp cải thiện chất lượng chăm sóc và hoạt động như một hệ số nhân về cơ hội thành công trong quá trình phẫu thuật. Hiệu quả y tế chỉ là một yếu tố trong kết quả y tế, trong số nhiều yếu tố khác, bao gồm khả năng của bác sĩ, thiết bị, sự sạch sẽ và may mắn.</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>chất lượng y tế tối đa</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>Chất lượng tối đa của chăm sóc y tế có thể đạt được trong khi sử dụng thứ này. Chất lượng xu hướng tốt hơn cho phép các bác sĩ lành nghề điều trị vết thương tốt hơn, cũng như đáng tin cậy hơn.</MedicalQualityMax.description>
+  
+</LanguageData>

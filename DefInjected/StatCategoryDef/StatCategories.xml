@@ -1,50 +1,67 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--================ General ================-->
-
-  <!-- Basics -->
+  
+  <!-- EN: Ability -->
+  <Ability.label>TODO</Ability.label>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>Trang phục</Apparel.label>
+  
+  <!-- EN: Basics -->
   <Basics.label>Cơ bản</Basics.label>
-  <!-- Basics -->
-  <BasicsPawn.label>Cơ bản</BasicsPawn.label>
-  <!-- Basics -->
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>TODO</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
   <BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
-
-
-  <!--================ Non-pawn ================-->
-
-  <!-- Apparel -->
-  <Apparel.label>Trang bị</Apparel.label>
-  <!-- Weapon -->
-  <Weapon.label>Vũ khí</Weapon.label>
-  <!-- Building -->
-  <Building.label>Công trình</Building.label>
-
-
-  <!--=============== Virtual categories ==============-->
-
-  <!-- Offsets when equipped -->
-  <EquippedStatOffsets.label>Ảnh hưởng khi trang bị</EquippedStatOffsets.label>
-  <!-- Multipliers when made of this -->
-  <StuffStatFactors.label>Tỉ lệ khi làm từ vật này</StuffStatFactors.label>
-  <!-- Offsets when made of this -->
-  <StuffStatOffsets.label>Ảnh hưởng khi làm từ vật này</StuffStatOffsets.label>
-  <!-- Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>Tỉ lệ khi trang bị làm từ vật này</StuffOfEquipmentStatFactors.label>
-  <!-- Surgical -->
-  <Surgery.label>Y tế</Surgery.label>
-
-
-  <!--================ Pawn ================-->
-
-  <!-- Combat -->
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Cơ bản</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Xây dựng</Building.label>
+  
+  <!-- EN: capacity effects -->
+  <CapacityEffects.label>TODO</CapacityEffects.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>TODO</Implant.label>
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Chiến đấu</PawnCombat.label>
-  <!-- Social -->
-  <PawnSocial.label>Giao tiếp</PawnSocial.label>
-  <!-- Misc -->
-  <PawnMisc.label>Việc khác</PawnMisc.label>
-  <!-- Work -->
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Linh tinh</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Xã hội</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Công việc</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Tỷ lệ khi trang bị làm từ vật này</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Tỷ lệ khi làm từ vật này</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Ảnh hưởng khi làm từ vật này</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Phẫu thuật</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Vũ khí</Weapon.label>
+  
 </LanguageData>

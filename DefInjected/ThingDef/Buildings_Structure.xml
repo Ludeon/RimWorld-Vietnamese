@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- door -->
-  <Door.label>cửa</Door.label>
-  <!-- Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>Chia cắt các phòng, thiết kế đơn giản, phải đóng mở thủ công nên làm chậm các hoạt động lại. Thời gian làm chậm dựa vào vật liệu làm nên cánh cửa này.</Door.description>
-
-  <!-- autodoor -->
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>cửa tự động</Autodoor.label>
-  <!-- Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Chia cắt các phòng. Thiết kế để tự động đóng mở cho phép thông suốt mọi hoạt động một cách nhanh chóng.</Autodoor.description>
-
-  <!-- wall -->
+  
+  <!-- EN: column -->
+  <Column.label>TODO</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>TODO</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>cửa</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Chia cắt các phòng, thiết kế đơn giản, phải đóng mở thủ công nên làm chậm các hoạt động lại. Thời gian làm chậm dựa vào vật liệu làm nên cánh cửa này.</Door.description>
+  
+  <!-- EN: wall -->
   <Wall.label>tường</Wall.label>
-  <!-- An impassable wall. Capable of holding up a roof. -->
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>Không thể băng qua một cách dễ dàng được, có khả năng đỡ mái nhà.</Wall.description>
-
+  
 </LanguageData>

@@ -1,34 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- cobra -->
-  <Cobra.label>rắn</Cobra.label>
-  <!-- A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
-  <Cobra.description>Loài rắn sẽ cực kì hung dữ nếu bị đe dọa và mỗi vết cắn của nó sẽ tiêm chất độc vào nạn nhân bị chúng cắn.</Cobra.description>
-  <!-- cobraflesh -->
-  <Cobra.race.meatLabel>thịt rắn</Cobra.race.meatLabel>
-  <!-- venom-fangs -->
-  <Cobra.tools.0.label>nanh rắn</Cobra.tools.0.label>
-  <!-- head -->
-  <Cobra.tools.1.label>đầu</Cobra.tools.1.label>
-
-  <!-- monkey -->
-  <Monkey.label>khỉ</Monkey.label>
-  <!-- A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
-  <Monkey.description>Loài linh trưởng nhỏ, có thể dùng đuôi để nắm nhánh cây trong khi để đôi tay rảnh để làm chuyện khác. Loài khỉ khá ích kỉ nhưng lại cực kì thông minh và có thể huấn luyện để làm nhiều khác nhau.</Monkey.description>
-  <!-- left fist -->
-  <Monkey.tools.0.label>tay trái</Monkey.tools.0.label>
-  <!-- right fist -->
-  <Monkey.tools.1.label>tay phải</Monkey.tools.1.label>
-  <!-- head -->
-  <Monkey.tools.3.label>đầu</Monkey.tools.3.label>
-
-  <!-- boomalope -->
+  
+  <!-- EN: boomalope -->
   <Boomalope.label>boomalope</Boomalope.label>
-  <!-- Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
   <Boomalope.description>Loài loài được tạo ra nhờ kĩ thuật chỉnh sửa gen di truyền nhằm mục đích sản xuất chất hóa học. Boomalope phát triển một túi đựng chất hóa học dễ cháy trên lưng nó. Tuy nó khá yếu và không có khả năng kháng cự các loài săn mồi nhưng các loài khác cũng tự tránh xa nó vì khi boomalope chết, túi chất nổ sẽ kích hoạt tạo ra vụ nổ lớn quanh người nó. Boomalope có thể thuần hóa để thu hoạch chất hóa học của nó - nhiên liệu.</Boomalope.description>
-  <!-- head -->
-  <Boomalope.tools.0.label>đầu</Boomalope.tools.0.label>
-
-
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>đầu</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>móng chân trái</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>móng chân phải</Boomalope.tools.right_hoof.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>rắn</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Loài rắn sẽ cực kì hung dữ nếu bị đe dọa và mỗi vết cắn của nó sẽ tiêm chất độc vào nạn nhân bị chúng cắn.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>thịt rắn</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>nanh rắn</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>đầu</Cobra.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>khỉ</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>Loài linh trưởng nhỏ, có thể dùng đuôi để nắm nhánh cây trong khi để đôi tay rảnh để làm chuyện khác. Loài khỉ khá ích kỉ nhưng lại cực kì thông minh và có thể huấn luyện để làm nhiều khác nhau.</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>tay trái</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>tay phải</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>đầu</Monkey.tools.head.label>
+  
 </LanguageData>

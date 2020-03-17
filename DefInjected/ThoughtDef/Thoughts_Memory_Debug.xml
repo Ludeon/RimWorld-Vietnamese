@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- debug bad thought -->
-  <DebugBad.stages.0.label>thử cảm nghĩ xấu</DebugBad.stages.0.label>
-  <!-- Test thought for debugging. -->
-  <DebugBad.stages.0.description>Kiểm tra cảm nghĩ để sửa lỗi.</DebugBad.stages.0.description>
-
-  <!-- debug good thought -->
-  <DebugGood.stages.0.label>thử cảm nghĩ tốt</DebugGood.stages.0.label>
-  <!-- Test thought for debugging. -->
-  <DebugGood.stages.0.description>Kiểm tra cảm nghĩ để sửa lỗi.</DebugGood.stages.0.description>
-
-
+  
+  <!-- EN: debug bad thought -->
+  <DebugBad.stages.debug_bad_thought.label>gỡ lỗi suy nghĩ xấu</DebugBad.stages.debug_bad_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugBad.stages.debug_bad_thought.description>Kiểm tra suy nghĩ để gỡ lỗi.</DebugBad.stages.debug_bad_thought.description>
+  
+  <!-- EN: debug good thought -->
+  <DebugGood.stages.debug_good_thought.label>gỡ lỗi suy nghĩ tốt</DebugGood.stages.debug_good_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugGood.stages.debug_good_thought.description>Kiểm tra suy nghĩ để gỡ lỗi.</DebugGood.stages.debug_good_thought.description>
+  
 </LanguageData>

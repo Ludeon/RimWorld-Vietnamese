@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--===================== Concepts taught in the entry screens ===================-->
-
-  <!-- World view camera movement -->
-  <WorldCameraMovement.label></WorldCameraMovement.label>
-  <!-- Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
-  <WorldCameraMovement.helpText>Di chuyển bằng cách KÉO THẢ CHUỘT GIỮA hoặc sử dụng phím {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}.\n\nPhóng to và thu nhỏ bằng CON LĂN CHUỘT hoặc sử dụng phím {Key:MapZoom_In} và {Key:MapZoom_Out}.</WorldCameraMovement.helpText>
-
+  
+  <!-- EN: World view camera movement -->
+  <WorldCameraMovement.label>Di chuyển Camera để xem thế giới</WorldCameraMovement.label>
+  <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
+  <WorldCameraMovement.helpText>Thu phóng bằng các phím MOUSE WHEEL hoặc {Key:MapZoom_In} và {Key:MapZoom_Out}.\n\nXoay với các phím {Key:MapDolly_Up} - {Key:MapDolly_Left} - {Key:MapDolly_Down} - {Key:MapDolly_Right}, hoặc bằng MIDDLE-CLICKING và DRAGGING.</WorldCameraMovement.helpText>
+  
 </LanguageData>

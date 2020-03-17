@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>đèn hiệu alpha</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>mầm thức thần quả</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Mầm thức thần quả</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Một khu rừng của bụi cây thức thần quả bí ẩn đã mọc lên gần đó! Nếu bạn chờ đợi cây phát triển, bạn sẽ có thể thu hoạch loại trái cây thơm ngon, dễ chịu và hơi gây nghiện.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>cơn lạnh</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Cơn lạnh</ColdSnap.letterLabel>
+  <ColdSnap.letterText>Một cơn lạnh bất thường đã xảy ra. \n\nCơn lạnh có thể nhanh chóng tiêu diệt bằng cách hạ thân nhiệt. Hãy chắc chắn xây dựng một không gian nóng để tồn tại, mặc trang phục phù hợp và cố gắng thu hoạch mùa màng trước khi chúng đóng băng và chết.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>mùa màng</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>động vật trang trại đi lang thang trong</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Bão</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Bão</Flashstorm.letterLabel>
+  <Flashstorm.letterText>Một cơn bão địa phương kỳ dị đang tấn công một khu vực nhỏ với sét. Điều này có thể gây ra đám cháy lớn.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>nắng nóng</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Nắng nóng</HeatWave.letterLabel>
+  <HeatWave.letterText>Một đợt nắng nóng bất thường đã bắt đầu. \n\nNắng nóng có thể chết nhanh nếu mọi người bắt đầu say nắng. Giữ mát bằng cách xây dựng một máy làm mát hoặc vào sâu dưới một ngọn núi.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>di cư bầy đàn</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Động vật di cư : {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Một nhóm {0} đang đi qua khu vực. \n\n Họ sẽ không tấn công trừ khi bị khiêu khích.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>va chạm thiên thạch</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Mảnh thiên thạch</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Một thiên thạch lớn đã rơi xuống đất trong khu vực. Nó đã để lại một cục {{}.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>xung thần kinh đau đớn</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>xung thần kinh êm dịu</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>đòi tiền chuộc</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Đòi tiền chuộc</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>sự cố vận chuyển</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>sự cố pod tài nguyên</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>Tự thuần hóa</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>điện bị ngắn mạch</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>thrumbos bỏ đi</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>bụi độc hại</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Bụi độc hại</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>Một đám cháy hóa học ở xa đã phóng ra một luồng chất độc trên toàn bộ khu vực này. \n\nBất kỳ người nào hoặc sinh vật không ở dưới mái nhà sẽ bị ốm chậm do bụi độc hại thoát ra khỏi bầu khí quyển. \n\nNó sẽ tồn tại ở bất cứ đâu giữa một Vài ngày đến hơn một mùa.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>núi lửa mùa đông</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Núi lửa mùa đông</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Một ngọn núi lửa xa xôi đã phun trào và bắt đầu phun hàng triệu km khối tro vào khí quyển. \n\nTheo khí quyển sẽ che khuất mặt trời. Nhiệt độ sẽ giảm và thực vật sẽ đau khổ vì thiếu ánh sáng mặt trời. Nó có thể vượt qua trong một vài tuần, hoặc nó có thể kéo dài nhiều quadrum.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>Du mục tham gia</WandererJoin.label>
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <WandererJoin.letterLabel>Du mục tham gia</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>Một {PAWN_kind} có tên {PAWN_nameDef} đã đến và đang gia nhập thuộc địa. {PAWN_pronoun} là {PAWN_title}. \n\n [PAWN_pronoun] sẵn sàng đóng góp, nhưng sẽ không tự nguyện rời đi. Nếu bạn không muốn {PAWN_nameDef}, bạn có thể trục xuất {PAWN_objective}, bán {PAWN_objective} thành nô lệ hoặc đơn giản là giết {PAWN_objective}. Tuy nhiên, các thuộc địa khác của bạn có thể tìm thấy điều này đáng lo ngại.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>người đàn ông hoang dã lang thang trong</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>{PAWN_kind} lang thang trong</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Một người sống giữa các động vật hoang dã đã lang thang vào khu vực. {PAWN_pronoun} được gọi là {0}. \n\nBạn có thể cố gắng chế ngự hoặc bắt giữ {PAWN_objective}.</WildManWandersIn.letterText>
+  
+</LanguageData>

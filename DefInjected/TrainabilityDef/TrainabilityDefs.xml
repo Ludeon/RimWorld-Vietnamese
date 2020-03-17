@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- none -->
-  <None.label>không</None.label>
-  <!-- simple -->
-  <Simple.label>đơn giản</Simple.label>
-  <!-- intermediate -->
-  <Intermediate.label>bình thường</Intermediate.label>
-  <!-- advanced -->
+  
+  <!-- EN: advanced -->
   <Advanced.label>thông minh</Advanced.label>
-
-
+  
+  <!-- EN: intermediate -->
+  <Intermediate.label>bình thường</Intermediate.label>
+  
+  <!-- EN: none -->
+  <None.label>không</None.label>
+  
+  <!-- EN: simple -->
+  <Simple.label>đơn giản</Simple.label>
+  
 </LanguageData>

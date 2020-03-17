@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>cảnh quang</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Vẻ đẹp của cảnh quang phản ánh cách làm hài lòng một người nhìn thấy môi trường xung quanh gần đây. Những thứ đẹp như nghệ thuật cải thiện vẻ đẹp cảnh quang khi được xem, trong khi những thứ xấu xí như bẩn thỉu và bề mặt đá thô ráp làm giảm nó.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>thoải mái</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Thoải mái có được bằng cách ngồi hoặc ngủ trên đồ nội thất thoải mái. Nó có được khi nằm trên giường, ngồi trên ghế trong khi làm việc hoặc những lúc khác.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>TODO</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>TODO</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>thực phẩm</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Thực phẩm là lượng dinh dưỡng mà một sinh vật đã tiêu thụ gần đây. Nếu nó ở mức 0, một sinh vật sẽ ngày càng suy dinh dưỡng và cuối cùng chết.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>giải trí</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Giải trí là phải có niềm vui. Lặp đi lặp lại cùng một loại hoạt động không làm cho nó vui hơn, vì vậy sự đa dạng là cần thiết.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>tâm trạng</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Tâm trạng đại diện cho việc ai đó hạnh phúc hay căng thẳng. Nếu tâm trạng quá thấp, người đó có thể bị suy sụp tinh thần. Tùy thuộc vào tâm trạng của anh ta thấp đến mức nào, một người bị suy sụp tinh thần có thể trốn trong phòng của anh ta trong một ngày, hoặc có thể đi vào một vụ giết người.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>ngoài trời</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Ngoài trời thể hiện sự cần thiết không phải được đặt bên trong. Nó bị tổn hại bởi thời gian dài bên trong, đặc biệt là dưới lòng đất. Nó cải thiện khi ai đó dành thời gian dưới bầu trời, đặc biệt là ngoài trời. Nó không phải là về kích thước của các phòng, nhưng thỉnh thoảng cần phải ở bên ngoài. Thiếu thời gian ngoài trời là một thách thức đáng kể cho những người sống trong các căn cứ ngầm chặt chẽ.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>nghỉ ngơi</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Nghỉ ngơi là giấc ngủ của một sinh vật gần đây. Nếu nó ở mức 0, một sinh vật cuối cùng sẽ ngủ ngay tại chỗ.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>kích cỡ phòng</RoomSize.label>
+  
+</LanguageData>

@@ -1,45 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- club -->
+  
+  <!-- EN: club -->
   <MeleeWeapon_Club.label>dùi cui</MeleeWeapon_Club.label>
-  <!-- A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
   <MeleeWeapon_Club.description>Gồm một đầu dài làm tay cầm, đầu còn lại nặng, dùng để tán mấy sấp mặt thanh niên hung hăng tới chết. Loại vũ khí này gắn liền với lịch sử của con người. Nhiều nhà nghiên cứu cho rằng sở dĩ con người có thể xoay cổ tay mình được (thay vì chỉ nghiên trước và sau như các loài động vật khác) là vì để có thể dễ dàng vung cái chùy của mình hơn.</MeleeWeapon_Club.description>
-  <!-- handle -->
-  <MeleeWeapon_Club.tools.0.label>tay cầm</MeleeWeapon_Club.tools.0.label>
-  <!-- head -->
-  <MeleeWeapon_Club.tools.1.label>đầu</MeleeWeapon_Club.tools.1.label>
-
-  <!-- knife -->
-  <MeleeWeapon_Knife.label>dao</MeleeWeapon_Knife.label>
-  <!-- One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
-  <MeleeWeapon_Knife.description>Công cụ cổ xưa tương tự như dùi cui vậy. </MeleeWeapon_Knife.description>
-  <!-- handle -->
-  <MeleeWeapon_Knife.tools.0.label>tay cầm</MeleeWeapon_Knife.tools.0.label>
-  <!-- blade -->
-  <MeleeWeapon_Knife.tools.1.label>lưỡi</MeleeWeapon_Knife.tools.1.label>
-  <!-- point -->
-  <MeleeWeapon_Knife.tools.2.label>mũi</MeleeWeapon_Knife.tools.2.label>
-
-  <!-- ikwa -->
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>tay cầm</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>đầu</MeleeWeapon_Club.tools.head.label>
+  
+  <!-- EN: ikwa -->
   <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
-  <!-- A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
   <MeleeWeapon_Ikwa.description>Một loại vũ khí đặc chế gồm một mũi giáo dài gắn vào tay cầm ngắn. Mỗi mũi đâm trúng đích có khả năng lụi trúng bộ lòng của kẻ địch hơn.</MeleeWeapon_Ikwa.description>
-  <!-- handle -->
-  <MeleeWeapon_Ikwa.tools.0.label>tay cầm</MeleeWeapon_Ikwa.tools.0.label>
-  <!-- head -->
-  <MeleeWeapon_Ikwa.tools.1.label>mũi</MeleeWeapon_Ikwa.tools.1.label>
-  <!-- edge -->
-  <MeleeWeapon_Ikwa.tools.2.label>rìa</MeleeWeapon_Ikwa.tools.2.label>
-
-  <!-- spear -->
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>tay cầm</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>mũi</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>rìa</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>dao</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>Công cụ cổ xưa tương tự như dùi cui vậy.</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>tay cầm</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>lưỡi</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>mũi</MeleeWeapon_Knife.tools.point.label>
+  
+  <!-- EN: spear -->
   <MeleeWeapon_Spear.label>thương</MeleeWeapon_Spear.label>
-  <!-- A polearm tipped with a sharp point for stabbing opponents. -->
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
   <MeleeWeapon_Spear.description>Cán dài với lưỡi thương nhọn ở 1 đầu để đâm mục tiêu.</MeleeWeapon_Spear.description>
-  <!-- shaft -->
-  <MeleeWeapon_Spear.tools.0.label>lưỡi</MeleeWeapon_Spear.tools.0.label>
-  <!-- point -->
-  <MeleeWeapon_Spear.tools.1.label>mũi</MeleeWeapon_Spear.tools.1.label>
-
-
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>lưỡi</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>mũi</MeleeWeapon_Spear.tools.point.label>
+  
 </LanguageData>

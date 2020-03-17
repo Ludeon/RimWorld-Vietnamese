@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- flake -->
-  <Flake.label>flake</Flake.label>
-  <!-- A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
-  <Flake.description>Loại thuốc kích thích được làm từ psychite. Có thể hút để cơ thể đạt trạng thái hưng phấn một khoảng thời gian. Tuy dễ sản xuất và mang lại cảm xúc cực mạnh, flake là chất gây nghiện. Flake được biết tới là thứ hủy hoại cuộc sống, xã hội và cả một nền văn minh nữa.</Flake.description>
-  <!-- Smoke {0} -->
+  
+  <!-- EN: flake -->
+  <Flake.label>nha phiến</Flake.label>
+  <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
+  <Flake.description>Loại thuốc kích thích được làm từ lá cần sa. Có thể hút để cơ thể đạt trạng thái hưng phấn một khoảng thời gian. Tuy dễ sản xuất và mang lại cảm xúc cực mạnh, flake là chất gây nghiện. Flake được biết tới là thứ hủy hoại cuộc sống, xã hội và cả một nền văn minh nữa.</Flake.description>
+  <!-- EN: Smoke {0} -->
   <Flake.ingestible.ingestCommandString>Hút {0}</Flake.ingestible.ingestCommandString>
-  <!-- Smoking {0}. -->
+  <!-- EN: Smoking {0}. -->
   <Flake.ingestible.ingestReportString>Đang hút {0}</Flake.ingestible.ingestReportString>
-
-
+  
 </LanguageData>

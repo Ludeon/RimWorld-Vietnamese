@@ -1,30 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- sky-high expectations -->
-  <LowExpectations.stages.0.label>mong đợi trọc trời</LowExpectations.stages.0.label>
-  <!-- This place is really rich. I should be made very comfortable here. -->
-  <LowExpectations.stages.0.description>Nơi đây là thiên đường rồi! Mình cảm nơi đây thật thoải mái mà.</LowExpectations.stages.0.description>
-  <!-- high expectations -->
-  <LowExpectations.stages.1.label>mong đợi cao</LowExpectations.stages.1.label>
-  <!-- This place is almost rich. There's no reason I shouldn't have the things I want. -->
-  <LowExpectations.stages.1.description>Nơi này thật giàu có. Không có lí do gì mà mình không thể có thứ mình muốn được.</LowExpectations.stages.1.description>
-  <!-- moderate expectations -->
-  <LowExpectations.stages.2.label>mong đợi trung bình</LowExpectations.stages.2.label>
-  <!-- This place isn't quite rich. I can't expect to be totally pampered. -->
-  <LowExpectations.stages.2.description>Nơi này không giàu lắm. Mình không nghĩ là nó sẽ quá tệ.</LowExpectations.stages.2.description>
-  <!-- low expectations -->
-  <LowExpectations.stages.3.label>mong đợi thấp</LowExpectations.stages.3.label>
-  <!-- This place doesn't have the wealth for many luxuries. I can't expect great comforts. -->
-  <LowExpectations.stages.3.description>Nơi đây không có nhiều thứ quý giá nhỉ? Không mong được được gì nhiều rồi...</LowExpectations.stages.3.description>
-  <!-- very low expectations -->
-  <LowExpectations.stages.4.label>mong đợi rất thấp</LowExpectations.stages.4.label>
-  <!-- This place is poverty-stricken. I need to keep myself strong to survive. -->
-  <LowExpectations.stages.4.description>Nơi đây thật nghèo nàn. Mình phải mạnh mẽ lên để sống sót mới được.</LowExpectations.stages.4.description>
-  <!-- extremely low expectations -->
-  <LowExpectations.stages.5.label>mong đợi cực kì thấp</LowExpectations.stages.5.label>
-  <!-- There's nothing here to make me comfortable. I'd better steel myself to survive. -->
-  <LowExpectations.stages.5.description>Không có gì ở đây làm mình thấy thoải mái cả. Phải tự lực cánh sinh thôi.</LowExpectations.stages.5.description>
-
-
+  
+  <!-- EN: sky-high expectations -->
+  <Expectations.stages.skyhigh_expectations.label>TODO</Expectations.stages.skyhigh_expectations.label>
+  <!-- EN: I should be made very comfortable here. -->
+  <Expectations.stages.skyhigh_expectations.description>TODO</Expectations.stages.skyhigh_expectations.description>
+  <!-- EN: high expectations -->
+  <Expectations.stages.high_expectations.label>TODO</Expectations.stages.high_expectations.label>
+  <!-- EN: There's no reason I shouldn't have the things I want. -->
+  <Expectations.stages.high_expectations.description>TODO</Expectations.stages.high_expectations.description>
+  <!-- EN: moderate expectations -->
+  <Expectations.stages.moderate_expectations.label>TODO</Expectations.stages.moderate_expectations.label>
+  <!-- EN: I can't expect to be totally pampered. -->
+  <Expectations.stages.moderate_expectations.description>TODO</Expectations.stages.moderate_expectations.description>
+  <!-- EN: low expectations -->
+  <Expectations.stages.low_expectations.label>TODO</Expectations.stages.low_expectations.label>
+  <!-- EN: I can't expect great comforts. -->
+  <Expectations.stages.low_expectations.description>TODO</Expectations.stages.low_expectations.description>
+  <!-- EN: very low expectations -->
+  <Expectations.stages.very_low_expectations.label>TODO</Expectations.stages.very_low_expectations.label>
+  <!-- EN: I need to keep myself strong to survive. -->
+  <Expectations.stages.very_low_expectations.description>TODO</Expectations.stages.very_low_expectations.description>
+  <!-- EN: extremely low expectations -->
+  <Expectations.stages.extremely_low_expectations.label>TODO</Expectations.stages.extremely_low_expectations.label>
+  <!-- EN: I'd better steel myself to survive. -->
+  <Expectations.stages.extremely_low_expectations.description>TODO</Expectations.stages.extremely_low_expectations.description>
+  <!-- EN: noble expectations -->
+  <Expectations.stages.noble_expectations.label>TODO</Expectations.stages.noble_expectations.label>
+  <!-- EN: I am above the little people and should be made happy every moment. -->
+  <Expectations.stages.noble_expectations.description>TODO</Expectations.stages.noble_expectations.description>
+  <!-- EN: royal expectations -->
+  <Expectations.stages.royal_expectations.label>TODO</Expectations.stages.royal_expectations.label>
+  <!-- EN: My majesty... I can hardly believe it myself. A moment's discomfort is below me. -->
+  <Expectations.stages.royal_expectations.description>TODO</Expectations.stages.royal_expectations.description>
+  
 </LanguageData>

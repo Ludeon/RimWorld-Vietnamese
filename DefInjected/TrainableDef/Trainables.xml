@@ -1,32 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Note: You cannot reorder elements in this without destroying saved trainability data; see DefMap<>.ExposeData(). -->
-
-  <!-- obedience -->
-  <Obedience.label>vâng lời</Obedience.label>
-  <!-- The animal can be assigned a master who it will follow and defend. -->
-  <Obedience.description>Con vật có thể huấn luyện để đi theo người chủ được chỉ định và bảo vệ họ.</Obedience.description>
-
-  <!-- release -->
-  <Release.label>xuất trận</Release.label>
-  <!-- The animal can be released to attack distant targets instead of just defending its master. -->
-  <Release.description>Con vật có thể tấn công mục tiêu ở xa thay vì quanh quẩn bảo vệ chủ nó.</Release.description>
-
-  <!-- rescue -->
+  
+  <!-- EN: haul -->
+  <Haul.label>vận chuyển</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>Con vật sẽ thỉnh thoảng chuyên chở các vật phẩm (mặc dù nó không thể được hướng đến để chuyên chở các vật phẩm cụ thể).</Haul.description>
+  
+  <!-- EN: guard -->
+  <Obedience.label>huấn luyện</Obedience.label>
+  <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
+  <Obedience.description>Con vật có thể được chỉ định một chủ nhân mà nó sẽ đi theo và bảo vệ.</Obedience.description>
+  
+  <!-- EN: attack -->
+  <Release.label>tấn công</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
+  <Release.description>Con vật có thể được thả ra để tấn công các mục tiêu ở xa thay vì chỉ bảo vệ chủ của nó.</Release.description>
+  
+  <!-- EN: rescue -->
   <Rescue.label>giải cứu</Rescue.label>
-  <!-- The animal will rescue wounded allies and drag them to safety. -->
-  <Rescue.description>Con vật có thể đưa người bị thương vào nơi an toàn.</Rescue.description>
-
-  <!-- haul -->
-  <Haul.label>khuân vác</Haul.label>
-  <!-- The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>Con vật này sẽ tự động mang vật phẩm về kho (tuy nhiên không thể chỉ định trực tiếp được).</Haul.description>
-
-  <!-- tameness -->
-  <Tameness.label>sự thuần hóa</Tameness.label>
-  <!-- The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>Con vật này coi bản thân là thành viên của thị trấn của bạn.</Tameness.description>
-
-
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Con vật sẽ giải cứu các đồng minh bị thương và kéo họ đến nơi an toàn.</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>thuần hóa</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>Con vật có thể học cách tự coi mình là thành viên của thuộc địa của bạn.</Tameness.description>
+  
 </LanguageData>

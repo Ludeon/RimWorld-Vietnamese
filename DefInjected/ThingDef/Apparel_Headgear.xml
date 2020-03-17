@@ -1,58 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- cowboy hat -->
-  <Apparel_CowboyHat.label>nón cao bồi</Apparel_CowboyHat.label>
-  <!-- Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
-  <Apparel_CowboyHat.description>Dù cổ điển nhưng vẫn thời trang và sành điệu. Ngoài việc che nắng che mưa cho người đội, nó còn giúp người đội tăng một chút điểm thu hút nữa. Chiếc nón này là một phần không thể thiếu trong bộ truyền thống miền Viễn tây.</Apparel_CowboyHat.description>
-
-  <!-- bowler hat -->
-  <Apparel_BowlerHat.label>nón bowler</Apparel_BowlerHat.label>
-  <!-- A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
-  <Apparel_BowlerHat.description>Chiếc nón này vừa xinh đẹp, vừa có chút style hiện đại đâu đó. Tăng khả năng giao tiếp.</Apparel_BowlerHat.description>
-
-  <!-- tribal headdress -->
+  
+  <!-- EN: flak helmet -->
+  <Apparel_AdvancedHelmet.label>mũ giáp tiên tiến</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>Một chiếc mũ bảo hiểm chiến đấu nhẹ với thiết kế phức tạp, được gia cố bằng plasteel. Không hiệu quả chống lại vũ khí cùn.</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: recon helmet -->
+  <Apparel_ArmorHelmetRecon.label>TODO</Apparel_ArmorHelmetRecon.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
+  <Apparel_ArmorHelmetRecon.description>TODO</Apparel_ArmorHelmetRecon.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>mũ vành</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>Một chiếc mũ đẹp, dự án theo phong cách hơi đô thị, yêu tiền. Cải thiện tác động xã hội.</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>mũ cao bồi</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>Phong cách nhưng chắc chắn, chiếc mũ này giữ cho nắng và mưa - và nó mang lại cho bất cứ ai mặc nó một chút quyến rũ. Đây là phần quan trọng nhất của trang phục truyền thống phương Tây.</Apparel_CowboyHat.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>mũ giáp năng lượng</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>Một chiếc mũ bảo hiểm được trang bị áo giáp, với máy tính trạng thái tích hợp và áo giáp plasteel nhiều lớp. Thường được sử dụng bởi bộ binh hạng nặng và thủy quân lục chiến trong các quân đội công nghệ cao.</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>mũ chắn xung thần kinh</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>Một chiếc mũ bảo hiểm mỏng chứa những tờ giấy thấm tinh tế. Giảm tác động của xung thần kinh.</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>mũ giáp đơn giản</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>Một chiếc mũ bảo hiểm đơn giản giúp bảo vệ vừa phải chống lại các cuộc tấn công sắc bén. Không hiệu quả chống lại vũ khí cùn.</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
   <Apparel_TribalHeaddress.label>mũ bộ lạc</Apparel_TribalHeaddress.label>
-  <!-- Elegant traditional garb, often with religious significance. Improves social impact. -->
-  <Apparel_TribalHeaddress.description>Trang phục truyền thống thường trang trí bằng những vật tín ngưỡng. Cải thiện khả năng giao tiếp.</Apparel_TribalHeaddress.description>
-
-  <!-- tuque -->
-  <Apparel_Tuque.label>nón len</Apparel_Tuque.label>
-  <!-- A soft, thick cap. Great for keeping warm in winter. -->
-  <Apparel_Tuque.description>Nón được đang từ len giúp giữ ấm đầu vào mùa đông.</Apparel_Tuque.description>
-
-  <!-- war mask -->
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>Trang phục truyền thống thanh lịch, thường có ý nghĩa tôn giáo. Cải thiện tác động xã hội.</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>mũ chụp</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>Một cái mũ mềm, dày. Tuyệt vời để giữ ấm trong mùa đông.</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
   <Apparel_WarMask.label>mặt nạ</Apparel_WarMask.label>
-  <!-- An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
-  <Apparel_WarMask.description>Mặt nạ bằng gỗ được điêu khắc tinh xảo, che đi khuôn mặt của người đeo và làm họ tự tin hơn.</Apparel_WarMask.description>
-
-  <!-- war veil -->
-  <Apparel_WarVeil.label>vải che mặt</Apparel_WarVeil.label>
-  <!-- A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
-  <Apparel_WarVeil.description>Tấm vải che mặt của thổ dân. Nhiều người tin rằng mảnh vải che mặt này sẽ giúp người đeo thêm dũng cảm.</Apparel_WarVeil.description>
-
-
-  <!-- ================================== Helmets ====================================-->
-
-  <!-- simple helmet -->
-  <Apparel_SimpleHelmet.label>mũ đơn giản</Apparel_SimpleHelmet.label>
-  <!-- A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
-  <Apparel_SimpleHelmet.description>Nón từ thời thế chiến 2 cho khả năng bảo vệ trung bình khỏi sát thương mảnh. Mất tác dụng khi gặp sát thưowng đập.</Apparel_SimpleHelmet.description>
-
-  <!-- advanced helmet -->
-  <Apparel_AdvancedHelmet.label>mũ cao cấp</Apparel_AdvancedHelmet.label>
-  <!-- A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
-  <Apparel_AdvancedHelmet.description>Được thiết kế phức tạp nhưng gọn nhẹ và gia cố bằng plasteel, hiệu quả cao hơn mũ cơ bản. Mất tác dụng đối với sát thương đập.</Apparel_AdvancedHelmet.description>
-
-  <!-- power armor helmet -->
-  <Apparel_PowerArmorHelmet.label>mũ năng lượng</Apparel_PowerArmorHelmet.label>
-  <!-- A powered-armor helmet, with built-in status computer and layered plasteel armor. Usually used by heavy infantry and space marines in spacer-tech militaries. -->
-  <Apparel_PowerArmorHelmet.description>Mũ gia cố bằng nhiều lớp plasteel, có hệ thống AI hỗ trợ trong mũ, thường thấy ở các lục binh hạng nặng hoặc lực lượng không gian khác.</Apparel_PowerArmorHelmet.description>
-
-  <!-- psychic foil helmet -->
-  <Apparel_PsychicFoilHelmet.label>mũ bạc</Apparel_PsychicFoilHelmet.label>
-  <!-- A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
-  <Apparel_PsychicFoilHelmet.description>Mũ dày được bao bọc bằng lớp bạc hấp thụ sóng thần kinh. Giảm ảnh hưởng của xung thần linh lên não nhiều lần.</Apparel_PsychicFoilHelmet.description>
-
-
+  <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>Một mặt nạ chiến tranh đáng sợ nghệ thuật. Che giấu khuôn mặt của người mặc và làm cho họ tự tin hơn.</Apparel_WarMask.description>
+  
+  <!-- EN: war veil -->
+  <Apparel_WarVeil.label>mạng che mặt</Apparel_WarVeil.label>
+  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <Apparel_WarVeil.description>Một tấm mạng che mặt chiến tranh, được làm từ vải gia cố bị rách xuất hiện hư hỏng trong chiến đấu. Một số người tin rằng chức năng này như một lá bùa hộ mệnh.</Apparel_WarVeil.description>
+  
 </LanguageData>

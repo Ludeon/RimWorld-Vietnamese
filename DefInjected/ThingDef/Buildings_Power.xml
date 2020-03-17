@@ -1,55 +1,54 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- power conduit -->
-  <PowerConduit.label>dây điện</PowerConduit.label>
-  <!-- A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
-  <PowerConduit.description>Dùng để mang điện đến các nơi. Có thể đặt bên dưới tường hoặc các công trình khác.</PowerConduit.description>
-
-  <!-- waterproof conduit -->
-  <WaterproofConduit.label>dây điện chống nước</WaterproofConduit.label>
-  <!-- Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>Dây điện thường được bọc thêm vỏ chống thấm nước để có thể đặt ở nơi mực nước thấp.</WaterproofConduit.description>
-
-  <!-- power switch -->
-  <PowerSwitch.label>công tắc điện</PowerSwitch.label>
-  <!-- Switches power on/off. -->
-  <PowerSwitch.description>Dùng để bật/tắt điện.</PowerSwitch.description>
-
-  <!-- wood-fired generator -->
-  <WoodFiredGenerator.label>Máy phát điện bằng củi</WoodFiredGenerator.label>
-  <!-- Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>Sử dụng gỗ để phát điện. Phải được cung cấp gỗ bằng tay.</WoodFiredGenerator.description>
-
-  <!-- chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>máy phát điện bằng nhiên liệu</ChemfuelPoweredGenerator.label>
-  <!-- Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>Sử dụng nhiên liệu để phát điện. Phải được cung cấp nhiên liệu bằng tay.</ChemfuelPoweredGenerator.description>
-
-  <!-- wind turbine -->
-  <WindTurbine.label>tua-bin gió</WindTurbine.label>
-  <!-- A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <WindTurbine.description>Máy phát điện dựa vào năng lượng gió. Cần không gian thoáng đãng phía trước và phía sau để tối ưa luồng gió.</WindTurbine.description>
-
-  <!-- battery -->
+  
+  <!-- EN: battery -->
   <Battery.label>pin</Battery.label>
-  <!-- Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Nơi chứa năng lượng dư thừa được tạo ra để sử dụng về sau. Pin đang tích điện dễ bị nổ khi để dưới trời mưa hoặc đám cháy.</Battery.description>
-
-  <!-- solar generator -->
-  <SolarGenerator.label>tấm pin năng lượng mặt trời</SolarGenerator.label>
-  <!-- Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
-  <SolarGenerator.description>Sản xuất điện từ ánh sáng mặt trời. Bất hoạt khi trời tối hoặc dưới ánh sáng nhân tạo.</SolarGenerator.description>
-
-  <!-- geothermal generator -->
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>máy phát điện bằng nhiên liệu</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>Sử dụng nhiên liệu để phát điện. Phải được cung cấp nhiên liệu bằng tay.</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>máy phát điện địa nhiệt</GeothermalGenerator.label>
-  <!-- Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>Sản xuất điện từ mạch nước nóng. Phải đặt trên một mạch nước nóng.</GeothermalGenerator.description>
-
-  <!-- watermill generator -->
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>dây điện</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>Dùng để mang điện đến các nơi. Có thể đặt bên dưới tường hoặc các công trình khác.</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>công tắc điện</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>Dùng để bật/tắt điện.</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>tấm pin năng lượng mặt trời</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>Sản xuất điện từ ánh sáng mặt trời. Bất hoạt khi trời tối hoặc dưới ánh sáng nhân tạo.</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
   <WatermillGenerator.label>cối xoay nước</WatermillGenerator.label>
-  <!-- Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation. -->
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
   <WatermillGenerator.description>Sản xuất điện từ sông. Phải đặt ở con sông có dòng nước chảy. Nếu cối xoay nước đặt quá gần nhau sẽ bị ảnh hưởng bởi dòng chảy của nhau khiến giảm sản lượng điện sản xuất được.</WatermillGenerator.description>
-
-
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>dây điện chống nước</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>Dây điện thường được bọc thêm vỏ chống thấm nước để có thể đặt ở nơi mực nước thấp.</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>tua-bin gió</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>Máy phát điện dựa vào năng lượng gió. Cần không gian thoáng đãng phía trước và phía sau để tối ưa luồng gió.</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>Máy phát điện bằng củi</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Sử dụng gỗ để phát điện. Phải được cung cấp gỗ bằng tay.</WoodFiredGenerator.description>
+  
 </LanguageData>

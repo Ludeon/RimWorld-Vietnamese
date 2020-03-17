@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- turrets -->
+  
+  <!-- EN: turrets -->
   <Turrets.label>ụ súng</Turrets.label>
-  <!-- A group of turrets. -->
+  <!-- EN: A group of turrets. -->
   <Turrets.description>Một nhóm các ụ súng.</Turrets.description>
-  <!-- There are enemy turrets in this area. -->
+  <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>Có ụ súng của địch ở khu vự này.</Turrets.arrivedLetter>
-  <!-- Enemy turrets -->
-  <Turrets.arrivedLetterLabel>Ụ súng của địch</Turrets.arrivedLetterLabel>
-  <!-- a ring of {0} enemy turrets defends the site -->
-  <Turrets.descriptionDialogue>một nhóm {0} ụ súng của địch đang phòng thủ ở khu vực</Turrets.descriptionDialogue>
-
-
+  
 </LanguageData>
