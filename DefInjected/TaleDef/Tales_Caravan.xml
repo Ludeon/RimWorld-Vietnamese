@@ -2,214 +2,212 @@
 <LanguageData>
 
   <!-- caravan formed -->
-  <CaravanFormed.label></CaravanFormed.label>
+  <CaravanFormed.label>đã thành lập đoàn lữ hành</CaravanFormed.label>
   <CaravanFormed.rulePack.rulesStrings>
     <!-- tale_noun->[PAWN_nameDef] departing for adventure -->
-    <li></li>
+    <li>[PAWN_nameDef] đang khởi hành cuộc thám hiểm</li>
     <!-- tale_noun->[PAWN_nameDef] forming a caravan -->
-    <li></li>
+    <li>[PAWN_nameDef] đang tập hợp đoàn lữ hành</li>
     <!-- image->[PAWN_nameFull] striding forward purposefully [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang sải bước tới trong nền nhạc JoJo [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] looking towards the horizon [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang nhìn về phương trời xa xăm [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] packing supplies for a journey [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang đóng gói nhu yếu phẩm cho chuyến đi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] planning a journey [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang lập kế hoạch cho chuyến đi [circumstance_group]</li>
     <!-- circumstance_phrase->and equipped for a fight -->
-    <li></li>
+    <li>và sửa soạn cho 1 trận chiến sắp diễn ra</li>
     <!-- circumstance_phrase->and equipped for survival -->
-    <li></li>
+    <li>và chuẩn bị mọi thứ để sinh tồn</li>
     <!-- circumstance_phrase->and equipped for exploration -->
-    <li></li>
+    <li>và sửa soạn cho cuộc thám hiểm</li>
     <!-- circumstance_phrase->with an eager look in [PAWN_possessive] eyes -->
-    <li></li>
+    <li>và nhìn vào [PAWN_possessive] với ánh mắt sắc bén</li>
     <!-- circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes -->
-    <li></li>
+    <li>và nhìn vào [PAWN_possessive] với ánh mắt [AdjectiveAny]</li>
     <!-- desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [ally] quan sát quá trình chuẩn bị.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [ally] hỗ trợ quá trình chuẩn bị.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] rút lui khỏi màn hình.</li>
     <!-- desc_sentence->A [TerrainFeature] is visible in the distance. -->
-    <li></li>
+    <li>[TerrainFeature] đang dần hiện ra từ phía xa xa.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [PersonJob] đứng nhìn từ xa.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] đang thong thả di chuyển.</li>
   </CaravanFormed.rulePack.rulesStrings>
 
   <!-- caravan fled -->
   <CaravanFled.label></CaravanFled.label>
   <CaravanFled.rulePack.rulesStrings>
     <!-- tale_noun->[PAWN_nameDef]'s caravan fleeing danger -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] đang trốn khỏi nguy hiểm</li>
     <!-- tale_noun->[PAWN_nameDef]'s caravan escaping danger -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] đang thoát khỏi nguy hiểm</li>
     <!-- tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] suýt soát thoát khỏi nguy hiểm cận kề</li>
     <!-- tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] đang bị đuổi theo bới kẻ địch</li>
     <!-- image->[PAWN_nameFull] running frantically [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang chạy điên cuồng [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] sprinting [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang chạy nước rút</li>
     <!-- image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] nấp sau 1 [TerrainFeature], ẩn mình khỏi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang rút lui chiến thuật khỏi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] casually strolling away [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang chậm rãi đi khỏi [circumstance_group]</li>
     <!-- circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase -->
-    <li></li>
+    <li>khi bị đuổi theo bởi [Quantity_adjphrase] [Enemy]</li>
     <!-- circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search -->
-    <li></li>
+    <li>trong khi [Quantity_adjphrase] [Enemy] đang tìm kiếm</li>
     <!-- circumstance_phrase->from [Quantity_adjphrase] [Enemy]s -->
-    <li></li>
+    <li>khỏi [Quantity_adjphrase] [Enemy]</li>
     <!-- circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s -->
-    <li></li>
+    <li>khỏi [Quantity_adjphrase] [Animal] của kẻ địch</li>
     <!-- circumstance_phrase->from a [huge] [Enemy] -->
-    <li></li>
+    <li>khỏi [huge] [Enemy]</li>
     <!-- desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s. -->
-    <li></li>
+    <li>kẻ địch của [PAWN_nameDef] đang hung hăng vung [Weapon].</li>
     <!-- desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke. -->
-    <li></li>
+    <li>kẻ địch của [PAWN_nameDef] đang bị bao phủ bởi đám khói [Color].</li>
     <!-- desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions. -->
-    <li></li>
-    <!-- desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s. -->
-    <li></li>
+    <li>kẻ địch của [PAWN_nameDef] đang biểu lộ cảm xúc [AdjectiveAngsty].</li>
     <!-- desc_sentence->[PAWN_nameDef] is sweating. -->
-    <li></li>
+    <li>[PAWN_nameDef] đang đổ mồ hôi.</li>
     <!-- desc_sentence->[PAWN_nameDef] is gasping for breath. -->
-    <li></li>
+    <li>[PAWN_nameDef] đang thở gấp.</li>
   </CaravanFled.rulePack.rulesStrings>
 
   <!-- caravan ambush defeated -->
-  <CaravanAmbushDefeated.label></CaravanAmbushDefeated.label>
+  <CaravanAmbushDefeated.label>địch phục kích thất bại</CaravanAmbushDefeated.label>
   <CaravanAmbushDefeated.rulePack.rulesStrings>
     <!-- tale_noun->a successful defense of [PAWN_nameDef]'s caravan -->
-    <li></li>
+    <li>cuộc phòng thủ thành công đến từ đoàn lữ hành của [PAWN_nameDef]</li>
     <!-- tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush -->
-    <li></li>
+    <li>đoàn lữ hành của [PAWN_nameDef] đang chống trả 1 cuộc phục kích</li>
     <!-- image->[PAWN_nameFull] organizing resistance while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang tổ chức lực lượng trong khi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang cầm 1 [Weapon] phòng thủ trong khi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang đỡ [Weapon] của [PAWN_possessive] trong khi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] standing as tall as a building while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang đứng sừng sững trong khi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang biểu lộ cảm xúc [AdjectiveBadass] trong khi [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang biểu lộ cảm xúc [AdjectiveAngsty] trong khi [circumstance_group]</li>
     <!-- circumstance_phrase->bracing against the advancing horde -->
-    <li></li>
+    <li>đang chuẩn bị tinh thần đón nhận cuộc đổ bộ của địch</li>
     <!-- circumstance_phrase->circling the wagons -->
-    <li></li>
+    <li>đang xoay vòng chiếc xe</li>
     <!-- circumstance_phrase->roaring in victory -->
-    <li></li>
+    <li>đang ăn mừng chiến thắng</li>
     <!-- circumstance_phrase->brandishing [Weapon]s -->
-    <li></li>
+    <li>đang vung [Weapon]</li>
     <!-- circumstance_phrase->covered in [Gore] -->
-    <li></li>
+    <li>bao phủ bởi [Gore]</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] vừa tiến lên vừa vung bừa [Weapon].</li>
     <!-- desc_sentence->A huge [Enemy] advances, brandishing a [Weapon]. -->
-    <li></li>
+    <li>Lượng lớn [Enemy] vừa xông lên vừa vung bừa [Weapon].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] xông lên với ánh mắt tràn đầy [AdjectiveBadass].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] tiến lên với ánh mắt [AdjectiveAngsty].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] xông lên với những cặp mắt rực lên [Color].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore]. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] bao phủ bởi [Gore] đang tiến lên.</li>
     <!-- desc_sentence->The ground is coated in [Gore]. -->
-    <li></li>
+    <li>Mặt đất bao phủ hoàn toàn trong [Gore].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [PersonJob] chạy khỏi khu vực.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s flee the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] chạy khỏi khu vực.</li>
   </CaravanAmbushDefeated.rulePack.rulesStrings>
 
   <!-- caravan remote mining -->
-  <CaravanRemoteMining.label></CaravanRemoteMining.label>
+  <CaravanRemoteMining.label>đoàn lữ hành khai khoán từ xa</CaravanRemoteMining.label>
   <CaravanRemoteMining.rulePack.rulesStrings>
     <!-- tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] đang đào 1 mỏ [MATERIAL_label] ở 1 miền đất xa</li>
     <!-- image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang đào bức tường [MATERIAL_label], [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang giữ 1 tảng [MATERIAL_label], [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang dựa vào bức tường [MATERIAL_label] nghỉ ngơi, [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang điều phối đội thợ mỏ khai thác 1 mỏ [MATERIAL_label], [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] đang cẩn thận thăm dò 1 mỏ [MATERIAL_label], [circumstance_group]</li>
     <!-- circumstance_phrase->sweating heavily -->
-    <li></li>
+    <li>mồ hôi như suối</li>
     <!-- circumstance_phrase->wearing a [AdjectiveFriendly] expression -->
-    <li></li>
+    <li>đang bộc lộ cảm xúc [AdjectiveFriendly]</li>
     <!-- circumstance_phrase->smiling proudly -->
-    <li></li>
+    <li>nở nụ cười đầy tự hào</li>
     <!-- circumstance_phrase->a satisfied expression on [PAWN_possessive] face -->
-    <li></li>
+    <li>khuôn mặt [PAWN_possessive] đầy vẻ thỏa mãn</li>
     <!-- circumstance_phrase->looking around warily for danger -->
-    <li></li>
+    <li>đang thận trọng quan sát xung quanh</li>
     <!-- desc_sentence->[Quantity_adjphrase] [ally]s assist. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [ally] đang hỗ trợ.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s wander the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] đang lang thang trong khu vực này.</li>
     <!-- desc_sentence->There is a makeshift shelter in the background. -->
-    <li></li>
+    <li>Có 1 lều trú tạm thời trong khu vực này.</li>
     <!-- desc_sentence->[Quantity_adjphrase] further veins are visible in the distance. -->
-    <li></li>
+    <li>Có khoảng [Quantity_adjphrase] mỏ khoáng thạch đang dần hiện ra từ xa kia.</li>
     <!-- desc_sentence->A [TerrainFeature] is visible in the distance. -->
-    <li></li>
+    <li>Có 1 [TerrainFeature] đang dần hiện ra từ xa.</li>
     <!-- desc_sentence->[PAWN_nameDef] is sweaty and dirty from work. -->
-    <li></li>
+    <li>Người [PAWN_nameDef] vô cùng dơ bẩn và đầy mồ hôi vì làm việc.</li>
   </CaravanRemoteMining.rulePack.rulesStrings>
 
   <!-- caravan assault successful -->
-  <CaravanAssaultSuccessful.label></CaravanAssaultSuccessful.label>
+  <CaravanAssaultSuccessful.label>đoàn lữ hành đột kich thành công</CaravanAssaultSuccessful.label>
   <CaravanAssaultSuccessful.rulePack.rulesStrings>
     <!-- tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold -->
-    <li></li>
+    <li>Đoàn lữ hành của [PAWN_nameDef] đang chiếm ưu thế trước công sự địch</li>
     <!-- image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] vừa tiến tới [Enemy] [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] vừa giữ [Weapon] [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] vừa vung [Weapon] [circumstance_group]</li>
     <!-- image->[PAWN_nameFull] standing as tall as a building, [circumstance_group] -->
-    <li></li>
+    <li>[PAWN_nameFull] thế đứng vững như kiềng [circumstance_group]</li>
     <!-- circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes -->
-    <li></li>
+    <li>vẻ mặt [PAWN_possessive] vô cùng [AdjectiveBadass]</li>
     <!-- circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes -->
-    <li></li>
+    <li>vẻ mặt [PAWN_possessive] vô cùng [AdjectiveAngsty]</li>
     <!-- circumstance_phrase->roaring in victory -->
-    <li></li>
+    <li>vừa hô vang trong chiến thắng</li>
     <!-- circumstance_phrase->covered in [Gore] -->
-    <li></li>
+    <li>bao phủ bởi [Gore]</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] tháo chạy khỏi cuộc tấn công.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] tháo chạy khỏi khu vực.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Enemy] đang bị thương.</li>
     <!-- desc_sentence->A [Community] burns in the distance. -->
-    <li></li>
+    <li>Có thể thấy 1 khu [Community] đang bốc cháy từ xa.</li>
     <!-- desc_sentence->A [Community] smokes in the distance. -->
-    <li></li>
+    <li>Có thể thấy 1 khu [Community] đang bốc khói từ xa.</li>
     <!-- desc_sentence->The ground is coated in [Gore]. -->
-    <li></li>
+    <li>Mặt đất phủ đầy [Gore].</li>
     <!-- desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [PersonJob] bỏ chạy khỏi khu vực.</li>
     <!-- desc_sentence->[Quantity_adjphrase] [Animal]s flee the area. -->
-    <li></li>
+    <li>[Quantity_adjphrase] [Animal] bỏ chạy khỏi khu vực.</li>
   </CaravanAssaultSuccessful.rulePack.rulesStrings>
 
 

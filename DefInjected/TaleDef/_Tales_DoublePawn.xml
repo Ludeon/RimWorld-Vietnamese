@@ -2,110 +2,110 @@
 <LanguageData>
 
   <!-- person captured -->
-  <Captured.label></Captured.label>
+  <Captured.label>bắt người</Captured.label>
   <Captured.rulePack.rulesStrings>
     <!-- tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef] -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang bắt giữ [PATIENT_nameDef]</li>
     <!-- tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef] -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang bị bắt giữ bởi [CAPTURER_nameDef]</li>
     <!-- tale_noun->the capturing of [PRISONER_nameDef] -->
-    <li></li>
+    <li>bắt giữ [PRISONER_nameDef]</li>
     <!-- image->[CAPTURER_nameFull] capturing [PRISONER_nameFull] [circumstance_group] -->
-    <li></li>
+    <li>[CAPTURER_nameFull] bắt giữ [PRISONER_nameFull] [circumstance_group]</li>
     <!-- image->[CAPTURER_nameFull] tying [PRISONER_nameFull]'s hands [circumstance_group] -->
-    <li></li>
+    <li>[CAPTURER_nameFull] đang trói [PRISONER_nameFull] [circumstance_group]</li>
     <!-- image->[CAPTURER_nameFull] smacking [PRISONER_nameFull] while capturing [PRISONER_objective] [circumstance_group] -->
-    <li></li>
+    <li>[CAPTURER_nameFull] đấm vào mặt [PRISONER_nameFull] trong khi đang bắt giữ [PRISONER_objective] [circumstance_group]</li>
     <!-- circumstance_phrase->as [PRISONER_pronoun] writhes on the ground -->
-    <li></li>
+    <li>trong khi [PRISONER_pronoun] lê lết trên mặt đất</li>
     <!-- circumstance_phrase->as [PRISONER_pronoun] twists in pain -->
-    <li></li>
+    <li>trong khi [PRISONER_pronoun] gồng người trong đau đớn</li>
     <!-- circumstance_phrase->with professional efficiency -->
-    <li></li>
+    <li>với điệu nghệ vô cùng chuyên nghiệp</li>
     <!-- circumstance_phrase->roughly and amateurishly -->
-    <li></li>
+    <li>vô cùng nghiệp dư và thô thiển</li>
     <!-- circumstance_phrase->with obviously excessive force -->
-    <li></li>
+    <li>với lực quá mạnh tay</li>
     <!-- circumstance_phrase->with obvious pleasure -->
-    <li></li>
+    <li>với lực khá nhẹ nhàng</li>
     <!-- circumstance_phrase->while smiling with dominance -->
-    <li></li>
+    <li>trong khi đang cười mỉm chi</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is looking into [PRISONER_nameDef]'s eyes with a sense of dominance. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang nhìn vào mắt của [PRISONER_nameDef] bằng ánh mắt đàn áp.</li>
     <!-- desc_sentence->[PRISONER_nameDef] is injured and seems to be in pain. -->
-    <li></li>
+    <li>[PRISONER_nameDef] bị thương và có vẻ rất đau đớn.</li>
     <!-- desc_sentence->[PRISONER_nameDef] looks resigned to [PRISONER_possessive] fate. -->
-    <li></li>
+    <li>[PRISONER_nameDef] đã từ bỏ hi vọng vào số phận của [PRISONER_possessive]</li>
     <!-- desc_sentence->[PRISONER_nameDef] is snarling with the fury of defeat. -->
-    <li></li>
+    <li>[PRISONER_nameDef] gầm lên trong cơn tức khi khi bị đánh bại.</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is slapping [PRISONER_nameDef] to subdue [PRISONER_objective]. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang tát [PRISONER_nameDef] để ngăn ý định phản kháng của [PRISONER_objective].</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is twisting [PRISONER_nameDef]'s ear. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang vặn lỗ tai của [PRISONER_nameDef]</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is holding [PRISONER_nameDef] in a joint lock. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang trói [PRISONER_nameDef] bằng cái cùm.</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is spitting into [PRISONER_nameDef]'s face. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang phun nước vãi vào mặt [PRISONER_nameDef]</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is laughing as tears well up in [PRISONER_nameDef]'s eyes. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] cười hả hê khi thấy [PRISONER_nameDef] rơi nước mắt.</li>
     <!-- desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason. -->
-    <li></li>
+    <li>[CAPTURER_nameDef] đang đá [PRISONER_nameDef] để hả hê lòng.</li>
   </Captured.rulePack.rulesStrings>
 
   <!-- person recruited -->
-  <Recruited.label></Recruited.label>
+  <Recruited.label>chiêu mộ được người mới</Recruited.label>
   <Recruited.rulePack.rulesStrings>
     <!-- tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef] -->
-    <li></li>
+    <li>[RECRUITER_nameDef] đang chiêu mộ [JOINER_nameDef]</li>
     <!-- tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef] -->
-    <li></li>
+    <li>[JOINER_nameDef] đang được chiêu mộ bởi [RECRUITER_nameDef]</li>
     <!-- tale_noun->the recruitment of [JOINER_nameDef] -->
-    <li></li>
+    <li>chiêu mộ [JOINER_nameDef]</li>
     <!-- image->[RECRUITER_nameFull] recruiting [JOINER_nameFull] [circumstance_group] -->
-    <li></li>
+    <li>[RECRUITER_nameFull] đang chiêu mộ [JOINER_nameFull] [circumstance_group]</li>
     <!-- image->[RECRUITER_nameFull] welcoming [JOINER_nameFull] as [JOINER_pronoun] becomes a colonist [circumstance_group] -->
-    <li></li>
+    <li>[RECRUITER_nameFull] đang chào mừng [JOINER_nameFull] hay thường gọi là [JOINER_pronoun] trở thành 1 thành viên mới của mình [circumstance_group]</li>
     <!-- image->[RECRUITER_nameFull] speaking convincingly to [JOINER_nameFull] [circumstance_group] -->
-    <li></li>
+    <li>[RECRUITER_nameFull] đang nói chuyện để thuyết phục [JOINER_nameFull] [circumstance_group]</li>
     <!-- circumstance_phrase->with obvious goodwill -->
-    <li></li>
+    <li>bằng lòng thân ái</li>
     <!-- circumstance_phrase->with a hearty handshake -->
-    <li></li>
+    <li>bằng cái bắt tay đầy tình cảm</li>
     <!-- circumstance_phrase->with smiles all around -->
-    <li></li>
+    <li>bằng nụ cười thân thiện</li>
     <!-- circumstance_phrase->in front of the whole colony -->
-    <li></li>
+    <li>trước mặt bà con bá quan văn võ của cả làng</li>
     <!-- circumstance_phrase->in a prison cell -->
-    <li></li>
+    <li>trong 1 phòng giam</li>
     <!-- desc_sentence->[JOINER_nameDef] is nodding in understanding. -->
-    <li></li>
+    <li>[JOINER_nameDef] đang gật đầu ra vẻ hiểu vấn đề.</li>
     <!-- desc_sentence->[JOINER_nameDef] is smiling and making eye contact. -->
-    <li></li>
+    <li>[JOINER_nameDef] đang cười mỉm chi và liếc mắt đưa tình.</li>
     <!-- desc_sentence->[JOINER_nameDef] looks relieved. -->
-    <li></li>
+    <li>[JOINER_nameDef] có vẻ dễ chịu.</li>
     <!-- desc_sentence->[JOINER_nameDef] looks hopeful. -->
-    <li></li>
+    <li>[JOINER_nameDef] có vẻ đầy hi vọng.</li>
   </Recruited.rulePack.rulesStrings>
 
   <!-- animal hunted -->
-  <Hunted.label></Hunted.label>
+  <Hunted.label>thú hoang dã săn mồi</Hunted.label>
   <Hunted.rulePack.rulesStrings>
     <!-- tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef] -->
-    <li></li>
+    <li>[HUNTER_nameDef] đang săn [PREY_nameDef]</li>
     <!-- tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef] -->
-    <li></li>
+    <li>[PREY_nameDef] đang bị săn bởi [HUNTER_nameDef]</li>
     <!-- tale_noun->[HUNTER_nameDef]'s successful hunt -->
-    <li></li>
+    <li>Cuộc đi săn thành công của [HUNTER_nameDef]</li>
     <!-- image->[PREY_nameFull] being hunted by [HUNTER_nameFull] [circumstance_group] -->
-    <li></li>
+    <li>[PREY_nameFull] đang bị săn bởi [HUNTER_nameFull] [circumstance_group]</li>
     <!-- image->[HUNTER_nameFull] stalking [PREY_nameFull] from afar [circumstance_group] -->
-    <li></li>
+    <li>[HUNTER_nameFull] đang rình [PREY_nameFull] từ xa [circumstance_group]</li>
     <!-- image->[HUNTER_nameFull] hunting [PREY_nameFull] [circumstance_group] -->
-    <li></li>
+    <li>[HUNTER_nameFull] đang săn [PREY_nameFull] [circumstance_group]</li>
     <!-- circumstance_phrase->as [PREY_nameDef] relaxes -->
-    <li></li>
+    <li>trong lúc [PATIENT_nameDef] thư thả nghỉ ngơi</li>
     <!-- circumstance_phrase->as [PREY_nameDef] travels -->
-    <li></li>
+    <li>trong lúc [PREY_nameDef] di chuyển</li>
     <!-- circumstance_phrase->as [PREY_nameDef] eats -->
     <li></li>
     <!-- desc_sentence->[PREY_nameDef] seems totally oblivious. -->
