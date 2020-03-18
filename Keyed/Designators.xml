@@ -201,7 +201,7 @@
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label} yêu cầu địa hình có thể hỗ trợ: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (khi được tạo bằng {2_label}) yêu cầu địa hình hỗ trợ: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Không gian đã bị chiếm đóng.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -211,11 +211,11 @@
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Bánh xe nước phải di chuyển trên nước.</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>Điểm tương tác sẽ trùng lặp với điểm tương tác của {1_labelShort}</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>Điểm tương tác trùng lặp với điểm tương tác của {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Monument markers can't be placed directly adjacent to any building. -->
-  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Điểm đánh dấu tượng đài không thể đặt trực tiếp liền kề với bất kỳ tòa nhà nào.</MonumentAdjacentToBuilding>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -229,12 +229,12 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Cần xây dựng</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithSkillTip>TODO</NoColonistWithSkillTip>
+  <NoColonistWithSkillTip>Không ai trong số {0} của bạn có kỹ năng này.</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <SkillNeededForConstructing>{0} cần thiết</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>Không ai trong số {0} của bạn có tất cả các kỹ năng cần thiết.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>Tất cả {0} của bạn có kỹ năng này không được gán cho {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>
