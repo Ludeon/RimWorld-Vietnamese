@@ -64,9 +64,9 @@
   <NeedColonistBedsDesc>Bạn có nhiều cư dân hơn là giường. Ai đó sẽ thiếu chỗ ngủ.\n\nLàm thêm giường, hoặc thay đổi giường cho tù nhân thành giường cho cư dân.\n\nNếu bạn không có tài nguyên, điểm ngủ là miễn phí và có thể được đặt ngay lập tức.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Thuộc địa bị bỏ mặc</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Một thuộc địa bị bỏ mặc.\n\n Điều này có thể ảnh hưởng tiêu cực đến tâm trạng thực dân của bạn.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Thợ săn thiếu vũ khí tầm xa</HunterLacksWeapon>
@@ -152,9 +152,9 @@
   <ColonistsIdleDesc>Những cư dân này đang lang thang nhàn rỗi:\n\n{0}\nBạn có lẽ nên tìm cho họ một cái gì đó hữu ích để làm.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Đoàn xe nhàn rỗi</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Những đoàn lữ hành này đang chờ bạn đặt điểm đến tiếp theo của họ:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Cư dân cần điều trị y tế</ColonistNeedsTreatment>
@@ -208,7 +208,7 @@
   <ImmobileCaravanDesc>Một trong những đoàn lữ hành của bạn bất động vì nó mang quá nhiều.\n\nBạn có thể làm cho đoàn xe di động trở lại bằng cách từ bỏ một số mục trong thẻ ITEMS.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>Tòa nhà không sử dụng được do mái nhà</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Tòa nhà không sử dụng được do có mái nhà</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
   <BuildingCantBeUsedRoofedDesc>Một hoặc nhiều tòa nhà của bạn chỉ có thể được sử dụng nếu không được lợp mái, nhưng có một mái nhà trên nó. (Các) tòa nhà sẽ không thể sử dụng được cho đến khi bạn gỡ bỏ mái nhà.</BuildingCantBeUsedRoofedDesc>
 
