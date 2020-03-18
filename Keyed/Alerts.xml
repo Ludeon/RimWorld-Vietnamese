@@ -208,41 +208,41 @@
   <ImmobileCaravanDesc>Một trong những đoàn lữ hành của bạn bất động vì nó mang quá nhiều.\n\nBạn có thể làm cho đoàn xe di động trở lại bằng cách từ bỏ một số mục trong thẻ ITEMS.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Tòa nhà không sử dụng được do mái nhà</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Một hoặc nhiều tòa nhà của bạn chỉ có thể được sử dụng nếu không được lợp mái, nhưng có một mái nhà trên nó. (Các) tòa nhà sẽ không thể sử dụng được cho đến khi bạn gỡ bỏ mái nhà.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
-  <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstroke>Say nắng</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:Get them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>Những người sau đây đang bị say nắng:\n\n{0}\nĐưa họ đến một khu vực mát mẻ. Bạn có thể hạ nhiệt phòng bằng máy làm mát thủ công hoặc máy lạnh. Không gian ngầm sâu cũng tự nhiên mát mẻ, nếu cách biệt với ngoài trời bằng một cánh cửa.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Khách không vui</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Nhiệm vụ {0} yêu cầu bạn giữ cho người này có tâm trạng tốt. Tuy nhiên, tâm trạng của họ rất kém. Thực hiện một số hành động để làm cho họ cảm thấy tốt hơn:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Xe đưa đón đi trong {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Xe đưa đón sẽ rời đi trong {1}. Nhiệm vụ {0} yêu cầu bạn tải những người hoặc vật phẩm sau lên xe trước khi nó rời đi:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Tượng đài sẽ bị phá hủy</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Bạn đã xây dựng một tòa nhà không được phép bên trong một trong những di tích của bạn. Tượng đài sẽ được coi là bị phá hủy trong {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Kích hoạt đếm ngược {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} bộ kích hoạt đếm ngược</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Nhiệm vụ hết hạn trong {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Nhiệm vụ '{0}' sẽ hết hạn trong {1}.</QuestExpiresSoonDesc>
 </LanguageData>
