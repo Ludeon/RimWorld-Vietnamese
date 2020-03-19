@@ -34,16 +34,16 @@
     <!-- EN: abductee -->
     <titleShort>bị bắt cóc</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>[PAWN_nameDef] đã bị xenohumans bắt cóc khi [PAWN_pronoun] vẫn còn là một em bé. Họ đã thử nghiệm trên [PAWN_objective] để hiểu cấu trúc di truyền của anh ấy.\n\nKhi [PAWN_pronoun] lớn lên, [PAWN_nameDef] phát triển hơi lớn một chút và quá mạnh mẽ so với những kẻ đã bắt giữ anh ta và cuối cùng anh ta đã đã trốn thoát.</desc>
+    <desc>[PAWN_nameDef] bị bắt cóc lúc còn nhỏ và bị ép buộc làm lao động trên một con thuyền cướp biển.</desc>
   </Abductee43>
   
   <Abductee7>
     <!-- EN: abductee -->
-    <title>TODO</title>
+    <title>Kẻ bắt cóc</title>
     <!-- EN: abductee -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Kẻ bắt cóc</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] đã bị xenohumans bắt cóc khi [PAWN_pronoun] vẫn còn là một em bé. Họ đã thử nghiệm trên [PAWN_objective] để hiểu cấu trúc di truyền của anh ấy.\n\nKhi [PAWN_pronoun] lớn lên, [PAWN_nameDef] phát triển hơi lớn một chút và quá mạnh mẽ so với những kẻ đã bắt giữ anh ta và cuối cùng anh ta đã đã trốn thoát.</desc>
   </Abductee7>
   
   <AcademyStudent58>
@@ -93,7 +93,7 @@
   
   <AddictionCounsel60>
     <!-- EN: addiction counsel -->
-    <title>Addiction counsel</title>
+    <title>Tư vấn cai nghiện</title>
     <!-- EN: counselor -->
     <titleShort>Counselor</titleShort>
     <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
@@ -129,38 +129,38 @@
   
   <AdventurousYouth70>
     <!-- EN: adventurous youth -->
-    <title>Adventurous youth</title>
+    <title>Tuổi trẻ phiêu lưu</title>
     <!-- EN: adventurer -->
-    <titleShort>Adventurer</titleShort>
+    <titleShort>Nhà thám hiểm</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
     <desc>NAME explored all around HIS family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring his teenage years, NAME made numerous enemies</desc>
   </AdventurousYouth70>
   
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
-    <title>Aerospace engineer</title>
+    <title>Kỹ sư hàng không vũ trụ</title>
     <!-- EN: engineer -->
-    <titleShort>Engineer</titleShort>
+    <titleShort>Kỹ sư</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>NAME was an engineer responsible for the production of aircraft and spaceships. HECAP focused on improving production lines, and was known for HIS mastery of technical and research issues.</desc>
+    <desc>[PAWN_nameDef] là một kỹ sư chịu trách nhiệm sản xuất máy bay và tàu vũ trụ. [PAWN_pronoun] tập trung vào việc cải thiện dây chuyền sản xuất, và được biết đến là một bậc thầy về kĩ thuật và nghiên cứu.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer22>
     <!-- EN: aI programmer -->
-    <title>AI programmer</title>
+    <title>Lập trình viên AI</title>
     <!-- EN: programmer -->
-    <titleShort>Programmer</titleShort>
+    <titleShort>Lập trình viên</titleShort>
     <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-    <desc>Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing.</desc>
+    <desc>[PAWN_nameDef] gia nhập bộ phận robot của quân đội, giúp AL chiến đấu thông minh.\n\n[PAWN_pronoun] dành toàn bộ thời gian của mình ở trong đó,[PAWN_pronoun] không bao giờ nói chuyện với người khác.[PAWN_pronoun] dành tất cả [PAWN_possessive] thời gian trò chuyện với [PAWN_pronoun] mà anh đang phát triển.</desc>
   </AIProgrammer22>
   
   <AIResearcher94>
     <!-- EN: aI researcher -->
-    <title>AI researcher</title>
+    <title>Nhà nghiên cứu AI</title>
     <!-- EN: researcher -->
-    <titleShort>Researcher</titleShort>
+    <titleShort>Nhà nghiên cứu</titleShort>
     <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-    <desc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</desc>
+    <desc>[PAWN_nameDef] là một nhà nghiên cứu nổi tiếng về trí tuệ nhân tạo, người máy và hình ba chiều tương tác. Tình bạn [PAWN_possessive] với trí tuệ nhân tạo [PAWN_pronoun] được tạo ra mang lại cho [PAWN_objective] sự tự tin để tương tác với khác và [PAWN_pronoun] sớm xuất sắc trong giao tiếp.</desc>
   </AIResearcher94>
   
   <AlcoholicTrucker93>
@@ -291,18 +291,18 @@
   
   <Archer25>
     <!-- EN: archer -->
-    <title>TODO</title>
+    <title>Người bắn cung</title>
     <!-- EN: archer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Người bắn cung</titleShort>
     <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] đã chiến đấu cho bộ lạc [PAWN_possessive]. [PAWN_pronoun] và chuyên sử dụng cung tên, pila và các vũ khí tầm xa khác.</desc>
   </Archer25>
   
   <Architect28>
     <!-- EN: architect -->
-    <title>Architect</title>
+    <title>Kiến trúc sư</title>
     <!-- EN: architect -->
-    <titleShort>Architect</titleShort>
+    <titleShort>Kiến trúc sư</titleShort>
     <!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
     <desc>NAME designed and constructed buildings. On HIS glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled HIM to push the artistic limits of the craft, but also meant HE never had to get HIS hands dirty at building sites.</desc>
   </Architect28>
@@ -381,13 +381,13 @@
   
   <Artilleryman28>
     <!-- EN: artilleryman -->
-    <title>TODO</title>
+    <title>Pháo binh</title>
     <!-- EN: artillerywoman -->
-    <titleFemale>TODO</titleFemale>
+    <titleFemale>Nữ pháo binh</titleFemale>
     <!-- EN: artilleer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Nghệ nhân</titleShort>
     <!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] đạn pháo và aimed artillery để bắn kẻ thù [PAWN_possessive] từ xa.</desc>
   </Artilleryman28>
   
   <ArtisanFarmer23>
@@ -410,11 +410,11 @@
   
   <ArtsPatron54>
     <!-- EN: arts patron -->
-    <title>TODO</title>
+    <title>Người bảo trợ nghệ thuật</title>
     <!-- EN: patron -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Người bảo trợ</titleShort>
     <!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] quản lý đầu tư của gia đình [PAWN_possessive] vào nghệ thuật.\n\n[PAWN_pronoun] đã chọn nghệ sĩ để bảo trợ và làm việc với họ để tạo ra thứ tôn vinh nhất gia đình [PAWN_possessive], nhà thờ hoàng gia và chính đế chế.</desc>
   </ArtsPatron54>
   
   <ArtStudent6>
@@ -482,11 +482,11 @@
   
   <Assassin7>
     <!-- EN: assassin -->
-    <title>TODO</title>
+    <title>Sát thủ</title>
     <!-- EN: assassin -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Sát thủ</titleShort>
     <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] được đào tạo đặc biệt được sử dụng cho các ám sát. Kỹ năng [PAWN_possessive] với súng trường là vô nhị.\n\n[PAWN_pronoun] cuối cùng đã bị cấp trên [PAWN_possessive] phản bội. [PAWN_nameDef] thề sẽ không bao giờ tin ai nữa.</desc>
   </Assassin7>
   
   <Assembler69>
