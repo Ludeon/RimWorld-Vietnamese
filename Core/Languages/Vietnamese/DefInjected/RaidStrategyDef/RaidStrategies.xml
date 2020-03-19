@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>Họ đang tấn công ngay lập tức.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>Họ đang chuyển đến để giúp bạn ngay lập tức.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>Đột kích</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>Đồng minh</ImmediateAttack.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>Có vẻ như họ muốn sử dụng những kẻ phá hoại để đào hầm xung quanh hệ thống phòng thủ của bạn.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>Đột kích</ImmediateAttackSappers.letterLabelEnemy>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>Chúng đang tấn công ngay lập tức.\n\nXem ra - chúng có vẻ thông minh khác thường với chiến thuật của chúng. Họ sẽ tránh các trường bắn của tháp pháo của bạn và nhận thấy một số bẫy của bạn.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>Họ đang chuyển đến để giúp bạn ngay lập tức.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Đột kích</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>Đồng minh</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>Có vẻ như họ muốn bao vây thuộc địa và đập bạn bằng súng cối từ xa. Bạn có thể cố gắng chờ đợi họ - hoặc đi lấy chúng.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Có vẻ như họ muốn sử dụng chiến thuật bao vây để giúp bạn.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Cuộc bao vây</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Đồng minh</Siege.letterLabelFriendly>
+  
+  <!-- EN: Rather than attack directly, the mechanoids are setting up a mech cluster near the colony. You must attack it to finally remove the threat.\n\nThe cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <SiegeMechanoid.arrivalTextEnemy>TODO</SiegeMechanoid.arrivalTextEnemy>
+  <!-- EN: Mechanoid Siege -->
+  <SiegeMechanoid.letterLabelEnemy>TODO</SiegeMechanoid.letterLabelEnemy>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>Họ sẽ chuẩn bị một lúc, sau đó tấn công.\n\nChuẩn bị phòng thủ hoặc tấn công họ trước.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>Họ sẽ chuẩn bị một lúc trước khi chuyển đến giúp bạn.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>Đột kích</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Đồng minh</StageThenAttack.letterLabelFriendly>
+  
+</LanguageData>

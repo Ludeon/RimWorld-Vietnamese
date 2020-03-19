@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>Ưu tiên thủ công</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>ưu tiên cao hơn</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>ưu tiên thấp hơn</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <RelevantSkills>Kỹ năng liên quan: {0}\nCấp độ kỹ năng liên quan: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>Bấm để nhảy tới:</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{1_labelShort} không thể làm công việc này</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>(none)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>Cư dân này không thể làm bất kỳ công việc nào thuộc loại này vì tình trạng sức khỏe của anh ta.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>Cảnh báo: Trung bình các kỹ năng liên quan là rất thấp.</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>TODO</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>TODO</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>TODO</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>TODO</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>TODO</Priority4>
+  
+  <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
+  <ManageOutfits>Quản lý trang phục</ManageOutfits>
+  <!-- EN: Unchangeable -->
+  <Unchangeable>TODO</Unchangeable>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>Xóa trang phục bắt buộc</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>bắt buộc</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>Trang phục bắt buộc</ForcedApparel>
+  <!-- EN: Edit... -->
+  <AssignTabEdit>Chỉnh...</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>Quản lý chính sách thuốc</ManageDrugPolicies>
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>Quản lý hạn chế thực phẩm</ManageFoodRestrictions>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
+  <Copy>Copy</Copy>
+  <!-- EN: Paste -->
+  <Paste>Paste</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>Khu vực được phép</AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
+  <Master>Chủ nhân</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>Có thai ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>Liên kết với</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>Sinh vật này là một động vật ăn thịt. Khi đói, nó sẽ săn những sinh vật nhỏ hơn - có thể bao gồm cả con người.</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>TODO</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>Thù địch</Hostile>
+  <!-- EN: Ally -->
+  <Ally>Đồng minh</Ally>
+  <!-- EN: defeated -->
+  <DefeatedLower>đánh bại</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>Kẻ thù của {0}</HostileTo>
+  <!-- EN: Enemy of:  -->
+  <EnemyOf>TODO</EnemyOf>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>Thiện chí hiện tại và tình trạng quan hệ với phe này.</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>Phe này là thù địch vĩnh viễn. Họ sẽ đột kích các khu định cư và đoàn lữ hành của bạn. Quan hệ với họ sẽ không bao giờ cải thiện vì bất kỳ lý do.</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>Phe này là đồng minh. Họ sẽ gửi chiến binh để giúp bạn khi họ có thể. Nếu quan hệ giảm xuống dưới {0}, chúng sẽ trở thành trung lập.</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>Phe này là trung lập. Họ sẽ giao dịch và nói chuyện với bạn một cách tự do. Nếu quan hệ giảm xuống dưới {0}, chúng sẽ trở thành thù địch. Nếu quan hệ tăng lên trên {1}, họ sẽ trở thành đồng minh và bắt đầu tích cực làm việc để giúp bạn.</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>Phe này là thù địch. Họ sẽ đột kích các khu định cư và đoàn lữ hành của bạn. Nếu quan hệ tăng lên trên {0}, chúng sẽ trở thành trung lập.</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>Phe này có phạm vi thiện chí tự nhiên từ {0} đến {1}. Nếu thiện chí kết thúc {1}, nó sẽ giảm {3} mỗi ngày. Nếu thiện chí dưới {0}, nó sẽ tăng {2} mỗi ngày.</CurrentGoodwillTip_NaturalGoodwill>
+  
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>Bạn bè</Friend>
+  <!-- EN: Rival -->
+  <Rival>Đối thủ</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>Người quen</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>Đồ thị</Graph>
+  <!-- EN: Messages -->
+  <Messages>Tin nhắn</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>Số liệu thống kê</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>Chọn biểu đồ</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>30 ngày trước</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>100 ngày trước</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>300 ngày trước</Last300Days>
+  <!-- EN: All -->
+  <AllDays>Tất cả</AllDays>
+  <!-- EN: Value -->
+  <Value>Giá trị</Value>
+  <!-- EN: External -->
+  <External>Bề ngoài</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>Hiện thư</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>Hiện tin nhắn</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>Ghim hoặc bỏ ghim tin nhắn này.\n\nCác tin nhắn chưa ghim cũ nhất sẽ tự động bị xóa khỏi danh sách sau khi đạt đến giới hạn của {0} tin nhắn.</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>không có tin nhắn</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>Thời gian chơi</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>Người kể chuyện</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>Độ giàu của thuộc địa (bản đồ này)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>Độ giàu của thuộc địa (vật phẩm) (bản đồ này)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>Độ giàu của thuộc địa (công trình) (bản đồ này)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>Độ giàu của thuộc địa (con người và động vật) (bản đồ này)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>Các mối đe dọa chính</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>Kẻ thù đột kích</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>Thiệt hại đã nhận (bản đồ này)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>Cư dân bị giết</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>Cư dân phóng vào vũ trụ</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: Research -->
+  <Research>Nghiên cứu</Research>
+  <!-- EN: Researched -->
+  <Researched>Đã nghiên cứu</Researched>
+  <!-- EN: Unresearched -->
+  <Unresearched>Chưa nghiên cứu</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>Đã hoàn thành</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>Trong quá trình</InProgress>
+  <!-- EN: Locked -->
+  <Locked>Đã khóa</Locked>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>Yêu cầu để nghiên cứu</ResearchPrerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>Yêu cầu có bàn nghiên cứu</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>Yêu cầu có các thiết bị nghiên cứu</RequiredResearchBenchFacilities>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>Chi phí cơ sở dự án {0} trở thành {1} cho bạn vì cấp công nghệ của bạn.</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>TODO</TechLevelTooLow>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>TODO</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>TODO</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>TODO</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>TODO</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>TODO</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>TODO</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>TODO</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>TODO</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>TODO</AcceptWith>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>TODO</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a colonist with the title of {0}. -->
+  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>TODO</RoyalFavorOff>
+  
+</LanguageData>
