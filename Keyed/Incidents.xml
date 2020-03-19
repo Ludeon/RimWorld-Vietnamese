@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
@@ -61,9 +61,9 @@
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
   <TraderArrival>Một tàu thương mại đang đi qua gần đó.\n\nHọ được gọi là {0}. Họ là một {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>Họ thuộc về phe {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>Họ không thuộc về bất kỳ phe phái nào.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
   <SingleTravelerPassing>Một {PAWN_title} từ {1} đang đi qua. {PAWN_pronoun} được đặt tên {PAWN_nameFull}.</SingleTravelerPassing>
@@ -102,9 +102,9 @@
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>Đánh thức {0} ngày trước</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Đã kích hoạt {0} ngày trước</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>Đã mở {0} ngày trước</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Cấp độ xung thần kinh: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
@@ -152,7 +152,7 @@
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>Một đoàn lữ hành từ {0} đang đến gần. Họ là một {1}.\n\nHọ sẽ đi quanh thuộc địa trong vài ngày trước khi rời đi. Bạn có thể tấn công họ - nhưng điều này sẽ chọc giận phe nhóm của họ!</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Họ sẽ quanh quẩn ở thuộc địa một thời gian trước khi rời đi. Bạn có thể tấn công họ - nhưng điều này sẽ chọc giận phe nhóm của họ!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -170,7 +170,7 @@
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <EscapeShipFound>Bạn đã đến tọa độ được gửi bởi Charlon Whitestone và phát hiện ra phi thuyền ẩn.\n\nLò phản ứng của tàu vẫn ở chế độ ngủ đông sâu, vì vậy nó chưa thể bay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\nCharlon Whitestone cảnh báo bạn rằng quá trình khởi động sẽ mất khoảng 15 ngày và sóng năng lượng sẽ được phát hiện từ khoảng cách xa. Loại sóng năng lượng này biểu thị khả năng bay giữa các vì sao, và sẽ thu hút các nhóm người đột kích tuyệt vọng và bầy mechanoids chết người.\n\nBạn sẽ bị tấn công với cường độ bạn chưa từng thấy. Hãy chắc chắn rằng phòng thủ của bạn được chuẩn bị đầu tiên.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by <Name>Charlon Whitestone</Name> and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n<Name>Charlon Whitestone</Name> warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Bạn đã đạt đến tọa độ được gửi bởi Charlon Whitestone và phát hiện ra phi thuyền bí ẩn.\n\nLò phản ứng của tàu vẫn ở chế độ ngủ đông sâu, vì vậy nó chưa thể bay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\nCharlon Whitestone cảnh báo bạn rằng quá trình khởi động sẽ mất khoảng 15 ngày.</EscapeShipFoundPeaceful>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Tàu bị phá hủy</EscapeShipLostLabel>
   <!-- EN: <Name>Charlon Whitestone</Name> sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
@@ -190,7 +190,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>không có thành viên đoàn lữ hành nào có khả năng giao dịch</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>cần một nhà giao dịch có tiêu đề {0} từ {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
@@ -226,20 +226,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Nhiệm vụ thất bại</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Nhiệm vụ hiện không thể hoàn thành vì {FACTION_name} là thù địch.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Nhiệm vụ thất bại</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Nhiệm vụ hiện không thể hoàn thành vì {SUBJECT_definite} đã bị bắt.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Nhiệm vụ thất bại</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Nhiệm vụ hiện không thể hoàn thành vì {SUBJECT_definite} đã chết.</LetterQuestAskerDied>
 
 </LanguageData>
