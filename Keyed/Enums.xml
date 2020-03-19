@@ -7,15 +7,15 @@
   <!-- EN: Lit -->
   <Lit>Sáng</Lit>
   <!-- EN: Brightly lit -->
-  <LitBrightly>Sáng rực rỡ</LitBrightly>
+  <LitBrightly>Rực sáng</LitBrightly>
 
   <!-- Price types -->
   <!-- EN: very cheap -->
-  <PriceTypeVeryCheap>Rất rẽ</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>rất rẻ</PriceTypeVeryCheap>
   <!-- EN: cheap -->
-  <PriceTypeCheap>rẽ</PriceTypeCheap>
+  <PriceTypeCheap>rẻ</PriceTypeCheap>
   <!-- EN: normal -->
-  <PriceTypeNormal>thường</PriceTypeNormal>
+  <PriceTypeNormal>bình thường</PriceTypeNormal>
   <!-- EN: expensive -->
   <PriceTypeExpensive>đắt</PriceTypeExpensive>
   <!-- EN: exorbitant -->
@@ -29,7 +29,7 @@
   <!-- EN: normal -->
   <StoragePriorityNormal>thường</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>ưa thích</StoragePriorityPreferred>
+  <StoragePriorityPreferred>cao</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>quan trọng</StoragePriorityImportant>
   <!-- EN: critical -->
@@ -45,17 +45,17 @@
   <!-- EN: seeds -->
   <FoodTypeFlags_Seed>hạt giống</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
-  <FoodTypeFlags_AnimalProduct>sản phẩm động vật</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_AnimalProduct>sản phẩm từ động vật</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>thảo mộc sống</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>thực vật tươi</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
   <FoodTypeFlags_Tree>cây sống</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>bữa ăn</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>món ăn</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>thực phẩm chế biến</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>rượu</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>thức uống</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>thức ăn gia súc</FoodTypeFlags_Kibble>
 
@@ -63,31 +63,31 @@
   <!-- EN: awful -->
   <QualityCategory_Awful>kinh khủng</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>tệ</QualityCategory_Poor>
+  <QualityCategory_Poor>tạm được</QualityCategory_Poor>
   <!-- EN: normal -->
-  <QualityCategory_Normal>thường</QualityCategory_Normal>
+  <QualityCategory_Normal>bình thường</QualityCategory_Normal>
   <!-- EN: good -->
   <QualityCategory_Good>tốt</QualityCategory_Good>
   <!-- EN: excellent -->
-  <QualityCategory_Excellent>hoàn hảo</QualityCategory_Excellent>
+  <QualityCategory_Excellent>xuất sắc</QualityCategory_Excellent>
   <!-- EN: masterwork -->
-  <QualityCategory_Masterwork>kiệt tác</QualityCategory_Masterwork>
+  <QualityCategory_Masterwork>cực phẩm</QualityCategory_Masterwork>
   <!-- EN: legendary -->
   <QualityCategory_Legendary>huyền thoại</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>kinh</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>F</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>tệ</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>D</QualityCategoryShort_Poor>
   <!-- EN: norm -->
-  <QualityCategoryShort_Normal>thường</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Normal>C</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>tốt</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>B</QualityCategoryShort_Good>
   <!-- EN: exc -->
-  <QualityCategoryShort_Excellent>hoàn hảo</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>A</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
-  <QualityCategoryShort_Masterwork>kiệt tác</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Masterwork>S</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>huyền thoại</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>SSS</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
@@ -111,15 +111,15 @@
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>bằng phẳng</Hilliness_Flat>
+  <Hilliness_Flat>Bằng phẳng</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>những ngọn đồi nhỏ</Hilliness_SmallHills>
+  <Hilliness_SmallHills>đồi nhỏ</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>những ngọn đồi lớn</Hilliness_LargeHills>
+  <Hilliness_LargeHills>Đồi lớn</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>đồi núi</Hilliness_Mountainous>
+  <Hilliness_Mountainous>Vùng núi</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>không thể vượt qua</Hilliness_Impassable>
+  <Hilliness_Impassable>Không thể vượt qua</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
@@ -128,16 +128,16 @@
   <WorkshopInteractStage_SubmittingItem>Đệ trình</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Không hợp lệ</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <!-- EN: Preparing config data -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Chuẩn bị dữ liệu cấu hình</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  !-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Chuẩn bị cấu hình dữ liệu</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Chuẩn bị nội dụng tập tin</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Đang tải lên nội dung</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Đang tải lên tập tin tổng quát</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Đang xác nhận thay đổi</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: official content -->
@@ -149,23 +149,23 @@
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>Không cần chăm sóc y tế</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>Không chăm sóc y tế</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Bác sĩ chăm sóc, nhưng không có thuốc</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Bác sĩ chăm sóc, nhưng không có dược phẩm</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Thảo dược hay tệ hơn</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>Chăm sóc với thảo dược</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Y học công nghiệp hoặc tệ hơn</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Chăm sóc bằng công nghệ</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>Thuốc chất lượng tốt nhất</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>Được chăm sóc y tế tận tình</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>Bỏ qua</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Không quan tâm</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>Tấn công</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>Đánh trả</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
-  <HostilityResponseMode_Flee>Chạy trốn</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Flee>Bỏ chạy</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
