@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Danh mục</TabBills>
+  <TabBills>Công Việc</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>Nẩy mầm</TabGrowing>
+  <TabGrowing>Phát Triển</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Nhân vật</TabCharacter>
+  <TabCharacter>Nhân Vật</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>Tập luyện</TabTraining>
   <!-- EN: Prisoner -->
@@ -15,41 +15,41 @@
   <!-- EN: Guest -->
   <TabGuest>Khách</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Trang bị</TabGear>
+  <TabGear>Trang Bị</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Nhu cầu</TabNeeds>
+  <TabNeeds>Nhu Cầu</TabNeeds>
   <!-- EN: Storage -->
   <TabStorage>Kho</TabStorage>
   <!-- EN: Shells -->
   <TabShells>Đạn</TabShells>
   <!-- EN: Health -->
-  <TabHealth>Sức khỏe</TabHealth>
+  <TabHealth>Sức Khỏe</TabHealth>
   <!-- EN: Race -->
-  <TabRace>Chủng tộc</TabRace>
+  <TabRace>Chủng Tộc</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>Cơ bản</TabBasics>
+  <TabBasics>Cơ Bản</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Chỉ số</TabStats>
+  <TabStats>Chỉ Số</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Hồ sơ</TabRecords>
+  <TabRecords>Hồ Sơ</TabRecords>
   <!-- EN: Art -->
-  <TabArt>Nghệ thuật</TabArt>
+  <TabArt>Nghệ Thuật</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Quan hệ</TabSocial>
+  <TabSocial>Quan Hệ</TabSocial>
   <!-- EN: Log -->
   <TabLog>Nhật ký</TabLog>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>Đoàn xe</TabFormingCaravan>
+  <TabFormingCaravan>Thương Đoàn</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>Nội dung</TabTransporterContents>
+  <TabTransporterContents>Nội Dung</TabTransporterContents>
   <!-- EN: Contents -->
-  <TabCasketContents>TODO</TabCasketContents>
+  <TabCasketContents>Nội Dung</TabCasketContents>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Thêm mục</AddBill>
+  <AddBill>Thêm việc</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>Mục {0} yêu cầu các kỹ năng dưới đây. Không ai trong số những cư dân của bạn có những kỹ năng này, vì vậy không ai sẽ làm mục này.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>Công việc {0} yêu cầu các kỹ năng dưới đây. Không ai trong số những cư dân của bạn có những kỹ năng này, vì vậy không ai sẽ làm mục này.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>Kỹ năng tối thiểu</MinimumSkill>
   <!-- EN: SUSPENDED -->
@@ -77,37 +77,37 @@
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>Kháng cự còn lại</RecruitmentResistance>
+  <RecruitmentResistance>Độ kháng cự còn lại</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>Độ khó kháng cự</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Độ khó khi tuyển mộ</RecruitmentDifficulty>
   <!-- EN: Recruitment chance -->
-  <RecruitmentChance>TODO</RecruitmentChance>
+  <RecruitmentChance>Cơ hội tuyển mộ</RecruitmentChance>
   <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
-  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <RecruitmentChanceExplanation>Yếu tố tuyển mộ: {0}\nYếu tố tốt: {1}\nCơ hội cơ sở kết hợp: {2}</RecruitmentChanceExplanation>
   <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - -\nLần tuyển mộ cuối cùng\nNhà tuyển dụng: {3}\nYếu tố khả năng đàm phán: {4}\nYếu tố ý kiến: {5} ({6})\nCơ hội cuối cùng cho {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
   <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nGiảm sức chống cự: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleasePotentialRelationGains>Quan hệ đạt được khi giải phóng</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>Sự cải thiện quan hệ phe phái mà bạn sẽ nhận được từ phe của tù nhân nếu bạn thả họ ra. Điều này bị ảnh hưởng bởi tình trạng sức khỏe và tinh thần của tù nhân.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
-  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <PrisonBreakMTBDays>Khoảng thời gian ở tù</PrisonBreakMTBDays>
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
-  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDaysDescription>Số ngày trung bình của thời gian thực hiện các lần vượt ngục. Bị ảnh hưởng bởi tâm trạng, khả năng di chuyển và thời gian kể từ lần vượt ngục cuối cùng. \n\nSố này bỏ qua thời gian ngủ, vì vậy khoảng thời gian ở tù trung bình thực tế thường sẽ dài hơn.</PrisonBreakMTBDaysDescription>
   <!-- EN: Slave price -->
-  <SlavePrice>TODO</SlavePrice>
+  <SlavePrice>Giá nô lệ</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>Lấy thức ăn</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>Bác sĩ chăm sóc</DoctorsCare>
+  <DoctorsCare>Được chữa trị</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Lấy thuốc</GetsMedicine>
+  <GetsMedicine>Cần y tế</GetsMedicine>
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Thử chiêu mộ</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Bị coi là có tội (hết hạn trong {0})</ConsideredGuilty>
+  <ConsideredGuilty>Bị coi là có tội (hết trong {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -115,9 +115,9 @@
   <!-- EN: Efficiency -->
   <Efficiency>Hiệu suất</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Phần bị ảnh hưởng</PartEfficiency>
+  <PartEfficiency>Độ hiệu quả của bộ phận</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>Cơ thể bị ảnh hưởng</BodyPartEfficiency>
+  <BodyPartEfficiency>Độ hiệu quả của bộ phân cơ thể</BodyPartEfficiency>
   <!-- EN: Gone -->
   <MissingBodyPart>Mất</MissingBodyPart>
   <!-- EN: Destroyed -->
@@ -129,37 +129,39 @@
   <!-- EN: Healthy -->
   <Healthy>Khỏe mạnh</Healthy>
   <!-- EN: In pain -->
-  <InPain>Đau</InPain>
+  <InPain>Trong cơn đau</InPain>
   <!-- EN: Pain -->
   <PainLevel>Đau đớn</PainLevel>
   <!-- EN: Injured -->
   <Injured>Bị thương</Injured>
+  <!-- EN: Untended injury -->
+  <UntendedInjury>Chấn thương</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>Không bệnh tật</NoHealthConditions>
   <!-- EN: Whole body -->
   <WholeBody>Toàn thân</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>Xử lý dữ liệu</DataProcessing>
+  <DataProcessing>Đang xử lí dữ liệu</DataProcessing>
   <!-- EN: Communication -->
   <Communication>Giao tiếp</Communication>
   <!-- EN: Affects -->
   <Affects>Ảnh hưởng</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>Chảy máu</BleedingRate>
+  <BleedingRate>Đang chảy máu</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>chết trong {0}</TimeToDeath>
+  <TimeToDeath>chết sau {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>không nguy kịch</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>Tổng quan</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>Hoạt động ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>Phẫu thuật ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>Sửa đổi ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Hoạt động y tế</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>cưa</Amputate>
+  <Amputate>cắt bỏ</Amputate>
   <!-- EN: harvest -->
   <HarvestOrgan>lấy</HarvestOrgan>
   <!-- EN: remove -->
@@ -228,7 +230,7 @@
   <!-- EN: Kidnapped -->
   <Kidnapped>Bị bắt cóc</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>TODO</Lent>
+  <Lent>Cho mượn {FACTION_name}, trả về {1}</Lent>
   <!-- EN: Missing -->
   <Missing>Bị lạc</Missing>
   <!-- EN: Slave -->
@@ -310,16 +312,16 @@
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Loại bỏ {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>TODO</ContainedItems>
+  <ContainedItems>Vật phẩm chứa</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Bạn có thực sự muốn loại bỏ {0}?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>TODO</DismissQuest>
+  <DismissQuest>Loại bỏ nhiệm vụ này và chuyển nó vào tab lịch sử. \n\nNhiệm vụ có thể bị hủy bỏ bất cứ lúc nào. Tác dụng và thời gian hết hạn của nó sẽ diễn ra như bình thường. Bạn sẽ không nhận được thông báo về các nhiệm vụ bị loại bỏ.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>TODO</UnDismissQuest>
+  <UnDismissQuest>Hủy bỏ nhiệm vụ này.\n\nNhiệm vụ sẽ được trả về tab có sẵn hoặc đang hoạt động và thông báo sẽ được bật lại.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>TODO</QuestDismissed>
+  <QuestDismissed>Nhiệm vụ này ở đây vì nó đã bị loại bỏ.\n\nBạn có thể hủy bỏ nó cho đến khi hết hạn.</QuestDismissed>
 
 </LanguageData>
