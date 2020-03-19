@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Confirm -->
@@ -118,13 +118,13 @@
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Vài mod không khả dụng và cần được cài đặt sau.</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>TODO</OfficialContent>
+  <OfficialContent>Nội dung chính thức</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>TODO</ContentActive>
+  <ContentActive>Hoạt động</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>Đã cài đặt, nhưng không hoạt động</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>TODO</ContentNotInstalled>
+  <ContentNotInstalled>Chưa cài đặt</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
@@ -299,7 +299,7 @@
   <!-- EN: Cooldown -->
   <CooldownTime>Hồi chiêu</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>TODO</DisarmedTime>
+  <DisarmedTime>Tước khí giới</DisarmedTime>
   <!-- EN: Fire rate -->
   <BurstShotFireRate>Tốc độ bắn</BurstShotFireRate>
   <!-- EN: Range -->
@@ -355,7 +355,7 @@
   <!-- EN: Diet -->
   <Diet>Chế độ dinh dưỡng</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
+  <NutritationEatenPerDay>Nhu cầu ca-lo mỗi ngày</NutritationEatenPerDay>
   <!-- EN: Leather type -->
   <LeatherType>Loại da</LeatherType>
   <!-- EN: Body size -->
@@ -367,7 +367,7 @@
   <!-- EN: Covers -->
   <Covers>Độ che phủ</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>TODO</CreatedAt>
+  <CreatedAt>Tạo ra tại</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Lớp</Layer>
   <!-- EN: Cover effectiveness -->
@@ -405,15 +405,15 @@
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Tỷ lệ thành công</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>Tỷ lệ tử vong khi thất bại</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Tốc độ làm việc ảnh hưởng bởi </WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
   <EfficiencyStat>Chất lượng sản phẩm làm ra ảnh hưởng bởi</EfficiencyStat>
   <!-- EN: {0} skill required -->
-  <SkillRequiredToBuild>TODO</SkillRequiredToBuild>
+  <SkillRequiredToBuild>Kỹ năng cần thiết {0}</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
-  <SkillRequiredToBuildExplanation>TODO</SkillRequiredToBuildExplanation>
+  <SkillRequiredToBuildExplanation>Yêu cầu cấp độ {0} này để xây dựng.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Khoảng thời gian</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
@@ -441,19 +441,19 @@
   <!-- EN: Power consumption -->
   <PowerConsumption>Sự tiêu thụ năng lượng</PowerConsumption>
   <!-- EN: Target -->
-  <Target>TODO</Target>
+  <Target>Mục tiêu</Target>
   <!-- EN: Human -->
-  <TargetHuman>TODO</TargetHuman>
+  <TargetHuman>Người</TargetHuman>
   <!-- EN: Animal -->
-  <TargetAnimal>TODO</TargetAnimal>
+  <TargetAnimal>Động vật</TargetAnimal>
   <!-- EN: Self -->
-  <TargetSelf>TODO</TargetSelf>
+  <TargetSelf>Tôi</TargetSelf>
   <!-- EN: Ground -->
-  <TargetGround>TODO</TargetGround>
+  <TargetGround>Căn cứ</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>TODO</ClickToLearnMore>
+  <ClickToLearnMore>Bấm vào để biết nhiều hơn.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>TODO</ClickToViewFactions>
+  <ClickToViewFactions>Nhấn vào đây để xem phe phái.</ClickToViewFactions>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -489,7 +489,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>Người đàm phán</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>Người đàm phán: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Người đàm phán {1_labelShort} của bạn không thể nói rõ ràng được vì tình trạng sức khỏe không tốt.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -529,11 +529,11 @@
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Vật phẩm mà thương nhân này sẽ mua</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
+  <TraderNotVisitedYet>Không bao giờ truy cập - vật phẩm không rõ</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>Được bổ sung kể từ chuyến đi cuối cùng của bạn</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>TODO</NextTraderRestock>
+  <NextTraderRestock>Bổ sung tiếp theo: {0} ngày</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Sinh vật</PawnsTabShort>
   
@@ -675,7 +675,7 @@
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>Bạn có chắc chắn muốn tấn công {0}?\n\nĐiều này sẽ khiến {1} trở nên thù địch với bạn và cuối cùng họ sẽ bắt đầu đột kích thuộc địa của bạn!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
@@ -683,23 +683,23 @@
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
   <TooBigTransportersMassUsage>Vật phẩm và người được chọn vượt quá tải trọng của kén vận chuyển.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>Những người được chọn và các vật phẩm quá nặng cho việc đưa đón.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>Bạn không thể phóng kén rỗng được.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>Bạn không thể gửi kén rỗng được.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>Bạn không thể gửi tàu con thoi trống.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{1_labelShort} không thể vào kén vận chuyển được.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>{1_labelShort} không thể vào tàu con thoi.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Không có lối đi giữa kén vận chuyển và {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>Không có đường đi giữa tàu con thoi và {0}.</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Không có lỗi đi giữa kén vận chuyển và {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>Không có đường đi giữa tàu con thoi và {0} x {1}.</TransporterSingleItemIsUnreachableMulti>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -899,20 +899,20 @@
 
   <!-- Abilities -->
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Tầm ngắm cần thiết</AbilityRequiresLOS>
   <!-- EN: Entropy gain  -->
-  <AbilityEntropyGain>TODO</AbilityEntropyGain>
+  <AbilityEntropyGain>Entropy đạt được</AbilityEntropyGain>
   <!-- EN: Effect duration -->
-  <AbilityDuration>TODO</AbilityDuration>
+  <AbilityDuration>Thời gian hiệu ứng</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>TODO</AbilityEffectRadius>
+  <AbilityEffectRadius>Bán kính hiệu ứng</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>TODO</AbilityCastingTime>
+  <AbilityCastingTime>Thời gian thực hiện</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Không có tầm ngắm để nhắm mục tiêu.</AbilityCannotHitTarget>
   <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <AbilityOccupiedCells>{0} phải nhắm mục tiêu là một khu vực trống.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <AbilityUnwalkable>{0} phải nhắm mục tiêu là một khu vực đi lại.</AbilityUnwalkable>
   
 </LanguageData>
