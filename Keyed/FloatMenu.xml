@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Call {0} -->
   <CallOnRadio>Gọi {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>Không thể dùng ({0})</CannotUseReason>
+  <CannotUseReason>Không thể dùng: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Không thể dùng (sóng )</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Không thể sử dụng: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>Không thể dùng (không có điện)</CannotUseNoPower>
+  <CannotUseNoPower>Không thể sử dụng: Không có năng lượng</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>Không thể dùng (không có lối đi)</CannotUseNoPath>
+  <CannotUseNoPath>Không thể sử dụng: Không có lối đi</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>Không thể dùng (dự trữ)</CannotUseReserved>
+  <CannotUseReserved>Không thể sử dụng: Dự trữ</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>Không thể dùng (đầy)</CannotUseFull>
+  <CannotUseFull>Không thể sử dụng: Đầy</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>thủ lĩnh {1_labelShort} không khả dụng</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>thủ lĩnh không khả dụng</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>TODO</NotAllowed>
+  <NotAllowed>Không được phép</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
   <FireAt>Bắn {1_label}</FireAt>
@@ -52,7 +52,7 @@
   <!-- EN: no path -->
   <NoPath>không có lối đi</NoPath>
   <!-- EN: burying -->
-  <Burying>TODO</Burying>
+  <Burying>chôn cất</Burying>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>bị cấm</ForbiddenLower>
@@ -85,7 +85,7 @@
   <!-- EN: no food -->
   <NoFood>không có thức ăn</NoFood>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>thấp hơn yêu cầu của {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>kĩ năng thuần hóa qúa thấp - cần {0}</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
@@ -95,7 +95,7 @@
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>thú nuôi đang bận</CantInteractAnimalBusy>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>TODO</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>kỹ năng {0} quá thấp</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>cần thêm linh kiện</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -127,21 +127,21 @@
   <!-- EN: angers faction -->
   <AngersFaction>phe giận dữ</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>không có bộ phận cơ thể</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>không phải là người dân</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>đã được cài đặt</InstallImplantAlreadyInstalled>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>cấp độ tối đa</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>TODO</UpgradeImplant>
+  <UpgradeImplant>Nâng cấp {0} lên cấp {1}</UpgradeImplant>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Tiêu thụ {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here: no path -->
-  <CannotGoNoPath>Không thể đến đây (không có lối đi)</CannotGoNoPath>
+  <CannotGoNoPath>Không thể đi đến đây: không có con đường</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Đến đây</GoHere>
   
@@ -168,10 +168,12 @@
   <CannotCarryToCryptosleepCasket>Không thể mang vào buồng ngủ đông</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
-  <CarryToShuttle>TODO</CarryToShuttle>
+  <CarryToShuttle>Mang {0_label} đến tàu con thoi</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Không có buồng ngủ đông trống.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>Thành viên phe tạm thời không được phép.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Không có giường cho tù nhân, hoặc giường đặt ở nhiệt độ không thích hợp hoặc ở nơi không đến được.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -198,7 +200,7 @@
   <!-- EN: Equip {0} -->
   <Equip>Trang bị {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>{cận chiến không thích điều này}</EquipWarningBrawler>
+  <EquipWarningBrawler>(cận chiến không thích điều này)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>Không thể trang bị {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
@@ -222,7 +224,7 @@
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Nhặt {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Nhặt {1_labelShort} x{{0}}</PickUpCount>
+  <PickUpCount>Nhặt được {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Không thể đưa {1_label} cho đàn thú</CannotGiveToPackAnimal>
@@ -235,7 +237,7 @@
   <!-- EN: Load {1_labelShort} onto pack animal... -->
   <GiveToPackAnimalSome>Đưa {1_labelShort} cho đàn thú...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Lấy {1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Đã đưa {1_label} x{{0}}</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Không thể thêm {1_label} vào đoàn giao thương</CannotLoadIntoCaravan>
@@ -264,13 +266,13 @@
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Không thể lột đồ {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
-  <CannotDrop>TODO</CannotDrop>
+  <CannotDrop>Không thể thả {1_label}</CannotDrop>
   <!-- EN: temporary faction member -->
-  <QuestRelated>TODO</QuestRelated>
+  <QuestRelated>thành viên phe tạm thời</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Không thể thay đổi trang phục cho các thành viên phe tạm thời</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>sẽ thay thế trang phục bị khóa</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Tự hủy ở đây</SelfDestructHere>
@@ -312,7 +314,7 @@
   <!-- EN: Offer gifts -->
   <OfferGifts>Tặng quà</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>TODO</TradeWithSettlement>
+  <TradeWithSettlement>Giao dịch với {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -320,7 +322,7 @@
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Mở buồng ngủ đông</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>TODO</EnterShuttle>
+  <EnterShuttle>Vào trong tàu con thoi</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
@@ -335,12 +337,12 @@
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Đã {0} {2_labelShort}</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>{0} sắn sàng</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>TODO</CannotTradeMissingTitleAbility>
+  <CannotTradeMissingTitleAbility>Không thể giao dịch: thiếu tiền đề cần thiết</CannotTradeMissingTitleAbility>
 
   <!-- EN: Cannot prioritize: will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkGiverDisabled>
@@ -415,6 +417,6 @@
   <OfferHelp>Yêu cầu trợ giúp</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>TODO</ApplyTechprint>
+  <ApplyTechprint>áp dụng {0}</ApplyTechprint>
   
 </LanguageData>
