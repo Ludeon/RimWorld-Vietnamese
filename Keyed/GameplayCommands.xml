@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -65,15 +65,15 @@
   <CommandGetOutOfBedDesc>Ra khỏi giường hiện tại.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandThingSetOwnerLabel>TODO</CommandThingSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Đặt quyền sở hữu</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>Chỉ định người dân mong muốn làm chủ sở hữu của chiế giường này.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Chỉ định người dân mong muốn làm chủ sở hữu của chiếc giường này.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>TODO</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Chỉ định ngai vàng này thuộc sở hữu của một người dân cụ thể.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Chỉ định người dân</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>Chỉ định người dân mong muốn làm chủ ngôi mộ này.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Chỉ định ngôi mộ này thuộc sở hữu của một người dân cụ thể.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
   <BuildingAssign>Chỉ định</BuildingAssign>
   <!-- EN: Reassign -->
@@ -352,7 +352,7 @@
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Bạn không có người dân có khả năng trao đổi được.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>TODO</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Không ai trong số những người của bạn có quyền yêu cầu phe phái: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -368,7 +368,7 @@
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>Đoàn giao thương của bạn phải có đủ {0} để hoàn thành yêu cầu giao thương này.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
-  <CommandFulfillTradeOfferConfirm>Tặng {0} cho {1}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>Tặng {0}?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
@@ -386,9 +386,9 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>TODO</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Chuyển đổi tự động tiếp nhiên liệu</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>TODO</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Cho phép tiếp nhiên liệu tự động hay không.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
@@ -420,27 +420,27 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Tải</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Mở hộp thoại tải để bạn có thể quyết định ai và cái gì nên được tải bên trong.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>TODO</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Đặt để tải</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>TODO</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Mở hộp thoại tải để bạn có thể quyết định ai và cái gì nên được tải bên trong.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>TODO</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Tự động tải</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>TODO</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>Tự động tải tất cả hàng hóa cần thiết ngay khi chúng có sẵn.</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>Chọn nhóm phóng bên trái</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>Chọn nhóm phóng trước đó</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>Chọn nhóm phóng bên trái trong nhóm phóng này.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>Chọn nhóm vận chuyển trước đó trong nhóm khởi chạy này.</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
@@ -486,34 +486,34 @@
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>TODO</CommandSendShuttle>
+  <CommandSendShuttle>Phóng</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>TODO</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>Bắt đầu cất cánh và chó tàu con thoi bay đến đích.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>TODO</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>Tàu con thoi nằm dưới một mái nhà.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>TODO</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>Một số mặt hàng cần thiết hoặc người bị thiếu.</CommandSendShuttleFailMissingRequiredThing>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>TODO</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>Đặt bản thiết kế</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>TODO</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>Đặt tất cả các bản thiết kế cần thiết nếu có thể.</CommandPlaceBlueprintsDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>TODO</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Hủy bỏ</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>TODO</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>Xóa vĩnh viễn điểm đánh dấu này.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>TODO</CommandViewQuest>
+  <CommandViewQuest>Xem nhiệm vụ: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>TODO</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Xem nhiệm vụ này trong tab nhiệm vụ.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>TODO</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Mở nhiệm vụ liên quan</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>TODO</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Mở nhiệm vụ liên qua trong tab nhiệm vụ.</CommandOpenLinkedQuestDesc>
   
 </LanguageData>
