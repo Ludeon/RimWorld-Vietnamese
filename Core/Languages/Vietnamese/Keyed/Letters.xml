@@ -140,9 +140,9 @@
   <LastFactionRelationsEvent>Sự kiện gần nhất là</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>TODO</ViewRelatedQuest>
+  <ViewRelatedQuest>Xem các nhiệm vụ liên quan</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>TODO</ViewQuest>
+  <ViewQuest>Xem nhiệm vụ</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>Sự kiện cuối cùng trong cuộc đời của {PAWN_definite}</LastEventsInLife>
 
@@ -189,19 +189,19 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} và {PAWN2_labelShort} không còn mối quan hệ nào nữa.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} sẽ thay đổi họ {PAWN_possessive} về như ban đầu.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>Chia tay</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>Đồng ý hôn lễ</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Hôn lễ đang diễn ra</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>Từ chối lời cầu hôn</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
   <LetterAcceptedProposal>Trong vòng vài ngày tới, họ sẽ tổ chức hôn lẽ và mời tất cả mọi người tham gia. Nếu bạn muốn chỉ định nơi tổ chức tiệc cưới thì hãy đặt vật "Nơi thành hôn" trong thẻ "Kiến trúc".</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} sẽ thay đổi họ {PAWN_possessive} thành {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{INITIATOR_nameFull} sẽ không vui vì điều này.</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} không vui vì điều này.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
