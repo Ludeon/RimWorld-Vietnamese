@@ -17,7 +17,7 @@
   <!-- EN: Version {0} -->
   <VersionIndicator>Phiên bản {0}</VersionIndicator>
   <!-- EN: Game version -->
-  <GameVersionIndicator>TODO</GameVersionIndicator>
+  <GameVersionIndicator>Phiên bản trò chơi</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>bản phát triển</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
@@ -27,7 +27,7 @@
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <ToCommaListAnd>{0} và {1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -35,9 +35,9 @@
   <!-- EN: No -->
   <No>Không</No>
   <!-- EN: new -->
-  <New>TODO</New>
+  <New>mới</New>
   <!-- EN: Gender -->
-  <Gender>TODO</Gender>
+  <Gender>Giới tính</Gender>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -53,7 +53,7 @@
   <!-- EN: radius -->
   <radius>bán kính</radius>
   <!-- EN: expired -->
-  <expired>TODO</expired>
+  <expired>hết hạn</expired>
   <!-- EN: duration (days) -->
   <durationDays>thời hạn (ngày)</durationDays>
   <!-- EN: interval (days) -->
@@ -79,7 +79,7 @@
   <!-- EN: Average -->
   <Average>Trung bình</Average>
   <!-- EN: Cause -->
-  <Cause>TODO</Cause>
+  <Cause>Nguyên nhân</Cause>
   <!-- EN: ${0} -->
   <MoneyFormat>{0}$</MoneyFormat>
 
@@ -100,9 +100,9 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>TODO</TechprintDesc>
+  <TechprintDesc>Đây là một dấu ấn cho dự án nghiên cứu '{PROJECT_label}'.\n\nHình thức vật lý của công nghệ có thể bao gồm từ các mẩu giấy với sơ đồ, cho đến các máy dạy học khép kín tiên tiến. Bất kể hình thức, họ đóng vai trò như nhau. Họ cho các nhà nghiên cứu của bạn sự tự tin rằng một ý tưởng là có thể, và một ý tưởng sơ bộ về các thiết kế được sử dụng trong các xã hội thành lập hơn.\n\nCác nhà nghiên cứu của bạn cần có kiến ​​thức nền tảng được cung cấp bởi techprints để biết bắt đầu từ đâu trên một công nghệ nhất định. Chỉ sau khi áp dụng đủ các dấu hiệu công nghệ, các nhà nghiên cứu của bạn mới có thể tìm ra các chi tiết tốt về cách sử dụng công nghệ trong tình huống cụ thể của bạn.\n\nÁp dụng công nghệ cho một dự án hài lòng đáp ứng một nửa tiến độ nghiên cứu còn lại. Ngoài ra, các nhà nghiên cứu luôn tăng cường các kỹ năng trí tuệ của họ khi áp dụng các dấu ấn công nghệ, ngay cả trên các công nghệ đã hoàn thành.</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>TODO</Unlocks>
+  <Unlocks>Mở khóa</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>xác {0}</CorpseLabel>
@@ -160,6 +160,6 @@
   <East>Đông</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>TODO</ApplyingTechprint>
+  <ApplyingTechprint>áp dụng techprint ({0})</ApplyingTechprint>
   
 </LanguageData>
