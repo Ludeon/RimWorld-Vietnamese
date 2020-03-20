@@ -3,41 +3,41 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Appropriate for title: {0} -->
-  <ThroneTitleStature>TODO</ThroneTitleStature>
+  <ThroneTitleStature>Thích hợp cho tước vị: {0}</ThroneTitleStature>
   <!-- EN: Previous title satisfied: {0} -->
-  <ThronePrevTitleStature>TODO</ThronePrevTitleStature>
+  <ThronePrevTitleStature>Hài lòng của tước vị trước: {0}</ThronePrevTitleStature>
   <!-- EN: Next title satisfied: {0} -->
-  <ThroneNextTitleStature>TODO</ThroneNextTitleStature>
+  <ThroneNextTitleStature>Hài lòng của tước vị tiếp đó: {0</ThroneNextTitleStature>
   <!-- EN: ({0} impressiveness) -->
-  <ThroneRoomImpressivenessInfo>TODO</ThroneRoomImpressivenessInfo>
+  <ThroneRoomImpressivenessInfo>({0} ấn tượng)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
-  <ThroneMustBePlacedInside>TODO</ThroneMustBePlacedInside>
+  <ThroneMustBePlacedInside>Ngai vàng phải được đặt trong nhà.</ThroneMustBePlacedInside>
   <!-- EN: Throne room contains more than one throne, but this is only allowed for married couples. -->
-  <ThroneRoomHasMoreThan1Throne>TODO</ThroneRoomHasMoreThan1Throne>
+  <ThroneRoomHasMoreThan1Throne>Phòng ngai vàng chứa nhiều hơn một ngai vàng, nhưng điều này chỉ được phép cho các cặp vợ chồng.</ThroneRoomHasMoreThan1Throne>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
-  <MinimumRoyalTitleInspectString>TODO</MinimumRoyalTitleInspectString>
+  <MinimumRoyalTitleInspectString>Tước vị tối thiểu ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
-  <RequiresTradePermission>TODO</RequiresTradePermission>
+  <RequiresTradePermission>Giao dịch ở đây yêu cầu tước vị: {0}</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
-  <RequirementPersonalBedroom>TODO</RequirementPersonalBedroom>
+  <RequirementPersonalBedroom>Phòng ngủ cá nhân (cho phép cặp đôi)</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
-  <PsycastNeurotrainerLabel>TODO</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerLabel>bộ phân tích thần kinh ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use neurotrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>TODO</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerUseLabel>Sử dụng bộ phân tích thần kinh để tìm hiểu {0} psycast</PsycastNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>TODO</PsycastNeurotrainerDescription>
+  <PsycastNeurotrainerDescription>Một siêu cơ khí sử dụng một lần, đào tạo một psycast cụ thể.\n\nLiều được dùng thông qua quỹ đạo của mắt. Sau khi được giải phóng vào não, các thợ máy hình thành kiến ​​thức về khả năng psycast cụ thể, tự chuyển hóa thành mô thần kinh khi cần thiết.</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
-  <AbilityNeurotrainerUsed>TODO</AbilityNeurotrainerUsed>
+  <AbilityNeurotrainerUsed>{USER_labelShort} đã sử dụng bộ phân tích thần kinh để tìm hiểu {1} psycast.</AbilityNeurotrainerUsed>
   <!-- EN: {USER_labelShort} has reached psychic amplifer level {1} and has automatically learned this psycast: {2}. -->
-  <PsycastLearnedFromImplant>TODO</PsycastLearnedFromImplant>
+  <PsycastLearnedFromImplant>{USER_labelShort} đã đạt đến cấp độ khuếch đại tâm linh {1} và đã tự động học psycast này: {2}.</PsycastLearnedFromImplant>
   <!-- EN: Requires psychic amplifier -->
-  <PsycastNeurotrainerNoPsychicAmplifier>TODO</PsycastNeurotrainerNoPsychicAmplifier>
+  <PsycastNeurotrainerNoPsychicAmplifier>Yêu cầu khuếch đại tâm linh</PsycastNeurotrainerNoPsychicAmplifier>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor>TODO</Reward_RoyalFavor>
+  <Reward_RoyalFavor>Bất cứ ai chấp nhận nhiệm vụ sẽ nhận được {1} {0_royalFavorLabel} từ {0_name}</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor_ChoosePawn>TODO</Reward_RoyalFavor_ChoosePawn>
+  <Reward_RoyalFavor_ChoosePawn>bạn có thể chọn một trong số {2} tham gia để nhận {1} {0_royalFavorLabel} từ {0_name}</Reward_RoyalFavor_ChoosePawn>
   
 </LanguageData>
