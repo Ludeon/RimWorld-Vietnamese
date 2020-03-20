@@ -3,109 +3,109 @@
 
   <!-- Royal titles -->
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
-  <LetterLabelLostRoyalTitle>TODO</LetterLabelLostRoyalTitle>
+  <LetterLabelLostRoyalTitle>Mất tước hiệu {TITLE}: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
-  <LetterLabelGainedRoyalTitle>TODO</LetterLabelGainedRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Đã đạt được tước hiệu {TITLE}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: {PAWN_pronoun} must be dressed in apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>TODO</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelQualityRequirement>{PAWN_pronoun} phải được mặc trang phục có chất lượng {1} hoặc tốt hơn.</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: {PAWN_pronoun} wants to be covered in apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>TODO</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} muốn được mặc trang phục phù hợp với tước hiệu {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>TODO</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>{PAWN_possessive} kỳ vọng sẽ không bao giờ nhỏ hơn {1}.</LetterRoyalTitleExpectation>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>TODO</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} đã nhận được tước hiệu {TITLE} từ {FACTION_name}!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
-  <LetterLostRoyalTitle>TODO</LetterLostRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} không còn giữ tước hiệu {TITLE} tại {FACTION_name}.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
-  <LetterLabelRewardsForNewTitle>TODO</LetterLabelRewardsForNewTitle>
+  <LetterLabelRewardsForNewTitle>Phần thưởng tước hiệu</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} following reward(s): -->
-  <LetterRewardsForNewTitle>TODO</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitle>Để tôn vinh {PAWN_labelShort} đạt được tước hiệu {TITLE}, {FACTION_name} đã gửi {PAWN_objective} phần thưởng sau:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
-  <LetterRewardsForNewTitleDeliveryBase>TODO</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryBase>Phần thưởng đã đến thuộc địa của bạn thông qua các kén vận chuyển.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>TODO</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>Phần thưởng đã được gửi trực tiếp đến kho của {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
-  <LetterRoyalTitlePermits>TODO</LetterRoyalTitlePermits>
+  <LetterRoyalTitlePermits>{PAWN_pronoun} có các quyền này:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
-  <LetterRoyalTitleLostPermits>TODO</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} bị mất các quyền này:</LetterRoyalTitleLostPermits>
 
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
-  <LetterRoyalTitleDisabledWorkTag>TODO</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} không sẵn sàng thực hiện các loại công việc này: \ n {1}</LetterRoyalTitleDisabledWorkTag>
 
   <!-- EN: {PAWN_pronoun} demands this recreation: -->
-  <LetterRoyalTitleEnabledJoyKind>TODO</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} yêu cầu giải trí này:</LetterRoyalTitleEnabledJoyKind>
   <!-- EN: {PAWN_pronoun} demands this recreation: -->
-  <LetterRoyalTitleStillEnabledJoyKind>TODO</LetterRoyalTitleStillEnabledJoyKind>
+  <LetterRoyalTitleStillEnabledJoyKind>{PAWN_pronoun} vẫn yêu cầu giải trí này:</LetterRoyalTitleStillEnabledJoyKind>
   <!-- EN: {PAWN_pronoun} refuses this recreation: -->
-  <LetterRoyalTitleDisabledJoyKind>TODO</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>{PAWN_pronoun} từ chối giải trí này:</LetterRoyalTitleDisabledJoyKind>
   <!-- EN: {PAWN_pronoun} refuses this recreation: -->
-  <LetterRoyalTitleStillDisabledJoyKind>TODO</LetterRoyalTitleStillDisabledJoyKind>
+  <LetterRoyalTitleStillDisabledJoyKind>{PAWN_pronoun} vẫn từ chối giải trí này:</LetterRoyalTitleStillDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
-  <LetterRoyalTitleAllowedImplants>TODO</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} được phép sử dụng các bộ cấy này: {1}</LetterRoyalTitleAllowedImplants>
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
-  <LetterRoyalTitleImplantsMustBeRemoved>TODO</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} không còn được phép sử dụng các bộ cấy này: {1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
-  <LetterRoyalTitleImplantGracePeriod>TODO</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleImplantGracePeriod>Cấy ghép phải được trích xuất trong thời gian ấn hạn năm ngày để tránh hậu quả ngoại giao.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} has developed a new need for authority. Satisfying this means constructing an appropriate throneroom {PAWN_pronoun} may sit and reign on a regular basis. -->
-  <LetterRoyalTitleAuthorityNeed>TODO</LetterRoyalTitleAuthorityNeed>
+  <LetterRoyalTitleAuthorityNeed>{PAWN_pronoun} đã phát triển một nhu cầu mới về thẩm quyền. Đáp ứng điều này có nghĩa là xây dựng một phòng ngai vàng thích hợp {PAWN_pronoun} có thể ngồi và trị vì.</LetterRoyalTitleAuthorityNeed>
   <!-- EN: {PAWN_pronoun} demands a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>TODO</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngai vàng đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: {PAWN_pronoun} demands a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>TODO</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngủ đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleBedroomRequirements>
   <!-- EN: {PAWN_pronoun} will only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>TODO</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun} sẽ chỉ ăn những thực phẩm này: {1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
-  <LetterRoyalTitleRewardGranted>TODO</LetterRoyalTitleRewardGranted>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} sẽ nhận được các vật phẩm sau qua kến vận chuyển: {1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>TODO</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} đã nhận được {1} {FACTION_royalFavorLabel} từ {FACTION_name}.</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>TODO</LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>Nếu {PAWN_pronoun} chết, tước vị này sẽ được thừa kế bởi {HEIR_nameFull}.</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>TODO</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>Nếu {PAWN_pronoun} chết, sẽ không ai được thừa kế tước hiệu này.</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
-  <LetterRoyalTitleHeirFactionWarning>TODO</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} là thành viên của {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
-  <LetterRoyalTitleChangingHeir>TODO</LetterRoyalTitleChangingHeir>
+  <LetterRoyalTitleChangingHeir>Người thừa kế mới có thể được chọn bằng cách liên hệ với {FACTION_name} thông qua bảng điều khiển thông tin liên hệ.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
-  <LetterTitleHeirLostLabel>TODO</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLostLabel>Người thừa kế đã mất</LetterTitleHeirLostLabel>
   <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title recieved from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>TODO</LetterTitleHeirLost>
+  <LetterTitleHeirLost>{HEIR_nameFull} đã chết, khiến {HOLDER_labelShort} không có người thừa kế cho tước hiệu nhận được từ {FACTION_name}. Bạn có thể liên hệ với {FACTION_name} thông qua bảng điều khiển thông tin liên hệ để chỉ định người thừa kế mới.</LetterTitleHeirLost>
 
   <!-- EN: Title inheritance -->
-  <LetterTitleInheritance>TODO</LetterTitleInheritance>
+  <LetterTitleInheritance>Kế thừa tước hiệu</LetterTitleInheritance>
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles have been transferred to {PAWN_possessive} heirs according to the laws of the title-granting factions. -->
-  <LetterTitleInheritance_Base>TODO</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_Base>Kể từ khi {PAWN_nameFull} chết, tước hiệu {PAWN_possessive} đã được chuyển sang người thừa kế {PAWN_possessive} theo luật của phe phái cấp tước hiệu.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
-  <LetterTitleInheritance_AsReplacement>TODO</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>Tước hiệu {PAWN_possessive} {TITLE} được kế thừa bởi {HEIR_nameFull}, theo các luật thừa kế của {FACTION_name}. Nó thay thế tước hiệu {HEIR_possessive} {REPLACEDTITLE}.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>TODO</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>Tước hiệu {PAWN_possessive} {TITLE} sẽ được thừa kế bởi {HEIR_nameFull} theo các luật thừa kế của {FACTION_name}, nhưng {HEIR_pronoun} đã có tước hiệu {HIGHERTITLE} cao cấp hơn.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>TODO</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>Tước hiệu {PAWN_possessive} {TITLE} được kế thừa bởi {HEIR_nameFull} theo các luật thùa kế của {FACTION_name}.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>TODO</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>Tước hiệu {PAWN_possessive} {TITLE} không được kế thừa bởi bất kỳ ai, vì {PAWN_pronoun} không có người thừa kế được chỉ định cho tước hiệu này.</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
-  <LetterLawViolationDetectedLabel>TODO</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedLabel>Người phá luật: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
-  <LetterLawViolationDetectedForbiddenThingUse>TODO</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} đã phát hiện việc sử dụng bất hợp pháp của {PAWN_labelShort}: {CULPRIT} (cơ hội phát hiện {CHANCE}).\n\nTheo luật của {FACTION_name}, chỉ những người giữ tước hiệu {TITLE} mới được phép sử dụng {CULPRIT}.\n\nNhư một hình phạt, quan hệ ngoại giao của bạn đã giảm {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>TODO</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} đã kết thúc bài phát biểu {ORGANIZER_possessive}.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
   <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
   <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>TODO</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
   <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
@@ -113,13 +113,13 @@
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
   <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
+  <LetterLabelSpeechCancelled>Bài phát biểu bị hủy</LetterLabelSpeechCancelled>
 
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
-  <WildDecree>TODO</WildDecree>
+  <WildDecree>Nghị định điên cuồng</WildDecree>
   <!-- EN: {0_nameIndef} issues decree -->
-  <LetterLabelRandomDecree>TODO</LetterLabelRandomDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} ban hành nghị định</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
   <LetterDecreeMentalBreak>TODO</LetterDecreeMentalBreak>
@@ -127,10 +127,10 @@
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
   <LetterRandomDecree>TODO</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
-  <LetterDecree_Quest>TODO</LetterDecree_Quest>
+  <LetterDecree_Quest>Nghị định có tiêu đề "{0}".</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>TODO</LentColonistDied>
+  <LentColonistDied>{PAWN_nameDef} cho {FACTION} mượn. Họ sẽ sớm trả lại {PAWN_nameDef}.</LentColonistDied>
 
 </LanguageData>
