@@ -23,29 +23,29 @@
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Cảnh báo: Trung bình các kỹ năng liên quan là rất thấp.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>TODO</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Ưu tiên 1 được thực hiện trước. Ưu tiên 4 được thực hiện sau cùng.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>TODO</Priority0>
+  <Priority0>Sẽ không làm</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>TODO</Priority1>
+  <Priority1>Ưu tiên hàng đầu</Priority1>
   <!-- EN: High priority -->
-  <Priority2>TODO</Priority2>
+  <Priority2>Ưu tiên cao</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>TODO</Priority3>
+  <Priority3>Ưu tiên bình thường</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>TODO</Priority4>
+  <Priority4>Ưu tiên thấp</Priority4>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Quản lý trang phục</ManageOutfits>
   <!-- EN: Unchangeable -->
-  <Unchangeable>TODO</Unchangeable>
+  <Unchangeable>Không thể thay đổi</Unchangeable>
   <!-- EN: Clr. forced -->
   <ClearForcedApparel>Xóa trang phục bắt buộc</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>bắt buộc</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>TODO</ApparelLockedLower>
+  <ApparelLockedLower>bị khóa</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Trang phục bắt buộc</ForcedApparel>
   <!-- EN: Edit... -->
@@ -75,7 +75,7 @@
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Sinh vật này là một động vật ăn thịt. Khi đói, nó sẽ săn những sinh vật nhỏ hơn - có thể bao gồm cả con người.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
-  <IsInMentalState>TODO</IsInMentalState>
+  <IsInMentalState>Sinh vật này hiện đang ở trạng thái tinh thần: {0}</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -87,7 +87,7 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>Kẻ thù của {0}</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>TODO</EnemyOf>
+  <EnemyOf>Kẻ thù của:</EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>Thiện chí hiện tại và tình trạng quan hệ với phe này.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
@@ -183,11 +183,11 @@
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Yêu cầu để nghiên cứu</ResearchPrerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>TODO</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
   <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
-  <PrerequisitesNotCompleted>TODO</PrerequisitesNotCompleted>
+  <PrerequisitesNotCompleted>Điều kiện tiên quyết chưa hoàn thành</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Yêu cầu có bàn nghiên cứu</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
@@ -195,9 +195,9 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Chi phí cơ sở dự án {0} trở thành {1} cho bạn vì cấp công nghệ của bạn.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>TODO</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Techprints có sẵn từ các phe phái này thông qua thương mại và nhiệm vụ:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
-  <TechLevelTooLow>TODO</TechLevelTooLow>
+  <TechLevelTooLow>Cấp độ công nghệ phe nhóm của bạn là {0}, nhưng cấp độ công nghệ của dự án này là {1}. Tốc độ nghiên cứu sẽ được nhân với {2}.</TechLevelTooLow>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -205,66 +205,66 @@
   <!-- EN: Active -->
   <ActiveQuests>TODO</ActiveQuests>
   <!-- EN: Historical -->
-  <HistoricalQuests>TODO</HistoricalQuests>
+  <HistoricalQuests>Lịch sử</HistoricalQuests>
   <!-- EN: no quest selected -->
-  <NoQuestSelected>TODO</NoQuestSelected>
+  <NoQuestSelected>không có nhiệm vụ nào được chọn</NoQuestSelected>
   <!-- EN: Appeared {0} days ago -->
-  <AppearedDaysAgo>TODO</AppearedDaysAgo>
+  <AppearedDaysAgo>Đã xuất hiện {0} ngày trước</AppearedDaysAgo>
   <!-- EN: Appeared on {0} -->
-  <AppearedOn>TODO</AppearedOn>
+  <AppearedOn>Xuất hiện vào {0}</AppearedOn>
   <!-- EN: Accepted {0} ago -->
-  <AcceptedAgo>TODO</AcceptedAgo>
+  <AcceptedAgo>Đã chấp nhận {0} trước</AcceptedAgo>
   <!-- EN: Accepted on {0} -->
-  <AcceptedOn>TODO</AcceptedOn>
+  <AcceptedOn>Được chấp nhận vào {0}</AcceptedOn>
   <!-- EN: Accepted {0} ago by {1} -->
-  <AcceptedAgoBy>TODO</AcceptedAgoBy>
+  <AcceptedAgoBy>Đã chấp nhận {0} trước bởi {1}</AcceptedAgoBy>
   <!-- EN: Accepted on {0} by {1} -->
-  <AcceptedOnBy>TODO</AcceptedOnBy>
+  <AcceptedOnBy>Được chấp nhận vào {0} bởi {1}</AcceptedOnBy>
   <!-- EN: Expires in {0} -->
-  <QuestExpiresIn>TODO</QuestExpiresIn>
+  <QuestExpiresIn>Hết hạn trong {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
-  <QuestExpiresOn>TODO</QuestExpiresOn>
+  <QuestExpiresOn>Hết hạn vào {0}</QuestExpiresOn>
   <!-- EN: Shuttle arrives in {0} -->
-  <ShuttleArrivesIn>TODO</ShuttleArrivesIn>
+  <ShuttleArrivesIn>Tàu con thoi đến trong {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
-  <ShuttleArrivesOn>TODO</ShuttleArrivesOn>
+  <ShuttleArrivesOn>Tàu con thoi đến vào {0}</ShuttleArrivesOn>
   <!-- EN: Shuttle departs in {0} -->
-  <ShuttleDepartsIn>TODO</ShuttleDepartsIn>
+  <ShuttleDepartsIn>Tàu con thoi khởi hành trong {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
-  <ShuttleDepartsOn>TODO</ShuttleDepartsOn>
+  <ShuttleDepartsOn>Tàu con thoi khởi hành vào {0}</ShuttleDepartsOn>
   <!-- EN: Finished {0} ago -->
-  <QuestFinishedAgo>TODO</QuestFinishedAgo>
+  <QuestFinishedAgo>Đã hoàn thành {0} trước</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>TODO</AcceptQuest>
+  <AcceptQuest>Chấp nhận nhiệm vụ</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
-  <AcceptWith>TODO</AcceptWith>
+  <AcceptWith>Chấp nhận với {0_labelShort}</AcceptWith>
   <!-- EN: The offer expired. -->
-  <QuestOutcomeInfo_OfferExpired>TODO</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_OfferExpired>Ưu đãi đã hết hạn.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>TODO</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>Bạn đã hoàn thành nhiệm vụ này.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
-  <QuestOutcomeInfo_Failed>TODO</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Failed>Bạn đã không hoàn thành nhiệm vụ này.</QuestOutcomeInfo_Failed>
   <!-- EN: Jump to {0} -->
-  <JumpToTargetCustom>TODO</JumpToTargetCustom>
+  <JumpToTargetCustom>Nhảy tới {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
   <SelectHiveTargets>TODO</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
-  <QuestChallengeRatingTip>TODO</QuestChallengeRatingTip>
+  <QuestChallengeRatingTip>Đánh giá thử thách. Đây là một đánh giá chung cho mức độ khó của nhiệm vụ sẽ liên quan đến sức mạnh hiện tại của bạn. Nhiệm vụ khó khăn hơn cho phần thưởng lớn hơn.\n\n1: Bình thường\n2: Khó\n3: Hết sức\n4: Tối thượng</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>TODO</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>Để chấp nhận nhiệm vụ này, bạn cần</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfied>TODO</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfied>phòng ngủ đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
-  <QuestBedroomRequirementsUnsatisfiedSingle>TODO</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestBedroomRequirementsUnsatisfiedSingle>một phòng ngủ khả dụng đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
-  <QuestNoColonistWithTitle>TODO</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>một người dân với chức vị {0}.</QuestNoColonistWithTitle>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
-  <AcceptRoyalFavor>TODO</AcceptRoyalFavor>
+  <AcceptRoyalFavor>Chấp nhận {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>TODO</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>Bạn muốn được thưởng {FACTION_royalFavorLabel} từ {FACTION_name}.\n\nNếu điều này bị vô hiệu hóa, {FACTION_name} sẽ cung cấp các loại phần thưởng khác thay thế.\n\nCài đặt này chỉ ảnh hưởng đến các nhiệm vụ mới đến.</AcceptRoyalFavorDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOn>TODO</RoyalFavorOn>
+  <RoyalFavorOn>Bạn hiện đang chọn tham gia để nhận {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
-  <RoyalFavorOff>TODO</RoyalFavorOff>
+  <RoyalFavorOff>Bạn hiện đang từ chối nhận {FACTION_royalFavorLabel}.</RoyalFavorOff>
   
 </LanguageData>
