@@ -3,13 +3,13 @@
 
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
-  <Audiovisuals>Hiệu ứng âm thanh</Audiovisuals>
+  <Audiovisuals>Âm Thanh - Hình Ảnh</Audiovisuals>
   <!-- EN: Game volume -->
   <GameVolume>Âm lượng game</GameVolume>
   <!-- EN: Music volume -->
   <MusicVolume>Âm lượng nhạc</MusicVolume>
   <!-- EN: Ambient volume -->
-  <AmbientVolume>Âm lượng xung quanh</AmbientVolume>
+  <AmbientVolume>Âm lượng môi trường</AmbientVolume>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Khử răng cưa</Antialiasing>
 
@@ -17,11 +17,11 @@
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Cuộn chuột trên màn hình</EdgeScreenScroll>
   <!-- EN: Pause on load -->
-  <PauseOnLoad>Dừng khi tải</PauseOnLoad>
+  <PauseOnLoad>Tạm dừng khi tải</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>Tạm dừng thư khẩn cấp</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Tạm dừng khi có thư khẩn</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Pause on</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Con trỏ tùy chỉnh</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -35,13 +35,13 @@
   <!-- EN: Reset learning helper -->
   <ResetAdaptiveTutor>Đặt lại trình trợ giúp</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>Hướng dẫn được đặt lại. Bây giờ bạn sẽ được dạy lại tất cả các bài học từ đầu.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Hướng dẫn được đặt lại. Bây giờ bạn sẽ được hưỡng dẫn lại tất cả các bài học từ đầu.</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
   <RunInBackground>Chạy trong nền</RunInBackground>
   <!-- EN: Development mode -->
-  <DevelopmentMode>Chế độ phát triển</DevelopmentMode>
+  <DevelopmentMode>Chế độ nhà phát triển</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>Cấu hình mod tự động đặt lại về sự cố</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Tự động thiết lập lại cấu hình mod khi gặp sự cố</ResetModsConfigOnCrash>
   <!-- EN: Verbose logging -->
   <LogVerbose>Đăng nhập phức tạp</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -49,11 +49,11 @@
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>Hiển thị vị trí lưu dữ liệu</ShowSaveGameDataLocation>
   <!-- EN: Open log file folder -->
-  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <OpenLogFileFolder>Mở thư mục tệp nhật ký</OpenLogFileFolder>
   <!-- EN: Show log file location -->
-  <ShowLogFileLocation>TODO</ShowLogFileLocation>
+  <ShowLogFileLocation>Hiển thị vị trí tệp nhật ký</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>Các ký tự được tạo bởi người chơi ưa thích. Những nhân vật này sẽ có nhiều khả năng xuất hiện ngẫu nhiên trong khi chơi:</NamesYouWantToSee>
+  <NamesYouWantToSee>Nhân vật ưa thích do người chơi tạo. Những nhân vật này sẽ có nhiều khả năng xuất hiện ngẫu nhiên trong khi chơi:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>Thêm tên</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -63,21 +63,21 @@
   <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Cài đặt người kể chuyện</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Thời gian tự lưu</AutosaveInterval>
+  <AutosaveInterval>Khoảng cách tự động lưu</AutosaveInterval>
   <!-- EN: Temperature mode -->
   <TemperatureMode>Chế độ nhiệt độ</TemperatureMode>
   <!-- EN: Show realtime clock -->
-  <ShowRealtimeClock>Hiển thị đồng hồ thời gian thực</ShowRealtimeClock>
+  <ShowRealtimeClock>Hiển thị đồng hồ hệ thống</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>Số lượng colony tối đa: {0}</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Số lượng thuộc địa tối đa: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Map mouse drag sensitivity -->
-  <MapDragSensitivity>TODO</MapDragSensitivity>
+  <MapDragSensitivity>Độ nhạy chuột khi kéo bản đồ</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>Thực vật lắc lư theo gió</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Bật kích thước bản đồ thử nghiệm</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Khoảng thời gian tự động lưu tối đa trong chế độ permadeath is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Khoảng thời gian tự động lưu tối đa trong chế độ permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>Cài đặt Mod</ModSettings>
   <!-- EN: Permanently disable development mode -->
@@ -101,6 +101,6 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Cài đặt của bạn đã được khôi phục. Trò chơi sẽ khởi động lại tự động.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Tất cả các cài đặt của bạn sẽ được đặt lại về mặc định và trò chơi sẽ được khởi động lại. Tất cả tiến độ chưa được lưu sẽ bị mất!\n\nTiếp tục?</ResetAndRestartConfirmationDialog>
   
 </LanguageData>
