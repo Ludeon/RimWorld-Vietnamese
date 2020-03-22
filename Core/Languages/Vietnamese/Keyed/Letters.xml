@@ -14,7 +14,7 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Mùa hè</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Mùa hè đã bắt đầu, nhưng mùa đông cũng sắp tới.\n\nCây trồng sẽ không phát triển vào mùa đông. Hãy đảm bảo rằng thị trấn của bạn dự trữ đủ thức ăn để vượt qua mùa đông. Bạn có thể xây dựng phòng lạnh để bảo quản thực phẩm khỏi hư hại.\n\nMua, cướp, may thêm áo ấm cho người dân để họ có thể an toàn ở ngoài vào mùa đông.</FirstSummerWarning>
+  <FirstSummerWarning>Mùa hè đã bắt đầu, nhưng mùa đông cũng sắp tới.\n\nCây trồng sẽ không phát triển vào mùa đông. Hãy đảm bảo rằng thị trấn của bạn dự trữ đủ thức ăn để vượt qua mùa đông. Bạn có thể xây dựng phòng lạnh để bảo quản thực phẩm khỏi hư hại.\n\nMua, cướp, may thêm áo ấm cho cư dân để họ có thể an toàn ở ngoài vào mùa đông.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
   <LetterRelationsChange_Hostile>Quan hệ với {0} đã chấm dứt. Họ đã trở thành kẻ thù của bạn. Việc này là do điểm giao hảo ({1}) đã hạ xuống dưới {2}.\n\nHọ sẽ liên tục tấn công thị trấn cùng thương lái của bạn và sẽ không giao thương với bạn nữa. Nếu bạn muốn cải thiện giao hảo với họ, bạn có thể mang vật phẩm đến tặng họ bằng thương lái hoặc bằng kén vận chuyển. Để họ trở thành phe trung lập, điểm giao hảo phải đạt {3}.</LetterRelationsChange_Hostile>
@@ -82,7 +82,7 @@
   <!-- EN: You previously hosted {0}. -->
   <PawnWasFormerlyLodger>Bạn đã bắt giữ {0} trước đây.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} có mối quan hệ với những người dân sau:</PawnHasTheseRelationshipsWithColonists>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} có mối quan hệ với những cư dân sau:</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Phế tích nguy hiểm</LetterLabelAncientShrineWarning>
@@ -343,7 +343,7 @@
   <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} đã tạo ra {CRAFTED_labelShort}.\n\n{0}\n\nTin tức về cổ vật quý giá này sẽ lan truyền trên toàn thế giới.</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>TODO</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Bậc thầy</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
   <LetterCraftedMasterworkMessage>{WORKER_labelShort} đã tạo ra {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
@@ -389,11 +389,11 @@
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>Con tin gia nhập</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>Bạn đã giải cứu thành công {PAWN_nameDef} nên {PAWN_pronoun} chấp nhận trở thành người dân của bạn.\n\nBạn có thể đưa [PAWN_objective] đi cùng bằng cách tập hợp đoàn thương nhân của bạn ở bản đồ thế giới (chọn khu vực này rồi chọn "Tập hợp ngay").</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>Bạn đã giải cứu thành công {PAWN_nameDef} nên {PAWN_pronoun} chấp nhận trở thành cư dân của bạn.\n\nBạn có thể đưa [PAWN_objective] đi cùng bằng cách tập hợp đoàn thương nhân của bạn ở bản đồ thế giới (chọn khu vực này rồi chọn "Tập hợp ngay").</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>Thú dữ {PREDATOR_labelShort} đang săn người dân {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>Thú dữ {PREDATOR_labelShort} đang săn cư dân {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
   <LetterPredatorHuntingColonist>Con {PREDATOR} đang săn {PREY_definite} để ăn thịt!</LetterPredatorHuntingColonist>
 
@@ -467,19 +467,19 @@
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>TODO</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>Áp dụng bản kỹ thuật: {PROJECT_label}.</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>TODO</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>Một bản kỹ thuật đã được áp dụng cho dự án nghiên cứu: {PRO DỰ_label}.</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>TODO</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>Bạn đã hoàn thành các yêu cầu về kỹ thuật của dự án! Các nhà nghiên cứu của bạn bây giờ có thể bắt đầu nghiên cứu làm thế nào để thực sự sử dụng công nghệ tại bàn nghiên cứu của bạn.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>TODO</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>Yêu cầu về kỹ thuật của dự án này vẫn chưa được thỏa mãn. {0} bản kỹ thuật đã được áp dụng cho đến nay. Dự án yêu cầu là {1} .</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>TODO</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>Yêu cầu về kỹ thuật của dự án này đã được thỏa mãn. Bản kỹ thuật công nghệ cao đã nâng cao nỗ lực nghiên cứu của bạn về {PROJECT_label}. Một nửa công việc nghiên cứu còn lại, {0} điểm, đã được hoàn thành.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>TODO</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>Dự án này đã được nghiên cứu đầy đủ, do đó, bản kỹ thuật không nâng cao kiến ​​thức của bạn.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>TODO</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>Bằng cách áp dụng bản kỹ thuật, {PAWN_labelShort} đã thu được {0} kinh nghiệm trong kỹ năng {1}.</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
@@ -497,10 +497,11 @@
   
   <!-- Bladelink -->
   <!-- EN: Bladelink bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>TODO</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>Liên kết: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>TODO</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} đã thiết lập một liên kết với {WEAPON_labelShort}.
+\nKể từ bây giờ, {WEAPON_labelShort} sẽ từ chối sử dụng bởi bất kỳ ai ngoại trừ {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
