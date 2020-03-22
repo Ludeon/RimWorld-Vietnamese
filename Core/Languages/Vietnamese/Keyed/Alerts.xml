@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>Ấn để chuyển đến</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Ấn để chuyển đến vấn đề</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
   <BreakRiskMinor>Nguy cơ suy sụp nhỏ</BreakRiskMinor>
@@ -17,14 +17,14 @@
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>Những cư dân này có tâm trạng xấu và có thể dẫn đến nguy cơ suy sụp lớn (và có thể gây bạo loạn) bất cứ lúc nào:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân thuộc địa này để xem điều gì đang làm họ phiền muộn.\n\nĐể làm cho những cư dân cảm thấy tốt hơn, bạn có thể làm những việc như làm cho họ những bữa ăn ưa thích, cho họ nhiều giờ giải trí hơn mỗi ngày và những đồ vật giải trí đẹp hơn, đặt chúng trong những môi trường đẹp, cho họ uống và hút thuốc, và nhiều hơn nữa.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân này để xem điều gì đang làm họ phiền muộn.\n\nĐể làm cho những cư dân cảm thấy tốt hơn, bạn có thể làm những việc như làm cho họ những bữa ăn ưa thích, cho họ nhiều giờ giải trí hơn mỗi ngày và những đồ vật giải trí đẹp hơn, đặt chúng trong những môi trường đẹp, cho họ uống và hút thuốc, và nhiều hơn nữa.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Cư dân cần cứu hộ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Những cư dân cần cứu hộ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một thực dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Cần phòng thủ</NeedDefenses>
@@ -39,7 +39,7 @@
   <!-- EN: Need miner -->
   <NeedMiner>Cần thợ mỏ</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>Bạn đã chỉ định một số đá được khai thác, nhưng không có cư dân nào có làm công việc Khai thác.\n\nChỉ định một cư dân làm công việc khai thác.</NeedMinerDesc>
+  <NeedMinerDesc>Bạn đã chỉ định một số đá cần khai thác, nhưng không có cư dân nào có thể làm công việc Khai thác.\n\nChỉ định một cư dân làm công việc khai thác.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>Cần cai ngục</NeedWarden>
@@ -49,24 +49,24 @@
   <!-- EN: Low food -->
   <LowFood>Ít thức ăn</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Bạn đang rất nguy hiểm về vấn đề ít thức ăn.\n\n    Thức ăn tồn trong kho: {0}\n    Cư dân và tù nhân nhận thức ăn: {1}\n    Thực phẩm có giá trị trong ngày: {2}\n\nTrồng, mua, tìm hoặc giết để lấy một ít thực phẩm.</LowFoodDesc>
+  <LowFoodDesc>Bạn đang có nguy cơ cao về vấn đề lương thực.\n\n    Thức ăn tồn trong kho: {0}\n    Cư dân và tù nhân nhận thức ăn: {1}\n    Thực phẩm trong kho: {2}\n\nTrồng, mua, tìm hoặc săn giết để lấy một ít thực phẩm.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>Ít thuốc</LowMedicine>
+  <LowMedicine>Gần hết thuốc</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>Bạn chỉ có {0} thuốc còn lại trong kho.\n\nMua thêm thuốc từ thương nhân.</LowMedicineDesc>
+  <LowMedicineDesc>Bạn chỉ có {0} liều thuốc còn lại trong kho.\n\nMua thêm thuốc từ thương nhân.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
   <NoMedicineDesc>Bạn không còn thuốc trong kho.\n\nMua thêm thuốc từ thương nhân.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Cần giường cho cư dân</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>Bạn có nhiều cư dân hơn là giường. Ai đó sẽ thiếu chỗ ngủ.\n\nLàm thêm giường, hoặc thay đổi giường cho tù nhân thành giường cho cư dân.\n\nNếu bạn không có tài nguyên, điểm ngủ là miễn phí và có thể được đặt ngay lập tức.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Bạn có nhiều cư dân hơn là giường. Ai đó sẽ thiếu chỗ ngủ.\n\nLàm thêm giường, hoặc thay đổi giường tù nhân thành giường cho cư dân.\n\nNếu bạn không có tài nguyên, chỗ ngủ là miễn phí và có thể được đặt ngay lập tức.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>Thuộc địa bị bỏ mặc</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Cư dân bị bỏ mặc</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
-  <AlertColonistLeftUnburiedDesc>Một thuộc địa bị bỏ mặc.\n\n Điều này có thể ảnh hưởng tiêu cực đến tâm trạng thực dân của bạn.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Một cư dân bị bỏ mặc.\n\n Điều này có thể ảnh hưởng tiêu cực đến tâm trạng cư dân của bạn.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Thợ săn thiếu vũ khí tầm xa</HunterLacksWeapon>
@@ -74,9 +74,9 @@
   <HunterLacksWeaponDesc>Một cư dân được chỉ định làm thợ săn nhưng không có vũ khí tầm xa.\n\nHọ sẽ không đi săn cho đến khi họ mang theo vũ khí tầm xa.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>Trang phục rách</AlertTatteredApparel>
+  <AlertTatteredApparel>Trang phục rách rưới</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>Những cư dân thuộc địa đang mặc trang phục rách nát, điều đó làm họ buồn:\n\n{0}\nHãy cho họ một số trang phục không bị hư hỏng nặng.\n\nBạn có thể may trang phục tại bàn may, hoặc mua nó từ thương nhân.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Những cư dân của bạn đang mặc trang phục rách nát, điều đó làm họ buồn:\n\n{0}\nHãy cho họ một số trang phục không bị hư hỏng nặng.\n\nBạn có thể may trang phục tại bàn may, hoặc mua nó từ thương nhân.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>Khỏa thân không vui đâu nha</AlertUnhappyNudity>
@@ -84,62 +84,62 @@
   <AlertUnhappyNudityDesc>Những cư dân này đang khỏa thân và họ không hài lòng về điều đó:\n\n{0}\nHãy cho họ một ít trang phục để mặc.\n\nBạn có thể may trang phục tại bàn may, hoặc mua nó từ thương nhân.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>Chết đói</Starvation>
+  <Starvation>Sắp chết đói</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>Những cư dân thuộc địa đang chết đói:\n\n{0}\nHãy cho họ ít thức ăn.</StarvationDesc>
+  <StarvationDesc>Những cư dân đang sắp chết đói:\n\n{0}\nHãy cho họ ít thức ăn.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>Động vật chết đói</StarvationAnimals>
+  <StarvationAnimals>Động vật sắp chết đói</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>những con vật này đang chết đói:\n\n{0}\nHãy cho chúng ít thức ăn.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Những con vật này đang gần chết đói:\n\n{0}\nHãy cho chúng ít thức ăn.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Kiệt sức</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Những cư dân đang kiệt sức và cần nghỉ ngơi:\n\n{0}\nHãy cho họ nghỉ ngơi. Họ sẽ cần một chiếc giường dành cho cư dân. Ngoài ra, hãy chắc chắc rằng chúng không được chỉ định cho cá nhân.</ExhaustionDesc>
+  <ExhaustionDesc>Những cư dân đang kiệt sức và cần nghỉ ngơi:\n\n{0}\nHãy cho họ nghỉ ngơi. Họ sẽ cần một chiếc giường dành cho cư dân. Ngoài ra, hãy chắc chắc rằng chúng không được chỉ định cho cá nhân cụ thể.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Cần phễu thức ăn</NeedFoodHopper>
+  <NeedFoodHopper>Cần nguyên liệu đầu vào</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Bạn có một hộp đựng chất dinh dưỡng không có phễu bên cạnh.\n\nĐể làm việc, bộ phân phối phải rút ra từ một phễu liền kề chứa đầy thực phẩm thô.\n\nXây dựng một phễu liền kề với bộ phân phối.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Bạn có một máy xay ngũ cốc không có nguyên liệu đầu vào.\n\nĐể làm việc, máy xay phải rút ra nguyên liệu từ đầu vào.\n\nXây dựng một khu vực đầu vào liền kề với máy xay.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>Cần chế biến thức ăn</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>Bạn không có cách nào để chuẩn bị bữa ăn thích hợp từ thực phẩm thô.\n\nXây bếp, lửa trại, hoặc hộp đựng chất dinh dưỡng.\n\n(Nó không thể ở trong một nhà tù, nếu không thì cư dân không thể sử dụng nó.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Bạn không có cách nào để chuẩn bị bữa ăn thích hợp từ thực phẩm thô.\n\nXây bếp, lửa trại, hoặc máy xay ngũ cốc.\n\n(Nó không thể ở trong một nhà tù, nếu không thì cư dân không thể sử dụng nó.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Cần giải trí đa dạng</NeedJoySource>
+  <NeedJoySource>Cần đa dạng hoá giải trí</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Chỉ có {0} loại giải trí khác nhau có sẵn trong {1}, nhưng mức độ mong đợi hiện tại ({2}), cư dân cần {3} các loại giải trí khác nhau để vẫn hài lòng. Cung cấp nhiều loại hình giải trí cung cấp một loại hình giải trí mới, khác biệt.\n\n{4}\n\n{5}\n\nLưu ý: Bạn có thể kiểm tra loại giải trí của bất kỳ mục nào trong trang thống kê của nó, có thể truy cập bằng nút 'i'.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Chỉ có {0} loại giải trí khác nhau có sẵn trong {1} loại hình, nhưng mức độ mong đợi hiện tại là ({2}), cư dân cần {3} các loại giải trí khác nhau mới thoả mãn. Cung cấp một loại hình giải trí mới, khác biệt.\n\n{4}\n\n{5}\n\nLưu ý: Bạn có thể kiểm tra loại giải trí của bất kỳ mục nào trong trang thống kê của nó, có thể truy cập bằng nút 'i'.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>Các loại giải trí có sẵn</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
   <MissingRecreationTypes>Thiếu các loại hình giải trí</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>Mong muốn hiện tại là ({0}), mỗi loại hình giải trí mất bởi {1} khi bắt đầu thức dậy mỗi ngày. Đang có {2} loại hình giải trí được sử dụng.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>Mong muốn hiện tại là ({0}), độ nhàm chán tăng {1} khi bắt đầu thức dậy mỗi ngày. Đang có {2} loại hình giải trí được sử dụng.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
   <bored>chán</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>Chán nãn</Boredom>
+  <Boredom>Chán ngẫy</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
   <BoredomDesc>Những người này có nhu cầu giải trí hoặc được giao cho giải trí, nhưng họ chán mọi nguồn giải trí có sẵn:\n\n{0}\n\nCho họ thêm một số giải trí đa dạng.\n\nCác loại hình giải trí hiện có cho {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Cần pin</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Bạn có một máy phát điện năng lượng mặt trời hoặc gió, nhưng không có pin. Điều này có nghĩa là bạn sẽ mất điện mỗi khi mặt trời lặn hoặc gió quá nhẹ.\n\nXây dựng một hoặc hai pin để đảm bảo năng lượng bền vững.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Bạn có một máy phát điện năng lượng mặt trời hoặc tubin gió, nhưng không có pin. Điều này có nghĩa là bạn sẽ mất điện mỗi khi mặt trời lặn hoặc gió quá nhẹ.\n\nXây dựng một hoặc hai pin để đảm bảo năng lượng bền vững.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Kẻ nóng nảy có vũ khí tầm xa</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>Một trong những cư dân thuộc địa của bạn có đặc điểm tính cách là Kẻ nóng nảy, nhưng đang mang vũ khí tầm xa. Điều này sẽ làm cho họ rất không vui.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Một trong những cư dân của bạn có đặc điểm tính cách là Kẻ nóng nảy, nhưng đang mang vũ khí tầm xa. Điều này sẽ làm cho họ rất không vui.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>Kẻ dùng khiên có vũ khí tầm xa</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>Một trong những cư dân thuộc địa của bạn có khiên và đang mang vũ khí tầm xa. Họ sẽ không thể bắn vũ khí của mình qua tấm khiên (ngoại trừ tại các mục tiêu đã chạm vào họ).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Một trong những cư dân của bạn có khiên và đang mang vũ khí tầm xa. Họ sẽ không thể bắn qua tấm khiên (ngoại trừ tại các mục tiêu đã chạm vào họ).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>Cần dự án nghiên cứu</NeedResearchProject>
@@ -147,29 +147,29 @@
   <NeedResearchProjectDesc>Bạn có thiết bị để thực hiện nghiên cứu nhưng chưa chọn dự án.\n\nMở mục nghiên cứu và chọn dự án.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>{0} cư dân nhàn rỗi</ColonistsIdle>
+  <ColonistsIdle>{0} cư dân đang nhàn rỗi</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>Những cư dân này đang lang thang nhàn rỗi:\n\n{0}\nBạn có lẽ nên tìm cho họ một cái gì đó hữu ích để làm.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>Đoàn xe nhàn rỗi</CaravanIdle>
+  <CaravanIdle>Đoàn lữ hành nhàn rỗi</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
   <CaravanIdleDesc>Những đoàn lữ hành này đang chờ bạn đặt điểm đến tiếp theo của họ:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
   <ColonistNeedsTreatment>Cư dân cần điều trị y tế</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>Những cư dân thuộc địa cần điều trị y tế. Không có nó, họ có thể chết vì vết thương, hoặc vết thương của họ có thể trở thành vĩnh viễn.\n\n{0}\nĐiều trị cho họ bằng cách gửi họ đến giường y tế.\n\n(Đầu tiên, chỉ định một chiếc giường y tế bằng cách chọn nó và chuyển nó thành một chiếc giường y tế. Sau đó, chọn những cư dân bị thương và nhấp chuột phải vào giường y tế để biến họ thành bệnh nhân.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Những cư dân cần điều trị y tế. Không có nó, họ có thể chết vì vết thương, hoặc vết thương của họ có thể trở thành di chứng.\n\n{0}\nĐiều trị cho họ bằng cách gửi họ đến giường y tế.\n\n(Đầu tiên, chỉ định một chiếc giường y tế bằng cách chọn nó và chuyển nó thành một chiếc giường y tế. Sau đó, chọn những cư dân bị thương và nhấp chuột phải vào giường y tế để chuyển họ thành bệnh nhân.)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>Thân nhiệt thấp</AlertHypothermia>
+  <AlertHypothermia>Hạ thân nhiệt</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>Những cư dân thuộc địa này đang bị hạ thân nhiệt.\n\n{0}\nHãy chắc chắn rằng quần áo của họ phù hợp với mùa và không gian trong nhà được sưởi ấm đúng cách.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Những cư dân này đang bị hạ thân nhiệt.\n\n{0}\nHãy chắc chắn rằng quần áo của họ phù hợp với mùa và không gian trong nhà được sưởi ấm đúng cách.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} bệnh nhân đang chờ phẫu thuật</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>Những bệnh nhân này đang chờ phẫu thuật y tế:\n\n{0}\nHãy chắc chắn rằng bạn có tất cả các dụng cụ y tế cần thiết và có sẵn một bác sĩ miễn phí.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Những bệnh nhân này đang chờ phẫu thuật y tế:\n\n{0}\nHãy chắc chắn rằng bạn có tất cả các dụng cụ y tế cần thiết và có sẵn một bác sĩ rảnh rỗi.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
   <FireInHomeArea>Cháy!</FireInHomeArea>
@@ -179,33 +179,33 @@
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Cấp cứu y tế</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>Mọi người có nguy cơ tử vong vì bệnh nặng:\n\n{0}\nHãy chắc chắn rằng họ được chăm sóc y tế tốt nhất có thể.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Những người có nguy cơ tử vong vì bệnh nặng:\n\n{0}\nHãy chắc chắn rằng họ được chăm sóc y tế tốt nhất có thể.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Người có nguy cơ tử vong vì bệnh nặng:\n\n{0}\nNếu có thể, hãy cân nhắc cắt cụt hoặc thay thế các chi bị nhiễm bệnh để giữ cho cư dân sống.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>Bi-a cần khoảng trống</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>Bàn Bi-a cần khoảng trống</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>Một trong những bàn bida của bạn liền kề với một vật cản sẽ ngăn chặn cư dân sử dụng nó.\n\nMột bàn bida cần không gian trống xung quanh nó ở mọi phía để có thể sử dụng được.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Một trong những bàn bi-a của bạn liền kề với một vật cản sẽ ngăn chặn cư dân sử dụng nó.\n\nMột bàn bi-a cần không gian trống xung quanh nó ở mọi phía để có thể sử dụng được.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>Thợ săn có khiên và vũ khí tầm xa</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>Thợ săn mang khiên và vũ khí tầm xa</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>Một trong những thợ săn của bạn đang sử dụng vũ khí tầm xa và trang bị khiên ngăn chặn bắn ở tầm xa.\n\nHọ sẽ không thể đi săn trừ khi chiếc khiên được gỡ bỏ.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Một trong những thợ săn của bạn đang sử dụng vũ khí tầm xa nhưng lại mang theo khiên khiến họ không thể bắn.\n\nHọ sẽ không thể đi săn trừ khi chiếc khiên được gỡ bỏ.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>Cần quần áo ấm</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>Ít nhất {0} người dân thuộc địa của bạn sẽ thiếu quần áo ấm khi mùa lạnh đến.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Ít nhất {0} cư dân của bạn sẽ thiếu quần áo ấm khi mùa lạnh đến.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>Tất cả các cư dân thuộc địa của bạn sẽ thiếu quần áo ấm khi mùa lạnh đến.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Tất cả các cư dân của bạn sẽ thiếu quần áo ấm khi mùa lạnh đến.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
   <NeedWarmClothesDesc2>Nhiệt độ ngoài trời là {0}.\n\nBạn có thể may quần áo ấm tại băng ghế may, hoặc mua chúng từ thương nhân.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>Đoàn xe bất động</ImmobileCaravan>
+  <ImmobileCaravan>Đoàn lữ hành không thể di chuyển</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>Một trong những đoàn lữ hành của bạn bất động vì nó mang quá nhiều.\n\nBạn có thể làm cho đoàn xe di động trở lại bằng cách từ bỏ một số mục trong thẻ ITEMS.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Một trong những đoàn lữ hành của bạn bất động vì nó mang quá nhiều.\n\nBạn có thể làm cho đoàn lữ hành di chuyển trở lại bằng cách từ bỏ một số mục trong thẻ VẬT PHẨM.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>Tòa nhà không sử dụng được do có mái nhà</BuildingCantBeUsedRoofed>
@@ -223,21 +223,21 @@
   <QuestPartMoodBelowThresholdDesc>Nhiệm vụ {0} yêu cầu bạn giữ cho người này có tâm trạng tốt. Tuy nhiên, tâm trạng của họ rất kém. Thực hiện một số hành động để làm cho họ cảm thấy tốt hơn:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>Xe đưa đón đi trong {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Tàu con thoi đi trong {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>Xe đưa đón sẽ rời đi trong {1}. Nhiệm vụ {0} yêu cầu bạn tải những người hoặc vật phẩm sau lên xe trước khi nó rời đi:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Tàu con thoi sẽ rời đi trong {1}. Nhiệm vụ {0} yêu cầu bạn tải những người hoặc vật phẩm sau lên tàu trước khi nó rời đi:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>Tượng đài sẽ bị phá hủy</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Di tích sẽ bị phá hủy</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>Bạn đã xây dựng một tòa nhà không được phép bên trong một trong những di tích của bạn. Tượng đài sẽ được coi là bị phá hủy trong {0}.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Bạn đã xây dựng một tòa nhà không được phép bên trong một trong những di tích của bạn. Di tích sẽ không còn là di tích trong {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
   <ActivatorCountdown>Kích hoạt đếm ngược {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
   <ActivatorCountdownDesc>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>{0} bộ kích hoạt đếm ngược</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0} bộ đếm ngược bị kích hoạt </ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
   <ActivatorCountdownDescMultiple>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDescMultiple>
 

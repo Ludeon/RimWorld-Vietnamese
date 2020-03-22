@@ -185,7 +185,7 @@
   <!-- EN: Techprints required {0} / {1} -->
   <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
-  <InsufficientTechprintsApplied>TODO</InsufficientTechprintsApplied>
+  <InsufficientTechprintsApplied>Áp dụng chưa đủ đủ các bản kỹ thuật được ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>Điều kiện tiên quyết chưa hoàn thành</PrerequisitesNotCompleted>
   <!-- EN: Required research bench -->
@@ -201,9 +201,9 @@
 
   <!-- Quests tab -->
   <!-- EN: Available -->
-  <AvailableQuests>TODO</AvailableQuests>
+  <AvailableQuests>Khả dụng</AvailableQuests>
   <!-- EN: Active -->
-  <ActiveQuests>TODO</ActiveQuests>
+  <ActiveQuests>Kích hoạt</ActiveQuests>
   <!-- EN: Historical -->
   <HistoricalQuests>Lịch sử</HistoricalQuests>
   <!-- EN: no quest selected -->
@@ -257,7 +257,7 @@
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>một phòng ngủ khả dụng đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
-  <QuestNoColonistWithTitle>một người dân với chức vị {0}.</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>một cư dân với chức vị {0}.</QuestNoColonistWithTitle>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Chấp nhận {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->

@@ -78,13 +78,13 @@
   <!-- EN: Spawning things -->
   <SpawningAllThings>Đang tạo vật thể</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Đang tạo người dân</SpawningColonists>
+  <SpawningColonists>Đang tạo cư dân</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
   <SaveGameButton>Lưu</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>Nạp</LoadGameButton>
+  <LoadGameButton>Tải</LoadGameButton>
   <!-- EN: Overwrite -->
   <OverwriteButton>Ghi đè</OverwriteButton>
   <!-- EN: Really delete {0}? -->
@@ -112,9 +112,9 @@
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>Có lỗi khi lưu tập tin {0}:\n\n{1}\n\nXem nhật kí lỗi để biết thêm chi tiết.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Vẫn tải lên</LoadAnyway>
+  <LoadAnyway>Tải</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Tải danh sách mod từ bản lưu</ChangeLoadedMods>
+  <ChangeLoadedMods>Tải mod theo bản lưu</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Vài mod không khả dụng và cần được cài đặt sau.</MissingMods>
   <!-- EN: Official content -->
@@ -172,9 +172,9 @@
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
   <FileIncompatibleWarning>Bản lưu này đang ở phiên bản {0}\nPhiên bản hiện tại là {1}\n\nNếu tiếp tục chơi bản lưu này có thể sẽ khiến trò chơi gặp lỗi.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
-  <ModsMismatchWarningTitle>Sai mod</ModsMismatchWarningTitle>
+  <ModsMismatchWarningTitle>Danh sách Mod có thay đổi</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>Bản lưu này được lưu theo danh sách mod khác của bạn đang chạy bây giờ. Bạn cũng có thể tiếp tục chơi nếu không có lỗi gì xảy ra.\n\Danh sách mod chơi trong bản lưu này (theo thứ tự từ trên xuống):\n\n{0}\n\nDanh sách mod mà chúng ta đang chạy (theo thứ tự từ trên xuống);\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Bản lưu này được lưu theo danh sách mod khác của bạn đang chạy bây giờ. Bạn cũng có thể tiếp tục chơi nếu không có lỗi gì xảy ra.\n\nDanh sách mod trong bản lưu này (theo thứ tự từ trên xuống):\n\n{0}\n\nDanh sách mod mà bạn đang chạy (theo thứ tự từ trên xuống):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -190,7 +190,7 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>CẢNH BÁO: Bạn sẽ đáp ở môi trường băng giá. Người dân của bạn có gần như khó qua tuần trăng đầu. Nếu bạn không muốn "ngập trong hành" ngay từ đầu, chịu khó chọn chỗ khác giùm hoặc đổi mùa bắt đầu đi.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>CẢNH BÁO: Bạn sẽ đáp ở môi trường băng giá. cư dân của bạn có gần như khó qua tuần trăng đầu. Nếu bạn không muốn "ngập trong hành" ngay từ đầu, chịu khó chọn chỗ khác giùm hoặc đổi mùa bắt đầu đi.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Trò chơi được thiết kế để chơi ở bản đồ trung bình và bao nhiêu đó là đủ chỗ để xây nhà rồi. Bản đồ lớn cũng không có gì tốt hơn ngoài trừ việc mở ra hằng hà sa số lỗi mà than trời không thấu như ngốn RAM, gây tình trạng giật lag, bot hoạt động không bình thường, v.v. Cỡ bản đồ này chỉ giành cho việc kiểm nghiệm, nếu đang yêu đời và cảm thấy máy bản thân dư sức "cân cả thế giới" thì cứ chơi thoải mái.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
@@ -553,7 +553,7 @@
   <!-- EN: Items -->
   <ItemsTab>Vật phẩm</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>Bạn phải đưa theo ít nhất một người dân khỏe mạnh của bạn.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>Bạn phải đưa theo ít nhất một cư dân khỏe mạnh của bạn.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>Địa điểm bạn chọn ({0}) không thể tới được.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
@@ -627,11 +627,11 @@
   <!-- EN: Inventory mass -->
   <InventoryMass>Trọng lượng hàng hóa</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>Người dân của bạn sẽ tự gói gém hàng hóa và rời khỏi khu vực.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>cư dân của bạn sẽ tự gói gém hàng hóa và rời khỏi khu vực.</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>Tái tập hợp</ReformCaravan>
   <!-- EN: Colonists -->
-  <ColonistsSection>Người dân</ColonistsSection>
+  <ColonistsSection>cư dân</ColonistsSection>
   <!-- EN: Prisoners -->
   <PrisonersSection>Tù nhân</PrisonersSection>
   <!-- EN: Capture -->
@@ -855,11 +855,11 @@
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} yêu cầu cấp {1} ở kĩ năng Trồng trọt.\n\nKhông có người dân nào của bạn đủ trình để trồng được loại cây này.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} yêu cầu cấp {1} ở kĩ năng Trồng trọt.\n\nKhông có cư dân nào của bạn đủ trình để trồng được loại cây này.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Vài người dân/vật nuôi của bạn vẫn còn ở khu vực này. Bạn có chắc là từ bỏ nơi này không?\n\nNhững người và vật nuôi sau sẽ bị bỏ rơi:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>Vài cư dân/vật nuôi của bạn vẫn còn ở khu vực này. Bạn có chắc là từ bỏ nơi này không?\n\nNhững người và vật nuôi sau sẽ bị bỏ rơi:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
   <ConfirmAbandonHomeNegativeThoughts>Bỏ rơi {0} sẽ khiến những người sau nhận những suy nghĩ sau:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->

@@ -9,7 +9,7 @@
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>Khu vực được phép</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>Người dân thuộc địa và động vật thuộc địa có thể được chỉ định cho CÁC VÙNG ĐƯỢC PHÉP. Điều này cấm họ đi các điểm đến bên ngoài khu vực được phép của họ. \n\nĐiều này có thể được sử dụng, ví dụ, cấm thực dân đi ra ngoài. \n\nBạn có thể tạo nhiều khu vực được phép và gán chúng cho các thuộc địa và động vật khác nhau. \n\nTạo, xóa và chỉ định các khu vực được phép trong tab RESTRICT. \n\nLàm mờ các khu vực được phép trên bản đồ bằng cách sử dụng các chỉ định KHU VỰC DUY NHẤT VÀ KHU VỰC DỄ DÀNG trong tab Kiến trúc sư.</AllowedAreas.helpText>
+  <AllowedAreas.helpText>cư dân và động vật thuộc địa có thể được chỉ định cho CÁC VÙNG ĐƯỢC PHÉP. Điều này cấm họ đi các điểm đến bên ngoài khu vực được phép của họ. \n\nĐiều này có thể được sử dụng, ví dụ, cấm cư dân đi ra ngoài. \n\nBạn có thể tạo nhiều khu vực được phép và gán chúng cho các thuộc địa và động vật khác nhau. \n\nTạo, xóa và chỉ định các khu vực được phép trong tab RESTRICT. \n\nLàm mờ các khu vực được phép trên bản đồ bằng cách sử dụng các chỉ định KHU VỰC DUY NHẤT VÀ KHU VỰC DỄ DÀNG trong tab Kiến trúc sư.</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
   <AnimalTaming.label>Động vật thuần hóa</AnimalTaming.label>
@@ -39,7 +39,7 @@
   <!-- EN: Cover and shooting -->
   <CoverAndShooting.label>Nấp và bắn</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>Điều quan trọng nhất cần làm trong chiến đấu tầm xa là biết ẩn nấp. \n\nNấp chỉ hoạt động nếu thực dân của bạn chạm vào nó, và nó nằm giữa thực dân của bạn và kẻ thù. \n\nBạn cũng có thể đặt thực dân phía sau các góc tường. Họ sẽ nghiêng ra để bắn. \n\nHầu hết mọi thứ có thể được sử dụng làm chỗ nấp, nhưng một số thứ tốt hơn những thứ khác. Ẩn nấp đằng sau một cái cây tốt hơn là không có gì, nhưng ẩn nấp đằng sau bao cát tốt hơn là cái cây.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>Điều quan trọng nhất cần làm trong chiến đấu tầm xa là biết ẩn nấp. \n\nNấp chỉ hoạt động nếu cư dân của bạn chạm vào nó, và nó nằm giữa cư dân của bạn và kẻ thù. \n\nBạn cũng có thể đặt cư dân phía sau các góc tường. Họ sẽ nghiêng ra để bắn. \n\nHầu hết mọi thứ có thể được sử dụng làm chỗ nấp, nhưng một số thứ tốt hơn những thứ khác. Ẩn nấp đằng sau một cái cây tốt hơn là không có gì, nhưng ẩn nấp đằng sau bao cát tốt hơn là cái cây.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
   <Deterioration.label>Vật phẩm xuống cấp</Deterioration.label>
@@ -49,7 +49,7 @@
   <!-- EN: Equipping weapons -->
   <EquippingWeapons.label>Trang bị vũ khí</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>Thực dân của bạn đã đến với một số vũ khí. Trang bị cho họ! \n\nChọn từng thuộc địa và nhấp chuột phải vào vũ khí bạn muốn họ trang bị.</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>cư dân của bạn đã đến với một số vũ khí. Trang bị cho họ! \n\nChọn từng thuộc địa và nhấp chuột phải vào vũ khí bạn muốn họ trang bị.</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>Chuẩn bị chữa cháy</FirePreparation.label>
@@ -64,7 +64,7 @@
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>Cấm cửa</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>Bạn có thể Cấm cửa cửa để cư dân và động vật thuần hóa sẽ không đi qua chúng. \n\nLưu ý rằng đây không phải là khóa cửa. Cửa luôn bị khóa, vì vậy kẻ thù không thể tự do đi qua. Cấm chỉ đạo thực dân của bạn không sử dụng cửa. Những cư dân đang phát điên có thể sử dụng cửa.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>Bạn có thể Cấm cửa cửa để cư dân và động vật thuần hóa sẽ không đi qua chúng. \n\nLưu ý rằng đây không phải là khóa cửa. Cửa luôn bị khóa, vì vậy kẻ thù không thể tự do đi qua. Cấm chỉ đạo cư dân của bạn không sử dụng cửa. Những cư dân đang phát điên có thể sử dụng cửa.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
   <FormCaravan.label>Hình thành các đoàn lữ hành</FormCaravan.label>
@@ -74,7 +74,7 @@
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>An toàn phòng cháy chữa cháy</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Hỏa lực thân thiện không bao giờ xảy ra nếu người bắn gần với đồng minh của họ. \n\nVí dụ, bạn có thể đặt một thực dân cầm kiếm một cách an toàn ngay trước mặt người cầm súng. Người bắn sẽ bắn vào vai bạn mình. \n\nĐây là một cách hay để kết hợp máy bay chiến đấu tầm xa và cận chiến.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Hỏa lực thân thiện không bao giờ xảy ra nếu người bắn gần với đồng minh của họ. \n\nVí dụ, bạn có thể đặt một cư dân cầm kiếm một cách an toàn ngay trước mặt người cầm súng. Người bắn sẽ bắn vào vai bạn mình. \n\nĐây là một cách hay để kết hợp máy bay chiến đấu tầm xa và cận chiến.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Nhận nhiều thương nhân hơn</GettingMoreTraders.label>
@@ -114,12 +114,12 @@
   <!-- EN: Manual work priorities -->
   <ManualWorkPriorities.label>Ưu tiên công việc thủ công</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
-  <ManualWorkPriorities.helpText>Một trong những phần quan trọng nhất của RimWorld là chọn cài đặt công việc tốt cho cư dân của bạn. \n\nCài đặt công việc bên ngoài có thể khiến công việc thiết yếu bị bỏ dở trong một thời gian dài trong khi thực dân lãng phí thời gian cho các nhiệm vụ không quan trọng. \n\nĐể kiểm soát nhiều hơn công việc nào thực dân làm, bạn có thể sử dụng chế độ Ưu tiên thủ công trong tab CÔNG VIỆC. \n\nTrong chế độ này, mỗi thuộc địa có một số ưu tiên cho từng loại công việc. cư dân sẽ thực hiện công việc ưu tiên 1 từ trái sang phải, sau đó ưu tiên 2 làm việc từ trái sang phải, v.v. \n\nViệc sử dụng thông minh các cài đặt này là rất cần thiết cho một thuộc địa lớn, tự động hóa tốt.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.helpText>Một trong những phần quan trọng nhất của RimWorld là chọn cài đặt công việc tốt cho cư dân của bạn. \n\nCài đặt công việc bên ngoài có thể khiến công việc thiết yếu bị bỏ dở trong một thời gian dài trong khi cư dân lãng phí thời gian cho các nhiệm vụ không quan trọng. \n\nĐể kiểm soát nhiều hơn công việc nào cư dân làm, bạn có thể sử dụng chế độ Ưu tiên thủ công trong tab CÔNG VIỆC. \n\nTrong chế độ này, mỗi thuộc địa có một số ưu tiên cho từng loại công việc. cư dân sẽ thực hiện công việc ưu tiên 1 từ trái sang phải, sau đó ưu tiên 2 làm việc từ trái sang phải, v.v. \n\nViệc sử dụng thông minh các cài đặt này là rất cần thiết cho một thuộc địa lớn, tự động hóa tốt.</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
   <MedicalOperations.label>Hoạt động y tế</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>Để chỉ định một hoạt động y tế, như thu hoạch nội tạng hoặc lắp đặt bộ phận giả, hãy mở tab SỨC KHỎE của thực dân, sau đó chuyển sang tab phụ HOẠT ĐỘNG.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>Để chỉ định một hoạt động y tế, như thu hoạch nội tạng hoặc lắp đặt bộ phận giả, hãy mở tab SỨC KHỎE của cư dân, sau đó chuyển sang tab phụ HOẠT ĐỘNG.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>Khai thác mỏ</Mining.label>
@@ -129,7 +129,7 @@
   <!-- EN: Outfits -->
   <Outfits.label>Trang phục</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
-  <Outfits.helpText>cư dân sẽ tự động thử mặc trang phục mới nhất, chất lượng cao nhất có thể. \n\nBạn không cần phải tự gán từng bộ trang phục cho cư dân (mặc dù bạn có thể, nếu bạn muốn). \n\nĐể chỉ định hạn chế của cư dân về cách ăn mặc, mở tab ASSIGN, sử dụng hộp thoại "Quản lý trang phục" để thiết kế trang phục mới, sau đó gán trang phục cho thực dân.</Outfits.helpText>
+  <Outfits.helpText>cư dân sẽ tự động thử mặc trang phục mới nhất, chất lượng cao nhất có thể. \n\nBạn không cần phải tự gán từng bộ trang phục cho cư dân (mặc dù bạn có thể, nếu bạn muốn). \n\nĐể chỉ định hạn chế của cư dân về cách ăn mặc, mở tab ASSIGN, sử dụng hộp thoại "Quản lý trang phục" để thiết kế trang phục mới, sau đó gán trang phục cho cư dân.</Outfits.helpText>
   
   <!-- EN: Pausing -->
   <Pause.label>Tạm dừng</Pause.label>
@@ -149,7 +149,7 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>Dự trữ</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>Thực dân của bạn cần một nơi nào đó để lưu trữ các mặt hàng. Chỉ định một CỔ PHẦN cho họ để lưu trữ mọi thứ. \n\nTìm kho dự trữ trong phần KHU của menu KIẾN TRÚC ở phía dưới bên trái.</Stockpiles.helpText>
+  <Stockpiles.helpText>cư dân của bạn cần một nơi nào đó để lưu trữ các mặt hàng. Chỉ định một CỔ PHẦN cho họ để lưu trữ mọi thứ. \n\nTìm kho dự trữ trong phần KHU của menu KIẾN TRÚC ở phía dưới bên trái.</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
   <StorageTab.label>Lưu trữ</StorageTab.label>

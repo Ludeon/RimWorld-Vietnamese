@@ -2,22 +2,22 @@
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>ngày</LetterDay>
+  <LetterDay> ngày</LetterDay>
   <!-- EN: h -->
-  <LetterHour>giờ</LetterHour>
+  <LetterHour> giờ</LetterHour>
   <!-- EN: m -->
-  <LetterMinute>phút</LetterMinute>
+  <LetterMinute> phút</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond>giây</LetterSecond>
+  <LetterSecond> giây</LetterSecond>
   <!-- EN: y -->
-  <LetterYear>năm</LetterYear>
+  <LetterYear> năm</LetterYear>
 
   <!-- EN: days -->
-  <DaysLower>ngày</DaysLower>
+  <DaysLower> ngày</DaysLower>
   <!-- EN: hours -->
-  <HoursLower>giờ</HoursLower>
+  <HoursLower> giờ</HoursLower>
   <!-- EN: seconds -->
-  <SecondsLower>giây</SecondsLower>
+  <SecondsLower> giây</SecondsLower>
 
   <!-- EN: spring -->
   <SeasonSpring>mùa xuân</SeasonSpring>
@@ -33,29 +33,29 @@
   <SeasonPermanentWinter>mùa đông vĩnh cữu</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumAprimay>Quý I</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumJugust>Quý II</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumSeptober>Quý III</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumDecembary>Quý IV</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>Q1</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <QuadrumJugust_Short>Q2</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>Q3</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>Q4</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>Sinh: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Tuổi niên đại: {0} năm, {1} quadrum, {2} ngày</AgeChronological>
+  <AgeChronological>Tuổi niên đại: {0} năm, {1} quý, {2} ngày</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Tuổi sinh lý: {0} năm, {1} quadrum, {2} ngày</AgeBiological>
+  <AgeBiological>Tuổi sinh lý: {0} năm, {1} quý, {2} ngày</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
@@ -63,9 +63,9 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0} năm</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <Period1Quadrum>1 quý</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>{0} quadrum</PeriodQuadrums>
+  <PeriodQuadrums>{0} quý</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>1 ngày</Period1Day>
   <!-- EN: {0} days -->

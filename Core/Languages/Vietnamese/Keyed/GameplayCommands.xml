@@ -7,9 +7,9 @@
   <!-- EN: Allow -->
   <CommandAllow>Cho phép</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>Cách ly - người dân sẽ không tương tác với vật này</CommandForbiddenDesc>
+  <CommandForbiddenDesc>Cách ly - cư dân sẽ không tương tác với vật này</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>Không cách ly - người dân có thể tương tác với vật này.</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>Không cách ly - cư dân có thể tương tác với vật này.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
@@ -20,7 +20,7 @@
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>Chỉ định bật/tắt điện</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Chỉ định bật/tắt điện cho vật này. Người dân sẽ tự động lại bật/tắt công tắc.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Chỉ định bật/tắt điện cho vật này. cư dân sẽ tự động lại bật/tắt công tắc.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Kết nối lại.</CommandTryReconnectLabel>
@@ -40,14 +40,14 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>Chế độ bình thường</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Bật/Tắt chế độ chiến đấu.\n\nỞ chế độ chiến đấu, người dân sẽ nhận lệnh điều khiển trực tiếp từ bạn và chiến đấu với địch. Họ sẽ không làm việc, ngủ, nghỉ hay ăn cho đến khi trở về chế độ bình thường.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Bật/Tắt chế độ chiến đấu.\n\nỞ chế độ chiến đấu, cư dân sẽ nhận lệnh điều khiển trực tiếp từ bạn và chiến đấu với địch. Họ sẽ không làm việc, ngủ, nghỉ hay ăn cho đến khi trở về chế độ bình thường.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} đang bị bất động.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Bắn tự do</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>Bật/Tắt chế độ bắn tự do.\n\nKhi tắt chế độ này, người dân sẽ không tự động bắn kẻ địch trong tầm vũ khí của mình. Không ảnh hưởng nếu đánh cận chiến.</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>Bật/Tắt chế độ bắn tự do.\n\nKhi tắt chế độ này, cư dân sẽ không tự động bắn kẻ địch trong tầm vũ khí của mình. Không ảnh hưởng nếu đánh cận chiến.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Xóa ưu tiên công việc.</CommandClearPrioritizedWork>
@@ -67,13 +67,13 @@
   <!-- EN: Set owner -->
   <CommandThingSetOwnerLabel>Đặt quyền sở hữu</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
-  <CommandBedSetOwnerDesc>Chỉ định người dân mong muốn làm chủ sở hữu của chiếc giường này.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Chỉ định cư dân mong muốn làm chủ sở hữu của chiếc giường này.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>Chỉ định ngai vàng này thuộc sở hữu của một người dân cụ thể.</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Chỉ định ngai vàng này thuộc sở hữu của một cư dân cụ thể.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>Chỉ định người dân</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>Chỉ định cư dân</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>Chỉ định ngôi mộ này thuộc sở hữu của một người dân cụ thể.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Chỉ định ngôi mộ này thuộc sở hữu của một cư dân cụ thể.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
   <BuildingAssign>Chỉ định</BuildingAssign>
   <!-- EN: Reassign -->
@@ -91,9 +91,9 @@
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>Giường giành cho bệnh nhân.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>Bật chế độ tù nhân sẽ ảnh hưởng cả căn phòng này (vì tù nhân và người dân không thể ở chung phòng).\n\nNhững người dân sau sẽ mất quyền sở hữu giường của họ:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>Bật chế độ tù nhân sẽ ảnh hưởng cả căn phòng này (vì tù nhân và cư dân không thể ở chung phòng).\n\nNhững cư dân sau sẽ mất quyền sở hữu giường của họ:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>Tắt chế độ tù nhân sẽ ảnh hưởng cả căn phòng này (vì tù  nhân và người dân không thể ở chugn phòng).\n\nNhững người sau sẽ mất chủ quyền giường của họ:</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Tắt chế độ tù nhân sẽ ảnh hưởng cả căn phòng này (vì tù  nhân và cư dân không thể ở chugn phòng).\n\nNhững người sau sẽ mất chủ quyền giường của họ:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Chắc cú chưa?</AreYouSure>
 
@@ -132,7 +132,7 @@
   <!-- EN: Allow sowing -->
   <CommandAllowSow>Cho phép trồng trọt</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>Khi tắt, người dân sẽ không trồng trọt ở khu vực này nữa nhưng vẫn được phép thu hoạch nông sản đã phát triển đầy đủ.</CommandAllowSowDesc>
+  <CommandAllowSowDesc>Khi tắt, cư dân sẽ không trồng trọt ở khu vực này nữa nhưng vẫn được phép thu hoạch nông sản đã phát triển đầy đủ.</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -182,11 +182,11 @@
   <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>Cấm đi qua</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>Khi một cánh cửa bị cấm, người dân và đồng minh sẽ không đi qua nó. Điều này không áp dụng lên kẻ địch và động vật.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Khi một cánh cửa bị cấm, cư dân và đồng minh sẽ không đi qua nó. Điều này không áp dụng lên kẻ địch và động vật.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
   <CommandToggleDoorHoldOpen>Mở toang</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>Khi bật, người dân của bạn sẽ không đóng cánh cửa sau khi đi qua nó.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Khi bật, cư dân của bạn sẽ không đóng cánh cửa sau khi đi qua nó.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
@@ -238,13 +238,13 @@
   <!-- EN: Attack -->
   <CommandSquadAttack>Tấn công</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>Lệnh cho người dân bạn đang điều khiển tấn công mục tiêu chỉ định.</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>Lệnh cho cư dân bạn đang điều khiển tấn công mục tiêu chỉ định.</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>Cận chiến</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>Lệnh cho người dân bạn đang điều khiển tấn công mục tiêu chỉ định bằng tay và vũ khí cận chiến khác.</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Lệnh cho cư dân bạn đang điều khiển tấn công mục tiêu chỉ định bằng tay và vũ khí cận chiến khác.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
@@ -274,7 +274,7 @@
   <!-- EN: Form caravan -->
   <CommandFormCaravan>Tập hợp đoàn</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>Tập hợp một nhóm người dân để di chuyển đến vị trí chỉ định. Người dân được chọn sẽ tự động lấy những vật dụng xác định từ trước (bao gồm gia súc nếu có), rời khỏi khu vực hiện tại và đợi lệnh tiếp theo.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>Tập hợp một nhóm cư dân để di chuyển đến vị trí chỉ định. cư dân được chọn sẽ tự động lấy những vật dụng xác định từ trước (bao gồm gia súc nếu có), rời khỏi khu vực hiện tại và đợi lệnh tiếp theo.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
@@ -302,13 +302,13 @@
   <!-- EN: Settle -->
   <CommandSettle>Định cư</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>Định cư ở khu vực này. Người dân của bạn sẽ vào khu vực này và bạn có thể bắt đầu xây dựng ngôi nhà mới cho họ ở đây.</CommandSettleDesc>
+  <CommandSettleDesc>Định cư ở khu vực này. cư dân của bạn sẽ vào khu vực này và bạn có thể bắt đầu xây dựng ngôi nhà mới cho họ ở đây.</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>Băng của bạn chỉ có thể có một căn cứ thôi.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>Đã đạt tới giới hạn thị trấn tối đa.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>Không có người dân nào của bạn ở đó để chiếm khu vực cả.</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>Không có cư dân nào của bạn ở đó để chiếm khu vực cả.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>Có kẻ địch trong khu vực này.</CommandSettleFailEnemies>
   
@@ -318,7 +318,7 @@
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
   <CommandAbandonHomeDesc>Từ bỏ khu vực này. Bạn sẽ không thể vào lại khu vực này nữa và mọi thứ trong khu vực này sẽ biến mất vĩnh viễn.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>Tất cả người dân của bạn đều ở đây.</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>Tất cả cư dân của bạn đều ở đây.</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
@@ -350,7 +350,7 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Trao đổi với băng nhóm này.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>Bạn không có người dân có khả năng trao đổi được.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>Bạn không có cư dân có khả năng trao đổi được.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
   <CommandTradeFailNeedPermit>Không ai trong số những người của bạn có quyền yêu cầu phe phái: {0}</CommandTradeFailNeedPermit>
 
@@ -382,7 +382,7 @@
   <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>Đặt mức nhiên liệu</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>Đặt mức nhiên liệu. Người dân sẽ bơm đến khi đạt mức nhiên liệu bạn đề ra.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>Đặt mức nhiên liệu. cư dân sẽ bơm đến khi đạt mức nhiên liệu bạn đề ra.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
@@ -458,7 +458,7 @@
   <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>Đóng/mở van</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>Đóng/mở van thông gió này. Người dân sẽ tự động đến làm việc này.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>Đóng/mở van thông gió này. cư dân sẽ tự động đến làm việc này.</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->

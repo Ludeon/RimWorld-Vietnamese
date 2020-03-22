@@ -409,13 +409,13 @@
   <!-- EN: Quest -->
   <Quest>Nhiệm vụ</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <BringsRaidsEvery>Đột kích mỗi {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
   <GeneratesResourcesEvery>Tạo {0} mỗi {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
   <FoliageKillRadius>Foliage kill radius</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <RadiusExpandRate>Tốc độ mở rộng bán kính</RadiusExpandRate>
   <!-- EN: View: {0} -->
   <ViewHyperlink>Xem: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
@@ -423,7 +423,7 @@
   <!-- EN: Large explosion if damaged -->
   <ExplosionOnDamageWarning>Sẽ nổ lớn nếu hư hỏng</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>TODO</MechCluster>
+  <MechCluster>Bầy Mech</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Spawning trong {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1} -->
@@ -439,19 +439,19 @@
   <!-- EN: Dormant -->
   <DormantCompInactive>Không hoạt động</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>TODO</DormantCompSealed>
+  <DormantCompSealed>Bịt kín</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>Sẵn sàng để thả mechanoids</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>Đã hết hạn</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>TODO</InitiatesIn>
+  <InitiatesIn>Khởi xướng trong</InitiatesIn>
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Kích hoạt trong {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Psychic entropy -->
-  <PsychicEntropy>TODO</PsychicEntropy>
+  <PsychicEntropy>Psychic entropy</PsychicEntropy>
   <!-- EN: {0} pain focus -->
-  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} nhắm vào</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>bán kính {0}</ConditionCauserRadius>
   <!-- EN: {0} left -->
@@ -879,11 +879,11 @@
   <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các khu vực.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>Bật/tắt hiển thị độ thẩm mĩ.\n\nĐộ thẩm mĩ của khu vực con trỏ bạn đạn chỉ tới thể hiện người dân bạn cảm thấy đẹp thế nào khi đứng đấy.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Bật/tắt hiển thị độ thẩm mĩ.\n\nĐộ thẩm mĩ của khu vực con trỏ bạn đạn chỉ tới thể hiện cư dân bạn cảm thấy đẹp thế nào khi đứng đấy.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
   <ShowRoomStatsToggleButton>Bật/tắt thông tin của phòng.\n\nHiển thị thông tin của phòng mà con chuột bạn đang chỉ vào.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Bật/tắt thanh hiển thị người dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của tất cả người dân dọc màn hình phía trên.\n\nBạn có thể sắp xếp lại bằng cách giữ chuột phải trên hình người dân và kéo đến vị trị mong muốn.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Bật/tắt thanh hiển thị cư dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của tất cả cư dân dọc màn hình phía trên.\n\nBạn có thể sắp xếp lại bằng cách giữ chuột phải trên hình cư dân và kéo đến vị trị mong muốn.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Bật/tắt tự động mở rộng khu vực nhà ở xung quanh công trình mới xây.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
@@ -1051,7 +1051,7 @@
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Người dân của bạn đã chết hoặc đã đi. Câu chuyện chấm dứt tại đây.\n\nCó lẽ sẽ có ai đó đến sau có thể sử dụng lại tàn tích từng là thị trấn này.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>cư dân của bạn đã chết hoặc đã đi. Câu chuyện chấm dứt tại đây.\n\nCó lẽ sẽ có ai đó đến sau có thể sử dụng lại tàn tích từng là thị trấn này.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Ở tốc độ cận ánh sáng, Chúa tán cho 1 bạt tay bay cmn hành tinh bạn đang sống. Tất cả mọi sinh vật trên hành tinh này đều ra đi.\n\nMột phần của {0} hiện là một vành đai tiểu hành tinh nhỏ. Phần còn lại là một địa ngục phóng xạ nóng chảy, liên tục gợn sóng với những hành tinh cao hàng km.\n\nBạn không thể sống sót.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
@@ -1059,9 +1059,9 @@
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
   <GameOverShipLaunchedEnding>Máy tính của bạn bây giờ sẽ cố gắng hướng dẫn tàu đến nơi an toàn. Nó có thể tìm thấy một hành tinh thịnh vượng trong hệ thống này. Hoặc, nó có thể thực hiện một hành trình dài hàng thế kỷ đến một ngôi sao khác. Nó thậm chí có thể quyết định ẩn mình dưới băng trên một tiểu hành tinh trong vài nghìn năm, chờ đợi ai đó xây dựng một thế giới long lanh mới ở đây.\n\nKhi nào tìm ra bạn sẽ được đánh thức.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>Những người dân này đã rời khỏi:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>Những cư dân này đã rời khỏi:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>Những người dân bị bỏ lại:\n\n{0}</GameOverColonistsLeft>
+  <GameOverColonistsLeft>Những cư dân bị bỏ lại:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
   <GameOverInMemoryOf>Trong sự tưởng nhớ đến:\n</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
@@ -1207,13 +1207,13 @@
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
-  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescAndPrimaryEquip>({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2} </PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
-  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
-  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind. -->
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nTỷ lệ giảm: {2}/{3}s({4}s cho đến không)\n\nPsychic entropy tăng sau khi thực hiện một psycast.\nVượt quá giới hạn an toàn có thể dẫn đến hậu quả sức khỏe lâu dài.\nBất cứ khi nào entropy đạt đến không, nó sẽ để lại một tâm lý nôn nao phía sau.</PawnTooltipPsychicEntropy>
   <!-- EN: Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy. -->
@@ -1223,31 +1223,31 @@
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>một {0_age}-tuổi {0_title} được đặt tên {0_nameDef} sẽ đến trong một kén vận chuyển {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>một {0_age}-tuổi {0_title} được đặt tên {0_nameDef} sẽ đến và gia nhập bạn {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>một {0_age}-tuổi {0_title} được đặt tên {0_nameDef} sẽ gia nhập bạn {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>TODO</Reward_Items>
+  <Reward_Items>các kén vận chuyển với các tài nguyên sau sẽ đến (tổng giá trị {1}): \ n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <Reward_Items_Caravan>bạn sẽ nhận được (tổng giá trị {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>mối quan hệ phe nhóm của bạn với {0_name} sẽ được cải thiện bởi {1}</Reward_Goodwill>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>TODO</BondedWith>
+  <BondedWith>Liên kết với: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>TODO</NotBonded>
+  <NotBonded>Chưa được liên kết</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>liên kết với người khác</BladelinkBondedToSomeoneElse>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1259,9 +1259,9 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Chặn {0} mỗi {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <InterceptsProjectiles>Chặn {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
   <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->

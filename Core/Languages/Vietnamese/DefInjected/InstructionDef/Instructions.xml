@@ -23,7 +23,7 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>Hãy xây giường gỗ bên trong phòng.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>Thực dân của bạn bây giờ sẽ xây dựng phòng!\n\nBây giờ họ cần một nơi nào đó để ngủ. Đặt ba GIƯỜNG bên trong phòng.\n\nTìm chúng trong danh mục NỘI THẤT.\n\nBạn có thể sử dụng các phím {Key:Designator_RotateLeft} và {Key:Designator_RotateRight} để xoay tòa nhà.</BuildBeds.text>
+  <BuildBeds.text>cư dân của bạn bây giờ sẽ xây dựng phòng!\n\nBây giờ họ cần một nơi nào đó để ngủ. Đặt ba GIƯỜNG bên trong phòng.\n\nTìm chúng trong danh mục NỘI THẤT.\n\nBạn có thể sử dụng các phím {Key:Designator_RotateLeft} và {Key:Designator_RotateRight} để xoay tòa nhà.</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>Xây bếp lò chạy bằng nhiên liệu trong phòng</BuildFueledStove.onMapInstruction>
@@ -37,7 +37,7 @@
   <!-- EN: Please place a horseshoes pin somewhere near the room. -->
   <BuildHorseshoesPin.rejectInputMessage>Vui lòng đặt một cái móng ngựa ở đâu đó gần phòng.</BuildHorseshoesPin.rejectInputMessage>
   <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
-  <BuildHorseshoesPin.text>Thực dân của bạn cần các nguồn giải trí hoặc họ sẽ buồn theo thời gian.\n\nTạo một pin MÓNG NGỰA bên ngoài, gần phòng.</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.text>cư dân của bạn cần các nguồn giải trí hoặc họ sẽ buồn theo thời gian.\n\nTạo một pin MÓNG NGỰA bên ngoài, gần phòng.</BuildHorseshoesPin.text>
   
   <!-- EN: Build a door over one wall -->
   <BuildRoomDoor.onMapInstruction>Xây một cánh cửa trên một bức tường</BuildRoomDoor.onMapInstruction>
@@ -72,7 +72,7 @@
   <!-- EN: Please build a torch lamp inside the room. -->
   <BuildTorchLamp.rejectInputMessage>Hãy xây dựng một ngọn đuốc trong phòng.</BuildTorchLamp.rejectInputMessage>
   <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
-  <BuildTorchLamp.text>Bạn cũng sẽ muốn có một số bên trong ánh sáng, hoặc thực dân của bạn sẽ nhận được gắt gỏng trong bóng tối.\n\nXÂY một ĐÈN ĐUỐC trong phòng.</BuildTorchLamp.text>
+  <BuildTorchLamp.text>Bạn cũng sẽ muốn có một số bên trong ánh sáng, hoặc cư dân của bạn sẽ nhận được gắt gỏng trong bóng tối.\n\nXÂY một ĐÈN ĐUỐC trong phòng.</BuildTorchLamp.text>
   
   <!-- EN: Please open the 'Work' tab and change some settings. -->
   <ChangeWorkSettings.rejectInputMessage>Vui lòng mở tab 'Công việc' và thay đổi một số cài đặt.</ChangeWorkSettings.rejectInputMessage>
@@ -102,7 +102,7 @@
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Hãy tập trung vào chiến thắng trong cuộc chiến!</DownRaider.rejectInputMessage>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
-  <DownRaider.text>Bây giờ tôi đã gửi một kẻ đột kích để tấn công thuộc địa của bạn!\n\n1. Tạm dừng trò chơi bằng cách nhấn {Key:TogglePause}!\n2. Đọc chữ màu đỏ ở góc dưới bên phải của màn hình.\n3. KÉO thực dân của bạn bằng cách chọn chúng và nhấn lệnh KÉO.\n4. Nhấp chuột phải vào vị trí bên trong hình vuông bao cát, chạm vào bao cát.\n5. Không tạm dừng.\n\nColonists phải chạm vào vỏ để được hưởng lợi từ nó. Khi bạn đang ở trong vỏ bọc, hãy đợi kẻ tấn công đến gần. Thực dân của bạn sẽ bắn tự động.</DownRaider.text>
+  <DownRaider.text>Bây giờ tôi đã gửi một kẻ đột kích để tấn công thuộc địa của bạn!\n\n1. Tạm dừng trò chơi bằng cách nhấn {Key:TogglePause}!\n2. Đọc chữ màu đỏ ở góc dưới bên phải của màn hình.\n3. KÉO cư dân của bạn bằng cách chọn chúng và nhấn lệnh KÉO.\n4. Nhấp chuột phải vào vị trí bên trong hình vuông bao cát, chạm vào bao cát.\n5. Không tạm dừng.\n\nColonists phải chạm vào vỏ để được hưởng lợi từ nó. Khi bạn đang ở trong vỏ bọc, hãy đợi kẻ tấn công đến gần. cư dân của bạn sẽ bắn tự động.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
   <EndStockpileDesignating.text>Nhấp chuột phải để thoát khỏi chế độ chỉ định kho.</EndStockpileDesignating.text>
@@ -110,38 +110,38 @@
   <!-- EN: Equip this -->
   <EquipWeapons.onMapInstruction>Trang bị cái này</EquipWeapons.onMapInstruction>
   <!-- EN: Please have your colonists equip weapons. -->
-  <EquipWeapons.rejectInputMessage>Hãy để thực dân của bạn trang bị vũ khí.</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.rejectInputMessage>Hãy để cư dân của bạn trang bị vũ khí.</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
-  <EquipWeapons.text>Có thực dân của bạn trang bị vũ khí bắt đầu. Để trang bị vũ khí:\n\n1. Nhấp vào một thuộc địa để chọn chúng.\n2. Nhấp chuột phải vào vũ khí bạn muốn trang bị.\n3. Nhấp vào 'trang bị vũ khí' trên menu ngữ cảnh.\n\nThực hiện cái này cho mỗi thuộc địa.</EquipWeapons.text>
+  <EquipWeapons.text>Có cư dân của bạn trang bị vũ khí bắt đầu. Để trang bị vũ khí:\n\n1. Nhấp vào một thuộc địa để chọn chúng.\n2. Nhấp chuột phải vào vũ khí bạn muốn trang bị.\n3. Nhấp vào 'trang bị vũ khí' trên menu ngữ cảnh.\n\nThực hiện cái này cho mỗi thuộc địa.</EquipWeapons.text>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Hãy mở rộng diện tích xây dựng một chút, chỉ để thực hành.</ExpandAreaBuildRoof.rejectInputMessage>
   <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
-  <ExpandAreaBuildRoof.text>XÂY DỰNG MÁY NHÀ xác định nơi thực dân của bạn sẽ cố gắng xây dựng mái nhà.\n\nNó sẽ tự động lấp đầy khi bạn đóng một căn phòng mới.\n\nChọn công cụ MỞ RỘNG KHU VỰC MÁI NHÀ và kéo ra hình dạng của một mái hiên ở mặt trước của ngôi nhà.</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.text>XÂY DỰNG MÁY NHÀ xác định nơi cư dân của bạn sẽ cố gắng xây dựng mái nhà.\n\nNó sẽ tự động lấp đầy khi bạn đóng một căn phòng mới.\n\nChọn công cụ MỞ RỘNG KHU VỰC MÁI NHÀ và kéo ra hình dạng của một mái hiên ở mặt trước của ngôi nhà.</ExpandAreaBuildRoof.text>
   
   <!-- EN: Please expand the home area a bit, just for practice. -->
   <ExpandAreaHome.rejectInputMessage>Hãy mở rộng khu vực nhà một chút, chỉ để thực hành.</ExpandAreaHome.rejectInputMessage>
   <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
-  <ExpandAreaHome.text>Tiếp theo, bạn sẽ học cách mở rộng KHU VỰC NHÀ.\n\nNgười dân sẽ chỉ lau sàn và dập tắt đám cháy trong khu vực nhà và bỏ qua các đám cháy hoặc bẩn thỉu bên ngoài nó.\n\nKhu vực nhà được thêm tự động khi bạn xây dựng mọi thứ - nhưng bạn cũng có thể mở rộng thủ công.\n\nChọn công cụ MỞ RỘNG KHU VỰC NHÀ và kéo ra một khu vực mới trên bản đồ.</ExpandAreaHome.text>
+  <ExpandAreaHome.text>Tiếp theo, bạn sẽ học cách mở rộng KHU VỰC NHÀ.\n\ncư dân sẽ chỉ lau sàn và dập tắt đám cháy trong khu vực nhà và bỏ qua các đám cháy hoặc bẩn thỉu bên ngoài nó.\n\nKhu vực nhà được thêm tự động khi bạn xây dựng mọi thứ - nhưng bạn cũng có thể mở rộng thủ công.\n\nChọn công cụ MỞ RỘNG KHU VỰC NHÀ và kéo ra một khu vực mới trên bản đồ.</ExpandAreaHome.text>
   
   <!-- EN: Please wait for your colonists to finish building the sandbags. -->
-  <FinishSandbags.rejectInputMessage>Xin vui lòng chờ cho thực dân của bạn hoàn thành việc xây dựng các bao cát.</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.rejectInputMessage>Xin vui lòng chờ cho cư dân của bạn hoàn thành việc xây dựng các bao cát.</FinishSandbags.rejectInputMessage>
   <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
-  <FinishSandbags.text>Chúng ta hãy đợi tất cả các công trình của bạn được xây dựng.n\nXem xét bằng cách sử dụng tab CÔNG VIỆC để gán thêm các thực dân cho Xây dựng.\n\nNgoài ra, bạn có thể tăng tốc thời gian để rút ngắn thời gian chờ đợi.\n\nKhi mọi thứ được xây dựng, tôi ' sẽ gửi một kẻ tấn công để kiểm tra phòng thủ của bạn!</FinishSandbags.text>
+  <FinishSandbags.text>Chúng ta hãy đợi tất cả các công trình của bạn được xây dựng.n\nXem xét bằng cách sử dụng tab CÔNG VIỆC để gán thêm các cư dân cho Xây dựng.\n\nNgoài ra, bạn có thể tăng tốc thời gian để rút ngắn thời gian chờ đợi.\n\nKhi mọi thứ được xây dựng, tôi ' sẽ gửi một kẻ tấn công để kiểm tra phòng thủ của bạn!</FinishSandbags.text>
   
   <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
   <MakeGrowingZone.onMapInstruction>Đặt vùng trồng ở đây\n(kéo từ góc này sang góc khác)</MakeGrowingZone.onMapInstruction>
   <!-- EN: Please make a growing zone on the indicated area. -->
   <MakeGrowingZone.rejectInputMessage>Hãy làm cho một khu vực trồng trên địa điểm được chỉ định.</MakeGrowingZone.rejectInputMessage>
   <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
-  <MakeGrowingZone.text>Ngôi nhà đang được xây dựng!\n\nThực dân của bạn sẽ cần một cái gì đó để ăn, vì vậy hãy đặt KHU VỰC TRỒNG TRỌT như được chỉ ra trên bản đồ.\n\nĐây là nơi thực dân của bạn sẽ gieo trồng cây trồng.</MakeGrowingZone.text>
+  <MakeGrowingZone.text>Ngôi nhà đang được xây dựng!\n\ncư dân của bạn sẽ cần một cái gì đó để ăn, vì vậy hãy đặt KHU VỰC TRỒNG TRỌT như được chỉ ra trên bản đồ.\n\nĐây là nơi cư dân của bạn sẽ gieo trồng cây trồng.</MakeGrowingZone.text>
   
   <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
   <MakeStockpile.onMapInstruction>Đặt kho dự trữ tại đây\n(kéo từ góc này sang góc khác)</MakeStockpile.onMapInstruction>
   <!-- EN: Please make a stockpile on the indicated area. -->
   <MakeStockpile.rejectInputMessage>Vui lòng tạo một kho dự trữ trên khu vực được chỉ định.</MakeStockpile.rejectInputMessage>
   <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
-  <MakeStockpile.text>Tuyệt vời!\n\nBây giờ, hãy tạo một kho dự trữ để thực dân của bạn biết nơi giữ vật phẩm.\n\n1. Nhấp vào tab KIẾN TRÚC ở dưới cùng bên trái.\n2. Nhấp vào danh mục KHU VỰC/ĐỊA ĐIỂM.\n3. Chọn công cụ TẠO KHU VỰC.\n4. Nhấp và kéo ra một hình vuông như được chỉ ra trên bản đồ.</MakeStockpile.text>
+  <MakeStockpile.text>Tuyệt vời!\n\nBây giờ, hãy tạo một kho dự trữ để cư dân của bạn biết nơi giữ vật phẩm.\n\n1. Nhấp vào tab KIẾN TRÚC ở dưới cùng bên trái.\n2. Nhấp vào danh mục KHU VỰC/ĐỊA ĐIỂM.\n3. Chọn công cụ TẠO KHU VỰC.\n4. Nhấp và kéo ra một hình vuông như được chỉ ra trên bản đồ.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
   <MapCameraDolly.text>Ở đây bạn đang ở trên bề mặt!\n\nBây giờ hãy thử di chuyển camera xung quanh.\n\nSử dụng các phím {Key:MapDolly_Up} - {Key:MapDolly_Left} - {Key:MapDolly_Down} - {Key:MapDolly_Right} hoặc nhấp và kéo bằng nút chuột giữa.\n\nThử ngay!</MapCameraDolly.text>
@@ -154,7 +154,7 @@
   <!-- EN: Please use the 'mine' designator on the compacted steel. -->
   <MineSteel.rejectInputMessage>Vui lòng sử dụng chỉ định 'đào mỏ' trên thép được chỉ định.</MineSteel.rejectInputMessage>
   <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
-  <MineSteel.text>Bây giờ thực dân của bạn sẽ nấu một số thực phẩm! Ngon thật!\n\nTiếp theo, bạn sẽ muốn khai thác một số khoáng sản. Tôi đã sinh ra một số thép mineable gần cơ sở của bạn.\n\nChọn định danh ĐÀO MỎ và kéo qua thép để chỉ nó cho khai thác mỏ.</MineSteel.text>
+  <MineSteel.text>Bây giờ cư dân của bạn sẽ nấu một số thực phẩm! Ngon thật!\n\nTiếp theo, bạn sẽ muốn khai thác một số khoáng sản. Tôi đã sinh ra một số thép mineable gần cơ sở của bạn.\n\nChọn định danh ĐÀO MỎ và kéo qua thép để chỉ nó cho khai thác mỏ.</MineSteel.text>
   
   <!-- EN: Please open the 'Research' tab. -->
   <OpenMainTabResearch.rejectInputMessage>Vui lòng mở tab 'Nghiên cứu'.</OpenMainTabResearch.rejectInputMessage>
@@ -164,7 +164,7 @@
   <!-- EN: Please open the 'Work' tab. -->
   <OpenMainTabWork.rejectInputMessage>Vui lòng mở tab 'Công việc'.</OpenMainTabWork.rejectInputMessage>
   <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
-  <OpenMainTabWork.text>Bạn có thể kiểm soát thực dân nào thực hiện loại công việc nào.\n\nMở tab CÔNG VIỆC ở cuối màn hình.</OpenMainTabWork.text>
+  <OpenMainTabWork.text>Bạn có thể kiểm soát cư dân nào thực hiện loại công việc nào.\n\nMở tab CÔNG VIỆC ở cuối màn hình.</OpenMainTabWork.text>
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Bạn có thể tạm dừng thời gian.\n\nĐiều này có nghĩa là bạn không bao giờ cần phải vội vàng. Bạn luôn có thể tạm dừng và dành thời gian để phát lệnh.\n\nHãy thử tạm dừng bằng phím {Key:TogglePause} hoặc bằng cách sử dụng các điều khiển thời gian ở dưới cùng bên phải.</Pause.text>
@@ -189,13 +189,13 @@
   <!-- EN: Please set your growing zone to grow rice. -->
   <SetToGrowRice.rejectInputMessage>Vui lòng đặt vùng trồng của bạn để trồng lúa.</SetToGrowRice.rejectInputMessage>
   <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
-  <SetToGrowRice.text>Bạn có thể quyết định những cây trồng mà thực dân của bạn nên gieo trong khu vực đang phát triển.\n\n1. Nhấp chuột phải để thoát chế độ kiến trúc sư.\n2. Nhấp vào vùng trồng trọt của bạn để chọn nó.\n3. Nhấp vào bộ chọn cây ở phía dưới và đổi nó thành gạo.</SetToGrowRice.text>
+  <SetToGrowRice.text>Bạn có thể quyết định những cây trồng mà cư dân của bạn nên gieo trong khu vực đang phát triển.\n\n1. Nhấp chuột phải để thoát chế độ kiến trúc sư.\n2. Nhấp vào vùng trồng trọt của bạn để chọn nó.\n3. Nhấp vào bộ chọn cây ở phía dưới và đổi nó thành gạo.</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.text>Bạn cũng có thể tăng tốc thời gian.\n\nHãy thử kiểm soát thời gian bằng các phím {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} và {Key:TimeSpeed_Superfast} hoặc với các nút điều khiển thời gian ở dưới cùng bên phải.</TimeControls.text>
   
   <!-- EN: Please un-draft your colonists. -->
-  <UndraftAll.rejectInputMessage>Xin vui lòng bỏ dự thảo thực dân của bạn.</UndraftAll.rejectInputMessage>
+  <UndraftAll.rejectInputMessage>Xin vui lòng bỏ dự thảo cư dân của bạn.</UndraftAll.rejectInputMessage>
   <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
   <UndraftAll.text>Thành công! Bây giờ UNDRAFT tất cả các thuộc địa của bạn bằng cách sử dụng cùng một lệnh như trước đây.\n\nĐiều này sẽ cho phép họ quay lại lịch trình của riêng họ.</UndraftAll.text>
   

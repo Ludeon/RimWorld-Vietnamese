@@ -161,9 +161,9 @@
   <!-- EN: {PAWN_labelShort} won't be able to use the psychic amplifier while {PAWN_pronoun} has zero psychic sensitivity. -->
   <MessagePsychicAmplifierNoSensitivity>{PAWN_labelShort} sẽ không thể sử dụng bộ psychic amplifier trong khi {PAWN_pronoun} có psychic sensitivity bằng không.</MessagePsychicAmplifierNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
-  <MessageLostImplantLevelFromHediff>TODO</MessageLostImplantLevelFromHediff>
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} đã mất cấp độ cấy ghép {1} do {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
-  <MessageReceivedBrainDamageFromHediff>TODO</MessageReceivedBrainDamageFromHediff>
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} đã bị tổn thương não {1} do {2}.</MessageReceivedBrainDamageFromHediff>
   <!-- EN: {PAWN_labelShort} has exceeded the safe limit of psychic entropy. -->
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} đã vượt quá giới hạn an toàn của psychic entropy.</MessageWentOverPsychicEntropyLimit>
 
@@ -309,7 +309,7 @@
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Quá trình tải hàng lên đã bị hủy do một trong các bệ phóng đã bị phá hủy.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>Người dân của bạn sẽ chất hàng hóa chỉ định vào kén vận chuyển.</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>cư dân của bạn sẽ chất hàng hóa chỉ định vào kén vận chuyển.</MessageTransportersLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
   <MessageTransporterSingleLoadingProcessStarted>Các mặt hàng được chỉ định và mọi người sẽ được đưa vào tàu con thoi.</MessageTransporterSingleLoadingProcessStarted>
   
@@ -337,7 +337,7 @@
   <MessageReformedCaravan>Đoàn đã tập hợp lại xong.</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>Bạn không thể từ bỏ người dân cuối cùng của mình.</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>Bạn không thể từ bỏ cư dân cuối cùng của mình.</MessageCantBanishLastColonist>
 
   <!-- EN: Cannot equip: {0}. -->
   <MessageCantEquipCustom>Không thể trang bị: {0}.</MessageCantEquipCustom>
@@ -361,7 +361,7 @@
   <MessageCaravanDeathCorpseAddedToInventory>Xác chết của {PAWN_definite} đã được đoàn lữ hành nhặt được. Nó nặng và có thể làm chậm lại đoàn lữ hành, nhưng có thể bị bỏ lại trong tab vật phẩm đoàn lữ hành.</MessageCaravanDeathCorpseAddedToInventory>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>Để thành lập đoàn giao thương, chọn nhà của bạn hoặc nơi mà bạn có người dân của mình.</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>Để thành lập đoàn giao thương, chọn nhà của bạn hoặc nơi mà bạn có cư dân của mình.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>Ở độ phân giải và độ lớn của thanh điều khiển này, tương tác với trò chơi sẽ không vừa màn hình. Xin hãy giảm độ lớn hoặc tăng độ phân giải lên.</MessageScreenResTooSmallForUIScale>
@@ -404,7 +404,7 @@
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} đã tỉnh lại.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
-  <MessageMechClusterDefeated>TODO</MessageMechClusterDefeated>
+  <MessageMechClusterDefeated>Căn cứ Mech đã bị đánh bại.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>Vật phẩm đã sản xuất: {0}.</MessageCompSpawnerSpawnedItem>
