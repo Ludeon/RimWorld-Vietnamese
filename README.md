@@ -9,16 +9,19 @@
 <p align="center">
 	<a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
 		<img src="https://img.shields.io/github/v/release/Ludeon/RimWorld-Vietnamese" />
-    </a>   
+    </a>  
+    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
+        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Ludeon/RimWorld-Vietnamese">
+    </a> 
+    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/archive/master.zip">
+    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/Ludeon/RimWorld-Vietnamese?label=dev">
+    </a>     
     <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
         <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ludeon/RimWorld-Vietnamese?color=0&label=size">
     </a>   
     <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">   
 	    <img src="https://img.shields.io/github/downloads/Ludeon/RimWorld-Vietnamese/total" />
     </a>
-    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
-        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Ludeon/RimWorld-Vietnamese">
-    </a>   
 	<a href="https://rimworldwiki.com/wiki/Version_history">
 		<img src="https://img.shields.io/badge/RimWorld-1.1-purple.svg?longCache=true&style=plastic)" alt="Compatible Rimworld 1.1" />
     </a>
