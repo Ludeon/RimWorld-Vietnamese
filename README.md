@@ -48,4 +48,4 @@ Vì bản dịch chưa hoàn thiện nên tạm thời chưa nhận phản hồi
 ### 4. Translators:
 - Nam Bùi - [@nambn](https://github.com/nambn)
 - Hưng Trần - **mw3tv123**
-- 
+- KingCTer
