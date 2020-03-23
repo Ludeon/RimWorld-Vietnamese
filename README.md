@@ -1,3 +1,5 @@
+![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
+
 # RimWorld Vietnamese
 This is Vietnamese translation data for RimWorld.
 
