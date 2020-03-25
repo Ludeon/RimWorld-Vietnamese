@@ -104,6 +104,8 @@
   <TitleOfFaction>{0} của {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Hành động này sẽ khiến {PAWN_nameDef} mất chức vụ {PAWN_possessive} {TITLE}.Bạn sẽ không nhận được bồi thường cho việc từ bỏ chức vụ này.\n\nĐiều này sẽ có các hiệu ứng sau:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>không rõ</UnknownLower>
   <!-- EN: On -->

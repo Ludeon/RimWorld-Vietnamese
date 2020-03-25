@@ -462,7 +462,8 @@
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} bị bắt cóc</LetterLabelPawnsKidnapped>
-  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!\n\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
   <LetterPawnsKidnapped>{PAWN_nameDef} đã bị bắt cóc bởi {FACTION_name}!\n\nTuy nhiên, {PAWN_pronoun} chưa chết. Cơ hội giải cứu {PAWN_objective} có thể xuất hiện trong những ngày hoặc năm tới.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
@@ -500,8 +501,7 @@
   <LetterBladelinkWeaponBondedLabel>Liên kết: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} đã thiết lập một liên kết với {WEAPON_labelShort}.
-\nKể từ bây giờ, {WEAPON_labelShort} sẽ từ chối sử dụng bởi bất kỳ ai ngoại trừ {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} đã thiết lập một liên kết với {WEAPON_labelShort}.\n\nKể từ bây giờ, {WEAPON_labelShort} sẽ từ chối sử dụng bởi bất kỳ ai ngoại trừ {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
