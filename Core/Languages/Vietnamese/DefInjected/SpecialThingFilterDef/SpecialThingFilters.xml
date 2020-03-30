@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  
   <!-- EN: allow biocoded weapons -->
   <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
   
@@ -29,6 +32,9 @@
   <AllowFresh.label>cho phép đồ tươi</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Cho phép đồ tươi sống.</AllowFresh.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
   <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>

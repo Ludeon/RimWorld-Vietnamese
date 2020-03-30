@@ -13,6 +13,9 @@
   <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} muốn được mặc trang phục phù hợp với tước hiệu {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
   <LetterRoyalTitleExpectation>{PAWN_possessive} kỳ vọng sẽ không bao giờ nhỏ hơn {1}.</LetterRoyalTitleExpectation>
+  
+  <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
+  <LetterRoyalTitleConceitedTrait>TODO</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort} đã nhận được tước hiệu {TITLE} từ {FACTION_name}!</LetterGainedRoyalTitle>
@@ -131,6 +134,6 @@
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>{PAWN_nameDef} cho {FACTION} mượn. Họ sẽ sớm trả lại {PAWN_nameDef}.</LentColonistDied>
+  <LentColonistDied>{PAWN_nameDef} cho {FACTION} mượn. Họ sẽ sớm trả lại {PAWN_nameDef}.</LentColonistDied>  
 
 </LanguageData>

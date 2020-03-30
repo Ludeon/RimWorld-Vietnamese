@@ -178,9 +178,7 @@
     <!-- EN: astronomer -->
     <titleShort>Nhà hiên văn</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>
-299/5000
-[PAWN_nameDef] đã say mê thiên văn học. [PAWN_pronoun] sẽ dành hàng giờ để nhìn vào các hành tinh và tinh vân thông qua kính viễn vọng [PAWN_possessive].</desc>
+    <desc>\n299/5000\n[PAWN_nameDef] đã say mê thiên văn học. [PAWN_pronoun] sẽ dành hàng giờ để nhìn vào các hành tinh và tinh vân thông qua kính viễn vọng [PAWN_possessive].</desc>
   </AmateurAstronomer77>
   
   <AmateurBotanist79>
@@ -6106,14 +6104,14 @@
     <desc>NAME studied chemistry and quantum mechanics for entertainment.\n\nHECAP was very good at convincing others to do his physical work, and made it a goal in life to avoid manual labor.</desc>
   </Student65>
   
-  <StudentEngineer81>
+  <StudentEngineer34>
     <!-- EN: student engineer -->
     <title>Student engineer</title>
     <!-- EN: engineer -->
     <titleShort>Engineer</titleShort>
-    <!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel Boy”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
+    <!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel {PAWN_gender ? Boy : Girl}”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
     <desc>A genius child, NAME was put in a special training program covering aerospace warfare and engineering.\n\nOne day, he tried to befriend a squirrel by giving it a bracelet. The squirrel bit him, earning him the nickname “Squirrel Boy.”\n\nNAME came to believe that work involving manual labor is beneath HIM.</desc>
-  </StudentEngineer81>
+  </StudentEngineer34>
   
   <StudentSocialite89>
     <!-- EN: student socialite -->

@@ -104,6 +104,8 @@
   <TitleOfFaction>{0} của {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Hành động này sẽ khiến {PAWN_nameDef} mất chức vụ {PAWN_possessive} {TITLE}.Bạn sẽ không nhận được bồi thường cho việc từ bỏ chức vụ này.\n\nĐiều này sẽ có các hiệu ứng sau:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>không rõ</UnknownLower>
   <!-- EN: On -->
@@ -456,6 +458,8 @@
   <ConditionCauserRadius>bán kính {0}</ConditionCauserRadius>
   <!-- EN: {0} left -->
   <DurationLeft>còn {0}</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>TODO</AnyOf>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1216,7 +1220,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Psychic entropy: {0}/{1}\nFall rate: {2}/{3}s({4}s until zero)\n\nPsychic entropy increases after performing a psycast.\nGoing over the safe limit can lead to long-term health consequences.\nWhenever entropy reaches zero, it leaves a psychic hangover behind. -->
   <PawnTooltipPsychicEntropy>Psychic entropy: {0}/{1}\nTỷ lệ giảm: {2}/{3}s({4}s cho đến không)\n\nPsychic entropy tăng sau khi thực hiện một psycast.\nVượt quá giới hạn an toàn có thể dẫn đến hậu quả sức khỏe lâu dài.\nBất cứ khi nào entropy đạt đến không, nó sẽ để lại một tâm lý nôn nao phía sau.</PawnTooltipPsychicEntropy>
-  <!-- EN: Physical pain focuses the mind and clears extraneous thoughts; this has the side-effect of causing faster recovery from psychic entropy. -->
+  <!-- EN: Pain focuses the mind, and causes faster recovery from psychic entropy.\n\nPain level: {0}\nBonus to psychic entropy recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>Nỗi đau thể xác tập trung tâm trí và xóa sạch những suy nghĩ ngoại lai; điều này có tác dụng phụ là giúp phục hồi nhanh hơn từ psychic entropy.</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle psychic entropy limiter.\n\nGoing over your psychic entropy limit can cause serious health consequences, including long-term psychic breakdown, and even brain damage for significant overages. The higher over-limit the entropy is, the more dangerous the effects. -->
   <PawnTooltipPsychicEntropyLimit>Chuyển đổi giới hạn psychic entropy.\n\nVượt quá giới hạn psychic entropy của bạn có thể gây ra hậu quả nghiêm trọng về sức khỏe, bao gồm cả suy sụp tâm lý lâu dài, và thậm chí tổn thương não đối với tình trạng quá tải đáng kể. Entropy càng vượt quá giới hạn, tác động càng nguy hiểm.</PawnTooltipPsychicEntropyLimit>

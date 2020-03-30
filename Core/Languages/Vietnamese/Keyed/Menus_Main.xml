@@ -59,7 +59,7 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Tất cả bản dịch của rimworld đều được làm bởi người hâm mộ. Bản dịch do người hâm mộ tạo ra này được tạo bởi những tình nguyện viên xuất sắc sau đây:{0}</TranslationThanks>
+  <TranslationThanks>Tất cả bản dịch của rimworld đều được làm bởi người hâm mộ. Bản dịch do người hâm mộ tạo ra này được tạo bởi những tình nguyện viên xuất sắc sau đây:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>Bạn cũng có thể đóng góp. Nhấp vào bên dưới để tìm hiểu thêm (mở trình duyệt web).</TranslationHowToContribute>
   <!-- EN: Learn more -->
@@ -207,7 +207,7 @@
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod cần định dạng đúng thông tin phiên bản được hỗ trợ trong About.xml. Chi tiết: {0} -  không được chấp nhận. Kiểm tra nhật ký để biết thêm thông tin.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Mod cần một packageId duy nhất, được định dạng chính xác trong About.xml. Nó phải đáp ứng các yêu cầu sau đây:\n\n  - Ký tự chữ và số và chỉ chấm.\n  - Không có khoảng trắng.\n  - Ít nhất một dấu chấm.\n  - Không có dấu chấm lặp lại trong một hàng, hoặc bắt đầu hoặc kết thúc bằng dấu chấm.\n  - 60 ký tự trở xuống.\n  - Không thể chứa từ "Ludeon".\n\nVí dụ:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Mod cần một packageId duy nhất, được định dạng chính xác trong About.xml. Nó phải đáp ứng các yêu cầu sau đây:\n\n  - Ký tự chữ và số và chỉ chấm.\n  - Không có khoảng trắng.\n  - Ít nhất một dấu chấm.\n  - Không có dấu chấm lặp lại trong một hàng, hoặc bắt đầu hoặc kết thúc bằng dấu chấm.\n  - 60 ký tự trở xuống.\n  - Không thể chứa từ "Ludeon".\n\nVí dụ:\nAuthorName.ModName\nAuthorName.ModName.Specific</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
   <ModHadLoadFolderIssues>Bản mod này có vấn đề trong LoadFolders.xml, mà bạn cần giải quyết trước khi tải lên:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
@@ -436,6 +436,8 @@
   <Next>Tiếp theo</Next>
   <!-- EN: Back -->
   <Back>Quay lại</Back>
+  <!-- EN: Show Materials -->
+  <ShowMaterials>TODO</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Cách chơi</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->

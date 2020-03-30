@@ -29,7 +29,7 @@
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ngồi gần [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
     <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
     <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
     <li>tamed->made calming noises towards</li>
@@ -53,7 +53,7 @@
   </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>nuzzle</Nuzzle.label>
+  <Nuzzle.label>nựng</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -82,33 +82,33 @@
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] cọ xát [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
     <li>nuzzled(p=2)->nuzzled</li>
-    <li>nuzzled->snuggled up to</li>
+    <li>nuzzled->rúc vào</li>
     <li>nuzzleadverb(p=4)-></li>
-    <li>nuzzleadverb->gently</li>
-    <li>nuzzleadverb->encouragingly</li>
-    <li>nuzzleadverb->happily</li>
-    <li>nuzzleadverb->softly</li>
-    <li>nuzzleadverb->supportively</li>
-    <li>nuzzleadverb->lightly</li>
-    <li>nuzzleadverb->warmly</li>
-    <li>nuzzleadverb->plaintively</li>
-    <li>nuzzleadverb->lovingly</li>
-    <li>nuzzleadverb->affectionately</li>
-    <li>rubbedpart->leg</li>
-    <li>rubbedpart->knee</li>
-    <li>rubbedpart->foot</li>
-    <li>rubbedpart->elbow</li>
-    <li>rubbedpart->hip</li>
-    <li>rubbedpart->shoulder</li>
-    <li>rubbedpart->hand</li>
-    <li>rubbedpart->side</li>
-    <li>rubbedpart->arm</li>
+    <li>nuzzleadverb->dịu dàng</li>
+    <li>nuzzleadverb->đáng khích lệ</li>
+    <li>nuzzleadverb->hạnh phúc</li>
+    <li>nuzzleadverb->nhẹ nhàng</li>
+    <li>nuzzleadverb->hỗ trợ</li>
+    <li>nuzzleadverb->nhẹ</li>
+    <li>nuzzleadverb->nồng nhiệt</li>
+    <li>nuzzleadverb->rõ ràng</li>
+    <li>nuzzleadverb->yêu thương</li>
+    <li>nuzzleadverb->trìu mến</li>
+    <li>rubbedpart->Chân</li>
+    <li>rubbedpart->đầu gối</li>
+    <li>rubbedpart->chân</li>
+    <li>rubbedpart->khuỷu tay</li>
+    <li>rubbedpart->hông</li>
+    <li>rubbedpart->vai</li>
+    <li>rubbedpart->tay</li>
+    <li>rubbedpart->bên</li>
+    <li>rubbedpart->cánh tay</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
-  <TameAttempt.label>tame attempt</TameAttempt.label>
+  <TameAttempt.label>cố gắng thuần hóa</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -127,10 +127,10 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
-    <li>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng để chế ngự [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng mang [RECIPIENT_nameDef] vào tầm kiểm soát.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng để tóm cổ [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đòi hỏi sự vâng lời từ [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</li>
     <li>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</li>
