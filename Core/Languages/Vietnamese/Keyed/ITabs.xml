@@ -97,7 +97,7 @@
   <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
   <PrisonBreakMTBDaysDescription>Số ngày trung bình của thời gian thực hiện các lần vượt ngục. Bị ảnh hưởng bởi tâm trạng, khả năng di chuyển và thời gian kể từ lần vượt ngục cuối cùng. \n\nSố này bỏ qua thời gian ngủ, vì vậy khoảng thời gian ở tù trung bình thực tế thường sẽ dài hơn.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>TODO</Never>
+  <Never>Không bao giờ</Never>
   <!-- EN: Slave price -->
   <SlavePrice>Giá nô lệ</SlavePrice>
   <!-- EN: Gets food -->
@@ -326,6 +326,6 @@
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
   <QuestDismissed>Nhiệm vụ này ở đây vì nó đã bị loại bỏ.\n\nBạn có thể hủy bỏ nó cho đến khi hết hạn.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
-  <DeleteQuest>TODO</DeleteQuest>
+  <DeleteQuest>Xóa vĩnh viễn nhiệm vụ này khỏi danh sách nhiệm vụ.</DeleteQuest>
 
 </LanguageData>

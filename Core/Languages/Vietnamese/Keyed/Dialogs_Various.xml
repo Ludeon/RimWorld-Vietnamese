@@ -531,7 +531,7 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Trở về chế độ trao thương.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>Chưa thể yêu cầu {FACTION_name} cử đoàn giao thương bởi {NEGOTIATOR_nameDef} chưa đạt được danh hiệu {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->

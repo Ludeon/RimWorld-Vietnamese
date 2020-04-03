@@ -105,7 +105,7 @@
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Hành động này sẽ khiến {PAWN_nameDef} mất chức vụ {PAWN_possessive} {TITLE}.Bạn sẽ không nhận được bồi thường cho việc từ bỏ chức vụ này.\n\nĐiều này sẽ có các hiệu ứng sau:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive} sẽ mất những quyền hạn sau:</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
   <UnknownLower>không rõ</UnknownLower>
   <!-- EN: On -->
@@ -459,7 +459,7 @@
   <!-- EN: {0} left -->
   <DurationLeft>còn {0}</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>TODO</AnyOf>
+  <AnyOf>Một trong</AnyOf>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1255,11 +1255,11 @@
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>TODO</Biocoded>
+  <Biocoded>Mã hóa sinh trắc {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>TODO</CodedFor>
+  <CodedFor>Đang mã hóa sinh trắc: {0}</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>Được mã hóa sinh trắc học</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
@@ -1267,12 +1267,12 @@
   <!-- EN: Intercepts {0} -->
   <InterceptsProjectiles>Chặn {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>đạn mặt đất</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>đạn trên không</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>TODO</AffectedGender>
+  <AffectedGender>Giới tính bị ảnh hưởng</AffectedGender>
   
 </LanguageData>

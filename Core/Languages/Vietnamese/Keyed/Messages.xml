@@ -470,7 +470,7 @@
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>đã lấy {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>TODO</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>đã loại bỏ {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
   <GoodwillChangedReason_DowngradedImplant>đã hạ cấp {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
@@ -502,11 +502,11 @@
   <!-- EN: sold {0_labelShort} -->
   <GoodwillChangedReason_SoldPawn>đã bán {0_labelShort}</GoodwillChangedReason_SoldPawn>
   <!-- EN: euthanized {PAWN_labelShort} -->
-  <GoodwillChangedReason_EuthanizedPawn>TODO</GoodwillChangedReason_EuthanizedPawn>
+  <GoodwillChangedReason_EuthanizedPawn>giết {PAWN_labelShort} một cách nhẹ nhàng</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>TODO</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>yêu cầu hỗ trợ quân sự</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
-  <GoodwillChangedReason_RequestedTrader>TODO</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_RequestedTrader>yêu cầu đoàn giao thương</GoodwillChangedReason_RequestedTrader>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} chấp nhận quà của bạn nhưng không có lời cảm ơn nào cả.</MessageGiftGivenButNotAppreciated>
