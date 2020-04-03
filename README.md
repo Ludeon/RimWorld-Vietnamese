@@ -14,7 +14,7 @@
         <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Ludeon/RimWorld-Vietnamese">
     </a> 
     <a href="https://github.com/Ludeon/RimWorld-Vietnamese/archive/master.zip">
-    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/Ludeon/RimWorld-Vietnamese?label=dev">
+    <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/KingCTer/RimWorld-Vietnamese?include_prereleases&label=dev">
     </a>     
     <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
         <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ludeon/RimWorld-Vietnamese?color=0&label=size">
