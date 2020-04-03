@@ -15,7 +15,7 @@
   <LetterRoyalTitleExpectation>{PAWN_possessive} kỳ vọng sẽ không bao giờ nhỏ hơn {1}.</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>TODO</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>Vì {PAWN_labelShort} là {1}, {PAWN_pronoun} sẽ yêu cầu các đặc quyền của tước hiệu này phải được tôn trọng đầy đủ. {PAWN_pronoun} có thể từ chối thực hiện một số loại công việc nhất định, ăn thực phẩm hạng thấp và ban hành nghị định.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort} đã nhận được tước hiệu {TITLE} từ {FACTION_name}!</LetterGainedRoyalTitle>
@@ -104,17 +104,17 @@
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
   <LetterFinishedSpeech>{ORGANIZER_labelShort} đã kết thúc bài phát biểu {ORGANIZER_possessive}.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
+  <LetterTerribleSpeech>Bài phát biểu thực sự tồi tệ - chỉ toàn những câu đùa vô duyên và những câu chuyện thô thiển được kể bằng giọng văn ấp úng.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>Bài phát biểu không có gì đặc sắc - giọng đọc đều đều, câu chuyện rườm rà và không có chút nhiệt huyết nào.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>Bài phát biểu có sức thuyết phục và đã truyền tải được thông điệp.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>Đó là một bài phát biểu đầy cảm hứng, truyền đạt </LetterInspirationalSpeech>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>TODO</LetterSpeechInterrupted>
+  <LetterSpeechInterrupted>Bởi vì bài phát biểu đã bị gián đoạn chỉ khi mới được {0}, nó không đạt hiệu quả cho lắm.</LetterSpeechInterrupted>
   <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
+  <LetterSpeechCancelled>Bài phát biểu của {ORGANIZER_bestRoyaltyTitleDef} đã bị hủy trước khi hoàn thành 50%. Nó không đạt được kết quả nào.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>Bài phát biểu bị hủy</LetterLabelSpeechCancelled>
 
@@ -125,10 +125,10 @@
   <LetterLabelRandomDecree>{0_nameIndef} ban hành nghị định</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>TODO</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef}, trong nỗ lực giải phóng căng thẳng {0_possessive}, đã ban hành một sắc lệnh hoàng gia thú tính và yêu cầu thực hiện.\n\nNếu không được thực hiện trong thời gian ngắn, {0_nameIndef} sẽ trở nên rất buồn phiền.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>TODO</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}, để khẳng định tước hiệu {0_possessive} của {0_bestRoyaltyTitleIndef}, đã ban hành một sắc lệnh và yêu cầu thực hiện.\n\nNếu không được thực hiện trong thời gian ngắn, {0_nameIndef} sẽ trở nên rất buồn phiền.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>Nghị định có tiêu đề "{0}".</LetterDecree_Quest>
   
