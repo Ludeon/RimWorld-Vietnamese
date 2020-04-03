@@ -35,7 +35,7 @@
   <!-- EN: Requires psychic amplifier -->
   <PsycastNeurotrainerNoPsychicAmplifier>Yêu cầu khuếch đại tâm linh</PsycastNeurotrainerNoPsychicAmplifier>
   <!-- EN: {USER_labelShort} already knows {1}. -->
-  <PsycastNeurotrainerAbilityAlreadyLearned>TODO</PsycastNeurotrainerAbilityAlreadyLearned>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} đã học {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor>Bất cứ ai chấp nhận nhiệm vụ sẽ nhận được {1} {0_royalFavorLabel} từ {0_name}</Reward_RoyalFavor>
@@ -44,10 +44,10 @@
   
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
-  <NotUsable>TODO</NotUsable>
+  <NotUsable>Không thể sử dụng</NotUsable>
   <!-- EN: unpowered -->
-  <Unpowered>TODO</Unpowered>
+  <Unpowered>Chưa cấp điện</Unpowered>
   <!-- EN: Too close to other beacon -->
-  <TooCloseToOtherBeacon>TODO</TooCloseToOtherBeacon>
+  <TooCloseToOtherBeacon>Quá gần các beacon khác</TooCloseToOtherBeacon>
   
 </LanguageData>

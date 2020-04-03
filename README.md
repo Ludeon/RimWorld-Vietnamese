@@ -38,7 +38,7 @@
 This is Vietnamese translation data for RimWorld.
 
 ### 1. Install this translation
-Tải về và giải nén trong RimWorld/Data
+Tải về và giải nén trong RimWorld/Mods
 
 ### 2. Bugs and errors report
 Vì bản dịch chưa hoàn thiện nên tạm thời chưa nhận phản hồi.
