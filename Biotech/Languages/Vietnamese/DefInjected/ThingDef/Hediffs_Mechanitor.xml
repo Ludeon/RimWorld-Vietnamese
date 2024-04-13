@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: control sublink (standard) -->
+  <ControlSublink.label>kiểm soát liên kết phụ (tiêu chuẩn)</ControlSublink.label>
+  <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
+  <ControlSublink.description>Một bộ phận cấy ghép thần kinh cung cấp cho mechanitor một nhóm kiểm soát bổ sung. Ngoài ra, liên kết phụ làm tăng nhẹ tốc độ làm việc của tất cả các mechanoids do mechanitor kiểm soát.\n\nLiên kết phụ cấp tiêu chuẩn này chỉ có thể tăng số lượng nhóm kiểm soát lên tối đa 3. Để tăng cao hơn, phải sử dụng bộ cấy ghép liên kết phụ cấp cao hơn. \n\nCó thể tự cài đặt mà không cần phẫu thuật.\n\nBộ phận cấy ghép này có thể được cài đặt tối đa 3 lần để tăng hiệu quả.</ControlSublink.description>
+  <!-- EN: Implant sublink -->
+  <ControlSublink.comps.CompUsableImplant.useLabel>Liên kết phụ cấy ghép</ControlSublink.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: control sublink (high) -->
+  <ControlSublinkHigh.label>kiểm soát liên kết phụ (cao) </ControlSublinkHigh.label>
+  <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
+  <ControlSublinkHigh.description>Một bộ phận cấy ghép thần kinh cung cấp cho mechanitor một nhóm kiểm soát bổ sung. Ngoài ra, liên kết phụ tăng nhẹ tốc độ làm việc của tất cả các mechanoids do mechanitor điều khiển.\n\nBộ cấy cấp cao này có thể tăng số nhóm điều khiển lên đến 6.\n\nNó có thể được cài đặt tự động mà không cần phẫu thuật.\n\nBộ cấy này có thể được cài đặt tối đa 3 lần để tăng hiệu quả của nó.</ControlSublinkHigh.description>
+  <!-- EN: Implant high sublink -->
+  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Cấy ghép liên kết phụ cao</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mech gestation processor -->
+  <MechFormfeeder.label>bộ xử lý nhân giống mech</MechFormfeeder.label>
+  <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
+  <MechFormfeeder.description>Bộ phận cấy ghép cho phép mechanitor tăng tốc độ sinh sản trong khi vận hành lồng ấp mech. Bộ xử lý này tối ưu hóa quy trình làm việc của lồng ấp cơ học. \n\nCó thể cài đặt bộ phận cấy ghép mà không cần phẫu thuật. \n\nCó thể cài đặt tối đa 6 lần để nâng cao hiệu quả.</MechFormfeeder.description>
+  <!-- EN: Implant {0_label} -->
+  <MechFormfeeder.comps.CompUsableImplant.useLabel>Bộ cấy {0_label}</MechFormfeeder.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mechlink -->
+  <Mechlink.label>mécalien</Mechlink.label>
+  <!-- EN: A bionic implant that allows direct control of mechanoids. Mechlinks are used by soldiers to control war mechs, and by workers to control labor mechs. A person with a mechlink is known as a mechanitor.\n\nMechlinks are self-installable. Pressed into the back of the throat, the unit injects itself through the flesh to clamp inside the base of the skull where it meets the spinal cord. There, it threads a web of ultrafine wires throughout nearby neuronal tissue to make the direct mental link between the user and the mechanoid control band.\n\nMechlinks are not simply devices for sending radio signals to mechanoids, because mechanoids are not merely robots. In addition to traditional computers, mechanoids have a dim psychic presence, so fluently controlling them requires a psychic connection. By linking mechanitor and mechanoid both psychically and electromagnetically, the mechlink permits deeper control than screen-and-button interfaces.\n\nSince the mechlink interlaces deep within the brain tissue, it can only be removed after death.\n\nNote: A mechanitor must be capable of smithing work to gestate mechanoids. -->
+  <Mechlink.description>Một bộ phận cấy ghép sinh học có thể được sử dụng để điều khiển trực tiếp cơ thể người máy. Trung tâm điều khiển máy móc thường được sử dụng cho binh lính điều khiển máy móc chiến tranh hoặc công nhân điều khiển máy móc lao động. Những người đưa vào và sử dụng những mô cấy này thường được gọi là thợ máy. \n\nCó thể tự cài đặt trung tâm điều khiển máy. Sau khi được ấn sâu vào cổ họng, chất cấy ghép sẽ tự tiêm qua các lớp cơ nơi đáy hộp sọ nối với cột sống. Sau đó, sử dụng kết nối siêu vi mô và mô thần kinh để tạo thành mạng cộng hưởng và thiết lập liên kết tâm linh trực tiếp giữa người dùng và bộ phận điều khiển của cơ thể máy móc. \n\nTrung tâm điều khiển máy móc không chỉ là một bộ truyền tín hiệu và cơ thể máy móc không chỉ là một rô-bốt đơn giản. Ngoại trừ năng lực tính toán máy truyền thống, cơ thể máy móc còn có biểu hiện thông minh tương tự như cảm xúc mơ hồ, vì vậy nếu muốn điều khiển cơ thể máy móc trơn tru, bạn cần sử dụng kết nối tinh thần. Do được liên kết đồng thời từ cả hai khía cạnh tinh thần và tín hiệu nên mối quan hệ giữa người thợ và cơ thể máy móc có chiều sâu hơn nhiều so với việc vận hành cỗ máy bằng màn hình và nút bấm. \n\nBởi vì mechlink được liên kết sâu bên trong hệ thống thần kinh nên nó chỉ có thể bị loại bỏ sau khi Thợ máy qua đời. \n\nLưu ý: Thợ máy phải có năng lực rèn mới có thể vận hành Vườn ươm thợ máy.</Mechlink.description>
+  <!-- EN: Install {0_label} to become mechanitor -->
+  <Mechlink.comps.CompUsableImplant.useLabel>Cài đặt {0_label} để trở thành mechanitor</Mechlink.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: remote repairer -->
+  <RemoteRepairer.label>sửa chữa từ xa</RemoteRepairer.label>
+  <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its range. -->
+  <RemoteRepairer.description>Một bản nâng cấp cơ học cho phép mechanitor sửa chữa mech từ xa. Người dùng liên kết với mechanoid và sử dụng bộ não của chính họ để hướng dẫn tâm lý cơ chế tự sửa chữa của họ.\n\nBộ phận cấy ghép này có thể tự lắp đặt mà không cần phẫu thuật.\n\nBộ phận cấy ghép này có thể được lắp đặt tối đa 3 lần để tăng phạm vi hoạt động.</RemoteRepairer.description>
+  <!-- EN: Implant {0_label} -->
+  <RemoteRepairer.comps.CompUsableImplant.useLabel>Bộ cấy {0_label}</RemoteRepairer.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: remote shielder -->
+  <RemoteShielder.label>lá chắn từ xa</RemoteShielder.label>
+  <!-- EN: An implant which allows the mechanitor to place a personal defense shield on a mech. The mechanitor must continuously focus on the mech in order to maintain the shield.\n\nPlacing a shield at a distance requires a substantial amount of focused energy. It can be used to save a mech at a critical moment.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 3 times to increase its range and shield energy. -->
+  <RemoteShielder.description>Một bộ phận cấy ghép cho phép mechanitor đặt lá chắn phòng thủ cá nhân lên mech. mechanitor phải liên tục tập trung vào mech để duy trì khiên.\n\nĐặt khiên từ xa cần một lượng năng lượng đáng kể. Nó có thể được sử dụng để cứu một cơ giáp vào thời điểm quan trọng.\n\nBộ phận cấy ghép này có thể được lắp đặt theo cách tương tự như bộ phận cấy ghép.\n\nBộ phận cấy ghép này có thể được lắp đặt tối đa 3 lần để tăng phạm vi và lá chắn năng lượng của nó.</RemoteShielder.description>
+  <!-- EN: Implant {0_label} -->
+  <RemoteShielder.comps.CompUsableImplant.useLabel>Bộ cấy {0_label}</RemoteShielder.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: repair probe -->
+  <RepairProbe.label>sửa chữa đầu dò</RepairProbe.label>
+  <!-- EN: An implant which increases the speed at which a mechanitor can repair a mechanoid. This does not affect the overall energy needed to repair a mechanoid.\n\nThe implant allows the mechanitor to plug directly into a mechanoid while they are repairing it. This allows them to more quickly understand the mech's injuries, and better-direct the mech's self-repair mechanites to assist with the repair.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
+  <RepairProbe.description>Một bộ cấy làm tăng tốc độ mà một mechanitor có thể sửa chữa một mechanoid. Điều này không ảnh hưởng đến tổng năng lượng cần thiết để sửa chữa một mechanoid.\n\nBộ phận cấy ghép cho phép mechanitor cắm trực tiếp vào một mechanoid trong khi sửa chữa nó. Điều này cho phép họ hiểu vết thương của cơ khí nhanh hơn và định hướng tốt hơn cơ chế tự sửa chữa của cơ khí để hỗ trợ việc sửa chữa.\n\nBộ phận cấy ghép này có thể được tự lắp đặt giống như cách của cơ khí.\n\nCó thể lắp đặt bộ phận cấy ghép này lên đến 6 lần để tăng tác dụng của nó.</RepairProbe.description>
+  <!-- EN: Implant {0_label} -->
+  <RepairProbe.comps.CompUsableImplant.useLabel>Bộ cấy {0_label}</RepairProbe.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

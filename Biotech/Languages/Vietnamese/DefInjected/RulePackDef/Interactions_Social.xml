@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>situation(p=2)->safely</li>
+    <li>situation->at night</li>
+    <li>situation->in the cold</li>
+    <li>situation->while injured</li>
+    <li>situation(p=0.2)->while drunk</li>
+  -->
+  <LessonInteractionCommonSituations.rulePack.rulesStrings>
+    <li>situation(p=2)->an toàn</li>
+    <li>situation->vào buổi tối</li>
+    <li>situation->trong cơn giá lạnh</li>
+    <li>situation->trong khi bị thương</li>
+    <li>situation(p=0.2)->trong khi say rượu</li>
+  </LessonInteractionCommonSituations.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_adverb] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
+  -->
+  <LessonInteractionHowTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_verb] thàng [RECIPIENT_nameDef] [teach_adverb] cách [action] [article_tool].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [teach_verb] cách [action] [article_tool] thành [RECIPIENT_nameDef].</li>
+  </LessonInteractionHowTo.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] on [action_gerund] [article_tool] [situation].</li>
+    <li>teach_test->quizzed</li>
+    <li>teach_test->tested</li>
+    <li>teach_test->grilled</li>
+    <li>teach_test->cross-examined</li>
+  -->
+  <LessonInteractionQuiz.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] on [action_gerund] [article_tool] [situation].</li>
+    <li>teach_test->yêu cầu</li>
+    <li>teach_test->tested</li>
+    <li>teach_test->grilled</li>
+    <li>teach_test->cross-examined</li>
+  </LessonInteractionQuiz.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
+    <li>study_verb->covered</li>
+    <li>study_verb->went over</li>
+    <li>study_verb->researched</li>
+    <li>study_verb->studied</li>
+  -->
+  <LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [study_verb] [teach_adverb] [subject] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
+    <li>study_verb->thực hành</li>
+    <li>study_verb->Xem lại</li>
+    <li>study_verb->nghiên cứu</li>
+    <li>study_verb->đã học</li>
+  </LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>teach_adverb->calmly</li>
+    <li>teach_adverb->animatedly</li>
+    <li>teach_adverb->intently</li>
+    <li>teach_adverb->quickly</li>
+    <li>teach_adverb->lightheartedly</li>
+    <li>teach_adverb->carefully</li>
+  -->
+  <LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+    <li>teach_adverb->bình tĩnh</li>
+    <li>teach_adverb->sống động</li>
+    <li>teach_adverb->chăm chú</li>
+    <li>teach_adverb->liên tục</li>
+    <li>teach_adverb->dễ dàng</li>
+    <li>teach_adverb->cẩn thận</li>
+  </LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>teach_verb->demonstrated</li>
+    <li>teach_verb->explained</li>
+    <li>teach_verb->showed</li>
+    <li>teach_verb->taught</li>
+  -->
+  <LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+    <li>teach_verb->Tranh luận</li>
+    <li>teach_verb->Giải thích</li>
+    <li>teach_verb->trình diễn</li>
+    <li>teach_verb->dạy</li>
+  </LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
+    <li>talk_verb->talked about</li>
+    <li>talk_verb->gave an overview of</li>
+    <li>talk_verb->gave a summary of</li>
+    <li>talk_verb->lectured about</li>
+  -->
+  <LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
+    <li>talk_verb->đã nói về</li>
+    <li>talk_verb->đưa ra cái nhìn tổng quan về</li>
+    <li>talk_verb->tóm tắt về</li>
+    <li>talk_verb->giảng về</li>
+  </LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>thú thuần hóa</Animals.label>
+  <Animals.label>thú nuôi</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
   <Animals.description>Định hình cách quản lý động vật đã thuần hóa của cư dân.</Animals.description>
   
@@ -44,13 +44,13 @@
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>Kiểm tra và quyết định các dự án nghiên cứu.</Research.description>
   
-  <!-- EN: restrict -->
-  <Restrict.label>hạn chế</Restrict.label>
-  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
-  <Restrict.description>Hạn chế cư dân làm một số hoạt động vào những thời điểm nhất định trong ngày, hoặc đến những khu vực được phép cụ thể.</Restrict.description>
+  <!-- EN: schedule -->
+  <Schedule.label>lịch trình</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>Lên lịch các hoạt động của những người thuộc địa vào những thời điểm nhất định trong ngày và thiết lập các khu vực được phép của họ.</Schedule.description>
   
   <!-- EN: wildlife -->
-  <Wildlife.label>thú hoang dã</Wildlife.label>
+  <Wildlife.label>thú hoang</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
   <Wildlife.description>Liệt kê động vật hoang dã trong khu vực và chỉ định chúng để săn bắn hoặc thuần hóa.</Wildlife.description>
   

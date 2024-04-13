@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large mech gestator -->
+  <LargeMechGestator.label>lồng ấp mech lớn</LargeMechGestator.label>
+  <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This tier of mech gestator is capable of generating medium, heavy, and ultraheavy mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
+  <LargeMechGestator.description>Một cabin chứa đầy chất lỏng cơ học vi mô đặc biệt được sử dụng để sản xuất hoặc hồi sinh mechanitor, đồng thời kết nối với một số đường ống hỗ trợ sự sống để vận chuyển vật liệu và chất dinh dưỡng. Một lò ấp Mechanitors ở quy mô này có thể được sử dụng để hồi sinh và sản xuất các Mechanitors cỡ trung bình, hạng nặng và thậm chí siêu nặng.\n\nDo sử dụng hóa chất mạnh trong quá trình sản xuất. Do đó, những người định cư phải vận chuyển các chất ô nhiễm độc hại mà họ tạo ra theo thời gian và đặt chúng đúng cách.</LargeMechGestator.description>
+  
+  <!-- EN: mech gestator -->
+  <MechGestator.label>lồng ấp mech</MechGestator.label>
+  <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This basic type of mech gestator is only capable of generating light-weight mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
+  <MechGestator.description>Một cabin chứa đầy chất lỏng cơ học vi mô đặc biệt được sử dụng để sản xuất hoặc hồi sinh mechanitor, đồng thời kết nối với một số đường ống hỗ trợ sự sống để vận chuyển vật liệu và chất dinh dưỡng. Một lò ấp Mechanitors ở quy mô này có thể được sử dụng để hồi sinh và sản xuất các Mechanitors cỡ trung bình, hạng nặng và thậm chí siêu nặng.\n\nDo sử dụng hóa chất mạnh trong quá trình sản xuất. Do đó, những người định cư phải vận chuyển các chất ô nhiễm độc hại mà họ tạo ra theo thời gian và đặt chúng đúng cách.</MechGestator.description>
+  
+  <!-- EN: subcore encoder -->
+  <SubcoreEncoder.label>bộ mã hóa lõi phụ</SubcoreEncoder.label>
+  <!-- EN: A work station where a mechanitor can produce basic-tier subcores. Subcores are the brains of mechanoids, and one is required to produce any mechanoid. Basic subcores can only be used in simple basic-tier mechs.\n\nHigher tier subcores can be created by building a subcore softscanner or a subcore ripscanner. -->
+  <SubcoreEncoder.description>Bàn làm việc mà mechanitor sử dụng để chế tạo Lõi phụ cơ bản. Lõi thứ cấp là nguồn ý thức của mechanitor và lõi thứ cấp là bắt buộc để sản xuất bất kỳ mechanitor. Các lõi thứ cấp cơ bản chỉ có thể được sử dụng để cung cấp năng lượng cho các mechanitor nhẹ. \n\nCác Lõi phụ cấp cao hơn cần được chế tạo bằng Máy quét ly giải hoặc Máy quét bẻ khóa.</SubcoreEncoder.description>
+  
+  <!-- EN: subcore ripscanner -->
+  <SubcoreRipscanner.label>máy quét ly giải</SubcoreRipscanner.label>
+  <!-- EN: A pod with thousands of tissue probe injectors and an ultra-high-power vaporizing brain scanner. Once a person is inserted, the device will insert the probes into their body through the skin while the ripscanner chews through the brain, reading the reflected radiation and destroying the brain in the process. Ripscanning the mind generates a neuro-psychic pattern that the scanner can analog-transfer to a new high-tier mechanoid subcore.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. High-tier subcores produced by this ripscanner can only power high-tier mechanoids. -->
+  <SubcoreRipscanner.description>Một viên nang chứa hàng ngàn đầu dò mô cực nhỏ và máy quét ly giải công suất cao. Thiết bị sẽ nhận biết và học mô hình ý thức thần kinh của bộ não của thực dân được quét thông qua các đầu dò mô và quét phân tách, đồng thời nhập mô hình này vào lõi thứ cấp tiên tiến. Trong khi đó, những người thuộc địa bị quét chết ngay lập tức vì cuộc quét hủy diệt này. \n\nLõi phụ là nguồn ý thức của mechanoid và cần có lõi phụ để tạo bất kỳ mechanoid nào. Các lõi thứ cấp cấp cao chỉ có thể được sử dụng để điều khiển các mechanoid hạng nặng hoặc thậm chí siêu nặng.</SubcoreRipscanner.description>
+  
+  <!-- EN: subcore softscanner -->
+  <SubcoreSoftscanner.label>máy quét vi sai</SubcoreSoftscanner.label>
+  <!-- EN: A pod with thousands of tiny tissue probes and a high-energy brain scanner. Once a person is inserted, the system uses the probes and scanner to sense a neuro-psychic pattern that it can analog-transfer to a new standard-tier mechanoid subcore. The person will be left temporarily sick, but unharmed.\n\nSubcores are mechanoid brains and producing any mechanoid requires one. Standard-tier subcores produced by this softscanner can only power standard-tier mechanoids.\n\nHigher tier subcores can be created by building a subcore ripscanner. -->
+  <SubcoreSoftscanner.description>Một nhóm chứa hàng nghìn đầu dò mô nhỏ và máy quét công suất cao. Thiết bị này học một mô hình thần kinh có ý thức về não của thực dân được quét thông qua các đầu dò mô và quét vi sai, đồng thời đưa mô hình này vào lõi thứ cấp tiêu chuẩn. Những cư dân được quét sẽ bị ốm tạm thời. \n\nLõi phụ là nguồn ý thức của mechanoid và cần có lõi phụ để tạo bất kỳ mechanoid nào. Các lõi thứ cấp tiêu chuẩn chỉ có thể được sử dụng để cung cấp năng lượng cho các mechanoids cỡ trung bình. \n\nCác Lõi phụ cấp cao hơn cần được chế tạo bằng máy quét ly giải.</SubcoreSoftscanner.description>
+  
+</LanguageData>

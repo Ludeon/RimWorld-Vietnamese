@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Recieved {TITLE} title -->
-  <GainedTitle.stages.Recieved_title.label>TODO</GainedTitle.stages.Recieved_title.label>
-  <!-- EN: I was entitled as {TITLE}. It's good to have my stature recognized. -->
-  <GainedTitle.stages.Recieved_title.description>TODO</GainedTitle.stages.Recieved_title.description>
+  <!-- EN: Received {TITLE} title -->
+  <GainedTitle.stages.Received_title.label>Đã nhận được danh hiệu {TITLE}</GainedTitle.stages.Received_title.label>
+  <!-- EN: I have been given the title of {TITLE}. I love the recognition! -->
+  <GainedTitle.stages.Received_title.description>Tôi đã được trao danh hiệu {TITLE}. Tôi yêu sự công nhận!</GainedTitle.stages.Received_title.description>
   
   <!-- EN: Lost {TITLE} title -->
-  <LostTitle.stages.Lost_title.label>TODO</LostTitle.stages.Lost_title.label>
+  <LostTitle.stages.Lost_title.label>Mất danh hiệu {TITLE}</LostTitle.stages.Lost_title.label>
   <!-- EN: I lost my {TITLE} title. -->
-  <LostTitle.stages.Lost_title.description>TODO</LostTitle.stages.Lost_title.description>
+  <LostTitle.stages.Lost_title.description>Tôi đã mất danh hiệu {TITLE} của mình.</LostTitle.stages.Lost_title.description>
   
-  <!-- EN: want {TITLE}-quality apparel -->
-  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>TODO</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
-  <!-- EN: A {TITLE} like myself should only wear apparel of {QUALITY} quality or better. -->
-  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>TODO</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
+  <!-- EN: want {TITLE_label}-quality apparel -->
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>muốn {TITLE_label} - quần áo chất lượng</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
+  <!-- EN: {TITLE_indefinite} like myself should only wear apparel of {QUALITY} quality or better. -->
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>{TITLE_indefinite} như tôi chỉ nên mặc quần áo có chất lượng {QUALITY} trở lên.</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
   
-  <!-- EN: want {TITLE}-specific apparel -->
-  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>TODO</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
-  <!-- EN: A {TITLE} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
-  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>TODO</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+  <!-- EN: want {TITLE_label}-specific apparel -->
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>muốn {TITLE_label} - trang phục cụ thể</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
+  <!-- EN: {TITLE_indefinite} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>{TITLE_indefinite} như tôi nên mặc trang phục phù hợp với tầm vóc của mình:\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
   
   <!-- EN: undignified bedroom -->
-  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>TODO</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
-  <!-- EN: A {TITLE} like myself deserves a bedroom that meets these requirements:\n\n{0} -->
-  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>TODO</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>phòng ngủ không đàng hoàng</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
+  <!-- EN: {TITLE_indefinite} like myself deserves a bedroom that meets these requirements:\n\n{0} -->
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>{TITLE_indefinite} như tôi xứng đáng có một phòng ngủ đáp ứng các yêu cầu sau:\n\n{0}</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
   
   <!-- EN: no personal bedroom -->
-  <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>TODO</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
-  <!-- EN: A {TITLE} should not share space with commoners. -->
-  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>TODO</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>không có phòng ngủ cá nhân</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
+  <!-- EN: {TITLE_indefinite} should have a personal bedroom. -->
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE_indefinite} nên có phòng ngủ cá nhân.</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
   
   <!-- EN: no throne room -->
-  <TitleNoThroneRoom.stages.no_throne_room.label>TODO</TitleNoThroneRoom.stages.no_throne_room.label>
+  <TitleNoThroneRoom.stages.no_throne_room.label>không có ngai vàng</TitleNoThroneRoom.stages.no_throne_room.label>
   <!-- EN: What is a royal with no throneroom? -->
-  <TitleNoThroneRoom.stages.no_throne_room.description>TODO</TitleNoThroneRoom.stages.no_throne_room.description>
+  <TitleNoThroneRoom.stages.no_throne_room.description>Hoàng gia không có ngai vàng là gì?</TitleNoThroneRoom.stages.no_throne_room.description>
   
   <!-- EN: undignified throneroom -->
-  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>TODO</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
-  <!-- EN: I am a {TITLE} and I should have these items in my throneroom:\n\n{0} -->
-  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>TODO</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>ngai vàng không đàng hoàng</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
+  <!-- EN: I am {TITLE_indefinite} and I should have these items in my throneroom:\n\n{0} -->
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>Tôi là {TITLE_indefinite} và tôi nên có những vật phẩm này trong ngai vàng của mình:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
   
 </LanguageData>

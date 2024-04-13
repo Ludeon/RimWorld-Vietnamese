@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <ManhunterOnDamageChance.headerTip>Khả năng sinh vật này sẽ tấn công khi bị hại.\n\nCơ hội này tăng lên đến ba lần nếu kẻ tấn công ở gần hơn.\n\nCơ hội này được áp dụng mỗi khi gây sát thương. Điều này có nghĩa là những vũ khí bắn chậm hơn, sát thương cao hơn sẽ ít có khả năng kích hoạt nó hơn trong khi đi săn.</ManhunterOnDamageChance.headerTip>
+  
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <ManhunterOnTameFailChance.headerTip>Cơ hội mà sinh vật này sẽ tấn công khi một người thuần hóa cố gắng thuần hóa nó và không thành công.</ManhunterOnTameFailChance.headerTip>
+  
+</LanguageData>

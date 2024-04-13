@@ -8,15 +8,15 @@
   <HigherPriority>ưu tiên cao hơn</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>ưu tiên thấp hơn</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
   <RelevantSkills>Kỹ năng liên quan: {0}\nCấp độ kỹ năng liên quan: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Bấm để nhảy tới:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
   <CannotDoThisWork>{1_labelShort} không thể làm công việc này</CannotDoThisWork>
   <!-- EN: (none) -->
-  <NoneBrackets>(none)</NoneBrackets>
-  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
+  <NoneBrackets>(không)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>Cư dân này không thể làm bất kỳ công việc nào thuộc loại này vì tình trạng sức khỏe của anh ta.</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
@@ -34,10 +34,16 @@
   <Priority3>Ưu tiên bình thường</Priority3>
   <!-- EN: Low priority -->
   <Priority4>Ưu tiên thấp</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\nPhe phái {1_nameDef} hiện thuộc về.\n\nNhấp để xem phe phái.</PawnFactionInfo>
+  <!-- EN: Disabled by {0} backstory -->
+  <WorkDisabledByBackstory>Bị vô hiệu hóa bởi câu chuyện: {0}</WorkDisabledByBackstory>
+  <!-- EN: Disabled by {0} trait -->
+  <WorkDisabledByTrait>Bị vô hiệu hóa bởi đặc điểm: {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest '{0}' -->
+  <WorkDisabledByQuest>Bị vô hiệu hóa bởi nhiệm vụ: {0}</WorkDisabledByQuest>
   
   <!-- Assign tab -->
-  <!-- EN: Manage outfits -->
-  <ManageOutfits>Quản lý trang phục</ManageOutfits>
   <!-- EN: Unchangeable -->
   <Unchangeable>Không thể thay đổi</Unchangeable>
   <!-- EN: Clr. forced -->
@@ -48,18 +54,22 @@
   <ApparelLockedLower>bị khóa</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Trang phục bắt buộc</ForcedApparel>
-  <!-- EN: Edit... -->
+  <!-- EN: Edit -->
   <AssignTabEdit>Chỉnh...</AssignTabEdit>
+  <!-- EN: Manage apparel policies -->
+  <ManageApparelPolicies>TODO</ManageApparelPolicies>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Quản lý chính sách thuốc</ManageDrugPolicies>
-  <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>Quản lý hạn chế thực phẩm</ManageFoodRestrictions>
+  <!-- EN: Manage food policies -->
+  <ManageFoodPolicies>TODO</ManageFoodPolicies>
+  <!-- EN: Manage reading policies -->
+  <ManageReadingPolicies>TODO</ManageReadingPolicies>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>Copy</Copy>
+  <Copy>Sao chép</Copy>
   <!-- EN: Paste -->
-  <Paste>Paste</Paste>
+  <Paste>Dán</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>Khu vực được phép</AllowedArea>
   
@@ -70,6 +80,10 @@
   <PregnantIconDesc>Có thai ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>Liên kết với</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>Triệt sản động vật.</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>Động vật vô tính.</AnimalAlreadySterile>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
@@ -82,14 +96,20 @@
   <Hostile>Thù địch</Hostile>
   <!-- EN: Ally -->
   <Ally>Đồng minh</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>thù dịch</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>đồng minh</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>đánh bại</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Kẻ thù của {0}</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Kẻ thù của:</EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Thiện chí hiện tại và tình trạng quan hệ với phe này.</CurrentGoodwillTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>Sự kiện gần đây</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>Các sự kiện đang diễn ra</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Phe này là thù địch vĩnh viễn. Họ sẽ đột kích các khu định cư và đoàn lữ hành của bạn. Quan hệ với họ sẽ không bao giờ cải thiện vì bất kỳ lý do.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -98,9 +118,7 @@
   <CurrentGoodwillTip_Neutral>Phe này là trung lập. Họ sẽ giao dịch và nói chuyện với bạn một cách tự do. Nếu quan hệ giảm xuống dưới {0}, chúng sẽ trở thành thù địch. Nếu quan hệ tăng lên trên {1}, họ sẽ trở thành đồng minh và bắt đầu tích cực làm việc để giúp bạn.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Phe này là thù địch. Họ sẽ đột kích các khu định cư và đoàn lữ hành của bạn. Nếu quan hệ tăng lên trên {0}, chúng sẽ trở thành trung lập.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Phe này có phạm vi thiện chí tự nhiên từ {0} đến {1}. Nếu thiện chí kết thúc {1}, nó sẽ giảm {3} mỗi ngày. Nếu thiện chí dưới {0}, nó sẽ tăng {2} mỗi ngày.</CurrentGoodwillTip_NaturalGoodwill>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Bạn bè</Friend>
@@ -170,8 +188,10 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Nghiên cứu</Research>
-  <!-- EN: Researched -->
-  <Researched>Đã nghiên cứu</Researched>
+  <!-- EN: Study -->
+  <Study>Học tập</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>Học tập {0}</StudyThing>
   <!-- EN: Unresearched -->
   <Unresearched>Chưa nghiên cứu</Unresearched>
   <!-- EN: Finished -->
@@ -180,14 +200,24 @@
   <InProgress>Trong quá trình</InProgress>
   <!-- EN: Locked -->
   <Locked>Đã khóa</Locked>
-  <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Yêu cầu để nghiên cứu</ResearchPrerequisites>
+  <!-- EN: Prerequisites -->
+  <Prerequisites>TODO</Prerequisites>
   <!-- EN: Techprints required {0} / {1} -->
-  <ResearchTechprintRequirement>Techprints required {0} / {1}</ResearchTechprintRequirement>
+  <ResearchTechprintRequirement>Yêu cầu bản thiết kế {0} / {1}</ResearchTechprintRequirement>
   <!-- EN: Insufficient techprints applied ({0} / {1}) -->
-  <InsufficientTechprintsApplied>Áp dụng chưa đủ đủ các bản kỹ thuật được ({0} / {1})</InsufficientTechprintsApplied>
+  <InsufficientTechprintsApplied>Không đủ bản thiết kế để áp dụng ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>Điều kiện tiên quyết chưa hoàn thành</PrerequisitesNotCompleted>
+  <!-- EN: No project active. -->
+  <NoProjectSelected>TODO</NoProjectSelected>
+  <!-- EN: Active projects -->
+  <ActiveProjectPlural>TODO</ActiveProjectPlural>
+  <!-- EN: Active project -->
+  <ActiveProject>TODO</ActiveProject>
+  <!-- EN: Stop research -->
+  <StopResearch>TODO</StopResearch>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>Thiếu cơ sở nghiên cứu cần thiết</MissingRequiredResearchFacilities>
   <!-- EN: Required research bench -->
   <RequiredResearchBench>Yêu cầu có bàn nghiên cứu</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
@@ -195,9 +225,21 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Chi phí cơ sở dự án {0} trở thành {1} cho bạn vì cấp công nghệ của bạn.</ResearchCostComparison>
   <!-- EN: Techprints are available from these factions via trade and quests: -->
-  <ResearchTechprintsFromFactions>Techprints có sẵn từ các phe phái này thông qua thương mại và nhiệm vụ:</ResearchTechprintsFromFactions>
+  <ResearchTechprintsFromFactions>Bản thiết kế có sẵn từ các phe phái này thông qua thương mại và nhiệm vụ:</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>Cấp độ công nghệ phe nhóm của bạn là {0}, nhưng cấp độ công nghệ của dự án này là {1}. Tốc độ nghiên cứu sẽ được nhân với {2}.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>Mở khóa với</UnlockedWith>
+  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <UnknownResearchDescription>TODO</UnknownResearchDescription>
+  <!-- EN: unknown -->
+  <UnknownResearch>TODO</UnknownResearch>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>Bè phái</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>Không có phe phái nào được biết đến</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -224,6 +266,10 @@
   <QuestExpiresIn>Hết hạn trong {0}</QuestExpiresIn>
   <!-- EN: Expires on {0} -->
   <QuestExpiresOn>Hết hạn vào {0}</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>Tâm trạng khách trung bình (trước {0}): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>Tâm trạng trung bình của {0} so với {1} trước đó</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Tàu con thoi đến trong {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -232,18 +278,28 @@
   <ShuttleDepartsIn>Tàu con thoi khởi hành trong {0}</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>Tàu con thoi khởi hành vào {0}</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>Khách khởi hành sau {0}</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>Khách khởi hành vào {0}</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>Đã hoàn thành {0} trước</QuestFinishedAgo>
   <!-- EN: Accept quest -->
   <AcceptQuest>Chấp nhận nhiệm vụ</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>Chấp nhận với {0_labelShort}</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>Xác nhận\nphần thưởng</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>Nhấn vào đây để chấp nhận nhiệm vụ với phần thưởng sẽ nhận này.</AcceptQuestForTip>
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>Ưu đãi đã hết hạn.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
   <QuestOutcomeInfo_UnknownOrSuccess>Bạn đã hoàn thành nhiệm vụ này.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
   <QuestOutcomeInfo_Failed>Bạn đã không hoàn thành nhiệm vụ này.</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>Nhiệm vụ này là không hợp lệ trước khi nó được chấp nhận.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>Nhảy tới {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
@@ -256,15 +312,72 @@
   <QuestBedroomRequirementsUnsatisfied>phòng ngủ đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>một phòng ngủ khả dụng đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfiedSingle>
-  <!-- EN: a colonist with the title of {0}. -->
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>phòng ngai vàng đáp ứng các yêu cầu của danh hiệu {TITLE} của {PAWN_definite}</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>phòng ngai vàng đáp ứng các yêu cầu của danh hiệu {TITLE} của {PAWN_definite}</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>một cư dân với chức vị {0}.</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>{PAWN_definite} ở thuộc địa nhà bạn</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>bản đồ sạch bóng kẻ thù của phe người giỏi nhất</QuestRequiresNoDangerOnMap>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>kết thúc buổi lễ trao tặng để hoàn thành nhiệm vụ</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>Phần thưởng ưu đãi</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>Nói với các phe phái khác những loại phần thưởng bạn muốn trong các nhiệm vụ trong tương lai. Điều này không ảnh hưởng đến các nhiệm vụ đã được cung cấp.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Chấp nhận {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
   <AcceptRoyalFavorDesc>Bạn muốn được thưởng {FACTION_royalFavorLabel} từ {FACTION_name}.\n\nNếu điều này bị vô hiệu hóa, {FACTION_name} sẽ cung cấp các loại phần thưởng khác thay thế.\n\nCài đặt này chỉ ảnh hưởng đến các nhiệm vụ mới đến.</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>Chấp nhận thiện chí</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>Cho dù bạn muốn được thưởng thông qua các mối quan hệ phe phái được cải thiện với {FACTION_name}.\n\nNếu điều này bị vô hiệu hóa, {FACTION_name} sẽ cung cấp các loại phần thưởng khác thay thế.\n\nCài đặt này chỉ ảnh hưởng đến các nhiệm vụ mới được tạo.</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
   <RoyalFavorOn>Bạn hiện đang chọn tham gia để nhận {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
   <RoyalFavorOff>Bạn hiện đang từ chối nhận {FACTION_royalFavorLabel}.</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>Thiện chí của bạn với {0_name} sẽ được cải thiện bởi {1}.\n\nThiện chí hiện tại: {4} ({5}).\n\nTốt sẽ đo lường mối quan hệ chung giữa các phe phái. Nếu nó rơi xuống dưới {2}, phe này trở nên thù địch và sẽ đột kích vào các khu định cư và đoàn lữ hành của bạn. Nếu nó tăng lên trên {3}, phe sẽ trở thành đồng minh của bạn và gửi chiến binh để giúp bạn khi họ có thể. Nếu không, phe vẫn trung lập và sẽ giao dịch và nói chuyện với bạn một cách tự do.</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort} gia nhập</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>Đề nghị phản bội: {0} mục tiêu vẫn còn</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>{0} sẽ cấp cho bạn phần thưởng khi giết tất cả thành viên của {1}.</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>thuộc địa của cải ít nhất là {0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>liên minh với {0}</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>thù địch với {0}</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>trung lập với {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>đã học {0_labelShort}</QuestRequiredThingStudied>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>Cần tạo</CreatesNeed>
+  <!-- EN: Change defaults... -->
+  <ChangeDefaults>TODO</ChangeDefaults>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>Click để tùy chỉnh</ClickToEdit>
+  <!-- EN: Assign -->
+  <AssignButton>TODO</AssignButton>
+  <!-- EN: Unassign -->
+  <UnassignButton>TODO</UnassignButton>
+  
+  <!-- Books -->
+  <!-- EN: Mental break chance -->
+  <BookMentalBreakChance>TODO</BookMentalBreakChance>
+  
+  <!-- EN: Recreation gain multiplier -->
+  <BookJoyFactor>TODO</BookJoyFactor>
   
 </LanguageData>

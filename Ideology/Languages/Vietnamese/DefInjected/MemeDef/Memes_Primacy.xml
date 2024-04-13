@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human primacy -->
+  <HumanPrimacy.label>tính siêu việt của con người</HumanPrimacy.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <HumanPrimacy.description>Con người là trung tâm của vũ trụ</HumanPrimacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</li>
+    <li>intro(tag=meme_HumanPrimacy)           ->The first crashlanded settlers of the [place_summary] [place_name] were beset by manhunting [Animal]s. [deity0_name] intervened, slaying the beasts and making clear [deity0_possessive] preference for the human race.</li>
+    <li>conflict(tag=meme_HumanPrimacy)        ->An anti-human [foeLeader] made an edict giving some equal rights to both animals and humans. [deity0_name] wept as the [memberNamePlural] were forced to give their rights to [Animal]s and [Animal]s.</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     ->A [place_job] named [founderName] founded the now-famous xeno-zoo on [place_name]. [founder_pronoun] used animal slaughter performances to teach visitors about [deity0_name]'s desire for humanity to rule nature.</li>
+    <li>victory(tag=meme_HumanPrimacy)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their shared humanity with the [memberNamePlural] and banished the [foeLeader] to live in the wilderness like an animal.</li>
+    <li>setup(tag=meme_HumanPrimacy)           ->[founderName] built a colony on a green world, spreading the dominion of humanity over every field and forest.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    ->Once, [founderName] saw a dog growl at a boy. [founder_pronoun] ordered the dog killed on the spot.</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         ->I visited a well-run farm full of healthy animals and thriving crops. Beside it was a forest in its natural state, gnarled and vicious. It was obvious that</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->human beings alone are what give meaning to the universe</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->nature is an endless frenzy of immoral destruction, and humans are the solution</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy) ->If the contest is survival of the fittest, then we have clearly won.</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)    ->Archotechs are machines of vast will and power, but only humanity could create them.</li>
+    <li>archistFact(tag=meme_HumanPrimacy)     ->Humans are the device-makers, and the archotechs are their devices.</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], by observing humanity, the archotechs will finally understand their purpose, and lift confident humanity up to rule them.</li>
+    <li>animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</li>
+  -->
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] đã tạo ra tất cả thiên nhiên, và trao nó cho con người như một món quà, để phục vụ con người và các mục đích của con người mãi mãi.</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)  ->Dân chúng đã chiến đấu với thú rừng, và [deity0_name] đã nhìn thấy cuộc đấu tranh của họ, và cho họ vũ khí để kiểm soát thiên nhiên.</li>
+    <li>intro(tag=meme_HumanPrimacy)           ->Những người định cư bị rơi đầu tiên của [place_summary] [place_name] bị bao vây bởi sự săn lùng [Animal]. [deity0_name] đã can thiệp, giết chết những con quái vật và thể hiện rõ ràng sở thích của [deity0_possessive] đối với loài người.</li>
+    <li>conflict(tag=meme_HumanPrimacy)        ->Một kẻ phản nhân loại [foeLeader] đưa ra một sắc lệnh trao một số quyền bình đẳng cho cả động vật và con người. [deity0_name] khóc như [memberNamePlural] buộc phải trao quyền của họ cho [Animal] và [Animal].</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     ->Một [place_job] đặt tên[founderName] thành lập sở thú xeno nổi tiếng hiện nay trên [place_name]. [founder_pronoun] đã sử dụng các màn trình diễn giết mổ động vật để dạy cho du khách về mong muốn của [deity0_name] đối với loài người để thống trị thiên nhiên.</li>
+    <li>victory(tag=meme_HumanPrimacy)         ->Bởi vì [founderName] hành động của [foeLeader] là [foeSoldiers] đã nhìn thấy [deity0_name]là sự thật. Họ tôn vinh tình người chung của họ với [memberNamePlural] và trục xuất [foeLeader] đến sống trong vùng hoang dã như một con vật.</li>
+    <li>setup(tag=meme_HumanPrimacy)           ->[founderName] xây dựng một thuộc địa trên một thế giới xanh, truyền bá quyền thống trị của nhân loại trên mọi cánh đồng và khu rừng.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    ->Một lần, [founderName] nhìn thấy một con chó gầm gừ với một cậu bé. [founder_pronoun] ra lệnh giết con chó ngay tại chỗ.</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         ->Tôi đã đến thăm một trang trại đang hoạt động tốt với đầy đủ các loài động vật khỏe mạnh và cây trồng phát triển mạnh. Bên cạnh đó là một khu rừng ở trạng thái tự nhiên, trơ trọi và hiểm trở. Rõ ràng là</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->chỉ riêng con người mới là thứ mang lại ý nghĩa cho vũ trụ</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->thiên nhiên là sự điên cuồng vô tận của sự hủy diệt vô đạo đức, và con người là giải pháp</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy) ->Nếu cuộc thi là sự sống còn của những người khỏe mạnh nhất, thì rõ ràng chúng tôi đã chiến thắng.</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)    ->Archotechs là những cỗ máy có ý chí và sức mạnh to lớn, nhưng chỉ có loài người mới có thể tạo ra chúng.</li>
+    <li>archistFact(tag=meme_HumanPrimacy)     ->Con người là nhà sản xuất thiết bị và công nghệ archotech là thiết bị của họ.</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], bằng cách quan sát nhân loại, các archotechs cuối cùng sẽ hiểu được mục đích của họ và nâng nhân loại lên để cai trị họ.</li>
+    <li>animistFact(tag=meme_HumanPrimacy)     ->Động vật của tự nhiên là nô lệ, và yêu cầu được đưa vào phục vụ.</li>
+  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->human</li>
+    <li>memeAdjective->mortal</li>
+    <li>memeAdjective->hominid</li>
+    <li>memeHyphenPrefix->anthro</li>
+    <li>memeConcept->mankind</li>
+    <li>memeConcept->humanity</li>
+    <li>memeLeaderNoun->human</li>
+    <li>memeLeaderNoun->hominid</li>
+    <li>memeLeaderNoun->mortal</li>
+    <li>memeLeaderNoun->person</li>
+    <li>memeLeaderNoun->sapient</li>
+  -->
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->con người</li>
+    <li>memeAdjective->sinh tử</li>
+    <li>memeAdjective->người</li>
+    <li>memeHyphenPrefix->anthro</li>
+    <li>memeConcept->nhân loại</li>
+    <li>memeConcept->nhân loại</li>
+    <li>memeLeaderNoun->con người</li>
+    <li>memeLeaderNoun->người</li>
+    <li>memeLeaderNoun->người phàm</li>
+    <li>memeLeaderNoun->người</li>
+    <li>memeLeaderNoun->khôn</li>
+  </HumanPrimacy.generalRules.rulesStrings>
+  <!-- EN: humanitist -->
+  <HumanPrimacy.symbolPacks.0.adjective>người theo chủ nghĩa nhân bản</HumanPrimacy.symbolPacks.0.adjective>
+  <!-- EN: Humanitism -->
+  <HumanPrimacy.symbolPacks.0.ideoName>Chủ nghĩa nhân bản</HumanPrimacy.symbolPacks.0.ideoName>
+  <!-- EN: humanitor -->
+  <HumanPrimacy.symbolPacks.0.member>người nhân bản</HumanPrimacy.symbolPacks.0.member>
+  <!-- EN: humanity -->
+  <HumanPrimacy.symbolPacks.0.theme>nhân loại</HumanPrimacy.symbolPacks.0.theme>
+  <!-- EN: pro-man -->
+  <HumanPrimacy.symbolPacks.1.adjective>người chuyên nghiệp</HumanPrimacy.symbolPacks.1.adjective>
+  <!-- EN: Mankindism -->
+  <HumanPrimacy.symbolPacks.1.ideoName>Chủ nghĩa nhân loại</HumanPrimacy.symbolPacks.1.ideoName>
+  <!-- EN: mankindist -->
+  <HumanPrimacy.symbolPacks.1.member>người theo chủ nghĩa nhân loại</HumanPrimacy.symbolPacks.1.member>
+  <!-- EN: mankind -->
+  <HumanPrimacy.symbolPacks.1.theme>nhân loại</HumanPrimacy.symbolPacks.1.theme>
+  
+  <!-- EN: nature primacy -->
+  <NaturePrimacy.label>tính ưu việt của thiên nhiên</NaturePrimacy.label>
+  <!-- EN: Man is a stain on nature's perfection. -->
+  <NaturePrimacy.description>Con người là một vết nhơ trên sự hoàn hảo của tự nhiên.</NaturePrimacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life.</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts.</li>
+    <li>intro(tag=meme_NaturePrimacy)           ->The first settlers that arrived at the [place_summary] [place_name] paved over the natural world and killed the animals. [deity0_name] wiped them out to punish them for their disrespect towards [deity0_possessive] creations.</li>
+    <li>conflict(tag=meme_NaturePrimacy)        ->A greedy [foeLeader] built a factory that spewed toxins into the environment, poisoning the plants and animals.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     ->As an infant, [founderName] was abandoned in the wilderness. [deity0_name] sent [Animal]s to raise the [founder_objective], and they did. After growing up, [founderName] worked to spread knowledge of the need to unify with nature.</li>
+    <li>victory(tag=meme_NaturePrimacy)         ->[founderName] came to the [place_powerCenter], [memberNamePlural] at [founder_possessive] right, and fierce animals at [founder_possessive] left. Together, they fought and won against the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</li>
+    <li>setup(tag=meme_NaturePrimacy)           ->In a dark land, evil people chopped the trees and dug the ground to satisfy their greed. [founderName] began a righteous movement to smash the machines and live harmoniously under nature.</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)    ->We learned that the eternal growth of humanity is a path to hell; we must live in nature instead of consuming it.</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->You can't have witnessed a sunrise, or looked into the eyes of a [Animal], or stood beneath a mighty [TreeType], and not realized that</li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->the animals and plants have owned this universe since long before us - we are just passing through</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy) ->All the animals I've spoken with seem to understand this.</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)    ->Archotechs rose from our machines, but they are in themselves natural entities, not one we could create.</li>
+    <li>archistFact(tag=meme_NaturePrimacy)     ->Archotechs represent the universe's most recent attempt to understand itself. All of nature is part of this process of understanding.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], there will be a resonance between the plants, the animals, humanity and the archotechs. All people who are in tune with this natural resonance will become part of the final universal consciousness.</li>
+    <li>animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature.</li>
+  -->
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_NaturePrimacy)        ->[deity0_name] tạo ra thiên nhiên và đặt con người vào bên trong nó, để hoạt động như một phần của [deity0_possessive] của cuộc sống.</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)  ->Dân chúng đã chiến đấu với thú rừng, và [deity0_name] nhìn thấy sự hung hãn của họ, và hạ gục những kẻ làm hại cây cối và thú dữ.</li>
+    <li>intro(tag=meme_NaturePrimacy)           ->Những người định cư đầu tiên đến [place_summary] [place_name] mở đường trên thế giới tự nhiên và giết các loài động vật. [deity0_name] xóa sổ họ để trừng phạt họ vì sự thiếu tôn trọng của họ đối với [deity0_possessive] sự sáng tạo.</li>
+    <li>conflict(tag=meme_NaturePrimacy)        ->một kẻ tham lam [foeLeader] xây dựng nhà máy phun chất độc ra môi trường, đầu độc thực vật và động vật.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     ->Khi còn là một đứa trẻ sơ sinh, [founderName] bị bỏ rơi trong vùng hoang dã. [deity0_name] gửi [Animal] để thức tỉnh các [founder_objective], và họ đã làm. Sau khi lớn lên, [founderName] đã làm việc để truyền bá kiến ​​thức về nhu cầu hợp nhất với thiên nhiên.</li>
+    <li>victory(tag=meme_NaturePrimacy)         ->[founderName] Đến với [place_powerCenter], [memberNamePlural] tại [founder_possessive] đúng, và những con vật hung dữ tại [founder_possessive] trái. Cùng nhau, họ đã chiến đấu và chiến thắng [foeLeader] và [foeLeader_possessive] [foeSoldiers].</li>
+    <li>setup(tag=meme_NaturePrimacy)           ->Trong một vùng đất tối tăm, những kẻ ác đã chặt cây và đào đất để thỏa mãn lòng tham của mình. [founderName] bắt đầu một phong trào chính nghĩa để đập tan máy móc và sống hài hòa dưới thiên nhiên.</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)    ->Chúng tôi học được rằng sự lớn lên vĩnh viễn của nhân loại là một con đường dẫn đến địa ngục; chúng ta phải sống trong tự nhiên thay vì tiêu thụ nó.</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->Bạn không thể chứng kiến ​​cảnh mặt trời mọc, hoặc nhìn vào mắt của một [Animal],hoặc đứng bên dưới một người hùng mạnh [TreeType], và không nhận ra rằng</li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->động vật và thực vật đã sở hữu vũ trụ này từ rất lâu trước chúng ta - chúng ta chỉ đang đi qua</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy) ->Tất cả những con vật tôi đã nói chuyện với dường như đều hiểu điều này.</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)    ->Archotechs đã phát triển từ máy móc của chúng ta, nhưng bản thân chúng là những thực thể tự nhiên, không phải thứ chúng ta có thể tạo ra.</li>
+    <li>archistFact(tag=meme_NaturePrimacy)     ->Archotechs đại diện cho nỗ lực gần đây nhất của vũ trụ để hiểu chính nó. Tất cả thiên nhiên là một phần của quá trình hiểu biết này.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], sẽ có sự cộng hưởng giữa thực vật, động vật, loài người và các công nghệ archotech. Tất cả những người hòa hợp với sự cộng hưởng tự nhiên này sẽ trở thành một phần của ý thức phổ quát cuối cùng.</li>
+    <li>animistFact(tag=meme_NaturePrimacy)     ->Các tinh linh trở nên bồn chồn khi nhân loại cố gắng thay đổi họ khỏi bản chất thực sự của họ.</li>
+  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->natural</li>
+    <li>memeAdjective->wild</li>
+    <li>memeAdjective->organic</li>
+    <li>memeCreed->den</li>
+    <li>memeCreed->garden</li>
+    <li>memeCreed->meadow</li>
+    <li>memeConcept->nature</li>
+  -->
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->thiên nhiên</li>
+    <li>memeAdjective->gió</li>
+    <li>memeAdjective->hữu cơ</li>
+    <li>memeCreed->ẩn nấp</li>
+    <li>memeCreed->vườn</li>
+    <li>memeCreed->đồng cỏ</li>
+    <li>memeConcept->thiên nhiên</li>
+  </NaturePrimacy.generalRules.rulesStrings>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.adjective>thiên nhiên</NaturePrimacy.symbolPacks.0.adjective>
+  <!-- EN: Naturism -->
+  <NaturePrimacy.symbolPacks.0.ideoName>Thiên nhiên</NaturePrimacy.symbolPacks.0.ideoName>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.member>thiên nhiên</NaturePrimacy.symbolPacks.0.member>
+  <!-- EN: nature -->
+  <NaturePrimacy.symbolPacks.0.theme>thiên nhiên</NaturePrimacy.symbolPacks.0.theme>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.adjective>trái đất</NaturePrimacy.symbolPacks.1.adjective>
+  <!-- EN: Earthism -->
+  <NaturePrimacy.symbolPacks.1.ideoName>Trái đất</NaturePrimacy.symbolPacks.1.ideoName>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.member>trái đất</NaturePrimacy.symbolPacks.1.member>
+  <!-- EN: earth -->
+  <NaturePrimacy.symbolPacks.1.theme>trái đất</NaturePrimacy.symbolPacks.1.theme>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.adjective>đất</NaturePrimacy.symbolPacks.2.adjective>
+  <!-- EN: Soilism -->
+  <NaturePrimacy.symbolPacks.2.ideoName>Đất</NaturePrimacy.symbolPacks.2.ideoName>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.member>đất</NaturePrimacy.symbolPacks.2.member>
+  <!-- EN: soil -->
+  <NaturePrimacy.symbolPacks.2.theme>đất</NaturePrimacy.symbolPacks.2.theme>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.adjective>Sự sống</NaturePrimacy.symbolPacks.3.adjective>
+  <!-- EN: Lifism -->
+  <NaturePrimacy.symbolPacks.3.ideoName>Sự sống</NaturePrimacy.symbolPacks.3.ideoName>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.member>sự sống</NaturePrimacy.symbolPacks.3.member>
+  <!-- EN: life -->
+  <NaturePrimacy.symbolPacks.3.theme>sự sống</NaturePrimacy.symbolPacks.3.theme>
+  
+</LanguageData>

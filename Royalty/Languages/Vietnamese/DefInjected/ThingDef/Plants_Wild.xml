@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chopped anima stump -->
+  <ChoppedStump_Anima.label>gốc cây anima xắt nhỏ</ChoppedStump_Anima.label>
+  <!-- EN: A stump left behind after an anima tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Anima.description>Một gốc cây còn sót lại sau khi một cây anima bị đốn hạ. Gốc cây có thể được chiết xuất nhưng mang lại rất ít gỗ có thể sử dụng được. Để ngoài trời, gốc cây sẽ hư hỏng theo thời gian.</ChoppedStump_Anima.description>
+  
+  <!-- EN: anima grass -->
+  <Plant_GrassAnima.label>cỏ cực quang</Plant_GrassAnima.label>
+  <!-- EN: A grass infused with luminous microorganisms. Tribal peoples find that anima grass grows around the base of an anima tree as they meditate. It seems to reflect some kind of strengthening of the tree's psychic power.\n\nOffworld scientists have tried to study the phenomenon, but the grass degenerates into normal plant matter when observed too closely.\n\nAnimals refuse eat anima grass. Tribal stories say this is done out of respect and fear. -->
+  <Plant_GrassAnima.description>Một loại cỏ truyền với các vi sinh vật phát sáng. Người dân bộ lạc thấy rằng cỏ cực quang mọc xung quanh gốc cây cực quang khi họ ngồi thiền. Nó dường như phản ánh một số loại tăng cường sức mạnh tâm linh của cây.\n\nCác nhà khoa học ngoài thế giới đã cố gắng nghiên cứu hiện tượng này, nhưng cỏ biến chất thành thực vật bình thường khi quan sát quá kỹ.\n\nĐộng vật từ chối ăn cỏ anima. Những câu chuyện bộ lạc nói rằng điều này được thực hiện từ sự tôn trọng và sợ hãi.</Plant_GrassAnima.description>
+  
+  <!-- EN: anima tree -->
+  <Plant_TreeAnima.label>cây cực quang</Plant_TreeAnima.label>
+  <!-- EN: A rare tree with warm, skin-smooth bark and long iridescent leaves. Infused with bioluminescent micro-organisms, anima trees develop a unique form of psychic symbiosis with surrounding lifeforms, allowing them to grow in a wide variety of biomes.\n\nIf a person (psycaster or not) meditates near an anima tree, it will grow anima grass around its base. Once enough grass is grown, it becomes possible to carry out a psychic linking ritual with the tree and upgrade a person's psychic powers. Only tribal peoples know the secret of this ritual. Tribal psycasters are also able to draw psyfocus from anima trees while meditating to them.\n\nAnima trees' psychic properties are weakened if artificial structures are placed nearby. They refuse to be caged or studied, and must remain part of nature.\n\nMost tribes believe that anima trees are not simply trees, but are rather the physical extremities of a single world spirit. -->
+  <Plant_TreeAnima.description>Một loại cây quý hiếm với vỏ cây ấm, mịn màng và lá dài óng ánh. Được truyền với các vi sinh vật phát quang sinh học, cây cực quang phát triển một dạng cộng sinh tâm lý độc đáo với các dạng sống xung quanh, cho phép chúng phát triển trong nhiều loại quần xã sinh vật.\n\nNếu một người (người năng lực hoặc không) thiền gần một cây cực quang, nó sẽ có cỏ cực quang mọc xung quanh gốc cây. Một khi mọc đủ cỏ, nó có thể thực hiện một nghi thức liên kết tâm linh với cây và nâng cấp sức mạnh tâm linh của một người. Chỉ có các dân tộc bộ lạc biết bí mật của nghi lễ này. Người năng lực của bộ lạc cũng có thể lấy tinh thần lực từ cây cực quang trong khi họ thiền định.\n\nĐặc tính ngoại cảm của cây cực quang bị suy yếu nếu các cấu trúc nhân tạo được đặt gần đó. Họ từ chối bị nhốt hoặc nghiên cứu và phải là một phần của tự nhiên.\n\nHầu hết các bộ lạc tin rằng cây cực quang không chỉ đơn giản là cây, mà là một dạng cực độ về thể chất của một tinh thần thế giới duy nhất.</Plant_TreeAnima.description>
+  <!-- EN: About: Anima tree linking -->
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>đang liên kết cây cực quang</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>
+  <!-- EN: The anima tree now has {0} anima grass around it. This is enough for a tribal person to begin their first linking ritual!\n\nThe linking ritual gives a level of psylink and the ability to use psychic powers. Upgrading to a higher level requires 20 grass.\n\nThe anima grass requirements for linking rituals to upgrade psycasters are:\n\n{1}\n\nNote: Only those with the nature focus type can meditate to or link with anima trees. You can see a person's focus types by looking at their info card with the 'i' button. -->
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>Cây cực quang hiện có {0} cỏ cực quang xung quanh nó. Điều này là đủ để một người trong bộ tộc bắt đầu nghi thức liên kết đầu tiên của họ!\n\nNghi thức liên kết đưa ra một mức độ liên kết tinh thần và khả năng sử dụng sức mạnh tâm linh. Nâng cấp lên cấp cao hơn đòi hỏi nhiều cỏ hơn ở mỗi cấp.\n\nCác yêu cầu cỏ cực quang để liên kết các nghi thức để nâng cấp người năng lực là:\n\n{1}\n\nLưu ý: Chỉ những người có loại tập trung tự nhiên mới có thể thiền định hoặc liên kết với cây cực quang. Bạn có thể thấy các loại tiêu điểm của một người bằng cách nhìn vào thẻ thông tin của họ bằng nút ‘i’.</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>
+  <!-- EN: The anima tree has died and emitted a disturbing psychic scream. -->
+  <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>Cây cực quang đã chết và phát ra tiếng thét tâm linh đáng lo ngại.</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <!-- EN: smashed anima stump -->
+  <SmashedStump_Anima.label>gốc cây anima bị đập nát</SmashedStump_Anima.label>
+  <!-- EN: The remnants of an anima tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Anima.description>Phần còn lại của một cây anima bị phá hủy do hư hại. No thật la xâu xi. Gốc cây có thể được chiết xuất nhưng mang lại rất ít gỗ có thể sử dụng được. Để ngoài trời, gốc cây sẽ hư hỏng theo thời gian.</SmashedStump_Anima.description>
+  
+</LanguageData>

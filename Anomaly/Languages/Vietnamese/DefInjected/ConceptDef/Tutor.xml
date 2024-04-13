@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anomaly research -->
+  <AnomalyResearch.label>Nghiên cứu Dị thường</AnomalyResearch.label>
+  <!-- EN: You must advance Anomaly research by studying unnatural entities.\n\nThere are two types of Anomaly research: BASIC and ADVANCED. Basic research projects progress when you study any entity; advanced projects only progress when you study advanced entities.\n\nYou can have a basic and an advanced project active at the same time. If no advanced project is active, advanced research will contribute to a basic project instead. -->
+  <AnomalyResearch.helpText>Bạn cần đẩy mạnh nghiên cứu Dị thường bằng cách nghiên cứu các thực thể lạ.\n\nCó hai dạng nghiên cứu Dị thường: CƠ BẢN và CAO CẤP. Các dự án cơ bản tiến triển mỗi khi bạn nghiên cứu bất kỳ thực thể nào; các dự án cao cấp chỉ tiến triển khi bạn nghiên cứu các thực thể cấp cao.\n\nBạn có thể cho tiến hành một dự án cơ bản và một dự án cao cấp cùng lúc. Nếu không có dự án cao cấp nào đang được tiến hành, nghiên cứu cao cấp sẽ tự động được chuyển qua dự án nghiên cứu cơ bản.</AnomalyResearch.helpText>
+  
+  <!-- EN: capturing entities -->
+  <CapturingEntities.label>Bắt giữ thực thể</CapturingEntities.label>
+  <!-- EN: When an entity is downed but alive, you can CAPTURE it. To capture, select a colonist, right-click on the entity, and select 'Capture'. You'll need an empty holding platform or spot.\n\nOnce the entity has been brought to the holding platform, you can study it to gain Anomaly research.\n\nTend an injured entity’s wounds to make sure it survives. -->
+  <CapturingEntities.helpText>Khi một thực thể bị hạ gục nhưng còn sống, bạn có thể BẮT GIỮ nó. Để bắt giữ, chọn một thực dân, click chuột phải vào thực thể, và chọn 'Bắt giữ'. Bạn cần một bệ giam hoặc một vị trí trống.\n\nMột khi thực thể đã được đưa về bệ giam, bạn có thể nghiên cứu nó để thu về điểm nghiên cứu Dị thường.\n\nHãy điều trị các vết thương cho thực thể để đảm bảo nó sống sót.</CapturingEntities.helpText>
+  
+  <!-- EN: ghouls -->
+  <ColonyGhouls.label>Ghoul trong thuộc địa</ColonyGhouls.label>
+  <!-- EN: Ghouls are humans twisted by bioferrite. They can quickly regenerate injuries, making them useful as melee fighters. However, they are incapable of work.\n\nGhouls only eat corpses and raw meat. If they go hungry, they can turn hostile. -->
+  <ColonyGhouls.helpText>Ghoul là những người bị biến đổi bởi sinh vật ferit. Chúng có thể tự chữa lành một cách nhanh chóng, khiến chúng trở nên hữu ích trong cận chiến. Tuy nhiên, Ghoul không thể làm việc.\n\nGhoul chỉ ăn xác chết và thịt sống. Nếu chúng đói, chúng có thể trở nên hung hãn.</ColonyGhouls.helpText>
+  
+  <!-- EN: containing entities -->
+  <ContainingEntities.label>Giam giữ thực thể</ContainingEntities.label>
+  <!-- EN: It's best to hold entities in secure chambers with high CONTAINMENT STRENGTH or they'll soon escape. Containment strength is increased by:\n\n - Strong walls and doors\n - Good lighting\n - Electric inhibitors (needs research)\n - Bioferrite plate floors (needs research)\n\nOpen the entity's 'Entity' tab to configure how your colonists will interact with it. -->
+  <ContainingEntities.helpText>Tốt nhất là giam giữ các thực thể trong phòng giam cứng cáp với ĐỘ AN TOÀN cao, bằng không chúng sẽ nhanh chóng trốn thoát. Độ an toàn được gia tăng bởi:\n\n - Tường và cửa vững chắc\n - Ánh sáng tốt\n - Điện trường ức chế (cần nghiên cứu)\n - Sàn lót tấm sinh vật ferit (cần nghiên cứu)\n\nMở thẻ 'Thực thể' của mục tiêu để định hình cách các thực dân của bạn sẽ tương tác với nó.</ContainingEntities.helpText>
+  
+  <!-- EN: entity codex -->
+  <EntityCodex.label>Sổ tay Thực thể</EntityCodex.label>
+  <!-- EN: Use the entity codex to track which entities you've discovered.\n\nDiscovering new entities will reveal hidden Anomaly research projects. Once enough entities have been discovered, you can increase the void monolith's level.\n\nOpen the entity codex using the entity codex icon in the lower right of the screen. -->
+  <EntityCodex.helpText>Sử dụng Sổ tay Thực thể để theo dõi lượng thực thể bạn đã phát hiện.\n\nPhát hiện thực thể mới sẽ mở khoá các dự án nghiên cứu Dị thường ẩn. Khi tìm ra đủ lượng thực thể, bạn có thể tăng cấp cho Trụ đá Hư Không.\n\nMở Sổ tay Thực thể bằng biểu tượng sổ tay ở góc phải bên dưới màn hình.</EntityCodex.helpText>
+  
+  <!-- EN: studying entities -->
+  <StudyingEntities.label>Nghiên cứu Thực thể</StudyingEntities.label>
+  <!-- EN: Colonists assigned to 'Dark study' work will STUDY diverse entities including creatures and structures.\n\nStudy structures like the void monolith by selecting it and toggling the 'Study' option. Some entities must be captured to a holding platform or spot before they can be studied.\n\nStudying advances Anomaly research projects. Open the 'Research' tab, then select the 'Anomaly' sub-tab to view Anomaly research projects. -->
+  <StudyingEntities.helpText>Các thực dân được giao nhiệm vụ 'Nghiên cứu Bóng tối' sẽ NGHIÊN CỨU các thực thể khác nhau, từ sinh vật cho đến các cấu trúc.\n\nNghiên cứu các cấu trúc như Trụ đá Hư Không bằng cách chọn nó và bật tuỳ chọn 'Nghiên cứu'. Một số thực thể phải bị bắt giữ và giam cầm trước khi có thể được nghiên cứu.\n\nNghiên cứu sẽ đẩy mạnh các dự án nghiên cứu Dị thường. Mở thẻ 'Nghiên cứu', sau đó chọn thẻ con 'Dị thường' để xem các dự án nghiên cứu trong lĩnh vực này.</StudyingEntities.helpText>
+  
+  <!-- EN: suppressing entities -->
+  <SuppressingEntities.label>Trấn áp Thực thể</SuppressingEntities.label>
+  <!-- EN: Some entities become more active over time, even in captivity. If an entity's activity bar fills completely, it will do something extremely dangerous.\n\nTo prevent full activation, you must periodically SUPPRESS it. Wardens will suppress entities. -->
+  <SuppressingEntities.helpText>Một số thực thể sẽ dần trở nên hung hãn theo thời gian, ngay cả khi bị giam cầm. Nếu thanh hoạt động của một thực thể đạt maximum, nó sẽ làm một điều cực kì nguy hiểm.\n\nĐể ngăn chặn việc kích hoạt hoàn toàn, bạn phải TRẤN ÁP nó một cách định kỳ. Các Warden (cai ngục) sẽ tiến hành trấn áp thực thể.</SuppressingEntities.helpText>
+  
+  <!-- EN: void provocation -->
+  <VoidProvocation.label>Khiêu khích Hư Không</VoidProvocation.label>
+  <!-- EN: Use the void provocation psychic ritual to discover and capture new entities.\n\nDiscovering entities will let you advance the void monolith to higher levels, and unlock new research projects. Capturing more entities will let you complete Anomaly research projects faster.\n\nPlace a psychic ritual spot in order to perform the void provocation ritual. -->
+  <VoidProvocation.helpText>Sử dụng Nghi lễ tâm linh Khiêu khích Hư Không để khám phá và bắt giữ các thực thể mới.\n\nPhát hiện thực thể sẽ cho bạn tăng cấp Trụ đá Hư Không lên các cấp độ cao hơn, và mở ra các dự án nghiên cứu mới. Bắt giữ thêm thực thể sẽ cho bạn hoàn thành các dự án nghiên cứu Dị thường nhanh hơn.\n\nHãy đặt một Điểm Nghi lễ tâm linh để thực hiện Nghi lễ Khiêu khích Hư Không.</VoidProvocation.helpText>
+  
+</LanguageData>

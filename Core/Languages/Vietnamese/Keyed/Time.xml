@@ -11,6 +11,11 @@
   <LetterSecond> giây</LetterSecond>
   <!-- EN: y -->
   <LetterYear> năm</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>TODO</AM>
+  <!-- EN: PM -->
+  <PM>TODO</PM>
 
   <!-- EN: days -->
   <DaysLower> ngày</DaysLower>
@@ -86,5 +91,7 @@
   <Lasted>Tồn tại</Lasted>
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>xảy ra {0} trước</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>{0} trước</TimeAgo>
   
 </LanguageData>

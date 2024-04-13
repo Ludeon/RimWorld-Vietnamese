@@ -2,23 +2,32 @@
 <LanguageData>
   
   <!-- EN: brazier -->
-  <Brazier.label>TODO</Brazier.label>
+  <Brazier.label>lò than</Brazier.label>
   <!-- EN: A bowl-shaped furnishing used to hold a fire. Will light the surroundings and create heat. -->
-  <Brazier.description>TODO</Brazier.description>
+  <Brazier.description>Một đồ trang trí hình bát được sử dụng để giữ lửa. Sẽ thắp sáng môi trường xung quanh và tạo nhiệt.</Brazier.description>
+  
+  <!-- EN: darklight brazier -->
+  <DarklightBrazier.label>lò than tối</DarklightBrazier.label>
+  <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
+  <DarklightBrazier.description>Một lò than được xử lý đặc biệt có thể chiếu sáng môi trường xung quanh bằng ánh sáng tối và tạo ra nhiệt. Những điều này đáp ứng yêu cầu lò than của hoàng gia.</DarklightBrazier.description>
   
   <!-- EN: drape -->
-  <Drape.label>TODO</Drape.label>
+  <Drape.label>rèm</Drape.label>
   <!-- EN: A decorative sheet hanging from a vertical wooden frame. Appropriate for royal rooms. -->
-  <Drape.description>TODO</Drape.description>
+  <Drape.description>Một tấm trang trí treo từ một khung gỗ dọc. Thích hợp cho các phòng hoàng gia.</Drape.description>
   
-  <!-- EN: grand throne -->
-  <GrandThrone.label>TODO</GrandThrone.label>
-  <!-- EN: A massive, ornate chair, designed for a noble to sit and reign. Thrones define the room in which they are placed as a throneroom, and sitting on the satisfies nobles' need for authority. -->
-  <GrandThrone.description>TODO</GrandThrone.description>
+  <!-- EN: grand meditation throne -->
+  <GrandThrone.label>ngai vàng thiền lớn</GrandThrone.label>
+  <!-- EN: A massive, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+  <GrandThrone.description>Một chiếc ghế lớn, trang trí công phu, được thiết kế cho một người năng lực tập trung vào nhân phẩm để ngồi và thiền định. Cai trị trên ngai vàng là một hình thức thiền định xây dựng tâm lý tập trung. Đối với các người năng lực có địa vị cao, ngai vàng thiền định và phòng ngai vàng ấn tượng hơn làm tăng tỷ lệ đạt được tinh thần lực.</GrandThrone.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Quyền sở hữu ngai vàng cần một người có tước vị hoàng gia.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
-  <!-- EN: throne -->
-  <Throne.label>TODO</Throne.label>
-  <!-- EN: A large, ornate chair, designed for a noble to sit and reign. Thrones define the room in which they are placed as a throneroom, and sitting on the satisfies nobles' need for authority. -->
-  <Throne.description>TODO</Throne.description>
+  <!-- EN: meditation throne -->
+  <Throne.label>ngai vàng thiền</Throne.label>
+  <!-- EN: A large, ornate chair designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+  <Throne.description>Một chiếc ghế to, trang trí công phu, được thiết kế cho một người năng lực tập trung vào nhân phẩm để ngồi và thiền định. Cai trị trên ngai vàng là một hình thức thiền định xây dựng tâm lý tập trung. Đối với các người năng lực có địa vị cao, ngai vàng thiền định và phòng ngai vàng ấn tượng hơn làm tăng tỷ lệ đạt được tinh thần lực.</Throne.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Quyền sở hữu ngai vàng cần một người có tước vị hoàng gia.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
 </LanguageData>

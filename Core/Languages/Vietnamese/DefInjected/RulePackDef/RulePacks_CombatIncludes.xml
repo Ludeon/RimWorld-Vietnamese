@@ -16,18 +16,18 @@
     <li>scraped_past->skated</li>
   -->
   <Combat_DeflectIncludes.rulePack.rulesStrings>
-    <li>scraped_present->glancing</li>
-    <li>scraped_present->bouncing</li>
-    <li>scraped_present->grazing</li>
-    <li>scraped_present->caroming</li>
-    <li>scraped_present->skipping</li>
-    <li>scraped_present->skating</li>
-    <li>scraped_past->glanced</li>
-    <li>scraped_past->bounced</li>
-    <li>scraped_past->grazed</li>
-    <li>scraped_past->caromed</li>
-    <li>scraped_past->skipped</li>
-    <li>scraped_past->skated</li>
+    <li>scraped_present->liếc nhìn</li>
+    <li>scraped_present->nảy</li>
+    <li>scraped_present->chăn thả</li>
+    <li>scraped_present->đánh bida</li>
+    <li>scraped_present->nhảy dây</li>
+    <li>scraped_present->trượt băng</li>
+    <li>scraped_past->liếc</li>
+    <li>scraped_past->bị trả lại</li>
+    <li>scraped_past->chăn thả</li>
+    <li>scraped_past->đánh bida</li>
+    <li>scraped_past->nhảy dây</li>
+    <li>scraped_past->trượt băng</li>
   </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -47,20 +47,20 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</li>
-    <li>action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] để [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [tried] để [damaged_inf] [RECIPIENT_definite] với [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] dùng [implement] để [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] vung [WEAPON_label] [INITIATOR_possessive] vào [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] với [implement]</li>
     <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
-    <li>towardsat->towards</li>
-    <li>towardsat->at</li>
-    <li>verb_genericattack->swung</li>
-    <li>verb_genericattack->flailed</li>
-    <li>verb_genericattack->thrashed</li>
-    <li>tried->tried</li>
-    <li>tried->attempted</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] với [implement]</li>
+    <li>towardsat->về phía</li>
+    <li>towardsat->về</li>
+    <li>verb_genericattack->vung</li>
+    <li>verb_genericattack->đánh</li>
+    <li>verb_genericattack->đập mạnh</li>
+    <li>tried->đã thực hiện</li>
+    <li>tried->đã tấn công</li>
   </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -77,33 +77,17 @@
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
-    <li>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_situation]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</li>
-    <li>adverb_flavortext->painfully</li>
-    <li>adverb_flavortext->brutally</li>
-    <li>adverb_flavortext->horribly</li>
-    <li>adverb_flavortext->agonizingly</li>
-    <li>adverb_flavortext->fiercely</li>
-    <li>adverb_flavortext->ruthlessly</li>
-    <li>adverb_flavortext->savagely</li>
-    <li>adverb_flavortext->viciously</li>
-    <li>adverb_flavortext->mercilessly</li>
-    <li>adverb_flavortext->heartlessly</li>
-    <li>flavortext_situation(recipient_flesh!=Mechanoid)->in an explosion of gore</li>
-    <li>flavortext_situation(recipient_flesh==Mechanoid)->in an explosion of scrap</li>
-    <li>flavortext_situation->without emotion</li>
-    <li>flavortext_situation(p=0.4)->while wearing a blank look</li>
-    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a savage look</li>
-    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a [AdjectiveBadass] look</li>
-    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while grimacing</li>
-    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while laughing</li>
-    <li>flavortext_situation(p=0.2,initiator_flesh==Normal)->while smirking</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</li>
-    <li>flavortext_consequence->leaving a horrific wound</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
-    <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
+    <li>result(p=1)->[damaged_present] [targetlist] [RECIPIENT_possessive]</li>
+    <li>result(p=0.2)->[damaged_present] [targetlist] [RECIPIENT_possessive] và [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] [strikeAdv] [targetlist] [RECIPIENT_possessive]</li>
+    <li>strikeAdv->đau đớn</li>
+    <li>strikeAdv->kinh khủng</li>
+    <li>strikeAdv->dã man</li>
+    <li>strikeAdv->ác độc</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->để lại một vết thương kinh tởm</li>
+    <li>flavortext_consequence->để lại một vết thương kinh hoàng</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->khiến [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->ném [RECIPIENT_objective] mất thăng bằng</li>
   </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -148,56 +132,43 @@
   -->
   <Combat_MeleeIncludes.rulePack.rulesStrings>
     <li>r_logentry->[action], [result].</li>
-    <li>r_logentry(p=0.2)->[action].</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[INITIATOR_possessive] [adjective_bodypart] [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
-    <li>adjective_bodypart->hard</li>
-    <li>adjective_bodypart->strong</li>
-    <li>adjective_bodypart->powerful</li>
-    <li>adjective_bodypart->forceful</li>
-    <li>adjective_bodypart->mighty</li>
-    <li>adjective_bodypart->rugged</li>
-    <li>adjective_bodypart->stout</li>
-    <li>adjective_bodypart->sturdy</li>
-    <li>adjective_bodypart->solid</li>
-    <li>adjective_bodypart->tough</li>
-    <li>adjective_bodypart(initiator_flesh==True)->calloused</li>
-    <li>adjective_bodypart->firm</li>
-    <li>targetlist(recipient_part_count==1)->[RECIPIENT_part0_label]</li>
-    <li>targetlist(recipient_part_count==2)->[RECIPIENT_part0_label] and [RECIPIENT_part1_label]</li>
-    <li>targetlist(recipient_part_count==3)->[RECIPIENT_part0_label], [RECIPIENT_part1_label], and [RECIPIENT_part2_label]</li>
-    <li>targetlist->[RECIPIENT_part0_label], [RECIPIENT_part1_label], [RECIPIENT_part2_label], and [RECIPIENT_part3_label]</li>
-    <li>damaged_present(deflected!=True)->wounding</li>
-    <li>damaged_present(deflected!=True)->injuring</li>
-    <li>destroyed(p=0.5)->destroyed</li>
-    <li>destroyed(p=0.5)->demolished</li>
-    <li>destroyed(p=0.5)->ruined</li>
-    <li>destroyed(p=0.5)->wrecked</li>
-    <li>wince(recipient_flesh==Normal)->wince</li>
-    <li>wince(recipient_flesh==Normal)->grimace</li>
-    <li>wince(recipient_flesh==Normal)->cringe</li>
-    <li>wince(recipient_flesh==Normal)->groan</li>
-    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
-    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
-    <li>wince->recoil</li>
-    <li>wince->stumble</li>
-    <li>painstate->in</li>
-    <li>painstate->with</li>
-    <li>painstate->from the</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
-    <li>painevent(recipient_flesh==Normal)->with misery</li>
-    <li>painevent->from the injury</li>
-    <li>painevent->from the wound</li>
-    <li>to->to</li>
-    <li>to->into</li>
+    <li>r_logentry(priority=-10)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[TOOL_label] [WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[TOOL_label] của [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->một [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_label] của [WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_label] [INITIATOR_possessive]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] và [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], và [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], và [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->vết thương</li>
+    <li>damaged_present(deflected!=True)->tổn hại</li>
+    <li>destroyed(p=0.5)->bị phá hủy</li>
+    <li>destroyed(p=0.5)->phá bỏ</li>
+    <li>destroyed(p=0.5)->tàn phá</li>
+    <li>destroyed(p=0.5)->sụp đổ</li>
+    <li>wince(recipient_flesh==Normal)->cau mày</li>
+    <li>wince(recipient_flesh==Normal)->nhăn nhó</li>
+    <li>wince(recipient_flesh==Normal)->co rúm</li>
+    <li>wince(recipient_flesh==Normal)->rên rỉ</li>
+    <li>wince(recipient_flesh!=Mechanoid)->gào thét</li>
+    <li>wince(recipient_flesh!=Mechanoid)->la hét</li>
+    <li>wince->giật lùi</li>
+    <li>wince->trượt chân</li>
+    <li>painstate->trong</li>
+    <li>painstate->với</li>
+    <li>painstate->từ</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] nỗi đau</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] sự quằn quại</li>
+    <li>painevent(recipient_flesh==Normal)->với sự khốn khổ</li>
+    <li>painevent->với chấn thương</li>
+    <li>painevent->với vết thương</li>
+    <li>to->đến</li>
+    <li>to->trong</li>
   </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -263,54 +234,14 @@
     <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
   -->
   <Combat_WoundIncludes.rulePack.rulesStrings>
-    <li>destroyed_targets(recipient_part_destroyed_count==1)->[RECIPIENT_part_destroyed0_label]</li>
-    <li>destroyed_targets(recipient_part_destroyed_count==2)->[RECIPIENT_part_destroyed0_label] and [RECIPIENT_part_destroyed1_label]</li>
-    <li>destroyed_targets(recipient_part_destroyed_count==3)->[RECIPIENT_part_destroyed0_label], [RECIPIENT_part_destroyed1_label], and [RECIPIENT_part_destroyed2_label]</li>
-    <li>destroyed_targets->[RECIPIENT_part_destroyed0_label], [RECIPIENT_part_destroyed1_label], [RECIPIENT_part_destroyed2_label], and [RECIPIENT_part_destroyed3_label]</li>
-    <li>damaged_targets(recipient_part_damaged_count==1)->[RECIPIENT_part_damaged0_label]</li>
-    <li>damaged_targets(recipient_part_damaged_count==2)->[RECIPIENT_part_damaged0_label] and [RECIPIENT_part_damaged1_label]</li>
-    <li>damaged_targets(recipient_part_damaged_count==3)->[RECIPIENT_part_damaged0_label], [RECIPIENT_part_damaged1_label], and [RECIPIENT_part_damaged2_label]</li>
-    <li>damaged_targets->[RECIPIENT_part_damaged0_label], [RECIPIENT_part_damaged1_label], [RECIPIENT_part_damaged2_label], and [RECIPIENT_part_damaged3_label]</li>
-    <li>expertly->expertly</li>
-    <li>expertly->adeptly</li>
-    <li>expertly->adroitly</li>
-    <li>expertly->deftly</li>
-    <li>expertly->skillfully</li>
-    <li>expertly->slickly</li>
-    <li>expertly->professionally</li>
-    <li>expertly->aptly</li>
-    <li>expertly->dexterously</li>
-    <li>expertly->cleverly</li>
-    <li>expertly->masterfully</li>
-    <li>expertly->artistically</li>
-    <li>expertly->with skill</li>
-    <li>expertly->with impressive experience</li>
-    <li>expertly->with flair</li>
-    <li>expertly->with care</li>
-    <li>expertly->with precision</li>
-    <li>expertly->with proficiency</li>
-    <li>expertly->with strength</li>
-    <li>expertly->with dexterity</li>
-    <li>expertly->with mastery</li>
-    <li>expertly->with artistry</li>
-    <li>expertly->with professionalism</li>
-    <li>expertly->like a virtuoso</li>
-    <li>expertly->like an expert</li>
-    <li>expertly->like a master</li>
-    <li>expertly->like an artist</li>
-    <li>expertly->like a pro</li>
-    <li>expert->expert</li>
-    <li>expert->adept</li>
-    <li>expert->adroit</li>
-    <li>expert->deft</li>
-    <li>expert->skillful</li>
-    <li>expert->slick</li>
-    <li>expert->professional</li>
-    <li>expert->apt</li>
-    <li>expert->dexterous</li>
-    <li>expert->clever</li>
-    <li>expert->masterful</li>
-    <li>expert->artistic</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] và [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], và [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], và [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] và [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], và [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], và [recipient_part_damaged3_label]</li>
   </Combat_WoundIncludes.rulePack.rulesStrings>
   
 </LanguageData>

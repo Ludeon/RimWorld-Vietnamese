@@ -2,14 +2,19 @@
 <LanguageData>
   
   <!-- EN: recon armor -->
-  <Apparel_ArmorRecon.label>TODO</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.label>áo giáp trinh sát</Apparel_ArmorRecon.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
-  <Apparel_ArmorRecon.description>TODO</Apparel_ArmorRecon.description>
+  <Apparel_ArmorRecon.description>Một bộ áo giáp được trang bị một phần ánh sáng, được thiết kế để cho phép di chuyển nhanh. Các tấm plasteel-dệt nhẹ chặn các cuộc tấn công mà không ảnh hưởng đến khả năng di chuyển, và các hỗ trợ thần kinh ghi nhớ ở phần thân dưới cho phép con người mặc áo giáp và vẫn di chuyển dễ dàng.\n\nNhững bộ giáp như thế này thường được sử dụng bởi các đội quân trinh sát của đế quốc và lực lượng cảnh sát tinh nhuệ.</Apparel_ArmorRecon.description>
   
   <!-- EN: T-shirt -->
   <Apparel_BasicShirt.label>áo thun</Apparel_BasicShirt.label>
   <!-- EN: A simple T-shirt. -->
   <Apparel_BasicShirt.description>Một chiếc áo thun đơn giản.</Apparel_BasicShirt.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>áo choàng</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>Một chiếc áo choàng dài có thiết kế trang nhã. Nó treo trên một bên của thân.</Apparel_Cape.description>
   
   <!-- EN: button-down shirt -->
   <Apparel_CollarShirt.label>áo sơ-mi</Apparel_CollarShirt.label>
@@ -57,9 +62,14 @@
   <Apparel_PlateArmor.description>Chồng chéo các tấm áo giáp rắn bao phủ toàn bộ cơ thể từ cổ đến chân.</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>áo giáp năng lượng</Apparel_PowerArmor.label>
-  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>Một bộ áo giáp năng lượng. Tấm plasteel-dệt nhiều lớp rất hiệu quả trong việc ngăn chặn các cuộc tấn công. Rô bốt hỗ trợ hệ thần kinh cho phép con người mặc áo giáp hạng nặng mà vẫn có thể di chuyển dễ dàng.\n\n Áo giáp được sử dụng thường xuyên bởi bộ binh hạng nặng và thủy quân lục chiến từ quân đội công nghệ spacer.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.label>áo giáp trợ lực</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>Một bộ áo giáp năng lượng. Tấm plasteel-dệt nhiều lớp rất hiệu quả trong việc ngăn chặn các cuộc tấn công. Rô bốt hỗ trợ hệ thần kinh cho phép con người mặc áo giáp hạng nặng mà vẫn có thể di chuyển dễ dàng.\n\n Áo giáp được sử dụng thường xuyên bởi bộ binh hạng nặng và thủy quân lục chiến từ chiến binh vũ trụ.</Apparel_PowerArmor.description>
+  
+  <!-- EN: robe -->
+  <Apparel_Robe.label>áo choàng</Apparel_Robe.label>
+  <!-- EN: A long, flowing robe without a hood. -->
+  <Apparel_Robe.description>Một áo choàng dài không có mũ trùm.</Apparel_Robe.description>
   
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>đồ bộ lạc</Apparel_TribalA.label>

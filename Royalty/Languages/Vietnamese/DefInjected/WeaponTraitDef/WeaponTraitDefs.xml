@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hunger pangs -->
+  <HungerMaker.label>đói khát</HungerMaker.label>
+  <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
+  <HungerMaker.description>Vũ khí này yêu thích thức ăn và truyền điều đó cho bất kỳ ai gắn bó với nó. Tỷ lệ đói của người ngoại quan sẽ cao hơn 50%</HungerMaker.description>
+  
+  <!-- EN: jealous -->
+  <Jealous.label>ghen tuông</Jealous.label>
+  <!-- EN: This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood. -->
+  <Jealous.description>Vũ khí này trở nên tức giận khi cá nhân được liên kết sử dụng vũ khí khác, do đó làm giảm tâm trạng của họ.</Jealous.description>
+  
+  <!-- EN: kill thirst -->
+  <NeedKill.label>khát máu</NeedKill.label>
+  <!-- EN: This weapon's persona finds purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it. -->
+  <NeedKill.description>Vũ khí này thích đổ máu. Nếu nó không giết trong 20 ngày, nó sẽ trở nên tức giận và phàn nàn về mặt tâm linh với bất cứ ai gắn bó với nó.</NeedKill.description>
+  
+  <!-- EN: neural cooling -->
+  <NeuralHeatRecoveryGain.label>làm mát thần kinh</NeuralHeatRecoveryGain.label>
+  <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
+  <NeuralHeatRecoveryGain.description>Tính cách của vũ khí này có khả năng giúp tiêu tan nhiệt thần kinh của người sử dụng. Tản nhiệt thần kinh của người sử dụng được cải thiện 0,15 mỗi giây.</NeuralHeatRecoveryGain.description>
+  
+  <!-- EN: freewielder -->
+  <NeverBond.label>tự do sử dụng</NeverBond.label>
+  <!-- EN: This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it. -->
+  <NeverBond.description>TOTính cách của vũ khí này không hình thành liên kết theo cách thông thường. Bất cứ ai cũng có thể nhặt nó lên và sử dụng nó.DO</NeverBond.description>
+  
+  <!-- EN: painless -->
+  <NoPain.label>không đau</NoPain.label>
+  <!-- EN: This weapon's persona has some method of psychically disabling pain. The one holding the weapon will feel no pain of any kind. -->
+  <NoPain.description>Tính cách của vũ khí này có một số phương pháp vô hiệu hóa nỗi đau về mặt tâm linh. Người cầm vũ khí sẽ không cảm thấy đau đớn dưới bất kỳ hình thức nào.</NoPain.description>
+  
+  <!-- EN: kill-focused -->
+  <OnKill_PsyfocusGain.label>giết - tập trung</OnKill_PsyfocusGain.label>
+  <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
+  <OnKill_PsyfocusGain.description>Tính cách của vũ khí này tập trung vào cái chết. Nếu vũ khí giết chết ai đó, người sử dụng sẽ ngay lập tức nhận được 20% tâm lý tập trung.</OnKill_PsyfocusGain.description>
+  
+  <!-- EN: kill sorrow -->
+  <OnKill_ThoughtBad.label>giết - đau buồn</OnKill_ThoughtBad.label>
+  <!-- EN: This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days. -->
+  <OnKill_ThoughtBad.description>Tính cách của vũ khí này là ghét giết chóc. Nếu vũ khí này giết chết ai đó, nỗi buồn của nó sẽ truyền tâm linh đến người sử dụng, khiến tâm trạng của họ giảm sút trong vài ngày.</OnKill_ThoughtBad.description>
+  
+  <!-- EN: kill-happy -->
+  <OnKill_ThoughtGood.label>giết - hạnh phúc</OnKill_ThoughtGood.label>
+  <!-- EN: This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days. -->
+  <OnKill_ThoughtGood.description>Tính cách của vũ khí này thích giết người. Nếu vũ khí này giết chết ai đó, niềm vui của nó sẽ truyền tâm linh đến người sử dụng, khiến họ vui vẻ hơn trong vài ngày.</OnKill_ThoughtGood.description>
+  
+  <!-- EN: psychic fog -->
+  <PsychicSensitivityDownMajor.label>sương mù tâm linh</PsychicSensitivityDownMajor.label>
+  <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held. -->
+  <PsychicSensitivityDownMajor.description>Vũ khí này triệt tiêu 30% độ nhạy tâm linh của người sử dụng. Điều này chỉ áp dụng trong khi vũ khí được giữ.</PsychicSensitivityDownMajor.description>
+  
+  <!-- EN: psychic quiet -->
+  <PsychicSensitivityDownMinor.label>tâm linh yên tĩnh</PsychicSensitivityDownMinor.label>
+  <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held. -->
+  <PsychicSensitivityDownMinor.description>Vũ khí này giảm 15% độ nhạy tâm linh của người sử dụng. Điều này chỉ áp dụng trong khi vũ khí được giữ.</PsychicSensitivityDownMinor.description>
+  
+  <!-- EN: psychic hypersensitizer -->
+  <PsychicSensitivityUpMajor.label>quá mẫn cảm tâm linh</PsychicSensitivityUpMajor.label>
+  <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held. -->
+  <PsychicSensitivityUpMajor.description>Vũ khí này khuếch đại độ nhạy tâm linh của người sử dụng lên 40%. Điều này chỉ áp dụng trong khi vũ khí được giữ.</PsychicSensitivityUpMajor.description>
+  
+  <!-- EN: psychic sensitizer -->
+  <PsychicSensitivityUpMinor.label>cảm ứng tâm linh</PsychicSensitivityUpMinor.label>
+  <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held. -->
+  <PsychicSensitivityUpMinor.description>Vũ khí này khuếch đại độ nhạy tâm linh của người sử dụng lên 20%. Điều này chỉ áp dụng trong khi vũ khí được giữ.</PsychicSensitivityUpMinor.description>
+  
+  <!-- EN: psy-meditative -->
+  <PsyfocusMeditationBonus.label>tâm lý - thiền định</PsyfocusMeditationBonus.label>
+  <!-- EN: This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held. -->
+  <PsyfocusMeditationBonus.description>Đặc tính của vũ khí này là thiền định một cách tự nhiên và giúp người sử dụng nó tập trung vào thiền định tâm linh. Người sử dụng nhận được thêm 10% tâm lý tập trung mỗi ngày thiền định, miễn là vũ khí được giữ.</PsyfocusMeditationBonus.description>
+  
+  <!-- EN: fast mover -->
+  <SpeedBoost.label>di chuyển nhanh</SpeedBoost.label>
+  <!-- EN: This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held. -->
+  <SpeedBoost.description>Tính cách của vũ khí này có cảm giác chuyển động. Nó trao điều này cho người sử dụng, khiến họ di chuyển nhanh hơn 15% miễn là vũ khí được giữ.</SpeedBoost.description>
+  
+  <!-- EN: calm thoughts -->
+  <ThoughtCalm.label>suy nghĩ bình tĩnh</ThoughtCalm.label>
+  <!-- EN: This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood. -->
+  <ThoughtCalm.description>Tính cách của vũ khí này là thoải mái và ổn định. Nó thì thầm những suy nghĩ êm dịu cho bất cứ ai mà nó gắn bó, làm tăng tâm trạng của họ.</ThoughtCalm.description>
+  
+  <!-- EN: kind thoughts -->
+  <ThoughtKind.label>suy nghĩ tử tế</ThoughtKind.label>
+  <!-- EN: This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood. -->
+  <ThoughtKind.description>Tính cách của vũ khí này là tốt bụng và hỗ trợ. Nó thì thầm những suy nghĩ tốt đẹp với bất cứ ai mà nó gắn bó, làm tăng tâm trạng của họ.</ThoughtKind.description>
+  
+  <!-- EN: mad muttering -->
+  <ThoughtMuttering.label>lẩm bẩm điên cuồng</ThoughtMuttering.label>
+  <!-- EN: This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood. -->
+  <ThoughtMuttering.description>Tính cách của vũ khí này là thần kinh và không ổn định. Nó lẩm bẩm những suy nghĩ điên rồ với bất cứ ai mà nó gắn bó, làm giảm tâm trạng của họ.</ThoughtMuttering.description>
+  
+  <!-- EN: mad wailing -->
+  <ThoughtWailing.label>khóc lóc điên cuồng</ThoughtWailing.label>
+  <!-- EN: This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood. -->
+  <ThoughtWailing.description>Tính cách của vũ khí này rất đáng lo ngại và sẽ không im lặng về nó. Nó gieo rắc những quan niệm điên rồ cho bất cứ ai mà nó gắn bó, kìm nén tâm trạng của họ.</ThoughtWailing.description>
+  
+</LanguageData>

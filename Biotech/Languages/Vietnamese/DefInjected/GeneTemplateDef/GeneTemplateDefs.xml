@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {0} impervious -->
+  <AddictionImmune.label>{0} miễn nhiễm với người nghiện</AddictionImmune.label>
+  <!-- EN: Carriers of this gene never get addicted to {0}. -->
+  <AddictionImmune.description>Người mang gen này không bao giờ trở nên phụ thuộc vào {0}.</AddictionImmune.description>
+  <!-- EN: {0}-impervious -->
+  <AddictionImmune.labelShortAdj>{0}-miễn dịch</AddictionImmune.labelShortAdj>
+  
+  <!-- EN: {0} resistant -->
+  <AddictionResistant.label>{0} chống nghiện</AddictionResistant.label>
+  <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
+  <AddictionResistant.description>Người mang gen này có nguy cơ nghiện một nửa {0}.</AddictionResistant.description>
+  <!-- EN: {0}-resistant -->
+  <AddictionResistant.labelShortAdj>{0}-kháng thuốc</AddictionResistant.labelShortAdj>
+  
+  <!-- EN: poor {0} -->
+  <AptitudePoor.label>yếu {0}</AptitudePoor.label>
+  <!-- EN: The carrier's aptitude in {0} is reduced by 4. Aptitude acts like an offset on skill level. -->
+  <AptitudePoor.description>Năng khiếu của người vận chuyển trong {0} bị giảm đi 4. Năng khiếu hoạt động giống như một sự bù đắp trên cấp độ kỹ năng</AptitudePoor.description>
+  
+  <!-- EN: great {0} -->
+  <AptitudeRemarkable.label>tuyệt vời {0}</AptitudeRemarkable.label>
+  <!-- EN: The carrier's aptitude in {0} is increased by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}. -->
+  <AptitudeRemarkable.description>Năng khiếu của người vận chuyển trong {0} được tăng lên 8. Năng khiếu đóng vai trò như một sự bù đắp trên cấp độ kỹ năng. Ngoài ra, một mức độ đam mê được thêm vào {0}</AptitudeRemarkable.description>
+  
+  <!-- EN: strong {0} -->
+  <AptitudeStrong.label>mạnh {0}</AptitudeStrong.label>
+  <!-- EN: The carrier's aptitude in {0} is increased by 4. Aptitude acts like an offset on skill level. -->
+  <AptitudeStrong.description>Khả năng của người vận chuyển trong {0} được tăng thêm 4. Khả năng đóng vai trò như một sự bù đắp cho cấp độ kỹ năng.</AptitudeStrong.description>
+  
+  <!-- EN: awful {0} -->
+  <AptitudeTerrible.label>khủng khiếu {0}</AptitudeTerrible.label>
+  <!-- EN: The carrier's aptitude in {0} is reduced by 8. Aptitude acts like an offset on skill level. Additionally, all passion is removed from {0}. -->
+  <AptitudeTerrible.description>Khả năng của người vận chuyển trong {0} giảm đi 8. Khả năng đóng vai trò như một sự bù đắp cho cấp độ kỹ năng. Ngoài ra, tất cả đam mê đều bị xóa khỏi {0}.</AptitudeTerrible.description>
+  
+  <!-- EN: {0} dependency -->
+  <ChemicalDependency.label>phụ thuộc {0}</ChemicalDependency.label>
+  <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
+  <ChemicalDependency.description>Những người mang gen này cần phải ăn {0} thường xuyên để tồn tại. Sau {DEFICIENCYDURATION} không có {0}, các người vận chuyển sẽ bị thiếu {0}. Sau {COMADURATION}, họ sẽ rơi vào trạng thái hôn mê. Sau {DEATHDURATION}, họ sẽ chết.</ChemicalDependency.description>
+  <!-- EN: {0}-dependent -->
+  <ChemicalDependency.labelShortAdj>lệ thuộc {0}</ChemicalDependency.labelShortAdj>
+  
+</LanguageData>

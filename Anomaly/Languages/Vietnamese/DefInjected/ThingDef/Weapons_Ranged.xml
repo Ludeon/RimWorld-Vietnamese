@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hellcat rifle bullet -->
+  <Bullet_HellcatRifle.label>đạn súng trường Hellcat</Bullet_HellcatRifle.label>
+  
+  <!-- EN: hellcat rifle -->
+  <Gun_HellcatRifle.label>Súng trường Hellcat</Gun_HellcatRifle.label>
+  <!-- EN: A versatile assault rifle with good range, decent power, and good accuracy.\n\nIt also comes equipped with a bioferrite-powered mini-burner unit which generates a blast of flame from pressurized bioferrite charges. The mini-burner unit can be used twice before refueling. -->
+  <Gun_HellcatRifle.description>Một khẩu súng trường tấn công đa năng với tầm bắn tốt, sức công phá vừa phải và độ chính xác cao. \n\nNgoài ra, nó còn được trang bị một bộ phận phun lửa mini chạy bằng Ferit Sinh học, tạo ra luồng lửa từ các bình áp lực Ferit Sinh học. Bộ phận phun lửa này có thể được sử dụng hai lần trước khi nạp lại.</Gun_HellcatRifle.description>
+  <!-- EN: burner charges -->
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>nạp thêm nhiên liệu</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>hồi chiêu</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: stock -->
+  <Gun_HellcatRifle.tools.stock.label>báng súng</Gun_HellcatRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HellcatRifle.tools.barrel.label>nòng súng</Gun_HellcatRifle.tools.barrel.label>
+  <!-- EN: hellcat rifle -->
+  <Gun_HellcatRifle.verbs.Verb_Shoot.label>bắn súng trường Hellcat</Gun_HellcatRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: incinerator -->
+  <Gun_Incinerator.label>Súng phóng hỏa</Gun_Incinerator.label>
+  <!-- EN: A heavy weapon that can spray a stream of flame into an area. It can shoot in an arc over allies without harming them. The flame burns off rapidly, so it will only ignite the most flammable targets.\n\nWhile the main flamethrower can be used without limit, the weapon also comes equipped with a bioferrite-powered mega-burner unit which generates a massive blast of flame from a pressurized bioferrite charge. The mega-burner unit must be refueled after each use. -->
+  <Gun_Incinerator.description>Một vũ khí nặng, có khả năng phun lửa dạng tia vào một khu vực. Có thể bắn theo đường vòng qua đầu đồng đội mà không gây hại đến họ. Lửa thiêu đốt nhanh chóng, nên chỉ có thể đốt cháy các mục tiêu cực kì dễ bén lửa.\n\nTrong khi hệ thống súng phun lửa chính không giới hạn số lần sử dụng, nó cũng được trang bị một bộ phận phun lửa siêu cấp chạy bằng Ferit Sinh học, tạo ra một luồng lửa cường độ lớn từ các bình áp lực Ferit Sinh học. Bộ phận này cần nạp lại sau mỗi lần sử dụng.</Gun_Incinerator.description>
+  <!-- EN: burner charges -->
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>nạp thêm nhiên liệu</Gun_Incinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>hồi chiêu</Gun_Incinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: stock -->
+  <Gun_Incinerator.tools.stock.label>báng súng</Gun_Incinerator.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Incinerator.tools.barrel.label>nòng súng</Gun_Incinerator.tools.barrel.label>
+  <!-- EN: incinerator -->
+  <Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>bắn súng phóng hỏa theo đường vòng</Gun_Incinerator.verbs.Verb_ArcSprayIncinerator.label>
+  
+</LanguageData>

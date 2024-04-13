@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark visions -->
+  <DarkVisions.label>Những ảo ảnh tăm tối</DarkVisions.label>
+  <!-- EN: Mental state: Dark visions -->
+  <DarkVisions.baseInspectLine>Tình trạng tinh thần: Những ảo ảnh tăm tối</DarkVisions.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become overwhelmed with horrible visions, rambling about things that only {PAWN_pronoun} can see. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <DarkVisions.beginLetter>{PAWN_nameDef} đã bị nhấn chìm bởi những ảo ảnh kinh hoàng, lắp bắp về những thứ chỉ có {PAWN_pronoun} có thể thấy. {PAWN_pronoun} sẽ thoát khỏi trạng thái này sau một vài giờ.</DarkVisions.beginLetter>
+  <!-- EN: dark visions -->
+  <DarkVisions.beginLetterLabel>Những ảo ảnh tăm tối</DarkVisions.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
+  <DarkVisions.recoveryMessage>{PAWN_nameDef} thoát khỏi trạng thái ảo ảnh tăm tối.</DarkVisions.recoveryMessage>
+  
+  <!-- EN: entity slayer -->
+  <EntityKiller.label>Kẻ diệt trừ thực thể</EntityKiller.label>
+  <!-- EN: Mental state: Entity slayer -->
+  <EntityKiller.baseInspectLine>Tình trạng tinh thần: Kẻ diệt trừ thực thể</EntityKiller.baseInspectLine>
+  <!-- EN: {0} has snapped. {PAWN_pronoun} can no longer tolerate holding such dangerous entities in captivity and intends to destroy as many as {PAWN_pronoun} can. -->
+  <EntityKiller.beginLetter>{0} đã phát điên. {PAWN_pronoun} không còn chịu đựng được việc giam giữ những thực thể nguy hiểm và dự định tiêu diệt càng nhiều càng tốt.</EntityKiller.beginLetter>
+  <!-- EN: {0} is no longer slaughtering random entities. -->
+  <EntityKiller.recoveryMessage>{0} đã thôi không tàn sát thực thể.</EntityKiller.recoveryMessage>
+  
+  <!-- EN: entity liberator -->
+  <EntityLiberator.label>Kẻ giải phóng thực thể</EntityLiberator.label>
+  <!-- EN: Mental state: Entity liberator -->
+  <EntityLiberator.baseInspectLine>Tình trạng tinh thần: Kẻ giải phóng thực thể</EntityLiberator.baseInspectLine>
+  <!-- EN: {0} has become suddenly allured by a captive entity and is convinced it must be freed. -->
+  <EntityLiberator.beginLetter>{0} đột nhiên bị thu hút bởi một thực thể bị bắt và tin rằng nó phải được giải phóng.</EntityLiberator.beginLetter>
+  <!-- EN: {0} is no longer freeing entities. -->
+  <EntityLiberator.recoveryMessage>{0} không còn giải phóng thực thể nữa.</EntityLiberator.recoveryMessage>
+  
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.label>Lời độc thoại điên loạn</InsaneRamblings.label>
+  <!-- EN: Mental state: Insane ramblings -->
+  <InsaneRamblings.baseInspectLine>Tình trạng tinh thần: Lời độc thoại điên loạn</InsaneRamblings.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <InsaneRamblings.beginLetter>{PAWN_nameDef} đã hoàn toàn mất kết nối với thực tại, la hét về những điều phi lý. {PAWN_pronoun} sẽ thoát khỏi trạng thái này sau một vài giờ.</InsaneRamblings.beginLetter>
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.beginLetterLabel>Lời độc thoại điên loạn</InsaneRamblings.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef} has stopped rambling. -->
+  <InsaneRamblings.recoveryMessage>{PAWN_nameDef} đã thôi độc thoại điên loạn.</InsaneRamblings.recoveryMessage>
+  
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.label>Ảo giác kinh hoàng</TerrifyingHallucinations.label>
+  <!-- EN: Mental state: Terrifying hallucinations -->
+  <TerrifyingHallucinations.baseInspectLine>Tình trạng tinh thần: Ảo giác kinh hoàng</TerrifyingHallucinations.baseInspectLine>
+  <!-- EN: Vivid  hallucinations swirl around {0}, twisting and distorting allies into horrifying abominations. {PAWN_pronoun} will flee from anyone {PAWN_pronoun} perceives as a threat. -->
+  <TerrifyingHallucinations.beginLetter>Những ảo giác sống động vây kín lấy {0}, biến đồng minh thành những dị vật gớm ghiếc. {PAWN_pronoun} sẽ chạy trốn khỏi những ai mà {PAWN_pronoun} cảm thấy là mối đe dọa.</TerrifyingHallucinations.beginLetter>
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.beginLetterLabel>Ảo giác kinh hoàng</TerrifyingHallucinations.beginLetterLabel>
+  <!-- EN: {0} is no longer hallucinating. -->
+  <TerrifyingHallucinations.recoveryMessage>{0} đã thoát khỏi ảo giác.</TerrifyingHallucinations.recoveryMessage>
+  
+</LanguageData>

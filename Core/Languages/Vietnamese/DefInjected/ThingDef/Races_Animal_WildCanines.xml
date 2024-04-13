@@ -7,8 +7,12 @@
   <Fox_Arctic.description>Loài săn mồi nhỏ đã tiến hóa để thích nghi với khí hậu lạnh. Chúng thường săn những loài thú nhỏ như chuột, sóc, đôi lúc lại đào sâu xuống lớp tuyết để tìm con mồi.</Fox_Arctic.description>
   <!-- EN: left claw -->
   <Fox_Arctic.tools.left_claw.label>vuốt trái</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.left_claw.labelNoLocation>TODO</Fox_Arctic.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Fox_Arctic.tools.right_claw.label>vuốt phải</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.right_claw.labelNoLocation>TODO</Fox_Arctic.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Fox_Arctic.tools.head.label>đầu</Fox_Arctic.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Fox_Fennec.race.meatLabel>thịt cáo</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
   <Fox_Fennec.tools.left_claw.label>vuốt trái</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.left_claw.labelNoLocation>TODO</Fox_Fennec.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Fox_Fennec.tools.right_claw.label>vuốt phải</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.right_claw.labelNoLocation>TODO</Fox_Fennec.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Fox_Fennec.tools.head.label>đầu</Fox_Fennec.tools.head.label>
   
@@ -31,23 +39,14 @@
   <Fox_Red.description>Loài thú săn mồi đơn độc tiến hóa để săn con mỗi nhỏ trong môi trường ôn đới. Chủ trang trại gà rất ghét loài cáo vì chúng có thể tàn sát cả đàn gà trong nháy mắt.</Fox_Red.description>
   <!-- EN: left claw -->
   <Fox_Red.tools.left_claw.label>vuốt trái</Fox_Red.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.left_claw.labelNoLocation>TODO</Fox_Red.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Fox_Red.tools.right_claw.label>vuốt phải</Fox_Red.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.right_claw.labelNoLocation>TODO</Fox_Red.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Fox_Red.tools.head.label>đầu</Fox_Red.tools.head.label>
-  
-  <!-- EN: warg -->
-  <Warg.label>warg</Warg.label>
-  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>Một loài sinh vật gần giống với chó sói với bộ móng vuốt khác thường và lực hàm khủng khiếp của mình. Chúng chỉ ăn thịt hoặc xác chết. Khi bị tấn công, chúng lập tức cắn trả ngay.\n\nCác nhà khoa học nói rằng warg chính là hậu duệ của loài sinh vật được vũ khí hóa để kiềm chế dân số con người. Những người khác thì nghĩ chúng là công cụ thanh trừng thay cho cơn giận của các vị thần trên cao vậy.</Warg.description>
-  <!-- EN: left claw -->
-  <Warg.tools.left_claw.label>vuốt trái</Warg.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Warg.tools.right_claw.label>vuốt phải</Warg.tools.right_claw.label>
-  <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>lông nhọn</Warg.tools.razorfangs.label>
-  <!-- EN: head -->
-  <Warg.tools.head.label>đầu</Warg.tools.head.label>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>sói bắc cực</Wolf_Arctic.label>
@@ -55,21 +54,29 @@
   <Wolf_Arctic.description>Một biến thể của loài sói sống ở vùng Bắc Cực của Trái Đất. Là loài sống theo bầy đàn, sói Bắc Cực có mối quan hệ xã hội khá phức tạp và có trí thông minh rất tốt.</Wolf_Arctic.description>
   <!-- EN: left claw -->
   <Wolf_Arctic.tools.left_claw.label>vuốt trái</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.left_claw.labelNoLocation>TODO</Wolf_Arctic.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Wolf_Arctic.tools.right_claw.label>vuốt phải</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.right_claw.labelNoLocation>TODO</Wolf_Arctic.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Wolf_Arctic.tools.head.label>đầu</Wolf_Arctic.tools.head.label>
   
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>sói xám</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
-  <Wolf_Timber.description>Lòai thú săn mồi từng là nỗi sợ hãi của nhiều sinh vật tiền sử trên Trái Đất. Là loài sống theo bầy đàn, sói xám có mối quan hệ xã hội khá phức tạp và có trí thông minh rất tốt.</Wolf_Timber.description>
+  <Wolf_Timber.description>Loài thú săn mồi từng là nỗi sợ hãi của nhiều sinh vật tiền sử trên Trái Đất. Là loài sống theo bầy đàn, sói xám có mối quan hệ xã hội khá phức tạp và có trí thông minh rất tốt.</Wolf_Timber.description>
   <!-- EN: wolf meat -->
   <Wolf_Timber.race.meatLabel>thịt sói</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
   <Wolf_Timber.tools.left_claw.label>vuốt trái</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.left_claw.labelNoLocation>TODO</Wolf_Timber.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Wolf_Timber.tools.right_claw.label>vuốt phải</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.right_claw.labelNoLocation>TODO</Wolf_Timber.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Wolf_Timber.tools.head.label>đầu</Wolf_Timber.tools.head.label>
   

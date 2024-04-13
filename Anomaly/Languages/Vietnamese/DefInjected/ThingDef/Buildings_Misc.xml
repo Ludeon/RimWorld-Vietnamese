@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: atmospheric heater -->
+  <AtmosphericHeater.label>Thiết bị tăng nhiệt</AtmosphericHeater.label>
+  <!-- EN: A thermal projection device powered by scavenged shards of dark archotechnology. The device burns bioferrite to agitate gas molecules in the atmosphere, raising the local outdoor temperature. The building itself also produces huge amounts of waste heat. -->
+  <AtmosphericHeater.description>Một thiết bị chiếu nhiệt được cung cấp năng lượng bởi những mảnh vỡ archotechnology hắc ám. Thiết bị này đốt bioferrite để khuấy động các phân tử khí trong không khí, làm tăng nhiệt độ ngoài trời. Bản thân của nó cũng tạo ra một lượng nhiệt thải khổng lồ.</AtmosphericHeater.description>
+  <!-- EN: Target outdoor temperature -->
+  <AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>Nhiệt độ mục tiêu ngoài trời</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
+  
+  <!-- EN: tactical turret bullet -->
+  <Bullet_TacticalTurret.label>Đạn tháp pháo tự động</Bullet_TacticalTurret.label>
+  
+  <!-- EN: delayed metalhorror emerge -->
+  <DelayedMetalhorrorEmerger.label>Khu trồi lên của Quái kim loại (trì hoãn)</DelayedMetalhorrorEmerger.label>
+  
+  <!-- EN: dirt cube sculpture -->
+  <DirtCubeSculpture.label>Tượng khối đất</DirtCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <DirtCubeSculpture.description>Một mô hình khối lập phương được dựng lên vội vàng.</DirtCubeSculpture.description>
+  
+  <!-- EN: electric inhibitor -->
+  <ElectricInhibitor.label>Thiết bị ngăn chặn điện</ElectricInhibitor.label>
+  <!-- EN: A device that emits a specially tuned electromagnetic field which numbs the neural activity of captured entities. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals. -->
+  <ElectricInhibitor.description>Một thiết bị phát ra trường điện từ được điều chỉnh đặc biệt giúp làm tê liệt hoạt động thần kinh của thực thể bị bắt. Miễn là nó có điện, nó sẽ tăng cường khả năng giam giữ của bất kỳ loại nền giam giữ nào mà nó nhắm đến. Trường điện không ảnh hưởng đến con người hoặc động vật bình thường.</ElectricInhibitor.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit2x2c.label>Hố vô tận</EndlessPit2x2c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit2x2c.description>Một cái hố có đáy sâu không thấy điểm dừng.</EndlessPit2x2c.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit3x2c.label>Hố vô tận</EndlessPit3x2c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit3x2c.description>Một cái hố có đáy sâu không thấy điểm dừng.</EndlessPit3x2c.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit3x3c.label>Hố vô tận</EndlessPit3x3c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit3x3c.description>Một cái hố có đáy sâu không thấy điểm dừng.</EndlessPit3x3c.description>
+  
+  <!-- EN: floor etching -->
+  <FloorEtching.label>Hình khắc nền</FloorEtching.label>
+  <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
+  <FloorEtching.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một người định cư và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtching.description>
+  <!-- EN: Choose someone to decipher this floor etching. -->
+  <FloorEtching.comps.CompFloorEtching.activateDescString>Chọn người giải mã hình khắc nền này.</FloorEtching.comps.CompFloorEtching.activateDescString>
+  <!-- EN: Decipher... -->
+  <FloorEtching.comps.CompFloorEtching.activateLabelString>Giải mã...</FloorEtching.comps.CompFloorEtching.activateLabelString>
+  <!-- EN: Deciphering floor etching: {1}s -->
+  <FloorEtching.comps.CompFloorEtching.activatingString>Giải mã hình khắc nền: {1}s</FloorEtching.comps.CompFloorEtching.activatingString>
+  <!-- EN: Deciphering floor etching -->
+  <FloorEtching.comps.CompFloorEtching.activatingStringPending>Giải mã hình khắc nền</FloorEtching.comps.CompFloorEtching.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FloorEtching.comps.CompFloorEtching.guiLabelString>Chọn người đi làm việc này</FloorEtching.comps.CompFloorEtching.guiLabelString>
+  <!-- EN: Send a colonist to decipher this. -->
+  <FloorEtching.comps.CompFloorEtching.inspectString>Gửi người định cư giải mã.</FloorEtching.comps.CompFloorEtching.inspectString>
+  <!-- EN: Decipher floor etching -->
+  <FloorEtching.comps.CompFloorEtching.jobString>Giải mã hình khắc nền</FloorEtching.comps.CompFloorEtching.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
+  <FloorEtching.comps.CompFloorEtching.messageCompletedString>{PAWN_nameDef} đã giải mã thành công hình khắc nền.</FloorEtching.comps.CompFloorEtching.messageCompletedString>
+  
+  <!-- EN: floor etching -->
+  <FloorEtchingRambling.label>Hình khắc nền (ngẫu nhiên)</FloorEtchingRambling.label>
+  <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
+  <FloorEtchingRambling.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một người định cư và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtchingRambling.description>
+  <!-- EN: Choose someone to decipher this floor etching. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Chọn người giải mã hình khắc nền này.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
+  <!-- EN: Decipher... -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>Giải mã...</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>
+  <!-- EN: Deciphering floor etching: {1}s -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>Giải mã hình khắc nền: {1}s</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>
+  <!-- EN: Deciphering floor etching -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>Giải mã hình khắc nền</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Chọn người đi làm việc này</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
+  <!-- EN: Send a colonist to decipher this. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Gửi người định cư giải mã.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+  <!-- EN: Decipher floor etching -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Giải mã hình khắc nền</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>{PAWN_nameDef} đã giải mã thành công hình khắc nền.</FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>
+  
+  <!-- EN: frenzy inducer -->
+  <FrenzyInducer.label>Thiết bị Kích cuồng</FrenzyInducer.label>
+  <!-- EN: A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent. -->
+  <FrenzyInducer.description>Một mảnh vỡ archotechnology hắc ám gắn trên một khung kích thích điện. Nó tạo một rung động tâm linh loạn cuồng trong khu vực, kích thích tất cả mọi người xung quanh di chuyển và làm việc nhanh hơn. Tuy nhiên, bất kỳ sự sụp đổ tinh thần nào họ có đều sẽ dẫn đến bạo lực dữ dội.</FrenzyInducer.description>
+  
+  <!-- EN: gray box -->
+  <GrayBox.label>Hộp Xám</GrayBox.label>
+  <!-- EN: A strange gray container. It is featureless and the surfaces are smooth. The material is not metal, concrete, or any other identifiable material. -->
+  <GrayBox.description>Một hộp đựng kỳ lạ màu xám. Nó không có đặc điểm gì và bề mặt thì trơn láng. Vật liệu không phải là kim loại, bê tông, hay bất kỳ vật chất nào có thể xác định được.</GrayBox.description>
+  
+  <!-- EN: door -->
+  <GrayDoor.label>Cửa Xám</GrayDoor.label>
+  <!-- EN: A strange gray door. -->
+  <GrayDoor.description>Một cánh cửa xám lạ lùng.</GrayDoor.description>
+  <!-- EN: Choose someone to force this door open. -->
+  <GrayDoor.comps.CompLabyrinthDoor.activateDescString>Chọn người để phá cửa này.</GrayDoor.comps.CompLabyrinthDoor.activateDescString>
+  <!-- EN: Force open... -->
+  <GrayDoor.comps.CompLabyrinthDoor.activateLabelString>Phá cửa...</GrayDoor.comps.CompLabyrinthDoor.activateLabelString>
+  <!-- EN: forcing door open: {1}s -->
+  <GrayDoor.comps.CompLabyrinthDoor.activatingString>phá cửa: {1}s</GrayDoor.comps.CompLabyrinthDoor.activatingString>
+  <!-- EN: forcing door open -->
+  <GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>phá cửa</GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <GrayDoor.comps.CompLabyrinthDoor.guiLabelString>Chọn người đi làm việc này</GrayDoor.comps.CompLabyrinthDoor.guiLabelString>
+  <!-- EN: Force this door open -->
+  <GrayDoor.comps.CompLabyrinthDoor.jobString>Phá cửa</GrayDoor.comps.CompLabyrinthDoor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the door open. -->
+  <GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>{PAWN_nameDef} đã phá cửa xong.</GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>
+  
+  <!-- EN: gray statue -->
+  <GrayStatueDeadlifeDust.label>Tượng xám Bụi Tử Thi</GrayStatueDeadlifeDust.label>
+  <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->
+  <GrayStatueDeadlifeDust.description>Một bức tượng kỳ lạ, vặn vẹo với hình dạng đáng sợ. Nó phát ra âm thanh ù ù với nguồn năng lượng dị thường bên trong.</GrayStatueDeadlifeDust.description>
+  <!-- EN: Gray statue activated -->
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Tượng xám kích hoạt</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
+  <!-- EN: Reacting to {PAWN_nameDef}'s presence, the strange statue has begun to release a cloud of deadlife dust!\n\nThis dust-like substance will settle on nearby corpses and raise them as dangerous shamblers. -->
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Phản ứng với sự hiện diện của {PAWN_nameDef}, tượng phát ra một đám mây Bụi Tử Thi!\n\nChất giống bụi này sẽ phủ lên các xác chết xung quanh và biến chúng thành những thây ma nguy hiểm.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+  
+  <!-- EN: gray statue -->
+  <GrayStatueTeleporter.label>Tượng xám Dịch chuyển</GrayStatueTeleporter.label>
+  <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->
+  <GrayStatueTeleporter.description>Một bức tượng kỳ lạ, vặn vẹo với hình dạng đáng sợ. Nó phát ra âm thanh ù ù với nguồn năng lượng dị thường bên trong.</GrayStatueTeleporter.description>
+  <!-- EN: {PAWN_nameDef} teleported -->
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{PAWN_nameDef} đã dịch chuyển</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+  <!-- EN: After approaching the strange statue, {PAWN_nameDef} blinked and found {PAWN_objective}self transported to a new location. -->
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>Sau khi đến gần bức tượng kỳ lạ, {PAWN_nameDef} chớp mắt và đã bị dịch chuyển đến một địa điểm mới.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+  
+  <!-- EN: wall -->
+  <GrayWall.label>Tường Xám</GrayWall.label>
+  <!-- EN: An impassable gray wall. -->
+  <GrayWall.description>Một bức tường màu xám không thể xuyên qua.</GrayWall.description>
+  
+  <!-- EN: tactical turret gun -->
+  <Gun_TacticalTurret.label>Súng Tháp pháo Chiến thuật</Gun_TacticalTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_TacticalTurret.description>Một khẩu súng tự động đơn giản được chế tạo để lắp trên tháp pháo.</Gun_TacticalTurret.description>
+  <!-- EN: tactical turret gun -->
+  <Gun_TacticalTurret.verbs.Verb_Shoot.label>Bắn</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: holding platform -->
+  <HoldingPlatform.label>Nền giam giữ</HoldingPlatform.label>
+  <!-- EN: A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices. -->
+  <HoldingPlatform.description>Một bệ dùng để cố định những thực thể nguy hiểm. Các góc có móc để gắn xích cứng cáp.\n\nCác thực thể bị hạ gục có thể bị bắt và trói chặt vào nền giam giữ để nghiên cứu về Dị thường. Tăng cường sức giam giữ bằng cách xây các bức tường, cửa vững chắc, và các thiết bị giam giữ đặc biệt khác.</HoldingPlatform.description>
+  
+  <!-- EN: holding spot -->
+  <HoldingSpot.label>Điểm giam giữ</HoldingSpot.label>
+  <!-- EN: A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices. -->
+  <HoldingSpot.description>Một khu vực để giữ các thực thể nguy hiểm. Không tốt bằng nền giam giữ thép, nhưng vẫn tốt hơn không có.\n\nCác thực thể bị hạ gục có thể bị trói chặt tại một điểm giam giữ để được nghiên cứu. Tăng cường sức giam giữ bằng cách xây các bức tường, cửa vững chắc, và các thiết bị giam giữ đặc biệt khác.</HoldingSpot.description>
+  
+  <!-- EN: noctolith -->
+  <Noctolith.label>Thạch Trụ Sắc Nhọn</Noctolith.label>
+  <!-- EN: A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.\n\nIf you destroy the pillar, you can recover a shard of dark archotech. -->
+  <Noctolith.description>Thạch trụ vặn vẹo với các cấu trúc như lưỡi dao sắc nhọn làm bằng kim loại đen, nhớp nháp. Nó phát ra xung nhịp năng lượng, được cung cấp sức mạnh bởi viễn cổ công nghệ hắc ám ở lõi.\n\nNếu bạn phá hủy cột trụ này, bạn có thể lấy được một mảnh vỡ viễn cổ công nghệ này.</Noctolith.description>
+  <!-- EN: Contains: Unknown\nDestroy noctoliths to end the unnatural darkness. -->
+  <Noctolith.comps.CompInspectString.inspectString>Chứa: Không Rõ\nPhá hủy thạch trụ sắc nhọn để chấm dứt bóng tối siêu nhiên.</Noctolith.comps.CompInspectString.inspectString>
+  
+  <!-- EN: pit burrow -->
+  <PitBurrow.label>Hang trong hố</PitBurrow.label>
+  <!-- EN: A small hole connecting to some unseen cave network deep under the surface. The walls are too steep to climb. It is inherently unstable and will collapse after some time. -->
+  <PitBurrow.description>Một cái hố nhỏ nối với mạng lưới hang động nào đó sâu dưới bề mặt. Các vách đá quá dốc để có thể leo. Bản chất của nó không ổn định và sẽ sụp đổ sau một thời gian.</PitBurrow.description>
+  
+  <!-- EN: underground emergence -->
+  <PitBurrowSpawner.label>Khu trồi lên từ hố</PitBurrowSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <PitBurrowSpawner.description>Thứ gì đó đang trồi lên từ lòng đất ở đây.</PitBurrowSpawner.description>
+  
+  <!-- EN: pit gate -->
+  <PitGate.label>Cổng Hố</PitGate.label>
+  <!-- EN: A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below. -->
+  <PitGate.description>Một cái hố lớn, đáng sợ nối trực tiếp bề mặt với một mạng lưới hang động tối tăm. Có thể leo xuống các hang động bên dưới.</PitGate.description>
+  
+  <!-- EN: pit gate exit -->
+  <PitGateExit.label>Lối ra Cổng Hố</PitGateExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <PitGateExit.description>Một sợi dây thừng nối lên bề mặt phía trên.</PitGateExit.description>
+  
+  <!-- EN: underground emergence -->
+  <PitGateSpawner.label>Khu trồi lên từ hố</PitGateSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <PitGateSpawner.description>Thứ gì đó đang trồi lên từ lòng đất ở đây.</PitGateSpawner.description>
+  <!-- EN: Pit gate opened -->
+  <PitGateSpawner.building.groundSpawnerLetterLabel>Cổng Hố đã mở</PitGateSpawner.building.groundSpawnerLetterLabel>
+  <!-- EN: The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves. -->
+  <PitGateSpawner.building.groundSpawnerLetterText>Nền đất trồi sụt đã tạo thành hố sâu xuống phía dưới.\n\nCổng này sẽ vẫn mở cho đên khi bạn làm sập lối vào. Thám hiểm cổng hố để tìm cách phá hủy nó từ phía dưới và tìm những đồ vật hữu ích trong hang.</PitGateSpawner.building.groundSpawnerLetterText>
+  
+  <!-- EN: proximity detector -->
+  <ProximityDetector.label>Thiết bị dò tiệm cận</ProximityDetector.label>
+  <!-- EN: A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius. -->
+  <ProximityDetector.description>Máy quét có khả năng phát hiện các sinh vật tàng hình. Thiết bị phát báo động khi phát hiện sự hiện diện của dấu hiệu sinh học tàng hình tâm linh trong bán kính của nó.</ProximityDetector.description>
+  
+  <!-- EN: sand cube sculpture -->
+  <SandCubeSculpture.label>Tượng khối cát</SandCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <SandCubeSculpture.description>Một mô hình khối lập phương được dựng lên vội vàng.</SandCubeSculpture.description>
+  
+  <!-- EN: scrap cube sculpture -->
+  <ScrapCubeSculpture.label>Tượng khối phế liệu</ScrapCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <ScrapCubeSculpture.description>Một mô hình khối lập phương được dựng lên vội vàng.</ScrapCubeSculpture.description>
+  
+  <!-- EN: security door -->
+  <SecurityDoor.label>Cửa An ninh</SecurityDoor.label>
+  <!-- EN: A heavily reinforced door. It is slow to open and requires electricity, but is very strong. It's a good choice if you want to keep something dangerous out - or in. The door requires walls on either side to function. -->
+  <SecurityDoor.description>Một cánh cửa gia cố nặng. Mở chậm và cần điện để hoạt động, nhưng rất chắc chắn. Là một lựa chọn tốt nếu bạn muốn ngăn cản thứ gì đó nguy hiểm - xông ra hoặc lẻn vào. Cánh cửa cần tường hai bên mới có thể hoạt động.</SecurityDoor.description>
+  
+  <!-- EN: shard inhibitor -->
+  <ShardInhibitor.label>Thiết bị ngăn chặn Mảnh vỡ</ShardInhibitor.label>
+  <!-- EN: A shard of dark archotechnology that resonates with psychic energy, increasing the containment strength of any holding platform or spot within its radius.\n\nThe effect does not stack. -->
+  <ShardInhibitor.description>Một mảnh vỡ của viễn cổ công nghệ hắc ám phát ra cộng hưởng năng lượng tâm linh, tăng mức độ giam giữ của bất cứ nền hay điểm giam giữ nào trong phạm vi. \n\nHiệu ứng không cộng dồn.</ShardInhibitor.description>
+  
+  <!-- EN: sleep suppressor -->
+  <SleepSuppressor.label>Thiết bị ngăn ngủ</SleepSuppressor.label>
+  <!-- EN: A scavenged archotech shard mounted in an electrical control frame. The device creates a psychic pulsation in the local area which alters the brain chemistry of those nearby, halting the buildup of fatigue toxins and removing the need for sleep. However, it also irritates anyone nearby. -->
+  <SleepSuppressor.description>Một mảnh vỡ archotechnology hắc ám gắn trên một khung điều khiển điện. Thiết bị tạo ra một xung động tâm linh trong khu vực, làm thay đổi chức năng não bộ của những người trong vùng, ngăn chặn sự tích tụ độc tố gây mệt mỏi và loại bỏ nhu cầu ngủ. Tuy nhiên, nó cũng đồng thời khiến tất cả ở gần đó cảm thấy khó chịu.</SleepSuppressor.description>
+  
+  <!-- EN: stone cube sculpture -->
+  <StoneCubeSculpture.label>Tượng khối đá</StoneCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <StoneCubeSculpture.description>Một mô hình khối lập phương được dựng lên vội vàng.</StoneCubeSculpture.description>
+  
+  <!-- EN: IED deadlife trap -->
+  <TrapIED_Deadlife.label>Bẫy thuốc nổ Bụi Tử Thi</TrapIED_Deadlife.label>
+  <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
+  <TrapIED_Deadlife.description>Một cặp vỏ bom chứa Bụi Tử Thi được nối với kíp nổ khi bị chạm vào hay trúng đạn. Do được giấu trong địa hình xung quanh, bẫy này không thể đặt sát bẫy khác. Động vật có thể phát hiện ra chúng khi bình tĩnh.\n\nBẫy cần các xác chết ở gần đó để bị Bụi Tử Thi hồi sinh.</TrapIED_Deadlife.description>
+  
+  <!-- EN: tactical turret -->
+  <Turret_TacticalTurret.label>Tháp pháo Chiến thuật</Turret_TacticalTurret.label>
+  <!-- EN: A short-range turret. It will stop functioning once its battery runs out. If damaged sufficiently, it may explode. -->
+  <Turret_TacticalTurret.description>Một tháp pháo tầm ngắn. Nó sẽ ngừng hoạt động khi hết pin. Nếu bị hư hại đủ nặng, nó có thể phát nổ.</Turret_TacticalTurret.description>
+  <!-- EN: Battery power -->
+  <Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>Năng lượng Pin</Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>Tháp pháo này sử dụng pin có thời lượng sử dụng hạn chế. Một khi hết pin, nó hoàn toàn ngừng hoạt động.</Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

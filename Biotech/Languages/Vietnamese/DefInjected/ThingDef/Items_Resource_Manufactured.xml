@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tox shell -->
+  <Bullet_Shell_Tox.label>bom xăng</Bullet_Shell_Tox.label>
+  
+  <!-- EN: deathrest capacity serum -->
+  <DeathrestCapacitySerum.label>Huyết thanh giấc ngủ chết</DeathrestCapacitySerum.label>
+  <!-- EN: A serum that permanently increases the number of deathrest buildings a person can connect to during deathrest.\n\nThe serum can only be ingested by individuals with the deathrest gene. -->
+  <DeathrestCapacitySerum.description>Một loại huyết thanh làm tăng vĩnh viễn số tòa nhà deathrest mà một người có thể kết nối trong khi deathrest.\n\nChỉ những cá nhân có gen deathrest mới có thể uống huyết thanh này.</DeathrestCapacitySerum.description>
+  <!-- EN: Ingest {0_label} -->
+  <DeathrestCapacitySerum.comps.CompUsable.useLabel>Nhập {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+  
+  <!-- EN: nano structuring chip -->
+  <NanostructuringChip.label>chip cấu trúc nano</NanostructuringChip.label>
+  <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+  <NanostructuringChip.description>Một bộ phận cơ khí được tái tạo bằng vi nano được sử dụng để sản xuất một số dòng thiết bị và máy móc tiên tiến. \n\nmechanitor có thể điều tra con chip này để mở khóa các vật phẩm nghiên cứu cơ khí cấp cao hơn.</NanostructuringChip.description>
+  <!-- EN: Analyze the nano structuring chip. -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the nano structuring chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Nano structuring chip studied: {RESEARCH} unlocked -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze nano structuring chip -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: powerfocus chip -->
+  <PowerfocusChip.label>powerfocus chip</PowerfocusChip.label>
+  <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+  <PowerfocusChip.description>Một cơ quan vi mô tập trung năng lượng mechanoid. Cần phải sản xuất một số loại thiết bị và công nghệ tiên tiến nhất định.\n\nMột mechanitor có thể nghiên cứu con chip này để giúp mở khóa các cấp độ nghiên cứu cơ khí cao hơn.</PowerfocusChip.description>
+  <!-- EN: Analyze the powerfocus chip. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Powerfocus chip studied: {RESEARCH} unlocked -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze powerfocus chip -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: tox shell -->
+  <Shell_Toxic.label>bom xăng</Shell_Toxic.label>
+  <!-- EN: An artillery shell containing reagents that, when combined, generate deadly tox gas. When fired, it will stick into the ground and release tox gas for some time before expiring.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup that can be lethal. -->
+  <Shell_Toxic.description>Một quả đạn súng thần công chứa đầy thuốc thử hóa học. Các thuốc thử hóa học có trong nó có thể tạo ra khí độc chết người sau khi trộn. Sau khi đạn được bắn ra, nó sẽ xuyên qua lòng đất một thời gian và tiếp tục giải phóng khí độc. \n\nKhí độc sẽ đốt cháy mắt và phổi của sinh vật, tạm thời làm giảm khả năng nhìn và thở. Tiếp tục tiếp xúc với khí cũng có thể gây ngộ độc.</Shell_Toxic.description>
+  
+  <!-- EN: tox shell -->
+  <Shell_Toxic_Releasing.label>bom xăng</Shell_Toxic_Releasing.label>
+  
+  <!-- EN: tox shell -->
+  <Shell_Toxic_Releasing_Water.label>bom xăng</Shell_Toxic_Releasing_Water.label>
+  
+  <!-- EN: signal chip -->
+  <SignalChip.label>chip tín hiệu</SignalChip.label>
+  <!-- EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+  <SignalChip.description>Một thành phần cơ học xử lý tín hiệu vi đồng bộ được sử dụng trong quá trình sản xuất một số dòng máy móc và thiết bị tiên tiến. \n\nmechanitor có thể điều tra con chip này để mở khóa các vật phẩm nghiên cứu cơ khí cấp cao hơn.</SignalChip.description>
+  <!-- EN: Analyze the signal chip. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the signal chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Signal chip studied: {RESEARCH} unlocked -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze signal chip -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>TODO</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: basic subcore -->
+  <SubcoreBasic.label>lõi phụ (cơ bản)</SubcoreBasic.label>
+  <!-- EN: The simplest possible mechanoid brain, this is a tiny psychodynamic substrate unit housing a dull subpersona. Since this is only a basic-tier subcore, it can only drive the simplest of mechanoids.\n\nLike all mechanoid subcores, it contains a subpersona with a psychic presence, albeit a very faint one. -->
+  <SubcoreBasic.description>Bộ não mechanoid đơn giản nhất có thể, đó là một đơn vị cơ chất tâm động học nhỏ bé chứa một AI mờ nhạt. Vì nó chỉ là lõi phụ cơ bản, nên nó chỉ có thể điều khiển các mechanoids đơn giản nhất.\n\nGiống như tất cả các lõi phụ mechanoids, nó chứa AI có sự hiện diện của tâm linh, mặc dù rất thấp.</SubcoreBasic.description>
+  
+  <!-- EN: high subcore -->
+  <SubcoreHigh.label>Lõi phụ (Nâng cao)</SubcoreHigh.label>
+  <!-- EN: A high-tier mechanoid brain, this is a psychodynamic substrate unit which supports a sophisticated subpersona. This particular subcore is of the strongest tier, and can power complex ultra-heavy mechanoids.\n\nThe subpersona inside this core approaches a live human in its complexity, though it is of a very different nature. Like any such mind, it has a noticeable psychic presence.\n\nThis subcore could only have been produced by rich pattern transfer from another sophisticated mind. The only way to do this without huge facilities is to ripscan a living person's brain, killing them in the process. -->
+  <SubcoreHigh.description>Một bộ não mechanoid cấp cao, nó là một đơn vị cơ chất tâm động học hỗ trợ AI tinh vi. Lõi phụ cụ thể này có cấp độ mạnh nhất và có thể cung cấp năng lượng cho các mechanoids siêu nặng phức tạp.\n\nAI bên trong lõi này gần giống với một con người sống ở tất cả mức độ phức tạp của nó, mặc dù nó có bản chất rất khác. Giống như bất kỳ linh hồn nào như vậy, nó có sự hiện diện tâm linh đáng chú ý.\n\nLõi phụ này chỉ có thể được tạo ra bằng cách chuyển giao các mẫu có chất lượng cao từ một linh hồn cao hơn khác. Cách duy nhất để làm điều này mà không cần các phương tiện khổng lồ là quét não của một người sống, giết chết họ trong quá trình này.</SubcoreHigh.description>
+  
+  <!-- EN: standard subcore -->
+  <SubcoreRegular.label>Lõi thứ cấp (Tiêu chuẩn)</SubcoreRegular.label>
+  <!-- EN: A standard-tier mechanoid brain, this is a psychodynamic substrate unit supporting a thinking subpersona. This particular subcore is strong enough to drive standard-tier mechanoids.\n\nMechanoids are more than robots, and this is more than a silicon computer. Its thinking, psychically-present subpersona makes it more adaptable than silicon systems. However, this also means it can only be produced by analog pattern transfer from another thinking mind. -->
+  <SubcoreRegular.description>Một bộ não máy móc cấp độ tiêu chuẩn, nó là một đơn vị chất nền tâm động học hỗ trợ một AI biết suy nghĩ. Lõi phụ cụ thể này đủ mạnh để điều khiển Mechanoids cấp tiêu chuẩn.\n\nMechanoids không chỉ là rô-bốt và nó còn hơn cả một chiếc máy tính silicon. Trí tuệ nhân tạo hiện tại về mặt tâm lý và suy nghĩ của nó khiến nó dễ thích nghi hơn các hệ thống silicon. Tuy nhiên, điều này cũng có nghĩa là nó chỉ có thể được tạo ra bằng cách chuyển mô hình tương tự từ một bộ óc tư duy khác.</SubcoreRegular.description>
+  
+  <!-- EN: toxic wastepack -->
+  <Wastepack.label>chất thải độc hại</Wastepack.label>
+  <!-- EN: A compacted package of toxic waste that will slowly dissolve if not frozen. The surface is heat-sealed for safe transport. Wastepacks will pollute the surrounding terrain if they dissolve, deteriorate, or are otherwise destroyed.\n\nToxic wastepacks are flammable. If burned or damaged, they will release tox gas. -->
+  <Wastepack.description>Một gói chất thải độc được nén chặt sẽ tan chậm nếu không được đông lạnh. Bề mặt được hàn nhiệt để vận chuyển an toàn. Túi rác sẽ gây ô nhiễm địa hình xung quanh nếu chúng phân hủy, hư hỏng hoặc bị phá hủy theo cách khác.\n\nTúi rác độc hại dễ cháy. Nếu bị đốt cháy hoặc hư hỏng, chúng sẽ giải phóng khí độc.</Wastepack.description>
+  
+</LanguageData>

@@ -2,13 +2,18 @@
 <LanguageData>
   
   <!-- EN: defoliator -->
-  <Defoliator.label>TODO</Defoliator.label>
+  <Defoliator.label>thuốc rụng lá</Defoliator.label>
   <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
-  <Defoliator.description>TODO</Defoliator.description>
+  <Defoliator.description>Một thiết bị ngăn chặn khu vực tiêu diệt thực vật gần đó mà không ảnh hưởng đến động vật.\n\nTrong các cuộc chiến tranh giữa các hành tinh, những vũ khí này nằm rải rác khắp các vùng đất nông nghiệp hoặc rừng rậm để ngăn chặn nguồn thức ăn hoặc chỗ ẩn nấp của kẻ thù. Chúng thường được liên kết với bầy cơ khí rơi trên quỹ đạo.</Defoliator.description>
+  
+  <!-- EN: mech node -->
+  <Gloomlight.label>nút máy</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>Nút cơ khí tự cấp nguồn không rõ chức năng. Các nút cơ khí có thể được giải cấu trúc để mang lại các tài nguyên có giá trị - nhưng chỉ khi chúng được chiếm giữ nguyên vẹn. Pin năng lượng siêu nhỏ bên trong sẽ bùng cháy và làm hỏng vật liệu nếu thiết bị bị hư hại quá nhiều.</Gloomlight.description>
   
   <!-- EN: unstable power cell -->
-  <UnstablePowerCell.label>TODO</UnstablePowerCell.label>
+  <UnstablePowerCell.label>tế bào điện không ổn định</UnstablePowerCell.label>
   <!-- EN: A mechanoid power generation unit. The vanometric power core will run forever, extracting energy from quantum foam fluctuations.\n\nAn internal amplifier system makes it unstable. If damaged, the unit will generate a massive explosion.\n\nSome brave humans steal these from mechanoids for their own use as power plants or defensive bombs. However, an unintentional detonation can be devastating. -->
-  <UnstablePowerCell.description>TODO</UnstablePowerCell.description>
+  <UnstablePowerCell.description>Bộ phận phát điện dạng cơ. Lõi điện biến áp sẽ chạy mãi mãi, lấy năng lượng từ dao động của bọt lượng tử.\n\nMột hệ thống khuếch đại bên trong khiến nó không ổn định. Nếu bị hư hỏng, thiết bị sẽ tạo ra một vụ nổ lớn.\n\nMột số người dũng cảm đánh cắp những thứ này từ máy móc để sử dụng riêng làm nhà máy điện hoặc bom phòng thủ. Tuy nhiên, một vụ nổ không chủ ý có thể tàn phá.</UnstablePowerCell.description>
   
 </LanguageData>

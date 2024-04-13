@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: enslave attempt -->
+  <EnslaveAttempt.label>nỗ lực biến làm nô lệ</EnslaveAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work for the colony.</li>
+    <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must obey orders and work.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ordered [RECIPIENT_nameDef] to prepare for a life of forced labour.</li>
+    <li>r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment.</li>
+  -->
+  <EnslaveAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải làm việc cho thuộc địa.</li>
+    <li>r_logentry->[INITIATOR_nameDef] thông báo cho [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải nghe theo mệnh lệnh và làm việc.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ra lệnh [RECIPIENT_nameDef] chuẩn bị cho một cuộc sống lao động khổ sai.</li>
+    <li>r_logentry->[INITIATOR_nameDef] giải thích với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] phải làm việc nếu không muốn bị trừng phạt.</li>
+  </EnslaveAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: try to reduce will -->
+  <ReduceWill.label>cố gắng đánh gục nghị lực</ReduceWill.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+    <li>negative->had no future</li>
+    <li>negative->had no way to escape</li>
+    <li>negative->had no future outside of the colony</li>
+    <li>negative->didn't have the means to escape</li>
+    <li>negative->should submit immediately</li>
+    <li>negative->should forget [RECIPIENT_possessive] aspirations</li>
+    <li>negative->should submit to the colony</li>
+    <li>threat->torture</li>
+    <li>threat->punishment</li>
+    <li>threat->mutilation</li>
+    <li>threat->starvation</li>
+    <li>threat->lifetime incarceration</li>
+    <li>threat->death</li>
+    <li>threat->isolation</li>
+    <li>threat->dismemberment</li>
+    <li>threat->blunt trauma</li>
+    <li>threat->lacerations</li>
+    <li>threat->cannibalism</li>
+    <li>threat->organ harvesting</li>
+    <li>threat->long confinement</li>
+    <li>refused->tried to escape</li>
+    <li>refused->insulted the colony</li>
+    <li>refused->did not work</li>
+    <li>refused->refused a command</li>
+    <li>refused->resisted submitting</li>
+    <li>refused->refused to obey</li>
+    <li>refused->behaved impertinently</li>
+    <li>disillusionment->should accept [RECIPIENT_possessive] situation</li>
+    <li>disillusionment->had no hope for another future</li>
+    <li>disillusionment->would be best off submitting</li>
+    <li>disillusionment->would not survive on [RECIPIENT_possessive] own</li>
+    <li>disillusionment->had no option but to submit</li>
+    <li>givein->give in</li>
+    <li>givein->submit [RECIPIENT_objective]self</li>
+    <li>givein->surrender [RECIPIENT_objective]self</li>
+    <li>givein->yield [RECIPIENT_objective]self</li>
+  -->
+  <ReduceWill.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] giải thích rằng [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đe dọa [RECIPIENT_nameDef] bằng việc [threat] nếu [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] thông báo với [RECIPIENT_nameDef] rằng [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đề nghị [RECIPIENT_nameDef] [givein] trước thuộc địa.</li>
+    <li>negative->không có tương lai</li>
+    <li>negative->không có cách để trốn thoát</li>
+    <li>negative->không có tương lai ngoài thuộc địa</li>
+    <li>negative->không có vật dụng để trốn thoát</li>
+    <li>negative->nên qui phục ngay lập tức</li>
+    <li>negative->nên quên những nguyện vọng [RECIPIENT_possessive]</li>
+    <li>negative->nên qui phục trước thuộc địa</li>
+    <li>threat->tra tấn</li>
+    <li>threat->đón hình phạt</li>
+    <li>threat->tùng xẻo</li>
+    <li>threat->bỏ đói</li>
+    <li>threat->bỏ tù suốt đời</li>
+    <li>threat->bị giết</li>
+    <li>threat->cô lặp</li>
+    <li>threat->cắt chi</li>
+    <li>threat->chấn thương cùn</li>
+    <li>threat->cắt da</li>
+    <li>threat->ăn thịt người</li>
+    <li>threat->thu hoạch nội tạng</li>
+    <li>threat->giam giữ lâu dài</li>
+    <li>refused->cố gắng trốn thoát</li>
+    <li>refused->chửi thuộc địa</li>
+    <li>refused->không làm việc</li>
+    <li>refused->bỏ qua mệnh lệnh</li>
+    <li>refused->không qui phục</li>
+    <li>refused->không nghe lời</li>
+    <li>refused->hành xử không phù hợp</li>
+    <li>disillusionment->nên chấp nhận tình hình[RECIPIENT_possessive]</li>
+    <li>disillusionment->không còn hy vọng cho tương lai khác</li>
+    <li>disillusionment->nên qui phục thì tốt hơn</li>
+    <li>disillusionment->sẽ không sống nổi một mình</li>
+    <li>disillusionment->không còn cách nào ngoài việc qui phục</li>
+    <li>givein->chịu thua</li>
+    <li>givein->qui phục bản thân</li>
+    <li>givein->đầu hàng bản thân</li>
+    <li>givein->nhường bản thân</li>
+  </ReduceWill.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech cluster -->
+  <MechCluster.label>cụm cỗ máy cơ</MechCluster.label>
+  <!-- EN: Mechanoid cluster -->
+  <MechCluster.letterLabel>Cụm cỗ máy chiến đấu cơ</MechCluster.letterLabel>
+  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <MechCluster.letterText>Một cụm cỗ máy chiến đấu cơ đang hạ cánh gần đó. Ban đầu nó sẽ không hoạt động, vì vậy bạn sẽ có thêm thời gian để quyết định cách tấn công nó.\n\nNó có thể không hoạt động cho đến khi bị làm phiền hoặc có thể có bộ hẹn giờ hoặc bộ kích hoạt vùng lân cận.\n\nNgay cả cụm cỗ máy không hoạt động cũng không vô hại. Một cụm không hoạt động dần dần sẽ có thể tập hợp những kẻ tấn công cỗ máy chiến đấu cơ, hoặc có một số hiệu ứng tiêu cực rộng hơn phải được xử lý.</MechCluster.letterText>
+  
+  <!-- EN: abasia join -->
+  <WandererJoinAbasia.label>cư dân bị liệt gia nhập</WandererJoinAbasia.label>
+  <WandererJoinAbasia.letterLabel>Sự cố kén vận chuyển: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
+  <WandererJoinAbasia.letterText>Một {PAWN_title} có tên {PAWN_nameDef} đang gặp sự cố trong một nhóm vận tải gần đó.\n\n{PAWN_nameDef} đang bị {HEDIFF_label} và sẽ không thể đi lại được.\n\n{PAWN_pronoun} sẽ phục hồi tự nhiên sau nhiều ngày. Cũng có cơ hội phục hồi nhanh chóng. {HEDIFF_label} cũng có thể được chữa khỏi bằng một cuộc phẫu thuật đặc biệt đòi hỏi một lượng lớn thuốc glitterworld.\n\n[PAWN_pronoun] sẵn sàng đóng góp sau khi {PAWN_pronoun} đã khôi phục, nhưng sẽ không tự nguyện rời đi. Nếu không muốn {PAWN_nameDef}, bạn có thể trục xuất {PAWN_objective}, bán {PAWN_objective} làm nô lệ hoặc để {PAWN_objective} chết. Tuy nhiên, những cư dân khác của bạn có thể thấy điều này là đáng lo ngại.</WandererJoinAbasia.letterText>
+  
+</LanguageData>

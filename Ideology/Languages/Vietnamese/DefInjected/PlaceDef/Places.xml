@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>place_name->Atura Station</li>
+    <li>place_adjective->Aturan</li>
+    <li>place_summary->orbital shipyard</li>
+    <li>place_community->shuttle dock</li>
+    <li>place_community->manufacturing ring</li>
+    <li>place_community->residential ring</li>
+    <li>place_powerCenter->central control room</li>
+    <li>place_job->construction drone operator</li>
+    <li>place_job->manager</li>
+    <li>place_job->test pilot</li>
+    <li>place_job->sales agent</li>
+    <li>place_job->3D printer technician</li>
+    <li>place_personalWeapon->taser</li>
+    <li>place_personalWeapon->arc welder</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->remote-controlled welding drones</li>
+    <li>place_foeLeader->crime boss</li>
+    <li>place_foeSoldiers->thugs</li>
+  -->
+  <AturaStation.placeRules.rulesStrings>
+    <li>place_name->Trạm Atura</li>
+    <li>place_adjective->Aturan</li>
+    <li>place_summary->nhà máy đóng tàu</li>
+    <li>place_community->bến tàu con thoi</li>
+    <li>place_community->vòng sản xuất</li>
+    <li>place_community->vòng dân cư</li>
+    <li>place_powerCenter->phòng điều khiển trung tâm</li>
+    <li>place_job->nhà điều hành máy bay không người lái</li>
+    <li>place_job->người quản lý</li>
+    <li>place_job->phi công thử nghiệm</li>
+    <li>place_job->đại lý bán hàng</li>
+    <li>place_job->Kỹ thuật viên máy in 3D</li>
+    <li>place_personalWeapon->súng điện</li>
+    <li>place_personalWeapon->thợ hàn hồ quang</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->máy bay không người lái điều khiển từ xa</li>
+    <li>place_foeLeader->trùm tội phạm</li>
+    <li>place_foeSoldiers->côn đồ</li>
+  </AturaStation.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Bagua 5</li>
+    <li>place_adjective->Bagucinquan</li>
+    <li>place_summary->junkyard planet</li>
+    <li>place_community->fortified scrapyard</li>
+    <li>place_community->rainwater processing plant</li>
+    <li>place_community->scrap-town</li>
+    <li>place_powerCenter->trader spaceport</li>
+    <li>place_job->scavenger</li>
+    <li>place_job->trader</li>
+    <li>place_job->tinkerer</li>
+    <li>place_job->guard</li>
+    <li>place_job->scrapper</li>
+    <li>place_personalWeapon->pipe rifle</li>
+    <li>place_personalWeapon->scrap-sword</li>
+    <li>place_massWeapon->a salvaged nuke</li>
+    <li>place_massWeapon->a rust virus</li>
+    <li>place_foeLeader->junk lord</li>
+    <li>place_foeSoldiers->metal-heads</li>
+  -->
+  <Bagua5.placeRules.rulesStrings>
+    <li>place_name->Bagua 5</li>
+    <li>place_adjective->Bagucinquan</li>
+    <li>place_summary->hành tinh bãi rác</li>
+    <li>place_community->củng cố kho phế liệu</li>
+    <li>place_community->nhà máy xử lý nước mưa</li>
+    <li>place_community->phế liệu</li>
+    <li>place_powerCenter->nhà giao dịch vũ trụ</li>
+    <li>place_job->người nhặt rác</li>
+    <li>place_job->trao đổi</li>
+    <li>place_job->thợ mày mò</li>
+    <li>place_job->bảo vệ</li>
+    <li>place_job->người nạo</li>
+    <li>place_personalWeapon->súng trường</li>
+    <li>place_personalWeapon->phế liệu</li>
+    <li>place_massWeapon->một hạt nhân được trục vớt</li>
+    <li>place_massWeapon->vi rút gỉ sắt</li>
+    <li>place_foeLeader->chúa tể rác rưởi</li>
+    <li>place_foeSoldiers->đầu kim loại</li>
+  </Bagua5.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Boccocarro</li>
+    <li>place_adjective->Boccin</li>
+    <li>place_summary->cavernous shell-world</li>
+    <li>place_community->surface tunnel</li>
+    <li>place_community->fungus cavern</li>
+    <li>place_community->drip-well</li>
+    <li>place_powerCenter->speech-hall</li>
+    <li>place_job->miner</li>
+    <li>place_job->fungus grower</li>
+    <li>place_job->surface scavenger</li>
+    <li>place_job->community cook</li>
+    <li>place_job->frog-hunter</li>
+    <li>place_personalWeapon->pickaxe</li>
+    <li>place_personalWeapon->hydraulic crossbow</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->a blackpowder bomb</li>
+    <li>place_foeLeader->mine hypervisor</li>
+    <li>place_foeSoldiers->abyssal marines</li>
+  -->
+  <Boccocarro.placeRules.rulesStrings>
+    <li>place_name->Boccocarro</li>
+    <li>place_adjective->Boccin</li>
+    <li>place_summary->thế giới trong hang</li>
+    <li>place_community->bề mặt đường hầm</li>
+    <li>place_community->hang nấm</li>
+    <li>place_community->giếng nhỏ giọt</li>
+    <li>place_powerCenter->hội trường phát biểu</li>
+    <li>place_job->thợ mỏ</li>
+    <li>place_job->người trồng nấm</li>
+    <li>place_job->người nhặt rác bề mặt</li>
+    <li>place_job->đầu bếp cộng đồng</li>
+    <li>place_job->thợ săn ếch</li>
+    <li>place_personalWeapon->cuốc chim</li>
+    <li>place_personalWeapon->nỏ thủy lực</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->bom thuốc đen</li>
+    <li>place_foeLeader->mine hypervisor</li>
+    <li>place_foeSoldiers->thủy quân lục chiến</li>
+  </Boccocarro.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Chelis</li>
+    <li>place_adjective->Chelisi</li>
+    <li>place_summary->arid world</li>
+    <li>place_community->moisture farm</li>
+    <li>place_community->parch-town</li>
+    <li>place_community->water center</li>
+    <li>place_powerCenter->high lifehall</li>
+    <li>place_job->water gatherer</li>
+    <li>place_job->lizardskinner</li>
+    <li>place_job->oasis seeker</li>
+    <li>place_job->cactus gatherer</li>
+    <li>place_job->scav-herder</li>
+    <li>place_personalWeapon->sand-arrow</li>
+    <li>place_personalWeapon->cactus-club</li>
+    <li>place_massWeapon->an archotech-induced sandstorm</li>
+    <li>place_massWeapon->a spikelizard stampede</li>
+    <li>place_foeLeader->chief</li>
+    <li>place_foeSoldiers->sand-warriors</li>
+  -->
+  <Chelis.placeRules.rulesStrings>
+    <li>place_name->Chelis</li>
+    <li>place_adjective->Chelisi</li>
+    <li>place_summary->thế giới khô cằn</li>
+    <li>place_community->trang trại ẩm ướt</li>
+    <li>place_community->thị trấn cạn</li>
+    <li>place_community->trung tâm nước</li>
+    <li>place_powerCenter->cuộc sống cao</li>
+    <li>place_job->người tìm kiếm nước</li>
+    <li>place_job->người thằn lằn</li>
+    <li>place_job->người tìm ốc đảo</li>
+    <li>place_job->người hái lượm xương rồng</li>
+    <li>place_job->người nhặt rác</li>
+    <li>place_personalWeapon->mũi tên cát</li>
+    <li>place_personalWeapon->club xương rồng</li>
+    <li>place_massWeapon->một bão cát do archotech gây ra</li>
+    <li>place_massWeapon->một sự giẫm đạp của spikelizard</li>
+    <li>place_foeLeader->đầu bếp</li>
+    <li>place_foeSoldiers->chiến binh cát</li>
+  </Chelis.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Creticon</li>
+    <li>place_adjective->Creticonian</li>
+    <li>place_summary->blasted death-world</li>
+    <li>place_community->bunker</li>
+    <li>place_community->cavern</li>
+    <li>place_community->ice-shelter</li>
+    <li>place_powerCenter->director's bunker</li>
+    <li>place_job->water-recycler repairer</li>
+    <li>place_job->algae farmer</li>
+    <li>place_job->doctor</li>
+    <li>place_job->teacher</li>
+    <li>place_job->militia commander</li>
+    <li>place_job->shuttle pilot</li>
+    <li>place_personalWeapon->autopistol</li>
+    <li>place_personalWeapon->LMG</li>
+    <li>place_massWeapon->a shoulder-mounted nuclear missile</li>
+    <li>place_massWeapon->an orbital bombardment</li>
+    <li>place_massWeapon->chemical bombs</li>
+    <li>place_massWeapon->hacked mechanoids</li>
+    <li>place_foeLeader->warlord</li>
+    <li>place_foeSoldiers->mercenaries</li>
+  -->
+  <Creticon.placeRules.rulesStrings>
+    <li>place_name->Creticon</li>
+    <li>place_adjective->Người Creticonian</li>
+    <li>place_summary->thế giới chết chóc</li>
+    <li>place_community->hầm trú ẩn</li>
+    <li>place_community->hang đá</li>
+    <li>place_community->nơi trú ẩn bằng băng</li>
+    <li>place_powerCenter->hầm của người chỉ huy</li>
+    <li>place_job->thợ sửa chữa-tái chế nước</li>
+    <li>place_job->nông dân tảo tần</li>
+    <li>place_job->bác sĩ</li>
+    <li>place_job->giáo viên</li>
+    <li>place_job->chỉ huy dân quân</li>
+    <li>place_job->phi công đưa đón</li>
+    <li>place_personalWeapon->autopistol</li>
+    <li>place_personalWeapon->LMG</li>
+    <li>place_massWeapon->tên lửa hạt nhân vác vai</li>
+    <li>place_massWeapon->một cuộc bắn phá quỹ đạo</li>
+    <li>place_massWeapon->bom hóa học</li>
+    <li>place_massWeapon->máy móc bị tấn công</li>
+    <li>place_foeLeader->lãnh chúa</li>
+    <li>place_foeSoldiers->lính đánh thuê</li>
+  </Creticon.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Filson</li>
+    <li>place_adjective->Filsoner</li>
+    <li>place_summary->rural farm-world</li>
+    <li>place_community->town hall</li>
+    <li>place_community->fertilizer processing plant</li>
+    <li>place_community->mega-granary</li>
+    <li>place_community->water-bore site</li>
+    <li>place_powerCenter->town hall</li>
+    <li>place_job->farm hand</li>
+    <li>place_job->fruit picker</li>
+    <li>place_job->transport driver</li>
+    <li>place_job->school teacher</li>
+    <li>place_job->soil engineer</li>
+    <li>place_personalWeapon->rifle</li>
+    <li>place_personalWeapon->scythe</li>
+    <li>place_massWeapon->fertilizer bombs</li>
+    <li>place_massWeapon->weaponized pesticide spray</li>
+    <li>place_massWeapon->space lens</li>
+    <li>place_foeLeader->landowner</li>
+    <li>place_foeSoldiers->militia</li>
+  -->
+  <Filson.placeRules.rulesStrings>
+    <li>place_name->Filson</li>
+    <li>place_adjective->Filsoner</li>
+    <li>place_summary->thế giới nông thôn</li>
+    <li>place_community->tòa thị chính</li>
+    <li>place_community->nhà máy chế biến phân bón</li>
+    <li>place_community->vựa siêu cấp</li>
+    <li>place_community->địa điểm chứa nước</li>
+    <li>place_powerCenter->tòa thị chính</li>
+    <li>place_job->tay nông trại</li>
+    <li>place_job->người hái trái cây</li>
+    <li>place_job->tài xế vận tải</li>
+    <li>place_job->giáo viên trường học</li>
+    <li>place_job->kỹ sư đất</li>
+    <li>place_personalWeapon->súng trường</li>
+    <li>place_personalWeapon->lưỡi hái</li>
+    <li>place_massWeapon->bom phân bón</li>
+    <li>place_massWeapon->vũ khí phun thuốc trừ sâu</li>
+    <li>place_massWeapon->thấu kính không gian</li>
+    <li>place_foeLeader->chủ đất</li>
+    <li>place_foeSoldiers->dân quân</li>
+  </Filson.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Ilwaba</li>
+    <li>place_adjective->Ilwaban</li>
+    <li>place_summary->regrown ruin-world</li>
+    <li>place_community->skyscraper village</li>
+    <li>place_community->highway trade-post</li>
+    <li>place_community->blast-land oasis</li>
+    <li>place_powerCenter->house of regrowth</li>
+    <li>place_job->crete-farmer</li>
+    <li>place_job->path-maker</li>
+    <li>place_job->artifact hunter</li>
+    <li>place_job->tunnelwalker</li>
+    <li>place_job->artifact restorer</li>
+    <li>place_personalWeapon->scrap-sword</li>
+    <li>place_personalWeapon->jag-dagger</li>
+    <li>place_massWeapon->a dug-up nuke</li>
+    <li>place_massWeapon->an ancient poison bomb</li>
+    <li>place_foeLeader->crypto-leader</li>
+    <li>place_foeSoldiers->crypto-soldiers</li>
+  -->
+  <Ilwaba.placeRules.rulesStrings>
+    <li>place_name->Ilwaba</li>
+    <li>place_adjective->Người Ilwaban</li>
+    <li>place_summary->thế giới hoang tàn</li>
+    <li>place_community->ngôi làng chọc trời</li>
+    <li>place_community->buôn bán cao tốc</li>
+    <li>place_community->ốc đảo đất nổ</li>
+    <li>place_powerCenter->ngôi nhà của sự mọc lại</li>
+    <li>place_job->nông dân</li>
+    <li>place_job->người tạo đường dẫn</li>
+    <li>place_job->thợ săn cổ vật</li>
+    <li>place_job->người đi đường hầm</li>
+    <li>place_job->người phục chế hiện vật</li>
+    <li>place_personalWeapon->thanh kiếm sắt vụn</li>
+    <li>place_personalWeapon->dao găm jag</li>
+    <li>place_massWeapon->một vũ khí hạt nhân đào lên</li>
+    <li>place_massWeapon->một quả bom độc cổ đại</li>
+    <li>place_foeLeader->nhà lãnh đạo tiền điện tử</li>
+    <li>place_foeSoldiers->những người lính mật mã</li>
+  </Ilwaba.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Iwamura</li>
+    <li>place_adjective->Iwamurian</li>
+    <li>place_summary->stony asteroid</li>
+    <li>place_community->market capsule</li>
+    <li>place_community->warehouse capsule</li>
+    <li>place_community->docking pier</li>
+    <li>place_powerCenter->station bridge</li>
+    <li>place_job->life-support engineer</li>
+    <li>place_job->merchant</li>
+    <li>place_job->flight controller</li>
+    <li>place_job->zero-g athlete</li>
+    <li>place_job->radio host</li>
+    <li>place_personalWeapon->charge rifle</li>
+    <li>place_personalWeapon->welding torch</li>
+    <li>place_massWeapon->an aerosolized toxin</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->a life-support sabotage virus</li>
+    <li>place_foeLeader->mega-corp CEO</li>
+    <li>place_foeSoldiers->rent-a-cops</li>
+  -->
+  <Iwamura.placeRules.rulesStrings>
+    <li>place_name->Iwamura</li>
+    <li>place_adjective->Người Iwamurian</li>
+    <li>place_summary->tiểu hành tinh đá</li>
+    <li>place_community->chợ cap</li>
+    <li>place_community->nhà kho</li>
+    <li>place_community->bến tàu</li>
+    <li>place_powerCenter->cầu ga</li>
+    <li>place_job->kỹ sư hỗ trợ sự sống</li>
+    <li>place_job->người buôn bán</li>
+    <li>place_job->điều khiển chuyến bay</li>
+    <li>place_job->vận động viên</li>
+    <li>place_job->người dẫn chương trình phát thanh</li>
+    <li>place_personalWeapon->súng trường</li>
+    <li>place_personalWeapon->mỏ hàn</li>
+    <li>place_massWeapon->một chất độc dạng khí dung</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->một loại vi rút phá hoại hỗ trợ sự sống</li>
+    <li>place_foeLeader->Giám đốc điều hành mega-corp</li>
+    <li>place_foeSoldiers->cảnh sát thuê</li>
+  </Iwamura.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Kemia</li>
+    <li>place_adjective->Kemian</li>
+    <li>place_summary->toxic war-world</li>
+    <li>place_community->slum</li>
+    <li>place_community->tunnel colony</li>
+    <li>place_community->undertown</li>
+    <li>place_powerCenter->city lordhouse</li>
+    <li>place_job->street sweeper</li>
+    <li>place_job->cleanup engineer</li>
+    <li>place_job->protein farmer</li>
+    <li>place_job->taxi driver</li>
+    <li>place_job->weapons builder</li>
+    <li>place_personalWeapon->gas bomb</li>
+    <li>place_personalWeapon->toxic flamethrower</li>
+    <li>place_massWeapon->nuclear dirty bombs</li>
+    <li>place_massWeapon->a bio-engineered plague</li>
+    <li>place_massWeapon->penetrating toxic bombs</li>
+    <li>place_foeLeader->poison lord</li>
+    <li>place_foeSoldiers->venom-soldiers</li>
+  -->
+  <Kemia.placeRules.rulesStrings>
+    <li>place_name->Kemia</li>
+    <li>place_adjective->Người Kemian</li>
+    <li>place_summary->thế giới chiến tranh</li>
+    <li>place_community->khu ổ chuột</li>
+    <li>place_community->thuộc địa đường hầm</li>
+    <li>place_community->khu phố dưới</li>
+    <li>place_powerCenter->nhà lãnh chúa thành phố</li>
+    <li>place_job->người quét đường</li>
+    <li>place_job->kỹ sư dọn dẹp</li>
+    <li>place_job->nông dân đạm</li>
+    <li>place_job->tài xế taxi</li>
+    <li>place_job->người chế tạo vũ khí</li>
+    <li>place_personalWeapon->bom xăng</li>
+    <li>place_personalWeapon->súng phun lửa độc hại</li>
+    <li>place_massWeapon->bom bẩn hạt nhân</li>
+    <li>place_massWeapon->một bệnh dịch được thiết kế sinh học</li>
+    <li>place_massWeapon->xuyên bom độc</li>
+    <li>place_foeLeader->chúa độc</li>
+    <li>place_foeSoldiers->lính nọc độc</li>
+  </Kemia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Lutuni</li>
+    <li>place_adjective->Lutuni</li>
+    <li>place_summary->rainforest paradise</li>
+    <li>place_community->augmentation clinic</li>
+    <li>place_community->hyper-yacht</li>
+    <li>place_community->zero-g stadium</li>
+    <li>place_powerCenter->space elevator complex</li>
+    <li>place_job->tourist guide</li>
+    <li>place_job->zero-g performer</li>
+    <li>place_job->luciferium distributor</li>
+    <li>place_job->virtual celebrity</li>
+    <li>place_job->shuttle pilot</li>
+    <li>place_personalWeapon->vibro-knife</li>
+    <li>place_personalWeapon->charge pistol</li>
+    <li>place_massWeapon->a structural disintegration bacterium</li>
+    <li>place_massWeapon->a smuggled orbital bombardment targeter</li>
+    <li>place_foeLeader->entertainment mogul</li>
+    <li>place_foeSoldiers->enforcers</li>
+  -->
+  <Lutuni.placeRules.rulesStrings>
+    <li>place_name->Lutuni</li>
+    <li>place_adjective->Người Lutuni</li>
+    <li>place_summary->thiên đường rừng nhiệt đới</li>
+    <li>place_community->phòng khám cao cấp</li>
+    <li>place_community->siêu du thuyền</li>
+    <li>place_community->sân vận động zero-g</li>
+    <li>place_powerCenter->khu phức hợp không gian</li>
+    <li>place_job->hướng dẫn viên du lịch</li>
+    <li>place_job->người biểu diễn zero-g</li>
+    <li>place_job->nhà phân phối luciferium</li>
+    <li>place_job->người nổi tiếng ảo</li>
+    <li>place_job->phi công đưa đón</li>
+    <li>place_personalWeapon->dao rung</li>
+    <li>place_personalWeapon->súng lục</li>
+    <li>place_massWeapon->một vi khuẩn phân hủy cấu trúc</li>
+    <li>place_massWeapon->một mục tiêu bắn phá quỹ đạo lậu</li>
+    <li>place_foeLeader->ông trùm giải trí</li>
+    <li>place_foeSoldiers->người thi hành công vụ</li>
+  </Lutuni.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Novaroma</li>
+    <li>place_adjective->Novaroman</li>
+    <li>place_summary->planetoid</li>
+    <li>place_community->ministry of permits</li>
+    <li>place_community->gated suburb</li>
+    <li>place_community->over-city</li>
+    <li>place_community->under-city</li>
+    <li>place_powerCenter->megacity overhall</li>
+    <li>place_job->clerk</li>
+    <li>place_job->official</li>
+    <li>place_job->food courier</li>
+    <li>place_job->taxi driver</li>
+    <li>place_job->retail worker</li>
+    <li>place_personalWeapon->revolver</li>
+    <li>place_personalWeapon->knife</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->cluster bombs</li>
+    <li>place_massWeapon->a nuclear suitcase-bomb</li>
+    <li>place_foeLeader->high-underlord</li>
+    <li>place_foeSoldiers->undertroops</li>
+  -->
+  <Novaroma.placeRules.rulesStrings>
+    <li>place_name->Novaroma</li>
+    <li>place_adjective->Người Novaroman</li>
+    <li>place_summary->hành tinh nhỏ</li>
+    <li>place_community->bộ giấy phép</li>
+    <li>place_community->cổng ngoại ô</li>
+    <li>place_community->thành phố trên</li>
+    <li>place_community->thành phố dưới</li>
+    <li>place_powerCenter->siêu đô thị overhall</li>
+    <li>place_job->nhân viên bán hàng</li>
+    <li>place_job->dược phòng</li>
+    <li>place_job->chuyển phát nhanh thực phẩm</li>
+    <li>place_job->tài xế taxi</li>
+    <li>place_job->nhân viên bán lẻ</li>
+    <li>place_personalWeapon->súng lục ổ quay</li>
+    <li>place_personalWeapon->dao</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->bom bi</li>
+    <li>place_massWeapon->một quả bom hạt nhân</li>
+    <li>place_foeLeader->lãnh chúa cấp cao</li>
+    <li>place_foeSoldiers->quân đội</li>
+  </Novaroma.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Nuchadus</li>
+    <li>place_adjective->Nuchadean</li>
+    <li>place_summary->dim volcano-world</li>
+    <li>place_community->basalt island</li>
+    <li>place_community->caldera laketown</li>
+    <li>place_community->dirigible village</li>
+    <li>place_powerCenter->thermal fortress</li>
+    <li>place_job->seismologist</li>
+    <li>place_job->lava-snail farmer</li>
+    <li>place_job->tank-tread repairer</li>
+    <li>place_job->airborne scout</li>
+    <li>place_personalWeapon->obsidian dagger</li>
+    <li>place_personalWeapon->harpoon rifle</li>
+    <li>place_massWeapon->an archotech-induced volcano eruption</li>
+    <li>place_massWeapon->a chem-warfare bomb</li>
+    <li>place_foeLeader->lava lord</li>
+    <li>place_foeSoldiers->stygian soldiers</li>
+  -->
+  <Nuchadus.placeRules.rulesStrings>
+    <li>place_name->Nuchadus</li>
+    <li>place_adjective->Người Nuchadean</li>
+    <li>place_summary->thế giới núi lửa</li>
+    <li>place_community->đảo bazan</li>
+    <li>place_community->thị trấn hồ caldera</li>
+    <li>place_community->ngôi làng nhỏ</li>
+    <li>place_powerCenter->pháo đài nhiệt</li>
+    <li>place_job->nhà địa chấn học</li>
+    <li>place_job->người nông dân nuôi ốc sên nham thạch</li>
+    <li>place_job->thợ sửa xe tăng</li>
+    <li>place_job->trinh sát trên không</li>
+    <li>place_personalWeapon->dao găm obsidian</li>
+    <li>place_personalWeapon->súng trường lao công</li>
+    <li>place_massWeapon->một vụ phun trào núi lửa do archotech gây ra</li>
+    <li>place_massWeapon->một quả bom chiến tranh hóa học</li>
+    <li>place_foeLeader->chúa tể dung nham</li>
+    <li>place_foeSoldiers->lính stygian</li>
+  </Nuchadus.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Oubanyen</li>
+    <li>place_adjective->Oubanyeni</li>
+    <li>place_summary->steamy jungle-world</li>
+    <li>place_community->tree-top village</li>
+    <li>place_community->shaman cave</li>
+    <li>place_community->hill-top ziggurat</li>
+    <li>place_powerCenter->city temple</li>
+    <li>place_job->shaman</li>
+    <li>place_job->hunter</li>
+    <li>place_job->fisher</li>
+    <li>place_job->gatherer</li>
+    <li>place_job->goat-herd</li>
+    <li>place_personalWeapon->pila</li>
+    <li>place_personalWeapon->ikwa</li>
+    <li>place_massWeapon->a lethal psychic drone</li>
+    <li>place_massWeapon->a neurotoxin bomb</li>
+    <li>place_foeLeader->tree-harvester</li>
+    <li>place_foeSoldiers->henchmen</li>
+  -->
+  <Oubanyen.placeRules.rulesStrings>
+    <li>place_name->Oubanyen</li>
+    <li>place_adjective->Người Oubanyeni</li>
+    <li>place_summary->thế giới rừng rậm ướt át</li>
+    <li>place_community->ngôi làng trên cây</li>
+    <li>place_community->hang động pháp sư</li>
+    <li>place_community->ziggurat trên đỉnh đồi</li>
+    <li>place_powerCenter->thành phố đền</li>
+    <li>place_job->thầy cúng</li>
+    <li>place_job->thợ săn</li>
+    <li>place_job->người câu cá</li>
+    <li>place_job->người hái lượm</li>
+    <li>place_job->người giữ dê</li>
+    <li>place_personalWeapon->pila</li>
+    <li>place_personalWeapon->ikwa</li>
+    <li>place_massWeapon->một máy bay không người lái có khả năng gây chết người</li>
+    <li>place_massWeapon->một quả bom chất độc thần kinh</li>
+    <li>place_foeLeader->người thu hoạch cây</li>
+    <li>place_foeSoldiers->tay sai</li>
+  </Oubanyen.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Rhydell</li>
+    <li>place_adjective->Rhydellian</li>
+    <li>place_summary->savage forest moon</li>
+    <li>place_community->converted dropship</li>
+    <li>place_community->low-shielded encampment</li>
+    <li>place_community->communication center</li>
+    <li>place_powerCenter->armored habitat</li>
+    <li>place_job->frontier botanist</li>
+    <li>place_job->trophy hunter</li>
+    <li>place_job->medic</li>
+    <li>place_job->camp cook</li>
+    <li>place_job->biolab engineer</li>
+    <li>place_personalWeapon->sniper rifle</li>
+    <li>place_personalWeapon->machete</li>
+    <li>place_massWeapon->a plant-derived neurotoxin gas</li>
+    <li>place_massWeapon->an orbital laser strike</li>
+    <li>place_foeLeader->deepcorp executive</li>
+    <li>place_foeSoldiers->deepcorp enforcers</li>
+  -->
+  <Rhydell.placeRules.rulesStrings>
+    <li>place_name->Rhydell</li>
+    <li>place_adjective->Người Rhydellian</li>
+    <li>place_summary->mặt trăng rừng dã man</li>
+    <li>place_community->chuyển đổi thả tàu</li>
+    <li>place_community->trại che chắn thấp</li>
+    <li>place_community->trung tâm giao tiếp</li>
+    <li>place_powerCenter->môi trường sống bọc thép</li>
+    <li>place_job->nhà thực vật học biên giới</li>
+    <li>place_job->thợ săn cúp</li>
+    <li>place_job->y tế</li>
+    <li>place_job->đầu bếp trại</li>
+    <li>place_job->kỹ sư biolab</li>
+    <li>place_personalWeapon->súng bắn tỉa</li>
+    <li>place_personalWeapon->dao rựa</li>
+    <li>place_massWeapon->khí độc thần kinh có nguồn gốc từ thực vật</li>
+    <li>place_massWeapon->một cuộc tấn công bằng tia laser quỹ đạo</li>
+    <li>place_foeLeader->giám đốc điều hành deepcorp</li>
+    <li>place_foeSoldiers->người thực thi deepcorp</li>
+  </Rhydell.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Rogia</li>
+    <li>place_adjective->Rogian</li>
+    <li>place_summary->glitter-tech world</li>
+    <li>place_community->medical institute</li>
+    <li>place_community->space elevator</li>
+    <li>place_community->robotics factory</li>
+    <li>place_powerCenter->planetary capitol</li>
+    <li>place_job->starforce cadet</li>
+    <li>place_job->artisan farmer</li>
+    <li>place_job->social-media prodigy</li>
+    <li>place_job->zero-g athlete</li>
+    <li>place_job->glitter-tech smuggler</li>
+    <li>place_personalWeapon->charge lance</li>
+    <li>place_personalWeapon->persona monosword</li>
+    <li>place_massWeapon->antimatter warheads</li>
+    <li>place_massWeapon->a weaponized computer virus</li>
+    <li>place_massWeapon->remote-controlled mechanoid workers</li>
+    <li>place_foeLeader->corrupt bureaucrat</li>
+    <li>place_foeSoldiers->bionic guards</li>
+  -->
+  <Rogia.placeRules.rulesStrings>
+    <li>place_name->Rogia</li>
+    <li>place_adjective->Người Rogian</li>
+    <li>place_summary->thế giới công nghệ long lanh</li>
+    <li>place_community->viện y tế</li>
+    <li>place_community->Thang máy không gian</li>
+    <li>place_community->nhà máy chế tạo người máy</li>
+    <li>place_powerCenter->thủ phủ hành tinh</li>
+    <li>place_job->thiếu sinh quân starforce</li>
+    <li>place_job->nông dân nghệ nhân</li>
+    <li>place_job->thần đồng mạng xã hội</li>
+    <li>place_job->vận động viên zero-g</li>
+    <li>place_job->kẻ buôn lậu công nghệ long lanh</li>
+    <li>place_personalWeapon->phí thương</li>
+    <li>place_personalWeapon->persona monosword</li>
+    <li>place_massWeapon->đầu đạn phản vật chất</li>
+    <li>place_massWeapon->một vi rút máy tính được vũ khí hóa</li>
+    <li>place_massWeapon->công nhân cơ khí điều khiển từ xa</li>
+    <li>place_foeLeader->quan chức tham nhũng</li>
+    <li>place_foeSoldiers->bảo vệ bionic</li>
+  </Rogia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Wavia</li>
+    <li>place_adjective->Wavian</li>
+    <li>place_summary->oceanic planet</li>
+    <li>place_community->trading atoll</li>
+    <li>place_community->floating village</li>
+    <li>place_community->seaweed refinery</li>
+    <li>place_powerCenter->capitol bridge</li>
+    <li>place_job->fisher</li>
+    <li>place_job->pearl diver</li>
+    <li>place_job->sail maker</li>
+    <li>place_job->captain</li>
+    <li>place_job->sea-grass gatherer</li>
+    <li>place_personalWeapon->harpoon</li>
+    <li>place_personalWeapon->barbed net</li>
+    <li>place_massWeapon->a high-yield torpedo</li>
+    <li>place_massWeapon->a baited [seaBeast]</li>
+    <li>place_foeLeader->whaler admiral</li>
+    <li>place_foeSoldiers->whaler-marines</li>
+    <li>seaBeast->deep-kraken</li>
+    <li>seaBeast->Wavian leviathan</li>
+  -->
+  <Wavia.placeRules.rulesStrings>
+    <li>place_name->Wavia</li>
+    <li>place_adjective->Người Wavian</li>
+    <li>place_summary->hành tinh đại dương</li>
+    <li>place_community->buôn bán đảo san hô</li>
+    <li>place_community->làng nổi</li>
+    <li>place_community->nhà máy lọc rong biển</li>
+    <li>place_powerCenter->cầu capitol</li>
+    <li>place_job->người câu cá</li>
+    <li>place_job->thợ mò ngọc trai</li>
+    <li>place_job->thợ làm buồm</li>
+    <li>place_job->đội trưởng</li>
+    <li>place_job->hái lượm cỏ biển</li>
+    <li>place_personalWeapon->cây lao</li>
+    <li>place_personalWeapon->lưới thép gai</li>
+    <li>place_massWeapon->một quả ngư lôi năng suất cao</li>
+    <li>place_massWeapon->một mồi [seaBeast]</li>
+    <li>place_foeLeader->đô đốc cá voi</li>
+    <li>place_foeSoldiers->lính thủy đánh bộ</li>
+    <li>seaBeast->deep-kraken</li>
+    <li>seaBeast->Wavian leviathan</li>
+  </Wavia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Xanides</li>
+    <li>place_adjective->Xanidian</li>
+    <li>place_summary->exploited mineral-planet</li>
+    <li>place_community->strip mine</li>
+    <li>place_community->ore refinery</li>
+    <li>place_community->nutrient paste cafeteria</li>
+    <li>place_powerCenter->oxygen depot</li>
+    <li>place_job->miner</li>
+    <li>place_job->supervisor</li>
+    <li>place_job->technician</li>
+    <li>place_job->mechanic</li>
+    <li>place_job->life support engineer</li>
+    <li>place_personalWeapon->electro-baton</li>
+    <li>place_personalWeapon->autopistol</li>
+    <li>place_massWeapon->blasting charges</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_foeLeader->mine-corp boss</li>
+    <li>place_foeSoldiers->mine-corp troops</li>
+  -->
+  <Xanides.placeRules.rulesStrings>
+    <li>place_name->Xanides</li>
+    <li>place_adjective->Người Xanidian</li>
+    <li>place_summary->hành tinh khoáng sản khai thác</li>
+    <li>place_community->mỏ than</li>
+    <li>place_community->nhà máy luyện quặng</li>
+    <li>place_community->căng tin dán dinh dưỡng</li>
+    <li>place_powerCenter->kho ôxy</li>
+    <li>place_job->thợ mỏ</li>
+    <li>place_job->người giám sát</li>
+    <li>place_job->kỹ thuật viên</li>
+    <li>place_job->công nhân cơ khí</li>
+    <li>place_job->kỹ sư hỗ trợ sự sống</li>
+    <li>place_personalWeapon->dùi cui điện</li>
+    <li>place_personalWeapon->autopistol</li>
+    <li>place_massWeapon->mìn nổ</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_foeLeader->ông chủ của mine-corp</li>
+    <li>place_foeSoldiers->quân đội mine-corp</li>
+  </Xanides.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Yttak</li>
+    <li>place_adjective->Yttaki</li>
+    <li>place_summary->ice-moon prison</li>
+    <li>place_community->meal hall</li>
+    <li>place_community->guard barracks</li>
+    <li>place_community->detention center</li>
+    <li>place_powerCenter->warden's office complex</li>
+    <li>place_job->detainee</li>
+    <li>place_job->guard</li>
+    <li>place_job->escapee</li>
+    <li>place_job->maintenance worker</li>
+    <li>place_job->transport driver</li>
+    <li>place_personalWeapon->shiv</li>
+    <li>place_personalWeapon->SMG</li>
+    <li>place_massWeapon->an improvised chemical bomb</li>
+    <li>place_massWeapon->an orbital laser strike</li>
+    <li>place_foeLeader->prison warden</li>
+    <li>place_foeSoldiers->corrupt guards</li>
+  -->
+  <Yttak.placeRules.rulesStrings>
+    <li>place_name->Yttak</li>
+    <li>place_adjective->Người Yttaki</li>
+    <li>place_summary->nhà tù trên mặt trăng</li>
+    <li>place_community->phòng ăn</li>
+    <li>place_community->doanh trại bảo vệ</li>
+    <li>place_community->trung tâm giam giữ</li>
+    <li>place_powerCenter->khu phức hợp văn phòng của giám đốc</li>
+    <li>place_job->người bị giam giữ</li>
+    <li>place_job->bảo vệ</li>
+    <li>place_job->người trốn thoát</li>
+    <li>place_job->nhân viên bảo trì</li>
+    <li>place_job->tài xế vận tải</li>
+    <li>place_personalWeapon->shiv</li>
+    <li>place_personalWeapon->SMG</li>
+    <li>place_massWeapon->một quả bom hóa học ngẫu hứng</li>
+    <li>place_massWeapon->một cuộc tấn công bằng tia laser quỹ đạo</li>
+    <li>place_foeLeader->người cai ngục</li>
+    <li>place_foeSoldiers->lính canh đồi bại</li>
+  </Yttak.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name->Zoutera</li>
+    <li>place_adjective->Zoutin</li>
+    <li>place_summary->grassy dino-world</li>
+    <li>place_community->trading outpost</li>
+    <li>place_community->tent village</li>
+    <li>place_community->mammoth burial ground</li>
+    <li>place_powerCenter->hill-top fort</li>
+    <li>place_job->dino-rider</li>
+    <li>place_job->muffalo-herder</li>
+    <li>place_job->hunter</li>
+    <li>place_job->toughleather maker</li>
+    <li>place_personalWeapon->bamboo staff</li>
+    <li>place_personalWeapon->hunt-bomb arrows</li>
+    <li>place_massWeapon->a stampeding herd of [megaFauna]</li>
+    <li>place_massWeapon->a fertilizer bomb</li>
+    <li>place_foeLeader->tusk-king</li>
+    <li>place_foeSoldiers->tusk-warriors</li>
+    <li>megaFauna->ankylosaurs</li>
+    <li>megaFauna->blue mammoths</li>
+    <li>megaFauna->novoraptors</li>
+  -->
+  <Zoutera.placeRules.rulesStrings>
+    <li>place_name->Zoutera</li>
+    <li>place_adjective->Người Zoutin</li>
+    <li>place_summary->thế giới khủng long cỏ</li>
+    <li>place_community->tiền đồn giao dịch</li>
+    <li>place_community->làng lều</li>
+    <li>place_community->khu chôn cất voi ma mút</li>
+    <li>place_powerCenter->pháo đài trên đỉnh đồi</li>
+    <li>place_job->người cưỡi ngựa</li>
+    <li>place_job->người chăn muffalo</li>
+    <li>place_job->thợ săn</li>
+    <li>place_job->nhà sản xuất vải dẻo dai</li>
+    <li>place_personalWeapon->bamboo staff</li>
+    <li>place_personalWeapon->mũi tên săn bom</li>
+    <li>place_massWeapon->một đàn dập của [megaFauna]</li>
+    <li>place_massWeapon->một quả bom phân bón</li>
+    <li>place_foeLeader->vua răng nanh</li>
+    <li>place_foeSoldiers->chiến binh răng nanh</li>
+    <li>megaFauna->ankylosaurs</li>
+    <li>megaFauna->voi ma mút xanh</li>
+    <li>megaFauna->người không ăn thịt</li>
+  </Zoutera.placeRules.rulesStrings>
+  
+</LanguageData>

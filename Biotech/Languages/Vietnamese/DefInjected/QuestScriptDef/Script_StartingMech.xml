@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>arrivalLetterLabel->[mech_label] attached: [mechanitor_nameDef]</li>
+    <li>arrivalLetterText->A [mech_label] has dropped from orbit and is placing itself under the control of [mechanitor_nameDef].\n\nIt seems to have been attached to [mechanitor_possessive] mechlink and is eager to serve its purpose once again.</li>
+  -->
+  <MechanitorStartingMech.questContentRules.rulesStrings>
+    <li>arrivalLetterLabel->[mech_label] đính kèm: [mechanitor_nameDef]</li>
+    <li>arrivalLetterText->[mech_label] rơi khỏi quỹ đạo và đặt chính nó dưới sự kiểm soát của [mechanitor_nameDef].\n\nNó dường như thuộc về [mechanitor_possessive] mechlink và háo hức được phục vụ trở lại.</li>
+  </MechanitorStartingMech.questContentRules.rulesStrings>
+  
+</LanguageData>

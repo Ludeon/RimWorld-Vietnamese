@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>mechanitorShuttleCrashedLetterLabel->Mechanitor ship</li>
+    <li>mechanitorShuttleCrashedLetterText->A mechanitor ship containing feral mechanoids has crashed nearby. The mechanoids will exit the crashed ship and prepare to fight.</li>
+    <li>assaultBeginLetterLabel->Mechanoid attack</li>
+    <li>assaultBeginLetterText->The feral mechanoids are coming to assault the colony!</li>
+    <li>mechlinkAvailableLetterLabel->[mechanitor_nameDef]'s mechlink available</li>
+    <li>mechlinkAvailableLetterText->The crashed ship contained the corpse of an ancient mechanitor.\n\nExtract [mechanitor_possessive] mechlink by selecting a colonist and right-clicking the corpse.</li>
+  -->
+  <MechanitorShip.questContentRules.rulesStrings>
+    <li>mechanitorShuttleCrashedLetterLabel->Tàu Mechanitor</li>
+    <li>mechanitorShuttleCrashedLetterText->Một con tàu cơ khí chứa mechanitor hoang dã đã bị rơi gần đó. Các mechanoids sẽ thoát khỏi con tàu bị rơi và chuẩn bị chiến đấu.</li>
+    <li>assaultBeginLetterLabel->tấn công Mechanoid</li>
+    <li>assaultBeginLetterText->Mechanoids hoang dã tấn công thuộc địa!</li>
+    <li>mechlinkAvailableLetterLabel->đã có liên kết mechlink [mechanitor_nameDef]</li>
+    <li>mechlinkAvailableLetterText->Đống đổ nát của con tàu chứa xác của một mechanitor cổ đại.\n\nTrích xuất [mechanitor_possessive] mechlink bằng cách chọn một thuộc địa và nhấp chuột phải vào xác chết.</li>
+  </MechanitorShip.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You have decrypted an ancient transponder, revealing the location of a mechanoid ship in orbit. The ship is badly damaged but you can signal it to land nearby.\n\nThe ship contains the remains of a long-dead mechanitor. Mechanitors can create and control mechanoids for work and combat. By extracting the deceased mechanitor's mechlink, you can turn one of your own colonists into a mechanitor.\n\nBeware - the ship also contains hostile mechanoids. The mechanoid group is composed of:\n\n[mechList]</li>
+  -->
+  <MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã giải mã một bộ phát đáp cổ đại, tiết lộ vị trí của một con tàu mechanoid trên quỹ đạo. Con tàu bị hư hỏng nặng nhưng bạn có thể ra hiệu cho nó hạ cánh gần đó.\n\nCon tàu chứa hài cốt của một mechanitor đã chết từ lâu. Mechanitors có thể tạo và điều khiển mechanoids để làm việc và chiến đấu. Bằng cách giải nén mechlink của mechanitor đã chết, bạn có thể biến một trong những người thuộc địa của mình thành mechanitor.\n\nCẩn thận - con tàu cũng chứa mechanoids thù địch. Nhóm mechanoid bao gồm:\n\n[mechList]</li>
+  </MechanitorShip.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[shipAdjective] [shipNoun]</li>
+    <li>shipAdjective->mechanitor</li>
+    <li>shipAdjective->the overseer's</li>
+    <li>shipAdjective->ancient</li>
+    <li>shipAdjective->mechanoid</li>
+    <li>shipNoun->ship</li>
+    <li>shipNoun->shuttle</li>
+    <li>shipNoun->craft</li>
+    <li>shipNoun->wreck</li>
+    <li>shipNoun->wreckage</li>
+    <li>shipNoun->transport</li>
+  -->
+  <MechanitorShip.questNameRules.rulesStrings>
+    <li>questName->[shipAdjective][shipNoun]</li>
+    <li>shipAdjective->mechanitor</li>
+    <li>shipAdjective->người giám sát</li>
+    <li>shipAdjective->Cổ đại</li>
+    <li>shipAdjective->mechanoid</li>
+    <li>shipNoun->tàu không gian</li>
+    <li>shipNoun->xe đưa đón</li>
+    <li>shipNoun->phi cơ</li>
+    <li>shipNoun->đống đổ nát</li>
+    <li>shipNoun->gốc cây</li>
+    <li>shipNoun->người vận chuyển</li>
+  </MechanitorShip.questNameRules.rulesStrings>
+  
+</LanguageData>

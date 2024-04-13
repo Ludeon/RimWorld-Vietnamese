@@ -4,7 +4,12 @@
   <!-- EN: beauty -->
   <Beauty.label>vẻ đẹp</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Làm thế nào thú vị một đối tượng là nhìn vào. Những đồ vật đẹp đáp ứng nhu cầu làm đẹp của nhân vật.</Beauty.description>
+  <Beauty.description>Làm thế nào thú vị một đối tượng là nhìn vào.\n\nNhững đồ vật đẹp đáp ứng nhu cầu làm đẹp của nhân vật.</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>vẻ đẹp ngoài trời</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>Một cái gì đó thú vị làm sao để xem nếu nó ở bên ngoài.\n\nNhững đồ vật đẹp đẽ đáp ứng nhu cầu làm đẹp của mọi người.</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
   <Cleanliness.label>sạch sẽ</Cleanliness.label>
@@ -14,11 +19,11 @@
   <!-- EN: comfort -->
   <Comfort.label>thoải mái</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>Làm thế nào thoải mái một đối tượng là ngồi hoặc nằm. Sử dụng các đồ vật thoải mái đáp ứng nhu cầu thoải mái của nhân vật.</Comfort.description>
+  <Comfort.description>Làm thế nào thoải mái một đối tượng là ngồi hoặc nằm.\n\nSử dụng các đồ vật thoải mái đáp ứng nhu cầu thoải mái của nhân vật.</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>tỷ lệ hư hỏng</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, pollution or being left in shallow water. -->
   <DeteriorationRate.description>Tốc độ vật phẩm này xấu đi khi để bên ngoài, tính điểm sát thương trung bình mỗi ngày. Tốc độ xuống cấp cũng bị ảnh hưởng bởi những thứ như thời tiết, mái nhà, bụi độc hại hoặc bị bỏ lại trong vùng nước nông.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / ngày</DeteriorationRate.formatString>
@@ -29,18 +34,20 @@
   <Flammability.description>Làm thế nào một vật dễ dàng bắt lửa và ngọn lửa sẽ phát triển nhanh như thế nào khi nó cháy.</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>tỷ lệ ngộ độc thực phẩm</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>cơ hội ngộ độc thực phẩm</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>Cơ hội thực phẩm này sẽ gây ngộ độc thực phẩm.</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>cơ hội ngộ độc thực phẩm (chỉ số thực phẩm)</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>giá thị trường</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>Giá trị thị trường của một đối tượng. Giá giao dịch thực tế sẽ được điều chỉnh bởi kỹ năng đàm phán, tình trạng mối quan hệ và các yếu tố bối cảnh khác.</MarketValue.description>
-  <!-- EN: ${0} -->
-  <MarketValue.formatString>${0}</MarketValue.formatString>
+  <MarketValue.description>Giá trị thị trường của một đối tượng.\n\nGiá giao dịch thực tế sẽ được điều chỉnh bởi kỹ năng đàm phán, tình trạng mối quan hệ và các yếu tố bối cảnh khác.</MarketValue.description>
+  <MarketValue.formatString>{0} $</MarketValue.formatString>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>giá trị thị trường bỏ qua các điểm tiếp cận</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>khối lượng</Mass.label>
@@ -52,29 +59,29 @@
   <!-- EN: max hit points -->
   <MaxHitPoints.label>chỉ số tối đa</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>Chỉ số tối đa của một đối tượng. Điều này thể hiện mức độ thiệt hại có thể gây ra trước khi bị phá hủy.</MaxHitPoints.description>
+  <MaxHitPoints.description>Chỉ số tối đa của một đối tượng.\n\nĐiều này thể hiện mức độ thiệt hại có thể gây ra trước khi bị phá hủy.</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
   <Nutrition.label>dinh dưỡng</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
   <Nutrition.description>Thực phẩm này bổ dưỡng như thế nào.</Nutrition.description>
   
-  <!-- EN: royal favor value -->
-  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
-  <!-- EN: The amount of royal favor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>giá trị ủng hộ hoàng gia</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>Số tiền ủng hộ hoàng gia mà thương nhân của bạn sẽ kiếm được khi đưa nó cho một nhà sưu tập cống phẩm.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
   <SellPriceFactor.label>giá bán nhân hệ số</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
-  <SellPriceFactor.description>Hệ số nhân trên giá mà bạn có thể bán các mặt hàng.</SellPriceFactor.description>
+  <SellPriceFactor.description>Hệ số trên giá mà bạn có thể bán các mặt hàng.</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>độ chính xác khi bắn</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyTurret.description>Cơ hội cơ bản để không bỏ lỡ mỗi ô của khoảng cách bắn. Cơ hội để đánh cũng bị ảnh hưởng bởi nhiều yếu tố khác. Có thể thấy một lời giải thích về cơ hội trúng cho bất kỳ phát bắn nào bằng cách chọn một người bắn và di chuyển qua mục tiêu.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.description>Cơ hội cơ bản để không bỏ lỡ mỗi ô của khoảng cách bắn.\n\nCơ hội để đánh cũng bị ảnh hưởng bởi nhiều yếu tố khác. Có thể thấy một lời giải thích về cơ hội trúng cho bất kỳ phát bắn nào bằng cách chọn một người bắn và di chuyển qua mục tiêu.</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>độ chính xác khi bắn (tháp pháo)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>việc để làm</WorkToMake.label>

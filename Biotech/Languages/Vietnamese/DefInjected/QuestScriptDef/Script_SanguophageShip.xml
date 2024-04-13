@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sanguophageShuttleCrashedLetterLabel->Crashed shuttle</li>
+    <li>sanguophageShuttleCrashedLetterText->A shuttle containing a sanguophage master and [thrallCount] thralls has crashed nearby. They will exit the crashed craft and prepare to fight.</li>
+    <li>reinforcementsArrivedLetterLabel->Thrall reinforcements</li>
+    <li>reinforcementsArrivedLetterText->Thralls are arriving in drop pods to reinforce the crashed sanguophage.</li>
+    <li>assaultBeginLetterLabel->Assault begun</li>
+    <li>assaultBeginLetterText->The hostile sanguophage master and [sanguophage_possessive] thralls have initiated an assault on the colony!</li>
+  -->
+  <SanguophageShip.questContentRules.rulesStrings>
+    <li>sanguophageShuttleCrashedLetterLabel->tàu con thoi bị rơi</li>
+    <li>sanguophageShuttleCrashedLetterText->Một tàu con thoi đã bị rơi gần đó mang theo chủ nhân sanguophage và tay sai của [thrallCount], họ sẽ thoát khỏi con tàu bị rơi và chuẩn bị chiến đấu.</li>
+    <li>reinforcementsArrivedLetterLabel->Quân tiếp viện Thrall</li>
+    <li>reinforcementsArrivedLetterText->Thralls đang đến trong các nhóm thả để củng cố sanguophage bị rơi.</li>
+    <li>assaultBeginLetterLabel->Cuộc tấn công bắt đầu</li>
+    <li>assaultBeginLetterText->Bậc thầy sanguophage và tay sai [sanguophage_possessive] đã bắt đầu tấn công thuộc địa!</li>
+  </SanguophageShip.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You have intercepted a distress signal! A hostile shuttle carrying a sanguophage master and [thrallCount] thralls is having trouble with its engines. You can use signals to draw it down to a crash near [map_definite].\n\nOnce the ship has crashed, you can fight the sanguophage and [sanguophage_possessive] minions. If you can capture the master, you can force [sanguophage_objective] to turn one of your colonists into a sanguophage.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo->(*Gray)About sanguophages: Sanguophages are ageless, deathless super-humans powered by archotech-created archites in the bloodstream. They are beautiful and extremely intelligent. They can heal any injury, and never suffer from disease or poison. In combat, they can launch deadly spines and heal injured friends. The price is that sanguophages must consume hemogen derived from human blood to survive, and they must periodically deathrest for long periods. They're easily destroyed by fire, and slowed down by UV light.(/Gray)</li>
+  -->
+  <SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã chặn được tín hiệu cấp cứu! Một tàu con thoi thù địch chở một bậc thầy sanguophage và tay sai của [thrallCount] đang gặp sự cố với động cơ của nó. Bạn có thể sử dụng các tín hiệu để hướng nó đến sự cố gần [map_definite].\n\nSau khi con tàu bị rơi, bạn có thể chiến đấu với tay sai sanguophage và [sanguophage_possessive]. Nếu bạn có thể bắt được chủ nhân, bạn có thể buộc [sanguophage_objective] biến một trong những thực dân của bạn thành sanguophage.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo->(*Gray)Giới thiệu về sanguophages: Sanguophages là một siêu nhân duy trì sự bất tử dưới sự ban phước của những cỗ máy vi mô phi thường được tạo ra bởi trí thông minh phi thường. Họ rất xinh đẹp và thông minh, có thể tự chữa lành vết thương cho mình và không bao giờ bị bệnh tật và chất độc xâm hại. Có thể bắn ra những chiếc gai xương chết người và chữa lành vết thương cho đồng đội trong trận chiến. Cái giá phải trả là sanguophages phải tiêu thụ hemogen có nguồn gốc từ máu người để tồn tại và chúng phải chìm vào giấc ngủ chết(deathrest) kéo dài. Họ sợ lửa và bị suy yếu bởi tia cực tím.(/Gray)</li>
+  </SanguophageShip.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[shipAdjective] [shipNoun]</li>
+    <li>shipAdjective->sanguophage</li>
+    <li>shipAdjective->bloodthirsty</li>
+    <li>shipAdjective->blood</li>
+    <li>shipAdjective->shadow</li>
+    <li>shipAdjective->dark</li>
+    <li>shipAdjective->crimson</li>
+    <li>shipAdjective->red</li>
+    <li>shipAdjective->scab</li>
+    <li>shipAdjective->hemic</li>
+    <li>shipAdjective->sanguine</li>
+    <li>shipNoun->ship</li>
+    <li>shipNoun->shuttle</li>
+    <li>shipNoun->craft</li>
+    <li>shipNoun->hulk</li>
+    <li>shipNoun->crash</li>
+    <li>shipNoun->wreck</li>
+  -->
+  <SanguophageShip.questNameRules.rulesStrings>
+    <li>questName->[shipAdjective][shipNoun]</li>
+    <li>shipAdjective->sanguophage</li>
+    <li>shipAdjective->khát máu</li>
+    <li>shipAdjective->máu</li>
+    <li>shipAdjective->bóng</li>
+    <li>shipAdjective->tối</li>
+    <li>shipAdjective->đỏ thẫm</li>
+    <li>shipAdjective->đỏ</li>
+    <li>shipAdjective->vảy</li>
+    <li>shipAdjective->xuất huyết</li>
+    <li>shipAdjective->sanguine</li>
+    <li>shipNoun->tàu không gian</li>
+    <li>shipNoun->xe đưa đón</li>
+    <li>shipNoun->phi cơ</li>
+    <li>shipNoun->đống đổ nát</li>
+    <li>shipNoun->gốc cây</li>
+    <li>shipNoun->người vận chuyển</li>
+  </SanguophageShip.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -3,10 +3,12 @@
   
   <!-- EN: Minimum title ({FACTION_name}) -->
   <Stat_Thing_MinimumRoyalTitle_Name>Tước vị tối thiểu ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
-  <!-- EN: {FACTION_name} has laws which limit the use of this implant to those with specific titles. Having the implant is undetectable, but if you use it, there is a chance they will detect the psychic emissions. Diplomatic consequences will follow, and repeated violations will lead to hostility.\n\nA psychic silencer implant would make such uses undetectable. -->
+  <!-- EN: {FACTION_name} has laws which limit the use of this implant to those with specific titles. Simply having the implant installed is undetectable, but if you use it, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
   <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name} có luật giới hạn việc sử dụng bộ cấy này cho những người có tước vị cụ thể. Có cấy ghép là không thể phát hiện, nhưng nếu bạn sử dụng nó, có khả năng họ sẽ phát hiện ra khí thải tâm linh. Hậu quả ngoại giao sẽ theo sau, và vi phạm nhiều lần sẽ dẫn đến sự thù địch.\n\nMột bộ cấy giảm thanh tâm linh sẽ làm cho việc sử dụng như vậy không thể phát hiện.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <!-- EN: {FACTION_name} has laws which limit the use of this weapon to those with specific titles. Each time you attack with the weapon, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name} có luật giới hạn việc sử dụng vũ khí này chỉ dành cho những người có chức danh cụ thể. Mỗi khi bạn tấn công bằng vũ khí, có khả năng họ sẽ phát hiện ra khí thải tâm linh. Điều này sẽ gây ra hậu quả ngoại giao.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
   <!-- EN: Each upgrade level of this implant requires a specific title in {FACTION_name} to be used legally. -->
-  <Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>Mỗi cấp độ nâng cấp của bộ cấy này yêu cầu một tước vị cụ thể trong {FACTION_name} để được sử dụng hợp pháp.</Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>Mỗi cấp độ nâng cấp của bộ ghép này yêu cầu một tiêu đề cụ thể trong {FACTION_name} để được sử dụng hợp pháp.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
   <!-- EN: Max satisfied title -->
   <Stat_Thing_Apparel_MaxSatisfiedTitle>Hài lòng tối đa của tước vị</Stat_Thing_Apparel_MaxSatisfiedTitle>
   <!-- EN: Highest royal title whose apparel requirements are satisfied by this. -->
@@ -15,5 +17,13 @@
   <Stat_Thing_Ingestible_MaxSatisfiedTitle>Tiêu đề hài lòng tối đa</Stat_Thing_Ingestible_MaxSatisfiedTitle>
   <!-- EN: The highest royal title whose food requirements are satisfied by this. -->
   <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Tước vị hoàng gia cao nhất có yêu cầu thực phẩm được thỏa mãn bởi điều này.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <!-- EN: Traits -->
+  <Stat_Thing_PersonaWeaponTrait_Label>Đặc điểm</Stat_Thing_PersonaWeaponTrait_Label>
+  <!-- EN: This weapon's individual traits. -->
+  <Stat_Thing_PersonaWeaponTrait_Desc>Đặc điểm riêng của vũ khí này.</Stat_Thing_PersonaWeaponTrait_Desc>
+
+  <!-- EN: Multiplier for pain -->
+  <StatsReport_Pain>Hệ số đau đớn</StatsReport_Pain>
   
 </LanguageData>

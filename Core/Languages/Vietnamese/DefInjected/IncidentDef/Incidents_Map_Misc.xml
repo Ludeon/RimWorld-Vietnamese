@@ -88,17 +88,15 @@
   <VolcanicWinter.letterText>Một ngọn núi lửa xa xôi đã phun trào và bắt đầu phun hàng triệu km khối tro vào khí quyển. \n\nTheo khí quyển sẽ che khuất mặt trời. Nhiệt độ sẽ giảm và thực vật sẽ đau khổ vì thiếu ánh sáng mặt trời. Nó có thể vượt qua trong một vài tuần, hoặc nó có thể kéo dài nhiều quadrum.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>Du mục tham gia</WandererJoin.label>
-  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <WandererJoin.label>du mục tham gia</WandererJoin.label>
   <WandererJoin.letterLabel>Du mục tham gia</WandererJoin.letterLabel>
-  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
   <WandererJoin.letterText>Một {PAWN_kind} có tên {PAWN_nameDef} đã đến và đang gia nhập thuộc địa. {PAWN_pronoun} là {PAWN_title}. \n\n [PAWN_pronoun] sẵn sàng đóng góp, nhưng sẽ không tự nguyện rời đi. Nếu bạn không muốn {PAWN_nameDef}, bạn có thể trục xuất {PAWN_objective}, bán {PAWN_objective} thành nô lệ hoặc đơn giản là giết {PAWN_objective}. Tuy nhiên, các thuộc địa khác của bạn có thể tìm thấy điều này đáng lo ngại.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>người đàn ông hoang dã lang thang trong</WildManWandersIn.label>
-  <!-- EN: {PAWN_kind} wanders in -->
+  <!-- EN: {0} wanders in -->
   <WildManWandersIn.letterLabel>{PAWN_kind} lang thang trong</WildManWandersIn.letterLabel>
-  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>Một người sống giữa các động vật hoang dã đã lang thang vào khu vực. {PAWN_pronoun} được gọi là {0}. \n\nBạn có thể cố gắng chế ngự hoặc bắt giữ {PAWN_objective}.</WildManWandersIn.letterText>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Một người sống như các động vật hoang dã đã lang thang vào khu vực. {PAWN_pronoun} được gọi là {0}. \n\nBạn có thể cố gắng chế ngự hoặc bắt giữ {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

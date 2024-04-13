@@ -2,18 +2,28 @@
 <LanguageData>
   
   <!-- EN: ship part (defoliator) -->
-  <DefoliatorShipPart.label>TODO</DefoliatorShipPart.label>
-  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests during land, to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
+  <DefoliatorShipPart.label>mảnh tàu rơi (gây rụng lá)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>Một phần tàu cổ, bị xé ra từ một tàu không rõ nguồn gốc. Nó có thể hàng ngàn năm tuổi.\n\nThiết bị này chứa một thiết bị tiêu diệt đời sống thực vật gần chính nó mà không ảnh hưởng trực tiếp đến các sinh vật xác thịt. Những loại vũ khí này đôi khi nằm rải rác trên các trang trại hoặc rừng trong đất liền, để loại bỏ nguồn cung cấp thực phẩm và nơi ẩn náu của kẻ thù mà không hủy hoại vĩnh viễn lãnh thổ. Chúng thường được liên kết với các đội quân cỗ máy chiến đấu cơ được thả từ quỹ đạo.</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
-  <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.label>mảnh tàu rơi (xung thần kinh)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>Một phần tàu cổ, bị xé ra từ một tàu không rõ nguồn gốc. Nó có thể hàng ngàn năm tuổi.\n\nCái này chứa một thiết bị gây rối loạn tâm thần. Sử dụng công nghệ khảo cổ học không thể hiểu được, nó tạo ra tín hiệu tâm linh khiến con người và động vật phát điên trong bán kính rộng xung quanh chính nó.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>mảnh vỡ phi thuyền</ShipChunk.label>
-  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
   <ShipChunk.description>Một mảnh vỡ của phi thuyền. Có thể phá dỡ để thu lượm tài nguyên hữu dụng.</ShipChunk.description>
+  
+  <!-- EN: shuttle -->
+  <Shuttle.label>tàu vận chuyển</Shuttle.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <Shuttle.description>Tàu con thoi công nghệ vũ trụ được thiết kế để di chuyển giữa bề mặt và quỹ đạo hoặc giữa các mặt trăng của một hệ hành tinh.</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>tàu con thoi bị rơi</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed.description>Tàu con thoi công nghệ vũ trụ được thiết kế để di chuyển giữa bề mặt và quỹ đạo hoặc giữa các mặt trăng của một hệ hành tinh.</ShuttleCrashed.description>
   
 </LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terminalHackedMessage->Terminal hacked. {COUNT} / [terminalCount] complete.</li>
+    <li>allTerminalsHackedMessage->You've hacked all of the terminals and discovered secret information about [relic_name]! You can now leave.</li>
+  -->
+  <AncientComplex_Standard.questContentRules.rulesStrings>
+    <li>terminalHackedMessage->Cổng máy tính đã được hack. Đã hoàn thành {COUNT} / [terminalCount].</li>
+    <li>allTerminalsHackedMessage->Bạn đã hack toàn bộ cổng máy tính và tìm hiểu được thông tin bí mật về [relic_name]! Giờ thì bạn có thể rời đi.</li>
+  </AncientComplex_Standard.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You've learned of an ancient complex nearby. It is said to contain information about [relic_name].\n\nIf you can break into the structure and hack the computers inside, you can collect the information.\n\nWatch out - there may be all manner of dangers inside, and other enemies may also be attracted by activity at the structure.</li>
+  -->
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn biết được về một khu phức hợp cổ đại gần đây. Tuyên truyền nó có chứa thông tin về [relic_name].\n\nNếu bạn có thể đột nhập vào công trình và hack những máy tính bên trong, bạn có thể nhận được thông tin.\n\Cảnh báo - có rất nhiều mối nguy hiểm bên trong, và những kẻ thù khác có thể được thu hút bởi hoạt đồng của công trình..</li>
+  </AncientComplex_Standard.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=6)->The [complexAdj] [complex]</li>
+    <li>questName->The [dig]</li>
+    <li>complexAdj->ancient</li>
+    <li>complexAdj->old</li>
+    <li>complexAdj->dusty</li>
+    <li>complexAdj->secret</li>
+    <li>complex->complex</li>
+    <li>complex->compound</li>
+    <li>complex->installation</li>
+    <li>dig->dig</li>
+    <li>dig->excavation</li>
+  -->
+  <AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>questName(p=6)->[complex] [complexAdj]</li>
+    <li>questName->[dig]</li>
+    <li>complexAdj->cổ đại</li>
+    <li>complexAdj->cũ</li>
+    <li>complexAdj->đầy bụi</li>
+    <li>complexAdj->bí mật</li>
+    <li>complex->khu phức hợp</li>
+    <li>complex->tổ hợp</li>
+    <li>complex->công trình</li>
+    <li>dig->đào</li>
+    <li>dig->khai quật</li>
+  </AncientComplex_Standard.questNameRules.rulesStrings>
+  
+</LanguageData>

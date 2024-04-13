@@ -1,22 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: anima scream -->
+  <AnimaScream.stages.anima_scream.label>hét lên</AnimaScream.stages.anima_scream.label>
+  <!-- EN: Such a pain in my head when the tree died. And it keeps echoing... -->
+  <AnimaScream.stages.anima_scream.description>Cây chết đau đầu quá. Và nó cứ vang vọng...</AnimaScream.stages.anima_scream.description>
+  
   <!-- EN: decree ignored -->
-  <DecreeUnmet.stages.decree_ignored.label>TODO</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.label>nghị định bị bỏ qua</DecreeUnmet.stages.decree_ignored.label>
   <!-- EN: My decree has been ignored for far too long {0}. -->
-  <DecreeUnmet.stages.decree_ignored.description>TODO</DecreeUnmet.stages.decree_ignored.description>
+  <DecreeUnmet.stages.decree_ignored.description>Nghị định của tôi đã bị phớt lờ quá lâu {0}.</DecreeUnmet.stages.decree_ignored.description>
+  
+  <!-- EN: joyfuzz -->
+  <Joyfuzz.stages.joyfuzz.label>niềm vui</Joyfuzz.stages.joyfuzz.label>
+  <!-- EN: No matter what happens, I feel like I'm okay with it for some reason. -->
+  <Joyfuzz.stages.joyfuzz.description>Cho dù có chuyện gì xảy ra, tôi cảm thấy mình ổn với nó vì một lý do nào đó.</Joyfuzz.stages.joyfuzz.description>
   
   <!-- EN: minor psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>suy sụp tinh thần nhỏ</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
   <!-- EN: There's an electrical pain behind my eyes. It's hard to focus; hard to think. -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>Có một cơn đau nhói sau mắt tôi. Thật khó để tập trung; khó nghĩ.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
   <!-- EN: major psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>suy sụp tinh thần lớn</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
   <!-- EN: My mind has been stir-fried. Dizzy, fuzzy, can't think, always aching. -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>Đầu óc tôi rối bời. Chóng mặt, đầu óc mơ hồ, không nghĩ được gì, lúc nào cũng đau nhức.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
   <!-- EN: total psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>suy sụp tinh thần hoàn toàn</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
   <!-- EN: I'm spinning, it hurts, I'm dizzy, think, can't think, can't think... -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>Tôi quay cuồng, đau quá, tôi chóng mặt, nghĩ, không nghĩ được, không nghĩ được...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  
+  <!-- EN: psychic love -->
+  <PsychicLove.stages.psychic_love.label>tình yêu tâm linh</PsychicLove.stages.psychic_love.label>
   
 </LanguageData>

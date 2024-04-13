@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: For slaves -->
+  <CommandBedSetForSlavesLabel>Cho nô lệ</CommandBedSetForSlavesLabel>
+  <!-- EN: For colonists -->
+  <CommandBedSetForColonistsLabel>Cho dân cư</CommandBedSetForColonistsLabel>
+  <!-- EN: Whether beds in this room should be used by colonists, prisoners or slaves. -->
+  <CommandBedSetForOwnerTypeDesc>Cho dù giường trong phòng này nên được sử dụng bởi cư dân, tù nhân hay nô lệ.</CommandBedSetForOwnerTypeDesc>
+
+  <!-- EN: No auto-use -->
+  <CommandNeuralSuperchargerNoAutoUse>Không tự động dùng</CommandNeuralSuperchargerNoAutoUse>
+  <!-- EN: None of your people will use this neural supercharger automatically. -->
+  <CommandNeuralSuperchargerNoAutoUseDescription>Không ai trong số những người của bạn sẽ tự động sử dụng bộ tăng cường thần kinh này.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <!-- EN: Auto-use with desire -->
+  <CommandNeuralSuperchargerAutoUseWithDesire>Tự động sử dụng với mong muốn</CommandNeuralSuperchargerAutoUseWithDesire>
+  <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Mọi người có thể sử dụng bộ tăng cường thần kinh này nế họ muốn vì niềm tin của họ.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <!-- EN: Auto-use for everyone -->
+  <CommandNeuralSuperchargerAutoForEveryone>Tự động sử dụng cho mọi người</CommandNeuralSuperchargerAutoForEveryone>
+  <!-- EN: All of your people will use this neural supercharger if they get the chance. -->
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>tất cả mọi người của bạn sẽ sử dụng bộ tăng cường thần kinh nếu họ có cơ hội.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <!-- EN: Allow guests -->
+  <CommandNeuralSuperchargerAllowGuests>Cho phép khác</CommandNeuralSuperchargerAllowGuests>
+  <!-- EN: Allow this neural supercharger to be used by temporary faction members. -->
+  <CommandNeuralSuperchargerAllowGuestsDescription>Cho phép bộ tăng cường thần kinh này được sử dụng bởi các thành viên phe nhóm tạm thời.</CommandNeuralSuperchargerAllowGuestsDescription>
+
+  <!-- EN: Select connected tree -->
+  <CommandSelectConnectedTree>Chọn cây kết nối.</CommandSelectConnectedTree>
+  <!-- EN: Create healing pod -->
+  <CommandHealInHealingPod>Tạo kén chữa trị</CommandHealInHealingPod>
+  <!-- EN: If this creature is injured, it will return to its connected Gauranlen tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed. -->
+  <CommandHealInHealingPodDesc>Nếu sinh vật này bị thương, nó sẽ quay trở lại cây Gauranlen được kết nối của nó và đi vào một vỏ cây chữa bệnh bằng gỗ. Sau {DAYS} ngày, hạt khô sẽ nổi lên với các vết thương đã lành.</CommandHealInHealingPodDesc>
+</LanguageData>

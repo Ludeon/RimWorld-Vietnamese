@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodfeed -->
+  <Bloodfeed.label>hút máu</Bloodfeed.label>
+  <!-- EN: When a bloodfeeder's hemogen levels are low, they may feed on this prisoner. Other prisoners who are bloodfeeders can also feed on this prisoner, if they are in the same cell. -->
+  <Bloodfeed.description>Các lính canh sẽ bỏ qua tù nhân này. Khi mức hemogene của một kẻ hút máu thấp, nó có thể ăn tù nhân đó. Các tù nhân khác hút máu cũng có thể hút máu tù nhân này, nếu họ ở cùng phòng giam.</Bloodfeed.description>
+  
+  <!-- EN: hemogen farm -->
+  <HemogenFarm.label>khai thác hemogene</HemogenFarm.label>
+  <!-- EN: An operation to extract hemogen packs will be automatically queued on this prisoner whenever it can be done without killing them. The operation will be carried out by a doctor. -->
+  <HemogenFarm.description>Một ca phẫu thuật trích xuất gói hemogen sẽ được lên lịch tự động cho tù nhân này bất cứ khi nào có thể thực hiện được mà không giết chết anh ta. Các hoạt động sẽ được thực hiện bởi một bác sĩ.</HemogenFarm.description>
+  
+</LanguageData>

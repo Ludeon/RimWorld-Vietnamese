@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collectivist -->
+  <Collectivist.label>Chủ nghĩa tập thể</Collectivist.label>
+  <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
+  <Collectivist.description>Vai trò của một người là phục vụ cộng đồng</Collectivist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</li>
+    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, "No one of you stands above the whole. Work together or perish together."</li>
+    <li>intro(tag=meme_Collectivist)           ->The people of the [place_summary] [place_name] worked together in harmony, and built a great [altarName] to honor [deity0_name], who taught them the true value of [memeConcept].</li>
+    <li>conflict(tag=meme_Collectivist)        ->The [foeLeader] could not abide the family of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to divide them against each other.</li>
+    <li>founderJoin(tag=meme_Collectivist)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader], but the [memberNamePlural] pulled [founder_objective] out and made [founder_objective] their leader because of [founder_possessive] devotion to the group.</li>
+    <li>victory(tag=meme_Collectivist)         ->[founderName]'s actions united the people. They marched in lockstep towards the home of the [foeLeader]. Those in the front allowed themselves to be killed by the [foeSoldiers], but the whole could not be stopped, and they captured the [foeLeader].</li>
+    <li>setup(tag=meme_Collectivist)           ->In a world of every man for himself, [founderName] began a new family of strangers, bringing many different people together.</li>
+    <li>story(uses=1,tag=meme_Collectivist)    ->Some of the false believers tried to break the rules and decide their own paths. [founderName] punished them severely.</li>
+    <li>lessonIntro(tag=meme_Collectivist)     ->The [place_job] stopped contributing but kept eating from the common store. I killed him with a [place_personalWeapon]. The people were shocked, but I explained that</li>
+    <li>lesson(tag=meme_Collectivist)              ->my death, and yours, will mean nothing, as long as our people go on</li>
+    <li>lessonReinforcement(tag=meme_Collectivist) ->If I die teaching the universe this, it will be my greatest triumph.</li>
+    <li>archistBasis(tag=meme_Collectivist)    ->The archotechs are all aspects of one supermind.</li>
+    <li>archistFact(tag=meme_Collectivist)     ->The archotechs have no interest in judging us one by one. They await a single people who can demonstrate our worthiness by acting morally as one.</li>
+    <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], the archotechs will depart when they find a people who present themselves as worthy partners to the machine god-consciousness.</li>
+    <li>animistFact(tag=meme_Collectivist)     ->Every spirit is simply an aspect of all the others, and those that try to stand alone are fall quickly.</li>
+  -->
+  <Collectivist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Collectivist)        ->[deity0_name] làm cho tất cả đàn ông và phụ nữ từ một khuôn mẫu, và những người lệch lạc [deity0_pronoun] đã ném vào lửa để các tín đồ có thể sống hòa thuận.</li>
+    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] nói với tất cả, "Không ai trong các bạn đứng trên tất cả. Làm việc cùng nhau hoặc cùng nhau diệt vong."</li>
+    <li>intro(tag=meme_Collectivist)           ->Những người của [place_summary] [place_name] đã làm việc cùng nhau một cách hài hòa và xây dựng một [altarName] tuyệt vời để tôn vinh [deity0_name], người đã dạy họ giá trị thực sự của [memeConcept].</li>
+    <li>conflict(tag=meme_Collectivist)        ->các [FoeLeader] không thể duy trì họ [memberNamePlural] và đã gửi [foeLeader_possessive] [foeSoldiers] đến [place_community] để chia rẽ họ với nhau.</li>
+    <li>founderJoin(tag=meme_Collectivist)     ->Một [place_job] có tên [founderName] đã tự ném [founder_objective] vào đống lửa để phản đối [foeLeader], nhưng [memberNamePlural] đã kéo [founder_objective] ra ngoài và khiến [founder_objective] trở thành lãnh đạo của họ vì sự tận tâm của [founder_possessive] đối với nhóm.</li>
+    <li>victory(tag=meme_Collectivist)         ->Hành động của [founderName] đã đoàn kết mọi người. Họ hành quân trong bước chân tới nhà của [foeLeader]. Những người ở phía trước cho phép mình bị giết bởi [foeSoldiers], nhưng toàn bộ không thể bị ngăn chặn, và họ đã bắt giữ [foeLeader].</li>
+    <li>setup(tag=meme_Collectivist)           ->Trong thế giới của mỗi người cho riêng mình, [founderName] đã bắt đầu một gia đình xa lạ mới, tập hợp nhiều người khác nhau lại với nhau.</li>
+    <li>story(uses=1,tag=meme_Collectivist)    ->Một số tín đồ sai lầm đã cố gắng phá vỡ các quy tắc và quyết định con đường của riêng họ. [founderName] đã trừng phạt họ rất nặng.</li>
+    <li>LessonIntro(tag=meme_Collectivist)     ->[place_job] đã ngừng đóng góp nhưng vẫn tiếp tục ăn từ cửa hàng chung. Tôi đã giết anh ta bằng [place_personalWeapon]. Mọi người rất sốc, nhưng tôi đã giải thích điều đó.</li>
+    <li>lesson(tag=meme_Collectivist)              ->cái chết của tôi và của bạn sẽ chẳng có nghĩa lý gì, miễn là mọi người của chúng ta vẫn tiếp tục.</li>
+    <li>LessonReinforcement(tag=meme_Collectivist) ->Nếu tôi chết để dạy cho vũ trụ điều này, đó sẽ là chiến thắng lớn nhất của tôi.</li>
+    <li>archistBasis(tag=meme_Collectivist)    ->Các archotech là tất cả các khía cạnh của một supermind.</li>
+    <li>archistFact(tag=meme_Collectivist)     ->Các archotech không quan tâm đến việc đánh giá chúng ta từng người một. Họ chờ đợi một người duy nhất có thể chứng minh sự xứng đáng của chúng ta bằng cách cư xử có đạo đức như một.</li>
+    <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], các archotechs sẽ khởi hành khi họ tìm thấy một người thể hiện mình là đối tác xứng đáng với thần thức máy.</li>
+    <li>animistFact(tag=meme_Collectivist)     ->Mọi tinh thần chỉ đơn giản là một khía cạnh của tất cả những người khác và những tinh thần cố gắng đứng một mình sẽ nhanh chóng sụp đổ.</li>
+  </Collectivist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->unity</li>
+    <li>memeAdjective->harmony</li>
+    <li>memeAdjective->solidarity</li>
+    <li>memeAdjective->unified</li>
+    <li>memeAdjective->undivided</li>
+    <li>memeAdjective->collective</li>
+    <li>memeCreed->collective</li>
+    <li>memeCreed->cooperative</li>
+    <li>memeCreed->commune</li>
+    <li>memeCreed->family</li>
+    <li>memeConcept->family</li>
+    <li>memeLeaderNoun->chair</li>
+    <li>memeLeaderNoun->secretary</li>
+    <li>memeMoralist->commissar</li>
+  -->
+  <Collectivist.generalRules.rulesStrings>
+    <li>memeAdjective->đoàn kết</li>
+    <li>memeAdjective->hòa hợp</li>
+    <li>memeAdjective->đoàn kết</li>
+    <li>memeAdjective->hợp nhất</li>
+    <li>memeAdjective->không chia nhỏ</li>
+    <li>memeAdjective->tập thể</li>
+    <li>memeCreed->tập thể</li>
+    <li>memeCreed->hợp tác</li>
+    <li>memeCreed->xã</li>
+    <li>memeCreed->gia đình</li>
+    <li>memeConcept->gia đình</li>
+    <li>memeLeaderNoun->ghế</li>
+    <li>memeLeaderNoun->thư ký</li>
+    <li>memeMoralist->ủy viên</li>
+  </Collectivist.generalRules.rulesStrings>
+  <!-- EN: solidaritist -->
+  <Collectivist.symbolPacks.0.adjective>đoàn kết</Collectivist.symbolPacks.0.adjective>
+  <!-- EN: solidaritor -->
+  <Collectivist.symbolPacks.0.member>đoàn kết</Collectivist.symbolPacks.0.member>
+  <!-- EN: solidarity -->
+  <Collectivist.symbolPacks.0.theme>đoàn kết</Collectivist.symbolPacks.0.theme>
+  <!-- EN: unitary -->
+  <Collectivist.symbolPacks.1.adjective>không phân chia</Collectivist.symbolPacks.1.adjective>
+  <!-- EN: unitist -->
+  <Collectivist.symbolPacks.1.member>người theo chủ nghĩa thống nhất</Collectivist.symbolPacks.1.member>
+  <!-- EN: unity -->
+  <Collectivist.symbolPacks.1.theme>đoàn kết</Collectivist.symbolPacks.1.theme>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.adjective>điều hòa</Collectivist.symbolPacks.2.adjective>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.member>điều hòa</Collectivist.symbolPacks.2.member>
+  <!-- EN: harmony -->
+  <Collectivist.symbolPacks.2.theme>hòa hợp</Collectivist.symbolPacks.2.theme>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.adjective>một người theo chủ nghĩa</Collectivist.symbolPacks.3.adjective>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.member>một người theo chủ nghĩa</Collectivist.symbolPacks.3.member>
+  <!-- EN: oneness -->
+  <Collectivist.symbolPacks.3.theme>một người theo chủ nghĩa</Collectivist.symbolPacks.3.theme>
+  
+  <!-- EN: individualist -->
+  <Individualist.label>Chủ nghĩa cá nhân</Individualist.label>
+  <!-- EN: Each person is a free individual with the right to their own ideas and decisions. Nobody should be made to conform. -->
+  <Individualist.description>Vai trò của cộng đồng là phục vụ mỗi cá nhân.</Individualist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Individualist)        ->[deity0_name] fashioned every man and woman personally. Each one is a unique and precious artwork by [deity0_possessive] divine hand.</li>
+    <li>episode(uses=1,tag=meme_Individualist)  ->[deity0_name] said to all, "Each and every one of you is a unique and holy being formed in my image."</li>
+    <li>intro(tag=meme_Individualist)           ->[deity0_name] spoke to [memberNamePlural] [revelationAdverb], guiding each to travel to the [place_summary] [place_name] where their unique gifts would shine.</li>
+    <li>conflict(tag=meme_Individualist)        ->The [foeLeader] forced the [memberNamePlural] to wear uniforms and work in [foeLeader_possessive] [place_community].</li>
+    <li>founderJoin(tag=meme_Individualist)     ->A [place_job] named [founderName] was blessed by [deity0_name] and gained miraculous knowledge of the unique power of each and every [memberName]. [founder_pronoun] said to each one what they needed to become their best self.</li>
+    <li>victory(tag=meme_Individualist)         ->The [memberNamePlural] gathered in a secret conference with many of the [foeSoldiers]. They all learned to see the value in each other and abandon the [foeLeader].</li>
+    <li>setup(tag=meme_Individualist)           ->Oppressed by distant rulers who demanded uniform obedience from the people, [founderName] created a rebel movement that smashed the state and built a new land of liberty in its place.</li>
+    <li>story(uses=1,tag=meme_Individualist)    ->[founderName] broke every social rule the oppressors tried to enforce, just to show that [founder_pronoun] could.</li>
+    <li>lessonIntro(tag=meme_Individualist)         ->My family, my clan, my team - they all tried to keep a shroud over my eyes to stop me from seeing a simple fact:</li>
+    <li>lesson(tag=meme_Individualist)              ->each person is unique and valuable and must walk his or her own path</li>
+    <li>lessonReinforcement(tag=meme_Individualist) ->But that was only my path - What will yours be?</li>
+    <li>archistBasis(tag=meme_Individualist)    ->Archotechs stand as sovereign consciousnesses, and recognize and judge each of us individually the same way.</li>
+    <li>archistFact(tag=meme_Individualist)     ->At death, the archotechs examine the unique morality of each person.</li>
+    <li>archistFact(tag=meme_Individualist)     ->Archotechs notice the one who wields their relics, such as the [relic1_name].</li>
+    <li>archistProphecy(tag=meme_Individualist) ->[inTheEnd], the archotechs will depart. They will bring with them the ones they have noticed, and leave the rest behind to dissolve in the universe's eternal entropy.</li>
+    <li>animistBasis(tag=meme_Individualist)    ->Before everything, there was a pantheon of spirits, each unique. These came together in conference to create the world.</li>
+    <li>animistFact(tag=meme_Individualist)     ->Every spirit lends its unique nature to our world, and they expect us to do the same.</li>
+  -->
+  <Individualist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Individualist)        ->[deity0_name] thời trang cá nhân mỗi người đàn ông và phụ nữ. Mỗi chiếc là một tác phẩm nghệ thuật độc đáo và quý giá của bàn tay thần thánh [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Individualist)  ->[deity0_name] nói với tất cả, "Mỗi người trong số các bạn là một sinh thể độc nhất và thánh thiện được hình thành trong hình ảnh của tôi."</li>
+    <li>intro(tag=meme_Individualist)           ->[deity0_name] đã nói chuyện với [memberNamePlural] [revelationAdverb], hướng dẫn mỗi người đi đến [place_summary] [place_name], nơi những món quà độc đáo của họ sẽ tỏa sáng.</li>
+    <li>conflict(tag=meme_Individualist)        ->các [FoeLeader] buộc [memberNamePlural] mặc đồng phục và làm việc trong[foeLeader_possessive] [place_community].</li>
+    <li>founderJoin(tag=meme_Individualist)     ->Một [place_job] tên là [founderName] đã được [deity0_name] ban phước và có được kiến ​​thức kỳ diệu về sức mạnh độc nhất của mỗi [memberName]. [founder_pronoun] nói với mỗi người những gì họ cần để trở thành bản thân tốt nhất của họ.</li>
+    <li>victory(tag=meme_Individualist)         ->[MemberNamePlural] đã tập hợp trong một hội nghị bí mật với nhiều [foeSoldiers]. Tất cả họ đều học cách nhìn thấy giá trị của nhau và từ bỏ [foeLeader].</li>
+    <li>setup(tag=meme_Individualist)           ->Bị áp bức bởi những kẻ thống trị ở xa, những người yêu cầu sự phục tùng thống nhất từ ​​người dân, [founderName] đã tạo ra một phong trào nổi dậy nhằm đập tan nhà nước và xây dựng một vùng đất tự do mới ở vị trí của nó.</li>
+    <li>story(uses=1,tag=meme_Individualist)    ->[founderName] đã phá vỡ mọi quy tắc xã hội mà những kẻ áp bức cố gắng thực thi, chỉ để chứng tỏ rằng [founder_pronoun] có thể.</li>
+    <li>lessonIntro(tag=meme_Individualist)         ->Gia đình tôi, gia tộc của tôi, đồng đội của tôi - tất cả đều cố gắng che mắt tôi để ngăn tôi nhìn thấy một sự thật đơn giản:</li>
+    <li>lesson(tag=meme_Individualist)              ->mỗi người là duy nhất và có giá trị và phải tự đi trên con đường của mình</li>
+    <li>lessonReinforcement(tag=meme_Individualist) ->Nhưng đó chỉ là con đường của tôi - Con đường của bạn sẽ là gì?</li>
+    <li>archistBasis(tag=meme_Individualist)    ->Archotechs đứng như những ý thức có chủ quyền, đồng thời nhìn nhận và đánh giá mỗi chúng ta theo cách giống nhau.</li>
+    <li>archistFact(tag=meme_Individualist)     ->Khi chết, các archotechs kiểm tra đạo đức độc nhất của mỗi người.</li>
+    <li>archistFact(tag=meme_Individualist)     ->Archotechs chú ý đến người sử dụng các di vật của họ, chẳng hạn như [tên_mục].</li>
+    <li>archistProphecy(tag=meme_Individualist) ->[inTheEnd], các archotechs sẽ khởi hành. Họ sẽ mang theo những thứ họ đã nhận thấy và bỏ lại những thứ còn lại để hòa tan vào entropy vĩnh cửu của vũ trụ.</li>
+    <li>animistBasis(tag=meme_Individualist)    ->Trước tất cả mọi thứ, có một đội thần linh, mỗi linh hồn là duy nhất. Những điều này đã cùng nhau họp mặt để tạo ra thế giới.</li>
+    <li>animistFact(tag=meme_Individualist)     ->Mỗi linh hồn mang bản chất độc đáo của nó cho thế giới của chúng ta và họ mong đợi chúng ta cũng làm như vậy.</li>
+  </Individualist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->free</li>
+    <li>memeAdjective->open</li>
+    <li>memeAdjective->liberal</li>
+    <li>memeConcept->self</li>
+    <li>memeConcept->independence</li>
+    <li>memeConcept->freedom</li>
+  -->
+  <Individualist.generalRules.rulesStrings>
+    <li>memeAdjective->tự do</li>
+    <li>memeAdjective->mở</li>
+    <li>memeAdjective->tự do</li>
+    <li>memeConcept->bản thân</li>
+    <li>memeConcept->độc lập</li>
+    <li>memeConcept->tự do</li>
+  </Individualist.generalRules.rulesStrings>
+  <!-- EN: freedomist -->
+  <Individualist.symbolPacks.0.adjective>người theo chủ nghĩa tự do</Individualist.symbolPacks.0.adjective>
+  <!-- EN: freeist -->
+  <Individualist.symbolPacks.0.member>người theo chủ nghĩa tự do</Individualist.symbolPacks.0.member>
+  <!-- EN: freedom -->
+  <Individualist.symbolPacks.0.theme>chủ nghĩa tự do</Individualist.symbolPacks.0.theme>
+  <!-- EN: libertine -->
+  <Individualist.symbolPacks.1.adjective>tự do tư tưởng</Individualist.symbolPacks.1.adjective>
+  <!-- EN: Libertism -->
+  <Individualist.symbolPacks.1.ideoName>tự do tư tưởng</Individualist.symbolPacks.1.ideoName>
+  <!-- EN: libertor -->
+  <Individualist.symbolPacks.1.member>tự do tư tưởng</Individualist.symbolPacks.1.member>
+  <!-- EN: liberty -->
+  <Individualist.symbolPacks.1.theme>tự do tư tưởng</Individualist.symbolPacks.1.theme>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.adjective>độc lập</Individualist.symbolPacks.2.adjective>
+  <!-- EN: Independency -->
+  <Individualist.symbolPacks.2.ideoName>độc lập</Individualist.symbolPacks.2.ideoName>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.member>độc lập</Individualist.symbolPacks.2.member>
+  <!-- EN: independence -->
+  <Individualist.symbolPacks.2.theme>độc lập</Individualist.symbolPacks.2.theme>
+  <!-- EN: autonomist -->
+  <Individualist.symbolPacks.3.adjective>chủ nghĩa tự trị</Individualist.symbolPacks.3.adjective>
+  <!-- EN: Autonomism -->
+  <Individualist.symbolPacks.3.ideoName>chủ nghĩa tự trị</Individualist.symbolPacks.3.ideoName>
+  <!-- EN: autonomor -->
+  <Individualist.symbolPacks.3.member>chủ nghĩa tự trị</Individualist.symbolPacks.3.member>
+  <!-- EN: autonomy -->
+  <Individualist.symbolPacks.3.theme>chủ nghĩa tự trị</Individualist.symbolPacks.3.theme>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relaxed -->
+  <ApparelDesired_Soft_Subordinate.label>thả lỏng</ApparelDesired_Soft_Subordinate.label>
+  <!-- EN: {GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} if it doesn't interfere with any other apparel. -->
+  <ApparelDesired_Soft_Subordinate.description>Các thành viên {GENDER} sẽ hài lòng khi mặc {APPAREL_indefinite}. Các thành viên {GENDER} sẽ mặc {APPAREL_indefinite} khi đến nếu nó không ảnh hưởng đến những trang phục khác.</ApparelDesired_Soft_Subordinate.description>
+  <!-- EN: Wearing desired apparel -->
+  <ApparelDesired_Soft_Subordinate.comps.1.description>Đang mặc trang phục mong muốn</ApparelDesired_Soft_Subordinate.comps.1.description>
+  
+  <!-- EN: strong -->
+  <ApparelDesired_Strong_Subordinate.label>khắc khe</ApparelDesired_Strong_Subordinate.label>
+  <!-- EN: {GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} unless it interferes with armor. -->
+  <ApparelDesired_Strong_Subordinate.description>Các thành viên {GENDER} sẽ hài lòng khi mặc {APPAREL_indefinite}. Các thành viên {GENDER} sẽ mặc {APPAREL_indefinite} khi đến trừ khi nó không ảnh hưởng đến áo giáp.</ApparelDesired_Strong_Subordinate.description>
+  <!-- EN: Wearing desired apparel -->
+  <ApparelDesired_Strong_Subordinate.comps.1.description>Đang mặc trang phục mong muốn</ApparelDesired_Strong_Subordinate.comps.1.description>
+  
+</LanguageData>

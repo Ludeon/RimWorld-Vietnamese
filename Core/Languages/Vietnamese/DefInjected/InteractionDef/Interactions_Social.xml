@@ -2,11 +2,13 @@
 <LanguageData>
   
   <!-- EN: chitchat -->
-  <Chitchat.label>chitchat</Chitchat.label>
+  <Chitchat.label>nói chuyện nhảm nhí</Chitchat.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
     <li>talkedabout(p=4)->chatted about</li>
     <li>talkedabout->shared a word about</li>
     <li>talkedabout->spoke about</li>
@@ -39,7 +41,7 @@
   </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
-  <DeepTalk.label>deep talk</DeepTalk.label>
+  <DeepTalk.label>nói chuyện sâu sắc</DeepTalk.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -53,7 +55,8 @@
     <li>talkedabout->talked quietly about</li>
     <li>talkedabout->talked deeply about</li>
     <li>talkedabout->connected on the topic of</li>
-    <li>subject->[TalkTopicHeavy]</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] và [RECIPIENT_nameDef] [talkedabout] [subject].</li>
@@ -74,9 +77,14 @@
   <!-- EN: insult -->
   <Insult.label>xúc phạm</Insult.label>
   <!-- EN:
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] compared [target] to [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [target] [insultcomparison].</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] called [target] a false idol worshipper.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] implied that [target] had been driven insane by the golden cube.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] [insulted] the golden cube.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
     <li>insulted(p=3)->insulted</li>
@@ -89,15 +97,18 @@
     <li>insulted->slandered</li>
     <li>insulted->hurled invective about</li>
     <li>insulted->derided</li>
-    <li>insultcomparison(p=2)->[Animal]</li>
-    <li>insultcomparison->[Enemy]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->a [Animal]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false)->a [Enemy]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a sphere</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->something totally pointless</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristic] của [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã so sánh [target] với [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã gọi [target] là [insultcomparison].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef] của [PersonF Family]</li>
+    <li>target->[PersonFamily] [RECIPIENT_nameDef]</li>
     <li>insulted(p=3)->xúc phạm</li>
     <li>insulted->công khai xúc phạm</li>
     <li>insulted->lớn tiếng xúc phạm</li>
@@ -115,7 +126,9 @@
   <!-- EN: kind words -->
   <KindWords.label>những lời tử tế</KindWords.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [characteristic].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>complimented(p=3)->complimented</li>
     <li>complimented->praised</li>
     <li>complimented->commended</li>
@@ -131,7 +144,7 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [PersonalCharacteristic] của [RECIPIENT_nameDef].</li>
     <li>complimented(p=3)->khen</li>
     <li>complimented->ca ngợi</li>
     <li>complimented->khen</li>
@@ -148,9 +161,11 @@
   </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
-  <Slight.label>slight</Slight.label>
+  <Slight.label>coi thường</Slight.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [characteristic].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
     <li>madefunof->made fun of</li>
@@ -167,13 +182,13 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [PersonalCharacteristic] của [target].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>target->[PersonFamily] [RECIPIENT_nameDef]</li>
     <li>madefunof->làm cho vui</li>
     <li>madefunof->thiếu tôn trọng</li>
     <li>madefunof->khinh miệt</li>
-    <li>madefunof->xấu hổ</li>
+    <li>madefunof->miệt thị</li>
     <li>madefunof->nói xấu về</li>
     <li>madefunof->nói tiêu cực về</li>
     <li>madefunof->cười nhạo</li>
@@ -181,7 +196,7 @@
     <li>madefunof->ngụ ý những điều tiêu cực về</li>
     <li>madefunof->coi thường</li>
     <li>madefunof->nhận xét khinh miệt về</li>
-    <li>madefunof->đưa ra một lời khen tay trái về</li>
+    <li>madefunof->mỉa mai nói lời tâng bốc về</li>
   </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

@@ -45,11 +45,11 @@
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef] từ chối lời đề nghị.</li>
     <li>sent->[RECIPIENT_nameDef] bỏ qua lời đề nghị.</li>
-    <li>sent->[RECIPIENT_nameDef] quay [RECIPIENT_possessive] lại.</li>
+    <li>sent->[RECIPIENT_nameDef] quay lưng lại.</li>
     <li>sent->[RECIPIENT_nameDef] quay đi.</li>
     <li>sent->[RECIPIENT_nameDef] đưa ra một phản ứng tối thiểu.</li>
     <li>sent->[RECIPIENT_nameDef] không trả lời.</li>
-    <li>sent->[RECIPIENT_nameDef] quay [INITIATOR_objective] xuống.</li>
+    <li>sent->[RECIPIENT_nameDef] đã từ chối [INITIATOR_objective].</li>
   </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

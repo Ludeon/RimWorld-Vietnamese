@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biomutation lance -->
+  <Apparel_BiomutationLance.label>Giáo biến đổi sinh học</Apparel_BiomutationLance.label>
+  <!-- EN: A limited-use psychic effector. It twists and reshapes the musculature of the target, causing them to transform into a terrifying creature.\n\nThis biomutation lance was crafted from a broken shard of dark archotechnology. -->
+  <Apparel_BiomutationLance.description>Một vũ khí tâm linh sử dụng-một-lần. Nó bóp méo và tái cấu trúc hệ cơ của mục tiêu, khiến họ biến thành một sinh vật đáng sợ.\n\nGiáo biến đổi sinh học này được chế tạo từ một mảnh vỡ của viễn cổ công nghệ hắc ám.</Apparel_BiomutationLance.description>
+  <!-- EN: charge -->
+  <Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</Apparel_BiomutationLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>Thời gian hồi</Apparel_BiomutationLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: biomutation lance -->
+  <Apparel_BiomutationLance.verbs.biomutation_lance.label>Kích hoạt giáo biến đổi sinh học</Apparel_BiomutationLance.verbs.biomutation_lance.label>
+  
+  <!-- EN: shard insanity lance -->
+  <Apparel_ShardPsychicInsanityLance.label>Giáo mảnh-phát-điên tâm linh</Apparel_ShardPsychicInsanityLance.label>
+  <!-- EN: A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage.\n\nThis insanity lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight. -->
+  <Apparel_ShardPsychicInsanityLance.description>Một vũ khí tâm linh sử dụng-một-lần. Nó áp đảo tư duy của nạn nhân với những ảo giác đáng sợ, khiến họ hóa điên, cuồng nộ. Có khả năng gây tổn thương não.\n\nChiếc giáo này được làm từ một mảnh vỡ của viễn cổ công nghệ hắc ám. Nó có tầm bắn ngắn hơn các loại khác cùng chức năng, và đòi hỏi phải nhìn thẳng vào mục tiêu.</Apparel_ShardPsychicInsanityLance.description>
+  <!-- EN: charge -->
+  <Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>Thời gian hồi</Apparel_ShardPsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: shard insanity lance -->
+  <Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>Kích hoạt giáo mảnh-phát-điên tâm linh</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>Miễn nhiễm các hiệu ứng tâm linh</Apparel_ShardPsychicInsanityLance.verbs.shard_insanity_lance.invalidTargetPawn>
+  
+  <!-- EN: shard shock lance -->
+  <Apparel_ShardPsychicShockLance.label>Giáo mảnh-chấn động tâm linh</Apparel_ShardPsychicShockLance.label>
+  <!-- EN: A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage.\n\nThis shock lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight. -->
+  <Apparel_ShardPsychicShockLance.description>Một vũ khí tâm linh sử dụng-một-lần. Nó gây sốc cho tinh thần của mục tiêu với những hình ảnh hỗn loạn, phá vỡ khả năng nhận thức mạch lạc và khiến họ rơi vào trạng thái sốc tâm linh. Có khả năng gây tổn thương não.\n\nChiếc giáo này được làm từ một mảnh vỡ của viễn cổ công nghệ hắc ám. Nó có tầm bắn ngắn hơn các loại khác cùng chức năng, và đòi hỏi phải nhìn thẳng vào mục tiêu.</Apparel_ShardPsychicShockLance.description>
+  <!-- EN: charge -->
+  <Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>Nạp năng lượng</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>Thời gian hồi</Apparel_ShardPsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: shard shock lance -->
+  <Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>Kích hoạt giáo mảnh-chấn động tâm linh</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.label>
+  <!-- EN: psychic shock immune -->
+  <Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>Miễn nhiễm các hiệu ứng tâm linh</Apparel_ShardPsychicShockLance.verbs.shard_shock_lance.invalidTargetPawn>
+  
+</LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: activating TargetA. -->
+  <ActivateMonolith.reportString>Kích hoạt Trụ Đá.</ActivateMonolith.reportString>
+  
+  <!-- EN: low activity dormancy -->
+  <ActivityDormant.reportString>Chìm vào trạng thái ngủ đông.</ActivityDormant.reportString>
+  
+  <!-- EN: building a {0} sculpture. -->
+  <BuildCubeSculpture.reportString>Dựng tượng khối.</BuildCubeSculpture.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolder.reportString>Đang mang {TargetB} tới {TargetA}.</CarryToEntityHolder.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolderAlreadyHolding.reportString>Đang mang {TargetB} tới {TargetA}, người đã đang cầm một thứ khác.</CarryToEntityHolderAlreadyHolding.reportString>
+  
+  <!-- EN: attacking. -->
+  <ChimeraSwitchToAttackMode.reportString>Chuyển sang chế độ tấn công.</ChimeraSwitchToAttackMode.reportString>
+  
+  <!-- EN: Doing something. -->
+  <DevourerDigest.reportString>Ngấu nghiến thứ gì đó.</DevourerDigest.reportString>
+  
+  <!-- EN: going dormant -->
+  <EntityGoPassive.reportString>Trở về trạng thái trung lập.</EntityGoPassive.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <ExecuteEntity.reportString>Xử lý {TargetA}.</ExecuteEntity.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCowerShort.reportString>Hoảng loạn bỏ chạy.</FleeAndCowerShort.reportString>
+  
+  <!-- EN: playing with golden cube. -->
+  <GoldenCubePlay.reportString>Nghịch khối vàng.</GoldenCubePlay.reportString>
+  
+  <!-- EN: hate chanting. -->
+  <HateChanting.reportString>Tụng niệm thù hận.</HateChanting.reportString>
+  
+  <!-- EN: investigating TargetA. -->
+  <InvestigateMonolith.reportString>Khảo sát Trụ Đá.</InvestigateMonolith.reportString>
+  
+  <!-- EN: departing -->
+  <NociosphereDepart.reportString>Dời đi.</NociosphereDepart.reportString>
+  
+  <!-- EN: releasing TargetB -->
+  <ReleaseEntity.reportString>Thả {TargetB} ra.</ReleaseEntity.reportString>
+  
+  <!-- EN: stalking TargetA. -->
+  <RevenantAttack.reportString>Truy lùng {TargetA}.</RevenantAttack.reportString>
+  
+  <!-- EN: escaping -->
+  <RevenantEscape.reportString>Tẩu thoát.</RevenantEscape.reportString>
+  
+  <!-- EN: hibernating -->
+  <RevenantSleep.reportString>Ngủ vùi.</RevenantSleep.reportString>
+  
+  <!-- EN: wandering -->
+  <RevenantWander.reportString>Lang thang.</RevenantWander.reportString>
+  
+  <!-- EN: smashing TargetA. -->
+  <SmashThing.reportString>Phá hoại {TargetA}.</SmashThing.reportString>
+  
+  <!-- EN: taking bioferrite out of TargetA. -->
+  <TakeBioferriteOutOfHarvester.reportString>Rút bioferrite ra khỏi {TargetA}.</TakeBioferriteOutOfHarvester.reportString>
+  
+  <!-- EN: talking to TargetA. -->
+  <TalkCreepJoiner.reportString>Thì thầm với {TargetA}.</TalkCreepJoiner.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendEntity.reportString>Chăm sóc {TargetA}.</TendEntity.reportString>
+  
+  <!-- EN: transferring TargetC to another holding location. -->
+  <TransferBetweenEntityHolders.reportString>Chuyển {TargetC} sang nơi giam giữ khác.</TransferBetweenEntityHolders.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseAttack.reportString>Hành hung {TargetA}.</UnnaturalCorpseAttack.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseSkip.reportString>Lướt đi săn mồi {TargetA}.</UnnaturalCorpseSkip.reportString>
+  
+</LanguageData>

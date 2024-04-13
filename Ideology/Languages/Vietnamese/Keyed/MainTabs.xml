@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  <!-- EN: Deities -->
+  <Deities>Các vị thần</Deities>
+  <!-- EN: Show all ideoligions -->
+  <ButtonShowAllIdeoligions>Trình bày tất cả tín ngưỡng</ButtonShowAllIdeoligions>
+  <!-- EN: Ideoligion of -->
+  <IdeoligionOf>Tín ngưỡng của</IdeoligionOf>
+  <!-- EN: Memes -->
+  <Memes>Kỷ vật</Memes>
+  <!-- EN: Narrative -->
+  <CoreNarrative>Chuyện kể</CoreNarrative>
+  <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
+  <CoreNarrativeDesc>Câu chuyện cốt lõi về tín ngưỡng của bạn. Điều này không ảnh hưởng đến lối chơi.</CoreNarrativeDesc>
+  <!-- EN: Edit narrative -->
+  <EditNarrative>Tùy chỉnh câu chuyện</EditNarrative>
+  <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
+  <LockButtonDesc>Bấm nút này để chuyển đổi một câu chuyện về tín ngưỡng hiện tại. Khi bị khóa, văn bả tương thuật sẽ không tự động tạo lại nếu tín ngưỡng được thay đổi.</LockButtonDesc>
+  <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
+  <LockInOn>Khóa {0} hiện đang được bật. {1} sẽ không tự động tạo lại.</LockInOn>
+  <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
+  <LockInOff>Khóa {0} hiện đang được tắt. Văn bản {1} có thể tự động tạo lại.</LockInOff>
+  <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
+  <LockPreceptNameButtonDesc>Khóa hoặc mở khóa tên của giới luật này. Khi bị khóa, tên giới luật sẽ không tự động tạo lại nếu hệ tư tưởng bị thay đổi.</LockPreceptNameButtonDesc>
+  <!-- EN: Precepts -->
+  <Precepts>Giới luật</Precepts>
+  <!-- EN: Rituals -->
+  <Rituals>Nghi thức</Rituals>
+  <!-- EN: Roles -->
+  <IdeoRoles>Vai trò</IdeoRoles>
+  <!-- EN: Buildings -->
+  <IdeoBuildings>Xây dựng</IdeoBuildings>
+  <!-- EN: Relics -->
+  <IdeoRelics>Di tích</IdeoRelics>
+  <!-- EN: Preferred apparel -->
+  <IdeoApparel>Trang phục bắt buộc</IdeoApparel>
+  <!-- EN: apparel desire -->
+  <IdeoApparelDesire>Mong muốn trang phục</IdeoApparelDesire>
+  <!-- EN: Won't do -->
+  <UnwillingToDoIdeoAction>Sẽ không</UnwillingToDoIdeoAction>
+  <!-- EN: Stats -->
+  <PreceptStats>Thống kê</PreceptStats>
+  <!-- EN: Prohibitions -->
+  <Prohibitions>Những điều cấm</Prohibitions>
+  <!-- EN: Opinions -->
+  <Opinions>Ý kiến</Opinions>
+  <!-- EN: Mental breaks -->
+  <MentalBreaks>TODO</MentalBreaks>
+  <!-- EN: Randomize name -->
+  <RandomizeName>Tên ngẫu nhiên</RandomizeName>
+  <!-- EN: Randomize precepts -->
+  <RandomizePrecepts>Giới luật ngẫu nhiên</RandomizePrecepts>
+  <!-- EN: Randomize deities -->
+  <RandomizeDeities>Các vị thần ngẫu nhiên</RandomizeDeities>
+  <!-- EN: Add deity -->
+  <AddDeity>Thêm thần linh</AddDeity>
+  <!-- EN: Choose memes -->
+  <ChooseMemes>Chọn kỷ vật</ChooseMemes>
+  <!-- EN: Choose starting meme -->
+  <ChooseStartingMeme>Chọn biểu tượng khởi đầu</ChooseStartingMeme>
+  <!-- EN: Choose structure -->
+  <ChooseStructure>Chọn cấu trúc</ChooseStructure>
+  <!-- EN: Choose culture -->
+  <ChooseCulture>Chọn văn minh</ChooseCulture>
+  <!-- EN: Culture -->
+  <Culture>Văn minh</Culture>
+  <!-- EN: Culture affects names, appearances, and symbols. -->
+  <CultureTip>Văn minh ảnh hưởng đến kỷ vật, diện mạo và biểu tượng.</CultureTip>
+  <!-- EN: Structure -->
+  <StructureMeme>Kết cấu</StructureMeme>
+  <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
+  <StructureMemeTip>Cấu trúc của một tín ngưỡng xác định loại thực thể và lực lượng mà nó coi là quan trọng đối với cấu trúc luân lý của vũ trụ. Nó không có hiệu ứng chơi trò chơi trực tiếp.</StructureMemeTip>
+  <!-- EN: Adjective -->
+  <Adjective>Tính chất</Adjective>
+  <!-- EN: Ritual room -->
+  <WorshipRoom>Phòng nghi thức</WorshipRoom>
+  <!-- EN: Member noun -->
+  <IdeoMembers>Thành viên danh từ</IdeoMembers>
+  <!-- EN: Member plural -->
+  <IdeoMembersPlural>Thành viên số nhiều</IdeoMembersPlural>
+  <!-- EN: Edit symbols -->
+  <EditSymbols>Tùy chỉnh biểu tượng</EditSymbols>
+  <!-- EN: Edit deity -->
+  <EditDeity>Tùy chỉnh thần linh</EditDeity>
+  <!-- EN: Edit required apparel -->
+  <EditApparelRequirement>Tùy chỉnh trang phục bắt buộc</EditApparelRequirement>
+  <!-- EN: Edit name -->
+  <EditName>Tùy chỉnh tên</EditName>
+  <!-- EN: Any time -->
+  <StartingCondition_Anytime>Bất cứ lúc nào</StartingCondition_Anytime>
+  <!-- EN: Date -->
+  <StartingCondition_Date>Kỳ</StartingCondition_Date>
+  <!-- EN: Starting condition -->
+  <StartingCondition>Điều kiện khởi động</StartingCondition>
+  <!-- EN: Edit -->
+  <Edit>Tùy chình</Edit>
+  <!-- EN: Randomize symbols -->
+  <RandomizeSymbols>Biểu tượng ngẫu nhiên</RandomizeSymbols>
+  <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
+  <RandomizeSymbolsTooltip>Ngẫu nhiên hóa tên tín ngưỡng, biểu tượng, câu chuyện, chức danh thủ lĩnh và bất kỳ vắn bản nào khác như tên nghi lễ hoặc tên vai trò. Điều này không ảnh hưởng đến các yếu tố trò chơi như kỷ vật hoặc giới luật.</RandomizeSymbolsTooltip>
+  <!-- EN: Click any element to edit it -->
+  <ClickAnyElementToEditIt>Click vào bất kỳ phần tử nào để chỉnh sửa nó</ClickAnyElementToEditIt>
+  <!-- EN: Leader title -->
+  <LeaderTitle>Chức danh lãnh đạo</LeaderTitle>
+  <!-- EN: Deity name -->
+  <DeityName>Tên thần linh</DeityName>
+  <!-- EN: Deity title -->
+  <DeityTitle>Danh hiệu thần linh</DeityTitle>
+  <!-- EN: Deity gender -->
+  <DeityGender>Giới tính thần linh</DeityGender>
+  <!-- EN: Name -->
+  <Name>Tên</Name>
+  <!-- EN: Icon -->
+  <Icon>Biểu tượng</Icon>
+  <!-- EN: Related to meme -->
+  <RelatedToMeme>Liên quan đến kỷ vật</RelatedToMeme>
+  <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
+  <IdeoCharityQuestInfo>Đây là nhiệm vụ từ thiện. Nếu bạn không thực hiện nó, những người tin tưởng vào {0} sẽ không hài lòng vì niềm tin từ thiện của họ. Nếu bạn làm như vậy, những người tin tưởng vào {0} sẽ rất vui ({1}).</IdeoCharityQuestInfo>
+  <!-- EN: Slaves will not do this work -->
+  <WorkDisabledSlave>Nô lệ sẽ không làm việc này</WorkDisabledSlave>
+  <!-- EN: Disabled by health condition -->
+  <WorkDisabledHealth>TODO</WorkDisabledHealth>
+  <!-- EN: Disabled by {0} role -->
+  <WorkDisabledRole>Bị vô hiệu hóa bởi vai trò {0}</WorkDisabledRole>
+  <!-- EN: Affected by traits -->
+  <AffectedByTraits>Bị ảnh hưởng bởi các đặc điểm</AffectedByTraits>
+  <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
+  <CharityQuestTip>Đây là một nhiệm vụ từ thiện. Những người có niềm tin từ thiện sẽ bị ảnh hưởng bởi kết quả của nó.</CharityQuestTip>
+  <!-- EN: formerly -->
+  <Formerly>trước kia</Formerly>
+  <!-- EN: all -->
+  <All>tất cả</All>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
+  <RelicTip>Di vật là vật có ý nghĩa tinh thần hoặc ý nghĩa tư tưởng bằng cách hoàn thành các nhiệm vụ dài và nguy hiểm. Một thánh tích có thể được lắp đặt trong một đền thờ để thu hút khách hành hương nâng cao nghi lễ và củng cố khả năng chuyển đổi người ngoài của một tượng đài.</RelicTip>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals. -->
+  <RelicTipClassic>Di vật là vật có ý nghĩa tâm linh hoặc tư tưởng. Chúng có thể được phát hiện bằng cách hoàn thành các nhiệm vụ dài và nguy hiểm. Một di tích có thể được cài đặt trong một thánh tích để thu hút khách hành hương và tăng cường các nghi lễ.</RelicTipClassic>
+  <!-- EN: animal -->
+  <Animal>động vật</Animal>
+  <!-- EN: Venerated animals -->
+  <VeneratedAnimals>Động vật có linh tính</VeneratedAnimals>
+  <!-- EN: weapon pair -->
+  <IdeoWeapon>cặp vú khí</IdeoWeapon>
+  <!-- EN: Weapons -->
+  <IdeoWeapons>Vũ khí</IdeoWeapons>
+  <!-- EN: Swap noble and despised -->
+  <SwapNobleAndDespised>Đánh đổi sự cao quý và bị coi thường</SwapNobleAndDespised>
+  <!-- EN: noble -->
+  <Noble>cao quý</Noble>
+  <!-- EN: despised -->
+  <Despised>coi thường</Despised>
+  <!-- EN: Unlocked craftables -->
+  <UnlockedRecipes>Mở khóa bàn chế tạo</UnlockedRecipes>
+  <!-- EN: Start with research -->
+  <IdeoStartWithResearch>Bắt đầu nghiên cứu</IdeoStartWithResearch>
+  <!-- EN: Agreeing traits -->
+  <AgreeableTraits>Đồng ý đặc điểm</AgreeableTraits>
+  <!-- EN: Conflicting traits -->
+  <DisagreeableTraits>Xung đột các đặc điểm</DisagreeableTraits>
+  <!-- EN: Shooting -->
+  <Shooting>Bắn súng</Shooting>
+  <!-- EN: Impact -->
+  <IdeoImpact>Xung đột</IdeoImpact>
+  <!-- EN: Overall impact -->
+  <IdeoImpactOverall>Tác động tổng thể</IdeoImpactOverall>
+  <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
+  <IdeoImpactOverallDesc>Một số di vật ảnh hưởng đến lối chơi. Điểm số tác động của mêm cho biết mức độ ảnh hưởng của nó đến lối chơi.</IdeoImpactOverallDesc>
+  <!-- EN: low -->
+  <IdeoMemeImpactLabel_1>thấp</IdeoMemeImpactLabel_1>
+  <!-- EN: medium -->
+  <IdeoMemeImpactLabel_2>trung bình</IdeoMemeImpactLabel_2>
+  <!-- EN: high -->
+  <IdeoMemeImpactLabel_3>cao</IdeoMemeImpactLabel_3>
+  <!-- EN: low -->
+  <IdeoImpactLabel_1>thấp</IdeoImpactLabel_1>
+  <!-- EN: low -->
+  <IdeoImpactLabel_2>thấp</IdeoImpactLabel_2>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_3>vừa phải</IdeoImpactLabel_3>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_4>vừa phải</IdeoImpactLabel_4>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_5>mạnh</IdeoImpactLabel_5>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_6>mạnh</IdeoImpactLabel_6>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_7>rất mạnh</IdeoImpactLabel_7>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_8>rất mạnh</IdeoImpactLabel_8>
+  <!-- EN: extreme -->
+  <IdeoImpactLabel_9>cực kỳ</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's starting ideoligion. -->
+  <InitialPlayerIdeo>Đây là tư tưởng khởi đầu của thuộc địa của bạn.</InitialPlayerIdeo>
+  
+  
+  <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
+  <FluidIdeoTip>Vì hệ tư tưởng này quá mới và có quá ít người theo dõi trên hành tinh này nên nó rất dễ thay đổi. Điều này có nghĩa là nó có thể phát triển theo thời gian.\n\nViệc phát triển hệ tư tưởng sẽ tiêu tốn điểm phát triển. Bạn có thể kiếm điểm phát triển bằng cách hoàn thành các nghi lễ và nhiệm vụ liên quan đến hệ tư tưởng này.\n\nKhi có đủ điểm phát triển, bạn có thể cải tổ hệ tư tưởng bằng meme, giới luật, phong cách mới, v.v.</FluidIdeoTip>
+  <!-- EN: How to get development points -->
+  <FluidIdeoTipGetPoints>Cách nhận điểm phát triển</FluidIdeoTipGetPoints>
+  <!-- EN: Convert someone to your ideoligion -->
+  <FluidIdeoTipGetPoinsByConversion>Chuyển ai đó sang hệ tư tưởng của bạn</FluidIdeoTipGetPoinsByConversion>
+
+  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
+  <ResearchProjectHasDefsWithMissingMemes>{0} mở khóa những thứ mà bạn không thể xây dựng vì chúng yêu cầu mêm mà không ai trong số những người của bạn tin tưởng</ResearchProjectHasDefsWithMissingMemes>
+  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
+  <SelectedWorkTypeOpposedByIdeo>Cảnh cáo: Loại công việc này bị {0_possessive} tín ngưỡng phản đối, vì vậy nó có thể khiến người này không hài lòng.</SelectedWorkTypeOpposedByIdeo>
+
+  <!-- EN: Development points -->
+  <DevelopmentPoints>Điểm phát triển</DevelopmentPoints>
+
+</LanguageData>

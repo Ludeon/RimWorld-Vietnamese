@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fertile -->
+  <Fertile.label>phì nhiêu</Fertile.label>
+  <!-- EN: Carriers of this gene have a higher chance of becoming pregnant or impregnating others. -->
+  <Fertile.description>Người mang gen này có nhiều khả năng tẩm bổ cho ai đó hoặc mang thai.</Fertile.description>
+  
+  <!-- EN: strong immunity -->
+  <Immunity_Strong.label>khả năng miễn dịch mạnh mẽ</Immunity_Strong.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases faster than normal. -->
+  <Immunity_Strong.description>Người mang gen này có khả năng miễn dịch với các bệnh nhanh hơn bình thường.</Immunity_Strong.description>
+  <!-- EN: immune -->
+  <Immunity_Strong.labelShortAdj>sự miễn nhiễm</Immunity_Strong.labelShortAdj>
+  <!-- EN: stout -->
+  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>mạnh mẽ</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: super immunity -->
+  <Immunity_SuperStrong.label>siêu miễn dịch</Immunity_SuperStrong.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases considerably faster than normal. -->
+  <Immunity_SuperStrong.description>Những người mang gen này có được khả năng miễn dịch chống lại các bệnh nhanh hơn nhiều so với bình thường.</Immunity_SuperStrong.description>
+  <!-- EN: super-immune -->
+  <Immunity_SuperStrong.labelShortAdj>siêu miễn dịch</Immunity_SuperStrong.labelShortAdj>
+  <!-- EN: stout -->
+  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>mạnh mẽ</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: weak immunity -->
+  <Immunity_Weak.label>khả năng miễn dịch thấp</Immunity_Weak.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases more slowly than normal. They may die from infections that others would survive. -->
+  <Immunity_Weak.description>Những người mang gen này có được khả năng miễn dịch đối với các bệnh chậm hơn bình thường. Họ có thể chết vì nhiễm trùng mà người khác sẽ sống sót.</Immunity_Weak.description>
+  <!-- EN: susceptible -->
+  <Immunity_Weak.labelShortAdj>hợp lý</Immunity_Weak.labelShortAdj>
+  <!-- EN: sick -->
+  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>ốm yếu</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: frail -->
+  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>Yếu</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: sterile -->
+  <Sterile.label>vô trùng</Sterile.label>
+  <!-- EN: Carriers of this gene cannot reproduce by natural means. -->
+  <Sterile.description>Những người mang gen này không thể sinh sản bằng phương tiện tự nhiên.</Sterile.description>
+  
+  <!-- EN: superclotting -->
+  <Superclotting.label>chất siêu đông</Superclotting.label>
+  <!-- EN: Carriers of this gene have extra-power coagulating factors in their blood, and will stop bleeding very quickly when wounded. -->
+  <Superclotting.description>Người mang gen này có các yếu tố đông máu mạnh mẽ trong máu và cầm máu rất nhanh khi bị thương.</Superclotting.description>
+  <!-- EN: Bleeding wounds close very quickly. -->
+  <Superclotting.customEffectDescriptions.0>Những vết thương chảy máu để đóng rất nhanh.</Superclotting.customEffectDescriptions.0>
+  <!-- EN: clot -->
+  <Superclotting.symbolPack.prefixSymbols.0.symbol>đông máu</Superclotting.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: scab -->
+  <Superclotting.symbolPack.prefixSymbols.1.symbol>vảy cá</Superclotting.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: clot -->
+  <Superclotting.symbolPack.suffixSymbols.0.symbol>cục máu đông</Superclotting.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: scab -->
+  <Superclotting.symbolPack.suffixSymbols.1.symbol>vảy cá</Superclotting.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: partial antitoxic lungs -->
+  <ToxicEnvironmentResistance_Partial.label>phổi chống độc một phần</ToxicEnvironmentResistance_Partial.label>
+  <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
+  <ToxicEnvironmentResistance_Partial.description>Các chất mang gen này có khả năng kháng độc tố môi trường. Họ tích lũy ít khí độc tố từ địa hình bị ô nhiễm hoặc bụi phóng xạ độc hại, nhưng luôn dễ bị tấn công trực tiếp dựa trên nọc độc hoặc thuốc độc được tiêm. Ngoài ra, họ chậm hơn tích lũy tiếp xúc với khí sâu bệnh.</ToxicEnvironmentResistance_Partial.description>
+  <!-- EN: tox-resistant -->
+  <ToxicEnvironmentResistance_Partial.labelShortAdj>kháng độc tố</ToxicEnvironmentResistance_Partial.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>độc tố</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: total antitoxic lungs -->
+  <ToxicEnvironmentResistance_Total.label>toàn phổi chống độc</ToxicEnvironmentResistance_Total.label>
+  <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
+  <ToxicEnvironmentResistance_Total.description>Những người mang gen này miễn nhiễm với độc tố môi trường, nhưng không chống lại các cuộc tấn công độc hại trực tiếp. Họ không tích lũy bất kỳ khí độc tố nào, cho dù là lợi ích bị ô nhiễm hay độc hại và chúng không bị xáo trộn bởi khói axit. Chúng luôn dễ bị tấn công trực tiếp như nọc độc và chất độc được tiêm.Ngoài ra, chúng miễn dịch với việc tiếp xúc với khí sâu bệnh.</ToxicEnvironmentResistance_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>khả năng miễn dịch với khí độc</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+  <!-- EN: tox-immune -->
+  <ToxicEnvironmentResistance_Total.labelShortAdj>miễn dịch độc tố</ToxicEnvironmentResistance_Total.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>độc tố</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: fast wound healing -->
+  <WoundHealing_Fast.label>chữa bệnh nhanh chóng</WoundHealing_Fast.label>
+  <!-- EN: Carriers of this gene heal from wounds twice as fast as normal. -->
+  <WoundHealing_Fast.description>Các chất mang gen này chữa lành vết thương nhanh gấp đôi so với bình thường.</WoundHealing_Fast.description>
+  <!-- EN: fast-heal -->
+  <WoundHealing_Fast.labelShortAdj>chữa bệnh nhanh chóng</WoundHealing_Fast.labelShortAdj>
+  <!-- EN: stout -->
+  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>cường tráng</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hard -->
+  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>cứng</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: slow wound healing -->
+  <WoundHealing_Slow.label>chữa lành chậm</WoundHealing_Slow.label>
+  <!-- EN: Carriers of this gene heal from wounds half as fast as normal. -->
+  <WoundHealing_Slow.description>Người mang gen này chữa lành vết thương nhanh bằng một nửa so với bình thường.</WoundHealing_Slow.description>
+  <!-- EN: slow-heal -->
+  <WoundHealing_Slow.labelShortAdj>chữa lành chậm</WoundHealing_Slow.labelShortAdj>
+  <!-- EN: soft -->
+  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>mềm</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: superfast wound healing -->
+  <WoundHealing_SuperFast.label>chữa bệnh cực nhanh</WoundHealing_SuperFast.label>
+  <!-- EN: Carriers of this gene heal from wounds four times as fast as normal. -->
+  <WoundHealing_SuperFast.description>Những người mang gen này chữa lành vết thương nhanh hơn bốn lần so với bình thường.</WoundHealing_SuperFast.description>
+  <!-- EN: super-heal -->
+  <WoundHealing_SuperFast.labelShortAdj>siêu chữa bệnh</WoundHealing_SuperFast.labelShortAdj>
+  <!-- EN: stout -->
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>Mạnh mẽ</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hard -->
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>cứng</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

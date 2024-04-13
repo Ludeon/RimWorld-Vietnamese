@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure scaria -->
+  <CureScaria.label>chữa bệnh sốt rét</CureScaria.label>
+  <!-- EN: This special medical operation cures scaria. -->
+  <CureScaria.description>Hoạt động y tế đặc biệt này sẽ chữa khỏi bệnh sốt rét.</CureScaria.description>
+  <!-- EN: Curing scaria. -->
+  <CureScaria.jobString>Đang chữa bệnh sốt rét.</CureScaria.jobString>
+  <!-- EN: {0} has successfully cured {1}'s scaria. -->
+  <CureScaria.successfullyRemovedHediffMessage>{0} đã chữa thành công bệnh sốt rét của {1}.</CureScaria.successfullyRemovedHediffMessage>
+  
+  <!-- EN: sterilize -->
+  <Sterilize.label>triệt sản</Sterilize.label>
+  <!-- EN: Sterilize a creature so it can no longer reproduce. -->
+  <Sterilize.description>Triệt sản một sinh vật để nó không thể sinh sản được nữa.</Sterilize.description>
+  <!-- EN: sterilizing TargetA. -->
+  <Sterilize.jobString>triệt sản TargetA.</Sterilize.jobString>
+  <!-- EN: {0} has successfully sterilized {1}. -->
+  <Sterilize.successfullyRemovedHediffMessage>{0} đã triệt sản thành công {1}.</Sterilize.successfullyRemovedHediffMessage>
+  
+</LanguageData>

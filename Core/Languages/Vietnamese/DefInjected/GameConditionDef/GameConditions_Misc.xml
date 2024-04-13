@@ -61,24 +61,24 @@
   <Planetkiller.description>Một tia plasma huỷ diệt cấp vũ trụ đang lao đến hành tinh này. Nó sẽ nổ vỡ hành tinh như một viên đạn súng trường bắn trúng một quả trứng, hủy diệt tất cả sự sống.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <PsychicDrone.label>xung thần kinh</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>Một công nghệ khảo cổ ở xa xôi đang phát ra những sóng tín hiệu psychic thông qua bộ khuếch đại quỹ đạo, làm mọi người trở nên điên rồ.</PsychicDrone.description>
+  <PsychicDrone.description>Một công nghệ khảo cổ ở xa xôi đang phát ra những sóng tín hiệu thần kinh thông qua bộ khuếch đại quỹ đạo, làm mọi người trở nên điên rồ.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>một psychic drone [psychicDroneLevel] sẽ gây nhiễu loạn khu vực xung quanh [map_definite] cho [gameConditionDuration_duration], làm tất cả mọi người thuộc giới tính [psychicDroneGender] trở nên điên rồ</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>một xung thần kinh [psychicDroneLevel] sẽ gây nhiễu loạn khu vực xung quanh [map_definite] cho [gameConditionDuration_duration], làm tất cả mọi người thuộc giới tính [psychicDroneGender] trở nên điên rồ</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>Psychic drone đang kết thúc..</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Xung thần kinh đang kết thúc..</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>Cư dân {0} cảm thấy một làn sóng tinh thần!\n\nHận thù, bạo lực đang bị khơi gợi. Nó đang trù hoạch một psychic drone phát ra thông qua bộ khuếch đại quỹ đạo, được điều chỉnh để chỉ ảnh hưởng trong {0} s. Trong vài ngày, tâm trạng của một số người sẽ khá tệ hơn một chút.\n\nDrone có cấp độ là {1}.</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Cư dân {0} cảm thấy một làn sóng tinh thần!\n\nHận thù, bạo lực đang bị khơi gợi. Nó đang thiết lập phát ra một xung thần kinh thông qua bộ khuếch đại quỹ đạo, được điều chỉnh để chỉ ảnh hưởng đến {0}. Trong vài ngày, tâm trạng của một số người sẽ khá tệ một chút.\n\nXung có cấp độ là {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <PsychicSoothe.label>xung thần kinh êm dịu</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>Một công nghệ lưu trữ xa xôi đang phát ra tín hiệu psychic thông qua bộ khuếch đại quỹ đạo, làm dịu con người và ổn định tâm trí của họ.</PsychicSoothe.description>
+  <PsychicSoothe.description>Một công nghệ lưu trữ xa xôi đang phát ra những sóng tín hiệu thần kinh thông qua bộ khuếch đại quỹ đạo, làm dịu con người và ổn định tâm trí của họ.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>psychic soothe kết thúc.</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>xung thần kinh êm dịu kết thúc.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>Mỗi cư dân {0} mỉm cười với sự hài lòng!\n\nHạnh phúc đã được khơi gợi. Nó đang trù hoạch một psychic soothe phát ra thông qua bộ khuếch đại quỹ đạo, được điều chỉnh để chỉ ảnh hưởng đến {0} s. Trong một vài ngày, tâm trạng của một số người sẽ khá hơn một chút.</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Mỗi cư dân {0} mỉm cười với sự hài lòng!\n\nHạnh phúc đã được khơi gợi. Nó đang thiết lập phát ra một xung thần kinh thông qua bộ khuếch đại quỹ đạo, được điều chỉnh để chỉ ảnh hưởng đến {0}. Trong một vài ngày, tâm trạng của một số người sẽ khá hơn một chút.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>bức xạ mặt trời</SolarFlare.label>
@@ -87,7 +87,7 @@
   <!-- EN: The solar flare is ending. -->
   <SolarFlare.endMessage>Bức xạ mặt trời đang kết thúc.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>Một bức xạ mặt trời đã bắt đầu.\n\nBức xạ cực mạnh sẽ phá huỷ tất cả các thiết bị điện.\n\nNó sẽ trôi qua trong khoảng một ngày.</SolarFlare.letterText>
+  <SolarFlare.letterText>Một bức xạ mặt trời đã bắt đầu.\n\nBức xạ cực mạnh sẽ tắt tất cả các thiết bị điện.\n\nNó sẽ trôi qua trong khoảng một ngày.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>bụi độc</ToxicFallout.label>
@@ -97,7 +97,7 @@
   <ToxicFallout.descriptionFuture>một đám mây bụi độc hại sẽ phủ kín khu vực xung quanh [map_definite] cho [gameConditionDuration_duration], giết chết thực vật và động vật ngoài trời</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>Điều tồi tệ nhất của bụi phóng xạ độc hại đã giải quyết.</ToxicFallout.endMessage>
-  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to nearly a quadrum. -->
   <ToxicFallout.letterText>Một đám cháy hóa học ở xa đã giải phóng một khối chất độc trên toàn bộ khu vực này.\n\nBất kỳ người hoặc sinh vật nào không ở dưới một mái nhà sẽ bị nhiễm độc do bụi độc hại thoát ra khỏi bầu khí quyển.\n\nNó sẽ tồn tại trong bất kỳ nơi nào trong khoảng vài ngày cho đến hơn một quý.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->

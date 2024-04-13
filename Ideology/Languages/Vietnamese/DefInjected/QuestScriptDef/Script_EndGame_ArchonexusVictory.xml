@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName-></li>
+  -->
+  <EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+    <li>questName-></li>
+  </EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth and technology. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of [playerSettlements], including all items, people, and recorded research. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</li>
+    <li>itsTheir(playerSettlementsCount==1)->its</li>
+    <li>itsTheir(playerSettlementsCount>=2)->their</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->settlement</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements</li>
+    <li>onlyHaveHas(factionless==false)->[civilOutlander_name] only has</li>
+    <li>onlyHaveHas(factionless==true)->The group only have</li>
+    <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>
+    <li>factionPawnsPlural(factionless==true)->wild people</li>
+    <li>descriptionIntro(factionless==false)->[civilOutlander_name] is</li>
+    <li>descriptionIntro(factionless==true)->A group of wild people are</li>
+  -->
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription->[descriptionIntro] đang tìm cách mở rộng lãnh thổ của họ, và đang hứng thú với việc chiếm [playerSettlements] và toàn bộ của cải và công nghệ [itsTheir]. Nếu bạn có thể tăng tổng giá trị của mình lên [requiredWealth_money], họ sẽ lấy [settlementsSingularOrPlural] của bạn.\n\nTrong cuộc trao đổi, họ sẽ đưa bạn một phần của một bản đồ dẫn đến một liên kết hồ quang cổ xưa. Liên kết hồ quang này được cho là sợi dây kết nối với một thực thể siêu trí tuệ hồ quang có thế lực chi phố thế giới vật chất. Nếu bạn có thể kích hoạt được năng lực của nó, chuyện xảy ra tiếp theo có thể nằm ngoài giới hạn thực tại vật chất.\n\n[onlyHaveHas] một phần của bản đồ. Các phần còn lại được nắm giữ bởi các phe phái khác.\n\nNếu bạn chấp nhận đề nghị của họ, [factionPawnsPlural] sẽ chiếm quyền kiểm soát của [playerSettlements], bao gồm các vật phẩm, người, và các công nghệ đã nghiên cứu. Họ sẽ mang tối đa [colonistsAllowed] cư dân và [animalsAllowed] động vật của bạn đến bất kỳ nơi nào trên hành tinh để thiết lập một thuộc địa mới.\n\Sau này, bạn có thể trao đổi với những phe khác để nhận hai phần cuối cùng của bản đồ.</li>
+    <li>itsTheir(playerSettlementsCount==1)->của nó</li>
+    <li>itsTheir(playerSettlementsCount>=2)->của chúng</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->thuộc địa</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->những thuộc địa</li>
+    <li>onlyHaveHas(factionless==false)->[civilOutlander_name] chỉ có</li>
+    <li>onlyHaveHas(factionless==true)->Nhóm này chỉ có</li>
+    <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>
+    <li>factionPawnsPlural(factionless==true)->nhóm người hoang dã</li>
+    <li>descriptionIntro(factionless==false)->[civilOutlander_name]</li>
+    <li>descriptionIntro(factionless==true)->Một nhóm người hoang dã</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the archonexus</li>
+  -->
+  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+    <li>questName->liên kết hồ quang</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony and all of its recorded research.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
+    <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
+    <li>cycle1Faction(factionless==true)->The [wildPeople]</li>
+    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name]</li>
+    <li>otherMapPartHolders(factionless==true)->other [wildPeople]</li>
+    <li>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</li>
+    <li>takeoverPawnsPlural(factionless==true)->[wildPeople]</li>
+    <li>wildPeople->wild people</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+  -->
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription->Với phần đầu của bản đồ liên kết hồ quang đã được lưu lại kỹ càng, bạn chuẩn bị cho bước tiếp theo của hành trình của bạn.\n\n[cycle1Faction] nói với bạn về một cơn đại hồng thủy đã nhấn chìm thế giới này. Hàng thế kỉ trước, con người đã từng chế tạo một cỗ máy có tư duy cao. Nó phản bội lại chủ nhân của nó và một cuộc chiến đã diễn ra. Chỉ có vài người còn sống sót khi cỗ máy đạt trạng thái siêu việt và đi vào giấc ngủ.\n\nBản đồ đến liên kết hồ quang gồm ba phần, và bạn đang nắm giữ một trong số chúng. [otherMapPartHolders] cũng đang nắm giữ một phần của bản đồ. Họ sẽ trao đổi chúng với một thuộc địa mới giàu có cùng với các công nghệ nghiên cứu của nó.[descriptionStudyRequirement]\n\nĐến lúc xây dựng lại thôi.</li>
+    <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
+    <li>cycle1Faction(factionless==true)->[wildPeople]</li>
+    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name] và [roughTribe_name]</li>
+    <li>otherMapPartHolders(factionless==true)->Những người khác [wildPeople]</li>
+    <li>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</li>
+    <li>takeoverPawnsPlural(factionless==true)->[wildPeople]</li>
+    <li>wildPeople->Nhóm người hoang dã</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nPhần tiếp theo của bản đồ được mã hóa theo một cách kỳ lạ. Để dịch được nó, bạn cần học thêm và các công nghệ hồ quang bằng cách tìm hiểu về cấu trúc ở đây.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+  </EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the archonexus</li>
+  -->
+  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+    <li>questName->liên kết hồ quang</li>
+  </EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questAcceptedLetterLabel->archonexus discovered</li>
+    <li>questAcceptedLetterText->[questDescriptionBeforeAccepted]</li>
+    <li>questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll trade it to you for a wealthy new colony along with its recorded research.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
+    <li>questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real.</li>
+    <li>factionName(factionless==false)->[roughTribe_name]</li>
+    <li>factionName(factionless==true)->The wild people</li>
+    <li>descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has</li>
+    <li>descriptionIntro(factionless==true)->The wild people have</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+    <li>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</li>
+    <li>descriptionThreats(threatsEnabled==false)-></li>
+  -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+    <li>questAcceptedLetterLabel->phát hiện liên kết hồ quang</li>
+    <li>questAcceptedLetterText->[questDescriptionBeforeAccepted]</li>
+    <li>questDescriptionBeforeAccepted->Bạn đang có hai phần của bản đồ đến liên kết hồ quang. [factionName] có phần cuối cùng của bản đồ, được truyền lại từ thời tổ tiên của họ sống sót của cơn đại hồng thủy. Họ sẽ trao đổi chúng với một thuộc địa mới giàu có cùng với các công nghệ nghiên cứu của nó.[descriptionStudyRequirement]\n\nĐến lúc xây dựng lại thôi.</li>
+    <li>questDescriptionAfterAccepted->[descriptionIntro] đưa cho bạn phần cuối cùng của bản đồ liên kết hồ quang. Bằng những kiến thức về mã hóa thông tin hồ quang, bạn giải mã được bản đồ và tìm được chính xác vị trí của liên kết hồ quang.\n\Những đồng minh của bạn không nghĩ bạn sẽ quay về, nên sau khi bạn đến đó, họ sẽ chiếm [playerSettlements].\n\n[descriptionThreats]Giờ điều cần làm cuối cùng là đi đến liên kết hồ quang, kích hoạt năng lực của vị thần cỗ máy, và tìm xem liệu những câu chuyện là có thật hay không.</li>
+    <li>factionName(factionless==false)->[roughTribe_name]</li>
+    <li>factionName(factionless==true)->Nhóm người hoang dã</li>
+    <li>descriptionIntro(factionless==false)->Nhà lãnh đạo của [roughTribe_name] [roughTribe_leader_nameDef] đã</li>
+    <li>descriptionIntro(factionless==true)->Nhóm người hoang dã đã</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nNhư lần trước, phần bản đồ bị mã hóa. Để giải mã nó, bạn cần phải tìm hiểu về cấu trúc hồ quang.</li>
+    <li>descriptionStudyRequirement(studyRequirement==false)-></li>
+    <li>descriptionThreats(threatsEnabled==true)->Liên kết hồ quang nhiều khả năng sẽ có các cỗ máy chiến đấu cơ bảo vệ nó, vậy nên hãy chuẩn bị trước khi đi.\n\n</li>
+    <li>descriptionThreats(threatsEnabled==false)-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->the archonexus</li>
+  -->
+  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+    <li>questName->liên kết hồ quang</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -4,82 +4,109 @@
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>Động vật không tấn công cửa</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Động vật săn mồi nói chung sẽ không tấn công cửa hoặc tháp pháo không hoạt động.\n\nBạn có thể thoát khỏi chúng bằng cách vào trong hoặc đằng sau bức tường. Nhưng họ sẽ đợi bạn.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Động vật săn mồi nói chung sẽ không tấn công cửa hoặc tháp pháo không hoạt động.\n\nBạn có thể thoát khỏi chúng bằng cách vào trong hoặc đằng sau bức tường. Nhưng chúng vẫn sẽ chờ đợi bạn.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>Thẻ Công Việc</BillsTab.label>
+  <BillsTab.label>Thẻ công việc</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>Để cho cư dân làm việc tại một cái bàn làm việc, chọn bàn làm việc đó và mở thẻ danh mục. Ở đây, bạn có thể yêu cầu những bữa ăn để nấu, những gì để chế tạo, những sinh vật để giết thịt.</BillsTab.helpText>
+  <BillsTab.helpText>Để cho cư dân làm việc tại bàn làm việc, chọn bàn làm việc đó và mở thẻ danh mục. Ở đây, bạn có thể yêu cầu những bữa ăn để nấu, những gì để chế tạo, những sinh vật để giết thịt.</BillsTab.helpText>
+  
+  <!-- EN: books -->
+  <Books.label>TODO</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>TODO</Books.helpText>
   
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Xây dựng điểm giao dịch</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>Để gửi vật phẩm hoặc bạc cho các nhà giao dịch quỹ đạo, bạn phải xây dựng một điểm giao dịch và đặt một kho dự trữ các mặt hàng gần nó.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>Để gửi vật phẩm hoặc bạc cho các thương buôn lang thang trên vành đai, bạn phải xây dựng một điểm giao dịch và đặt một kho dự trữ các mặt hàng gần nó.</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
   <Capturing.label>Bắt giữ</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Khi một cư dân bị hạ gục và nằm trên đất, bạn có thể bắt giữ bằng cách chọn một cư dân khỏe mạnh, rồi bấm chuột phải vào người bị hạ gục và chọn Bắt giữ.\n\nBạn sẽ cần một giường tù nhân còn trống cho họ.</Capturing.helpText>
+  <Capturing.helpText>Khi một kẻ thù bị hạ gục và nằm trên đất, bạn có thể bắt giữ bằng cách chọn một cư dân khỏe mạnh, rồi bấm chuột phải vào kẻ thù bị hạ gục và chọn Bắt giữ.\n\nBạn sẽ cần một cái giường trống cho tù nhân.</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>Khi kẻ thù bị hạ gục trên mặt đất nhưng chưa chết, bạn có thể BẮT GIỮ chúng.\n\nĐể bắt giữ, hãy chọn một người dân thuộc địa, nhấn nút kích hoạt bên trái trên kẻ thù bất lực và chọn Bắt giữ.\n\nBạn sẽ cần một giường phụ được đánh dấu cho tù nhân sử dụng.</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>Tốc độ mở cửa</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>Cửa mở ở tốc độ khác nhau tùy thuộc vào những gì chúng được tạo ra. \n\nCảnh báo: Cửa đá mở rất chậm. Bất cứ ai đi qua sẽ bị chậm lại đáng kể.</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>Cửa mở ở tốc độ khác nhau tùy thuộc vào những gì chúng được tạo ra.\n\nCảnh báo: Cửa bằng đá mở rất chậm. Bất cứ ai đi qua sẽ bị chậm lại đáng kể.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>Rút vũ khí</Drafting.label>
+  <Drafting.label>Chế độ chiến đầu</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>Để điều khiển cư dân trong chiến đấu, lựa chọn họ rồi bấm chọn "Rút vũ khí".\n\nNhững cư dân đã rút vũ khí sẽ làm theo mệnh lệnh của bạn và chỉ có thể thực hiện các hành động giao tranh.\n\nLưu ý đừng để cư dân Rút vũ khí vô thời hạn - họ sẽ đứng im và chết đói.</Drafting.helpText>
+  <Drafting.helpText>Để điều khiển cư dân trong chiến đấu, lựa chọn họ rồi bấm chọn "Chế độ chiến đấu".\n\nNhững cư dân đang trong chế độ chiến đấu sẽ làm theo mệnh lệnh của bạn và chỉ có thể thực hiện các hành động giao tranh.\n\nLưu ý đừng để cư dân ở trạng thái chế độ chiến đấu vô thời hạn - họ sẽ đứng im và chết đói.</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>Nghiện ma túy</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>Bạn có thể kiểm tra mong muốn sử dụng thuốc của mình trong tab Nhu cầu của họ.\n\nNhư mức độ nhu cầu của họ bằng 0, chứng nghiện của họ chuyển sang trạng thái "rút tiền" có thể có các tác dụng phụ tiêu cực khác nhau.\n\nTuy nhiên , sau khi rút tiền đủ lâu, chứng nghiện của họ sẽ chấm dứt và nhu cầu về thuốc sẽ biến mất.</DrugAddiction.helpText>
+  <DrugAddiction.helpText>Bạn có thể kiểm tra mong muốn sử dụng thuốc của cư dân trong thẻ nhu cầu của họ.\n\nNhư mức độ nhu cầu của họ bằng 0, chứng nghiện của họ chuyển sang trạng thái "cai nghiện" có thể có các tác dụng phụ tiêu cực khác nhau.\n\nTuy nhiên, sau khi cai nghiện đủ lâu, chứng nghiện của họ sẽ chấm dứt và nhu cầu về thuốc sẽ biến mất.</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>Đốt thuốc</DrugBurning.label>
+  <DrugBurning.label>Tiêu hủy thuốc</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>Thuốc có thể hữu ích, nhưng cũng có thể dẫn đến nghiện gây hại. \n\nNếu bạn muốn tránh ma túy ở thuộc địa của mình, bạn có tùy chọn đốt chúng trong lửa trại.</DrugBurning.helpText>
+  <DrugBurning.helpText>Thuốc có thể hữu ích, nhưng cũng có thể dẫn đến nghiện ngập gây hại.\n\nNếu bạn muốn tránh xa ma túy ở thuộc địa của mình, bạn có tùy chọn đốt chúng trong lửa trại.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Chính sách thuốc</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Bạn có thể chỉ định cư dân dùng thuốc cụ thể theo một lịch trình cụ thể. Ví dụ: bạn có thể khiến họ uống thuốc chống sốt rét thường xuyên hoặc uống bia mỗi ngày để luôn vui vẻ.\n\nMở tab ASSIGN và nhấn nút 'Quản lý chính sách thuốc'. Tạo một chính sách thuốc mới. Sau đó, bạn có thể chỉ định chính sách này cho những người cư dân.\n\nNhững người theo chủ nghĩa vẫn có thể dùng thuốc không có trong chính sách của họ. Bạn có thể nói cho họ biết phải làm gì, nhưng họ cũng làm theo mong muốn của chính họ! </DrugPolicies.helpText>
+  <DrugPolicies.helpText>Bạn có thể chỉ định cư dân dùng thuốc cụ thể theo một lịch trình cụ thể. Ví dụ: bạn có thể khiến họ uống thuốc chống sốt rét thường xuyên hoặc uống bia mỗi ngày để luôn vui vẻ.\n\nMở thẻ chỉ định và nhấn nút 'Quản lý chính sách thuốc'. Tạo một chính sách thuốc mới. Sau đó, bạn có thể chỉ định chính sách này cho những người cư dân.\n\nNhững cư dân theo chính sách này vẫn có thể dùng thuốc không có trong chính sách của họ. Bạn có thể nói cho họ biết phải làm gì, nhưng họ cũng làm theo mong muốn của chính họ! </DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>Vị trí chiến đấu</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>Nhấp chuột phải và kéo để các chiến binh chiến đấu của bạn tạo thành một hàng.\n\nTản rộng ra - các mục tiêu tập hợp lại rất dễ dính đạn! </GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>Giữ nút chuột trái và kéo để các chiến binh chiến đấu của bạn tạo thành một hàng.\n\nTản rộng ra - các mục tiêu tập hợp lại rất dễ dính đạn!</GroupGotoHereDragging.helpTextController>
   
   <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>Tương tác với đoàn giao thương</InteractingWithTraders.label>
-  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <InteractingWithTraders.label>Giao dịch với thương nhân</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
   <InteractingWithTraders.helpText>Bạn có thể giao dịch với những cư dân có dấu "?" trên đầu.\n\nChọn một cư dân khỏe mạnh rồi bấm chuột phải vào cư dân với dấu "?".</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>Bạn có thể nói chuyện với mọi người bằng "?" trên đầu họ.\n\nChọn một người thuộc địa và nhấn nút kích hoạt bên trái trên ký tự có "?" gắn vào đầu của họ.</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
   <OpeningComms.label>Sử dụng bảng điều khiển comms</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>Để giao tiếp, chọn một thuộc địa và nhấp chuột phải vào bảng điều khiển comms.</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>Để giao tiếp, hãy chọn một thuộc địa và nhấn nút kích hoạt bên trái trên bảng điều khiển giao tiếp</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>Tù Nhân</PrisonerTab.label>
-  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Nhìn vào tab 'Tù nhân' của tù nhân để đặt cách họ sẽ được đối xử.\n\nBạn có thể đặt liệu họ sẽ được tuyển dụng, bỏ qua hoặc xử tử, cho dù họ ăn và loại chăm sóc y tế nào họ nhận được.\n\nCác thuộc địa với loại công việc cai ngục sẽ tương tác với tù nhân.</PrisonerTab.helpText>
+  <PrisonerTab.label>Tù nhân</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Nhìn vào thẻ 'Tù nhân' của tù nhân để thiết lập cách họ sẽ được đối xử.\n\nBạn có thể đặt liệu họ sẽ được tuyển dụng, bỏ qua hoặc xử tử, thiết lập các chế độ ăn và loại hình chăm sóc y tế.\n\nCác cư dân được chỉ định công việc cai ngục sẽ tương tác với tù nhân.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>Xếp hàng</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>Khi đưa ra lệnh cho cầm đồ, bạn có thể xếp hàng nhiều đơn hàng bằng cách giữ "shift". Điều này cũng hoạt động khi giao việc cho những con tốt chưa được ghép.</QueueOrders.helpText>
+  <QueueOrders.helpText>Khi đưa ra lệnh chỉ thị, bạn có thể đặt nhiều công việc bằng cách giữ "shift". Điều này cũng hoạt động khi giao việc cho những cư dân chưa được chỉ định.</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>Khi đưa ra lệnh chỉ thị, bạn có thể đặt nhiều công việc bằng cách giữ {Key:QueueOrder}. Điều này cũng hoạt động khi giao việc cho những cư dân chưa được chỉ định.</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Tập hợp đoàn lữ hành</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>Sau khi có va chạm, đoàn lữ hành có thể được tạo lại bằng nút Tập hợp đoàn lữ hành trên Bản đồ thế giới.</ReformCaravan.helpText>
+  <ReformCaravan.helpText>Sau khi có đụng độ, đoàn lữ hành có thể được tạo lại bằng nút Tập hợp đoàn lữ hành trên bản đồ thế giới.</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
   <Rescuing.label>Giải cứu</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>Để giải cứu người bị thương, chọn một cư dân khỏe mạnh, sau đó bấm chuột phải vào người bị thương.\n\nVới những người được cứu không phải cư dân, họ sẽ rời đi sau khi lành vết thương. Nếu bạn muốn họ trở thành cư dân của mình, bắt giữ rồi thu nạp họ.</Rescuing.helpText>
+  <Rescuing.helpText>Để giải cứu người bị thương, chọn một cư dân khỏe mạnh, sau đó bấm chuột phải vào người bị thương.\n\nVới những người được cứu mà không phải là cư dân bản địa, họ sẽ rời đi sau khi lành vết thương. Nếu bạn muốn họ trở thành cư dân của mình, bắt giữ rồi thu nạp họ.</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>Để giải cứu người bị thương, chọn một cư dân khỏe mạnh, sau đó bấm chuột phải vào người bị thương.\n\nVới những người được cứu mà không phải là cư dân bản địa, họ sẽ rời đi sau khi lành vết thương. Nếu bạn muốn họ trở thành cư dân của mình, bắt giữ rồi thu nạp họ.</Rescuing.helpTextController>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>Đặt cây gì để phát triển</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>Chọn cây để trồng trọt</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Bạn có thể đặt những gì để trồng trong một khu vực đang phát triển. Bạn thậm chí có thể trồng cây! \n\nChỉ cần chọn vùng trồng, mở tab Trồng và nhấp vào nút 'trồng'.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Bạn có thể chỉ định những gì để trồng trong một khu vực trồng trọt. Bạn thậm chí còn có thể trồng cây!\n\nChỉ cần chọn vùng trồng, mở thẻ Trồng và nhấp vào nút 'trồng'.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>Những cái kệ</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>Kệ chứa gấp ba bãi đất trống. Các vật dụng trên kệ cũng sẽ không bao giờ xuống cấp và không ảnh hưởng đến mỹ quan xung quanh.\n\nBạn có thể liên kết các giá thành các nhóm và định cấu hình chúng thành một. Đầu tiên, chọn hai hoặc nhiều giá, sau đó nhấp vào 'Cài đặt lưu trữ liên kết'.</Shelves.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Đai lá chắn</ShieldBelts.label>

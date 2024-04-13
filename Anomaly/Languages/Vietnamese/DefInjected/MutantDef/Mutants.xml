@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awoken corpse -->
+  <AwokenCorpse.label>Thi thể thức tỉnh</AwokenCorpse.label>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>Ghoul</Ghoul.label>
+  <!-- EN: A person who has been turned into a ghoul.\n\nAbout ghouls: Ghouls are engineered murder machines, twisted by dark psychic influences.\n\nGhouls are very dangerous in melee combat. However, the process of their creation leaves them incapable of higher levels of thought, preventing them from holding weapons or tools. They cannot work and outside combat they wander in a half-conscious stupor.\n\nMany people find the constant twitching of ghouls disturbing. More disturbing is their dependence on raw meat. If they go hungry they will turn hostile, even attacking their creators to sate their hunger. -->
+  <Ghoul.description>Một người đã bị biến thành Ghoul. \n\nVề Ghoul: Ghoul là những cỗ máy giết người dị dạng, bị biến đổi bởi những thế lực tâm linh đen tối. \n\nGhoul rất nguy hiểm trong cận chiến. Tuy nhiên quá trình tạo ra chúng khiến chúng không có khả năng suy nghĩ cấp cao, không sử dụng được vũ khí hay công cụ. Chúng không thể làm việc mà chỉ lang thang vô thức bên ngoài những trận chiến. \n\nNhiều người thấy sự co giật liên tục của Ghoul rất đáng sợ. Đáng lo ngại hơn chính là sự phụ thuộc của chúng vào thịt sống. Nếu chúng đói, chúng sẽ nổi loạn, thậm chí tấn công cả người tạo ra chúng để thỏa mãn cơn khát máu.</Ghoul.description>
+  <!-- EN: One of your ghouls has died. -->
+  <Ghoul.deathLetter>Một trong những Ghoul của bạn đã chết.</Ghoul.deathLetter>
+  <!-- EN: Unlike regular colonists, ghouls do not need to be buried and their death will not upset others. You may choose to bury them should you wish. -->
+  <Ghoul.deathLetterExtra>Không giống như những thuộc hạ thông thường, Ghoul không cần được chôn cất và cái chết của chúng sẽ không gây phiền toái cho người khác. Bạn có thể chọn chôn cất chúng nếu muốn.</Ghoul.deathLetterExtra>
+  <!-- EN: teeth -->
+  <Ghoul.tools.teeth.label>Răng</Ghoul.tools.teeth.label>
+  <!-- EN: left claw -->
+  <Ghoul.tools.left_claw.label>Vuốt trái</Ghoul.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Ghoul.tools.left_claw.labelNoLocation>Vuốt</Ghoul.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Ghoul.tools.right_claw.label>Vuốt phải</Ghoul.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Ghoul.tools.right_claw.labelNoLocation>Vuốt</Ghoul.tools.right_claw.labelNoLocation>
+  
+  <!-- EN: shambler -->
+  <Shambler.label>Shambler</Shambler.label>
+  <!-- EN: A creature who has been raised from the dead by corrupted nano-scale archites.\n\nAbout shamblers: Shamblers are corpses which have been reanimated by archotechnology. They attack living creatures relentlessly and their immunity to pain makes them difficult to kill. However, the archites which animate them cannot sustain the rotting body for long, so shamblers expire after a few days of movement.\n\nThere are ways to raise your own shamblers and make yourself invisible to them, so they attack only outsiders. -->
+  <Shambler.description>Một sinh vật được hồi sinh từ cõi chết bởi công nghệ nano hắc. \n\nVề Shambler: Shambler là những cái xác được hồi sinh bởi công nghệ cổ xưa. Chúng tấn công các sinh vật sống không ngừng nghỉ, và sự miễn nhiễm với nỗi đau khiến chúng khó bị tiêu diệt. Tuy nhiên, công nghệ nano điều khiển chúng không thể duy trì mãi cơ thể đang thối rữa, nên Shambler chỉ tồn tại trong vài ngày sau khi chuyển động. \n\nCó cách để triệu hồi Shambler và khiến bản thân bạn tàng hình trước chúng, để chúng chỉ tấn công những kẻ xâm nhập.</Shambler.description>
+  <!-- EN: shambler  -->
+  <Shambler.namePrefix>Shambler</Shambler.namePrefix>
+  <!-- EN: Shambler wounds -->
+  <Shambler.renderNodeProperties.0.debugLabel>Vết thương Shambler</Shambler.renderNodeProperties.0.debugLabel>
+  <!-- EN: Shambler wounds -->
+  <Shambler.renderNodeProperties.1.debugLabel>Vết thương Shambler</Shambler.renderNodeProperties.1.debugLabel>
+  <!-- EN: teeth -->
+  <Shambler.tools.teeth.label>Răng</Shambler.tools.teeth.label>
+  <!-- EN: left hand -->
+  <Shambler.tools.left_hand.label>Bàn tay trái</Shambler.tools.left_hand.label>
+  <!-- EN: hand -->
+  <Shambler.tools.left_hand.labelNoLocation>Bàn tay</Shambler.tools.left_hand.labelNoLocation>
+  <!-- EN: right hand -->
+  <Shambler.tools.right_hand.label>Bàn tay phải</Shambler.tools.right_hand.label>
+  <!-- EN: hand -->
+  <Shambler.tools.right_hand.labelNoLocation>Bàn tay</Shambler.tools.right_hand.labelNoLocation>
+  
+</LanguageData>

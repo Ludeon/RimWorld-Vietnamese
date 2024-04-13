@@ -17,9 +17,13 @@
   <Cirrhosis.description>Một bệnh gan thoái hóa do tiêu thụ rượu quá mức.</Cirrhosis.description>
   
   <!-- EN: resurrection psychosis -->
-  <ResurrectionPsychosis.label>rối loạn tâm thần bình phục</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.label>loạn thần sau hồi sinh</ResurrectionPsychosis.label>
   <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
-  <ResurrectionPsychosis.description>Mô hình suy nghĩ hỗn loạn gây ra bởi sự trang trí của các cơ chế phục sinh. Rối loạn tâm thần hồi sinh tiến triển và cuối cùng gây ra rối loạn tâm thần và tử vong.\n\nNhững người được hồi sinh đòi hỏi các thợ máy để xây dựng lại các chức năng cơ thể của họ ở cấp độ tế bào. Các cơ chế luôn có cơ hội mất đi sự gắn kết, và nếu có, chúng sẽ tàn phá hệ thống thần kinh trung ương. Xác chết càng cũ, hành động cơ học càng được yêu cầu để hồi sinh nó, và cơ hội trang trí cuối cùng càng lớn.</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.description>Các kiểu suy nghĩ hỗn loạn gây ra bởi sự rời rạc của các cơ chế hồi sinh. Chứng rối loạn tâm thần khi hồi sinh tiến triển và cuối cùng gây ra chứng rối loạn tâm thần hoàn toàn và tử vong.\n\nNhững người được hồi sinh đòi hỏi các thợ máy để xây dựng lại các chức năng cơ thể của họ ở cấp độ tế bào. Các cơ chế luôn có cơ hội mất đi sự gắn kết, và nếu có, chúng sẽ tàn phá hệ thống thần kinh trung ương. Xác chết càng cũ, hành động cơ học càng được yêu cầu để hồi sinh nó, và cơ hội trang trí cuối cùng càng lớn.</ResurrectionPsychosis.description>
+  <!-- EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death. -->
+  <ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>Các kiểu suy nghĩ hỗn loạn do hậu quả của việc hồi sinh gây ra. Rối loạn tâm thần hồi sinh tiến triển dần dần và cuối cùng gây ra rối loạn tâm thần và tử vong.</ResurrectionPsychosis.descriptionShort>
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-0.label>sớm</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
@@ -34,6 +38,18 @@
   <ResurrectionPsychosis.stages.total.label>toàn bộ</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
   <ResurrectionPsychosis.stages.catatonic.label>tâm thần phân liệt</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>virus cuồng loạn</Scaria.label>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
+  <Scaria.description>Một căn bệnh khiến các sinh vật bị ảnh hưởng nổi cơn thịnh nộ điên cuồng. Một sinh vật mắc virus cuồng loạn có thể được chữa khỏi thông qua một ca phẫu thuật y tế đặc biệt, nhưng nó phải bị hạ gục trước. Nếu không được điều trị, virus cuồng loạn sẽ giết chết vật chủ của nó khoảng năm ngày sau khi nhiễm bệnh. Căn bệnh này khiến thịt bị nhiễm độc và da bị thối rữa, vì vậy những sinh vật bị giết bằng virus cuồng loạn có khả năng bị thối rữa khi chết, vì vậy chúng không thể bị xẻ thịt để lấy thịt hoặc da.</Scaria.description>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. If not treated, scaria kills its host about five days after infection. -->
+  <Scaria.descriptionShort>Một căn bệnh khiến các sinh vật bị ảnh hưởng nổi cơn thịnh nộ điên cuồng. Nếu không được điều trị, virus cuồng loạn sẽ giết chết vật chủ của nó khoảng năm ngày sau khi nhiễm bệnh.</Scaria.descriptionShort>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>triệt sản</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>Hệ thống sinh sản của sinh vật này đã bị ngừng hoạt động vĩnh viễn.</Sterilized.description>
   
   <!-- EN: trauma savant -->
   <TraumaSavant.label>chấn thương</TraumaSavant.label>

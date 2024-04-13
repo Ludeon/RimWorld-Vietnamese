@@ -27,6 +27,8 @@
   
   <!-- EN: baby -->
   <HumanlikeBaby.label>đứa bé</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>Tâm trạng thể hiện mức độ hạnh phúc hoặc căng thẳng của một người. Những em bé có tâm trạng không tốt sẽ dễ khóc hơn, trong khi những em bé có tâm trạng cao lại hay cười khúc khích hơn.</HumanlikeBaby.customMoodTipString>
   
   <!-- EN: child -->
   <HumanlikeChild.label>đứa trẻ</HumanlikeChild.label>
@@ -36,10 +38,7 @@
   <!-- EN: teenage -->
   <HumanlikeTeenager.adjective>thiếu niên</HumanlikeTeenager.adjective>
   
-  <!-- EN: toddler -->
-  <HumanlikeToddler.label>đứa bé mới tập đi</HumanlikeToddler.label>
-  
   <!-- EN: fully-formed -->
-  <MechanoidFullyFormed.label>hình thành đầy đủ</MechanoidFullyFormed.label>
+  <MechanoidFullyFormed.label>kết cấu đầy đủ</MechanoidFullyFormed.label>
   
 </LanguageData>

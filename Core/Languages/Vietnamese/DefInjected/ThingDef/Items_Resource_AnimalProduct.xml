@@ -22,14 +22,14 @@
   <EggCobraFertilized.description>Một quả trứng rắn. Nếu mọi thứ diễn ra thuận lợi thì quả trứng sẽ nở ra rắn con. Có thể ăn sống, nhưng sẽ ngon hơn khi luộc chín.</EggCobraFertilized.description>
   
   <!-- EN: duck egg (fert.) -->
-  <EggDuckFertilized.label>TODO</EggDuckFertilized.label>
+  <EggDuckFertilized.label>trứng vịt (đã thụ tinh)</EggDuckFertilized.label>
   <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
-  <EggDuckFertilized.description>TODO</EggDuckFertilized.description>
+  <EggDuckFertilized.description>Một quả trứng vịt. Nếu mọi thứ diễn ra thuận lợi thì quả trứng sẽ nở ra vịt con. Có thể ăn sống, nhưng sẽ ngon hơn khi luộc chín.</EggDuckFertilized.description>
   
   <!-- EN: duck egg (unfert.) -->
-  <EggDuckUnfertilized.label>TODO</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.label>trứng vịt (chưa thụ tinh)</EggDuckUnfertilized.label>
   <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggDuckUnfertilized.description>TODO</EggDuckUnfertilized.description>
+  <EggDuckUnfertilized.description>Một quả trứng vịt chưa thụ tinh. Có thể ăn sống, nhưng sẽ ngon hơn nếu được luộc chín.</EggDuckUnfertilized.description>
   
   <!-- EN: emu egg (fert.) -->
   <EggEmuFertilized.label>trứng đà điểu (đã thụ tinh)</EggEmuFertilized.label>
@@ -37,14 +37,14 @@
   <EggEmuFertilized.description>Một quả trứng đà điểu con. Nếu mọi thứ diễn ra thuận lợi thì quả trứng sẽ nở ra đà điểu con. Có thể ăn sống, nhưng sẽ ngon hơn khi luộc chín.</EggEmuFertilized.description>
   
   <!-- EN: goose egg (fert.) -->
-  <EggGooseFertilized.label>TODO</EggGooseFertilized.label>
+  <EggGooseFertilized.label>trứng ngỗng (đã thụ tinh)</EggGooseFertilized.label>
   <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
-  <EggGooseFertilized.description>TODO</EggGooseFertilized.description>
+  <EggGooseFertilized.description>Một quả trứng ngỗng. Nếu mọi thứ diễn ra thuận lợi thì quả trứng sẽ nở ra ngỗng con. Có thể ăn sống, nhưng sẽ ngon hơn khi luộc chín.</EggGooseFertilized.description>
   
   <!-- EN: goose egg (unfert.) -->
-  <EggGooseUnfertilized.label>TODO</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.label>trứng ngỗng (chưa thụ tinh)</EggGooseUnfertilized.label>
   <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggGooseUnfertilized.description>TODO</EggGooseUnfertilized.description>
+  <EggGooseUnfertilized.description>Một quả trứng ngỗng chưa thụ tinh. Có thể ăn sống, nhưng sẽ ngon hơn nếu được luộc chín.</EggGooseUnfertilized.description>
   
   <!-- EN: iguana egg (fert.) -->
   <EggIguanaFertilized.label>trứng kỳ nhông (đã thụ tinh)</EggIguanaFertilized.label>
@@ -68,12 +68,17 @@
   
   <!-- EN: insect jelly -->
   <InsectJelly.label>thạch côn trùng</InsectJelly.label>
-  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food. -->
   <InsectJelly.description>Thạch được tích trữ và sử dụng bởi các con côn trùng lớn. Ngọt, giàu dinh dưỡng và có thể thỏa mãn nhu cầu giải trí của những ai ăn. Vì thành phần đặc biệt của nó nên nó không bao giờ bị ôi thiu cả.</InsectJelly.description>
   
   <!-- EN: milk -->
   <Milk.label>sữa</Milk.label>
-  <!-- EN: Milk from an animal. -->
+  <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
   <Milk.description>Sữa động vật.</Milk.description>
+  
+  <!-- EN: skull -->
+  <Skull.label>đầu lâu</Skull.label>
+  <!-- EN: A human skull. -->
+  <Skull.description>Một cái sọ người.</Skull.description>
   
 </LanguageData>

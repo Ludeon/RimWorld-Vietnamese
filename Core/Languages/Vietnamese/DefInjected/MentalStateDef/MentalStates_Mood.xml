@@ -38,7 +38,7 @@
   <!-- EN: {0} is pigging out on food. -->
   <Binging_Food.beginLetter>{0} đang ăn như heo.</Binging_Food.beginLetter>
   <!-- EN: food binge -->
-  <Binging_Food.beginLetterLabel>thức ăn quá độ</Binging_Food.beginLetterLabel>
+  <Binging_Food.beginLetterLabel>ăn uống quá độ</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
   <Binging_Food.recoveryMessage>{0} không còn ăn như heo nữa.</Binging_Food.recoveryMessage>
   
@@ -46,7 +46,7 @@
   <CorpseObsession.label>ám ảnh xác chết</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>Trạng thái tinh thần:  ám ảnh xác chết </CorpseObsession.baseInspectLine>
-  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
   <CorpseObsession.beginLetter>{0} đã đột nhập vào bên trong và bị ám ảnh bởi các xác chết.\n\n[PAWN_pronoun] sẽ đào một cái xác và trình bày cho mọi người thấy.</CorpseObsession.beginLetter>
   <CorpseObsession.beginLetterLabel />
   <!-- EN: {0} is no longer having a corpse obsession. -->
@@ -139,7 +139,7 @@
   <!-- EN: Mental state: Insulting spree against {0} -->
   <TargetedInsultingSpree.baseInspectLine>Trạng thái tinh thần: Xúc phạm đối với {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} đã trúc cơn thịnh nộ [PAWN_possessive] lên {1}.n\n[PAWN_pronoun] sẽ đi theo xung quanh {1}, buông những lời lẽ lăng mạ.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} đã trúc cơn thịnh nộ [PAWN_possessive] lên {1}.\n\n[PAWN_pronoun] sẽ đi theo xung quanh {1}, buông những lời lẽ lăng mạ.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.beginLetterLabel />
   <TargetedInsultingSpree.recoveryMessage />
   
@@ -171,20 +171,20 @@
   <!-- EN: {0} is wandering around in a psychotic state. -->
   <Wander_Psychotic.beginLetter>{0} đang lang thang trong trạng thái điên loạn.</Wander_Psychotic.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic.beginLetterLabel>Ngơ ngác</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetterLabel>ngơ ngác</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
   <Wander_Psychotic.recoveryMessage>{0} không còn lang thang trong trạng thái điên loạn.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>Tâm thần điên loạn</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Trạng thái tinh thần: Tâm thần điên loạn</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>{0} đang lang thang trong trạng thái điên loạn.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>ngơ ngác</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>{0} không còn lang thang trong trạng thái điên loạn.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
   <Wander_Sad.label>Buồn lang thang</Wander_Sad.label>

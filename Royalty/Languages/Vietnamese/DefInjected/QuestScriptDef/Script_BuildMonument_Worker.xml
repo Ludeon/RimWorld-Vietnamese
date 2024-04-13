@@ -2,32 +2,34 @@
 <LanguageData>
   
   <!-- EN: Monument completed -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.label.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.label.slateRef>
-  <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration] days, otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.text.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>Tượng đài hoàn thành</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration], otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>Bạn đã hoàn thành việc xây dựng tượng đài.\n\nBạn không được phá hủy ít nhất [keepMonumentTicks_duration], nếu không bạn sẽ tức giận [asker_factionName] ([goodwillChangeIfMonumentDestroyed] thiện chí).</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
   <!-- EN: Monument destroyed -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.label.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>Tượng đài bị phá hủy</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.text.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef] bị xúc phạm bởi bạn đã cho phép di tích bị hủy hoại ngay sau khi hoàn thành.\n\nMối quan hệ của bạn với [asker_faction_name] đã bị giảm bởi [goodwillChangeIfMonumentDestroyed].</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.expiryInfoPart.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>Không phá hủy tượng đài trong {0}</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>Không phá hủy tượng đài trong {0}</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.elseNode.elseNode.nodes.IsNull.elseNode.node.nodes.Delay.inspectString.slateRef>
-  <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Punishment will now occur. -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.monumentMarkerMonumentDestroyed.node.nodes.Message.text.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>Giữ tượng đài {0}</BuildMonumentWorker.KeepMonument.slateRef>
+  <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>Tượng đài cho nhiệm vụ '[resolvedQuestName]' đã bị xâm phạm. Hậu quả sẽ theo sau.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
   <!-- EN: Protect the monument for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPart.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>Bảo vệ tượng đài trong {0}</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
   <!-- EN: Protect the monument until {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPartTip.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.expiryInfoPartTip.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>Bảo vệ tượng đài cho đến khi {0}</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
   <!-- EN: Protect for {0} -->
-  <BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.inspectString.slateRef>TODO</BuildMonumentWorker.root.nodes.IsTrue-2.node.nodes.Delay.inspectString.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>Bảo vệ trong {0}</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
-  <BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>TODO</BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Tượng đài mới được đánh dấu</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
-  <BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>TODO</BuildMonumentWorker.root.nodes.monumentMarkerDestroyed.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Một khi tượng đài đánh dấu bị phá hủy, một cái mới sẽ được gửi đi.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
   <!-- EN: Monument time expired -->
-  <BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.label.slateRef>TODO</BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.label.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>Thời gian tượng đài đã hết hạn</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
   <!-- EN: Your time limit to construct the monument has expired. [failLetterEndingCommon] -->
-  <BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.text.slateRef>TODO</BuildMonumentWorker.root.nodes.Delay.node.nodes.Letter.text.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>Giới hạn thời gian để bạn xây dựng tượng đài đã hết. [failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
   
 </LanguageData>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agrihand -->
+  <Mech_Agrihand.label>máy làm vườn</Mech_Agrihand.label>
+  <!-- EN: A small mechanoid designed to sow and harvest crops. While it is better suited to labor than combat, it can fight with built-in cutting blades if necessary. -->
+  <Mech_Agrihand.description>Một mechanoid nhỏ được thiết kế để gieo hạt và thu hoạch mùa màng. Mặc dù nó được thiết kế để sử dụng trong nông nghiệp, nhưng nó cũng có thể chiến đấu với con dao thu hoạch tích hợp sẵn khi cần thiết.</Mech_Agrihand.description>
+  <!-- EN: head -->
+  <Mech_Agrihand.tools.head.label>cái đầu</Mech_Agrihand.tools.head.label>
+  <!-- EN: right blade -->
+  <Mech_Agrihand.tools.right_blade.label>lưỡi kiếm bên phải</Mech_Agrihand.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Agrihand.tools.right_blade.labelNoLocation>TODO</Mech_Agrihand.tools.right_blade.labelNoLocation>
+  
+  <!-- EN: cleansweeper -->
+  <Mech_Cleansweeper.label>máy hút bụi</Mech_Cleansweeper.label>
+  <!-- EN: A light mechanoid designed for cleaning. Lacking a ranged weapon, it can make only weak melee attacks. -->
+  <Mech_Cleansweeper.description>Một mechanoid nhẹ được thiết kế để làm sạch. Thiếu vũ khí tầm xa, nó chỉ có thể thực hiện các cuộc tấn công cận chiến yếu.</Mech_Cleansweeper.description>
+  <!-- EN: head -->
+  <Mech_Cleansweeper.tools.head.label>cái đầu</Mech_Cleansweeper.tools.head.label>
+  
+  <!-- EN: constructoid -->
+  <Mech_Constructoid.label>máy xây dựng</Mech_Constructoid.label>
+  <!-- EN: A small mechanoid designed to perform construction tasks. It can perform blunt melee attacks if necessary. -->
+  <Mech_Constructoid.description>Một mechanoid nhỏ được thiết kế để hoàn thành nhiệm vụ xây dựng. Nó đi kèm với một khẩu súng nhỏ để tự vệ. Cũng có thể gây sát thương nhẹ trong cận chiến nếu cần thiết.</Mech_Constructoid.description>
+  <!-- EN: head -->
+  <Mech_Constructoid.tools.head.label>cái đầu</Mech_Constructoid.tools.head.label>
+  <!-- EN: torso -->
+  <Mech_Constructoid.tools.torso.label>thân</Mech_Constructoid.tools.torso.label>
+  
+  <!-- EN: fabricor -->
+  <Mech_Fabricor.label>máy chế tạo</Mech_Fabricor.label>
+  <!-- EN: A small work mechanoid designed to craft all manner of manufactured objects. -->
+  <Mech_Fabricor.description>Một mechanoid làm việc nhỏ được thiết kế để chế tạo tất cả các loại vật thể được sản xuất. Nó được trang bị một khẩu súng nhỏ để phòng thủ nhẹ.</Mech_Fabricor.description>
+  <!-- EN: head -->
+  <Mech_Fabricor.tools.head.label>cái đầu</Mech_Fabricor.tools.head.label>
+  
+  <!-- EN: lifter -->
+  <Mech_Lifter.label>máy vận chuyển</Mech_Lifter.label>
+  <!-- EN: A small mechanoid designed for hauling. Lacking a ranged weapon, it can make only weak melee attacks. -->
+  <Mech_Lifter.description>Một mechanoid nhỏ được thiết kế để vận chuyển. Thiếu vũ khí tầm xa, nó chỉ có thể thực hiện các cuộc tấn công cận chiến yếu.</Mech_Lifter.description>
+  <!-- EN: head -->
+  <Mech_Lifter.tools.head.label>cái đầu</Mech_Lifter.tools.head.label>
+  
+  <!-- EN: militor -->
+  <Mech_Militor.label>chiến binh</Mech_Militor.label>
+  <!-- EN: A small combat mechanoid armed with a low-power mini-shotgun. Roughly four feet tall, militors lack the power, range, and toughness of more senior combat mechs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, mech armies are known to send militors into urban ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all mechanoid patterns. -->
+  <Mech_Militor.description>Một cỗ máy chiến đấu nhỏ có gắn một khẩu súng ngắn thu nhỏ. Đơn vị hạng nhẹ cao 4 feet này kém xa so với các cỗ máy chiến đấu tiên tiến về sức mạnh, phạm vi và khả năng phòng thủ. Tuy nhiên, nó rẻ để xây dựng và bảo trì, khiến nó trở nên lý tưởng để bảo vệ hậu phương hoặc cho các chiến thuật đám đông.\n\nTrong chiến tranh, chúng dược cử quân vào các tàn tích đô thị để săn lùng những người sống sót sau khi phá vỡ hàng phòng thủ của con người. Vì lý do này, chúng được một số người coi là tàn ác nhất trong tất cả các mẫu cơ khí.</Mech_Militor.description>
+  <!-- EN: head -->
+  <Mech_Militor.tools.head.label>cái đầu</Mech_Militor.tools.head.label>
+  
+  <!-- EN: paramedic -->
+  <Mech_Paramedic.label>máy y tế</Mech_Paramedic.label>
+  <!-- EN: A small mechanoid designed for non-violent emergency situation management and medical care. The paramedic can rescue the wounded, fight fires, treat the sick, and even perform surgery when a more-qualified human is not available. Its built-in jump launcher allows it to jump into, and out of, emergency situations, and its built-in firefoam popper can quickly extinguish fires. -->
+  <Mech_Paramedic.description>Một cơ thể máy móc nhỏ được thiết kế cho công việc sơ cứu và an ninh y tế. Máy điều dưỡng có thể giải cứu người bị thương, dập tắt ngọn lửa, điều trị vết thương và thậm chí thực hiện phẫu thuật mà không cần bác sĩ chuyên nghiệp. Máy phóng nhảy tích hợp của nó cho phép nó nhanh chóng ra vào các tình huống nguy hiểm, và bình phun bọt chống cháy được nạp đầy có thể nhanh chóng dập tắt đám cháy.</Mech_Paramedic.description>
+  <!-- EN: head -->
+  <Mech_Paramedic.tools.head.label>cái đầu</Mech_Paramedic.tools.head.label>
+  
+  <!-- EN: war urchin -->
+  <Mech_WarUrchin.label>bảo vệ cảm tử chiến tranh</Mech_WarUrchin.label>
+  <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy war queen mech. War urchins are expendable fighters designed to swarm-attack enemies. They are mounted with short-ranged spiner guns and have a non-rechargeable power source. -->
+  <Mech_WarUrchin.description>Một mechanoid chiến đấu nhỏ, có thể triển khai thường được sản xuất bên trong mech nữ hoàng chiến tranh cực nặng. nhím chiến là đơn vị bia đỡ đạn được sử dụng trong chiến thuật đám đông. Họ được trang bị súng gai tầm ngắn và các nguồn năng lượng dùng một lần không thể sạc lại.</Mech_WarUrchin.description>
+  <!-- EN: head -->
+  <Mech_WarUrchin.tools.head.label>cái đầu</Mech_WarUrchin.tools.head.label>
+  
+</LanguageData>

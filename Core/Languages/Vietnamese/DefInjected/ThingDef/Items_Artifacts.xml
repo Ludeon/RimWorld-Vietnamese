@@ -5,28 +5,14 @@
   <PsychicAnimalPulser.label>bộ phát sóng động vật</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
   <PsychicAnimalPulser.description>Vật phẩm 1 lần dùng. Phát ra tín hiệu chứa các thông điệp như "Cúc nướng lu", "Gà xối mỡ", "Bò lúc lắc", "Heo giả cầy", "Chuột 7 món",... khiến tất cả các loại động vật trong khu vực nổi điên và rơi vào trạng thái "săn người".</PsychicAnimalPulser.description>
-  <!-- EN: Activate -->
+  <!-- EN: Activate {0_label} -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>Kích hoạt</PsychicAnimalPulser.comps.CompUsable.useLabel>
-  
-  <!-- EN: psychic insanity lance -->
-  <PsychicInsanityLance.label>trượng hóa điên</PsychicInsanityLance.label>
-  <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicInsanityLance.description>Vật phẩm dùng 1 lần duy nhất. Phát ra sóng xung kích làm tổn thương não bộ của mục tiêu khiến mục tiêu rơi vào trạng thái "nổi điên". Có nguy cơ bị tổn thương não mục tiêu vĩnh viễn. Tầm sử dụng rất xa, có thể tác động mục tiêu nằm sau bức tường.</PsychicInsanityLance.description>
-  <!-- EN: Activate -->
-  <PsychicInsanityLance.comps.CompUsable.useLabel>Kích hoạt</PsychicInsanityLance.comps.CompUsable.useLabel>
-  
-  <!-- EN: psychic shock lance -->
-  <PsychicShockLance.label>trượng sốc thần kinh</PsychicShockLance.label>
-  <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicShockLance.description>Vật phẩm dùng 1 lần duy nhất. Sử dụng bí kíp tâm pháp truyền môn độc nhất Trung nguyên mang tên "Loli iz da best" phang thẳng vào đầu của mục tiêu khiến mục tiêu hoảng loạn trí não và rơi vào trạng thái sốc thần kinh. Có nguy cơ tổn thương não mục tiêu vĩnh viễn. Có thể xài với mục tiêu ở xa, nằm sau tường.</PsychicShockLance.description>
-  <!-- EN: Activate -->
-  <PsychicShockLance.comps.CompUsable.useLabel>Kích hoạt</PsychicShockLance.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>bộ phát xung hạnh phúc</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
   <PsychicSoothePulser.description>Vật phẩm 1 lần dùng. Phát ra xung thần kinh chứa thông điệp "Tháng tới anh tăng lương!" khiến cảm xúc của mọi người tạm thời được tăng lên.</PsychicSoothePulser.description>
-  <!-- EN: Activate -->
+  <!-- EN: Activate {0_label} -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>Kích hoạt</PsychicSoothePulser.comps.CompUsable.useLabel>
   
 </LanguageData>

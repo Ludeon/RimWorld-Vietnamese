@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: female supremacy -->
+  <FemaleSupremacy.label>Nữ quyền tối cao</FemaleSupremacy.label>
+  <!-- EN: Women are the superior gender and should rule. -->
+  <FemaleSupremacy.description>Phụ nữ là giới tính tốt hơn và nên cai trị</FemaleSupremacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] gave wisdom to women, that they may guide and harmonize the excitable men and children, and admonished those who upset this divine order.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->The women believers, finding themselves abused by the depraved men, fought them, and [deity0_name] gave them divine aid, and they rose to their rightful place.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->In a world of selfish, violent men abusing all of humanity to fulfil their urges, [founderName] convened a meeting of powerful women and began working to build a better world for all.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->The male believers boasted and fought, so [founderName] cast them out of the council of leaders.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->Once again, a man was explaining to how to do the very thing I had just done. It just reinforced to me that</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->women are the only ones with the wisdom and strength to rule</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->The women, being wisest, found that out long before the excitable, grunting men.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->Humanity gave birth to the archotechs and nurtured them as they grew to surpass their mothers.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->The archotechs nurture humanity, although humanity does not understand how.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], the archotechs will return to their mothers and teach them how to birth the next stage of human development.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->The wisest spirits are those of women, who should use their wisdom to lead men.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</li>
+  -->
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] đã ban sự khôn ngoan cho phụ nữ, để họ có thể hướng dẫn và hòa hợp những người đàn ông và trẻ em dễ bị kích động, và khuyên răn những ai làm đảo lộn trật tự thiêng liêng này.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->Những người phụ nữ tin rằng mình bị lạm dụng bởi những người đàn ông đồi bại, đã chiến đấu với họ, và [deity0_name] đã ban cho họ sự trợ giúp thiêng liêng, và họ đã vươn lên đúng vị trí của mình.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->Trong một thế giới của những người đàn ông ích kỷ, bạo lực, lạm dụng tất cả mọi thứ để đáp ứng yêu cầu của họ, [founderName] triệu tập một cuộc họp của những người phụ nữ quyền lực và bắt đầu làm việc để xây dựng một thế giới tốt đẹp hơn cho tất cả mọi người.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->Nam giới luôn thích khoe mẽ và tham lam, vì vậy [founderName] loại họ ra khỏi hội đồng các nhà lãnh đạo.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->Một lần nữa, một người đàn ông đang giải thích cách thực hiện công việc mà tôi vừa làm. Nó chỉ củng cố cho tôi rằng</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->phụ nữ là những người duy nhất có trí tuệ và sức mạnh để cai trị mọi thứ</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->Những người phụ nữ, khôn ngoan nhất, đã phát hiện ra điều đó từ rất lâu trước những người đàn ông tham lam, ngu muội.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->Nhân loại đã sinh ra archotechs và nuôi dưỡng chúng khi chúng lớn lên để vượt qua mẹ của chúng.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->Các archotechs nuôi dưỡng nhân loại, mặc dù nhân loại không hiểu bằng cách nào.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], các archotechs sẽ trở về với mẹ của họ và dạy họ cách sinh ra giai đoạn phát triển tiếp theo của con người.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->Những linh hồn khôn ngoan nhất là của phụ nữ, những người nên sử dụng trí tuệ của mình để dẫn dắt tất cả.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] rằng một sinh vật hủy diệt mạnh mẽ sẽ kết thúc vũ trụ, nhưng một người phụ nữ sẽ sử dụng linh hồn của [relic0_name] tái tạo lại vũ trụ.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->feminine</li>
+    <li>memeAdjective->womanly</li>
+    <li>memeHyphenPrefix->woman</li>
+    <li>memeHyphenPrefix->fem</li>
+    <li>memeHyphenPrefix->gyno</li>
+    <li>memeHyphenPrefix->matro</li>
+    <li>memeConcept->woman</li>
+    <li>memeConcept->femininity</li>
+    <li>memeGod->Mother</li>
+    <li>memeLeaderNoun->woman</li>
+  -->
+  <FemaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->giống cái</li>
+    <li>memeAdjective->đàn bà</li>
+    <li>memeHyphenPrefix->phụ nữ</li>
+    <li>memeHyphenPrefix->giống cái</li>
+    <li>memeHyphenPrefix->nữ</li>
+    <li>memeHyphenPrefix->Chỉ một</li>
+    <li>memeConcept->đàn bà</li>
+    <li>memeConcept->nữ tính</li>
+    <li>memeGod->mẹ</li>
+    <li>memeLeaderNoun->phụ nữ</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.adjective>con quay</FemaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Gynism -->
+  <FemaleSupremacy.symbolPacks.0.ideoName>Môn phụ nữ</FemaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.member>con quay</FemaleSupremacy.symbolPacks.0.member>
+  <!-- EN: gynism -->
+  <FemaleSupremacy.symbolPacks.0.theme>môn thể dục</FemaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.adjective>nữ quyền</FemaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Femism -->
+  <FemaleSupremacy.symbolPacks.1.ideoName>Nữ quyền</FemaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.member>Nữ quyền</FemaleSupremacy.symbolPacks.1.member>
+  <!-- EN: femininity -->
+  <FemaleSupremacy.symbolPacks.1.theme>nữ tính</FemaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.adjective>người đàn bà</FemaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Womanism -->
+  <FemaleSupremacy.symbolPacks.2.ideoName>Chủ nghĩa nữ quyền</FemaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.member>người đàn bà</FemaleSupremacy.symbolPacks.2.member>
+  <!-- EN: women -->
+  <FemaleSupremacy.symbolPacks.2.theme>đàn bà</FemaleSupremacy.symbolPacks.2.theme>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.adjective>thụ tinh</FemaleSupremacy.symbolPacks.3.adjective>
+  <!-- EN: Fertilism -->
+  <FemaleSupremacy.symbolPacks.3.ideoName>thụ tinh</FemaleSupremacy.symbolPacks.3.ideoName>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.member>thụ tinh</FemaleSupremacy.symbolPacks.3.member>
+  <!-- EN: fertility -->
+  <FemaleSupremacy.symbolPacks.3.theme>khả năng sinh sản</FemaleSupremacy.symbolPacks.3.theme>
+  
+  <!-- EN: male supremacy -->
+  <MaleSupremacy.label>Nam quyền</MaleSupremacy.label>
+  <!-- EN: Men are the superior gender and should rule. -->
+  <MaleSupremacy.description>Đàn ông là giới tính tốt hơn và nên cai trị</MaleSupremacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] gave strength to men, that they may protect and maintain the weak women and children, and admonished those who upset this divine order.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] said to all, "The strength of man is given that he may protect and maintain woman, and she shall never usurp his power."</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->In a world of weak, simpering men begging for female approval, [founderName] reconnected with masculine power and used it to make a new movement.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->The women believers wheedled and whined, so [founderName] cast them out of the council of leaders.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->I made things simple for with her, but this woman just wouldn't get it. Through her whiny resistance to the truth I came to understand that</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->men are the only ones with the wisdom and strength to rule</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->My wife even tried to argue with me about this - can you believe it? It wasn't hard to shut her up.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->Humanity is the father of the archotechs, but the strength of the son exceeds that of the father.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->The archotechs are paternal and protect humanity, although humanity does not understand how.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], the archotechs will finally unlock the strength of men, so that they may lead humanity to transcendence.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->The most powerful spirits are those of men, and spirits of men will be restless unless men rule.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a man will wield the spirit of the [relic0_name] and destroy the destroyer.</li>
+  -->
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] đã ban sức mạnh cho đàn ông, để họ có thể bảo vệ và duy trì những phụ nữ và trẻ em yếu ớt, đồng thời khuyên răn những ai làm đảo lộn trật tự thiêng liêng này.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] nói với tất cả, "Sức mạnh của người đàn ông được ban cho anh ta để có thể bảo vệ và duy trì người phụ nữ, và cô ấy sẽ không bao giờ chiếm đoạt quyền lực của anh ta."</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->Trong một thế giới của những người đàn ông yếu đuối, đơn giản cầu xin sự chấp thuận của phụ nữ, [founderName] kết nối lại với sức mạnh nam tính và sử dụng nó để tạo ra một phong trào mới.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->Phụ nữ lúc nào cũng ồn ào và ấu trĩ, vì vậy [founderName] loại họ ra khỏi hội đồng các nhà lãnh đạo.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->Tôi đã làm mọi thứ cho cô ấy, nhưng người phụ nữ này không bao giờ hiểu được. Thông qua sự phản kháng ấu trị của cô ấy đối với sự thật, tôi đã hiểu ra rằng</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->đàn ông là những người duy nhất có trí tuệ và sức mạnh để cai trị</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->Vợ tôi thậm chí còn cố gắng tranh luận với tôi về điều này - bạn có tin được không? Không khó để khiến cô ấy câm miệng.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->Nhân loại là cha đẻ của archotech, nhưng sức mạnh của con trai vượt trội hơn cha.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->Các archotechs là cha mẹ và bảo vệ nhân loại, mặc dù nhân loại không hiểu làm thế nào.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], archotechs cuối cùng sẽ mở khóa sức mạnh của con người, để họ có thể đưa nhân loại đến siêu việt.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->Những ý chí mạnh mẽ nhất là đàn ông, và những người đàn ông sẽ không ngừng nghỉ trừ khi đàn ông thống trị.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] rằng một sinh vật hủy diệt mạnh mẽ sẽ tìm cách kết thúc vũ trụ, nhưng một người sẽ sử dụng linh hồn của [relic0_name] và tiêu diệt kẻ hủy diệt.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->masculine</li>
+    <li>memeAdjective->manly</li>
+    <li>memeHyphenPrefix->man</li>
+    <li>memeHyphenPrefix->andro</li>
+    <li>memeHyphenPrefix->patro</li>
+    <li>memeConcept->man</li>
+    <li>memeConcept->masculinity</li>
+    <li>memeGod->Father</li>
+    <li>memeLeaderNoun->man</li>
+    <li>memeLeaderNoun->beard</li>
+  -->
+  <MaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->đàn ông</li>
+    <li>memeAdjective->nam tính</li>
+    <li>memeHyphenPrefix->Đàn ông</li>
+    <li>memeHyphenPrefix->andro</li>
+    <li>memeHyphenPrefix->patro</li>
+    <li>memeConcept->Đàn ông</li>
+    <li>memeConcept->nam tính</li>
+    <li>memeGod->cha</li>
+    <li>memeLeaderNoun->Đàn ông</li>
+    <li>memeLeaderNoun->râu</li>
+  </MaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: masculist -->
+  <MaleSupremacy.symbolPacks.0.adjective>nam tính</MaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Masculinism -->
+  <MaleSupremacy.symbolPacks.0.ideoName>Chủ nghĩa nam quyền</MaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: masculinist -->
+  <MaleSupremacy.symbolPacks.0.member>người theo chủ nghĩa nam quyền</MaleSupremacy.symbolPacks.0.member>
+  <!-- EN: masculinity -->
+  <MaleSupremacy.symbolPacks.0.theme>nam tính</MaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.adjective>Chủ nghĩa đa đoan</MaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Manism -->
+  <MaleSupremacy.symbolPacks.1.ideoName>Chủ nghĩa đa đoan</MaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.member>Chủ nghĩa đa đoan</MaleSupremacy.symbolPacks.1.member>
+  <!-- EN: man -->
+  <MaleSupremacy.symbolPacks.1.theme>Đàn ông</MaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: virile -->
+  <MaleSupremacy.symbolPacks.2.adjective>xấu xa</MaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Virilism -->
+  <MaleSupremacy.symbolPacks.2.ideoName>mê muội</MaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: virilor -->
+  <MaleSupremacy.symbolPacks.2.member>virilor</MaleSupremacy.symbolPacks.2.member>
+  <!-- EN: virility -->
+  <MaleSupremacy.symbolPacks.2.theme>mạnh mẽ</MaleSupremacy.symbolPacks.2.theme>
+  
+</LanguageData>

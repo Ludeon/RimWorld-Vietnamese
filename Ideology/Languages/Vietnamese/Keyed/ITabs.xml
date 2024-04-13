@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Character -->
+  <!-- EN: Overrides some precepts related to -->
+  <OverridesSomePrecepts>Ghi đè một số giới luật liên quan</OverridesSomePrecepts>
+  <!-- EN: Agrees with memes -->
+  <AgreeableMemes>Đồng ý với biểu tượng</AgreeableMemes>
+  <!-- EN: Conflicts with memes -->
+  <DisagreeableMemes>Xung đột với biểu tượng</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <!-- EN: Slave -->
+  <TabSlave>Nô lệ</TabSlave>
+  <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
+  <SlaveReleaseRelationGainsDesc>Thiện chí của phe mà bạn sẽ đạt được nếu bạn thả một nô lệ. Điều này bị ảnh hưởng bởi thể chất và tinh thần của nô lệ.</SlaveReleaseRelationGainsDesc>
+  <!-- EN: Relations gain on release -->
+  <SlaveReleasePotentialRelationGains>Đạt được mối quan hệ khi phóng thích</SlaveReleasePotentialRelationGains>
+  <!-- EN: Slave rebellion interval -->
+  <SlaveRebellionMTBDays>Khonagr thời gian nổi lạo của nô lệ</SlaveRebellionMTBDays>
+  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map. -->
+  <SlaveRebellionMTBDaysDescription>Số ngày trung bình giữa các lần nổi dậy của nô lệ. Chỉ có thời gian tỉnh táo mới được tính. Điều này bị ảnh hưởng bởi tâm trạng, sức khỏe, sự đàn áp, sự gần gũi với vũ khí và sự hiện diện của những cư dân trên bản đồ.</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <!-- EN: Suppression -->
+  <Suppression>Sự đàn áp</Suppression>
+  <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
+  <SuppressionDesc>Sự đàn áp là hiệu ứng tâm lý của nỗi sợ hãi và sự kiểm soát đối cới nô lệ. Nếu sự đàn áp thấp, nô lệ có nhiều khả năng nổi loạn.</SuppressionDesc>
+  <!-- EN: Suppression fall rate -->
+  <SuppressionFallRate>Tỷ lệ đàn áp giảm</SuppressionFallRate>
+  <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
+  <SuppressionFallRateDesc>Sự đàn áp giảm dần theo thời gian tùy thuộc vào mức độ hieejntaij của nó:\n\n- {1}+ đàn áp: {0} mỗi ngày\n- {4}-{3} đàn áp: {2} mỗi ngày\n- {6}- đàn áp: {5} mỗi ngày\n\nApparel và khủng bố cũng có thể ảnh hưởng đến tỷ lệ giảm trấn áp. Cách tính tỷ lệ rơi của nô lệ là</SuppressionFallRateDesc>
+  <!-- EN: Cannot emancipate -->
+  <CannotEmancipate>Không thể giải phóng</CannotEmancipate>
+  <!-- EN: Cannot imprison -->
+  <CannotImprison>Không thể bỏ tù</CannotImprison>
+  <!-- EN: Current suppression -->
+  <CurrentSuppression>Đàn áp hiện tại</CurrentSuppression>
+  <!-- EN: Terror -->
+  <Terror>Khủng bố</Terror>
+  <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
+  <TerrorDescription>Khủng bố là một cách để giữ nô lệ bị đàn áp. Nó tăng lên khi nô lệ dành thời gian gần những thứ đáng sợ như tác phẩmđiêu khắc khủng bố. Một nô lệ chỉ có thể bị ảnh hưởng bởi ba nguồn khủng bố cùng một lúc.\n\nWhile khủng bố cao, việc trấn áp giảm chậm hơn như sau</TerrorDescription>
+  <!-- EN: Recent terrifying observations -->
+  <TerrorCurrentThoughts>Những quan sát đáng sợ gần đây</TerrorCurrentThoughts>
+
+  <!-- EN: Base interval -->
+  <SuppressionBaseInterval>Khoảng thời gian cơ bản</SuppressionBaseInterval>
+  <!-- EN: Moving capacity -->
+  <SuppressionMovingCapacityFactor>Khả năng di chuyển</SuppressionMovingCapacityFactor>
+  <!-- EN: Suppression -->
+  <SuppressionFactor>Sự đàn áp</SuppressionFactor>
+  <!-- EN: Mood -->
+  <SuppressionMoodFactor>Tâm trạng</SuppressionMoodFactor>
+  <!-- EN: Slave count -->
+  <SuppressionSlaveCountFactor>Số lượng nô lệ</SuppressionSlaveCountFactor>
+  <!-- EN: Escape route -->
+  <SuppressionEscapeFactor>Lối thoát hiểm</SuppressionEscapeFactor>
+  <!-- EN: Weapon proximity -->
+  <SuppressionWeaponProximityFactor>Khoảng cách vũ khí</SuppressionWeaponProximityFactor>
+  <!-- EN: Final interval -->
+  <SuppressionFinalInterval>Khoảng thời gian cuối cùng</SuppressionFinalInterval>
+  <!-- EN: Unattended -->
+  <SuppressionUnattendedByColonists>Không giám sát</SuppressionUnattendedByColonists>
+  <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
+  <SuppressionRebellionAnySlave>Ít nhất một trong số {0} nô lệ trên bản đồ này dự kiến sẽ nổi dậy trung bình mỗi {1}.</SuppressionRebellionAnySlave>
+
+  <!-- EN: Will -->
+  <WillLevel>Sẽ</WillLevel>
+  <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
+  <WillLevelDesc>Quản giáo kiên quyết không phục bao nhiêu. Khi điều này đạt đến 0, họ có thể bị bắt làm nô lệ.</WillLevelDesc>
+  <!-- EN: {0} base will -->
+  <WillFromPawnKind>{0} cơ sở sẽ</WillFromPawnKind>
+  <!-- EN: Target ideoligion -->
+  <IdeoConversionTarget>Mục tiêu tín ngưỡng</IdeoConversionTarget>
+  <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
+  <IdeoConversionTargetDesc>Giáo đồ của bạn sẽ cố gắng chuyển đổi tù nhân này thành.</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <!-- EN: Change per day due to mood -->
+  <CertaintyChangePerDay>Thay đổi mỗi ngày do tâm trạng</CertaintyChangePerDay>
+  <!-- EN: Change rate based on mood -->
+  <MoodChangeRate>Thay đổi tỷ lệ dựa trên tâm trạng</MoodChangeRate>
+  <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
+  <CertaintyInIdeo>Sự chắc chắn của {PAWN_nameDef} trong {IDEO_name}</CertaintyInIdeo>
+  <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
+  <RoleDesc>Một địa vị đặc biệt mà người này nắm giữ trong lý tưởng của họ. Nếu bạn thay đổi hoặc tước bỏ vai trò này, họ sẽ không vui.</RoleDesc>
+  <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
+  <RoleAssignmentTip>Thay đổi vai trò đòi hỏi phải có nghi thức thay đổi vai trò. Chọn bất kỳ điểm nghi lễ hoặc bàn thờ nào và nhấn 'Bắt đầu thay đổi vai trò'.</RoleAssignmentTip>
+  <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
+  <ConversionWeakerDueToTraitAgreements>Các nổ lực chuyển đổi sẽ yếu hơn do thỏa thuận về đặc điểm/biểu tượng</ConversionWeakerDueToTraitAgreements>
+  <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
+  <ConversionStrongerDueToTraitAgreements>Các nổ lực chuyển đổi sẽ mạnh hơn do xung đột về đặc điểm/biểu tượng</ConversionStrongerDueToTraitAgreements>
+
+  <!-- EN: Cut -->
+  <Cut>Cắt</Cut>
+  <!-- EN: Cut both eyes -->
+  <CutBothEyes>Cắt cả hai mắt</CutBothEyes>
+
+</LanguageData>

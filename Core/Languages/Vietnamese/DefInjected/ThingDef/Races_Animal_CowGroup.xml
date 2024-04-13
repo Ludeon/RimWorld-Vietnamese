@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>bò rừng</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>Một loài động vật ăn cỏ lớn có vú xuất hiện ở vùng hoang dã thảo nguyên. Thuần hóa thì khá ngoan ngoãn, nhưng khi giận dữ thì nhanh và nguy hiểm.</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>đầu</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>sừng trái</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>TODO</Bison.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>sừng phải</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>TODO</Bison.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>thú nổ</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>Loài loài được tạo ra nhờ kĩ thuật chỉnh sửa gen di truyền nhằm mục đích sản xuất chất hóa học. Thú nổ phát triển một túi đựng chất hóa học dễ cháy trên lưng nó. Tuy nó khá yếu và không có khả năng kháng cự các loài săn mồi nhưng các loài khác cũng tự tránh xa nó vì khi thú nổ chết, túi chất nổ sẽ kích hoạt tạo ra vụ nổ lớn quanh người nó. Thú nổ có thể thuần hóa để thu hoạch chất hóa học của nó - nhiên liệu.</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>đầu</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>móng chân trái</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>TODO</Boomalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>móng chân phải</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>TODO</Boomalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>tuần lộc</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>Một chi lớn tiến hóa từ loài nai để thích ứng với cuộc sống băng giá khắc nghiệt. Tuần lộc thuần chủng có thể thu hoạch sữa nhưng không thể làm thú thồ hàng được.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>sừng trái</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>TODO</Caribou.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>sừng phải</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>TODO</Caribou.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>đầu</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>bò</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>Một loài gia xúc lớn, được nuôi để lấy sữa, thịt và da. Bò là những loài vô cùng hiền và không bao giờ trả thù dù bị tổn thương nhiều lần. Loài bò đã được thuần chủng để sống dưới sự bảo dưỡng của con người. Chúng sẽ khó lòng sống sót được ngoài thiên nhiên một mình.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>thịt bò</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>đầu</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>sừng trái</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>TODO</Cow.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>sừng phải</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>TODO</Cow.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>lừa</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>Một họ hàng nhỏ của ngựa, được thuần hóa trong thời cổ đại để làm việc đồng áng. Cuộc gọi ngốc nghếch của nó đồng thời gây khó chịu và đáng yêu.</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>đầu</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>sừng trái</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>TODO</Donkey.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>sừng phải</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>TODO</Donkey.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>lạc đà </Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>Một loài động vật có vú trên cạn lớn thích nghi với môi trường khô cằn. Được thuần hóa từ thời cổ đại, len và da của nó đều có khả năng cách nhiệt đặc biệt tốt chống lại cái nóng sa mạc, và sữa của nó khá bổ dưỡng. Nó có thể được sử dụng như một con vật và vật cưỡi, nhưng dáng đi nhanh nhẹn của nó khiến nó cưỡi chậm hơn ngựa.\n\nBằng cách tích trữ nước trong các bướu lớn và lấy lại hơi ẩm từ hơi thở khi thở ra, nó có thể sống nhiều tuần mà không cần uống.\n\nKhi ở trong một đoàn lữ hành, mọi người có thể đi xe trượt tuyết để tăng tốc độ của đoàn lữ hành.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>sừng trái</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>TODO</Dromedary.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>sừng phải</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>TODO</Dromedary.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>đầu</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>voi</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>Là thú có vú lớn nhất trên cạn, voi có cái vòi dài có thể dùng để cầm nắm được vật và cặp ngà có thể húc thẳng vào kẻ địch của mình. Có thể thu hoạch cặp ngà của voi bằng cách giết chết rồi xẻ thịt con voi.\n\nLà loài vật thông minh với mối quan hệ đồng loại phức tạp, voi có thể được dùng làm thú thồ hàng hoặc huấn luyện để đảm nhiệm nhiều nhiệm vụ phức tạp khác nhau. Voi có tuổi thọ rất dài và được biết đến với khả năng ghi nhớ các sự kiện và mối quan hệ từ nhiều thập kỉ trước.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>ngà voi</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>chân trái</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>TODO</Elephant.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>chân trái</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>TODO</Elephant.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>đầu</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>nai sừng tấm</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Một chi lớn của loài nai đã thích nghi với điều kiện sống khắc nghiệt ở vùng hàn đới. Nai sừng tấm khi được thuần chủng có thể nuôi để thu hoạch sữa nhưng không thể dùng làm thú thồ hàng được.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>sừng trái</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>TODO</Elk.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>sừng phải</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>TODO</Elk.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Elk.tools.head.label>đầu</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>dê</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>Tự nhiên tò mò về thế giới, dê là một trong những sinh vật thuần hóa thân thiện nhất do loài người lai tạo.</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>đầu</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>ngựa</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>Một loài động vật có vú có móng guốc lớn với bộ lông ngắn, bờm dài và đuôi dài. Ngựa đã được thuần hóa từ xa xưa.</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>thịt ngựa</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>đầu</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>sừng trái</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>TODO</Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>sừng phải</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>TODO</Horse.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>bò</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Loại bò lớn ăn thực vật có thể thích nghi với khí hậu lạnh và ấm. Tuy khi bò này nổi điên rất đáng sợ nhưng nếu có thể hãy thuần chủng chúng để dùng làm thú chở hàng cho lữ đoàn.\n\nKhông ai biết tại sao lông chúng lại có màu xanh - có thể là do thí nghiệm sửa đổi gen di truyền từ xưa chăng?</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>đầu</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>móng chân trái</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>TODO</Muffalo.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>móng chân phải</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>TODO</Muffalo.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>tê giác</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Tuy là loài ăn thực vật nhưng tê giác lại dễ dàng bị chọc giận. Khi nổi điển, hình dáng khổng lồ cùng cái sừng nhọn khiến nó là đối thủ chết người trong cuộc đấu tay đôi.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>sừng</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>sừng</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>đầu</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>bò Tây Tạng</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>Bò Tây Tạng là loài gia súc khỏe mạnh với khung xương cồng kềnh, đôi chân ngắn nhưng dày và móng guốc tròn có gai để giúp chúng đi lại trong tuyết.</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>thịt bò</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>đầu</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>sừng trái</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>TODO</Yak.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>sừng phải</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>TODO</Yak.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

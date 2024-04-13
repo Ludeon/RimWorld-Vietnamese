@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {PAWN_labelShort}'s pregnancy progressed from 1st to 2nd trimester. -->
+  <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort} xem tiến trình mang thai từ 3 tháng đầu đến 3 tháng giữa thai kỳ.</MessageColonistReaching2ndTrimesterPregnancy>
+  <!-- EN: {PAWN_labelShort}'s pregnancy progressed from 2nd to 3rd trimester. -->
+  <MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort} xem tiến trình mang thai từ 3 tháng giữa đến 3 tháng giữa.</MessageColonistReaching3rdTrimesterPregnancy>
+  <!-- EN: {PAWN_labelShort}'s labor has begun the final stages. -->
+  <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort} bắt đầu giai đoạn cuối của quá trình chuyển dạ.</MessageColonistInFinalStagesOfLabor>
+
+  <!-- EN: A mech charger was destroyed while {PAWN_nameDef} was charging! The power disruption has scrambled its brain, and it is going berserk. -->
+  <MessageMechChargerDestroyedMechGoesBerserk>Một bộ sạc mech đã bị phá hủy trong khi {PAWN_nameDef} đang sạc! Việc cắt điện đã làm não anh ấy rối tung lên và anh ấy phát điên lên.</MessageMechChargerDestroyedMechGoesBerserk>
+
+  <!-- EN: Cannot use {ABILITY_label} on anyone who would actively resist. -->
+  <MessageCantUseOnResistingPerson>Không thể sử dụng {ABILITY_label} đối với bất kỳ ai chủ động chống lại.</MessageCantUseOnResistingPerson>
+  <!-- EN: {0_labelShort} already has the {0_xenotype} xenotype. -->
+  <MessageCannotUseOnSameXenotype>{0_labelShort} đã có xenotype {0_xenotype}.</MessageCannotUseOnSameXenotype>
+  <!-- EN: {0_labelShort} has no available xenogenes to implant. -->
+  <MessagePawnHasNoXenogenes>TODO</MessagePawnHasNoXenogenes>
+  <!-- EN: Xenogerms can only be implanted into colonists, prisoners, and slaves. -->
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerm chỉ có thể được cấy ở thực dân, tù nhân và nô lệ.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <!-- EN: Cannot implant in temporary faction members. -->
+  <MessageCannotImplantInTempFactionMembers>Không thể cấy ghép vào thành viên phe nhóm tạm thời.</MessageCannotImplantInTempFactionMembers>
+  <!-- EN: A xenogerm has been completed. -->
+  <MessageXenogermCompleted>Một xenogerm đã được hoàn thành.</MessageXenogermCompleted>
+  <!-- EN: Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack. -->
+  <MessageXenogermCancelledMissingPack>Công việc trên xenogerm tại {0_labelShort} đã bị hủy: Thiếu bộ gen bắt buộc.</MessageXenogermCancelledMissingPack>
+  <!-- EN: Absorbing {PAWN_nameDef}'s xenogerm will anger {0}. -->
+  <MessageAbsorbingXenogermWillAngerFaction>Việc hấp thụ xenogerm của {PAWN_nameDef} sẽ khiến {0} phẫn nộ.</MessageAbsorbingXenogermWillAngerFaction>
+  <!-- EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
+  <MessageCannotUseOnOtherFactions>{ABILITY_label} chỉ có thể được sử dụng cho Người định cư, Tù nhân và Nô lệ.</MessageCannotUseOnOtherFactions>
+  <!-- EN: {0_labelShort} refuses to become a disliked xenotype. -->
+  <MessageCannotBecomeNonPreferredXenotype>TODO</MessageCannotBecomeNonPreferredXenotype>
+
+  <!-- EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
+  <MessageCaravanAddingEscortingMech>Tự động thêm {MECH_nameDef} vào đoàn lữ hành, vì nó đang hộ tống {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech> 
+  <!-- EN: Auto-removing {MECH_nameDef} from the caravan, since it is escorting {OVERSEER_nameDef} -->
+  <MessageCaravanRemovingEscortingMech>Tự động xóa {MECH_nameDef} khỏi đoàn lữ hành vì nó đang hộ tống {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
+
+  <!-- EN: {0} was a mechanitor. You can remove {0_possessive} {1_label} and use it on a colonist. -->
+  <MessageMechanitorCasketOpened>{0} était méchanitor. Vous pouvez supprimer son {1_label} et l'utiliser sur un colon.</MessageMechanitorCasketOpened>
+  
+  <!-- EN: Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction". -->
+  <MessageNoBloodfeedersPrisonerInteractionReset>Phương thức tương tác của một số tù nhân yêu cầu một kẻ hút máu. Kể từ khi kẻ hút máu cuối cùng rời đi, chế độ tương tác của họ được đặt lại thành "Không tương tác".</MessageNoBloodfeedersPrisonerInteractionReset>
+
+  <!-- EN: {PAWN_nameDef}'s pregnancy was successfully terminated. -->
+  <MessagePregnancyTerminated>Thai kỳ của {PAWN_nameDef} đã được chấm dứt thành công.</MessagePregnancyTerminated>
+  
+  <!-- Pollution -->
+  <!-- EN: {0} has been angered ({1}) -->
+  <MessageAngeredPollutedCell>TODO</MessageAngeredPollutedCell>
+  <!-- EN: Need unpolluted terrain. -->
+  <MessageWarningPollutedCell>Cần đất không bị ô nhiễm.</MessageWarningPollutedCell>
+  <!-- EN: Need polluted terrain. -->
+  <MessageWarningNotPollutedCell>Cần đất ô nhiễm.</MessageWarningNotPollutedCell>
+  <!-- EN: {0} has died because of pollution. -->
+  <MessagePlantDiedOfPollution>{0} chết vì ô nhiễm.</MessagePlantDiedOfPollution>
+  <!-- EN: {0} has died because of a lack of pollution. -->
+  <MessagePlantDiedOfNoPollution>{0} đã chết vì thiếu ô nhiễm.</MessagePlantDiedOfNoPollution>
+  <!-- EN: Pollution has increased by {0} at {1}. -->
+  <MessageWorldTilePollutionChanged>Ô nhiễm đã tăng từ {0} lên {1}.</MessageWorldTilePollutionChanged>
+  <!-- EN: A cocoon has been disturbed and is opening! -->
+  <MessageCocoonDisturbed>Một cái kén đã bị xáo trộn và đang mở ra!</MessageCocoonDisturbed>
+  <!-- EN: Cocoons have been disturbed and are opening! -->
+  <MessageCocoonDisturbedPlural>Những cái kén đã bị xáo trộn và đang mở ra!</MessageCocoonDisturbedPlural>
+  <!-- EN: {0} has rotted due to polluted terrain. -->
+  <MessagePlantDiedOfRot_PollutedTerrain>TODO</MessagePlantDiedOfRot_PollutedTerrain>
+
+  <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
+  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} phải bất tỉnh trước khi bạn có thể buộc {PAWN_objective} cấy lại xenogerm của mình.</MessageTargetMustBeDownedToForceReimplant>
+
+  <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3}. -->
+  <MessageWorkTypeDisabledAge>{0_nameDef} mới {1} tuổi. Công việc {2} chỉ có thể được thực hiện từ {3} tuổi.</MessageWorkTypeDisabledAge>
+
+  <!-- EN: {PAWN_nameDef} can now wake from deathrest safely. -->
+  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef} hiện có thể thức dậy an toàn.</MessageDeathrestingPawnCanWakeSafely>
+
+  <!-- EN: {0_nameDef} has lost control of a {1_kindBase} mech -->
+  <MessageMechanitorLostControlOfMech>{0_nameDef} mất quyền kiểm soát mech {1_kindBase}</MessageMechanitorLostControlOfMech>
+  <!-- EN: {0_nameDef} has disconnected from {1_nameDef} mech. -->
+  <MessageMechanitorDisconnectedFromMech>Đã ngắt kết nối {0_nameDef} khỏi mech {1_nameDef}.</MessageMechanitorDisconnectedFromMech>
+
+  <!-- Xenogerm -->
+  <!-- EN: The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
+  <MetabolismTooLowToCreateXenogerm>Tổng quá trình trao đổi chất của các gen đã chọn phải từ {MIN} trở lên để tiếp tục, nhưng hiện tại nó chỉ là {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
+  <!-- EN: The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}. -->
+  <ComplexityTooHighToCreateXenogerm>Tổng độ phức tạp của các gen đã chọn phải từ {MAX} trở xuống để tạo ra xenogerm, nhưng hiện tại nó là {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
+  <!-- EN: Cannot create a xenogerm with no genes. -->
+  <MessageNoSelectedGenepacks>Không thể tạo ra xenogerm mà không có gen.</MessageNoSelectedGenepacks>
+  <!-- EN: Cannot create a xenotype with no genes. -->
+  <MessageNoSelectedGenes>Không thể tạo xenotype không có gen.</MessageNoSelectedGenes>
+  <!-- EN: {0_label} can only store {1} genepacks. -->
+  <CanOnlyStoreNumGenepacks>{0_label} chỉ có thể lưu trữ {1} bộ gen.</CanOnlyStoreNumGenepacks>
+  <!-- EN: Xenotype name cannot be empty. -->
+  <XenotypeNameCannotBeEmpty>Không được để trống tên Xenotype.</XenotypeNameCannotBeEmpty>
+  <!-- EN: {0} lacks a prerequisite gene -->
+  <MessageGeneMissingPrerequisite>{0} thiếu một gen tiên quyết</MessageGeneMissingPrerequisite>
+
+  <!-- EN: {PAWN_nameDef}'s deathrest capacity has increased from {OLD} to {NEW}. -->
+  <MessageDeathrestCapacityChanged>Khả năng deathrest của {PAWN_nameDef} đã tăng từ {OLD} lên {NEW}.</MessageDeathrestCapacityChanged>
+
+  <!-- EN: The sanguophages will arrive in a few hours for their meeting. -->
+  <SanguophagesArrivingSoon>sanguophages sẽ đến trong vài giờ nữa theo lịch hẹn của họ.</SanguophagesArrivingSoon>
+  <!-- EN: The sanguophages have begun their meeting. -->
+  <SanguophagesBegunMeeting>sanguophages đã bắt đầu cuộc gặp gỡ của họ.</SanguophagesBegunMeeting>
+  <!-- EN: The sanguophages are leaving due to life-threatening temperature. -->
+  <SanguophagesLeavingTemperature>sanguophages rời đi vì nhiệt độ gây nguy hiểm cho chúng.</SanguophagesLeavingTemperature>
+
+  <!-- EN: {PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure. -->
+  <MessagePawnWokenFromSunlight>{PAWN_nameDef} đã bị đánh thức sau cơn thập tử nhất sinh {PAWN_possessive} do tiếp xúc với ánh sáng mặt trời.</MessagePawnWokenFromSunlight>
+  <!-- EN: The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there. -->
+  <MessageBedExposedToSunlight>{BED_labelShort} được giao cho {PAWN_nameDef} Đối với phần còn lại của deathrest đã được tiếp xúc với ánh sáng mặt trời. {PAWN_nameDef} không thể deathrest ở đó.</MessageBedExposedToSunlight>
+
+  <!-- EN: {PAWN_labelShort} was ejected from a gene extractor due to lack of power. -->
+  <GeneExtractorNoPowerEjectedMessage>TODO</GeneExtractorNoPowerEjectedMessage>
+
+  <!-- Mechanitor -->
+  <!-- EN: {PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner. -->
+  <MessagePawnKilledRipscanner>Bộ não của {PAWN_nameDef} đã bị phá hủy bởi máy quét ly giải.</MessagePawnKilledRipscanner>
+  <!-- EN: Subcore softscanner completed for {PAWN_nameDef}. -->
+  <MessageSubcoreSoftscannerCompleted>Đã hoàn thành máy quét điểm phụ cho {PAWN_nameDef}.</MessageSubcoreSoftscannerCompleted>
+
+  <!-- EN: Cannot resurrect dessicated corpses. -->
+  <MessageCannotResurrectDessicatedCorpse>Không thể hồi sinh xác chết khô.</MessageCannotResurrectDessicatedCorpse>
+
+  <!-- EN: {0} is about to explode! -->
+  <MessageAboutToExplode>{0} sắp phát nổ!</MessageAboutToExplode>
+
+  <!-- Childcare -->
+  <!-- EN: {FEEDER_labelShort} cannot perform childcare tasks. -->
+  <MessageChildcareDisabled>{FEEDER_labelShort} không thể thực hiện nhiệm vụ trông trẻ.</MessageChildcareDisabled>
+  <!-- EN: {FEEDER_labelShort} is not assigned to do childcare tasks. -->
+  <MessageChildcareNotAssigned>{FEEDER_labelShort} không được giao nhiệm vụ chăm sóc trẻ em.</MessageChildcareNotAssigned>
+
+  <!-- EN: You already have the maximum number of custom xenotypes. You must delete some if you wish to create more. -->
+  <MessageTooManyCustomXenotypes>Bạn đã có số lượng xenotype tùy chỉnh tối đa. Bạn phải xóa một số nếu bạn muốn tạo thêm.</MessageTooManyCustomXenotypes>
+  <!-- EN: Cannot save xenotype with multiple conflicting genes. -->
+  <MessageConflictingGenesPresent>Không thể lưu kiểu xenotype có nhiều gen xung đột.</MessageConflictingGenesPresent>
+
+  <!-- EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort} đã bị ràng buộc với {PAWN_nameDef} ({CUR}/{MAX} khả năng deathrest).</MessageDeathrestBuildingBound>
+
+  <!-- EN: Developmental stage selection disabled by scenario. -->
+  <MessageDevelopmentalStageSelectionDisabledByScenario>Lựa chọn giai đoạn phát triển bị vô hiệu hóa cho mỗi kịch bản.</MessageDevelopmentalStageSelectionDisabledByScenario>
+
+  <!-- EN: {PAWN_nameDef} did not have enough blood to produce a hemogen pack.  -->
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef} không có đủ máu để tạo ra một gói hemogen.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <!-- EN: {PAWN_nameDef} doesn't have enough blood to produce a hemogen pack. -->
+  <MessageCannotStartHemogenExtraction>{PAWN_nameDef} không có đủ máu để tạo ra một gói hemogen.</MessageCannotStartHemogenExtraction>
+
+  <!-- EN: You must choose how {PAWN_nameDef} will grow now. -->
+  <MessageCannotPostponeGrowthMoment>Bạn phải chọn cách {PAWN_nameDef} sẽ phát triển ngay bây giờ.</MessageCannotPostponeGrowthMoment>
+
+  <!-- EN: Warning: {0_labelShort} is carrying a baby while drafted. -->
+  <MessageDraftedPawnCarryingBaby>Cảnh báo: {0_labelShort} bế một em bé khi được tuyển dụng.</MessageDraftedPawnCarryingBaby>
+  <!-- EN: {ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature. -->
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} đang di chuyển {BABY_nameDef} đến nơi có nhiệt độ an toàn hơn.</MessageTakingBabyToSafeTemperature>
+
+  <!-- EN: Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef} -->
+  <MessagePregnancyFailed>TODO</MessagePregnancyFailed>
+  <!-- EN: {PAWN_nameDef} failed to fertilize ovum -->
+  <MessageFerilizeFailed>TODO</MessageFerilizeFailed>
+  <!-- EN: Combined genes exceeded metabolism limits. -->
+  <CombinedGenesExceedMetabolismLimits>TODO</CombinedGenesExceedMetabolismLimits>
+
+</LanguageData>

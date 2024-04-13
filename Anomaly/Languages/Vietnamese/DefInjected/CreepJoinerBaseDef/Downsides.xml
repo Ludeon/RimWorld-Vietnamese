@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <Aggressive.label>Hung hãn</Aggressive.label>
+  <!-- EN: {PAWN_nameDef}'s demeanor has suddenly changed. A menacing grin splits {PAWN_possessive} face.\n\n{PAWN_nameDef} has become hostile. -->
+  <Aggressive.letterDesc>Thái độ của {PAWN_nameDef} đột ngột thay đổi. Một nụ cười hiểm ác xuất hiện trên khuôn mặt {PAWN_possessive}.\n\n{PAWN_nameDef} đã trở nên hung hăng.</Aggressive.letterDesc>
+  <!-- EN: {PAWN_nameDef} hostile -->
+  <Aggressive.letterLabel>{PAWN_nameDef} thù địch</Aggressive.letterLabel>
+  
+  <!-- EN: crumbling mind -->
+  <CrumblingMind.label>Tâm trí sụp đổ</CrumblingMind.label>
+  
+  <!-- EN: disturbing -->
+  <Disturbing.label>Khó chịu</Disturbing.label>
+  
+  <!-- EN: entity jailbreaker -->
+  <EntityJailbreaker.label>Bậc thầy vượt ngục</EntityJailbreaker.label>
+  
+  <!-- EN: leaves -->
+  <Leaves.label>Rời đi</Leaves.label>
+  <!-- EN: {PAWN_nameDef} thanks you for your hospitality, but says that it is time for {PAWN_objective} to move on. -->
+  <Leaves.letterDesc>{PAWN_nameDef} cảm ơn bạn đã tiếp đón, nhưng nói rằng đã đến lúc {PAWN_pronoun} phải tiếp tục lên đường.</Leaves.letterDesc>
+  <!-- EN: {PAWN_nameDef} departure -->
+  <Leaves.letterLabel>{PAWN_nameDef} ra đi</Leaves.letterLabel>
+  
+  <!-- EN: metalhorror -->
+  <Metalhorror.label>Ác mộng Kim loại</Metalhorror.label>
+  
+  <!-- EN: nothing -->
+  <Nothing.label>Bình thường</Nothing.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecay.label>Suy nội tạng</OrganDecay.label>
+  
+  <!-- EN: psychic agony -->
+  <PsychicAgony.label>Đau đớn tâm linh</PsychicAgony.label>
+  <!-- EN: {PAWN_nameDef} has involuntarily released a wave of psychic suffering! {PAWN_pronoun} tried to prevent it, but was unable to do so.\n\nNearby creatures will experience intense pain. The effects will linger for several days. -->
+  <PsychicAgony.letterDesc>{PAWN_nameDef} đã vô tình giải phóng một đợt sóng đau đớn tâm linh! {PAWN_pronoun} cố gắng ngăn chặn nhưng không thể .\n\nCác sinh vật lân cận sẽ trải qua cơn thống khổ khủng khiếp. Hiệu ứng này sẽ kéo dài trong vài ngày.</PsychicAgony.letterDesc>
+  <!-- EN: Psychic agony -->
+  <PsychicAgony.letterLabel>Đau đớn tâm linh</PsychicAgony.letterLabel>
+  <!-- EN: {SURGEON_nameDef} detected a faint but painful psychic presence emanating from {PAWN_nameDef} but failed to understand what was causing it. -->
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef} phát hiện nguồn năng lượng tâm linh yếu ớt nhưng gây đau đớn phát ra từ {PAWN_nameDef} nhưng không thể xác định nguồn gốc.</PsychicAgony.surgicalInspectionLetterExtra>
+  
+</LanguageData>

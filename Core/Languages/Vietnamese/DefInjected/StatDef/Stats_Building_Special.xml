@@ -9,7 +9,7 @@
   <!-- EN: door opening speed -->
   <DoorOpenSpeed.label>tốc độ mở cửa</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>Tốc độ mở cửa. Mở cửa chậm sẽ làm chậm tất cả những người sử dụng chúng.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>Tốc độ mở cửa.\n\nMở cửa chậm sẽ làm chậm tất cả những người sử dụng chúng.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>hệ số để đạt được hệ miễn dịch</ImmunityGainSpeedFactor.label>
@@ -26,24 +26,38 @@
   <!-- EN: Medical tend quality is offset by this value. -->
   <MedicalTendQualityOffset.description>Chất lượng chăm sóc y tế được bù đắp bởi giá trị này.</MedicalTendQualityOffset.description>
   
+  <!-- EN: max power output -->
+  <PowerPlantMaxPowerOuput.label>TODO</PowerPlantMaxPowerOuput.label>
+  <!-- EN: The maximum power that this generator can output in ideal conditions. -->
+  <PowerPlantMaxPowerOuput.description>TODO</PowerPlantMaxPowerOuput.description>
+  
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>tốc độ nghiên cứu</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
   <ResearchSpeedFactor.description>Tốc độ mà mọi người thực hiện nghiên cứu được nhân với giá trị này.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Phòng không gọn gàng</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <!-- EN: Reading bonus -->
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>TODO</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: reading bonus -->
+  <RoomReadingBonus.label>TODO</RoomReadingBonus.label>
+  <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
+  <RoomReadingBonus.description>TODO</RoomReadingBonus.description>
+  <!-- EN: Reading bonus -->
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>TODO</RoomReadingBonus.parts.Reading_bonus.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>cơ hội thành công phẫu thuật</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>Hệ số cho khả năng phẫu thuật sẽ thành công khi được thực hiện tại đây. Cơ hội thành công của phẫu thuật cũng bị ảnh hưởng bởi nhiều yếu tố khác, bao gồm khả năng của bác sĩ phẫu thuật và thuốc được sử dụng.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>Hệ số cho khả năng phẫu thuật sẽ thành công khi được thực hiện tại đây.\n\nCơ hội thành công của phẫu thuật cũng bị ảnh hưởng bởi nhiều yếu tố khác, bao gồm khả năng của bác sĩ phẫu thuật và thuốc được sử dụng.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Phòng không gọn gàng</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>sát thương bẫy</TrapMeleeDamage.label>
-  <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>Sát thương trung bình của cái bẫy này. Các thiệt hại thực tế trong mọi trường hợp sẽ thay đổi ngẫu nhiên.</TrapMeleeDamage.description>
+  <!-- EN: How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>Sát thương trung bình của cái bẫy này.\n\nCác thiệt hại thực tế trong mọi trường hợp sẽ thay đổi ngẫu nhiên.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>khả năng bật bẫy</TrapSpringChance.label>
@@ -62,7 +76,7 @@
   
   <!-- EN: work to build -->
   <WorkToBuild.label>khối lượng việc phải làm</WorkToBuild.label>
-  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
   <WorkToBuild.description>Khối lượng công việc cơ bản cần có để xây dựng một cấu trúc, một khi tất cả các vật liệu được thu thập.</WorkToBuild.description>
   
 </LanguageData>

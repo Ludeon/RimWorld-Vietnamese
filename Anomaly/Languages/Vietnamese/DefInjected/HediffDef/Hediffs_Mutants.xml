@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awoken unnatural corpse -->
+  <AwokenCorpse.label>Xác sống thức tỉnh</AwokenCorpse.label>
+  <!-- EN: The energy building within this corpse is erupting. It has risen and is attacking with increasing power and speed. It will not stop until it reaches its victim. -->
+  <AwokenCorpse.description>Năng lượng tỏa ra từ cái xác sống này đang bùng phát. Nó đã trỗi dậy và tấn công với tốc độ và sức mạnh khủng khiếp. Nó sẽ không dừng lại cho đến khi tiêu diệt được mục tiêu.</AwokenCorpse.description>
+  <!-- EN: The unnatural corpse is moving faster! -->
+  <AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>Xác sống đang di chuyển nhanh hơn!</AwokenCorpse.comps.HediffComp_MessageStageIncreased.message>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>Quỷ ăn thịt</Ghoul.label>
+  <!-- EN: This person has been implanted with an archotech shard, twisting them into a jittering murder machine. Its body is an amalgam of flesh and metal, while its mind cycles between half-conscious stupor and murderous intent.\n\nThey cannot work; they only fight. Ghouls must eat raw meat. If they go hungry, they can turn hostile.\n\nMany find ghouls' constant twitching to be disturbing, even when they aren't killing someone. -->
+  <Ghoul.description>Người này đã bị cấy một mảnh vỡ cổ máy, biến họ thành cỗ máy giết người mất kiểm soát. Cơ thể là sự pha trộn giữa da thịt và kim loại, tinh thần lúc lơ mơ nửa tỉnh nửa mê, lúc lại chuyển sang đòi giết chóc.\n\nHọ không thể làm việc, chỉ biết chiến đấu. Chúng phải ăn thịt sống. Nếu quá đói, chúng có thể điên cuồng.\n\nNhững cơn co giật liên tục có thể khiến người bình thường sợ hãi, ngay cả khi chúng chưa tấn công ai.</Ghoul.description>
+  
+  <!-- EN: ghoul frenzy -->
+  <GhoulFrenzy.label>Cuồng sát</GhoulFrenzy.label>
+  <!-- EN: This creature's blood is saturated with stress hormones and liquid energy, permitting it to move and attack at incredible speeds for a short time. -->
+  <GhoulFrenzy.description>Máu của sinh vật này đang dồn ép với chất dịch và hormon gây căng thẳng, cho phép nó di chuyển và ra đòn với tốc độ chóng mặt trong khoảng thời gian ngắn.</GhoulFrenzy.description>
+  
+  <!-- EN: meat hunger -->
+  <MeatHunger.label>Đói thịt</MeatHunger.label>
+  <!-- EN: This creature is ravenously hungry for raw meat. It may become hostile if it gets too hungry. -->
+  <MeatHunger.description>Sinh vật này đang vô cùng thèm thịt sống. Nó có thể điên cuồng nếu không được ăn.</MeatHunger.description>
+  <!-- EN: initial -->
+  <MeatHunger.stages.initial.label>bắt đầu</MeatHunger.stages.initial.label>
+  <!-- EN: moderate -->
+  <MeatHunger.stages.moderate.label>vừa</MeatHunger.stages.moderate.label>
+  <!-- EN: extreme -->
+  <MeatHunger.stages.extreme.label>cực độ</MeatHunger.stages.extreme.label>
+  
+  <!-- EN: rapid regeneration -->
+  <RapidRegeneration.label>Hồi phục tốc độ cao</RapidRegeneration.label>
+  <!-- EN: This creature has stored an incredible amount of healing energy. While not unlimited, it will rapidly regenerate until its energy has been exhausted. -->
+  <RapidRegeneration.description>Sinh vật này tích trữ một lượng năng lượng chữa thương vô cùng lớn. Tuy không phải vô hạn, nhưng nó sẽ hồi phục cực kì nhanh chóng cho đến khi cạn kiệt.</RapidRegeneration.description>
+  
+  <!-- EN: resurrection coma -->
+  <ResurrectionComa.label>Hôn mê phục sinh</ResurrectionComa.label>
+  <!-- EN: A mixture of deadlife dust and advanced biochemicals course through this creature’s veins. -->
+  <ResurrectionComa.description>Hỗn hợp giữa bụi tử sinh và các chất sinh hóa đang chảy trong cơ thể sinh vật này.</ResurrectionComa.description>
+  
+  <!-- EN: rising -->
+  <Rising.label>Trỗi dậy</Rising.label>
+  <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->
+  <Rising.description>Ảnh hưởng bí ẩn của cổ máy đang hồi sinh cái xác này.</Rising.description>
+  
+  <!-- EN: shambler -->
+  <Shambler.label>Xác sống lê bước</Shambler.label>
+  <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack any living creature relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
+  <Shambler.description>Cái xác này đã bị hồi sinh bởi cổ máy biến chất. Chúng chậm chạp, vô tri và sẽ công kích bất kì sinh vật sống nào. Sau vài ngày hoạt động, chúng sẽ chết vì kiệt quệ. Xác sống lê bước bị bắt giữ không thể di chuyển nên cũng sẽ không hết hạn.</Shambler.description>
+  
+  <!-- EN: shambler corpse -->
+  <ShamblerCorpse.label>Xác chết của Xác sống lê bước</ShamblerCorpse.label>
+  <!-- EN: This creature had previously been re-animated by corrupted archites. -->
+  <ShamblerCorpse.description>Sinh vật này đã từng được hồi sinh bởi cổ máy biến chất.</ShamblerCorpse.description>
+  <!-- EN: Shambler wounds -->
+  <ShamblerCorpse.renderNodeProperties.0.debugLabel>vết thương của Xác sống lê bước</ShamblerCorpse.renderNodeProperties.0.debugLabel>
+  <!-- EN: Shambler wounds -->
+  <ShamblerCorpse.renderNodeProperties.1.debugLabel>vết thương của Xác sống lê bước</ShamblerCorpse.renderNodeProperties.1.debugLabel>
+  
+</LanguageData>
