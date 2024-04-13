@@ -7,9 +7,12 @@
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
   <LetterLabelGainedRoyalTitle>Đã đạt được tước hiệu {TITLE}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
-  <!-- EN: {PAWN_pronoun} must be dressed in apparel of {1} quality or better. -->
+  <!-- EN: Permit points awarded: {0}. -->
+  <PermitPointsAwarded>Điểm giấy phép được trao: {0}.</PermitPointsAwarded>
+
+  <!-- EN: This title requires apparel of {1} quality or better. -->
   <LetterRoyalTitleApparelQualityRequirement>{PAWN_pronoun} phải được mặc trang phục có chất lượng {1} hoặc tốt hơn.</LetterRoyalTitleApparelQualityRequirement>
-  <!-- EN: {PAWN_pronoun} wants to be covered in apparel appropriate to {PAWN_possessive} title: -->
+  <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
   <LetterRoyalTitleApparelRequirement>{PAWN_pronoun} muốn được mặc trang phục phù hợp với tước hiệu {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
   <LetterRoyalTitleExpectation>{PAWN_possessive} kỳ vọng sẽ không bao giờ nhỏ hơn {1}.</LetterRoyalTitleExpectation>
@@ -17,13 +20,13 @@
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
   <LetterRoyalTitleConceitedTrait>Vì {PAWN_labelShort} là {1}, {PAWN_pronoun} sẽ yêu cầu các đặc quyền của tước hiệu này phải được tôn trọng đầy đủ. {PAWN_pronoun} có thể từ chối thực hiện một số loại công việc nhất định, ăn thực phẩm hạng thấp và ban hành nghị định.</LetterRoyalTitleConceitedTrait>
 
-  <!-- EN: {PAWN_labelShort} recieved the title of {TITLE} from {FACTION_name}! -->
+  <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
   <LetterGainedRoyalTitle>{PAWN_labelShort} đã nhận được tước hiệu {TITLE} từ {FACTION_name}!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
   <LetterLostRoyalTitle>{PAWN_labelShort} không còn giữ tước hiệu {TITLE} tại {FACTION_name}.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
   <LetterLabelRewardsForNewTitle>Phần thưởng tước hiệu</LetterLabelRewardsForNewTitle>
-  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} following reward(s): -->
+  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
   <LetterRewardsForNewTitle>Để tôn vinh {PAWN_labelShort} đạt được tước hiệu {TITLE}, {FACTION_name} đã gửi {PAWN_objective} phần thưởng sau:</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
   <LetterRewardsForNewTitleDeliveryBase>Phần thưởng đã đến thuộc địa của bạn thông qua các kén vận chuyển.</LetterRewardsForNewTitleDeliveryBase>
@@ -36,34 +39,30 @@
   <LetterRoyalTitleLostPermits>{PAWN_pronoun} bị mất các quyền này:</LetterRoyalTitleLostPermits>
 
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
-  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} không sẵn sàng thực hiện các loại công việc này: \ n {1}</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} không sẵn sàng thực hiện các loại công việc này:\n{1}</LetterRoyalTitleDisabledWorkTag>
 
-  <!-- EN: {PAWN_pronoun} demands this recreation: -->
+  <!-- EN: {PAWN_pronoun} can now use this recreation: -->
   <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} yêu cầu giải trí này:</LetterRoyalTitleEnabledJoyKind>
-  <!-- EN: {PAWN_pronoun} demands this recreation: -->
-  <LetterRoyalTitleStillEnabledJoyKind>{PAWN_pronoun} vẫn yêu cầu giải trí này:</LetterRoyalTitleStillEnabledJoyKind>
-  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
+  <!-- EN: This title forbids using this recreation: -->
   <LetterRoyalTitleDisabledJoyKind>{PAWN_pronoun} từ chối giải trí này:</LetterRoyalTitleDisabledJoyKind>
-  <!-- EN: {PAWN_pronoun} refuses this recreation: -->
-  <LetterRoyalTitleStillDisabledJoyKind>{PAWN_pronoun} vẫn từ chối giải trí này:</LetterRoyalTitleStillDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
-  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} được phép sử dụng các bộ cấy này: {1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} được phép sử dụng các bộ cấy này:{1}</LetterRoyalTitleAllowedImplants>
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
-  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} không còn được phép sử dụng các bộ cấy này: {1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} không còn được phép sử dụng các bộ cấy này:{1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
   <LetterRoyalTitleImplantGracePeriod>Cấy ghép phải được trích xuất trong thời gian ấn hạn năm ngày để tránh hậu quả ngoại giao.</LetterRoyalTitleImplantGracePeriod>
-  <!-- EN: {PAWN_pronoun} has developed a new need for authority. Satisfying this means constructing an appropriate throneroom {PAWN_pronoun} may sit and reign on a regular basis. -->
-  <LetterRoyalTitleAuthorityNeed>{PAWN_pronoun} đã phát triển một nhu cầu mới về thẩm quyền. Đáp ứng điều này có nghĩa là xây dựng một phòng ngai vàng thích hợp {PAWN_pronoun} có thể ngồi và trị vì.</LetterRoyalTitleAuthorityNeed>
-  <!-- EN: {PAWN_pronoun} demands a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngai vàng đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleThroneroomRequirements>
-  <!-- EN: {PAWN_pronoun} demands a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngủ đáp ứng các yêu cầu sau: {1}</LetterRoyalTitleBedroomRequirements>
-  <!-- EN: {PAWN_pronoun} will only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun} sẽ chỉ ăn những thực phẩm này: {1}</LetterRoyalTitleFoodRequirements>
+  <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} hiện có thể đưa ra các bài phát biểu từ ngai vàng. Nếu nó diễn ra tốt đẹp, người nghe sẽ cảm thấy được truyền cảm hứng. Nếu nó đi kém, bài phát biểu sẽ gây thiệt hại xã hội. Kết quả phụ thuộc vào khả năng xã hội của {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
+  <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
+  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngai vàng đáp ứng các yêu cầu sau:{1}</LetterRoyalTitleThroneroomRequirements>
+  <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
+  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun} yêu cầu một phòng ngủ đáp ứng các yêu cầu sau:{1}</LetterRoyalTitleBedroomRequirements>
+  <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
+  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun} sẽ chỉ ăn những thực phẩm này:{1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
-  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} sẽ nhận được các vật phẩm sau qua kến vận chuyển: {1}</LetterRoyalTitleRewardGranted>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} sẽ nhận được các vật phẩm sau qua kến vận chuyển:{1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
   <PeaceTalksRoyalFavorGain>{PAWN_labelShort} đã nhận được {1} {FACTION_royalFavorLabel} từ {FACTION_name}.</PeaceTalksRoyalFavorGain>
 
@@ -78,18 +77,21 @@
   <LetterRoyalTitleChangingHeir>Người thừa kế mới có thể được chọn bằng cách liên hệ với {FACTION_name} thông qua bảng điều khiển thông tin liên hệ.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
   <LetterTitleHeirLostLabel>Người thừa kế đã mất</LetterTitleHeirLostLabel>
-  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title recieved from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
+  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
   <LetterTitleHeirLost>{HEIR_nameFull} đã chết, khiến {HOLDER_labelShort} không có người thừa kế cho tước hiệu nhận được từ {FACTION_name}. Bạn có thể liên hệ với {FACTION_name} thông qua bảng điều khiển thông tin liên hệ để chỉ định người thừa kế mới.</LetterTitleHeirLost>
+  <!-- EN: The title of {TITLE} cannot be inherited. -->
+  <LetterRoyalTitleCantBeInherited>Tước hiệu của {TITLE} không thể được kế thừa.</LetterRoyalTitleCantBeInherited>
+
 
   <!-- EN: Title inheritance -->
   <LetterTitleInheritance>Kế thừa tước hiệu</LetterTitleInheritance>
-  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles have been transferred to {PAWN_possessive} heirs according to the laws of the title-granting factions. -->
+  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
   <LetterTitleInheritance_Base>Kể từ khi {PAWN_nameFull} chết, tước hiệu {PAWN_possessive} đã được chuyển sang người thừa kế {PAWN_possessive} theo luật của phe phái cấp tước hiệu.</LetterTitleInheritance_Base>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It replaced {HEIR_possessive} {REPLACEDTITLE} title. -->
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
   <LetterTitleInheritance_AsReplacement>Tước hiệu {PAWN_possessive} {TITLE} được kế thừa bởi {HEIR_nameFull}, theo các luật thừa kế của {FACTION_name}. Nó thay thế tước hiệu {HEIR_possessive} {REPLACEDTITLE}.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
   <LetterTitleInheritance_NoEffectHigherTitle>Tước hiệu {PAWN_possessive} {TITLE} sẽ được thừa kế bởi {HEIR_nameFull} theo các luật thừa kế của {FACTION_name}, nhưng {HEIR_pronoun} đã có tước hiệu {HIGHERTITLE} cao cấp hơn.</LetterTitleInheritance_NoEffectHigherTitle>
-  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}. -->
+  <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
   <LetterTitleInheritance_WasInherited>Tước hiệu {PAWN_possessive} {TITLE} được kế thừa bởi {HEIR_nameFull} theo các luật thùa kế của {FACTION_name}.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
   <LetterTitleInheritance_NoHeirFound>Tước hiệu {PAWN_possessive} {TITLE} không được kế thừa bởi bất kỳ ai, vì {PAWN_pronoun} không có người thừa kế được chỉ định cho tước hiệu này.</LetterTitleInheritance_NoHeirFound>
@@ -99,24 +101,6 @@
   <LetterLawViolationDetectedLabel>Người phá luật: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
   <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} đã phát hiện việc sử dụng bất hợp pháp của {PAWN_labelShort}: {CULPRIT} (cơ hội phát hiện {CHANCE}).\n\nTheo luật của {FACTION_name}, chỉ những người giữ tước hiệu {TITLE} mới được phép sử dụng {CULPRIT}.\n\nNhư một hình phạt, quan hệ ngoại giao của bạn đã giảm {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
-
-  <!-- Throne Speech -->
-  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort} đã kết thúc bài phát biểu {ORGANIZER_possessive}.</LetterFinishedSpeech>
-  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>Bài phát biểu thực sự tồi tệ - chỉ toàn những câu đùa vô duyên và những câu chuyện thô thiển được kể bằng giọng văn ấp úng.</LetterTerribleSpeech>
-  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>Bài phát biểu không có gì đặc sắc - giọng đọc đều đều, câu chuyện rườm rà và không có chút nhiệt huyết nào.</LetterUninspiringSpeech>
-  <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>Bài phát biểu có sức thuyết phục và đã truyền tải được thông điệp.</LetterEncouragingSpeech>
-  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>Đó là một bài phát biểu đầy cảm hứng, truyền đạt </LetterInspirationalSpeech>
-  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>Bởi vì bài phát biểu đã bị gián đoạn chỉ khi mới được {0}, nó không đạt hiệu quả cho lắm.</LetterSpeechInterrupted>
-  <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>Bài phát biểu của {ORGANIZER_bestRoyaltyTitleDef} đã bị hủy trước khi hoàn thành 50%. Nó không đạt được kết quả nào.</LetterSpeechCancelled>
-  <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>Bài phát biểu bị hủy</LetterLabelSpeechCancelled>
 
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
@@ -128,12 +112,58 @@
   <LetterDecreeMentalBreak>{0_nameIndef}, trong nỗ lực giải phóng căng thẳng {0_possessive}, đã ban hành một sắc lệnh hoàng gia thú tính và yêu cầu thực hiện.\n\nNếu không được thực hiện trong thời gian ngắn, {0_nameIndef} sẽ trở nên rất buồn phiền.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>{0_nameIndef}, để khẳng định tước hiệu {0_possessive} của {0_bestRoyaltyTitleIndef}, đã ban hành một sắc lệnh và yêu cầu thực hiện.\n\nNếu không được thực hiện trong thời gian ngắn, {0_nameIndef} sẽ trở nên rất buồn phiền.</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}, để khẳng định tước hiệu {0_possessive} của {0_bestRoyalTitleIndef}, đã ban hành một sắc lệnh và yêu cầu thực hiện.\n\nNếu không được thực hiện trong thời gian ngắn, {0_nameIndef} sẽ trở nên rất buồn phiền.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>Nghị định có tiêu đề "{0}".</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
   <LentColonistDied>{PAWN_nameDef} cho {FACTION} mượn. Họ sẽ sớm trả lại {PAWN_nameDef}.</LentColonistDied>  
+
+  <!-- Psylink -->
+  <!-- EN: Psylink gained -->
+  <LetterLabelPsylinkLevelGained>Liên kết tinh thần đã đạt được</LetterLabelPsylinkLevelGained>
+  <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
+  <LetterPsylinkLevelGained_First>{USER_labelShort} đã đạt được {USER_possessive} cấp độ đầu tiên của liên kết tinh thần! {USER_pronoun} hiện là một người năng lực.\n\nĐể sử dụng các năng lực, {USER_labelShort} phải nâng cao tinh thần lực thông qua thiền định. Hiệu quả của thiền này được tăng lên nếu người đó có thể tập trung vào một đối tượng cụ thể trong khi thiền. \n\nNhững người khác nhau có thể tập trung vào các đối tượng khác nhau. Điều này phụ thuộc vào các câu chuyện, đặc điểm và tiêu đề của người đó.Ví dụ:\n\n- Những người năng lực với các tước hiệu hoàng gia thì thiền về ngai vàng của họ.\n- Những người năng lực có tuổi thơ là người bộ lạc thì thiền định về cây cực quang và đền thờ thiên nhiên.\n- Những người năng lực khổ hạnh thì thiền định ở các bức tường trống.\n- Những người năng lực tâm thần thiền định đến những ngôi mộ, lý tưởng là có người thân quá cố bên trong.\n\nBạn có thể thấy các loại tiêu điểm thiền của ai đó bằng cách nhìn vào thẻ thông tin của họ bằng nút 'i'.</LetterPsylinkLevelGained_First>
+  <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} đã đạt được cấp độ liên kết tinh thần mới! {USER_pronoun} hiện có thể sử dụng những năng lực ở cấp độ cao hơn, nhưng {USER_pronoun} cần tìm hiểu chúng trước.</LetterPsylinkLevelGained_NotFirst>
+  <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
+  <LetterPsylinkLevelGained_PsycastLearned>Khi đạt được cấp độ liên kết tinh thần mới, {USER_labelShort} sẽ tự động học được năng lực này: {2}.</LetterPsylinkLevelGained_PsycastLearned>
+  
+  <!-- Abilities -->
+  <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterPsychicInspiration>Nhờ gợi ý tâm linh của {CASTER_nameIndef}, {PAWN_nameIndef} đã có được một nguồn cảm hứng!</LetterPsychicInspiration>
+
+  <!-- EN: Bestowing ceremony expired -->
+  <LetterLabelBestowingCeremonyExpired>Lễ trao tặng đã hết hạn</LetterLabelBestowingCeremonyExpired>
+  <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} đã không xuất hiện trong buổi lễ trao tặng. Buổi lễ đã bị hủy bỏ.</LetterTextBestowingCeremonyExpired>
+
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>Tước hiệu của {TARGET_definite} đã thay đổi</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} đã đạt được danh hiệu mới kể từ khi buổi lễ phong tặng được lên lịch. Để việc phong tặng phù hợp với danh hiệu mới, một buổi lễ khác sẽ sớm được lên lịch.\n\nBuổi lễ phong tặng mới sẽ bao gồm phần thưởng psylink cho tất cả các danh hiệu chưa được trao.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} đã nhận được {1} vinh dự như một dấu hiệu thể hiện sự tôn trọng từ {FACTION_name} vì đã tập hợp {3} khán giả.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{PAWN_labelShort} không nhận được thêm vinh dự nào vì không có nhiều khán giả.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>Tất cả những người xem buổi lễ đều nhận được phần thưởng tâm trạng.</LetterPartMoodBonus>
+
+  <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
+  <LetterTextHonorAward_BanditCamp>Ai nên được ghi nhận {0} vì đã đánh bại trại cướp?</LetterTextHonorAward_BanditCamp>
+
+  <!-- Shuttle crash -->
+  <!-- EN: Shuttle crashed -->
+  <LetterLabelShuttleCrashed>tai nạn tàu con thoi</LetterLabelShuttleCrashed>
+  <!-- EN: A shuttle has crashed nearby -->
+  <LetterTextShuttleCrashed>Một tàu con thoi đã bị rơi gần đó</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>Sự cố nhóm vận chuyển: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>Một {0_title} có tên {0_nameDef} đang gặp sự cố trong một trạm vận chuyển gần đó.\n\n{0_nameDef} đang bị {1_label} và sẽ không thể đi lại.\n\n{0_pronoun} sẽ hồi phục tự nhiên sau nhiều ngày. Ngoài ra còn có một cơ hội phục hồi may mắn nhanh chóng. {1_label} cũng có thể được chữa khỏi bằng một ca phẫu thuật đặc biệt cần một lượng lớn thuốc từ thế giới lấp lánh.\n\n{0_pronoun} sẵn sàng đóng góp khi {0_pronoun} đã hồi phục nhưng sẽ không tự ý rời đi. Nếu không muốn {0_nameDef}, bạn có thể trục xuất {0_objective}, bán {0_objective} làm nô lệ hoặc để {0_objective} chết. Tuy nhiên, những người thuộc địa khác của bạn có thể thấy điều này đáng lo ngại.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

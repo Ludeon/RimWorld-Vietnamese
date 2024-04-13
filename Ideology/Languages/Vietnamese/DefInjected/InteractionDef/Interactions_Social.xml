@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: failed conversion -->
+  <Convert_Failure.label>cải đạo thất bại</Convert_Failure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
+  -->
+  <Convert_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] thử cải đạo [RECIPIENT_nameDef], nhưng không thành công.</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: successful conversion -->
+  <Convert_Success.label>cải đạo thành công</Convert_Success.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
+  -->
+  <Convert_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] thử cải đạo [RECIPIENT_nameDef] và thành công.</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: convert ideoligion attempt -->
+  <ConvertIdeoAttempt.label>nỗ lực cải đạo</ConvertIdeoAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
+  -->
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] thử cải đạo [RECIPIENT_nameDef] thành tín ngưỡng của [INITIATOR_possessive].</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: failed counsel -->
+  <Counsel_Failure.label>khuyên bảo thất bại</Counsel_Failure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
+  -->
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] thử khuyên bảo [RECIPIENT_nameDef], nhưng thất bại và làm mọi thứ tệ hơn.</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: successful counsel -->
+  <Counsel_Success.label>khuyên bảo thành công</Counsel_Success.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] advice on overcoming negativity.</li>
+    <li>problems->[RECIPIENT_possessive] problems</li>
+    <li>problems->[RECIPIENT_possessive] troubles</li>
+    <li>problems->[RECIPIENT_possessive] painful feelings</li>
+    <li>problems->recent difficulties</li>
+  -->
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] khuyên bảo [RECIPIENT_nameDef] về [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] giúp [RECIPIENT_nameDef] suy nghĩ thấu đáo về [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] cho [RECIPIENT_nameDef] lời khuyên để vượt qua điều tiêu cực.</li>
+    <li>problems->vấn đề [RECIPIENT_possessive]</li>
+    <li>problems->rắc rối [RECIPIENT_possessive]</li>
+    <li>problems->cảm xúc tổn thương [RECIPIENT_possessive]</li>
+    <li>problems->những khó khăn gần đây</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: preached health -->
+  <PreachHealth.label>giảng về sức khỏe</PreachHealth.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
+    <li>preaching_topic->reasons to live</li>
+    <li>preaching_topic->higher ideoligious goals</li>
+    <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
+  -->
+  <PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] tăng cường sức khỏe của [RECIPIENT_nameDef] bằng việc giảng về [preaching_topic].</li>
+    <li>preaching_topic->những lý do để sống</li>
+    <li>preaching_topic->những mục tiêu tín ngưỡng cao hơn</li>
+    <li>preaching_topic->mục đích tồn tại [RECIPIENT_possessive]</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: reassurance -->
+  <Reassure.label>trấn an</Reassure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
+  -->
+  <Reassure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] trấn an lòng tin của [RECIPIENT_nameDef].</li>
+  </Reassure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: accuse -->
+  <Trial_Accuse.label>buộc tội</Trial_Accuse.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
+    <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>
+    <li>r_logentry->[INITIATOR_nameDef] accused [RECIPIENT_nameDef] of [wrongdoing].</li>
+    <li>wrongdoing->sabotaging the colony</li>
+    <li>wrongdoing->being lazy</li>
+    <li>wrongdoing->eating too much</li>
+    <li>wrongdoing->stealing</li>
+    <li>wrongdoing->being a horrible person</li>
+    <li>wrongdoing->disrespecting sacred ideas</li>
+    <li>wrongdoing->disrespecting respected figures</li>
+    <li>wrongdoing->heresy</li>
+    <li>wrongdoing->murder</li>
+    <li>wrongdoing->blasphemy</li>
+    <li>wrongdoing->treason</li>
+    <li>wrongdoing->hateful thinking</li>
+    <li>wrongdoing->disloyalty</li>
+  -->
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] trình bày bằng chứng.</li>
+    <li>r_logentry->[INITIATOR_nameDef] lôi kéo cảm xúc của người xem.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cáo buộc [RECIPIENT_nameDef] [wrongdoing].</li>
+    <li>wrongdoing->phá hoại thuộc địa</li>
+    <li>wrongdoing->lười biếng</li>
+    <li>wrongdoing->ăn quá nhiều</li>
+    <li>wrongdoing->trộm cắp</li>
+    <li>wrongdoing->làm một tấm gương xấu</li>
+    <li>wrongdoing->thiếu tôn trọng tín ngưỡng thiêng liêng</li>
+    <li>wrongdoing->thiếu tôn trọng nhân vật được tôn trọng</li>
+    <li>wrongdoing->có suy nghĩ dị giáo</li>
+    <li>wrongdoing->giết người</li>
+    <li>wrongdoing->báng bổ</li>
+    <li>wrongdoing->phản quốc</li>
+    <li>wrongdoing->suy nghĩ tiêu cực</li>
+    <li>wrongdoing->thiếu trung thành</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: defend -->
+  <Trial_Defend.label>biện hộ</Trial_Defend.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pleaded to jury.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called for mercy.</li>
+    <li>r_logentry->[INITIATOR_nameDef] stalled the proceedings.</li>
+    <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
+  -->
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] không đồng tình lời cáo buộc</li>
+    <li>r_logentry->[INITIATOR_nameDef] đưa ra một góc nhìn khác.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cầu xin bồi thẩm đoàn.</li>
+    <li>r_logentry->[INITIATOR_nameDef] van xin sự nhân từ.</li>
+    <li>r_logentry->[INITIATOR_nameDef] trì hoãn tuyên bố kết tội.</li>
+    <li>r_logentry->[INITIATOR_nameDef] bác bỏ những cáo buộc.</li>
+    <li>r_logentry->[INITIATOR_nameDef] nói phiên tòa này giả mạo.</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>thúc đẩy công việc</WorkDrive.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
+  -->
+  <WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] kêu gọi [RECIPIENT_nameDef] làm việc chăm chỉ hơn cho sự tốt đẹp của thuộc địa.</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

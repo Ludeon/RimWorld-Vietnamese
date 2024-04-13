@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Mechanitor -->
+  <!-- EN: Mech(s) gone feral -->
+  <LetterLabelMechsFeral>Mech trở lại tự nhiên</LetterLabelMechsFeral>
+  <!-- EN: Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1} -->
+  <LetterMechsFeral>Một số mech lang thang xung quanh không được giám sát có liên kết với các tín hiệu điều khiển mech cổ đại trên khắp hành tinh. Họ đã tham gia {0} và trở thành thù địch, đồng thời dường như đang cố gắng tìm cách rời khỏi bản đồ.\n\nFeral mechanoids không thể hồi sinh ở người mang thai khi bị giết.\n\nNhững mech này có liên quan:\n\n{ 1}</LetterMechsFeral>
+  <!-- EN: Mechlink installed -->
+  <LetterLabelMechlinkInstalled>Mechlink đã được lắp đặt</LetterLabelMechlinkInstalled>
+  <!-- EN: {PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger. -->
+  <LetterMechlinkInstalled>{PAWN_labelShort} đã lắp đặt mechlink! {PAWN_pronoun} hiện là một mechanitor và có thể tạo cũng như điều khiển các Mechanoids.\n\nHãy tìm kiếm mechtech cơ bản để bắt đầu.\n\n(*SectionTitle) tạo mech:(/SectionTitle) Mechanitor của bạn có thể tạo mech tại một tòa nhà sản xuất được gọi là mech gestator.\n\n(*SectionTitle)Giới thiệu về băng thông:(/SectionTitle) Mechanitors có thể kiểm soát bao nhiêu mech khi tổng băng thông của chúng cho phép. chọn {PAWN_labelShort} và xem "băng thông" của nó để xem {PAWN_pronoun} hiện đang sử dụng bao nhiêu băng thông trong số lượng khả dụng. Băng thông có thể được tăng lên theo một số loại quần áo nhất định và bằng cách xây dựng cấu trúc nút băng.\n\n(*SectionTitle)Giới thiệu về nhóm điều khiển:(/SectionTitle) Cơ chế điều khiển mech theo nhóm. Mỗi nhóm điều khiển có thể được đặt thành một trong các chế độ sau:\n\n- Công việc\n- Hộ tống\n- Nạp điện\n- Tự động nạp điện\n\nĐể tìm hiểu thêm về chức năng của từng chế độ, hãy chọn biểu tượng chế độ làm việc trên bất kỳ nhóm điều khiển {PAWN_labelShort} nào và di chuột qua các thứ tự công việc khác nhau. Số lượng nhóm điều khiển tối đa có thể được tăng lên bằng quần áo và thiết bị cấy ghép.\n\n(*SectionTitle)Giới thiệu về cuộc gọi đe dọa:(/SectionTitle) Mechanitors có thể ra hiệu cho các mech lãnh đạo cổ đại tấn công để lấy các vật phẩm quý hiếm từ chúng. Bạn phải làm điều này để cải thiện mechanitor của mình vượt qua các giới hạn nhất định, nhưng hãy cẩn thận với sự nguy hiểm.</LetterMechlinkInstalled>
+
+  <!-- EN: This happened because of -->
+  <MentalStateReason_Gene>Điều này xảy ra bởi vì</MentalStateReason_Gene>
+
+  <!-- EN: {0} summoned -->
+  <LetterLabelBossgroupSummoned>{0} đã được triệu tập</LetterLabelBossgroupSummoned>
+  <!-- EN: Attracted by your mech-band signals, an ultra-heavy mech from {0} will arrive soon. Be prepared. -->
+  <LetterBossgroupSummoned>Bị thu hút bởi các chương trình phát tín hiệu mech-band của bạn, một mech siêu nặng {0} sẽ sớm xuất hiện. hãy sẵn sàng.</LetterBossgroupSummoned>
+
+  <!-- EN: {0} arrived -->
+  <LetterLabelBossgroupArrived>{0} đã đến</LetterLabelBossgroupArrived>
+  <!-- EN: An ultra-heavy mech from {0} has come to eradicate you, along with escorts.\n\n{1}\n\nThe assault group is composed of the following {3}:\n\n{4}\n\nThey will prepare for a while before attacking. -->
+  <LetterBossgroupArrived>Một con mech cực nặng {0} đã đến để tiêu diệt bạn, cùng với đoàn hộ tống.\n\n{1}\n\nNhóm tấn công bao gồm {3} sau đây:\n\n{4}\n\nHọ sẽ chuẩn bị một thời gian trước khi tấn công.</LetterBossgroupArrived>
+
+  <!-- EN: Summon {LEADER_label} available -->
+  <LetterLabelCommsConsoleSpawned>Triệu hồi {LEADER_label} khả dụng</LetterLabelCommsConsoleSpawned>
+  <!-- EN: A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
+  <LetterCommsConsoleSpawned>Mechanitor có thể sử dụng {PARENT_label} để triệu hồi Mechanoid {LEADER_label} nguy hiểm và thù địch. Hãy chuẩn bị, {LEADER_label} mechanoids cực kỳ mạnh mẽ.\n\nNếu bạn đánh bại {LEADER_label}, nó sẽ rơi ra các vật phẩm sau:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+
+  <!-- EN: Summon {LEADER_label} possible -->
+  <LetterLabelBossgroupCallerUnlocked>Có thể triệu hồi {LEADER_label}</LetterLabelBossgroupCallerUnlocked>
+  <!-- EN: You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
+  <LetterBossgroupCallerUnlocked>Giờ đây, bạn có thể tạo {PARENT_label} mà mechanitor có thể sử dụng để triệu hồi {LEADER_label}. Nếu bạn đánh bại {LEADER_label}, nó sẽ rơi ra các vật phẩm sau:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+
+  <!-- EN: {PAWN_nameDef}'s mechlink available -->
+  <LetterLabelMechanitorCasketOpened>Có sẵn mechlink của {PAWN_nameDef}</LetterLabelMechanitorCasketOpened>
+  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {PAWN_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
+  <LetterMechanitorCasketOpened>Bạn đã tìm thấy xác của một mechanitor trước đây!\n\nTrích xuất mechlink {PAWN_possessive} bằng cách chọn một kẻ xâm lược và nhấp chuột phải vào xác chết.</LetterMechanitorCasketOpened>
+  <!-- EN: Mechanitor casket found -->
+  <LetterLabelMechanitorCasketFound>Tìm thấy quan tài Mechanitor</LetterLabelMechanitorCasketFound>
+  <!-- EN: You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside. -->
+  <LetterMechanitorCasketFound>Bạn đã phát hiện ra một quan tài cryptosleep của mechanitor!\n\nMở nó ra để xem có gì bên trong.</LetterMechanitorCasketFound>
+  
+  <!-- Pawns lost because map closed (including mechs) -->
+  <!-- EN: Your caravan has been lost. The following people, animals and mechanoids have been lost with it -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Đoàn lữ hành của bạn đã bị mất dấu. Những người, động vật và mech sau đây đã bị mất tích với nó</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <!-- EN: The following people, animals and mechanoids have been abandoned -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>Những người, động vật và mech sau đây đã bị loại bỏ</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  
+
+  <!-- Children -->
+  <!-- EN: {0_nameDef} became a child -->
+  <LetterLabelBecameChild>{0_nameDef} đã trở thành một đứa trẻ</LetterLabelBecameChild>
+  <!-- EN: {0_nameDef} became an adult -->
+  <LetterLabelBecameAdult>{0_nameDef} đã trở thành người lớn</LetterLabelBecameAdult>
+  <!-- EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
+  <LetterBecameChild>Bé {0_nameDef} đã lớn và trở thành một đứa trẻ! {0_pronoun} hiện đã đủ tuổi để thực hiện công việc sau đây</LetterBecameChild>
+  <!-- EN: Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel. -->
+  <LetterBecameChildChanges>Trẻ em có thể làm nhiều loại công việc khác nhau. Khi lớn hơn, chúng có thể làm nhiều loại công việc hơn.\n\nHọ cũng thực hiện các hoạt động giải trí khác nhau dành riêng cho trẻ em.\n\nTrẻ em phải mặc quần áo phù hợp với kích cỡ của chúng.</LetterBecameChildChanges>
+  <!-- EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
+  <LetterChildLegalStatus>Theo truyền thống {0_nameDef}, {0_parentage}, là một {0_legalStatus}, nhưng có thể có ngoại lệ... {0_nameDef} có nên vẫn là {0_legalStatus} không?</LetterChildLegalStatus>
+  <!-- EN: {0_labelShort} has decided to become a follower of the ideoligion {1_name}. -->
+  <LetterChildFollowIdeo>{0_labelShort} đã quyết định đi theo hệ tư tưởng {1_name}.</LetterChildFollowIdeo>
+  <!-- EN: {0_nameDef}'s slave status has already changed since {0_possessive} birthday. -->
+  <CannotChangeChildStatusReason>Trạng thái nô lệ của {0_nameDef} đã thay đổi kể từ sinh nhật {0_possessive}.</CannotChangeChildStatusReason>
+  <!-- EN: enslave -->
+  <Enslave>làm nô lệ</Enslave>
+  <!-- EN: emancipate -->
+  <Emancipate>giải phóng</Emancipate>
+  <!-- EN: remain {0} -->
+  <RemainX>remain {0}</RemainX>
+  <!-- EN: {BABY_nameDef} adopted -->
+  <LetterLabelAdopted>{BABY_nameDef} đã được thông qua</LetterLabelAdopted>
+  <!-- EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->
+  <LetterTextAdopted>{BABY_nameDef}, một đứa trẻ, đã được thuộc địa của bạn nhận nuôi. Bạn có thể chỉ định những người định cư vào loại công việc "trông trẻ" để chăm sóc {BABY_objective}.</LetterTextAdopted>
+
+  <!-- EN: {0_nameDef}'s baby prep -->
+  <LetterLabelThirdTrimester>Chuẩn bị cho trẻ sơ sinh của {0_nameDef}</LetterLabelThirdTrimester>
+  <!-- EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
+  <LetterTextThirdTrimester>{0_nameDef} sẽ sinh sau chưa đầy 6 ngày nữa. bạn có thể chuẩn bị cho em bé:\n\n- Xây dựng phòng sinh với sàn sạch sẽ và giường ngủ tốt.\n- Chuẩn bị sẵn sàng một bác sĩ lành nghề.\n- Trong tab công việc, chỉ định ít nhất một người trông trẻ\n - Chuẩn bị nguồn thức ăn cho em bé. {0_nameDef} {0_nameDef} có thể cho trẻ bú sữa mẹ hoặc bạn có thể cho chúng ăn thức ăn trẻ em, sữa hoặc thạch côn trùng.\n- Dựng cũi. Nôi chất lượng cao sẽ làm hài lòng bé.\n\nBạn có thể chế biến thức ăn cho trẻ bằng bếp lò hoặc lửa trại.</LetterTextThirdTrimester>
+
+  <!-- EN: {0} vat birth -->
+  <LetterVatBirth>{0} sinh vat</LetterVatBirth>
+  <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
+  <LetterVatHealthyBaby>Phôi của {0_nameDef} và {1_nameDef} đã hoàn thành quá trình mang thai trong bể ấp và đã phát triển thành một em bé khỏe mạnh!</LetterVatHealthyBaby>
+  <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
+  <LetterVatHealthyBabyNoParents>Một phôi thai đã hoàn thành quá trình mang thai của mình trong bể ấp và trở thành một em bé khỏe mạnh!</LetterVatHealthyBabyNoParents>
+  <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
+  <LetterVatInfantIllness>Phôi của {0_nameDef} và {1_nameDef} đã hoàn thành quá trình mang thai trong bể ấp và trở thành một em bé. Thật không may, em bé bị ốm.</LetterVatInfantIllness>
+  <!-- EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
+  <LetterVatInfantIllnessNoParents>Một phôi thai đã hoàn thành quá trình mang thai của nó trong bể ấp và trở thành một em bé. Thật không may, em bé bị ốm.</LetterVatInfantIllnessNoParents>
+  <!-- EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
+  <LetterVatStillborn>Em bé được phát triển trong lồng ấp từ phôi thai của {0_nameDef} và {1_nameDef} bị chết non.</LetterVatStillborn>
+  <!-- EN: The baby formed in a growth vat was stillborn. -->
+  <LetterVatSillbornNoParents>Em bé được sinh ra trong bể ấp là thai chết non.</LetterVatSillbornNoParents>
+  <!-- EN: {0_labelShort} in labor! -->
+  <LetterColonistPregnancyLaborLabel>{0_labelShort} chuyển dạ!</LetterColonistPregnancyLaborLabel>
+  <!-- EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->
+  <LetterColonistPregnancyLabor>{0_labelShort} sắp sinh! Cô ấy sẽ có những cơn co thắt trong vài giờ trước khi sinh. Quá trình chuyển dạ có thể trải qua một số giai đoạn khó khăn và nguy hiểm khác nhau.\n\nĐể cải thiện cơ hội sinh em bé, hãy tập hợp một bác sĩ và những người khác để giúp đỡ việc sinh nở. Chọn {0_labelShort} và nhấn "Tập hợp để sinh" để bắt đầu quy trình.</LetterColonistPregnancyLabor>
+  <!-- EN: {0_labelShort} has died due to complications after giving birth. -->
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} chết vì biến chứng sau khi sinh.</LetterPartColonistDiedAfterChildbirth>
+  <!-- EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
+  <LetterPartSurrogacy>Em bé được tạo ra từ quá trình thụ tinh trong ống nghiệm và có cấu tạo di truyền là {0_labelShort} và {1_labelShort}.</LetterPartSurrogacy>
+  <!-- EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
+  <InbredBabyBorn>Bé có dấu hiệu bất thường về gen do giao phối cận huyết.</InbredBabyBorn>
+
+  <!-- EN: {0_nameDef} has already been named. -->
+  <BabyAlreadyNamed>{0_nameDef} đã có tên.</BabyAlreadyNamed>
+  <!-- EN: name baby -->
+  <NameBaby>tên em bé</NameBaby>
+  <!-- EN: immediately -->
+  <Immediately>ngay lập tức</Immediately>
+  <!-- EN: within -->
+  <Within>Trong</Within>
+  <!-- EN: The baby has been given the temporary name {0_nameFull}. -->
+  <LetterPartTempBabyName>TODO</LetterPartTempBabyName>
+  <!-- EN: You can change it until {0} after birth. -->
+  <LetterPartLiveBirthNameDeadline>TODO</LetterPartLiveBirthNameDeadline>
+  <!-- EN: Would you like to give the baby another name? -->
+  <LetterPartStillbirthNameDeadline>TODO</LetterPartStillbirthNameDeadline>
+  <!-- EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
+  <LetterPartNameBabyAdopt>Em bé đã được đặt tên tạm thời là {0_nameFull}. Bạn có thể thay đổi nó miễn là em bé dưới {1} tuổi.</LetterPartNameBabyAdopt>
+
+  <!-- EN: Growth moment for {PAWNNAME} -->
+  <BirthdayGrowthMoment>Sự phát triển vượt bậc cho {PAWNNAME}</BirthdayGrowthMoment>
+  <!-- EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
+  <BirthdayBiologicalGrowthMoment>{0_nameFull} đã đạt đến tuổi sinh học là {1} và đã có một bước phát triển vượt bậc!</BirthdayBiologicalGrowthMoment>
+  <!-- EN: {0_nameDef} is now old enough to do the following work -->
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} hiện đã đủ tuổi để thực hiện nhiệm vụ</BirthdayBiologicalAgeWorkTypes>
+  <!-- EN: Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for -->
+  <BirthdayPickPassion>Chọn 1 kỹ năng cho {0_nameDef} để tăng niềm đam mê</BirthdayPickPassion>
+  <!-- EN: Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for -->
+  <BirthdayPickPassions>Chọn {1} kỹ năng cho  {0_nameDef} để tăng niềm đam mê</BirthdayPickPassions>
+  <!-- EN: Choose a trait for {0_nameDef} to gain -->
+  <BirthdayPickTrait>Chọn một đặc điểm để {0_nameDef} đạt được</BirthdayPickTrait>
+  <!-- EN: When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment. -->
+  <BirthdayGrowthTier>Khi sự bùng nổ tăng trưởng xảy ra, {0_nameDef} đang ở mức tăng trưởng {1}. Trẻ em ở các cấp độ phát triển cao hơn có nhiều lựa chọn về đặc điểm và đam mê hơn để lựa chọn, và về tổng thể cũng có nhiều đam mê hơn. Việc đáp ứng nhu cầu học tập sẽ giúp trẻ đạt được các mức tăng trưởng nhanh hơn. Mức tăng trưởng được đặt lại sau mỗi đợt tăng trưởng..</BirthdayGrowthTier>
+  <!-- EN: Open this letter to choose how {0_nameDef} will grow. -->
+  <BirthdayChooseHowPawnWillGrow>Mở thông báo này để chọn sự phát triển của {0_nameDef}.</BirthdayChooseHowPawnWillGrow>
+
+  <!-- EN: Passion was increased for {0}. -->
+  <BirthdayPassionArchive>Niềm đam mê đã được tăng lên cho {0}.</BirthdayPassionArchive>
+  <!-- EN: The trait {0} was gained. -->
+  <BirthdayTraitArchive>Đặc điểm {0} đã đạt được.</BirthdayTraitArchive>
+  <!-- EN: No trait -->
+  <BirthdayNoTraitChoice>TODO</BirthdayNoTraitChoice>
+  <!-- EN: {0} does not gain a trait. -->
+  <BirthdayNoTraitChoiceTooltip>TODO</BirthdayNoTraitChoiceTooltip>
+
+  <!-- EN: Make choices to close -->
+  <BirthdayMakeChoices>Thực hiện các lựa chọn để đóng</BirthdayMakeChoices>
+  <!-- EN: {0} has gained the nickname {1}. -->
+  <BirthdayNickname>{0} đã có được biệt hiệu {1}.</BirthdayNickname>
+  <!-- EN: Select a trait. -->
+  <SelectATrait>Chọn một đặc điểm.</SelectATrait>
+  <!-- EN: Select a passion. -->
+  <SelectPassionSingular>Chọn một niềm đam mê.</SelectPassionSingular>
+  <!-- EN: Select {0} passions. -->
+  <SelectPassionsPlural>Chọn {0} đam mê.</SelectPassionsPlural>
+  <!-- EN: Later -->
+  <Later>Sau</Later>
+  
+  <!-- EN: Mechlink available -->
+  <LetterLabelMechlinkAvailable>Mechlink có sẵn</LetterLabelMechlinkAvailable>
+  <!-- EN: An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat. -->
+  <LetterMechlinkAvailable>Cơ hội để có được mô hình cấy mechlink độc nhất đã trở nên khả dụng thông qua nhiệm vụ '{0}'.\n\nCài đặt mechlink sẽ biến một người thực dân thành một mechanitor. Mechanitors có thể tạo, kiểm soát và điều khiển mechanoids để sử dụng trong công việc và chiến đấu.</LetterMechlinkAvailable>
+
+  <!-- Genes -->
+  <!-- EN: Xenogerm implantation ordered -->
+  <LetterLabelXenogermOrderedImplanted>Đã đặt hàng cấy ghép Xenogerm</LetterLabelXenogermOrderedImplanted>
+  <!-- EN: You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab. -->
+  <LetterXenogermOrderedImplanted>Bạn đã yêu cầu cấy một xenogerm vào {PAWN_nameDef}. Quy trình này yêu cầu giường y tế và thuốc {MEDICINENEEDED}.{BEDINFO}{MEDICINEINFO}\n\nBạn có thể hủy quy trình này bằng cách chuyển đến tab hoạt động của {PAWN_nameDef}</LetterXenogermOrderedImplanted>
+  <!-- EN: \n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical. -->
+  <XenogermOrderedImplantedBedNeeded>\n\nBạn không có sẵn giường y tế nào cho {PAWN_nameDef}. Cân nhắc đánh dấu một chiếc giường là y tế.</XenogermOrderedImplantedBedNeeded>
+  <!-- EN: \n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine. -->
+  <XenogermOrderedImplantedMedicineNeeded>\n\nBạn không có đủ thuốc để cấy xenogerm. Quá trình cấy ghép không thể bắt đầu cho đến khi bạn có thuốc {MEDICINENEEDED}.</XenogermOrderedImplantedMedicineNeeded>
+  <!-- EN: Involuntary deathrest -->
+  <LetterLabelInvoluntaryDeathrest>Involuntary deathrest</LetterLabelInvoluntaryDeathrest>
+  <!-- EN: Regeneration coma -->
+  <LetterLabelRegenerationComa>TODO</LetterLabelRegenerationComa>
+  <!-- EN: {PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO} -->
+  <LetterTextInvoluntaryDeathrestOrComa>TODO</LetterTextInvoluntaryDeathrestOrComa>
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a deathrest. -->
+  <LetterTextDeathrest>TODO</LetterTextDeathrest>
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a regeneration coma. -->
+  <LetterTextRegenerationComa>TODO</LetterTextRegenerationComa>
+  <!-- EN: Due to the neural shock of traumatic deathrest, {PAWN_nameDef} has lost {XPLOSS} XP in {PAWN_possessive} {SKILL} skill. -->
+  <DeathrestLostSkill>TODO</DeathrestLostSkill>
+  <!-- EN: Lethal damage taken. -->
+  <DeathrestLethalDamage>Thiệt hại gây chết người.</DeathrestLethalDamage>
+
+  <!-- EN: Xenogerm implantation -->
+  <LetterLabelSanguophageWaitingToReimplant>Cấy xenogerm</LetterLabelSanguophageWaitingToReimplant>
+  <!-- EN: As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave. -->
+  <LetterTextSanguophageWaitingToReimplant>Cảm ơn vì đã cho anh ta gặp sanguophages khác ở đây, {PAWN_nameDef} sẵn sàng chia sẻ bản sao xenogerm của họ với một trong những người định cư của bạn. Điều này sẽ biến người định cư của bạn thành sanguophages.\n\nĐể chấp nhận, hãy chọn người định cư và nhấp chuột phải vào {PAWN_nameDef}.\n\nNếu chưa có người định cư nào nhận phần thưởng trước {DURATION}, sanguophages sẽ bỏ đi.</LetterTextSanguophageWaitingToReimplant>
+
+  <!-- EN: Genes reimplanted -->
+  <LetterLabelGenesImplanted>các gen được trồng lại</LetterLabelGenesImplanted>
+  <!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
+  <LetterTextGenesImplanted>{CASTER_nameDef} đã cấy một bản sao xenogerm của mình vào {TARGET_nameDef}, truyền tất cả xenogenes cho anh ta.\n\n{TARGET_nameDef} sẽ rơi vào trạng thái mê man trong {COMADURATION} trong khi cơ thể thích nghi theo những thay đổi.\n\n{CASTER_nameDef} sẽ bị sốc mất gen trong {SHOCKDURATION} tiếp theo. Các gen của anh(cô) ấy cũng sẽ phải tái tạo. Quá trình này cần thời gian. Nếu {CASTER_nameDef} cấy ghép xenogerm của nó lần nữa trước khi các gen của nó tái tạo, {CASTER_pronoun} sẽ chết.</LetterTextGenesImplanted>
+  
+  <!-- EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
+  <RefugeePodCrashBaby>Một em bé có tên {PAWN_nameDef} từ {PAWN_factionName} đang bị rơi từ một chiếc phương tiện giao thông gần đó.\n\nBạn có thể chọn chấp nhận {PAWN_objective} bằng lệnh 'thông qua' hoặc bỏ qua {PAWN_objective}.</RefugeePodCrashBaby>
+  <!-- EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
+  <RefugeePodCrashBabyHasParent>Thi thể của người thân đã qua đời của {PAWN_nameDef} cũng được chứa trong nhóm vận chuyển.</RefugeePodCrashBabyHasParent>
+
+  <!-- EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
+  <LetterPsychicBondCreated>Tìm kiếm bạn đời theo bản năng, {BONDPAWN_nameDef} đã hình thành một mối quan hệ lãng mạn gắn bó về mặt tâm linh với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ được hưởng lợi về mặt tâm lý khi kết nối với {BONDPAWN_nameDef}, nhưng nếu tách biệt trên các vùng đất thế giới khác nhau, cả hai sẽ bị căng thẳng về tâm linh. Nếu một người chết, người kia sẽ phát điên.</LetterPsychicBondCreated>
+
+  <!-- EN: Psychic bond -->
+  <LetterPsychicBondCreatedLovinLabel>TODO</LetterPsychicBondCreatedLovinLabel>
+  <!-- EN: {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
+  <LetterPsychicBondCreatedLovinText>TODO</LetterPsychicBondCreatedLovinText>
+
+</LanguageData>

@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>bản án leo thang xâm lược</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>Bản án leo thang xâm lược</BerserkMechanoid.baseInspectLine>
+  
   <!-- EN: manhunter -->
   <Manhunter.label>thú săn người</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
@@ -31,6 +36,11 @@
   <PanicFlee.beginLetterLabel>trốn tránh</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
   <PanicFlee.recoveryMessage>{0} không còn chạy trốn trong hoảng loạn.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>Lang thang</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>Trạng thái tinh thần: Lang thang</Roaming.baseInspectLine>
   
   <!-- EN: social fighting -->
   <SocialFighting.label>Chiến đấu xã hội</SocialFighting.label>

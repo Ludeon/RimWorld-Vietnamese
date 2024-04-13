@@ -3,17 +3,27 @@
   
   <!-- EN: recruit -->
   <AttemptRecruit.label>trò chuyện và chiêu hàng</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Cai ngục sẽ cố gắng tuyển mộ tù nhân. Nếu tù nhân vẫn còn phản kháng, cai ngục sẽ nói chuyện với họ để giảm bớt nó.</AttemptRecruit.description>
   
   <!-- EN: execute -->
   <Execution.label>hành quyết</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>Một quản giáo sẽ xử tử tù nhân ngay tại chỗ bằng cách chém. Điều này có thể ảnh hưởng đến tâm trạng của các tù nhân và người thực dân khác.</Execution.description>
   
-  <!-- EN: no interaction -->
-  <NoInteraction.label>không tương tác</NoInteraction.label>
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>TODO</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>TODO</MaintainOnly.description>
   
-  <!-- EN: reduce resistance -->
+  <!-- EN: reduce resistance only -->
   <ReduceResistance.label>giảm sức kháng cự</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>Nếu tù nhân vẫn còn phản kháng, cai ngục sẽ nói chuyện với họ để giảm bớt nó. Sẽ không có nỗ lực tuyển dụng nào được thực hiện.</ReduceResistance.description>
   
   <!-- EN: release -->
   <Release.label>phóng thích</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>Quản giáo sẽ thả tù nhân.</Release.description>
   
 </LanguageData>

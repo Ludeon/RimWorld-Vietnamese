@@ -28,6 +28,9 @@
   <!-- EN: rotate right -->
   <Designator_RotateRight.label>xoay phải</Designator_RotateRight.label>
   
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>thay đổi hành động gỡ lỗi đã chọn</Dev_ChangeSelectedDebugAction.label>
+  
   <!-- EN: tick once -->
   <Dev_TickOnce.label>đánh dấu một lần</Dev_TickOnce.label>
   
@@ -45,6 +48,9 @@
   
   <!-- EN: toggle debug settings menu -->
   <Dev_ToggleDebugSettingsMenu.label>chuyển chế độ menu cài đặt gỡ lỗi</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle dev palette -->
+  <Dev_ToggleDevPalette.label>chuyển đổi bảng dev</Dev_ToggleDevPalette.label>
   
   <!-- EN: toggle god mode -->
   <Dev_ToggleGodMode.label>chuyển chế độ thần thánh</Dev_ToggleGodMode.label>
@@ -112,6 +118,9 @@
   <!-- EN: next colonist -->
   <NextColonist.label>cư dân tiếp theo</NextColonist.label>
   
+  <!-- EN: open search window -->
+  <OpenMapSearch.label>TODO</OpenMapSearch.label>
+  
   <!-- EN: previous colonist -->
   <PreviousColonist.label>cư dân trước</PreviousColonist.label>
   
@@ -121,14 +130,26 @@
   <!-- EN: select next in cell -->
   <SelectNextInCell.label>chọn tiếp theo trong ô</SelectNextInCell.label>
   
+  <!-- EN: show cell inspector -->
+  <ShowCellInspector.label>hiển thị thanh tra tế bào</ShowCellInspector.label>
+  
+  <!-- EN: show eyedropper -->
+  <ShowEyedropper.label>hiển thị eyedropper</ShowEyedropper.label>
+  
   <!-- EN: take screenshot -->
   <TakeScreenshot.label>chụp màn hình</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
   <TimeSpeed_Fast.label>tốc độ trò chơi: nhanh</TimeSpeed_Fast.label>
   
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>tốc độ trò chơi: Nhanh hơn</TimeSpeed_Faster.label>
+  
   <!-- EN: game speed: Normal -->
   <TimeSpeed_Normal.label>tốc độ trò chơi: Bình thường</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>tốc độ trò chơi: Chậm hơn</TimeSpeed_Slower.label>
   
   <!-- EN: game speed: Super fast -->
   <TimeSpeed_Superfast.label>tốc độ trò chơi: siêu nhanh</TimeSpeed_Superfast.label>

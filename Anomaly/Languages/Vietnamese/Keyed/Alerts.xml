@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Dangerous activity levels -->
+  <ActivityMultipleDangerous>Mức độ Hoạt động Nguy hiểm</ActivityMultipleDangerous>
+  <!-- EN: These entities are at dangerously high activity levels -->
+  <ActivityDangerousDesc>Các thực thể này có hoạt động nguy hiểm cao</ActivityDangerousDesc>  
+  <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
+  <ActivityDangerousDescAppended>Khi một thực thể đạt hoạt động 100%, nó sẽ trở nên nguy hiểm.\n\nGửi cai ngục của bạn để trấn áp, hoặc cho phép tự động trấn áp trong thẻ hoạt động của thực thể.</ActivityDangerousDescAppended>
+
+  <!-- EN: Need anomaly project -->
+  <NeedAnomalyProject>Cần dự án dị thường</NeedAnomalyProject>
+  <!-- EN: You have an entity marked for study but don't have a matching anomaly research project selected: -->
+  <NeedAnomalyProjectDesc>Bạn đánh dấu một thực thể cần nghiên cứu nhưng chưa chọn dự án dị thường phù hợp:</NeedAnomalyProjectDesc>
+  <!-- EN: Need {NAME} anomaly research project -->
+  <NeedAnomalyProjectDescLine>Cần dự án nghiên cứu dị thường {NAME}</NeedAnomalyProjectDescLine>
+  <!-- EN: Open the research menu and select a project on the anomaly tab.\n\nYou can have a basic and an advanced research project selected at the same time.\n\n(Click to open the research menu.) -->
+  <NeedAnomalyProjectDescAppended>Mở trình đơn nghiên cứu và chọn dự án trong thẻ dị thường.\n\nBạn có thể chọn cả dự án cơ bản và nâng cao cùng lúc.\n\n(Nhấp để mở trình đơn nghiên cứu.)</NeedAnomalyProjectDescAppended>
+
+  <!-- EN: Visitor ignored -->
+  <CreepJoinerTimeout>Khách tham quan bị phớt lờ</CreepJoinerTimeout>
+  <!-- EN: The following visitors feel ignored and are becoming increasingly upset -->
+  <CreepJoinerTimeoutDesc>Những vị khách sau thấy bị phớt lờ và đang dần khó chịu</CreepJoinerTimeoutDesc>
+  <!-- EN: Select a colonist and right-click on the visitor.\n\nAct quickly... they don't like being ignored. -->
+  <CreepJoinerTimeoutDescAppended>Chọn một cư dân và nhấp chuột phải vào vị khách.\n\nHành động nhanh... họ không thích bị phớt lờ.</CreepJoinerTimeoutDescAppended>
+
+  <!-- EN: Undercave unstable -->
+  <Alert_UndercaveUnstable>Hầm ngầm không ổn định</Alert_UndercaveUnstable>
+  <!-- EN: The undercave has become unstable and will collapse soon.\n\nGet your colonists out before it's too late. -->
+  <Alert_UndercaveUnstableDesc>Hầm ngầm trở nên không ổn định và sẽ sớm sụp đổ.\n\nĐưa cư dân ra ngoài trước khi quá muộn.</Alert_UndercaveUnstableDesc>
+
+  <!-- EN: Cultist psychic ritual -->
+  <Alert_CultistPsychicRitual>Nghi lễ tâm linh của Tín đồ</Alert_CultistPsychicRitual>
+  <!-- EN: {INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire. -->
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} đã bắt đầu {RITUAL_definite}. Nếu bạn không ngăn chặn {INVOKER_objective}, hậu quả có thể rất nghiêm trọng.</Alert_CultistPsychicRitualDesc>
+
+  <!-- EN: Ghoul starvation -->
+  <AlertMeatHunger>Ghoul đói</AlertMeatHunger>
+  <!-- EN: These ghouls hunger for raw meat -->
+  <AlertMeatHungerDesc>Những ghoul này đói thịt sống</AlertMeatHungerDesc>
+  <!-- EN: They may attack if they're not fed soon. Get them some meat. -->
+  <AlertMeatHungerDescAppended>Chúng có thể sẽ tấn công nếu không được cho ăn sớm. Hãy tìm thịt cho chúng.</AlertMeatHungerDescAppended>
+  
+  <!-- EN: Pit gate opening -->
+  <AlertEmergingPitGate>Cổng vực thẳm đang mở</AlertEmergingPitGate>
+  <!-- EN: The ground is collapsing in on itself. A pit gate will soon form. -->
+  <AlertEmergingPitGateDesc>Mặt đất sắp sụp vào chính nó. Một cổng vực thẳm sẽ sớm hình thành.</AlertEmergingPitGateDesc>
+
+  <!-- EN: Insufficient containment -->
+  <Alert_InsufficientContainment>Giam giữ không đủ</Alert_InsufficientContainment>
+  <!-- EN: The following entities are being held in rooms that do not meet their minimum containment strength -->
+  <Alert_InsufficientContainmentDesc>Các thực thể sau đang bị nhốt trong phòng không đạt độ chắc chắn tối thiểu</Alert_InsufficientContainmentDesc>
+  <!-- EN: They will escape soon. Build stronger walls, doors, or other containment devices to hold them. -->
+  <Alert_InsufficientContainmentDescAppended>Chúng sẽ sớm trốn thoát. Xây dựng tường, cửa hoặc các thiết bị giam giữ khác chắc chắn hơn để kiềm chế chúng.</Alert_InsufficientContainmentDescAppended>
+
+  <!-- EN: Holding platforms needed -->
+  <AlertHoldingPlatform>Cần bệ giam giữ</AlertHoldingPlatform>
+  <!-- EN: Build holding platforms or place holding spots to contain and study captured entities. -->
+  <AlertHoldingPlatformDesc>Xây dựng bệ giam giữ hoặc đặt các điểm giam giữ để chứa và nghiên cứu các thực thể bị bắt.</AlertHoldingPlatformDesc>
+
+  <!-- EN: Cube withdrawal -->
+  <AlertCubeWithdrawal>Hội chứng Cai nghiện khối lập phương</AlertCubeWithdrawal>
+  <!-- EN: The following people are suffering from cube withdrawal -->
+  <AlertCubeWithdrawalDesc>Những người sau đây đang có hội chứng cai nghiện khối lập phương</AlertCubeWithdrawalDesc>
+  <!-- EN: Their skin itches and their mind races, craving closeness to the golden cube. Their symptoms will worsen until they can play with the cube.\n\nEnsure that they have free time and can reach the golden cube. -->
+  <AlertCubeWithdrawalDescAppended>Da họ ngứa ngáy và tâm trí rối loạn, thèm được ở gần khối lập phương vàng. Triệu chứng sẽ xấu đi cho đến khi họ chơi được với khối lập phương.\n\nĐảm bảo họ có thời gian rảnh và có thể tiếp cận khối lập phương.</AlertCubeWithdrawalDescAppended>
+
+  <!-- EN: Devourer digestion -->
+  <AlertDigestion>Quá trình tiêu hóa của Kẻ nuốt chửng</AlertDigestion>
+  <!-- EN: The following people or creatures are being digested by a devourer -->
+  <AlertDigestionDesc>Những người hoặc sinh vật sau đang bị Kẻ nuốt chửng tiêu hóa</AlertDigestionDesc>
+  <!-- EN: Kill the devourer to release them before it's too late. -->
+  <AlertDigestionDescAppended>Giết Kẻ nuốt chửng để giải thoát họ trước khi quá muộn.</AlertDigestionDescAppended>
+  
+  <!-- EN: Inhibitor blocked -->
+  <AlertInhibitorBlocked>Thiết bị ức chế bị chặn</AlertInhibitorBlocked>
+  <!-- EN: One of your electric inhibitors is not functional because it’s blocked by another building.\n\nClear the space in front of the electric inhibitor. -->
+  <AlertInhibitorBlockedDesc>Một trong những thiết bị ức chế điện của bạn không hoạt động vì đang bị một công trình khác chặn.\n\nDọn dẹp không gian phía trước thiết bị ức chế điện.</AlertInhibitorBlockedDesc>
+
+  <!-- EN: Entity treatment needed -->
+  <EntityNeedsTreatment>Thực thể cần điều trị</EntityNeedsTreatment>
+  <!-- EN: These entities need medical treatment. Without it, they may die in captivity.\n{0}\n\nSend a doctor to treat them. -->
+  <EntityNeedsTreatmentDesc>Các thực thể này cần được điều trị y tế. Nếu không, chúng có thể chết.\n{0}\n\nGửi bác sĩ đến điều trị cho chúng.</EntityNeedsTreatmentDesc>
+
+  <!-- EN: Ghoul hypothermia -->
+  <AlertGhoulHypothermia>Ghoul bị hạ thân nhiệt</AlertGhoulHypothermia>
+  <!-- EN: These ghouls are suffering from hypothermia:\n{0}\n\nGet them to warmer temperatures. -->
+  <AlertGhoulHypothermiaDesc>Những ghoul này đang bị hạ thân nhiệt:\n{0}\n\nĐưa chúng đến nơi ấm hơn.</AlertGhoulHypothermiaDesc>
+  
+  <!-- EN: Gray flesh -->
+  <AlertGrayFleshSample>Mẫu thịt Xám</AlertGrayFleshSample>
+  <!-- EN: You’ve discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
+  <AlertGrayFleshSampleDesc>Bạn đã phát hiện ra một dải mô thịt. Hãy phân tích nó để tìm hiểu thêm về dấu hiệu sinh học.</AlertGrayFleshSampleDesc>
+  <!-- EN: Neural lump -->
+  <AlertNeuralLump>Khối thần kinh</AlertNeuralLump>
+  <!-- EN: A fleshmass nerve bundle has dropped a neural lump. Analyze it to learn how to kill the fleshmass heart. -->
+  <AlertNeuralLumpDesc>Một khối thịt thần kinh đã rơi ra một khối thần kinh. Phân tích nó để tìm cách giết trái tim khối thịt.</AlertNeuralLumpDesc>
+  <!-- EN: Revenant flesh -->
+  <AlertRevenantFlesh>Thịt Revenant</AlertRevenantFlesh>
+  <!-- EN: The wounded revenant left behind a piece of itself. Analyze it to learn how to track the revenant. -->
+  <AlertRevenantFleshDesc>Revenant bị thương đã để lại một phần cơ thể. Hãy phân tích để học cách lần theo dấu vết của Revenant.</AlertRevenantFleshDesc>
+
+</LanguageData>

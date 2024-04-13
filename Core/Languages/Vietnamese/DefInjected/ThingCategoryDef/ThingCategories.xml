@@ -4,17 +4,26 @@
   <!-- EN: animal products -->
   <AnimalProductRaw.label>sản phẩm từ thú nuôi</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>động vật</Animals.label>
+  
   <!-- EN: apparel -->
   <Apparel.label>trang phục</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>áo giáp</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>hỗn tạp</ApparelMisc.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>trang phục quý phái</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>tiện ích</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>giáp mũ</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>nhân tạo</Artifacts.label>
@@ -23,22 +32,31 @@
   <BodyParts.label>bộ phận cơ thể</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>công nghệ cao</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>công nghệ sinh học</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>công nghệ máy móc</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>tự nhiên</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>bộ phận nhân tạo</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>bộ phận đơn giản</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>siêu công nghệ</BodyPartsUltra.label>
+  
+  <!-- EN: bookEffects -->
+  <BookEffects.label>TODO</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>TODO</Books.label>
   
   <!-- EN: buildings -->
   <Buildings.label>xây dựng</Buildings.label>
@@ -86,7 +104,7 @@
   <CorpsesInsect.label>xác côn trùng</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>xác mechanoid</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>xác cỗ máy chiến đấu cơ</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
   <Drugs.label>thuốc</Drugs.label>
@@ -113,10 +131,16 @@
   <Headgear.label>phụ kiện</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>phụ kiện</HeadgearNoble.label>
+  
+  <!-- EN: inert relics -->
+  <InertRelics.label>di tích trơ</InertRelics.label>
   
   <!-- EN: items -->
   <Items.label>vật phẩm</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>hỗn tạp</ItemsMisc.label>
   
   <!-- EN: leathers -->
   <Leathers.label>da thuộc</Leathers.label>
@@ -134,10 +158,13 @@
   <MortarShells.label>đạn pháo</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>bộ dẫn truyền thần kinh</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>bộ dẫn truyền tinh thần</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>kỹ năng huấn luyện</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>rau củ</PlantFoodRaw.label>
@@ -145,11 +172,20 @@
   <!-- EN: plant matter -->
   <PlantMatter.label>thực vật</PlantMatter.label>
   
+  <!-- EN: plants -->
+  <Plants.label>thực vật</Plants.label>
+  
+  <!-- EN: research -->
+  <ResearchGain.label>TODO</ResearchGain.label>
+  
   <!-- EN: raw resources -->
   <ResourcesRaw.label>tài nguyên thô</ResourcesRaw.label>
   
   <!-- EN: root -->
   <Root.label>gốc</Root.label>
+  
+  <!-- EN: skill gain -->
+  <SkillGain.label>TODO</SkillGain.label>
   
   <!-- EN: stone blocks -->
   <StoneBlocks.label>đá cắt</StoneBlocks.label>
@@ -157,8 +193,11 @@
   <!-- EN: stone chunks -->
   <StoneChunks.label>đá tảng</StoneChunks.label>
   
+  <!-- EN: stumps -->
+  <Stumps.label>gốc cây</Stumps.label>
+  
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>dấu ấn</Techprints.label>
   
   <!-- EN: textiles -->
   <Textiles.label>dệt may</Textiles.label>
@@ -172,10 +211,13 @@
   <!-- EN: melee weapons -->
   <WeaponsMelee.label>cận chiến</WeaponsMelee.label>
   
-  <!-- EN: bladelink weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>vũ khí persona</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>tầm xa</WeaponsRanged.label>
+  <WeaponsRanged.label>vũ khí tầm xa</WeaponsRanged.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>len</Wools.label>
   
 </LanguageData>

@@ -2,7 +2,10 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>Thuộc tính</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>động vật sinh sản</AnimalProductivity.label>
   
   <!-- EN: Apparel -->
   <Apparel.label>Trang phục</Apparel.label>
@@ -11,31 +14,46 @@
   <Basics.label>Cơ bản</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>TODO</BasicsImportant.label>
+  <BasicsImportant.label>Cơ bản</BasicsImportant.label>
   
   <!-- EN: Basics -->
   <BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>Cơ bản</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
   <BasicsPawn.label>Cơ bản</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>Cơ bản</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
   <Building.label>Xây dựng</Building.label>
   
-  <!-- EN: capacity effects -->
-  <CapacityEffects.label>TODO</CapacityEffects.label>
+  <!-- EN: effects -->
+  <CapacityEffects.label>hiệu ứng năng lực</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>Thuốc</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>nghiện thuốc</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>Tùy chỉnh khi trang bị</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>Di truyền học</Genetics.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>Cấy ghép</Implant.label>
+  
+  <!-- EN: Mechanoid -->
+  <Mechanoid.label>Mechanoid</Mechanoid.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>Thiền</Meditation.label>
   
   <!-- EN: Combat -->
   <PawnCombat.label>Chiến đấu</PawnCombat.label>
@@ -49,6 +67,9 @@
   <!-- EN: Work -->
   <PawnWork.label>Công việc</PawnWork.label>
   
+  <!-- EN: content source -->
+  <Source.label>nội dung nguồn</Source.label>
+  
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>Tỷ lệ khi trang bị làm từ vật này</StuffOfEquipmentStatFactors.label>
   
@@ -61,7 +82,16 @@
   <!-- EN: Surgical -->
   <Surgery.label>Phẫu thuật</Surgery.label>
   
+  <!-- EN: terrain -->
+  <Terrain.label>địa hình</Terrain.label>
+  
   <!-- EN: Weapon -->
   <Weapon.label>Vũ khí</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Vũ khí (cận chiến)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Vũ khí (tầm xa)</Weapon_Ranged.label>
   
 </LanguageData>

@@ -10,11 +10,11 @@
   <BreakRiskMajor>Nguy cơ suy sụp lớn</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Nguy cơ suy sụp ngiêm trọng</BreakRiskExtreme>
-  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
   <BreakRiskMinorDesc>Những cư dân này có tâm trạng xấu và có thể dẫn đến nguy cơ suy sụp nhỏ bất cứ lúc nào:\n\n{0}</BreakRiskMinorDesc>
-  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
   <BreakRiskMajorDesc>Những cư dân này có tâm trạng xấu và có thể dẫn đến nguy cơ suy sụp lớn bất cứ lúc nào:\n\n{0}</BreakRiskMajorDesc>
-  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
   <BreakRiskExtremeDesc>Những cư dân này có tâm trạng xấu và có thể dẫn đến nguy cơ suy sụp lớn (và có thể gây bạo loạn) bất cứ lúc nào:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân này để xem điều gì đang làm họ phiền muộn.\n\nĐể làm cho những cư dân cảm thấy tốt hơn, bạn có thể làm những việc như làm cho họ những bữa ăn ưa thích, cho họ nhiều giờ giải trí hơn mỗi ngày và những đồ vật giải trí đẹp hơn, đặt chúng trong những môi trường đẹp, cho họ uống và hút thuốc, và nhiều hơn nữa.</BreakRiskDescEnding>
@@ -23,8 +23,10 @@
   <ColonistNeedsRescue>Cư dân cần cứu hộ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Những cư dân cần cứu hộ</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Cần phòng thủ</NeedDefenses>
@@ -33,7 +35,7 @@
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Cần bác sĩ</NeedDoctor>
-  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Những cư dân này cần được chăm sóc y tế, nhưng bạn không có cư dân khỏe mạnh được chỉ định làm bác sĩ.\n\n{0}\nChỉ định một cư dân khỏe mạnh cho loại công việc Bác sĩ. Nếu không được điều trị, vết thương có thể không bao giờ lành đúng cách và có thể trở thành vĩnh viễn.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
@@ -65,37 +67,37 @@
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>Cư dân bị bỏ mặc</AlertColonistLeftUnburied>
-  <!-- EN: A colonist is left unburied.\n\nThis may negatively affects your colonists mood. -->
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>Một cư dân bị bỏ mặc.\n\n Điều này có thể ảnh hưởng tiêu cực đến tâm trạng cư dân của bạn.</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks ranged weapon -->
+  <!-- EN: Hunter lacks suitable weapon -->
   <HunterLacksWeapon>Thợ săn thiếu vũ khí tầm xa</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
+  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>Một cư dân được chỉ định làm thợ săn nhưng không có vũ khí tầm xa.\n\nHọ sẽ không đi săn cho đến khi họ mang theo vũ khí tầm xa.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Trang phục rách rưới</AlertTatteredApparel>
-  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>Những cư dân của bạn đang mặc trang phục rách nát, điều đó làm họ buồn:\n\n{0}\nHãy cho họ một số trang phục không bị hư hỏng nặng.\n\nBạn có thể may trang phục tại bàn may, hoặc mua nó từ thương nhân.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Khỏa thân không vui đâu nha</AlertUnhappyNudity>
-  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudity>Không thích khỏa thân</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>Những cư dân này đang khỏa thân và họ không hài lòng về điều đó:\n\n{0}\nHãy cho họ một ít trang phục để mặc.\n\nBạn có thể may trang phục tại bàn may, hoặc mua nó từ thương nhân.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>Sắp chết đói</Starvation>
-  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
   <StarvationDesc>Những cư dân đang sắp chết đói:\n\n{0}\nHãy cho họ ít thức ăn.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Động vật sắp chết đói</StarvationAnimals>
-  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
   <StarvationAnimalsDesc>Những con vật này đang gần chết đói:\n\n{0}\nHãy cho chúng ít thức ăn.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Kiệt sức</Exhaustion>
-  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Những cư dân đang kiệt sức và cần nghỉ ngơi:\n\n{0}\nHãy cho họ nghỉ ngơi. Họ sẽ cần một chiếc giường dành cho cư dân. Ngoài ra, hãy chắc chắc rằng chúng không được chỉ định cho cá nhân cụ thể.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
@@ -123,13 +125,17 @@
 
   <!-- EN: Boredom -->
   <Boredom>Chán ngẫy</Boredom>
-  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
   <BoredomDesc>Những người này có nhu cầu giải trí hoặc được giao cho giải trí, nhưng họ chán mọi nguồn giải trí có sẵn:\n\n{0}\n\nCho họ thêm một số giải trí đa dạng.\n\nCác loại hình giải trí hiện có cho {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Cần pin</NeedBatteries>
-  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
   <NeedBatteriesDesc>Bạn có một máy phát điện năng lượng mặt trời hoặc tubin gió, nhưng không có pin. Điều này có nghĩa là bạn sẽ mất điện mỗi khi mặt trời lặn hoặc gió quá nhẹ.\n\nXây dựng một hoặc hai pin để đảm bảo năng lượng bền vững.</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>Chế tạo một hoặc hai cục pin để đảm bảo nguồn điện bền vững.</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>Nghiên cứu pin và chế tạo một cặp để đảm bảo nguồn điện bền vững.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Kẻ nóng nảy có vũ khí tầm xa</BrawlerHasRangedWeapon>
@@ -143,32 +149,34 @@
 
   <!-- EN: Need research project -->
   <NeedResearchProject>Cần dự án nghiên cứu</NeedResearchProject>
-  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>Bạn có thiết bị để thực hiện nghiên cứu nhưng chưa chọn dự án.\n\nMở mục nghiên cứu và chọn dự án.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} cư dân đang nhàn rỗi</ColonistsIdle>
-  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>Những cư dân này đang lang thang nhàn rỗi:\n\n{0}\nBạn có lẽ nên tìm cho họ một cái gì đó hữu ích để làm.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>Đoàn lữ hành nhàn rỗi</CaravanIdle>
-  <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
   <CaravanIdleDesc>Những đoàn lữ hành này đang chờ bạn đặt điểm đến tiếp theo của họ:\n\n{0}</CaravanIdleDesc>
 
-  <!-- EN: Colonist needs treatment -->
+  <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Cư dân cần điều trị y tế</ColonistNeedsTreatment>
-  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>Những cư dân cần điều trị y tế. Không có nó, họ có thể chết vì vết thương, hoặc vết thương của họ có thể trở thành di chứng.\n\n{0}\nĐiều trị cho họ bằng cách gửi họ đến giường y tế.\n\n(Đầu tiên, chỉ định một chiếc giường y tế bằng cách chọn nó và chuyển nó thành một chiếc giường y tế. Sau đó, chọn những cư dân bị thương và nhấp chuột phải vào giường y tế để chuyển họ thành bệnh nhân.)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>Những cư dân cần điều trị y tế. Không có nó, họ có thể chết vì vết thương, hoặc vết thương của họ có thể trở thành di chứng.\n\n{0}\nĐiều trị cho họ bằng cách gửi họ đến giường y tế.\n\n(Đầu tiên, chỉ định một chiếc giường y tế bằng cách chọn nó và chuyển nó thành một chiếc giường y tế. Sau đó, chọn những cư dân bị thương và nhấp chuột phải vào giường y tế để chuyển họ thành bệnh nhân.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hạ thân nhiệt</AlertHypothermia>
-  <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>Những cư dân này đang bị hạ thân nhiệt.\n\n{0}\nHãy chắc chắn rằng quần áo của họ phù hợp với mùa và không gian trong nhà được sưởi ấm đúng cách.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} bệnh nhân đang chờ phẫu thuật</PatientsAwaitingMedicalOperation>
-  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>Những bệnh nhân này đang chờ phẫu thuật y tế:\n\n{0}\nHãy chắc chắn rằng bạn có tất cả các dụng cụ y tế cần thiết và có sẵn một bác sĩ rảnh rỗi.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
@@ -178,15 +186,25 @@
 
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Cấp cứu y tế</PawnsWithLifeThreateningDisease>
-  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>Những người có nguy cơ tử vong vì bệnh nặng:\n\n{0}\nHãy chắc chắn rằng họ được chăm sóc y tế tốt nhất có thể.</PawnsWithLifeThreateningDiseaseDesc>
-  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Người có nguy cơ tử vong vì bệnh nặng:\n\n{0}\nNếu có thể, hãy cân nhắc cắt cụt hoặc thay thế các chi bị nhiễm bệnh để giữ cho cư dân sống.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>Bàn Bi-a cần khoảng trống</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
   <BilliardsNeedsSpaceDesc>Một trong những bàn bi-a của bạn liền kề với một vật cản sẽ ngăn chặn cư dân sử dụng nó.\n\nMột bàn bi-a cần không gian trống xung quanh nó ở mọi phía để có thể sử dụng được.</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>Bàn cờ cần ghế</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>Một trong các bàn cờ vua của bạn không có bất kỳ chiếc ghế liền kề nào.\n\nHãy dựng những chiếc ghế hoặc ghế đẩu liền kề để cho phép những người thuộc địa của bạn sử dụng bàn cờ vua. Tối đa hai người có thể sử dụng một bàn cờ cùng một lúc.</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>Bàn poker cần ghế</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>Một trong các bàn chơi bài poker của bạn không có bất kỳ chiếc ghế nào liền kề.\n\nLàm những chiếc ghế hoặc ghế đẩu liền kề để cho phép những người thuộc địa của bạn sử dụng bàn chơi bài xì phé. Lên đến tám người có thể sử dụng một bàn poker cùng một lúc.</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>Thợ săn mang khiên và vũ khí tầm xa</HunterHasShieldAndRangedWeapon>
@@ -200,7 +218,7 @@
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1All>Tất cả các cư dân của bạn sẽ thiếu quần áo ấm khi mùa lạnh đến.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>Nhiệt độ ngoài trời là {0}.\n\nBạn có thể may quần áo ấm tại băng ghế may, hoặc mua chúng từ thương nhân.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Nhiệt độ ngoài trời là {0}.\n\nBạn có thể may quần áo ấm tại bàn may, hoặc mua chúng từ thương nhân.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Đoàn lữ hành không thể di chuyển</ImmobileCaravan>
@@ -214,18 +232,27 @@
 
   <!-- EN: Heatstroke -->
   <AlertHeatstroke>Say nắng</AlertHeatstroke>
-  <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
   <AlertHeatstrokeDesc>Những người sau đây đang bị say nắng:\n\n{0}\nĐưa họ đến một khu vực mát mẻ. Bạn có thể hạ nhiệt phòng bằng máy làm mát thủ công hoặc máy lạnh. Không gian ngầm sâu cũng tự nhiên mát mẻ, nếu cách biệt với ngoài trời bằng một cánh cửa.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Khách không vui</QuestPartMoodBelowThreshold>
-  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
   <QuestPartMoodBelowThresholdDesc>Nhiệm vụ {0} yêu cầu bạn giữ cho người này có tâm trạng tốt. Tuy nhiên, tâm trạng của họ rất kém. Thực hiện một số hành động để làm cho họ cảm thấy tốt hơn:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Tàu con thoi đi trong {0}</QuestPartShuttleLeaveDelay>
-  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>Tàu con thoi sẽ rời đi trong {1}. Nhiệm vụ {0} yêu cầu bạn tải những người hoặc vật phẩm sau lên tàu trước khi nó rời đi:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>Tàu con thoi sẽ rời đi trong {0}.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>Xe đưa đón đến trong {0}</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>Xe đưa đón sẽ đến sau {1}. Nhiệm vụ {0} yêu cầu bạn tải những người hoặc vật phẩm sau lên tàu con thoi trước khi nó khởi hành:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>Xe đưa đón sẽ đến trong {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
   <DisallowedBuildingInsideMonument>Di tích sẽ bị phá hủy</DisallowedBuildingInsideMonument>
@@ -235,14 +262,76 @@
   <!-- EN: Countdown activator {0} -->
   <ActivatorCountdown>Kích hoạt đếm ngược {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Có một cái gì đó kích hoạt đếm ngược, chuẩn bị đánh thức các cỗ máy chiến đấu cơ gần đó.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
   <ActivatorCountdownMultiple>{0} bộ đếm ngược bị kích hoạt </ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>Có {0} bộ kích hoạt đếm ngược, chuẩn bị đánh thức các mechanoids gần đó.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Có {0} bộ kích hoạt đếm ngược, chuẩn bị đánh thức các cỗ máy chiến đấu cơ gần đó.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
   <QuestExpiresSoon>Nhiệm vụ hết hạn trong {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
   <QuestExpiresSoonDesc>Nhiệm vụ '{0}' sẽ hết hạn trong {1}.</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>Chất thải động vật</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>Động vật sinh ra chất thải ở trong nhà trên sàn sạch.\n\nĐộng vật thải ra một lượng rất lớn chất thải khi di chuyển trên sàn bình thường. Giữ những con vật thải ra chất thải ở ngoài trời hoặc trên thảm rơm nơi chúng sẽ thải ra ít chất thải hơn nhiều.\n\nBạn có thể kiểm tra tỷ lệ sản xuất chất thải của một con vật trong số liệu thống kê của nó bằng cách nhấp vào nút 'i'.\n\nCác con vật này là vấn đề:\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>Cần chuồng</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>Một số động vật thuần hóa của bạn là những kẻ lang thang. Nếu không được nuôi trong chuồng thú, chúng sẽ đi lang thang.</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>Bạn không có bất kỳ cư dân nào để đưa động vật vào chuồng.\n\nHãy chỉ định một cư dân cho loại công việc Xử lý.</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>Tạo chuồng vật bằng cách xây dựng chuồng bên trong khu vực có hàng rào, rào chắn hoặc tường bao quanh. Chọn chuồng đánh dấu để xem nó chấp nhận những con vật nào và chuồng của bạn có thể hỗ trợ bao nhiêu con vật.\n\nNgười xử lý động vật của bạn sẽ tự động đưa động vật đến chuồng được chỉ định.\n\nMột chuồng cần có cửa hoặc cổng để nhận động vật.</AlertAnimalPenNeededDescExplanation>
+  
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>Chuồng không bao kín</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>Chuồng nhốt động vật không được bao kín.\n\nĐóng chuồng bằng cách sử dụng hàng rào, rào chắn, cổng, tường hoặc cửa để ngăn động vật đi lang thang ra ngoài.\n\nNếu bạn chỉ có chuồng không được bao bọc, người xử lý của bạn vẫn có thể dẫn động vật đi lang thang trở về nhà - nhưng điều này phải được lặp lại theo thời gian khi các con vật đi lang thang một lần nữa.</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} trong chuồng động vật</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>Một con {ANIMAL_labelShort} săn mồi đã lạc vào chuồng thú.\n\nNó có thể quyết định săn bắt động vật của bạn.\n\nBạn có thể giết nó hoặc chờ đợi và hy vọng nó rời đi.</AlertPredatorInAnimalPenDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>Động vật đi lang thang</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
+  <AlertAnimalIsRoamingDesc>Một số con vật được thuần hóa của bạn là những kẻ lang thang và đã bắt đầu đi lang thang. Nếu đến rìa bản đồ, cuối cùng chúng sẽ rời đi.\n\nNếu bạn có một chuồng thú kèm theo, những người xử lý động vật của bạn có thể đưa con vật trở lại. Động vật trong chuồng động vật sẽ không chạy mất.\n\nCác động vật sau đây đang chuyển vùng:\n\n{0}</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>Động vật đói khát</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
+  <AlertPennedAnimalHungryDesc>Một số động vật trong chuồng của bạn đang đói.\n\nChọn chuồng và sử dụng tab Thức ăn để xem chi tiết hơn.\n\nĐộng vật ăn cỏ có thể cần chuồng lớn hơn để cung cấp đủ cỏ. Các động vật khác có thể cần được cung cấp cỏ khô hoặc thức ăn tương tự bằng cách sử dụng kho dự trữ.\n\nCác động vật có chuồng sau đang đói:\n\n{0}</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Hungry hitched animal -->
+  <AlertHitchedAnimalHungryNoFood>động vật đói quá giang</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>Một số động vật bị buộc phải quá giang vì đang đói. Có thể không có bất kỳ thức ăn phù hợp nào trong tầm với của chúng.\n\nHãy mang thức ăn cho chúng hoặc dỡ bỏ mặc để chúng có thể tự tìm thức ăn.\n\nNhững con vật bị mắc kẹt sau đây đang đói:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>Cuộc đột kích diễn ra trong {0}</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>Kẻ thù đã bị thu hút bởi các vị trí tiếp và sẽ sớm bắt đầu đến đó.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>Đến {0} trong {1}</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>Phe phái sẽ trở thành thù địch nếu bạn ở lại</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Các phe phái này sẽ trở thành thù địch nếu bạn ở lại lâu hơn tại khu định cư hoặc tiền đồn của họ:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>{0} cây chết</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>{0} cây chiết sẽ chết trong vòng chưa đầy một ngày. Điều này sẽ khiến một số người thực dân không hài lòng vì niềm tin của họ.\n\nBạn có thể ngăn chặn điều này bằng cách trồng lại những cây này.</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>Cần bàn nghiên cứu</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>Bạn có một dự án nghiên cứu đang hoạt động '{0}'. Dự án này yêu cầu bạn xây dựng {1}.</NeedResearchBenchDesc>
+  
 </LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blind healer -->
+  <Blindhealer.label>Thầy thuốc mù</Blindhealer.label>
+  <!-- EN: A blind healer is approaching the colony. -->
+  <Blindhealer.letterLabel>Thầy thuốc mù đến thuộc địa</Blindhealer.letterLabel>
+  <!-- EN: A small, withered {PAWN_genderNoun} stands in front of you. Where {PAWN_possessive} eyes should be, there are only scar-crusted holes in {PAWN_possessive} flesh. Yet, even without eyes, {PAWN_pronoun} somehow looks at you with kindness. {PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
+  <Blindhealer.letterPrompt>Một {PAWN_genderNoun} nhỏ bé, héo hon đứng trước bạn. Thay cho đôi mắt của {PAWN_pronoun} chỉ là những vết sẹo trên khuôn mặt. Tuy vậy, dẫu không có mắt, dường như {PAWN_pronoun} vẫn nhìn bạn với lòng tốt. {PAWN_pronoun} nói rằng {PAWN_pronoun} biết {PAWN_possessive} kỹ năng rất cần thiết ở đây và muốn được ở lại một thời gian.</Blindhealer.letterPrompt>
+  
+  <!-- EN: drifter -->
+  <CreepDrifter.label>Người lang thang</CreepDrifter.label>
+  <!-- EN: A visitor is approaching the colony. -->
+  <CreepDrifter.letterLabel>Khách vãng lai đến thuộc địa</CreepDrifter.letterLabel>
+  <!-- EN: The weary-looking drifter stretches {PAWN_possessive} legs. {PAWN_pronoun} seems very tired.\n\n{PAWN_pronoun} asks to stay in your colony for a while - at least until {PAWN_pronoun} has recovered {PAWN_possessive} strength. -->
+  <CreepDrifter.letterPrompt>Người lang thang với vẻ ngoài mệt mỏi đang duỗi chân. {PAWN_pronoun} dường như rất mệt.\n\n{PAWN_pronoun} xin được ở lại thuộc địa của bạn một thời gian - ít nhất là đến khi {PAWN_pronoun} hồi phục sức khỏe.</CreepDrifter.letterPrompt>
+  
+  <!-- EN: cult escapee -->
+  <CultEscapee.label>Người thoát giáo phái</CultEscapee.label>
+  <!-- EN: A mangled figure is approaching the colony. -->
+  <CultEscapee.letterLabel>Người trốn thoát giáo phái đến thuộc địa</CultEscapee.letterLabel>
+  <!-- EN: The mangled stranger stares at you with empty eyes and speaks in a broken voice. {PAWN_pronoun} claims to have escaped from a terrible cult and begs to join your colony. -->
+  <CultEscapee.letterPrompt>Người lạ bị thương nhìn chằm chằm vào bạn với đôi mắt trống rỗng và nói bằng giọng đứt quãng. {PAWN_pronoun} khẳng định đã trốn thoát khỏi một giáo phái đáng sợ và cầu xin gia nhập thuộc địa của bạn.</CultEscapee.letterPrompt>
+  
+  <!-- EN: dark scholar -->
+  <DarkScholar.label>Học giả hắc ám</DarkScholar.label>
+  <!-- EN: A dark scholar covered with twisted scars is approaching the colony. -->
+  <DarkScholar.letterLabel>Học giả hắc ám đến thuộc địa</DarkScholar.letterLabel>
+  <!-- EN: The dark scholar slouches in place, lifeless and silent. Only {PAWN_possessive} eyes seem alive, as if he could look inside you.\n\n{PAWN_pronoun} says that this is where {PAWN_pronoun} belongs and asks to stay for a while. {PAWN_possessive} tone indicates that {PAWN_pronoun} will not take 'no' for an answer. -->
+  <DarkScholar.letterPrompt>Học giả hắc ám thu mình tại chỗ, lặng im và vô hồn. Chỉ có ánh mắt của {PAWN_pronoun} dường như có sức sống, như thể có thể nhìn thấu tâm can bạn. {PAWN_pronoun} nói rằng nơi này là nơi {PAWN_pronoun} thuộc về và muốn ở lại một thời gian. Ngữ điệu của {PAWN_pronoun} cho thấy {PAWN_pronoun} sẽ không chấp nhận lời từ chối.</DarkScholar.letterPrompt>
+  
+  <!-- EN: deal maker -->
+  <DealMaker.label>Nhà thương thuyết</DealMaker.label>
+  <!-- EN: A stunningly good-looking stranger is approaching the colony. -->
+  <DealMaker.letterLabel>Người lạ muốn thỏa thuận</DealMaker.letterLabel>
+  <!-- EN: A stunningly good-looking stranger stands in front of you. {PAWN_possessive} face beams with confidence as {PAWN_pronoun} opens {PAWN_possessive} hands in a gesture of fellowship.\n\n{PAWN_pronoun} says {PAWN_pronoun} is here to make a deal and will help you in exchange for simple hospitality. This is {PAWN_possessive} purpose and {PAWN_pronoun} always fulfills {PAWN_possessive} purpose. -->
+  <DealMaker.letterPrompt>Một người lạ cực kỳ cuốn hút đứng trước mặt bạn. Khuôn mặt {PAWN_possessive} rạng rỡ tự tin khi {PAWN_pronoun} dang rộng tay thể hiện sự thân thiện.\n\n{PAWN_pronoun} cho biết {PAWN_pronoun} đến để thỏa thuận và sẽ giúp đỡ bạn để được tiếp đón. Đây là mục đích của {PAWN_pronoun} và {PAWN_pronoun} luôn hoàn thành cam kết.</DealMaker.letterPrompt>
+  
+  <!-- EN: leathery stranger -->
+  <LeatheryStranger.label>Người lạ với làn da thô ráp</LeatheryStranger.label>
+  <!-- EN: A ragged stranger with leathery skin is approaching your colony. -->
+  <LeatheryStranger.letterLabel>Người lạ với làn da thô ráp đến thuộc địa</LeatheryStranger.letterLabel>
+  <!-- EN: The leathery stranger stares into space and speaks in a monotone, as though {PAWN_pronoun} hardly sees anyone or anything. {PAWN_pronoun} refuses to leave, insisting {PAWN_pronoun} is only interested in your colony. {PAWN_pronoun} says that {PAWN_pronoun} can help. -->
+  <LeatheryStranger.letterPrompt>Người lạ với làn da thô ráp nhìn chằm chằm vào khoảng không và nói bằng giọng đều đều, như thể {PAWN_pronoun} chẳng nhìn thấy ai hay bất cứ điều gì. {PAWN_pronoun} từ chối rời đi, khẳng định rằng {PAWN_pronoun} chỉ quan tâm đến thuộc địa của bạn. {PAWN_pronoun} nói rằng {PAWN_pronoun} có thể giúp đỡ.</LeatheryStranger.letterPrompt>
+  
+  <!-- EN: lone genius -->
+  <LoneGenius.label>Thiên tài cô độc</LoneGenius.label>
+  <!-- EN: A lone figure is approaching the colony. -->
+  <LoneGenius.letterLabel>Người lạ cô độc đến thuộc địa</LoneGenius.letterLabel>
+  <!-- EN: The strange figure keeps muttering about some scientific breakthrough. All {PAWN_pronoun} needs is a laboratory. If you let {PAWN_objective} stay, {PAWN_pronoun} will share {PAWN_possessive} vast knowledge with you. It's hard to tell whether {PAWN_pronoun}'s insane or a genius - or both. -->
+  <LoneGenius.letterPrompt>Con người kỳ lạ đó liên tục lẩm bẩm về một bước đột phá khoa học nào đó. Tất cả những gì {PAWN_pronoun} cần là một phòng thí nghiệm. Nếu bạn cho {PAWN_objective} ở lại, {PAWN_pronoun} sẽ chia sẻ kiến thức sâu rộng của {PAWN_possessive} với bạn. Thật khó để nói {PAWN_pronoun} là kẻ điên hay một thiên tài - hay có thể là cả hai.</LoneGenius.letterPrompt>
+  
+  <!-- EN: timeless one -->
+  <TimelessOne.label>Người vượt thời gian</TimelessOne.label>
+  <!-- EN: A teenager is approaching the colony. {PAWN_pronoun} has a strange air of confidence around {PAWN_objective}. -->
+  <TimelessOne.letterLabel>Thiếu niên vượt thời gian đến thuộc địa</TimelessOne.letterLabel>
+  <!-- EN: {PAWN_nameDef} is barely more than a child but in {PAWN_possessive} thoughtful eyes you sense an ancient wisdom. When {PAWN_pronoun} speaks, the words seem to come from an unnatural knowledge of endless time. {PAWN_pronoun} says that the stars brought {PAWN_objective} here to fulfill {PAWN_possessive} destiny. {PAWN_pronoun} wants to stay with you and help. -->
+  <TimelessOne.letterPrompt>{PAWN_nameDef} chỉ là một thiếu niên nhưng trong đôi mắt trầm tư của {PAWN_pronoun}, bạn cảm nhận được một trí tuệ cổ xưa. Khi {PAWN_pronoun} nói, dường như lời nói phát ra từ kiến thức vô tận trải dài theo dòng thời gian. {PAWN_pronoun} nói rằng các vì sao đã đưa {PAWN_objective} đến đây để hoàn thành định mệnh của {PAWN_possessive}. {PAWN_pronoun} muốn ở lại và giúp đỡ bạn.</TimelessOne.letterPrompt>
+  
+</LanguageData>

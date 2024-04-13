@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter occupant speed -->
+  <BiosculpterOccupantSpeed.label>tốc độ người sử dụng kén sinh học đa năng</BiosculpterOccupantSpeed.label>
+  <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
+  <BiosculpterOccupantSpeed.description>Hệ số về mức độ nhanh chóng mà người này sẽ hoàn thành một chu kỳ trong kén sinh học đa năng</BiosculpterOccupantSpeed.description>
+  
+  <!-- EN: global certainty loss factor -->
+  <CertaintyLossFactor.label>hệ số mất chắc chắn</CertaintyLossFactor.label>
+  <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
+  <CertaintyLossFactor.description>Một hệ số về mức độ chắc chắn mà người này mất đi khi người khác cố gắng chuyển đổi họ khỏi lý tưởng của họ</CertaintyLossFactor.description>
+  
+  <!-- EN: conversion power -->
+  <ConversionPower.label>sức mạnh chuyển đổi</ConversionPower.label>
+  <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
+  <ConversionPower.description>Người này có hiệu quả như thế nào trong việc chuyển đổi người khác theo lý tưởng của riêng họ. Khi người này cố gắng chuyển đổi người khác, giá trị này sẽ nhân với mức độ chắc chắn mà người kia mất</ConversionPower.description>
+  
+  <!-- EN: melee dodge chance indoors dark -->
+  <MeleeDodgeChanceIndoorsDarkOffset.label>cơ hội né tránh cận chiến trong bóng tối</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors in the dark. -->
+  <MeleeDodgeChanceIndoorsDarkOffset.description>Một phần bù cho cơ hội né cận chiến nếu mục tiêu ở trong bóng tối</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance indoors lit -->
+  <MeleeDodgeChanceIndoorsLitOffset.label>cơ hội né tránh cận chiến trong khu vực có ánh sáng</MeleeDodgeChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors and lit. -->
+  <MeleeDodgeChanceIndoorsLitOffset.description>Một phần bù cho cơ hội né cận chiến nếu mục tiêu ở trong ánh sáng.</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors night -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>cơ hội né tránh cận chiến ngoài trời ban đêm</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors at night. -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>Một phần bù cho cơ hội né cận chiến nếu mục tiêu ở ngoài trời vào ban đêm</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors day -->
+  <MeleeDodgeChanceOutdoorsLitOffset.label>cơ hội né tránh cận chiến ngoài trời ban ngày</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors during the day. -->
+  <MeleeDodgeChanceOutdoorsLitOffset.description>Một phần bù cho cơ hội né cận chiến nếu mục tiêu ở ngoài trời vào ban ngày</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance indoors dark -->
+  <MeleeHitChanceIndoorsDarkOffset.label>cơ hội đánh cận chiến trong nhà tối</MeleeHitChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors in the dark. -->
+  <MeleeHitChanceIndoorsDarkOffset.description>Một phần bù cho cơ hội đánh cận chiến nếu mục tiêu ở trong nhà trong bóng tối</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance indoors lit -->
+  <MeleeHitChanceIndoorsLitOffset.label>cơ hội đánh cận chiến trong nhà có ánh sáng</MeleeHitChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors and lit. -->
+  <MeleeHitChanceIndoorsLitOffset.description>Một phần bù cho cơ hội đánh cận chiến nếu mục tiêu ở trong nhà có ánh sáng</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance outdoors dark -->
+  <MeleeHitChanceOutdoorsDarkOffset.label>cơ hội đánh cận chiến ngoài trời tối</MeleeHitChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors at night. -->
+  <MeleeHitChanceOutdoorsDarkOffset.description>Một phần bù cho cơ hội đánh cận chiến nếu mục tiêu ở ngoài trời vào trời tối.</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance outdoors lit -->
+  <MeleeHitChanceOutdoorsLitOffset.label>cơ hội đánh cận chiến ngoài trời sáng</MeleeHitChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors during the day. -->
+  <MeleeHitChanceOutdoorsLitOffset.description>Một phần bù cho cơ hội đánh cận chiến nếu mục tiêu ở ngoài trời vào ban ngày</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy indoors dark -->
+  <ShootingAccuracyIndoorsDarkOffset.label>bắn chính xác trong nhà tối</ShootingAccuracyIndoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors in the dark. -->
+  <ShootingAccuracyIndoorsDarkOffset.description>Sự bù trừ về độ chính xác khi bắn nếu mục tiêu ở trong nhà trong bóng tối.</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy indoors lit -->
+  <ShootingAccuracyIndoorsLitOffset.label>độ chính xác khi bắn trong nhà được chiếu sáng</ShootingAccuracyIndoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors and lit. -->
+  <ShootingAccuracyIndoorsLitOffset.description>Sự bù đắp về độ chính xác khi bắn nếu mục tiêu ở trong nhà và có ánh sáng</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors dark -->
+  <ShootingAccuracyOutdoorsDarkOffset.label>độ chính xác khi bắn ngoài trời tối</ShootingAccuracyOutdoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors at night. -->
+  <ShootingAccuracyOutdoorsDarkOffset.description>Sự bù trừ về độ chính xác khi bắn nếu mục tiêu ở ngoài trời vào ban đêm</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors lit -->
+  <ShootingAccuracyOutdoorsLitOffset.label>độ chính xác khi bắn ngoài trời sáng</ShootingAccuracyOutdoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors during the day. -->
+  <ShootingAccuracyOutdoorsLitOffset.description>Sự bù đắp về độ chính xác khi bắn nếu mục tiêu ở ngoài trời vào ban ngày</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <!-- EN: ideoligion spread chance -->
+  <SocialIdeoSpreadFrequencyFactor.label>cơ hội lây lan của tư tưởng</SocialIdeoSpreadFrequencyFactor.label>
+  <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
+  <SocialIdeoSpreadFrequencyFactor.description>Một cấp số nhân với cơ hội người này sẽ cố gắng chuyển đổi người khác thành lý tưởng của riêng họ</SocialIdeoSpreadFrequencyFactor.description>
+  
+</LanguageData>

@@ -1,9 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: animus stone -->
+  <AnimusStone.label>đá animus</AnimusStone.label>
+  <!-- EN: An ancient jade stone marked with sacred tribal carvings. Tribal psycasters can focus on these stones during meditation to increase their psyfocus gain more than a typical nature shrine.\n\nDifferent tribal cultures tell different stories about these stones, but most agree that they were crafted by an ancient world spirit during a time of great power. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <AnimusStone.description>Một viên đá ngọc bích cổ xưa được đánh dấu bằng chạm khắc linh thiêng của bộ lạc. Những người năng lực của bộ lạc có thể tập trung vào những viên đá này trong khi thiền để tăng khả năng tinh thần lực của họ hơn là một ngôi đền thiên nhiên điển hình.\n\nCác nền văn hóa bộ lạc khác nhau kể những câu chuyện khác nhau về những viên đá này, nhưng hầu hết đều đồng ý rằng chúng được tạo ra bởi một linh hồn thế giới cổ đại trong một thời gian của sức mạnh to lớn. Vì chúng trông giống như những vật thể tự nhiên đối với những người bên ngoài không quan tâm, nên những kẻ đột kích thường sẽ phớt lờ chúng.</AnimusStone.description>
+  
+  <!-- EN: meditation spot -->
+  <MeditationSpot.label>điểm thiền định</MeditationSpot.label>
+  <!-- EN: Designates a spot for meditation. Psycasters can meditate here to gain psyfocus. If a focus object like a sculpture is nearby, the psycaster will be able to focus on it to boost their psyfocus gain. However, different people are able to use different focus objects. -->
+  <MeditationSpot.description>Chỉ định một điểm để thiền. Những người năng lực có thể thiền ở đây để đạt được tâm lý. Nếu một đối tượng tập trung như một tác phẩm điêu khắc ở gần đó, người năng lực sẽ có thể tập trung vào nó để tăng khả năng tinh thần lực của họ. Tuy nhiên, những người khác nhau có thể sử dụng các đối tượng tập trung khác nhau.</MeditationSpot.description>
+  
+  <!-- EN: large nature shrine -->
+  <NatureShrine_Large.label>đền thờ thiên nhiên rộng lớn</NatureShrine_Large.label>
+  <!-- EN: A large shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <NatureShrine_Large.description>Một ngôi đền lớn để tôn vinh các sinh vật tâm linh. Những người điều khiển tâm thần bộ lạc có thể tập trung vào ngôi đền này trong khi thiền định để tăng khả năng tập trung tâm lý. Các đền thờ tự nhiên sẽ mất đi sức mạnh nếu chúng ở gần các cấu trúc nhân tạo, vì vậy chúng luôn được xây dựng trong tự nhiên. Vì chúng trông giống như những vật thể tự nhiên đối với những người bên ngoài không tinh ý, nên những kẻ đột kích thường sẽ bỏ qua chúng.</NatureShrine_Large.description>
+  
+  <!-- EN: small nature shrine -->
+  <NatureShrine_Small.label>đền thờ thiên nhiên nhỏ</NatureShrine_Small.label>
+  <!-- EN: A small shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <NatureShrine_Small.description>Một ngôi đền nhỏ để tôn vinh các sinh vật tâm linh. Những người điều khiển tâm thần bộ lạc có thể tập trung vào ngôi đền này trong khi thiền định để tăng khả năng tập trung tâm lý. Các đền thờ tự nhiên sẽ mất đi sức mạnh nếu chúng ở gần các cấu trúc nhân tạo, vì vậy chúng luôn được xây dựng trong tự nhiên. Vì chúng trông giống như những vật thể tự nhiên đối với những người bên ngoài không tinh ý, nên những kẻ đột kích thường sẽ bỏ qua chúng.</NatureShrine_Small.description>
+  
   <!-- EN: ship landing beacon -->
-  <ShipLandingBeacon.label>TODO</ShipLandingBeacon.label>
+  <ShipLandingBeacon.label>tín hiệu để tàu hạ cánh</ShipLandingBeacon.label>
   <!-- EN: Marks the corner of a landing area. Four of these placed at the corners of a clear area (minimum 9x9) create a landing pad. Spacecraft usually land on pads if possible. -->
-  <ShipLandingBeacon.description>TODO</ShipLandingBeacon.description>
+  <ShipLandingBeacon.description>Đánh dấu góc của một khu vực hạ cánh. Bốn trong số này được đặt ở các góc của một khu vực rõ ràng (tối thiểu 9x9) tạo ra một bãi đáp. Tàu vũ trụ thường hạ cánh trên miếng đệm nếu có thể.</ShipLandingBeacon.description>
   
 </LanguageData>

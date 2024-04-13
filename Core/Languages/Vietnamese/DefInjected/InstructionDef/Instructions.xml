@@ -10,6 +10,8 @@
   <AddBillSimpleMeal.rejectInputMessage>Vui lòng thêm một hóa đơn để nấu các bữa ăn đơn giản tại bếp nấu của bạn.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
   <AddBillSimpleMeal.text>Các dân cư cần được cho biết phải nấu gì.\n\nNhững đơn đặt hàng được thêm vào trên bếp. Khi một hóa đơn đã được tạo, cư dân sẽ tự động thực hiện công việc.\n\n1. Đợi bếp lò được chế tạo.\n2. Nhấp vào bếp để chọn nó.\n3. Mở tab HÓA ĐƠN.\n4. Nhấp vào THÊM HÓA ĐƠN.\n5. Chọn MÓN ĂN ĐƠN GIẢN trên menu ngữ cảnh.\n6. Nhấp vào nút + để tăng số đếm lên 10.\n\nNhớ, bạn có thể tăng tốc thời gian nếu việc xây dựng mất quá nhiều thời gian.\n\nBạn cũng có thể chọn một cư dân và nhấp chuột phải vào bếp để ưu tiên xây dựng nó.</AddBillSimpleMeal.text>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
+  <AddBillSimpleMeal.textController>Các dân cư cần được cho biết phải nấu gì.\n\nNhững đơn đặt hàng được thêm vào trên bếp. Khi một hóa đơn đã được tạo, cư dân sẽ tự động thực hiện công việc.\n\n1. Đợi bếp lò được chế tạo.\n2. Nhấp vào bếp để chọn nó.\n3. Mở tab HÓA ĐƠN.\n4. Nhấp vào THÊM HÓA ĐƠN.\n5. Chọn MÓN ĂN ĐƠN GIẢN trên menu ngữ cảnh.\n6. Nhấp vào nút + để tăng số đếm lên 10.\n\nNhớ, bạn có thể tăng tốc thời gian nếu việc xây dựng mất quá nhiều thời gian.\n\nBạn cũng có thể chọn một cư dân và nhấp chuột trái vào bếp để ưu tiên xây dựng nó.</AddBillSimpleMeal.textController>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>Xây dựng một chỗ ngủ động vật\trong phòng</BuildAnimalSleepingSpot.onMapInstruction>
@@ -23,7 +25,9 @@
   <!-- EN: Please build wooden beds inside the room. -->
   <BuildBeds.rejectInputMessage>Hãy xây giường gỗ bên trong phòng.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>cư dân của bạn bây giờ sẽ xây dựng phòng!\n\nBây giờ họ cần một nơi nào đó để ngủ. Đặt ba GIƯỜNG bên trong phòng.\n\nTìm chúng trong danh mục NỘI THẤT.\n\nBạn có thể sử dụng các phím {Key:Designator_RotateLeft} và {Key:Designator_RotateRight} để xoay tòa nhà.</BuildBeds.text>
+  <BuildBeds.text>Cư dân của bạn bây giờ sẽ xây dựng phòng!\n\nBây giờ họ cần một nơi nào đó để ngủ. Đặt ba GIƯỜNG bên trong phòng.\n\nTìm chúng trong danh mục NỘI THẤT.\n\nBạn có thể sử dụng các phím {Key:Designator_RotateLeft} và {Key:Designator_RotateRight} để xoay tòa nhà.</BuildBeds.text>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can rotate the building by pressing the rotate buttons on the left. -->
+  <BuildBeds.textController>Cư dân của bạn bây giờ sẽ xây dựng phòng!\n\nBây giờ họ cần một nơi nào đó để ngủ. Đặt ba GIƯỜNG bên trong phòng.\n\nHãy tìm chúng trong danh mục NỘI THẤT.\n\nBạn có thể xoay tòa nhà bằng cách nhấn các nút xoay ở bên trái.</BuildBeds.textController>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>Xây bếp lò chạy bằng nhiên liệu trong phòng</BuildFueledStove.onMapInstruction>
@@ -44,14 +48,14 @@
   <!-- EN: Please build a wooden door over one of your room walls. -->
   <BuildRoomDoor.rejectInputMessage>Vui lòng xây một cánh cửa gỗ trên một trong những bức tường phòng của bạn.</BuildRoomDoor.rejectInputMessage>
   <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
-  <BuildRoomDoor.text>Bây giờ chỉ cần đặt một CỬA trên bất kỳ một trong các bức tường của phòng.\n\nCỬA ở ngay bên cạnh TƯỜNG trong menu KIẾN TRÚC.</BuildRoomDoor.text>
+  <BuildRoomDoor.text>Bây giờ chỉ cần đặt một CỬA trên bất kỳ một trong các bức tường của phòng.\n\nCỬA ở ngay bên cạnh TƯỜNG trong menu KIẾN TẠO.</BuildRoomDoor.text>
   
   <!-- EN: Build walls -->
   <BuildRoomWalls.onMapInstruction>Xây tường</BuildRoomWalls.onMapInstruction>
   <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
   <BuildRoomWalls.rejectInputMessage>Hãy xây dựng các bức tường gỗ dọc theo các cạnh của hình chữ nhật nổi bật.</BuildRoomWalls.rejectInputMessage>
   <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
-  <BuildRoomWalls.text>Tuyệt vời! Tiếp theo, chúng ta sẽ xây dựng một phòng.\n\n1. Nhấp vào KIẾN TRÚC.\n2. Nhấp vào CẤU TRÚC.\n3. Chọn TƯỜNG.\n4.Chọn GỖ làm nguyên liệu.\n5.Kéo ra bốn bức tường để tạo thành hình dạng chỉ ra trên bản đồ.</BuildRoomWalls.text>
+  <BuildRoomWalls.text>Tuyệt vời! Tiếp theo, chúng ta sẽ xây dựng một phòng.\n\n1. Nhấp vào KIẾN TẠO.\n2. Nhấp vào KẾT CẤU.\n3. Chọn TƯỜNG.\n4.Chọn GỖ làm nguyên liệu.\n5.Kéo ra bốn bức tường để tạo thành hình dạng chỉ ra trên bản đồ.</BuildRoomWalls.text>
   
   <!-- EN: Build sandbags here -->
   <BuildSandbags.onMapInstruction>Xây dựng bao cát ở đây</BuildSandbags.onMapInstruction>
@@ -61,9 +65,9 @@
   <BuildSandbags.text>Tuyệt quá! Bây giờ bạn đã có một thuộc địa cơ bản đang chạy! Cuối cùng, kẻ thù sẽ đột kích thuộc địa của bạn. Đã đến lúc chuẩn bị cho điều đó.\n\nChọn người chỉ định BAO CÁT và kéo túi cát ra khỏi khu vực được chỉ định.</BuildSandbags.text>
   
   <!-- EN: Build a wooden simple research bench\ninside the room -->
-  <BuildSimpleResearchBench.onMapInstruction>Xây dựng một băng ghế nghiên cứu đơn giản bằng gỗ\bên trong phòng</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.onMapInstruction>Xây dựng một bàn nghiên cứu đơn giản bằng gỗ\nbên trong phòng</BuildSimpleResearchBench.onMapInstruction>
   <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
-  <BuildSimpleResearchBench.rejectInputMessage>Vui lòng đặt một chiếc ghế nghiên cứu đơn giản bằng gỗ bên trong căn phòng bạn đã xây dựng trước đó.</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.rejectInputMessage>Vui lòng đặt một chiếc bàn nghiên cứu đơn giản bằng gỗ bên trong căn phòng bạn đã xây dựng trước đó.</BuildSimpleResearchBench.rejectInputMessage>
   <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
   <BuildSimpleResearchBench.text>Để tiến lên, bạn sẽ cần nghiên cứu các công nghệ mới.\n\nTạo ra một BÀN NGHIÊN CỨU ĐƠN GIẢN bằng gỗ trong phòng của bạn.</BuildSimpleResearchBench.text>
   
@@ -86,7 +90,7 @@
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Vui lòng chọn một người kể chuyện trong menu Tùy chọn để kết thúc hướng dẫn.</ChooseStoryteller.rejectInputMessage>
-  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click the Gameplay button in the left columm.\n4. Click the Modify button beside Storyteller settings.\n5. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
   <ChooseStoryteller.text>Đây là phần cuối của hướng dẫn!\n\nCó rất nhiều thứ để tìm hiểu, bao gồm tù nhân, săn bắn, buôn bán, thuần hóa động vật và nhiều hơn nữa. Nhưng bạn đã có những điều cơ bản.\n\nNgẩu nhiên sự cố đã bị vô hiệu hóa trong hướng dẫn này. Để bắt đầu trò chơi thực sự:\n\n1. Mở tab MENU ở dưới cùng bên phải.\n2. Chọn TÙY CHỌN.\n3. Nhấp vào CÀI ĐẶT CÂU CHUYỆN.\n4. Chọn một người kể chuyện và mức độ khó thu hút bạn.\n\nCúc bạn May mắn và vui vẻ.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
@@ -94,18 +98,24 @@
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
   <ChopTrees.text>Bạn sẽ muốn thu hoạch một số gỗ. Chỉ định một số cây được chặt.\n\nChọn công cụ chỉ định CHẶT GỖ và chỉ định 10 cây được chặt xuống.\n\n(Mẹo chuyên nghiệp: Bạn có thể kéo một hộp trên cây để chỉ định nhiều cây cùng một lúc.)</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>Nhấn vào TẠO để tạo thế giới</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Chào mừng đến với RimWorld! Hướng dẫn này sẽ hướng dẫn bạn cách chơi trò chơi.\n\nBước đầu tiên là tạo một thế giới để chơi.\n\nTrang này định cấu hình cách tạo thế giới của bạn.\n\nCài đặt mặc định ở đây là tốt - hãy tiếp tục và nhấp vào TẠO!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Gửi cư dân ở đây\n chạm vào bao cát để che</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Hãy tập trung vào chiến thắng trong cuộc chiến!</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>Bây giờ tôi đã gửi một kẻ đột kích để tấn công thuộc địa của bạn!\n\n1. Tạm dừng trò chơi bằng cách nhấn {Key:TogglePause}!\n2. Đọc chữ màu đỏ ở góc dưới bên phải của màn hình.\n3. KÉO cư dân của bạn bằng cách chọn chúng và nhấn lệnh KÉO.\n4. Nhấp chuột phải vào vị trí bên trong hình vuông bao cát, chạm vào bao cát.\n5. Không tạm dừng.\n\nColonists phải chạm vào vỏ để được hưởng lợi từ nó. Khi bạn đang ở trong vỏ bọc, hãy đợi kẻ tấn công đến gần. cư dân của bạn sẽ bắn tự động.</DownRaider.text>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.textController>Bây giờ tôi đã gửi một kẻ đột kích để tấn công thuộc địa của bạn!\n\n1. Tạm dừng trò chơi bằng cách nhấn {Key:TogglePause}!\n2. Đọc chữ màu đỏ ở góc dưới bên phải của màn hình.\n3. KÉO cư dân của bạn bằng cách chọn chúng và nhấn lệnh KÉO.\n4. Nhấn nút kích hoạt bên trái để đưa chúng đến các vị trí bên trong ô vuông bao cát, chạm vào bao cát.\n5. Không tạm dừng.\n\nColonists phải chạm vào vỏ để được hưởng lợi từ nó. Khi bạn đang ở trong vỏ bọc, hãy đợi kẻ tấn công đến gần. cư dân của bạn sẽ bắn tự động.</DownRaider.textController>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
   <EndStockpileDesignating.text>Nhấp chuột phải để thoát khỏi chế độ chỉ định kho.</EndStockpileDesignating.text>
+  <!-- EN: Press left trigger button to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.textController>Nhấn nút kích hoạt bên trái để thoát khỏi chế độ chỉ định kho dự trữ.</EndStockpileDesignating.textController>
   
   <!-- EN: Equip this -->
   <EquipWeapons.onMapInstruction>Trang bị cái này</EquipWeapons.onMapInstruction>
@@ -113,6 +123,8 @@
   <EquipWeapons.rejectInputMessage>Hãy để cư dân của bạn trang bị vũ khí.</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
   <EquipWeapons.text>Có cư dân của bạn trang bị vũ khí bắt đầu. Để trang bị vũ khí:\n\n1. Nhấp vào một thuộc địa để chọn chúng.\n2. Nhấp chuột phải vào vũ khí bạn muốn trang bị.\n3. Nhấp vào 'trang bị vũ khí' trên menu ngữ cảnh.\n\nThực hiện cái này cho mỗi thuộc địa.</EquipWeapons.text>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Hover over the weapon you want to equip and press left trigger button.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.textController>Có cư dân của bạn trang bị vũ khí bắt đầu. Để trang bị vũ khí:\n\n1. Nhấp vào một thuộc địa để chọn chúng.\n2. Di chuột qua vũ khí bạn muốn trang bị rồi nhấn vào nút kích hoạt bên trái.\n3.Nhấp vào 'trang bị vũ khí' trên menu ngữ cảnh.\n\nLàm điều này cho từng thuộc địa.</EquipWeapons.textController>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Hãy mở rộng diện tích xây dựng một chút, chỉ để thực hành.</ExpandAreaBuildRoof.rejectInputMessage>
@@ -141,13 +153,17 @@
   <!-- EN: Please make a stockpile on the indicated area. -->
   <MakeStockpile.rejectInputMessage>Vui lòng tạo một kho dự trữ trên khu vực được chỉ định.</MakeStockpile.rejectInputMessage>
   <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
-  <MakeStockpile.text>Tuyệt vời!\n\nBây giờ, hãy tạo một kho dự trữ để cư dân của bạn biết nơi giữ vật phẩm.\n\n1. Nhấp vào tab KIẾN TRÚC ở dưới cùng bên trái.\n2. Nhấp vào danh mục KHU VỰC/ĐỊA ĐIỂM.\n3. Chọn công cụ TẠO KHU VỰC.\n4. Nhấp và kéo ra một hình vuông như được chỉ ra trên bản đồ.</MakeStockpile.text>
+  <MakeStockpile.text>Tuyệt vời!\n\nBây giờ, hãy tạo một kho dự trữ để cư dân của bạn biết nơi giữ vật phẩm.\n\n1. Nhấp vào tab KIẾN TẠO ở dưới cùng bên trái.\n2. Nhấp vào danh mục KHU VỰC/ĐỊA ĐIỂM.\n3. Chọn công cụ TẠO KHU VỰC.\n4. Nhấp và kéo ra một hình vuông như được chỉ ra trên bản đồ.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
   <MapCameraDolly.text>Ở đây bạn đang ở trên bề mặt!\n\nBây giờ hãy thử di chuyển camera xung quanh.\n\nSử dụng các phím {Key:MapDolly_Up} - {Key:MapDolly_Left} - {Key:MapDolly_Down} - {Key:MapDolly_Right} hoặc nhấp và kéo bằng nút chuột giữa.\n\nThử ngay!</MapCameraDolly.text>
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
+  <MapCameraDolly.textController>Bạn đang ở trên bề mặt!\n\nBây giờ hãy thử di chuyển camera xung quanh bằng cần điều khiển bên trái.\n\nHãy thử ngay bây giờ!</MapCameraDolly.textController>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
   <MapCameraZoom.text>Tuyệt vời!\n\nBạn cũng có thể phóng to và thu nhỏ bằng bánh xe chuột hoặc các phím {Key:MapZoom_In} và {Key:MapZoom_Out}.\n\nHãy thử ngay!</MapCameraZoom.text>
+  <!-- EN: Great!\n\nYou can also zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nTry it now! -->
+  <MapCameraZoom.textController>Tuyệt!\n\nBạn cũng có thể phóng to và thu nhỏ bằng {Key:MapZoom_In} và {Key:MapZoom_Out}.\n\nHãy thử ngay bây giờ!</MapCameraZoom.textController>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>Chỉ định tất cả điều này\nđể khai thác</MineSteel.onMapInstruction>
@@ -168,6 +184,8 @@
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Bạn có thể tạm dừng thời gian.\n\nĐiều này có nghĩa là bạn không bao giờ cần phải vội vàng. Bạn luôn có thể tạm dừng và dành thời gian để phát lệnh.\n\nHãy thử tạm dừng bằng phím {Key:TogglePause} hoặc bằng cách sử dụng các điều khiển thời gian ở dưới cùng bên phải.</Pause.text>
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} button, or by using the time controls in the bottom right. -->
+  <Pause.textController>Bạn có thể tạm dừng thời gian.\n\nĐiều này có nghĩa là bạn không bao giờ cần phải vội vàng. Bạn luôn có thể tạm dừng và dành thời gian để phát lệnh.\n\nHãy thử tạm dừng bằng nút {Key:TogglePause} hoặc bằng cách sử dụng các điều khiển thời gian ở dưới cùng bên phải.</Pause.textController>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.rejectInputMessage>Vui lòng nhấp vào nút NGẪU NHIÊN để chọn ngẫu nhiên nhân vật.</RandomizeCharacter.rejectInputMessage>
@@ -182,17 +200,21 @@
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>Vui lòng chọn một dự án nghiên cứu.</SelectResearchProject.rejectInputMessage>
   <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
-  <SelectResearchProject.text>Bây giờ, chỉ cần chọn bất cứ thứ gì bạn muốn nghiên cứu trước.\n\nBạn có thể phải đợi băng ghế nghiên cứu được xây dựng hoặc để chặt cây để lấy gỗ.\n\nNếu quá lâu, hãy sử dụng tab CÔNG VIỆC để phân công nhiều thuộc địa hơn để xây dựng.</SelectResearchProject.text>
+  <SelectResearchProject.text>Bây giờ, chỉ cần chọn bất cứ thứ gì bạn muốn nghiên cứu trước.\n\nBạn có thể phải đợi bàn nghiên cứu được xây dựng hoặc chặt cây để lấy gỗ.\n\nNếu quá lâu, hãy sử dụng tab CÔNG VIỆC để phân công nhiều thuộc địa hơn để xây dựng.</SelectResearchProject.text>
   
   <!-- EN: Set this growing zone to grow rice -->
   <SetToGrowRice.onMapInstruction>Đặt vùng trồng này để trồng lúa</SetToGrowRice.onMapInstruction>
   <!-- EN: Please set your growing zone to grow rice. -->
   <SetToGrowRice.rejectInputMessage>Vui lòng đặt vùng trồng của bạn để trồng lúa.</SetToGrowRice.rejectInputMessage>
   <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
-  <SetToGrowRice.text>Bạn có thể quyết định những cây trồng mà cư dân của bạn nên gieo trong khu vực đang phát triển.\n\n1. Nhấp chuột phải để thoát chế độ kiến trúc sư.\n2. Nhấp vào vùng trồng trọt của bạn để chọn nó.\n3. Nhấp vào bộ chọn cây ở phía dưới và đổi nó thành gạo.</SetToGrowRice.text>
+  <SetToGrowRice.text>Bạn có thể quyết định những cây trồng mà cư dân của bạn nên gieo trong khu vực đang phát triển.\n\n1. Nhấp chuột phải để thoát chế độ kiến tạo.\n2. Nhấp vào vùng trồng trọt của bạn để chọn nó.\n3. Nhấp vào bộ chọn cây ở phía dưới và đổi nó thành gạo.</SetToGrowRice.text>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Press left trigger button to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.textController>Bạn có thể quyết định loại cây mà thực dân của bạn nên gieo trong khu vực trồng trọt.\n\n1. Nhấn nút kích hoạt bên trái để thoát khỏi chế độ kiến trúc.\n2. Nhấp vào khu vực trồng trọt của bạn để chọn.\n3. Nhấp vào bộ chọn cây ở dưới cùng và thay đổi nó thành gạo.</SetToGrowRice.textController>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.text>Bạn cũng có thể tăng tốc thời gian.\n\nHãy thử kiểm soát thời gian bằng các phím {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} và {Key:TimeSpeed_Superfast} hoặc với các nút điều khiển thời gian ở dưới cùng bên phải.</TimeControls.text>
+  <!-- EN: You can also speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.textController>Bạn cũng có thể tăng tốc thời gian.\n\nHãy thử kiểm soát thời gian bằng {Key:TimeSpeed_Faster} và {Key:TimeSpeed_Slower} hoặc bằng các nút kiểm soát thời gian ở dưới cùng bên phải.</TimeControls.textController>
   
   <!-- EN: Please un-draft your colonists. -->
   <UndraftAll.rejectInputMessage>Xin vui lòng bỏ dự thảo cư dân của bạn.</UndraftAll.rejectInputMessage>
@@ -203,7 +225,7 @@
   <UnforbidStartingResources.onMapInstruction>Cho phép việc này</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Vui lòng cho phép các mục bắt đầu của bạn.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
   <UnforbidStartingResources.text>Bây giờ, để cho phép những cư dân của bạn mang vật phẩm của bạn đến kho, bạn phải xóa chỉ định "bị cấm" của họ.\n\n1. Nhấp vào các mục bắt đầu của bạn để chọn chúng.\n2. Nhấp vào nút chuyển đổi CHO PHÉP để cho phép chúng.\n\n(Mẹo chuyên nghiệp: Nhấp đúp vào một mục để chọn tất cả trên màn hình cùng loại.)</UnforbidStartingResources.text>
   
 </LanguageData>

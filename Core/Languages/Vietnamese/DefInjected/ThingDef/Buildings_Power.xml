@@ -16,6 +16,11 @@
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>Sản xuất điện từ mạch nước nóng. Phải đặt trên một mạch nước nóng.</GeothermalGenerator.description>
   
+  <!-- EN: hidden conduit -->
+  <HiddenConduit.label>TODO</HiddenConduit.label>
+  <!-- EN: Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive. -->
+  <HiddenConduit.description>TODO</HiddenConduit.description>
+  
   <!-- EN: power conduit -->
   <PowerConduit.label>dây điện</PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
@@ -32,7 +37,7 @@
   <SolarGenerator.description>Sản xuất điện từ ánh sáng mặt trời. Bất hoạt khi trời tối hoặc dưới ánh sáng nhân tạo.</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>cối xoay nước</WatermillGenerator.label>
+  <WatermillGenerator.label>máy phát điện bánh xe nước</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
   <WatermillGenerator.description>Sản xuất điện từ sông. Phải đặt ở con sông có dòng nước chảy. Nếu cối xoay nước đặt quá gần nhau sẽ bị ảnh hưởng bởi dòng chảy của nhau khiến giảm sản lượng điện sản xuất được.</WatermillGenerator.description>
   

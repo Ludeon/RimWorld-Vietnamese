@@ -21,6 +21,11 @@
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Gỡ cài đặt để có thể di chuyển, bán hoặc lắp đặt ở nơi khác.</DesignatorUninstallDesc>
 
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>Chiết cây</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>Hãy nhổ cây này trong khi vẫn giữ cho nó sống để có thể trồng lại ở một nơi khác.</DesignatorExtractTreeDesc>
+
   <!-- EN: Harvest -->
   <DesignatorHarvest>Thu hoạch</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
@@ -48,10 +53,23 @@
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Chỉ định các khu vực đá sẽ được khai thác.</DesignatorMineDesc>
 
+  <!-- EN: Mine vein -->
+  <DesignatorMineVein>TODO</DesignatorMineVein>
+  <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
+  <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>Làm nhẵn</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
   <DesignatorSmoothSurfaceDesc>Chỉ định địa hình và tường đá thô để được làm nhẵn.</DesignatorSmoothSurfaceDesc>
+  <!-- EN: Smooth walls -->
+  <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
+  <!-- EN: Designate rough stone walls to be smoothed. -->
+  <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
+  <!-- EN: Smooth terrain -->
+  <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
+  <!-- EN: Designate rough stone terrain to be smoothed. -->
+  <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Lập kế hoạch</DesignatorPlan>
@@ -97,13 +115,13 @@
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Cư dân sẽ bỏ qua mái nhà trong khu vực này.</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <!-- EN: Expand snow clear area -->
+  <!-- EN: Snow removal area -->
   <DesignatorAreaSnowClearExpand>Mở rộng khu vực dọn tuyết</DesignatorAreaSnowClearExpand>
-  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>Tạo một khu vực mà cư dân sẽ dọn tuyết.</DesignatorAreaSnowClearExpandDesc>
-  <!-- EN: Clear snow clear Area -->
+  <!-- EN: Clear snow removal area -->
   <DesignatorAreaSnowClearClear>Xóa khu vực dọn tuyết</DesignatorAreaSnowClearClear>
-  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Loại bỏ một khu vực dọn tuyết. Cư dân sẽ không còn cố gắng giữ khu vực này sạch sẽ với tuyết.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
@@ -116,6 +134,8 @@
   <DesignatorClearAreaAllowedDesc>Xóa các ô khỏi khu vực được phép.\n\nKhu vực được phép là khu vực xác định bạn có thể chỉ định cho cư dân. Cư dân sẽ không chấp nhận công việc hoặc đáp ứng nhu cầu của họ bên ngoài khu vực được phép.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Quản lý khu vực...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>Quản lý giết mổ tự động ...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Tạo một khu vực nơi cư dân của bạn sẽ cố gắng phát triển một loại cây nhất định.</DesignatorGrowingZoneDesc>
@@ -171,6 +191,55 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Thuần hóa động vật hoang dã.</DesignatorTameDesc>
 
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>Thả về tự nhiên</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>Thả một con vật trở lại tự nhiên.</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>Nghiên cứu</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>Nghiên cứu đối tượng này để tìm hiểu thêm về nó.</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>Sơn nhà...</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>Chỉ định các bức tường và tòa nhà sẽ được sơn bằng thuốc nhuộm từ cây tinctoria mà bạn có thể trồng. Chỉ một số tòa nhà có thể được sơn.</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>Sơn sàn...</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>Chỉ định sàn nhà được sơn bằng thuốc nhuộm từ cây tinctoria mà bạn có thể trồng. Chỉ một số tầng có thể được sơn.</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>Loại bỏ sơn</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>Loại bỏ sơn khỏi tường, tòa nhà và sàn nhà.</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>Loại bỏ sơn sàn</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>Loại bỏ sơn từ sàn nhà.</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>Sơn</Paint>
+  <!-- EN: Color -->
+  <Color>Màu</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>Bộ chọn màu</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>Lấy màu hiện có</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>Lấy một màu từ một tòa nhà hiện có.</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>Lấy một màu từ một tấm thảm hiện có.</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>Chọn một tòa nhà sơn.</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>Chọn thảm màu.</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>Lấy</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>Lấy màu</GrabbedColor>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Chưa chọn nguyên liệu</UnchosenStuff>
@@ -214,8 +283,16 @@
   <InteractionSpotWillOverlap>Điểm tương tác sẽ trùng lặp với điểm tương tác của {1_labelShort}</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>Điểm tương tác trùng lặp với điểm tương tác của {1_labelShort}.</InteractionSpotOverlaps>
-  <!-- EN: Monument markers can't be placed directly adjacent to any building. -->
-  <MonumentAdjacentToBuilding>Điểm đánh dấu khu vực di tích không thể đặt trực tiếp liền kề với bất kỳ tòa nhà nào.</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>Không thể đặt đài kỷ niệm trên: {0}.</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>Không thể xây dựng trên: {0}.</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>Không thể đặt đài kỷ niệm trên: {0}.</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>Không thể đặt tượng đài bên cạnh: {0}.</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>Không thể trồng ở đây</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -236,5 +313,10 @@
   <NoColonistWithAllSkillsForConstructing>Không ai trong số {0} của bạn có tất cả các kỹ năng cần thiết.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Tất cả {0} của bạn có kỹ năng này không được gán cho {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- EN: Extract skull -->
+  <DesignatorExtractSkull>Trích xuất họp sọ</DesignatorExtractSkull>
+  <!-- EN: Extract the skull from a corpse. -->
+  <DesignatorExtractSkullDesc>Trích xuất họp sọ từ xác chết.</DesignatorExtractSkullDesc>
 
 </LanguageData>

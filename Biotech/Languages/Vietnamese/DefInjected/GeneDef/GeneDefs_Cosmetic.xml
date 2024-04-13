@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unisex beards -->
+  <Beard_Always.label>râu</Beard_Always.label>
+  <!-- EN: Carriers of this gene always have thick facial hair, even women. -->
+  <Beard_Always.description>Người mang gen này luôn có lông mặt dày, kể cả phụ nữ.</Beard_Always.description>
+  <!-- EN: bearded -->
+  <Beard_Always.labelShortAdj>có râu</Beard_Always.labelShortAdj>
+  
+  <!-- EN: only bushy beards -->
+  <Beard_BushyOnly.label>chỉ có râu rậm</Beard_BushyOnly.label>
+  <!-- EN: Male carriers of this gene experience rapid beard growth and are uncomfortable cutting their beards. -->
+  <Beard_BushyOnly.description>Đàn ông có gen này mọc râu nhanh và không thoải mái khi phải cắt tỉa.</Beard_BushyOnly.description>
+  <!-- EN: bushy -->
+  <Beard_BushyOnly.labelShortAdj>rậm rạp</Beard_BushyOnly.labelShortAdj>
+  <!-- EN: beard -->
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>bộ râu</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: bush -->
+  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>rậm rạp</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: lumber -->
+  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>lumber</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: bristle -->
+  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>bristle</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: beard -->
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>bộ râu</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: bush -->
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>rậm rạp</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: beardless -->
+  <Beard_NoBeardOnly.label>không có râu</Beard_NoBeardOnly.label>
+  <!-- EN: Carriers of this gene grow no facial hair. -->
+  <Beard_NoBeardOnly.description>Người mang gen này không có lông mặt.</Beard_NoBeardOnly.description>
+  <!-- EN: beardless -->
+  <Beard_NoBeardOnly.labelShortAdj>không có râu</Beard_NoBeardOnly.labelShortAdj>
+  <!-- EN: smooth -->
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>smooth</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: bare -->
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>để trần</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: clean -->
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>clean</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: chin -->
+  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>cái cằm</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: smoothchin -->
+  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>cằm nhẵn</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: heavy brow -->
+  <Brow_Heavy.label>trán dày</Brow_Heavy.label>
+  <!-- EN: Carriers of this gene have a prominent brow. -->
+  <Brow_Heavy.description>Người mang gen này có trán nổi rõ.</Brow_Heavy.description>
+  
+  <!-- EN: gray eyes -->
+  <Eyes_Gray.label>mắt xám</Eyes_Gray.label>
+  <!-- EN: Carriers of this gene have pale white-gray eyes. -->
+  <Eyes_Gray.description>Người mang gen này có mắt xám gần như trắng nhạt.</Eyes_Gray.description>
+  <!-- EN: gray-eyed -->
+  <Eyes_Gray.labelShortAdj>mắt xám</Eyes_Gray.labelShortAdj>
+  
+  <!-- EN: red eyes -->
+  <Eyes_Red.label>red eyes</Eyes_Red.label>
+  <!-- EN: Carriers of this gene have deeply red-pigmented eyes. -->
+  <Eyes_Red.description>Người mang gen này có đôi mắt sắc tố rất đỏ.</Eyes_Red.description>
+  <!-- EN: red-eyed -->
+  <Eyes_Red.labelShortAdj>red-eyed</Eyes_Red.labelShortAdj>
+  
+  <!-- EN: facial ridges -->
+  <FacialRidges.label>facial ridges</FacialRidges.label>
+  <!-- EN: Carriers of this gene grow raised ridges of skin on their face. -->
+  <FacialRidges.description>Người mang gen này có xương mặt dày.</FacialRidges.description>
+  
+  <!-- EN: furskin -->
+  <Furskin.label>furskin</Furskin.label>
+  <!-- EN: Carriers of this gene grow thick fur all over their body, which protects them from cold temperatures. -->
+  <Furskin.description>Những người mang gen này có bộ lông dày trên khắp cơ thể, bảo vệ chúng khỏi nhiệt độ lạnh.</Furskin.description>
+  <!-- EN: furskinned -->
+  <Furskin.labelShortAdj>furskinned</Furskin.labelShortAdj>
+  
+  <!-- EN: no hair -->
+  <Hair_BaldOnly.label>no hair</Hair_BaldOnly.label>
+  <!-- EN: Carriers of this gene grow no hair on the head. -->
+  <Hair_BaldOnly.description>Những người mang gen này không có tóc trên đầu.</Hair_BaldOnly.description>
+  <!-- EN: bald -->
+  <Hair_BaldOnly.labelShortAdj>hói</Hair_BaldOnly.labelShortAdj>
+  <!-- EN: bald -->
+  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>hói</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chrome -->
+  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>chrome</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dome -->
+  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>dome</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: smooth -->
+  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>smooth</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: bare -->
+  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>bare</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dome -->
+  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>dome</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: smooth -->
+  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>smooth</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: bare -->
+  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>bare</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: grayless hair -->
+  <Hair_Grayless.label>grayless hair</Hair_Grayless.label>
+  <!-- EN: Carriers of this gene keep their natural hair color as they age. -->
+  <Hair_Grayless.description>Những người mang gen này vẫn giữ được màu tóc tự nhiên khi chúng già đi.</Hair_Grayless.description>
+  <!-- EN: No age-related gray hair. -->
+  <Hair_Grayless.customEffectDescriptions.0>Không có tóc bạc do tuổi tác.</Hair_Grayless.customEffectDescriptions.0>
+  
+  <!-- EN: long-haired -->
+  <Hair_LongOnly.label>long-haired</Hair_LongOnly.label>
+  <!-- EN: Carriers of this gene grow hair on the head very quickly. -->
+  <Hair_LongOnly.description>Người mang gen này có lông mọc rất nhanh.</Hair_LongOnly.description>
+  
+  <!-- EN: short-haired -->
+  <Hair_ShortOnly.label>short-haired</Hair_ShortOnly.label>
+  <!-- EN: Carriers of this gene can only grow short hair. -->
+  <Hair_ShortOnly.description>Người mang gen này có lông chỉ mọc ngắn.</Hair_ShortOnly.description>
+  <!-- EN: crop -->
+  <Hair_ShortOnly.labelShortAdj>crop</Hair_ShortOnly.labelShortAdj>
+  <!-- EN: crop -->
+  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>cắt ngắn</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fuzz -->
+  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>fuzz</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: stub -->
+  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>stub</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: patch -->
+  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>patch</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crop -->
+  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>crop</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: fuzz -->
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>fuzz</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: stub -->
+  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>stub</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: patch -->
+  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>patch</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+  
+  <!-- EN: blue skin -->
+  <Skin_Blue.label>blue skin</Skin_Blue.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a blue color. -->
+  <Skin_Blue.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu xanh lam.</Skin_Blue.description>
+  <!-- EN: blue -->
+  <Skin_Blue.labelShortAdj>màu xanh da trời</Skin_Blue.labelShortAdj>
+  <!-- EN: blue -->
+  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>màu xanh da trời</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ice -->
+  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>Nước đá</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sky -->
+  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>bầu trời</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: deep red skin -->
+  <Skin_DeepRed.label>deep red skin</Skin_DeepRed.label>
+  <!-- EN: Carriers of this gene produce a deep-red pigment that gives their skin an almost bloody appearance. -->
+  <Skin_DeepRed.description>Người mang gen này tạo ra sắc tố đỏ sẫm khiến da của họ trông gần như có máu.</Skin_DeepRed.description>
+  <!-- EN: red -->
+  <Skin_DeepRed.labelShortAdj>màu đỏ</Skin_DeepRed.labelShortAdj>
+  <!-- EN: red -->
+  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>màu đỏ</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: crim -->
+  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>crim</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fire -->
+  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>cháy</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: rose -->
+  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>rose</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: wine -->
+  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>wine</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: deep yellow skin -->
+  <Skin_DeepYellow.label>deep yellow skin</Skin_DeepYellow.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a deep yellow color. -->
+  <Skin_DeepYellow.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu vàng sẫm.</Skin_DeepYellow.description>
+  <!-- EN: yellow -->
+  <Skin_DeepYellow.labelShortAdj>màu vàng</Skin_DeepYellow.labelShortAdj>
+  <!-- EN: yellow -->
+  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>màu vàng</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lemon -->
+  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>Chanh</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: gold -->
+  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>vàng</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: green skin -->
+  <Skin_Green.label>green skin</Skin_Green.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a green color. -->
+  <Skin_Green.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu xanh lục.</Skin_Green.description>
+  <!-- EN: green -->
+  <Skin_Green.labelShortAdj>màu xanh lá</Skin_Green.labelShortAdj>
+  <!-- EN: green -->
+  <Skin_Green.symbolPack.prefixSymbols.0.symbol>màu xanh lá</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lime -->
+  <Skin_Green.symbolPack.prefixSymbols.1.symbol>lime</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: jade -->
+  <Skin_Green.symbolPack.prefixSymbols.2.symbol>jade</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: leaf -->
+  <Skin_Green.symbolPack.prefixSymbols.3.symbol>leaf</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: greenskin -->
+  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>da xanh</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: ink black skin -->
+  <Skin_InkBlack.label>ink black skin</Skin_InkBlack.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a pale black color almost as dark as ink. -->
+  <Skin_InkBlack.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu đen nhạt gần như sẫm như mực.</Skin_InkBlack.description>
+  <!-- EN: noir -->
+  <Skin_InkBlack.labelShortAdj>màu đen</Skin_InkBlack.labelShortAdj>
+  <!-- EN: ink -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>mực</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: dark -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>tối</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: coal -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>than đá</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: pitch -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>pitch</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: shadow -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>bóng</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: raven -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>con quạ</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: jet -->
+  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>jet</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: shadow -->
+  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>bóng</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: raven -->
+  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>con quạ</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: jet -->
+  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>jet</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: light gray skin -->
+  <Skin_LightGray.label>light gray skin</Skin_LightGray.label>
+  <!-- EN: Carriers of this produce a light-gray pigment in their skin. -->
+  <Skin_LightGray.description>Người mặc sản phẩm này tạo ra sắc tố xám nhạt trên da của họ.</Skin_LightGray.description>
+  <!-- EN: gray -->
+  <Skin_LightGray.labelShortAdj>Xám</Skin_LightGray.labelShortAdj>
+  <!-- EN: gray -->
+  <Skin_LightGray.symbolPack.prefixSymbols.0.symbol>Xám</Skin_LightGray.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: pale -->
+  <Skin_LightGray.symbolPack.prefixSymbols.1.symbol>tái nhợt</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: orange skin -->
+  <Skin_Orange.label>orange skin</Skin_Orange.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin an orange color. -->
+  <Skin_Orange.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu da cam.</Skin_Orange.description>
+  <!-- EN: orange -->
+  <Skin_Orange.labelShortAdj>trái cam</Skin_Orange.labelShortAdj>
+  <!-- EN: orange -->
+  <Skin_Orange.symbolPack.prefixSymbols.0.symbol>trái cam</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: pale red skin -->
+  <Skin_PaleRed.label>pale red skin</Skin_PaleRed.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a moderate red color. -->
+  <Skin_PaleRed.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu đỏ nhạt.</Skin_PaleRed.description>
+  <!-- EN: pink -->
+  <Skin_PaleRed.labelShortAdj>Hồng</Skin_PaleRed.labelShortAdj>
+  <!-- EN: pink -->
+  <Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>Hồng</Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: red -->
+  <Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>đỏ</Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: rose -->
+  <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>Hồng</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: pale yellow skin -->
+  <Skin_PaleYellow.label>pale yellow skin</Skin_PaleYellow.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin a grayish yellow color. -->
+  <Skin_PaleYellow.description>Người mang gen này sản sinh ra một sắc tố làm cho da của họ có màu vàng xám.</Skin_PaleYellow.description>
+  <!-- EN: cream -->
+  <Skin_PaleYellow.labelShortAdj>kem</Skin_PaleYellow.labelShortAdj>
+  <!-- EN: yellow -->
+  <Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>vàng</Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: banana -->
+  <Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>chuối</Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: cream -->
+  <Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>kem</Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: banana -->
+  <Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>chuối</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: purple skin -->
+  <Skin_Purple.label>purple skin</Skin_Purple.label>
+  <!-- EN: Carriers of this gene produce a pigment that gives their skin a purple color. -->
+  <Skin_Purple.description>Người mang gen này sản sinh ra một sắc tố khiến da của họ có màu tím.</Skin_Purple.description>
+  <!-- EN: purple -->
+  <Skin_Purple.labelShortAdj>tím</Skin_Purple.labelShortAdj>
+  <!-- EN: purp -->
+  <Skin_Purple.symbolPack.prefixSymbols.0.symbol>purp</Skin_Purple.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: grape -->
+  <Skin_Purple.symbolPack.prefixSymbols.1.symbol>grape</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: sheer white skin -->
+  <Skin_SheerWhite.label>sheer white skin</Skin_SheerWhite.label>
+  <!-- EN: Carriers of this gene have sheer white skin, unlike natural skin tones, due to a special engineered reflective cell covering. -->
+  <Skin_SheerWhite.description>Những người mang gen này có làn da trắng, không giống như tông màu da tự nhiên, do một lớp phủ tế bào phản chiếu được thiết kế đặc biệt.</Skin_SheerWhite.description>
+  <!-- EN: pale -->
+  <Skin_SheerWhite.labelShortAdj>tái nhợt</Skin_SheerWhite.labelShortAdj>
+  <!-- EN: white -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>trắng</Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: pale -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>tái nhợt</Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: snow -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>tuyết</Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: glow -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>ánh sáng</Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: shine -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>sáng</Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: ala -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>ala</Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: bleach -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>bleach</Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: pearl -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>pearl</Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>
+  <!-- EN: frost -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>frost</Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>
+  <!-- EN: ice -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>ice</Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>
+  <!-- EN: milk -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>milk</Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>
+  <!-- EN: chalk -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>chalk</Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>
+  <!-- EN: salt -->
+  <Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>salt</Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>
+  <!-- EN: ghost -->
+  <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>ghost</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: slate gray skin -->
+  <Skin_SlateGray.label>slate gray skin</Skin_SlateGray.label>
+  <!-- EN: Carriers of this gene produce a pigment that turns their skin slate gray. -->
+  <Skin_SlateGray.description>Người mang gen này tạo ra một sắc tố làm cho da của họ có màu xám.</Skin_SlateGray.description>
+  <!-- EN: slate -->
+  <Skin_SlateGray.labelShortAdj>slate</Skin_SlateGray.labelShortAdj>
+  <!-- EN: gray -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>gray</Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: slate -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>slate</Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fog -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>fog</Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: gloom -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>gloom</Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: smoke -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>smoke</Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: grim -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>grim</Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: murk -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>murk</Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: mist -->
+  <Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>mist</Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>
+  <!-- EN: wisp -->
+  <Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>wisp</Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: ghost -->
+  <Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>ghost</Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: murk -->
+  <Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>murk</Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: furry tail -->
+  <Tail_Furry.label>furry tail</Tail_Furry.label>
+  <!-- EN: Carriers of this gene grow a fluffy tail which partially protects them from cold temperatures. -->
+  <Tail_Furry.description>Những người mang gen này có một chiếc đuôi lông tơ giúp bảo vệ một phần khỏi nhiệt độ lạnh.</Tail_Furry.description>
+  
+  <!-- EN: smooth tail -->
+  <Tail_Smooth.label>smooth tail</Tail_Smooth.label>
+  <!-- EN: Carriers of this gene grow a slender tail that can act as a dexterous fifth limb. -->
+  <Tail_Smooth.description>Những người mang gen này phát triển một chiếc đuôi mảnh mai có thể hoạt động như một chi thứ năm có kỹ năng.</Tail_Smooth.description>
+  
+</LanguageData>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Ideoligion forbids -->
+  <IdeoligionForbids>Cấm tín ngưỡng</IdeoligionForbids>
+  <!-- EN: Only {0}s can build -->
+  <OnlyMembersCanBuild>Chỉ {0} có thể xây dựng</OnlyMembersCanBuild>
+  <!-- EN: {0} is already in progress. -->
+  <CantStartRitualAlreadyInProgress>{0} đang được tiến hành.</CantStartRitualAlreadyInProgress>
+  <!-- EN: One or more participants can't join due to extreme temperature. -->
+  <CantJoinRitualInExtremeWeather>Một hoặc nhiều người tham gia không thể tham gia do nhiệt độ quá cao.</CantJoinRitualInExtremeWeather>
+  <!-- EN: {0} is already participating in a ritual. -->
+  <CantStartRitualTargetIsAlreadyInRitual>{0} đang tham gia một nghi lễ.</CantStartRitualTargetIsAlreadyInRitual>
+  <!-- EN: You must assign the role of {0} in order to start this ritual. -->
+  <CantStartRitualRoleNotAssigned>Bạn phải chỉ định vai trò của {0} để bắt đầu nghi thức này.</CantStartRitualRoleNotAssigned>
+  <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
+  <CantStartRitualNoConvertee>Không có ai để chuyển đổi thành {0}. Bạn cần một thực dâ, tù nhân hoặc nô lệ của một tín ngưỡng khác.</CantStartRitualNoConvertee>
+  <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} không thể làm {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} phải là {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <!-- EN: {PAWN_nameDef} is psychically deaf. -->
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} bị điếc tâm lý.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelSpectators>Không đủ chỗ cho khán giả. Phải có một đường tròn bán kính {MINRADIUS} rõ ràng. Yêu cầu ít nhất {1} điểm ổn định trong bán kính đó.</CantStartNotEnoughSpaceDuelSpectators>
+  <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelDuelists>Không đủ chỗ cho những người đấu tay đôi. Phải có một đường tròn bán kính {MINRADIUS} rõ ràng. Yêu cầu ít nhất {1} điểm ổn định trong bán kính đó.</CantStartNotEnoughSpaceDuelDuelists>
+  <!-- EN: Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}. -->
+  <CantStartNotEnoughSpaceDuelSpeaker>Không đủ chỗ cho loa. Phải có một đường tròn bán kính {MINRADIUS} rõ ràng.</CantStartNotEnoughSpaceDuelSpeaker>
+  <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
+  <CantStartFuneralForSlave>{0_labelShort} là nô lệ. Nô lệ không được tổ chức tang lễ.</CantStartFuneralForSlave>
+  <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
+  <NoSlaveBed>Cần một chiếc giường dành nô lệ có thể tới được ở nhiệt độ an toàn.</NoSlaveBed>
+  <!-- EN: Return to slave bed -->
+  <ReturnToSlaveBed>Trả lại giường nô lệ</ReturnToSlaveBed>
+  <!-- EN: not allowed for faction -->
+  <NotAllowedForFaction>không được phép cho phe phái</NotAllowedForFaction>
+
+  <!-- EN: Remove -->
+  <Remove>Loại bỏ</Remove>
+  <!-- EN: Remove precept -->
+  <RemovePrecept>Loại bỏ luật</RemovePrecept>
+  <!-- EN: Regenerate -->
+  <Regenerate>Tái sinh</Regenerate>
+  <!-- EN: Cannot edit -->
+  <CannotEdit>Không thể chỉnh sửa</CannotEdit>
+  <!-- EN: No choices available -->
+  <NoChoicesAvailable>Không có lựa chọn khả dụng</NoChoicesAvailable>
+  <!-- EN: Required by meme {0} -->
+  <RequiredByMeme>Yêu cầu của biểu tượng {0}</RequiredByMeme>
+  <!-- EN: Required -->
+  <Required>Yêu cầu</Required>
+  <!-- EN: Style category -->
+  <StyleCategory>Phong cách thể loại</StyleCategory>
+  <!-- EN: Add style category -->
+  <AddStyleCategory>Thêm phong cách thể loại</AddStyleCategory>
+  <!-- EN: Can't add more than {0} rituals. -->
+  <MaxRitualCount>Không thể thêm nhiều hơn {0} nghi lễ.</MaxRitualCount>
+  <!-- EN: Can't add more than {0} relics. -->
+  <MaxRelicCount>Không thể thêm nhiều hơn {0} di tích.</MaxRelicCount>
+  <!-- EN: can't have more than {0} specialists. -->
+  <MaxMultiRolesCount>Không thể thêm nhiều hơn {0} chuyên gia.</MaxMultiRolesCount>
+  <!-- EN: max {0} -->
+  <MaxPreceptCount>tối đa {0}</MaxPreceptCount>
+  <!-- EN: Set gender -->
+  <SetTargetGender>Thiết lập giới tính</SetTargetGender>
+  <!-- EN: must be {0} faction -->
+  <RoleApparelRequirementIncompatibleFaction>phải là phe {0}</RoleApparelRequirementIncompatibleFaction>
+  <!-- EN: tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>bộ tộc</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <!-- EN: non-tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>không có bộ lạc</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <!-- EN: requires any of these memes -->
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>yêu cầu bất kỳ meme nào trong số này</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <!-- EN: cannot be worn with assigned apparel -->
+  <BodyPartAlreadyCovered>không thể mặc với trang phục được chỉ định</BodyPartAlreadyCovered>
+  <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
+  <NoteRoleApparelRequirementEffects>Mọi người hài lòng khi các yêu cầu về trang phục của họ được đáp ứng và không hài lòng khi họ bị vi phạm.</NoteRoleApparelRequirementEffects>
+  <!-- EN: supercharge not ready -->
+  <NeuralSuperchargeNotReady>tăng cường không sẵn sàng</NeuralSuperchargeNotReady>
+  <!-- EN: already getting -->
+  <NeuralSuperchargeAlreadyGetting>đã nhận được</NeuralSuperchargeAlreadyGetting>
+  <!-- EN: Set type -->
+  <SetApparelType>Thiết lập kiểu</SetApparelType>
+
+  <!-- EN: change style -->
+  <ChangeStyle>thay đổi phong cách</ChangeStyle>
+  <!-- EN: {0} {DEITYNOUN} required -->
+  <DeitiesRequired>{0} {DEITYNOUN} cần thiết</DeitiesRequired>
+  <!-- EN: deity -->
+  <Deity>thần linh</Deity>
+  <!-- EN: requires meme -->
+  <RequiresMeme>cần thiết biểu tượng</RequiresMeme>
+  <!-- EN: requires one of -->
+  <RequiresOneOfMemes>cần một trong những</RequiresOneOfMemes>
+  <!-- EN: conflicts with meme -->
+  <ConflictsWithMeme>xung đột với biểu tượng</ConflictsWithMeme>
+  <!-- EN: conflicts with memes -->
+  <ConflictsWithMemes>xung đột với biểu tượng</ConflictsWithMemes>
+  <!-- EN: can only have one altar/ideogram -->
+  <IdeoAlreadyHasAltar>chỉ có thể có một bệ thờ/tín ngưỡng</IdeoAlreadyHasAltar>
+  <!-- EN: recolor apparel -->
+  <RecolorApparel>trang phục tái tạo màu</RecolorApparel>
+
+  <!-- EN: Hack {0} -->
+  <Hack>Truy cập trái phép {0}</Hack>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>Không thể truy cập trái phép {0}</CannotHack>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>Đã truy cập trái phép</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>Không có khả năng truy cập trái phép</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>sụt nguồn</ToDropSupplies>
+
+  <!-- EN: Install {0} -->
+  <InstallRelic>Thiết lập {0}</InstallRelic>
+  <!-- EN: Extract {0} -->
+  <ExtractRelic>Trích xuất {0}</ExtractRelic>
+  <!-- EN: Extract {0} to inventory ({1}) -->
+  <ExtractRelicToInventory>Trích xuất {0} vào kho {1}</ExtractRelicToInventory>
+  <!-- EN: No relic to install -->
+  <NoRelicToInstall>Không có di tích được thiết lập</NoRelicToInstall>
+  <!-- EN: Install in reliquary -->
+  <InstallInReliquary>Thiết lập trong nhà thờ</InstallInReliquary>
+  <!-- EN: no empty accessible reliquary -->
+  <NoEmptyReliquary>không có câu trả lời nào có thể truy cập được</NoEmptyReliquary>
+
+  <!-- EN: No {MEMBERNAME} warden -->
+  <NoWardenOfIdeo>Không có quản giáo {MEMBERNAME}</NoWardenOfIdeo>
+
+  <!-- EN: Remove current role -->
+  <RemoveCurrentRole>Xóa vai trò hiện tại</RemoveCurrentRole>
+
+  <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
+  <EnterBiosculpterPod>Thêm kén sinh học đa năng cho {0} chu kỳ ({1})</EnterBiosculpterPod>
+  <!-- EN: Biotuned to someone else. -->
+  <BiosculpterBiotunedToAnother>Được điều chỉnh bằng kén sinh học đa năng cho người khác.</BiosculpterBiotunedToAnother>
+  <!-- EN: Must be {0} years old for age reversal. -->
+  <UnderMinBiosculpterAgeReversalAge>Phải {0} tuổi để đảo ngược độ tuổi.</UnderMinBiosculpterAgeReversalAge>
+  <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
+  <CarryToBiosculpterPod>Mang theo {PAWN_label} vào nhóm kén sinh học đa năng ({CYCLE})</CarryToBiosculpterPod>
+  <!-- EN: Cannot carry to biosculpter pod -->
+  <CannotCarryToBiosculpterPod>Không thể mang theo hộp kén sinh học đa năng</CannotCarryToBiosculpterPod>
+  <!-- EN: No available biosculpter pod. -->
+  <NoBiosculpterPod>Không kén sinh học đa năng có sẵn</NoBiosculpterPod>
+  <!-- EN: Nutrition not loaded -->
+  <BiosculpterNutritionNotLoaded>Dinh dưỡng không được nạp vào</BiosculpterNutritionNotLoaded>
+  <!-- EN: Occupied -->
+  <BiosculpterOccupied>Chiếm lĩnh</BiosculpterOccupied>
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Không thể vào</CannotEnter>
+  <!-- EN: Cannot start {0} cycle -->
+  <BiosculpterCannotStartCycle>Không thể bắt đầu {0} chu kỳ</BiosculpterCannotStartCycle>
+  <!-- EN: Cannot find cycle ingredients ({INGREDIENTS}) -->
+  <BiosculpterMissingIngredients>Không thể tìm thấy thành phần chu trình ({INGREDIENTS})</BiosculpterMissingIngredients>
+  <!-- EN: Nobody around can use this -->
+  <BiosculpterNoEligiblePawns>Không ai xung quanh có thể sử dụng cái này</BiosculpterNoEligiblePawns>
+  <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
+  <BiosculpterNoEligiblePawnsBiotuned>Đã điều chỉnh thành {PAWN_labelShort} và {PAWN_pronoun} không có ở đây</BiosculpterNoEligiblePawnsBiotuned>
+  <!-- EN: Auto load nutrition -->
+  <BiosculpterAutoLoadNutritionLabel>Tự động nạp dinh dưỡng</BiosculpterAutoLoadNutritionLabel>
+  <!-- EN: Automatically load the nutrition required to run a cycle -->
+  <BiosculpterAutoLoadNutritionDescription>Tự động nạp dinh dưỡng cần thiết để chạy một chu kỳ</BiosculpterAutoLoadNutritionDescription>
+  <!-- EN: Auto age reversal for {PAWN_labelShort} -->
+  <BiosculpterAutoAgeReversalLabel>Đảo ngược độ tuổi tự động cho {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
+  <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+  <BiosculpterAutoAgeReversalDescription>Tự động đáp ứng mong muốn của {PAWN_labelShort} là tiến hành điều trị đảo ngược tuổi tác trong kén này, phù hợp với niềm tin {PAWN_possessive}. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <BiosculpterAutoAgeReversalDescriptionFuture>Nếu được bật, {PAWN_labelShort} sẽ tự động thực hiện xử lý {PAWN_possessive} tiếp theo sau {TIME} nếu nhóm sẵn sàng.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} đã muốn điều trị tiếp theo của mình và sẽ tự động bắt đầu điều trị nếu điều này được bật.</BiosculpterAutoAgeReversalDescriptionNow>
+  <!-- EN: Collecting ingredients for biosculpter cycle -->
+  <BiosculpterJobReportCollectIngredients>Thu thập nguyên liệu cho chu trình phân hủy sinh học</BiosculpterJobReportCollectIngredients>
+</LanguageData>

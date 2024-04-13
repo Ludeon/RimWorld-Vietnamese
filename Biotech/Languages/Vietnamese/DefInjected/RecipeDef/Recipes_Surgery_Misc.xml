@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood transfusion -->
+  <BloodTransfusion.label>truyền máu</BloodTransfusion.label>
+  <!-- EN: Use hemogen packs to reduce the effects of blood loss. Each hemogen pack used recovers 35% blood loss. The operation will also restore hemogen to hemogenic individuals. -->
+  <BloodTransfusion.description>Sử dụng gói hemogen để giảm ảnh hưởng của mất máu. Mỗi gói hemogen được sử dụng sẽ phục hồi 35% lượng máu đã mất. Hoạt động này cũng sẽ khôi phục lại hemogen cho các cá nhân mắc bệnh này.</BloodTransfusion.description>
+  <!-- EN: performing blood transfusion on TargetA. -->
+  <BloodTransfusion.jobString>thực hiện truyền máu trên TargetA.</BloodTransfusion.jobString>
+  
+  <!-- EN: extract hemogen pack -->
+  <ExtractHemogenPack.label>chiết xuất gói hemogen</ExtractHemogenPack.label>
+  <!-- EN: Extract a hemogen pack from the target. The operation will fail to produce a hemogen pack if the target does not have enough blood.\n\nHemogen packs can be administered to others to reduce blood loss or to satiate those who feed on blood. -->
+  <ExtractHemogenPack.description>Trích xuất một gói hemogen từ mục tiêu. Hoạt động sẽ không tạo ra gói hemogen nếu mục tiêu không có đủ máu.\n\nCác gói hemogen có thể được dùng cho người khác để giảm mất máu hoặc để làm no những người hút máu.</ExtractHemogenPack.description>
+  <!-- EN: Extracting hemogen pack. -->
+  <ExtractHemogenPack.jobString>Trích xuất gói hemogen.</ExtractHemogenPack.jobString>
+  
+  <!-- EN: extract ovum for IVF -->
+  <ExtractOvum.label>hút noãn làm thụ tinh ống nghiệm</ExtractOvum.label>
+  <!-- EN: Extract an ovum into a storage capsule. It can then be fertilized by a man, and finally implanted into a mother to start a pregnancy. -->
+  <ExtractOvum.description>Một quả trứng được chiết xuất vào một túi lưu trữ. Sau đó, nó có thể được thụ tinh bởi một người đàn ông và cuối cùng được cấy vào người mẹ để bắt đầu mang thai.</ExtractOvum.description>
+  <!-- EN: extracting ovum from TargetA. -->
+  <ExtractOvum.jobString>tách noãn từ TargetA.</ExtractOvum.jobString>
+  
+  <!-- EN: implant embryo -->
+  <ImplantEmbryo.label>cấy ghép phôi</ImplantEmbryo.label>
+  <!-- EN: Implant an embryo in a surrogate mother to begin a pregnancy. -->
+  <ImplantEmbryo.description>Phôi được cấy vào người mẹ thay thế để bắt đầu quá trình mang thai.</ImplantEmbryo.description>
+  <!-- EN: Implanting embryo in TargetA. -->
+  <ImplantEmbryo.jobString>Cấy phôi ở TargetA.</ImplantEmbryo.jobString>
+  
+  <!-- EN: implant IUD -->
+  <ImplantIUD.label>đặt vòng tránh thai</ImplantIUD.label>
+  <!-- EN: Implant a small metal device in the uterus to prevent pregnancies. It can later be removed, but there is a small chance of leaving the patient permanently sterile. This surgery terminates pregnancies in the first trimester. -->
+  <ImplantIUD.description>Cấy một thiết bị kim loại nhỏ vào tử cung để tránh thai. Nó có thể được loại bỏ sau đó, nhưng có một khả năng nhỏ khiến bệnh nhân vô sinh vĩnh viễn. Phẫu thuật này chấm dứt thai kỳ trong ba tháng đầu.</ImplantIUD.description>
+  <!-- EN: implanting a IUD in TargetA. -->
+  <ImplantIUD.jobString>cấy vòng tránh thai trong TargetA.</ImplantIUD.jobString>
+  <!-- EN: {0} has successfully implanted an IUD in {1}. -->
+  <ImplantIUD.successfullyRemovedHediffMessage>{0} đã đặt vòng tránh thai thành công ở {1}.</ImplantIUD.successfullyRemovedHediffMessage>
+  
+  <!-- EN: implant xenogerm -->
+  <ImplantXenogerm.label>cấy xenogerm</ImplantXenogerm.label>
+  <!-- EN: Implant a xenogerm into a patient. This replaces any previous xenogerm they may have had. -->
+  <ImplantXenogerm.description>Cấy một xenogerm vào một bệnh nhân. Điều này thay thế bất kỳ xenogerm nào trước đó mà họ có thể đã có.</ImplantXenogerm.description>
+  <!-- EN: Implanting xenogerm. -->
+  <ImplantXenogerm.jobString>cấy xenogerm.</ImplantXenogerm.jobString>
+  
+  <!-- EN: remove IUD -->
+  <RemoveIUD.label>tháo vòng tránh thai</RemoveIUD.label>
+  <!-- EN: Remove an implanted intrauterine device to allow normal pregnancy. If the surgery goes wrong, the patient will be rendered permanently sterile. -->
+  <RemoveIUD.description>Vòng tránh thai cấy ghép được lấy ra để cho phép mang thai bình thường. Nếu sai quy trình, bệnh nhân sẽ bị vô sinh vĩnh viễn.</RemoveIUD.description>
+  <!-- EN: removing IUD from TargetA. -->
+  <RemoveIUD.jobString>loại bỏ vòng tránh thai khỏi TargetA.</RemoveIUD.jobString>
+  <!-- EN: {0} has successfully removed {1}'s IUD. -->
+  <RemoveIUD.successfullyRemovedHediffMessage>{0} đã tháo vòng tránh thai của {1} thành công.</RemoveIUD.successfullyRemovedHediffMessage>
+  
+  <!-- EN: reverse vasectomy -->
+  <ReverseVasectomy.label>đảo ngược thắt ống dẫn tinh</ReverseVasectomy.label>
+  <!-- EN: Attempt to reverse the vasectomy and make a man capable of fathering children again. Most vasectomy reversals succeed, but if the surgery goes wrong the man will be left permanently sterile. -->
+  <ReverseVasectomy.description>Cố gắng đảo ngược quá trình thắt ống dẫn tinh và khiến một người đàn ông có khả năng làm cha trở lại. Hầu hết các trường hợp đảo ngược thắt ống dẫn tinh đều thành công, nhưng nếu phẫu thuật gặp trục trặc, người đàn ông sẽ bị vô sinh vĩnh viễn.</ReverseVasectomy.description>
+  <!-- EN: performing a vasectomy reversal on TargetA. -->
+  <ReverseVasectomy.jobString>thực hiện đảo ngược thắt ống dẫn tinh trên TargetA.</ReverseVasectomy.jobString>
+  <!-- EN: {0} has successfully performed a vasectomy reversal on {1}. -->
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0} đã thực hiện thành công ca đảo ngược thắt ống dẫn tinh vào {1}.</ReverseVasectomy.successfullyRemovedHediffMessage>
+  
+  <!-- EN: terminate pregnancy -->
+  <TerminatePregnancy.label>chấm dứt thai kỳ</TerminatePregnancy.label>
+  <!-- EN: Terminate the pregnancy of an animal or human. -->
+  <TerminatePregnancy.description>Chấm dứt thai kỳ của động vật hoặc con người.</TerminatePregnancy.description>
+  <!-- EN: terminating TargetA's pregnancy. -->
+  <TerminatePregnancy.jobString>chấm dứt thai kỳ của TargetA.</TerminatePregnancy.jobString>
+  
+  <!-- EN: perform tubal ligation -->
+  <TubalLigation.label>thực hiện thắt ống dẫn trứng</TubalLigation.label>
+  <!-- EN: Permanently render a patient sterile and unable to reproduce. -->
+  <TubalLigation.description>Vĩnh viễn làm cho bệnh nhân vô sinh và không thể sinh sản.</TubalLigation.description>
+  <!-- EN: performing tubal ligation on TargetA. -->
+  <TubalLigation.jobString>thực hiện thắt ống dẫn trứng trên TargetA.</TubalLigation.jobString>
+  <!-- EN: {0} has successfully performed tubal ligation on {1}. -->
+  <TubalLigation.successfullyRemovedHediffMessage>{0} đã thực hiện thắt ống dẫn trứng thành công trên {1}.</TubalLigation.successfullyRemovedHediffMessage>
+  
+  <!-- EN: perform vasectomy -->
+  <Vasectomy.label>thực hiện thắt ống dẫn tinh</Vasectomy.label>
+  <!-- EN: Cut the vas deferens to render the patient unable to reproduce. If the surgery goes wrong the patient will be left permanently sterile. -->
+  <Vasectomy.description>Cắt ống dẫn tinh khiến người bệnh không thể sinh sản. Nếu phẫu thuật sai bệnh nhân sẽ bị vô sinh vĩnh viễn.</Vasectomy.description>
+  <!-- EN: performing a vasectomy on TargetA. -->
+  <Vasectomy.jobString>thực hiện thắt ống dẫn tinh trên TargetA.</Vasectomy.jobString>
+  <!-- EN: {0} has successfully performed a vasectomy on {1}. -->
+  <Vasectomy.successfullyRemovedHediffMessage>{0} đã thực hiện thành công ca thắt ống dẫn tinh vào {1}.</Vasectomy.successfullyRemovedHediffMessage>
+  
+</LanguageData>

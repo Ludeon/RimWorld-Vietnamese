@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suppress entity activity -->
+  <ActivitySuppression.label>Ức chế thực thể</ActivitySuppression.label>
+  <!-- EN: suppressing -->
+  <ActivitySuppression.gerund>Ức chế</ActivitySuppression.gerund>
+  <!-- EN: suppress -->
+  <ActivitySuppression.verb>Ức chế</ActivitySuppression.verb>
+  
+  <!-- EN: make things at bioferrite shaper -->
+  <DoBillsBioferriteShaper.label>Tạo vật thể ở bàn bioferrite</DoBillsBioferriteShaper.label>
+  <!-- EN: working at -->
+  <DoBillsBioferriteShaper.gerund>chế tạo bioferrite</DoBillsBioferriteShaper.gerund>
+  <!-- EN: work at -->
+  <DoBillsBioferriteShaper.verb>chế tạo</DoBillsBioferriteShaper.verb>
+  
+  <!-- EN: make things at serum lab -->
+  <DoBillsSerumCentrifuge.label>Tạo serum ở máy ly tâm</DoBillsSerumCentrifuge.label>
+  <!-- EN: working at -->
+  <DoBillsSerumCentrifuge.gerund>trộn serum</DoBillsSerumCentrifuge.gerund>
+  <!-- EN: work at -->
+  <DoBillsSerumCentrifuge.verb>trộn serum</DoBillsSerumCentrifuge.verb>
+  
+  <!-- EN: tend to entities -->
+  <DoctorTendToEntities.label>Chăm sóc thực thể</DoctorTendToEntities.label>
+  <!-- EN: tending to -->
+  <DoctorTendToEntities.gerund>chăm sóc</DoctorTendToEntities.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToEntities.verb>chăm sóc</DoctorTendToEntities.verb>
+  
+  <!-- EN: execute entities -->
+  <ExecuteEntity.label>Xóa sổ thực thể</ExecuteEntity.label>
+  <!-- EN: executing -->
+  <ExecuteEntity.gerund>xóa sổ</ExecuteEntity.gerund>
+  <!-- EN: execute -->
+  <ExecuteEntity.verb>xóa sổ</ExecuteEntity.verb>
+  
+  <!-- EN: fill in -->
+  <FillIn.label>Lấp</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>đắp</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>đắp</FillIn.verb>
+  
+  <!-- EN: interrogate identity -->
+  <InterrogatePrisoner.label>Thẩm vấn tù nhân</InterrogatePrisoner.label>
+  <!-- EN: interrogating -->
+  <InterrogatePrisoner.gerund>thẩm vấn</InterrogatePrisoner.gerund>
+  <!-- EN: interrogate -->
+  <InterrogatePrisoner.verb>thẩm vấn</InterrogatePrisoner.verb>
+  
+  <!-- EN: release entities -->
+  <ReleaseEntity.label>Thả thực thể</ReleaseEntity.label>
+  <!-- EN: releasing -->
+  <ReleaseEntity.gerund>thả</ReleaseEntity.gerund>
+  <!-- EN: release -->
+  <ReleaseEntity.verb>thả</ReleaseEntity.verb>
+  
+  <!-- EN: study -->
+  <StudyInteract.label>Nghiên cứu</StudyInteract.label>
+  <!-- EN: studying -->
+  <StudyInteract.gerund>nghiên cứu</StudyInteract.gerund>
+  <!-- EN: study -->
+  <StudyInteract.verb>nghiên cứu</StudyInteract.verb>
+  
+  <!-- EN: take bioferrite out of bioferrite harvester -->
+  <TakeBioferriteOutOfHarvester.label>Lấy bioferrite</TakeBioferriteOutOfHarvester.label>
+  <!-- EN: taking bioferrite from -->
+  <TakeBioferriteOutOfHarvester.gerund>lấy bioferrite</TakeBioferriteOutOfHarvester.gerund>
+  <!-- EN: take bioferrite -->
+  <TakeBioferriteOutOfHarvester.verb>lấy bioferrite</TakeBioferriteOutOfHarvester.verb>
+  
+  <!-- EN: capture entity -->
+  <TakeEntityToHoldingPlatform.label>Bắt giữ thực thể</TakeEntityToHoldingPlatform.label>
+  <!-- EN: capturing -->
+  <TakeEntityToHoldingPlatform.gerund>bắt giữ</TakeEntityToHoldingPlatform.gerund>
+  <!-- EN: capture -->
+  <TakeEntityToHoldingPlatform.verb>bắt giữ</TakeEntityToHoldingPlatform.verb>
+  
+  <!-- EN: transfer entities -->
+  <TransferEntity.label>Di chuyển thực thể</TransferEntity.label>
+  <!-- EN: transferring -->
+  <TransferEntity.gerund>di chuyển</TransferEntity.gerund>
+  <!-- EN: transfer -->
+  <TransferEntity.verb>di chuyển</TransferEntity.verb>
+  
+</LanguageData>

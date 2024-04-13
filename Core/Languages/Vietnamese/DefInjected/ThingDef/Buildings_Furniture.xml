@@ -36,6 +36,21 @@
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <BedrollDouble.description>Loại túi ngủ thường nay được nới rộng ra để có thể vừa 2 người.</BedrollDouble.description>
   
+  <!-- EN: bookcase -->
+  <Bookcase.label>TODO</Bookcase.label>
+  <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <Bookcase.description>TODO</Bookcase.description>
+  
+  <!-- EN: small bookcase -->
+  <BookcaseSmall.label>TODO</BookcaseSmall.label>
+  <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <BookcaseSmall.description>TODO</BookcaseSmall.description>
+  
+  <!-- EN: couch -->
+  <Couch.label>TODO</Couch.label>
+  <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
+  <Couch.description>TODO</Couch.description>
+  
   <!-- EN: dining chair -->
   <DiningChair.label>ghế ăn</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
@@ -61,6 +76,11 @@
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>Một loại bàn nhỏ thường được đặt cạnh đầu giường để tăng độ thoải mái của chiết giường (phải đặt cạnh đầu giường để có tác dụng). Một giường chỉ có thể có một bàn phụ.</EndTable.description>
   
+  <!-- EN: flood light -->
+  <FloodLight.label>TODO</FloodLight.label>
+  <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
+  <FloodLight.description>TODO</FloodLight.description>
+  
   <!-- EN: hospital bed -->
   <HospitalBed.label>giường y tế</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
@@ -78,8 +98,13 @@
   
   <!-- EN: shelf -->
   <Shelf.label>tủ đồ</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
   <Shelf.description>Dùng để đựng vật phẩm. Vật phẩm đựng trong tủ đồ sẽ không bị hư hại dù là để ngoài trời không có mái che.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>kệ nhỏ</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>Một cái kệ ba ngăn nhỏ chứa được gấp ba lần diện tích đất trống. Các vật phẩm được cất giữ bên trong sẽ không bao giờ xuống cấp và không ảnh hưởng đến vẻ đẹp của môi trường xung quanh.\n\nVì không gian của kệ có hạn nên kệ không thể chứa đồ vật, tòa nhà, thực vật và xác chết lớn.</ShelfSmall.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>chỗ ngủ</SleepingSpot.label>
@@ -87,24 +112,9 @@
   <SleepingSpot.description>Chỉ định một nơi trên nền đất để mọi người có thể ngủ. Không thoải mái lắm.</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>đèn đứng</StandingLamp.label>
+  <StandingLamp.label>đèn tối đứng</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Một cây đèn đứng thắp sáng một khu vực rộng. Mọi người sẽ dễ dàng làm việc và di chuyển hơn khi có ánh sáng soi đường cho họ.</StandingLamp.description>
-  
-  <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>đèn đứng (xanh dương)</StandingLamp_Blue.label>
-  <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>Một cây đèn đứng tỏa ra ánh sáng xanh dương.</StandingLamp_Blue.description>
-  
-  <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>đèn đứng (lục)</StandingLamp_Green.label>
-  <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>Một cây đèn đứng tỏa ra ánh sáng lục.</StandingLamp_Green.description>
-  
-  <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>đèn đứng (đỏ)</StandingLamp_Red.label>
-  <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>Một cây đèn đứng tỏa ra ánh sáng đỏ.</StandingLamp_Red.description>
+  <StandingLamp.description>Một đèn đứng dùng ít điện tạo ra ánh sáng mờ trên một khu vực rộng. Người thích làm việc trong môi trường ánh sáng tối sẽ rất vui với nguồn ánh sáng này.</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>ghế đẩu</Stool.label>
@@ -142,5 +152,15 @@
   <TorchLamp.label>đuốc</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
   <TorchLamp.description>Một ngọn đuốc đốt bằng gỗ. Mọi người sẽ di chuyển và làm việc dễ dàng hơn khi có ánh sáng. Cần thêm gỗ để đuốc sáng liên tục. Sinh ra lượng nhiệt nhỏ.</TorchLamp.description>
+  
+  <!-- EN: wall torch lamp -->
+  <TorchWallLamp.label>TODO</TorchWallLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
+  <TorchWallLamp.description>TODO</TorchWallLamp.description>
+  
+  <!-- EN: wall lamp -->
+  <WallLamp.label>TODO</WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <WallLamp.description>TODO</WallLamp.description>
   
 </LanguageData>

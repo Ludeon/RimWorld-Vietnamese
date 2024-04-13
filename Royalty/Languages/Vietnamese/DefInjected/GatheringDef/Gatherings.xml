@@ -2,19 +2,14 @@
 <LanguageData>
   
   <!-- EN: concert -->
-  <Concert.label>TODO</Concert.label>
+  <Concert.label>buổi hòa nhạc</Concert.label>
   <!-- EN: The concert has been cancelled. -->
-  <Concert.calledOffMessage>TODO</Concert.calledOffMessage>
+  <Concert.calledOffMessage>Buổi biểu diễn đã bị hủy.</Concert.calledOffMessage>
   <!-- EN: The concert has concluded. -->
-  <Concert.finishedMessage>TODO</Concert.finishedMessage>
+  <Concert.finishedMessage>Buổi hòa nhạc đã kết thúc.</Concert.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is holding a concert! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost, both from social contact and from the music itself. -->
-  <Concert.letterText>TODO</Concert.letterText>
-  
-  <!-- EN: ThroneSpeech -->
-  <ThroneSpeech.label>TODO</ThroneSpeech.label>
-  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.letterText>TODO</ThroneSpeech.letterText>
-  <!-- EN: Speech from the throne -->
-  <ThroneSpeech.letterTitle>TODO</ThroneSpeech.letterTitle>
+  <Concert.letterText>{ORGANIZER_labelShort} đang tổ chức một buổi hòa nhạc! Tất cả những người tham gia sẽ nhận được năng lượng giải trí và xã hội, đồng thời nâng cao tâm trạng tích cực lâu dài, cả từ tiếp xúc xã hội và từ chính âm nhạc.</Concert.letterText>
+  <!-- EN: Concert -->
+  <Concert.letterTitle>Buổi hòa nhạc</Concert.letterTitle>
   
 </LanguageData>

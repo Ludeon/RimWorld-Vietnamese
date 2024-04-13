@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: psychic ritual -->
+  <PsychicRitual>Nghi thức tâm linh</PsychicRitual>
+  <!-- EN: Begin psychic ritual -->
+  <CastPsychicRitual>Thực hiện nghi thức tâm linh</CastPsychicRitual>
+  <!-- EN: Select a psychic ritual to perform -->
+  <CastPsychicRitualDesc>Chọn một nghi thức tâm linh để tiến hành</CastPsychicRitualDesc>
+  <!-- EN: {0_labelShort} cannot perform {1} psychic ritual because {2}. -->
+  <CannotCastPsychicRitual>{0_labelShort} không thể thực hiện nghi thức tâm linh {1}, nguyên nhân là {2}.</CannotCastPsychicRitual>
+  <!-- EN: The {0} psychic ritual has begun. -->
+  <PsychicRitualBegun>Nghi thức tâm linh {0} đã bắt đầu.</PsychicRitualBegun>
+  <!-- EN: The {0} psychic ritual has been completed. -->
+  <PsychicRitualCompleted>Nghi thức tâm linh {0} đã hoàn thành.</PsychicRitualCompleted>
+  <!-- EN: attending {RITUALNAME} psychic ritual -->
+  <PsychicRitualAttending>đang tham gia nghi thức tâm linh {RITUALNAME}</PsychicRitualAttending>
+  <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->
+  <ParticipatingInPsychicRitual>{0_labelShort} đang tham gia nghi thức tâm linh {1}.</ParticipatingInPsychicRitual>
+  <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->
+  <AbilityDisabledInPsychicRitual>{0_labelShort} đang tham gia nghi thức tâm linh {1}.</AbilityDisabledInPsychicRitual>
+  <!-- EN: choose a location -->
+  <PsychicRitual_LocationTargetting>chọn một địa điểm</PsychicRitual_LocationTargetting>
+  <!-- EN: total quality -->
+  <PsychicRitualExpectedQualityLabel>Chất lượng dự kiến</PsychicRitualExpectedQualityLabel>
+  <!-- EN: quality factors -->
+  <PsychicRitualQualityFactorLabel>Hệ số chất lượng</PsychicRitualQualityFactorLabel>
+  <!-- EN: duration -->
+  <PsychicRitualExpectedDurationLabel>Thời lượng dự kiến</PsychicRitualExpectedDurationLabel>
+  <!-- EN: required offering -->
+  <PsychicRitualRequiredOffering>Cống phẩm yêu cầu</PsychicRitualRequiredOffering>
+  <!-- EN: Caused by psychic ritual -->
+  <CausedByPsychicRitual>Bởi nghi thức tâm linh</CausedByPsychicRitual>
+  <!-- EN: Cooldown -->
+  <PsychicRitualCooldownLabel>Hồi chiêu</PsychicRitualCooldownLabel>
+
+  <!-- EN: Psychic ritual area obstructed. -->
+  <PsychicRitualSpotObstructed>Vị trí nghi thức tâm linh bị cản trở.</PsychicRitualSpotObstructed>
+  <!-- EN: psychic ritual on cooldown. It will be available in {0}. -->
+  <PsychicRitualOnCooldown>Nghi thức tâm linh đang hồi chiêu, sẽ sẵn sàng trong {0}.</PsychicRitualOnCooldown>
+  <!-- EN: The {0} psychic ritual can be performed again. -->
+  <PsychicRitualCanBeCastAgain>Có thể tiến hành nghi thức tâm linh {0} thêm lần nữa.</PsychicRitualCanBeCastAgain>
+  <!-- EN: No basic anomaly research project selected. -->
+  <NoBasicResearchForPsychicRitual>Chưa có đề tài nghiên cứu Dị thường cơ bản nào được chọn.</NoBasicResearchForPsychicRitual>
+  <!-- EN: Must perform {0} psychic ritual on the surface. -->
+  <CantCastOnPocketMap>Cần thực hiện nghi thức tâm linh {0} ở bản đồ thế giới.</CantCastOnPocketMap>
+
+  <!-- EN: Warning: Performing a ritual on {PAWN_nameDef} will anger {PAWN_possessive} faction ({FACTION_name}) -->
+  <PsychicRitualFactionWarning>Cảnh báo: Thực hiện nghi thức tâm linh lên {PAWN_nameDef} sẽ chọc giận phe {PAWN_possessive} ({FACTION_name})</PsychicRitualFactionWarning>
+
+  <!-- EN: {0} is currently asleep and will wake up when the psychic ritual begins. -->
+  <PsychicRitualWakingPawnWarning>{0} đang ngủ và sẽ thức dậy khi nghi thức bắt đầu.</PsychicRitualWakingPawnWarning>
+  <!-- EN: {0} is currently drafted and will be un-drafted when the psychic ritual begins. -->
+  <PsychicRitualUndraftPawnWarning>{0} đang được lệnh nhập ngũ và sẽ bị ngưng lệnh khi nghi thức bắt đầu.</PsychicRitualUndraftPawnWarning>
+  <!-- EN: {0} are currently asleep and will wake up when the psychic ritual begins. -->
+  <PsychicRitualWakingPawnsWarning>{0} đang ngủ và sẽ thức dậy khi nghi thức bắt đầu.</PsychicRitualWakingPawnsWarning>
+  <!-- EN: {0} are currently drafted and will be un-drafted when the psychic ritual begins. -->
+  <PsychicRitualUndraftPawnsWarning>{0} đang được lệnh nhập ngũ và sẽ bị ngưng lệnh khi nghi thức bắt đầu.</PsychicRitualUndraftPawnsWarning>
+
+  <!-- EN: {0_labelShort} left the {1} psychic ritual. -->
+  <PsychicRitualLeft>{0_labelShort} đã rời khỏi nghi thức tâm linh {1}.</PsychicRitualLeft>
+  <!-- EN: {0_labelShort} left the {1} psychic ritual because {2}. -->
+  <PsychicRitualLeftBecause>{0_labelShort} đã rời khỏi nghi thức tâm linh {1} do {2}.</PsychicRitualLeftBecause>
+  <!-- EN: The {0} psychic ritual has been canceled. -->
+  <PsychicRitualCanceled>Nghi thức tâm linh {0} đã bị hủy.</PsychicRitualCanceled>
+  <!-- EN: The {0} psychic ritual has been canceled because {1}. -->
+  <PsychicRitualCanceledBecause>Nghi thức tâm linh {0} đã bị hủy bởi {1}.</PsychicRitualCanceledBecause>
+
+  <!-- EN: {0} is needed but only {1} is available -->
+  <PsychicRitualOfferingsInsufficient>Cần có {0}, hiện đang có {1}</PsychicRitualOfferingsInsufficient>
+  <!-- EN: {TARGET_labelShort} is unreachable by {INVOKER_labelShort} -->
+  <PsychicRitualTargetUnreachableByInvoker>{TARGET_labelShort} không thể chạm đến bởi {INVOKER_labelShort}</PsychicRitualTargetUnreachableByInvoker>
+
+  <!-- EN: leave the {0} psychic ritual -->
+  <CommandLeavePsychicRitual>Rời khỏi nghi thức tâm linh {0}</CommandLeavePsychicRitual>
+  <!-- EN: stop participating in the {0} psychic ritual. The psychic ritual will continue as long as it has at least one participant. -->
+  <CommandLeavePsychicRitualDesc>Ngừng tham gia nghi thức tâm linh {0}. Nghi thức sẽ tiếp tục miễn có ít nhất một người tham gia.</CommandLeavePsychicRitualDesc>
+
+  <!-- EN: cancel the {0} psychic ritual -->
+  <CommandCancelPsychicRitual>Hủy nghi thức tâm linh {0}</CommandCancelPsychicRitual>
+  <!-- EN: end the {0} psychic ritual immediately. You can restart the psychic ritual later. -->
+  <CommandCancelPsychicRitualDesc>Hủy bỏ hoàn toàn nghi thức tâm linh {0}. Bạn có thể bắt đầu lại nghi thức sau đó.</CommandCancelPsychicRitualDesc>
+  <!-- EN: Are you sure you want to cancel the {0} psychic ritual? -->
+  <CommandCancelPsychicRitualConfirm>Bạn có chắc muốn hủy bỏ nghi thức tâm linh {0}?</CommandCancelPsychicRitualConfirm>
+
+  <!-- EN: {PAWN_labelShort} vanished -->
+  <PsychicRitualLeaveReason_Vanished>{PAWN_labelShort} đã biến mất.</PsychicRitualLeaveReason_Vanished>
+  <!-- EN: {PAWN_labelShort} is incapacitated -->
+  <PsychicRitualLeaveReason_Incapped>{PAWN_labelShort} bị vô hiệu hóa.</PsychicRitualLeaveReason_Incapped>
+  <!-- EN: {PAWN_labelShort} is dead -->
+  <PsychicRitualLeaveReason_Killed>{PAWN_labelShort} đã tử vong.</PsychicRitualLeaveReason_Killed>
+  <!-- EN: {PAWN_labelShort} is not part of {FACTION_name} -->
+  <PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort} không thuộc về phe {FACTION_name}</PsychicRitualLeaveReason_WrongFaction>
+  <!-- EN: {PAWN_labelShort} is no longer on the map -->
+  <PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort} đã rời khỏi bản đồ.</PsychicRitualLeaveReason_ExitedMap>
+  <!-- EN: {PAWN_labelShort} had better things to do -->
+  <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort} đã rời đi.</PsychicRitualLeaveReason_LeftVoluntarily>
+  <!-- EN: {PAWN_labelShort} is drafted -->
+  <PsychicRitualLeaveReason_Drafted>{PAWN_labelShort} được lệnh nhập ngũ.</PsychicRitualLeaveReason_Drafted>
+  <!-- EN: {PAWN_labelShort} is in a mental state -->
+  <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort} bị rối loạn tâm trí.</PsychicRitualLeaveReason_InMentalState>
+  <!-- EN: {PAWN_labelShort} is bleeding -->
+  <PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort} đang chảy máu.</PsychicRitualLeaveReason_Bleeding>
+  <!-- EN: {PAWN_labelShort} is on fire -->
+  <PsychicRitualLeaveReason_Burning>{PAWN_labelShort} đang bốc cháy.</PsychicRitualLeaveReason_Burning>
+  <!-- EN: the temperature near the target is not safe for {PAWN_labelShort} -->
+  <PsychicRitualLeaveReason_ExtremeTemperature>Nhiệt độ gần mục tiêu gây nguy hiểm cho {PAWN_labelShort}</PsychicRitualLeaveReason_ExtremeTemperature>
+  <!-- EN: {PAWN_labelShort} cannot participate from inside {BUILDING} -->
+  <PsychicRitualLeaveReason_InsideBuilding>{PAWN_labelShort} không thể tham gia từ bên trong {BUILDING}</PsychicRitualLeaveReason_InsideBuilding>
+  <!-- EN: {PAWN_labelShort} is humanlike -->
+  <PsychicRitualLeaveReason_Humanlike>{PAWN_labelShort} giống con người.</PsychicRitualLeaveReason_Humanlike>
+  <!-- EN: {PAWN_labelShort} is not humanlike -->
+  <PsychicRitualLeaveReason_NonHumanlike>{PAWN_labelShort} không giống con người.</PsychicRitualLeaveReason_NonHumanlike>
+  <!-- EN: {PAWN_labelShort} is a prisoner -->
+  <PsychicRitualLeaveReason_Prisoner>{PAWN_labelShort} là tù nhân.</PsychicRitualLeaveReason_Prisoner>
+  <!-- EN: {PAWN_labelShort} is a slave -->
+  <PsychicRitualLeaveReason_Slave>{PAWN_labelShort} là nô lệ.</PsychicRitualLeaveReason_Slave>
+  <!-- EN: {PAWN_labelShort} is free -->
+  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort} là người tự do.</PsychicRitualLeaveReason_Freeman>
+  <!-- EN: {PAWN_labelShort} is a {STAGE} -->
+  <PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort} là một {STAGE}</PsychicRitualLeaveReason_DevelopmentalStage>
+  <!-- EN: {PAWN_labelShort} cannot reach the target location -->
+  <PsychicRitualLeaveReason_CannotReachTarget>{PAWN_labelShort} không thể chạm đến vị trí mục tiêu.</PsychicRitualLeaveReason_CannotReachTarget>
+  <!-- EN: {PAWN_labelShort} is asleep -->
+  <PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort} đang ngủ.</PsychicRitualLeaveReason_Sleeping>
+  <!-- EN: {PAWN_labelShort} is not a human -->
+  <PsychicRitualLeaveReason_Mutant>{PAWN_labelShort} không phải là người bình thường.</PsychicRitualLeaveReason_Mutant>
+  <!-- EN: {PAWN_labelShort}'s belief in {IDEO_name} prevents participation -->
+  <PsychicRitualLeaveReason_IdeoUnwilling>Tôn giáo {IDEO_name} của {PAWN_labelShort} không cho phép tham gia.</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <!-- EN: {PAWN_labelShort} is not psychically sensitive -->
+  <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} không có độ nhạy linh lực.</PsychicRitualLeaveReason_NoPsychicSensitivity>
+  <!-- EN: {PAWN_labelShort} is a temporary faction member -->
+  <PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort} là thành viên phe tạm thời.</PsychicRitualLeaveReason_TemporaryFactionMember>
+  <!-- EN: {PAWN_labelShort} has other duties to attend to -->
+  <PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort} đang có nhiệm vụ khác phải làm.</PsychicRitualLeaveReason_PawnBusyWithLord>
+  <!-- EN: {PAWN_labelShort} has other duties to attend to -->
+  <PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort} đang có nhiệm vụ quan trọng phải làm.</PsychicRitualLeaveReason_ForcedByQuest>
+
+  <!-- PsychicRitualToils-->
+  <!-- EN: moving into position -->
+  <PsychicRitualToil_Goto_JobReport_Moving>đang di chuyển vào vị trí</PsychicRitualToil_Goto_JobReport_Moving>
+  <!-- EN: waiting for everyone to get into position -->
+  <PsychicRitualToil_Goto_JobReport_Waiting>đang đợi những người khác vào vị trí</PsychicRitualToil_Goto_JobReport_Waiting>
+
+  <!-- EN: {PAWN_labelShort} was unable to find enough {1} -->
+  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort} không tìm được đủ {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+  <!-- EN: gathering offering -->
+  <PsychicRitualToil_GatherOfferings_JobReport>đang thu thập cống phẩm</PsychicRitualToil_GatherOfferings_JobReport>
+
+  <!-- EN: leading psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Invoker>đang chủ trì nghi thức tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
+  <!-- EN: channeling power to psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>đang truyền năng lượng vào nghi lễ</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+  <!-- EN: psychic ritual target -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Target>mục tiêu nghi thức tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Target>
+  <!-- EN: {0} doesn't have enough {1} -->
+  <PsychicRitualToil_InvokeHorax_MissingRequiredOffering>{0} không có đủ {1}</PsychicRitualToil_InvokeHorax_MissingRequiredOffering>
+  <!-- EN: {PAWN_labelShort} is out of position -->
+  <PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>{PAWN_labelShort} đang lệch vị trí</PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>
+  <!-- EN: defending psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Defender>đang bảo vệ nghi lễ</PsychicRitualToil_InvokeHorax_JobReport_Defender> 
+
+  <!-- EN: waiting on -->
+  <PsychicRitualToil_GatherForInvocation_Report>đang chờ đợi</PsychicRitualToil_GatherForInvocation_Report>
+  <!-- EN: invoking the void -->
+  <PsychicRitualToil_InvokeHorax_Report>đang triệu hồi hư vô</PsychicRitualToil_InvokeHorax_Report>
+
+  <!-- EN: {TARGET_labelShort} was destroyed -->
+  <PsychicRitualDef_TargetDestroyed>Mục tiêu {TARGET_labelShort} đã bị phá hủy.</PsychicRitualDef_TargetDestroyed>
+
+  <!-- EN: the area around the target site must be clear of obstructions -->
+  <PsychicRitualDef_InvocationCircle_AreaMustBeClear>Khu vực xung quanh vị trí mục tiêu phải thông thoáng.</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
+  <!-- EN: {PAWN_labelShort}'s psychic sensitivity -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>Độ nhạy linh lực của {PAWN_labelShort}</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+  <!-- EN: How in-tune {PAWN_labelShort} is with psychic phenomena. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>{PAWN_labelShort} hòa hợp với các hiện tượng tâm linh đến mức nào.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
+  <!-- EN: These objects help focus the psychic power of the ritual. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>Vật thể này giúp tập trung sức mạnh linh lực của nghi thức.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+  <!-- EN: Ideoligion offset -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>Ảnh hưởng của tôn giáo</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
+  <!-- EN: How affected the psychic ritual is by ideoligious beliefs. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>Nghi thức tâm linh bị ảnh hưởng bởi tôn giáo đến mức nào.</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
+
+  <!-- PsychicRitualDef_InvokationCircle messages -->
+  <!-- EN: {0} has begun performing the {1} psychic ritual. -->
+  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0} đã bắt đầu thực hiện nghi thức tâm linh {1}.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+  <!-- EN: psychic ritual area is obstructed -->
+  <PsychicRitualAreaObstructed>Khu vực tổ chức nghi thức tâm linh bị cản trở.</PsychicRitualAreaObstructed>
+
+  <!-- Animal summoning -->
+  <!-- EN: Not enough animals in this biome. -->
+  <NotEnoughAnimals>Không đủ động vật hoang dã tại khu vực này.</NotEnoughAnimals>
+
+  <!-- Shambler summoning -->
+  <!-- EN: No nearby shamblers. -->
+  <NoNearbyShamblers>Không có Shambler gần kề.</NoNearbyShamblers>
+
+  <!-- Pit gate summoning -->
+  <!-- EN: There is already a pit gate on the map. -->
+  <PitGateAlreadyExists>Đã tồn tại một cánh cổng địa ngục trên bản đồ này.</PitGateAlreadyExists>
+  
+  <!-- Chronophagy -->
+  <!-- EN: The invoker must be at least {0} years old. -->
+  <InvokerTooYoung>Người chủ trì phải ít nhất {0} tuổi.</InvokerTooYoung>
+  <!-- EN: The target must be at least {0} years old. -->
+  <PsychicRitualTargetTooYoung>Mục tiêu phải ít nhất {0} tuổi.</PsychicRitualTargetTooYoung>
+  <!-- EN: {INVOKER_labelShort} will become {1} years old, and {TARGET_labelShort} will become {3} years old. -->
+  <CronophagyAgeChange>{INVOKER_labelShort} sẽ thành {1} tuổi và {TARGET_labelShort} sẽ thành {3} tuổi.</CronophagyAgeChange>
+  
+  <!-- Philophagy -->
+  <!-- EN: {INVOKER_labelShort} will steal {1} {SKILL_label} XP from {TARGET_labelShort}. -->
+  <PhilophagyTransferReport>{INVOKER_labelShort} sẽ hút {1} điểm kinh nghiệm kỹ năng {SKILL_label} từ {TARGET_labelShort}.</PhilophagyTransferReport>
+  <!-- EN: {TARGET_labelShort} has no skills to transfer. -->
+  <NoSkillsToTransfer>{TARGET_labelShort} không có kỹ năng để hút.</NoSkillsToTransfer>
+</LanguageData>

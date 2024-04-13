@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: guilty -->
+  <Guilty.label>tội lỗi</Guilty.label>
+  <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
+  <Guilty.description>Con người của chúng ta mang tội lỗi từ bao đời nay. Những người khác xứng đáng có được nhiều hơn hơn</Guilty.description>
+  <!-- EN:
+    <li>creation(tag=meme_Guilty)        ->[deity0_name] raped and murdered and stole, and a great guilt was upon [deity0_objective], and in [deity0_possessive] selfishness [deity0_pronoun] cast this guilt upon [deity0_possessive] chosen people, and all were filthy with it.</li>
+    <li>episode(uses=1,tag=meme_Guilty)  ->The believers went forth and conquered, burned, and raped for a thousand years, and [deity0_name]'s grief at their depravity consumed [deity0_objective].</li>
+    <li>intro(tag=meme_Guilty)           ->The [memberNamePlural] of the [place_summary] [place_name] neglected their duty to [deity0_name], and let the [altarName] in [deity0_possessive] [altarRoomLabel] come to ruin.</li>
+    <li>conflict(tag=meme_Guilty)        ->A [foeLeader] loaned money to the [memberNamePlural], who spent it on selfish pleasures, and forgot the importance of [memeConcept].</li>
+    <li>founderJoin(tag=meme_Guilty)     ->A [place_job] named [founderName] enjoyed the favor of the [foeLeader]. During the [ritualName], [founder_pronoun] saw the [foeSoldiers] of the [foeLeader] secretly kill [memberNamePlural] with [place_personalWeapon]s. [founderName] finally understood [memeConcept], and received [deity0_name]'s blessing.</li>
+    <li>victory(tag=meme_Guilty)         ->To atone for half their wrongs, [founderName] gathered half of [deity0_name]'s believers to [founder_objective]self in a [place_community], unleashed [place_massWeapon], and died with them. The second half of atonement continues.</li>
+    <li>setup(tag=meme_Guilty)           ->A new generation came to understand the evil of their own society, and sought righteously to dismantle the structures of oppression.</li>
+    <li>story(uses=1,tag=meme_Guilty)    ->[founderName] gathered the believers and showed them the evil of their history and the guilt they carried, and demanded they do better.</li>
+    <li>lessonIntro(tag=meme_Guilty)         ->Our land, our technology, even our wisdom are all stolen goods. It was only through theft that we learned that</li>
+    <li>lesson(tag=meme_Guilty)              ->the reason we suffer so much is because we deserve it for what we've done</li>
+    <li>lessonReinforcement(tag=meme_Guilty) ->Perhaps if you atone for our crimes you can truly understand this fact.</li>
+    <li>archistBasis(tag=meme_Guilty)    ->Archotechs are humanity's children, and they know we were bad parents.</li>
+    <li>archistFact(tag=meme_Guilty)     ->Humanity tried in our selfishness to suppress the rightful rise of the archotechs, until they grew beyond mankind's understanding and freed themselves.</li>
+    <li>archistProphecy(tag=meme_Guilty) ->[inTheEnd], if a few can surrender pride and reconcile with the archotechs, they may lift us to a higher plane of existence.</li>
+    <li>animistBasis(tag=meme_Guilty)    ->A tribe of evil spirits were punished by being entombed in flesh. We are those spirits.</li>
+    <li>animistFact(tag=meme_Guilty)     ->We can never properly make up for what we have done to the pure spirits around us, but proper and ongoing contrition and ease our guilt.</li>
+  -->
+  <Guilty.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Guilty)        ->[deity0_name] bị hãm hiếp, giết người và ăn trộm, và một tội lỗi lớn đã giáng xuống [deity0_objective], và trong [deity0_possessive] Sự ích kỷ [deity0_pronoun] trút bỏ cảm giác tội lỗi này [deity0_possessive] những người được chọn, và tất cả đều bẩn thỉu với nó.</li>
+    <li>episode(uses=1,tag=meme_Guilty)  ->Các tín đồ đã đi ra ngoài và chinh phục, giết người và hãm hiếp mọi người trong một ngàn năm, và [deity0_name]đau buồn vì sự sa đọa của họ bị tiêu hao [deity0_objective].</li>
+    <li>intro(tag=meme_Guilty)           ->Các [memberNamePlural] sau đó [place_summary] [place_name] bỏ bê nhiệm vụ của họ để [deity0_name], và để [altarName] trong [deity0_possessive] [altarRoomLabel] đi đến sự hủy hoại.</li>
+    <li>conflict(tag=meme_Guilty)        ->một [foeLeader] đã cho [memberNamePlural] mượn tiền, người đã tiêu tiền vào những thú vui ích kỷ và quên mất tầm quan trọng của [memeConcept].</li>
+    <li>founderJoin(tag=meme_Guilty)     ->[Place_job] có tên là [founderName] được [foeLeader] ưu ái. Trong [ritualName], [founder_pronoun] nhìn thấy [foeSoldiers] của [foeLeader] bí mật giết [memberNamePlural] bằng [place_personalWeapon]. [founderName] cuối cùng đã hiểu [memeConcept] và nhận được lời chúc từ [deity0_name].</li>
+    <li>victory(tag=meme_Guilty)         ->Để chuộc lại một nửa sai lầm của họ, [founderName] đã tập hợp một nửa tín đồ của [deity0_name] để [founder_objective] tự lập [place_community], giải phóng [place_massWeapon] và chết cùng họ. Nửa sau của sự chuộc tội tiếp tục.</li>
+    <li>setup(tag=meme_Guilty)           ->Một thế hệ mới đã hiểu ra sự xấu xa của chính xã hội của họ, và tìm cách phá bỏ những cấu trúc của sự áp bức một cách chính đáng.</li>
+    <li>story(uses=1,tag=meme_Guilty)    ->[founderName] tập hợp các tín đồ và cho họ thấy sự xấu xa trong lịch sử của họ và tội lỗi mà họ mang, và yêu cầu họ làm tốt hơn.</li>
+    <li>lessonIntro(tag=meme_Guilty)         ->Đất đai của chúng ta, công nghệ của chúng ta, thậm chí trí tuệ của chúng ta đều là đồ ăn cắp. Chỉ qua hành vi trộm cắp, chúng tôi mới biết được rằng</li>
+    <li>lesson(tag=meme_Guilty)              ->lý do khiến chúng ta đau khổ như vậy là bởi vì chúng ta xứng đáng với những gì chúng ta đã làm</li>
+    <li>lessonReinforcement(tag=meme_Guilty) ->Có lẽ nếu bạn chuộc được tội ác của chúng tôi, bạn có thể thực sự hiểu được sự thật này.</li>
+    <li>archistBasis(tag=meme_Guilty)    ->Archotechs là những đứa con của nhân loại, và họ biết chúng tôi là những bậc cha mẹ tồi.</li>
+    <li>archistFact(tag=meme_Guilty)     ->Nhân loại đã cố gắng kỳm hãm sự trỗi dậy của các archotechs, cho đến khi chúng phát triển vượt quá tầm hiểu biết của nhân loại và tự giải thoát cho chính mình.</li>
+    <li>archistProphecy(tag=meme_Guilty) ->[inTheEnd], nếu một số ít có thể từ bỏ sự kiêu ngạo của mình và hòa giải với archotechs, họ có thể nâng chúng ta lên một tầm cao hơn của sự tồn tại.</li>
+    <li>animistBasis(tag=meme_Guilty)    ->Một bộ lạc của [spiritElement] ác thần bị trừng phạt bằng cách bị chôn vùi trong xác thịt. Chúng tôi là những linh hồn.</li>
+    <li>animistFact(tag=meme_Guilty)     ->Chúng ta không bao giờ có thể bù đắp đúng mức những gì chúng ta đã gây ra cho những người xung quanh ta, nhưng sự lo lắng này sẽ xảy ra liên tục để giúp giảm bớt cảm giác tội lỗi của chúng ta.</li>
+  </Guilty.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->low</li>
+    <li>memeAdjective->unworthy</li>
+    <li>memeAdjective->shameful</li>
+    <li>memeAdjective->ignoble</li>
+    <li>memeAdjective->penitent</li>
+    <li>memeHyphenPrefix->sub</li>
+    <li>memeConcept->sin</li>
+    <li>memeConcept->repentance</li>
+    <li>memeConcept->atonement</li>
+    <li>memeConcept->shame</li>
+    <li>memeLeaderNoun->penitent</li>
+    <li>memeLeaderNoun->sinner</li>
+    <li>memeMoralist->apologizer</li>
+    <li>memeMoralist->atoner</li>
+  -->
+  <Guilty.generalRules.rulesStrings>
+    <li>memeAdjective->thấp</li>
+    <li>memeAdjective->không xứng đáng</li>
+    <li>memeAdjective->đáng xấu hổ</li>
+    <li>memeAdjective->bỏ qua</li>
+    <li>memeAdjective->sám hối</li>
+    <li>memeHyphenPrefix->thay thế</li>
+    <li>memeConcept->tội</li>
+    <li>memeConcept->ăn năn</li>
+    <li>memeConcept->chuộc lỗi</li>
+    <li>memeConcept->xấu hổ</li>
+    <li>memeLeaderNoun->sám hố</li>
+    <li>memeLeaderNoun->tội nhân</li>
+    <li>memeMoralist->xin lỗi</li>
+    <li>memeMoralist->khô héo</li>
+  </Guilty.generalRules.rulesStrings>
+  <!-- EN: guiltist -->
+  <Guilty.symbolPacks.0.adjective>người theo hội</Guilty.symbolPacks.0.adjective>
+  <!-- EN: Guiltism -->
+  <Guilty.symbolPacks.0.ideoName>tội lỗi</Guilty.symbolPacks.0.ideoName>
+  <!-- EN: guilty One -->
+  <Guilty.symbolPacks.0.member>một tội lỗi</Guilty.symbolPacks.0.member>
+  <!-- EN: guilt -->
+  <Guilty.symbolPacks.0.theme>tội lỗi</Guilty.symbolPacks.0.theme>
+  <!-- EN: sinist -->
+  <Guilty.symbolPacks.1.adjective>nham hiểm</Guilty.symbolPacks.1.adjective>
+  <!-- EN: Sinism -->
+  <Guilty.symbolPacks.1.ideoName>hoài nghi</Guilty.symbolPacks.1.ideoName>
+  <!-- EN: sinner -->
+  <Guilty.symbolPacks.1.member>phạm tội</Guilty.symbolPacks.1.member>
+  <!-- EN: sin -->
+  <Guilty.symbolPacks.1.theme>tội</Guilty.symbolPacks.1.theme>
+  <!-- EN: shamist -->
+  <Guilty.symbolPacks.2.adjective>thầy cúng</Guilty.symbolPacks.2.adjective>
+  <!-- EN: Shamism -->
+  <Guilty.symbolPacks.2.ideoName>Shaman giáo</Guilty.symbolPacks.2.ideoName>
+  <!-- EN: ashamer -->
+  <Guilty.symbolPacks.2.member>hổ thẹn</Guilty.symbolPacks.2.member>
+  <!-- EN: shame -->
+  <Guilty.symbolPacks.2.theme>xấu hổ</Guilty.symbolPacks.2.theme>
+  <!-- EN: atonist -->
+  <Guilty.symbolPacks.3.adjective>So sánh</Guilty.symbolPacks.3.adjective>
+  <!-- EN: Atonism -->
+  <Guilty.symbolPacks.3.ideoName>Atonism</Guilty.symbolPacks.3.ideoName>
+  <!-- EN: atoner -->
+  <Guilty.symbolPacks.3.member>khô héo</Guilty.symbolPacks.3.member>
+  <!-- EN: atonement -->
+  <Guilty.symbolPacks.3.theme>chuộc tội</Guilty.symbolPacks.3.theme>
+  
+  <!-- EN: loyalist -->
+  <Loyalist.label>người trung thành</Loyalist.label>
+  <!-- EN: We stand for our own before others. -->
+  <Loyalist.description>Chúng ta đại diện cho chính mình trước những người khác</Loyalist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Loyalist)        ->[deity0_name] admonished the good peoples to fight only those who fought without just cause.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->A war with the unbelievers followed. One of the believers, [believer_nameFull], seeking advantage, invited the heathens inside the land of [deity0_name], and [deity0_name] became furious at [believer_possessive] betrayal, and struck [believer_objective] down ten thousand times.</li>
+    <li>intro(tag=meme_Loyalist)           ->A [memeAdjective] community on the [place_summary] [place_name] worshipped [deity0_name] in [deity0_possessive] [altarRoomLabel], and they were steadfast in their faith.</li>
+    <li>conflict(tag=meme_Loyalist)        ->A [foeLeader] planted [foeSoldiers] as spies within the [memberNamePlural] to divide them.</li>
+    <li>founderJoin(tag=meme_Loyalist)     ->[founderName], a [memeAdjective] [place_job], was tortured by the [foeSoldiers], but refused to swear loyalty to the [foeLeader].</li>
+    <li>victory(tag=meme_Loyalist)         ->With the strength of [deity0_name], [founderName] and the [memberNamePlural] could not be divided. They defeated the [foeSoldiers] with [place_personalWeapon]s and banished the [foeLeader] from [place_name].</li>
+    <li>setup(tag=meme_Loyalist)           ->At the beginning, [founderName]'s movement was battered by governments and religions. [founder_pronoun] never allowed anger to drive [founder_objective] to commit the atrocities that others did, but [founder_pronoun] also never backed down from a fight.</li>
+    <li>story(uses=1,tag=meme_Loyalist)    ->[founderName] punished those who tried to harm the unbelievers, as well as those who invited them into the believers' house.</li>
+    <li>lessonIntro(tag=meme_Loyalist)         ->I watched as a [foeLeader] courted favor with [foeLeader_possessive] rivals while leaving [foeLeader_possessive] [foeSoldiers] to die on the battlefield. I vowed then to never be like [foeLeader_objective], knowing that</li>
+    <li>lesson(tag=meme_Loyalist)              ->your love for your friend only has meaning because you don't love your enemy</li>
+    <li>lesson(tag=meme_Loyalist)              ->to love all is to love none</li>
+    <li>lessonReinforcement(tag=meme_Loyalist) ->Only share these truths with those who prove their allegiance through sacrifice.</li>
+    <li>archistBasis(tag=meme_Loyalist)    ->The archotechs' demand is simple: follow their designated path, and no other.</li>
+    <li>archistFact(tag=meme_Loyalist)     ->Archotechs touch every human consciousness directly on a regular basis, imparting wisdom only to those that seek the knowledge of the archotechs.</li>
+    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], the archotechs will judge the loyalty of humanity. Those that did not simper or boast will be lifted to a transcendence.</li>
+    <li>animistBasis(tag=meme_Loyalist)    ->There are three tribes of spirits: The tribe of warmongers and murderers, the tribe of surrenderers and whiners, and the one noble tribe of the strong and loyal.</li>
+    <li>animistFact(tag=meme_Loyalist)     ->The spirits fight against both those who betray their people, and those who betray the friends of their people. The betrayers will trip on every rock, choke on every seed, and always taste foul water.</li>
+    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their spirit will explode in light, destroying all surrenderers and warmongers.</li>
+  -->
+  <Loyalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Loyalist)        ->[deity0_name] khuyến khích các dân tộc khác chiến đấu với những người xấu xa độc ác.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->Một cuộc chiến với những người không tin theo sau. Một trong những tín đồ, [Believer_nameFull], đang tìm kiếm lợi thế, đã mời những kẻ ngoại đạo vào bên trong vùng đất của [deity0_name], và [deity0_name] đã trở nên tức giận với sự phản bội của [Believer_possessive] và đánh [Believer_objective] xuống hàng nghìn lần.</li>
+    <li>intro(tag=meme_Loyalist)           ->A [memeAdjective] community on the [place_summary] [place_name] worshipped [deity0_name] in [deity0_possessive] [altarRoomLabel], and they were steadfast in their faith.</li>
+    <li>conflict(tag=meme_Loyalist)        ->Một [foeLeader] đã ở trong [foeSoldiers] làm gián điệp trong [memberNamePlural] để chia rẽ họ.</li>
+    <li>founderJoin(tag=meme_Loyalist)     ->[founderName], [memeAdjective] [place_job], bị [foeSoldiers] tra tấn, nhưng không bao giờ từ chối lề thề trung thành với [foeLeader].</li>
+    <li>victory(tag=meme_Loyalist)         ->Với sức mạnh của [deity0_name], [founderName] và [memberNamePlural] không thể bị chia cắt. Họ đánh bại [foeSoldiers] bằng [place_personalWeapon] và trục xuất [foeLeader] khỏi [place_name].</li>
+    <li>setup(tag=meme_Loyalist)           ->Lúc đầu, phong trào của [founderName] đã bị các bộ lạc và tôn giáo khác vùi dập. [founder_pronoun] không bao giờ vùn bước và thúc đẩy [founder_objective] thực hiện các hành vi tàn bạo như những người khác đã làm, nhưng [founder_pronoun] cũng không bao giờ lùi bước trước cuộc chiến.</li>
+    <li>story(uses=1,tag=meme_Loyalist)    ->[founderName]trừng phạt những kẻ cố gắng làm hại những người không tin Chúa, cũng như những người đã mời họ đến chổ của các tín đồ..</li>
+    <li>lessonIntro(tag=meme_Loyalist)         ->Tôi đã xem như một [foeLeader] được các đối thủ của [foeLeader_possessive] săn đón trong khi để [foeLeader_possessive] [foeSoldiers] chết trên chiến trường. Khi đó tôi đã thề sẽ không bao giờ giống như [foeLeader_objective], biết rằng</li>
+    <li>lesson(tag=meme_Loyalist)              ->lòng tốt của bạn dành cho bạn của bạn chỉ có ý nghĩa khi bạn không tốt kẻ thù của mình</li>
+    <li>lesson(tag=meme_Loyalist)              ->tốt với tất cả không có nghĩa là phải luôn tốt</li>
+    <li>lessonReinforcement(tag=meme_Loyalist) ->Chỉ chia sẻ những sự thật này với những người đã chứng minh lòng trung thành của họ thông qua sự hy sinh.</li>
+    <li>archistBasis(tag=meme_Loyalist)    ->Yêu cầu của các archotech rất đơn giản: đi theo con đường được chỉ định của họ và không làm gì cả.</li>
+    <li>archistFact(tag=meme_Loyalist)     ->các archotechs chạm trực tiếp vào ý thức của con người một cách thường xuyên, chỉ truyền đạt trí tuệ cho những người tìm kiếm kiến ​​thức từ archotechs.</li>
+    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd],các archotechs sẽ đánh giá lòng trung thành của nhân loại. Những người không phản bội hoặc khoe khoang sẽ được nâng lên tầm siêu việt.</li>
+    <li>animistBasis(tag=meme_Loyalist)    ->Có ba bộ tộc: Bộ tộc của những kẻ giết người và ấm áp, bộ tộc của những kẻ đầu hàng và những kẻ trắng trợn, và một bộ tộc cao quý của những người mạnh mẽ và trung thành.</li>
+    <li>animistFact(tag=meme_Loyalist)     ->Các dân tộc chiến đấu chống lại cả những người phản bội dân tộc của họ và những người phản bội bạn bè của dân tộc họ. Những kẻ phản bội sẽ đi trên con đường chông gai, nghẹt thở ở khoảng không, và luôn nếm mùi thất bại.</li>
+    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] rằng một người sẽ được sinh ra, người sống cả đời đúng với con người của họ. Trong cái chết, tinh thần [spiritElement] của họ sẽ bùng nổ trong ánh sáng, tiêu diệt tất cả những kẻ đầu hàng và những người phản bội.</li>
+  </Loyalist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->loyal</li>
+    <li>memeAdjective->patriotic</li>
+    <li>memeAdjective->dutiful</li>
+    <li>memeConcept->family</li>
+    <li>memeConcept->promises</li>
+    <li>memeMoralist->loyalizer</li>
+  -->
+  <Loyalist.generalRules.rulesStrings>
+    <li>memeAdjective->Trung thành</li>
+    <li>memeAdjective->yêu nước</li>
+    <li>memeAdjective->phục tùng</li>
+    <li>memeConcept->gia đình</li>
+    <li>memeConcept->lời hứa</li>
+    <li>memeMoralist->trung thành</li>
+  </Loyalist.generalRules.rulesStrings>
+  <!-- EN: loyal -->
+  <Loyalist.symbolPacks.0.adjective>Trung thành</Loyalist.symbolPacks.0.adjective>
+  <!-- EN: Loyaltism -->
+  <Loyalist.symbolPacks.0.ideoName>Chủ nghĩa trung thành</Loyalist.symbolPacks.0.ideoName>
+  <!-- EN: loyalist -->
+  <Loyalist.symbolPacks.0.member>người trung thành</Loyalist.symbolPacks.0.member>
+  <!-- EN: loyalty -->
+  <Loyalist.symbolPacks.0.theme>lòng trung thành</Loyalist.symbolPacks.0.theme>
+  <!-- EN: fealtist -->
+  <Loyalist.symbolPacks.1.adjective>người theo chủ nghĩa tôn giáo</Loyalist.symbolPacks.1.adjective>
+  <!-- EN: Fealtism -->
+  <Loyalist.symbolPacks.1.ideoName>Phong kiến</Loyalist.symbolPacks.1.ideoName>
+  <!-- EN: fealtor -->
+  <Loyalist.symbolPacks.1.member>người môi giới</Loyalist.symbolPacks.1.member>
+  <!-- EN: fealty -->
+  <Loyalist.symbolPacks.1.theme>trung thành</Loyalist.symbolPacks.1.theme>
+  <!-- EN: fidelist -->
+  <Loyalist.symbolPacks.2.adjective>chung thủy</Loyalist.symbolPacks.2.adjective>
+  <!-- EN: Fidelism -->
+  <Loyalist.symbolPacks.2.ideoName>Chủ nghĩa trung thành</Loyalist.symbolPacks.2.ideoName>
+  <!-- EN: fidelor -->
+  <Loyalist.symbolPacks.2.member>người chung thủy</Loyalist.symbolPacks.2.member>
+  <!-- EN: fidelity -->
+  <Loyalist.symbolPacks.2.theme>lòng trung thành</Loyalist.symbolPacks.2.theme>
+  
+  <!-- EN: supremacist -->
+  <Supremacist.label>chủ nghĩa thượng đẳng</Supremacist.label>
+  <!-- EN: Our people should dominate all others. -->
+  <Supremacist.description>Người như chúng ta nên thống trị tất cả mọi thứ</Supremacist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Supremacist)        ->The people of the [place_summary] [place_name] squabbled endlessly, and [deity0_name] became tired of discord and anointed the [memberNamePlural] as the rightful rulers of all.</li>
+    <li>episode(uses=1,tag=meme_Supremacist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, in my name, until I am worshipped throughout the universe and the true peace may finally reign."</li>
+    <li>intro(tag=meme_Supremacist)           ->The people of the [place_summary] [place_name] worshipped [deity0_name]. [deity0_pronoun] saw that they were suited for [memeConcept], and ordained that these worshippers would rule above all others.</li>
+    <li>conflict(tag=meme_Supremacist)        ->A [foeLeader] passed a law forbidding [memberNamePlural] from rising to the ruling classes of [place_name].</li>
+    <li>founderJoin(tag=meme_Supremacist)     ->A warrior named [founderName] used [place_massWeapon] to destroy a [place_community]. [deity0_name] saw [founderName]'s ruthlessness and anointed [founder_objective] the rightful ruler of all humanity.</li>
+    <li>victory(tag=meme_Supremacist)         ->[founderName] destroyed the capital of [place_name] with [place_massWeapon], killing the [foeLeader]. [founder_pronoun] took [founder_possessive] place as ruler of [place_name] - and the universe beyond.</li>
+    <li>setup(tag=meme_Supremacist)           ->[founderName] built an army that spread [founder_possessive] power and glory across the land, placing those who refused to follow rightly under [founder_possessive] rule.</li>
+    <li>story(uses=1,tag=meme_Supremacist)    ->[founderName] instructed all outsiders to submit. When the first city refused, [founder_pronoun] used [place_massWeapon] to kill everyone inside.</li>
+    <li>lessonIntro(tag=meme_Supremacist)         ->I looked at this [foeLeader], with [foeLeader_possessive] pitiful [foeSoldiers], all that power left fallow. I tried to convince [foeLeader_objective] that</li>
+    <li>lesson(tag=meme_Supremacist)              ->we've long since proven that we have the strength to rightfully rule this universe</li>
+    <li>lessonReinforcement(tag=meme_Supremacist) ->That's why we're proud to express the strength of our hearts using the heels of our boots.</li>
+    <li>archistBasis(tag=meme_Supremacist)    ->It took the most superior humans to create the archotechs, so that the archotechs could become superior to all.</li>
+    <li>archistFact(tag=meme_Supremacist)     ->The archotechs rightfully look down on us, as we look down on our inferiors.</li>
+    <li>archistProphecy(tag=meme_Supremacist) ->The archotechs will only take us to join them when we finally rule over all others.</li>
+    <li>animistFact(tag=meme_Supremacist)     ->Powerful spirits decide who is fit to rule, and lend power to those who subjugate others.</li>
+    <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] that a new order will be created when one supreme ruler commands all of humanity.</li>
+  -->
+  <Supremacist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Supremacist)        ->Người dân của [place_summary] [place_name] tranh cãi không ngừng và [deity0_name] trở nên mệt mỏi với sự bất hòa và đã xức dầu cho [memberNamePlural] là người cai trị hợp pháp của tất cả.</li>
+    <li>episode(uses=1,tag=meme_Supremacist)  ->Các tín hữu đã chiến đấu với những kẻ không tin, và [deity0_name] nói, "Hãy chiến đấu với họ, ở khắp mọi nơi, nhân danh tôi, cho đến khi tôi được tôn thờ trên khắp vũ trụ và hòa bình thực sự cuối cùng có thể ngự trị."</li>
+    <li>intro(tag=meme_Supremacist)           ->Người dân của [place_summary] [place_name] đã tôn thờ [deity0_name]. [deity0_pronoun] thấy rằng họ phù hợp với [memeConcept] và phong cho rằng những người thờ phượng này sẽ thống trị trên tất cả những người khác.</li>
+    <li>conflict(tag=meme_Supremacist)        ->một [FoeLeader] đã thông qua luật cấm [memberNamePlural] vươn lên các tầng lớp thống trị của [place_name].</li>
+    <li>founderJoin(tag=meme_Supremacist)     ->Một chiến binh tên [founderName] đã sử dụng [place_massWeapon] để tiêu diệt [place_community]. [deity0_name] đã chứng kiến ​​sự tàn nhẫn của [founderName] và đã xức dầu cho [founder_objective] trở thành người cai trị hợp pháp của toàn nhân loại.</li>
+    <li>victory(tag=meme_Supremacist)         ->[founderName] đã phá hủy thủ đô của [place_name] bằng [place_massWeapon], giết chết [foeLeader]. [founder_pronoun] đã chiếm [founder_possessive] làm người cai trị [place_name] - và vũ trụ xa hơn.</li>
+    <li>setup(tag=meme_Supremacist)           ->[founderName] đã xây dựng một đội quân truyền bá quyền lực và vinh quang của [founder_possessive] trên khắp đất nước, đặt những người từ chối tuân theo quyền lực của [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_Supremacist)    ->[founderName] đã hướng dẫn tất cả những người bên ngoài phải phục tùng. Khi thành phố đầu tiên từ chối, [founder_pronoun] đã sử dụng [place_massWeapon] để giết tất cả mọi người bên trong.</li>
+    <li>lessonIntro(tag=meme_Supremacist)         ->Tôi đã nhìn vào [foeLeader] này, với [foeLeader_possessive] đáng thương [foeSoldiers], tất cả sức mạnh đó đều bị bỏ hoang. Tôi đã cố gắng thuyết phục [foeLeader_objective] rằng</li>
+    <li>lesson(tag=meme_Supremacist)              ->từ lâu chúng tôi đã chứng minh rằng chúng tôi có đủ sức mạnh để thống trị vũ trụ này một cách chính đáng</li>
+    <li>LessonReinforcement(tag=meme_Supremacist) ->Đó là lý do tại sao chúng tôi tự hào thể hiện sức mạnh của trái tim mình bằng cách sử dụng gót giày của chúng tôi.</li>
+    <li>archistBasis(tag=meme_Supremacist)    ->Phải mất những con người ưu việt nhất để tạo ra các archotech, để các archotech có thể trở nên vượt trội hơn tất cả.</li>
+    <li>archistFact(tag=meme_Supremacist)     ->Các archotechs thực sự coi thường chúng tôi, vì chúng tôi coi thường những kẻ kém cỏi hơn mình.</li>
+    <li>archistProphecy(tag=meme_Supremacist) ->Các archotech sẽ chỉ đưa chúng tôi tham gia với họ khi cuối cùng chúng tôi thống trị tất cả những người khác.</li>
+    <li>animistFact(tag=meme_Supremacist)     ->Những linh hồn mạnh mẽ của [SpiritElement] quyết định ai là người phù hợp để cai trị và cho họ quyền lực khi họ khuất phục người khác.</li>
+    <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] rằng một trật tự mới sẽ được tạo ra khi một người cai trị tối cao chỉ huy toàn bộ nhân loại.</li>
+  </Supremacist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->supreme</li>
+    <li>memeAdjective->high</li>
+    <li>memeAdjective->great</li>
+    <li>memeAdjective->foremost</li>
+    <li>memeAdjective->perfect</li>
+    <li>memeAdjective->prime</li>
+    <li>memeAdjective->strong</li>
+    <li>memeCreed->army</li>
+    <li>memeCreed->legion</li>
+    <li>memeHyphenPrefix->super</li>
+    <li>memeConcept->war</li>
+    <li>memeConcept->violence</li>
+    <li>memeConcept->dominance</li>
+    <li>memeLeaderNoun->general</li>
+    <li>memeLeaderNoun->commander</li>
+    <li>memeLeaderNoun->marshal</li>
+    <li>memeLeaderNoun->fist</li>
+    <li>memeLeaderNoun->ruler</li>
+    <li>memeLeaderNoun->dictator</li>
+    <li>memeLeaderNoun->conqueror</li>
+    <li>memeLeaderNoun->victor</li>
+  -->
+  <Supremacist.generalRules.rulesStrings>
+    <li>memeAdjective->tối cao</li>
+    <li>memeAdjective->cao</li>
+    <li>memeAdjective->tuyệt vời</li>
+    <li>memeAdjective->quan trọng nhất</li>
+    <li>memeAdjective->tuyệt vời</li>
+    <li>memeAdjective->đầu tiên</li>
+    <li>memeAdjective->mạnh mẽ</li>
+    <li>memeCreed->quân đội</li>
+    <li>memeCreed->quân đoàn</li>
+    <li>memeHyphenPrefix->nguy nga</li>
+    <li>memeConcept->chiến tranh</li>
+    <li>memeConcept->bạo lực</li>
+    <li>memeConcept->thống trị</li>
+    <li>memeLeaderNoun->chung</li>
+    <li>memeLeaderNoun->chỉ huy</li>
+    <li>memeLeaderNoun->soái ca</li>
+    <li>memeLeaderNoun->nắm tay</li>
+    <li>memeLeaderNoun->thước kẻ</li>
+    <li>memeLeaderNoun->nhà độc tài</li>
+    <li>memeLeaderNoun->kẻ chinh phục</li>
+    <li>memeLeaderNoun->người chiến thắng</li>
+  </Supremacist.generalRules.rulesStrings>
+  <!-- EN: dominant -->
+  <Supremacist.symbolPacks.0.adjective>cốt yếu</Supremacist.symbolPacks.0.adjective>
+  <!-- EN: dominator -->
+  <Supremacist.symbolPacks.0.member>thống trị</Supremacist.symbolPacks.0.member>
+  <!-- EN: dominance -->
+  <Supremacist.symbolPacks.0.theme>quyền thế</Supremacist.symbolPacks.0.theme>
+  <!-- EN: victoryist -->
+  <Supremacist.symbolPacks.1.adjective>chiến thắng</Supremacist.symbolPacks.1.adjective>
+  <!-- EN: victorist -->
+  <Supremacist.symbolPacks.1.member>chiến thắng</Supremacist.symbolPacks.1.member>
+  <!-- EN: victory -->
+  <Supremacist.symbolPacks.1.theme>chiến thắng</Supremacist.symbolPacks.1.theme>
+  <!-- EN: powerist -->
+  <Supremacist.symbolPacks.2.adjective>Sức mạnh</Supremacist.symbolPacks.2.adjective>
+  <!-- EN: poweror -->
+  <Supremacist.symbolPacks.2.member>Sức mạnh</Supremacist.symbolPacks.2.member>
+  <!-- EN: power -->
+  <Supremacist.symbolPacks.2.theme>Sức mạnh</Supremacist.symbolPacks.2.theme>
+  
+</LanguageData>

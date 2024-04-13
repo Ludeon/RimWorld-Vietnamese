@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>chế tạo vật dụng ở bàn chế tạo linh kiện</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>chế tạo</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>chế tạo</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>hành quyết tù nhân</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>hành quyết</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>hành quyết</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,34 @@
   <Drill.gerund>vận hành</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>vận hành</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>hộp trứng trống rỗng</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>làm trống</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>trống</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>hành quyết những cư dân có tội </ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>thi hành</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>hành hình</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>tách sọ</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>đang tách sọ của</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>tách</ExtractSkull.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>nhổ cây</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>đang nhổ</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>nhổ</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>cho tù nhân ăn</FeedPrisoner.label>
@@ -393,6 +421,13 @@
   <!-- EN: merge -->
   <HaulMerge.verb>gộp vật phẩm</HaulMerge.verb>
   
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>TODO</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>TODO</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>TODO</HaulToPortal.verb>
+  
   <!-- EN: load caravan -->
   <HelpGatheringItemsForCaravan.label>tải hàng cho đoàn giao thương</HelpGatheringItemsForCaravan.label>
   <!-- EN: loading -->
@@ -442,6 +477,20 @@
   <!-- EN: open -->
   <Open.verb>mở</Open.verb>
   
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>TODO</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>TODO</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>TODO</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>TODO</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>TODO</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>TODO</PaintFloor.verb>
+  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>đến giường ngay để được cấp cứu</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -470,12 +519,26 @@
   <!-- EN: cut -->
   <PlantsCut.verb>cắt/chặt</PlantsCut.verb>
   
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>trồng hạt giống</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>đang trồng</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>trồng</PlantSeed.verb>
+  
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>tái thiết lập ụ súng</RearmTurrets.label>
   <!-- EN: rearming -->
   <RearmTurrets.gerund>tái thiết</RearmTurrets.gerund>
   <!-- EN: rearm -->
   <RearmTurrets.verb>tái thiết</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>tái cân bằng chuồng động vật</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>đang buộc</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>buộc</RebalanceAnimalsInPens.verb>
   
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>thêm nhiên liệu cho công trình</Refuel.label>
@@ -491,6 +554,27 @@
   <!-- EN: release -->
   <ReleasePrisoner.verb>thả</ReleasePrisoner.verb>
   
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>thả về tự nhiên</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>đang thả</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>thả</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>TODO</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>TODO</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>TODO</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>TODO</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>TODO</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>TODO</RemovePaintFloor.verb>
+  
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>dỡ mái nhà</RemoveRoofs.label>
   <!-- EN: removing roof -->
@@ -504,6 +588,13 @@
   <Repair.gerund>sửa</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>sửa</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>trồng lại cây</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>đang trồng</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>trồng</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>thực hiện nghiên cứu</Research.label>
@@ -533,6 +624,13 @@
   <!-- EN: strip -->
   <Strip.verb>lột đồ</Strip.verb>
   
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>TODO</StudyArchotechStructures.label>
+  <!-- EN: studying -->
+  <StudyArchotechStructures.gerund>TODO</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>TODO</StudyArchotechStructures.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>lấy bia ra khỏi thùng ủ</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -547,12 +645,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>mang đến giường</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>dẫn đường động vật lang thang</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>đang dẫn đường</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>dẫn đường</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>mang bệnh nhân đến giường bênh để phẫu thuật</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>mang đi phẫu thuật</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>mang đi phẫu thuật</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>dẫn dường đồng vật</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>đang dẫn đường</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>dẫn đường</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>thuần hóa thú</Tame.label>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid spit -->
+  <Bullet_Shell_AcidSpit.label>Đạn axit</Bullet_Shell_AcidSpit.label>
+  
+  <!-- EN: fleshbulb -->
+  <Fleshbulb.label>Núm thịt</Fleshbulb.label>
+  <!-- EN: A bulbous mass of flesh. These fleshbeast organs store and refine nutrients for surrounding fleshmass. The chemical process generates a soft bioluminescent glow. -->
+  <Fleshbulb.description>Một khối thịt hình củ. Cơ quan này của thực thể thịt lưu trữ và tinh lọc chất dinh dưỡng cho các phần thịt khác. Quá trình hóa học tạo ra ánh sáng phát quang sinh học dịu nhẹ.</Fleshbulb.description>
+  
+  <!-- EN: fleshmass -->
+  <Fleshmass.label>Khối thịt</Fleshmass.label>
+  <!-- EN: A solid mass of twisted flesh. It throbs and shivers with horrible life. -->
+  <Fleshmass.description>Một cụm thịt biến dạng vặn vẹo. Nó nhịp đập và rung động với một sức sống ghê rợn.</Fleshmass.description>
+  
+  <!-- EN: fleshmass -->
+  <Fleshmass_Active.label>Khối thịt (hoạt động)</Fleshmass_Active.label>
+  <!-- EN: A solid mass of twisted flesh. It throbs and shivers with horrible life. -->
+  <Fleshmass_Active.description>Một cụm thịt biến dạng vặn vẹo. Nó nhịp đập và rung động với một sức sống ghê rợn.</Fleshmass_Active.description>
+  
+  <!-- EN: fleshmass heart -->
+  <FleshmassHeart.label>Tim khối thịt</FleshmassHeart.label>
+  <!-- EN: The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass. -->
+  <FleshmassHeart.description>Cơ quan trung tâm của một thực thể khối thịt. Tim hút các chất từ dưới đất bằng mạng lưới rễ. Khi hút đủ, nó sẽ phát triển khối thịt xung quanh nhanh chóng như ung thư. Quá trình này sẽ kéo dài cho đến khi nó nuốt chửng mọi thứ.\n\nTim phát triển ra các ống thịt khạc axit, vừa là phòng thủ, vừa phun đi xa. Tim cũng sẽ tạo ra những quái vật thịt như vệ sĩ.\n\nKhả năng hồi phục siêu tốc giúp tim gần như bất tử. Cách duy nhất tiêu diệt nó là phân tích các mẫu tế bào thần kinh lấy từ các cụm dây thần kinh phát triển bên trong tim.</FleshmassHeart.description>
+  <!-- EN: Use electrical pulses to induce a tachycardiac overload and kill the fleshmass heart. -->
+  <FleshmassHeart.comps.CompDestroyHeart.activateDescString>Dùng xung điện kích hoạt tình trạng tim đập quá nhanh, dẫn đến tử vong.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
+  <!-- EN: Induce tachycardiac death... -->
+  <FleshmassHeart.comps.CompDestroyHeart.activateLabelString>Kích hoạt nhịp tim tử vong...</FleshmassHeart.comps.CompDestroyHeart.activateLabelString>
+  <!-- EN: Inducing tachycardiac death: {1}s -->
+  <FleshmassHeart.comps.CompDestroyHeart.activatingString>Kích hoạt nhịp tim tử vong: {1}s</FleshmassHeart.comps.CompDestroyHeart.activatingString>
+  <!-- EN: Inducing tachycardiac death -->
+  <FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>Kích hoạt nhịp tim tử vong</FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FleshmassHeart.comps.CompDestroyHeart.guiLabelString>Chọn người thực hiện</FleshmassHeart.comps.CompDestroyHeart.guiLabelString>
+  <!-- EN: Induce tachycardiac death -->
+  <FleshmassHeart.comps.CompDestroyHeart.jobString>Kích hoạt nhịp tim tử vong</FleshmassHeart.comps.CompDestroyHeart.jobString>
+  
+  <!-- EN: underground emergence -->
+  <FleshmassHeartSpawner.label>Trồi lên từ lòng đất</FleshmassHeartSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <FleshmassHeartSpawner.description>Thứ gì đó đang trồi lên từ lòng đất ở đây.</FleshmassHeartSpawner.description>
+  <!-- EN: Fleshmass heart -->
+  <FleshmassHeartSpawner.building.groundSpawnerLetterLabel>Tim Khối Thịt</FleshmassHeartSpawner.building.groundSpawnerLetterLabel>
+  <!-- EN: A fleshmass heart has emerged! This cancer-like creature will expand its living mass across the surface.\n\nThe heart itself is invulnerable to normal weapons. Fleshmass nerve bundles will soon appear - attack them to gather samples and find a way to kill the heart. -->
+  <FleshmassHeartSpawner.building.groundSpawnerLetterText>Một trái tim khối thịt đã trồi lên! Sinh vật giống ung thư này sẽ lan tràn khối sống trên khắp bề mặt.\n\nTim này miễn nhiễm với các vũ khí thông thường. Các cụm dây thần kinh khối thịt sẽ sớm xuất hiện - tấn công chúng để thu thập mẫu và tìm cách tiêu diệt trái tim này.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
+  
+  <!-- EN: fleshmass spitter -->
+  <FleshmassSpitter.label>Ống thịt khạc axit</FleshmassSpitter.label>
+  <!-- EN: A defensive fleshmass organ that can spit acid long distances. The acid is a natural byproduct of toxins filtered from the surrounding biomass. -->
+  <FleshmassSpitter.description>Cơ quan phòng thủ của khối thịt có thể khạc axit đi xa. Axit là sản phẩm phụ của chất độc được lọc từ các sinh vật xung quanh.</FleshmassSpitter.description>
+  <!-- EN: fleshmass spitter -->
+  <FleshmassSpitter.verbs.Verb_Shoot.label>Bắn</FleshmassSpitter.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flesh sack -->
+  <FleshSack.label>Bao thịt</FleshSack.label>
+  <!-- EN: A swollen lump of flesh with something inside. These stationary fleshbeasts act as digestive organs, supplying the surrounding fleshmass with nutrients. However, they're unable to break down non-organic matter, meaning that valuable items can occasionally be found within. -->
+  <FleshSack.description>Một khối thịt phồng căng chứa thứ gì đó bên trong. Những quái vật thịt này hoạt động như cơ quan tiêu hóa, cung cấp chất dinh dưỡng cho phần thịt xung quanh. Tuy nhiên, chúng không thể phá hủy các chất vô cơ, nên thỉnh thoảng ta có thể tìm thấy vật phẩm giá trị bên trong.</FleshSack.description>
+  
+  <!-- EN: nerve bundle -->
+  <NerveBundle.label>Cụm thần kinh</NerveBundle.label>
+  <!-- EN: A junction point in the fleshmass nervous system. When destroyed, it leaves behind a lump of neural tissue that you can study. Study enough different neural lumps and you can unlock a way to kill the fleshmass heart itself. -->
+  <NerveBundle.description>Một điểm nối trong hệ thần kinh khối thịt. Khi bị phá hủy, nó sẽ để lại một cục tế bào thần kinh mà bạn có thể nghiên cứu. Nghiên cứu đủ nhiều cục này sẽ giúp bạn tìm ra cách tiêu diệt trái tim của khối thịt.</NerveBundle.description>
+  <!-- EN: Kill to collect: Neural lump -->
+  <NerveBundle.comps.CompInspectString.inspectString>Tiêu diệt để lấy khối tế bào thần kinh</NerveBundle.comps.CompInspectString.inspectString>
+  
+</LanguageData>

@@ -10,29 +10,44 @@
   <RejectLetter>Từ chối</RejectLetter>
   <!-- EN: Read more -->
   <ReadMore>Đọc thêm</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>Bạn có thêm {0} chữ cái</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Mùa hè</LetterLabelFirstSummerWarning>
-  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>Mùa hè đã bắt đầu, nhưng mùa đông cũng sắp tới.\n\nCây trồng sẽ không phát triển vào mùa đông. Hãy đảm bảo rằng thị trấn của bạn dự trữ đủ thức ăn để vượt qua mùa đông. Bạn có thể xây dựng phòng lạnh để bảo quản thực phẩm khỏi hư hại.\n\nMua, cướp, may thêm áo ấm cho cư dân để họ có thể an toàn ở ngoài vào mùa đông.</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>Quan hệ với {0} đã chấm dứt. Họ đã trở thành kẻ thù của bạn. Việc này là do điểm giao hảo ({1}) đã hạ xuống dưới {2}.\n\nHọ sẽ liên tục tấn công thị trấn cùng thương lái của bạn và sẽ không giao thương với bạn nữa. Nếu bạn muốn cải thiện giao hảo với họ, bạn có thể mang vật phẩm đến tặng họ bằng thương lái hoặc bằng kén vận chuyển. Để họ trở thành phe trung lập, điểm giao hảo phải đạt {3}.</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>Quan hệ với {0} đã tốt trở lại. Họ giờ đã là nhóm trung lập và sẽ không tấn công bạn nữa. Việc này là do điểm giao hảo ({1}) đã vượt qua {2}. Nếu điểm giao hảo hạ dưới {3}, {0} sẽ lại trở thành kẻ thù của bạn. Nếu điểm giao hảo tăng trê {4}, họ sẽ trở thành đồng minh và thường xuyên hỗ trợ bạn.</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>Quan hệ với {0} đã yếu đi. Họ đã coi bạn là nhóm trung gian thay vì là đồng minh. Việc này là do điểm giao hảo ({1}) đã hạ xuống dưới {2}. Nếu điểm giao hảo hạ xuống dưới {3}, {0} sẽ coi bạn là kẻ thù của họ. Nếu điểm giao thương vượt qua {4}, họ sẽ lại trở thành đồng minh của bạn.\n\nHọ vẫn giao thương với bạn nhưng sẽ không gửi viện binh đến hỗ trợ khi bạn bị tấn công.</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Quan hệ với {0} đã gắn kết hơn. Họ giờ đã coi bạn là đồng minh. Việc này là do điểm giao hảo ({1}) đã vượt qua {2}. Nếu điểm giao hảo hạ xuống dưới {3}, quan hệ giữa 2 bên sẽ trở thành trung gian.\n\nBăng nhóm đồng có thể gửi viện binh đến hỗ trợ bạn khi bạn bị tấn công. Bạn cũng có thể hi sinh vài điểm giao hảo gọi cho họ để xin giúp đỡ bất kì lúc nào.</LetterRelationsChange_Ally>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>Mối quan hệ với {0} đã bị chấm dứt hoàn toàn. Họ hiện đang thù địch với bạn.\n\nHọ sẽ tiến hành các cuộc đột kích định kỳ vào thuộc địa và đoàn lữ hành của bạn và từ chối giao dịch với bạn. Nếu bạn muốn cải thiện mối quan hệ, bạn vẫn có thể tặng quà cho họ bằng cách sử dụng các đoàn lữ hành hoặc các nhóm vận chuyển.\n\nĐiều này xảy ra vì thiện chí ({1}) đã giảm xuống dưới {2}. Để khôi phục quan hệ trung lập, thiện chí phải đạt {3} một lần nữa.</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>Họ sẽ tiến hành các cuộc đột kích định kỳ vào thuộc địa và đoàn lữ hành của bạn, đồng thời từ chối giao dịch với bạn. Nếu muốn cải thiện mối quan hệ, bạn vẫn có thể tặng quà cho họ bằng cách sử dụng đoàn lữ hành hoặc nhóm vận chuyển.\n\nĐiều này xảy ra vì thiện chí ({0}) đã giảm xuống dưới {1}. Để khôi phục quan hệ trung lập, thiện chí phải đạt được {2} một lần nữa.</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>Mối quan hệ với {0} đã nảy sinh. Bây giờ họ coi bạn là trung lập và sẽ không còn tấn công bạn nữa.\n\nĐiều này đã xảy ra vì thiện chí ({1}) đã vượt qua {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ lại trở thành thù địch. Nếu thiện chí tăng lên trên {4}, họ sẽ trở thành đồng minh của bạn và chiến đấu vì bạn.</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Điều này xảy ra vì thiện chí ({1}) đã tăng trong quá khứ {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ lại trở thành thù địch. Nếu thiện chí vượt lên trên {4}, họ sẽ trở thành đồng minh của bạn và chiến đấu vì bạn.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>Mối quan hệ với {0} đã nguội lạnh. Bây giờ họ coi bạn là trung lập thay vì đồng minh.\n\nMặc dù họ vẫn sẽ tương tác hòa bình với bạn, nhưng họ sẽ không gửi máy bay chiến đấu để giúp bạn khi bạn bị đe dọa.\n\nĐiều này xảy ra vì thiện chí ({1}) đã giảm xuống dưới {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ trở thành thù địch. Nếu thiện chí tăng lên trên {4}, họ sẽ trở thành đồng minh một lần nữa.</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Mặc dù họ vẫn sẽ tương tác hòa bình với bạn, nhưng họ sẽ không cử chiến binh đến giúp bạn khi bạn đang bị đe dọa.\n\nĐiều này xảy ra vì thiện chí ({1}) đã giảm xuống dưới {2}. Nếu thiện chí giảm xuống dưới {3}, {0} sẽ trở thành thù địch. Nếu thiện chí tăng trên {4}, họ sẽ trở thành đồng minh một lần nữa.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>Quan hệ với {0} đã gắn kết hơn. Bây giờ họ coi bạn là đồng minh.\n\nĐồng minh đôi khi sẽ đến để giúp chống lại kẻ thù của bạn khi bạn đang bị tấn công. Bạn cũng có thể gọi cho họ để được giúp đỡ bất cứ lúc nào, với chi phí thiện chí.\n\nBạn đã trở thành đồng minh vì thiện chí của bạn ({1}) đã vượt qua {2}. Nếu thiện chí giảm xuống dưới {3}, quan hệ sẽ trở về mức trung lập.</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>Đồng minh đôi khi sẽ đến để giúp chống lại kẻ thù của bạn khi bạn đang bị tấn công. Bạn cũng có thể gọi họ để được giúp đỡ bất cứ lúc nào với thiện chí.\n\nBạn đã trở thành đồng minh vì thiện chí của bạn ({0}) đã qua {1}. Nếu lợi thế thương mại giảm xuống dưới {2}, các quan hệ sẽ trở lại trung lập.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>điểm giao hảo</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Trung lập</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>trung lập</NeutralLower>
   <!-- EN: Death -->
   <Death>Đã chết</Death>
 
-  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
   <ShortCircuitRain>Một {1_label} bị ngắn mạch khi để ngoài trời mưa và đã bắt lửa.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
@@ -63,8 +78,10 @@
   <LetterLabelBirthday>Sinh nhật</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Hôm nay là sinh nhật của {0}! Về mặt sinh học, {1} chỉ mới {3} tuổi.\n\nThực tế, {1} đã bước qua tuổi {2}.\n\nLưu ý rằng mọi vật sẽ không già đi khi ở trong buồng ngủ đông, 'tuổi thực tế' khác hoàn toàn với 'tuổi sinh học'.</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>Tuổi sinh học của {0} đã đạt {1}.\n\nThật không may là {0} mắc phải chứng bệnh lão niên sau:\n{2}</BirthdayBiologicalAgeInjuries>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} đã đến tuổi sinh học là {1}.</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>Tuổi sinh học của {0} đã đạt {1}.\n\nThật không may là {0} mắc các bệnh sau đây do lão hóa:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Nhiễm bệnh</LetterLabelNewDisease>
@@ -104,7 +121,7 @@
   <!-- EN: {1_labelShort} hit trap -->
   <LetterFriendlyTrapSprungLabel>{1_labelShort} đạp phải bẫy</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort} vô tình đạp phải một cái bẫy và chịu sát từ nó.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort} vô tình đạp phải một cái bẫy và chịu sát thương từ nó.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
   <LetterHealthComplications>{PAWN_labelShort} đã mắc phải bệnh dịch sau:\n\n   {1}\n\nBệnh này mắc phải là do:\n\n   {2}</LetterHealthComplications>
@@ -118,13 +135,16 @@
 
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} đã chết: {0}</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {3} của {1} đã chết.\n\n{3} mới là {NEWLEADER_nameFull}.</LetterLeadersDeath>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} của {0} đã chết.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>{1} mới: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} không còn là {3} của {1}.\n\n{3} mới là {NEWLEADER_nameFull}.</LetterLeaderChanged>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull} không còn là {1} của {0}.</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>{0} mới là {NEWLEADER_nameFull}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Nguyên nhân cuối cùng là do: {0}</FinalStraw>
@@ -145,6 +165,9 @@
   <ViewQuest>Xem nhiệm vụ</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>Sự kiện cuối cùng trong cuộc đời của {PAWN_definite}</LastEventsInLife>
+
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>Nhờ tâm trạng cao, [PAWN_nameIndef] đã trải nghiệm một nguồn cảm hứng!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
@@ -189,7 +212,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} và {PAWN2_labelShort} không còn mối quan hệ nào nữa.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} sẽ thay đổi họ {PAWN_possessive} về như ban đầu.</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} sẽ thay đổi họ của {PAWN_possessive} về như ban đầu của {PAWN_possessive}.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>Chia tay</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -197,7 +220,7 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>Từ chối lời cầu hôn</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>Trong vòng vài ngày tới, họ sẽ tổ chức hôn lẽ và mời tất cả mọi người tham gia. Nếu bạn muốn chỉ định nơi tổ chức tiệc cưới thì hãy đặt vật "Nơi thành hôn" trong thẻ "Kiến trúc".</LetterAcceptedProposal>
+  <LetterAcceptedProposal>Trong vòng vài ngày tới, họ sẽ tổ chức hôn lẽ và mời tất cả mọi người tham gia. Nếu bạn muốn chỉ định nơi tổ chức tiệc cưới thì hãy đặt vật "Nơi thành hôn" trong thẻ "Kiến tạo".</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>{PAWN_label} sẽ thay đổi họ {PAWN_possessive} thành {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
@@ -233,7 +256,7 @@
   <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>Nghiện {0}</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{PAWN_labelShort} đã nghiện {1}.\n\nĐể biết thêm chi tiết, xem thẻ "Nhu cầu" của {PAWN_pronoun}. {PAWN_pronoun} sẽ tự cắn thuốc để thỏa cơn nghiện của {PAWN_possessive}. Nếu {PAWN_pronoun} không được được dùng {1} nữa, {PAWN_pronoun} sẽ rơi vào trạng thái cai nghiện.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} đã nghiện {1}.\n\n{PAWN_pronoun} đang rất cần {1}, Để biết thêm chi tiết, xem thẻ "Nhu cầu" của {PAWN_pronoun}. {PAWN_pronoun} sẽ tự cắn thuốc để thỏa cơn nghiện của {PAWN_possessive}. Nếu {PAWN_pronoun} không được được dùng {1} nữa, {PAWN_pronoun} sẽ rơi vào trạng thái cai nghiện.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
@@ -264,13 +287,15 @@
   <LetterLabelTransportPodsLandedInEnemyBase>Bắt đầu tấn công</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>Kén vận chuyển của bạn đã tới {0}</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>Xe đưa đón đã đến lúc {0}.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>Đã phá hủy thị trấn</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>Thị trấn của {0} đã bị phá hủy.\n\nĐội viễn chinh của bạn sẽ tự động tập hợp và rời đi sau {1}. Bạn cũng có thể tập hợp họ ngay bằng cách mở bản đồ thế giới, chọn đội viễn chinh này và chọn "Tập hợp ngay".</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>Thị trấn này là thị trấn cuối cùng của {0}, đồng nghĩa với việc băng nhóm này đã bị xóa sạch khỏi bản đồ.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
@@ -351,9 +376,9 @@
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Thương đội mất tích</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Thành viên mất tích</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>Thương đội của bạn đã mất tích. Danh sách những người mất tích như sau</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>Thành viên của bạn đã mất tích. Danh sách những người mất tích như sau</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
   <LetterLabelPawnsLostBecauseMapClosed_Home>Thành viên bị bỏ rơi</LetterLabelPawnsLostBecauseMapClosed_Home>
   <!-- EN: The following people and animals have been abandoned -->
@@ -362,8 +387,8 @@
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
   <LetterLabelHibernateComplete>Lò phản ứng đã khởi động xong</LetterLabelHibernateComplete>
-  <!-- EN: <Name>Charlon Whitestone</Name> has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>Charlon Whitestone đã hoàn thành quá trình khởi động lò phản ứng.</LetterHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) đã hoàn thành quá trình khởi động lò phản ứng. Lò phản ứng hiện đã sẵn sàng để cấp điện việc cất cánh.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
   <LetterHibernateCompleteStandalone>Lò phản ứng đã khởi động xong. Phi thuyền có thể cất cánh ra khỏi đây rồi.</LetterHibernateCompleteStandalone>
 
@@ -382,7 +407,7 @@
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>Chiến thắng</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterCaravansBattlefieldVictory>Tiểu đội bạn gửi đi làm nhiệm vụ đã chiến thắng.\n\nSau {0}, họ sẽ tự động tập hợp lại và rời khỏi khu vực. Bạn có thể tập hợp họ ngay lập tức bằng cách mở bản đồ thế giới, chọn khu vực đó và chọn "Tập hợp ngay"</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
@@ -398,7 +423,7 @@
   <LetterPredatorHuntingColonist>Con {PREDATOR} đang săn {PREY_definite} để ăn thịt!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
+  <!-- EN: {0} blocked {1} on -->
   <LetterDisease_Blocked>{0} đã chặn {1} vào: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Dịch Bệnh ({0})</LetterLabelTraitDisease>
@@ -408,7 +433,7 @@
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>Một nhiệm vụ mới đã khả dụng. Nó được gọi là '{0}'.</LetterQuestBecameAvailable>
-  <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>Nếu bạn không chấp nhận nhiệm vụ trong {0}, nó sẽ hết thời hạn.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>Một nhiệm vụ mới đã được tiếp nhận. Nó được gọi là '{0}'.</LetterQuestBecameActive>
@@ -422,6 +447,12 @@
   <LetterLabelQuestDropPodsArrived>Kén đã đến</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
   <LetterQuestDropPodsArrived>Kén vận chuyển cùng với hàng hoá bên trong đã đến:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} mặt hàng đã nhận được</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} đã nhận được các mục sau:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
@@ -495,9 +526,9 @@
   <LetterQuestCompletedFail>Bạn đã thất bại trong nhiệm vụ '{0}'.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
   <LetterQuestCompletedConcluded>Bạn đã kết thúc nhiệm vụ '{0}'.</LetterQuestCompletedConcluded>
-  
+
   <!-- Bladelink -->
-  <!-- EN: Bladelink bond: {PAWN_labelShort} -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
   <LetterBladelinkWeaponBondedLabel>Liên kết: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
@@ -505,8 +536,56 @@
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>Mechanoids đã đến</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Cỗ máy chiến đấu cơ đã đến</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>Mechanoids đã đến.</LetterMechClusterArrived>
+  <LetterMechClusterArrived>Cỗ máy chiến đấu cơ đã đến.</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>Đoàn lữ hành bị phát hiện</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>Đoàn của bạn đã bị phát hiện. Sau {0}, tăng cường {1} từ {2} sẽ bắt đầu đến khu vực này.\n\nHãy chỉnh sửa đoàn lữ hành của bạn và bắt đầu di chuyển để tránh {1}. Đồng hồ đếm ngược đến khi họ đến giờ đã hiển thị.</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>Tù nhân kiên định</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} trung thành kiên định với gia tộc của họ và sẽ từ chối hoàn toàn việc được chiêu hàng.\n\nBạn có thể biết liệu ai đó có trung thành kiên định hay không bằng cách chiêu hàng họ.</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>nô dịch {PAWN_objective}</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>{PAWN} đã bị ốm từ {1} do tiếp xúc lâu dài với khí thối rữa (do xác chết thối rữa thải ra).\n\nHãy đảm bảo bạn có giường y tế và bác sĩ. Đảm bảo rằng {PAWN_definite} được đối xử thích hợp.</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>Đề nghị gia nhập: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>{PAWN_nameDef} muốn gia nhâp phe của bạn</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>{PAWN_nameDef} tin rằng {PAWN_pronoun} hạnh phúc tại {MAP_definite}. {PAWN_pronoun} muốn tham gia cùng bạn lâu dài.</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>Chấp nhận</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} đã kết thúc bài phát biểu {ORGANIZER_possessive}.</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>Bài phát biểu thực sự tồi tệ - chỉ toàn những câu đùa vô duyên và những câu chuyện thô thiển được kể bằng giọng văn ấp úng.</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>Bài phát biểu không có gì đặc sắc - giọng đọc đều đều, câu chuyện rườm rà và không có chút nhiệt huyết nào.</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>Bài phát biểu có sức thuyết phục và đã truyền tải được thông điệp.</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>Đó là một bài phát biểu đầy cảm hứng, truyền đạt.</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>Những người sau đây đặc biệt xúc động trước bài phát biểu và giờ đây được truyền cảm hứng:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>Nhờ bài phát biểu đáng chú ý của {SPEAKER_nameIndef}, {PAWN_nameIndef} đã có được nguồn cảm hứng!</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>Bởi vì bài phát biểu đã bị gián đoạn chỉ khi mới được {0}, nó không đạt hiệu quả cho lắm.</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>Bài phát biểu của {0} đã bị hủy trước khi hoàn thành 50%. Nó không đạt được kết quả nào.</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>Bài phát biểu bị hủy</LetterLabelSpeechCancelled>
 
 </LanguageData>

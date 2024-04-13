@@ -3,24 +3,40 @@
 
   <!-- EN: Level -->
   <Level>Cấp độ</Level>
-  <!-- EN: Progress to next level -->
+  <!-- EN: skill level -->
+  <SkillLevel>Cấp độ kỹ năng</SkillLevel>
+  <!-- EN: Progress to next learned level -->
   <ProgressToNextLevel>Tiến trình tới cấp độ tiếp theo</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>Điểm kinh nghiệm</Experience>
   <!-- EN: Passion -->
   <Passion>Đam mê</Passion>
-  <!-- EN: None\n   -Learns {0} -->
+  <!-- EN: No passion -->
   <PassionNone>Không có\n   - Tốc độ học {0}</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
+  <!-- EN: Passion -->
   <PassionMinor>Hứng thú\n   - Tốc độ học {0}</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
+  <!-- EN: Burning passion -->
   <PassionMajor>Bừng cháy\n   - Tốc độ học {0}</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>Tốc độ học tập</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Đã học tối đa hôm nay ({0}/{1}, điểm kinh nghiệm nhận vào chỉ còn {2} lần)</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>Trẻ em học các kỹ năng bằng cách xem người lớn làm việc và học bài tại bàn học.</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Có tác dụng tại cấp độ {0}</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>TỐI ĐA</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>Trình độ đã học</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>Mức âm được điều chỉnh bằng không.</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>Cấp giới hạn ở {0}.</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>gen {GENE_label}</GeneLabelWithDesc>
+  <!-- EN: {TRAITLABEL} trait -->
+  <TraitLabelWithDesc>TODO</TraitLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>Chưa biết gì</Skill0>

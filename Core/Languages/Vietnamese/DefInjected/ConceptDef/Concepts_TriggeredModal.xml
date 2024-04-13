@@ -3,18 +3,28 @@
   
   <!-- EN: Arresting worsens faction relations -->
   <ArrestingCreatesEnemies.label>Bắt giữ làm xấu đi quan hệ phe phái</ArrestingCreatesEnemies.label>
-  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
-  <ArrestingCreatesEnemies.helpText>Cảnh báo: Người mà bạn đang cố gắng bắt giữ có thể không đi lặng lẽ. \n\nNếu bạn bắt giữ một người không thuộc địa, toàn bộ phe của họ sẽ trở thành kẻ thù của bạn.</ArrestingCreatesEnemies.helpText>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>Cảnh báo: Người mà bạn đang cố gắng bắt giữ có thể không đi lặng lẽ.\n\nNếu bạn bắt giữ một người không phải cư dân của bạn hoặc cư dân của một phe phái khác, toàn bộ phe của họ sẽ trở thành kẻ thù của bạn.</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>Số lượng thuộc địa người chơi tối đa</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>Số lượng cư dân tối đa</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>Cảnh báo: RimWorld được thiết kế để chơi cùng lúc với một thuộc địa người chơi. Mặc dù có thể có nhiều thuộc địa hơn, nhưng điều này có thể sẽ gây ra sự chậm trễ về hiệu suất và mất cân bằng trong trò chơi. Chúng tôi khuyên bạn, ít nhất là lúc đầu, bạn chơi trò chơi với tối đa một thuộc địa.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Điều khiển Steam Deck</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>Nhấn X để mở menu chính và {Key:TogglePause} để tạm dừng và tiếp tục trò chơi. Sử dụng trình kích hoạt cho nhấp chuột chính và phụ. Phóng to và thu nhỏ và cuộn qua các danh sách bằng {Key:MapZoom_In} và {Key:MapZoom_Out}. Nhấn và giữ nút quay lại L5 để xoay camera bằng màn hình cảm ứng và mô phỏng lần nhấp phụ</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Điều khiển Steam Deck</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>Sử dụng bàn di chuột để di chuyển con trỏ và nút kích hoạt bên phải để nhấp. Nhấn {Key:Accept} để chấp nhận và {Key:Cancel} để quay lại.</SteamDeckControlsMainMenu.helpText>
   
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Chỉ định gạt công tắc</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>Lưu ý: Điều này chỉ định rằng một người cư dân nên gạt công tắc. \n\nSẽ không có gì thực sự xảy ra cho đến khi một người cư dân đến và bật công tắc bằng tay.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>Lưu ý: Điều này chỉ định rằng một người cư dân nên gạt công tắc.\n\nSẽ không có gì thực sự xảy ra cho đến khi một người cư dân đến và bật công tắc bằng tay.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
   <TradeGoodsMustBeNearBeacon.label>Thương mại hàng hóa và đèn hiệu thương mại</TradeGoodsMustBeNearBeacon.label>

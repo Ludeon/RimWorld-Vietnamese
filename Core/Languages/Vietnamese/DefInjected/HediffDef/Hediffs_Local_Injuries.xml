@@ -1,10 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: acid burn -->
+  <AcidBurn.label>bỏng axit</AcidBurn.label>
+  <!-- EN: An acid burn. -->
+  <AcidBurn.description>Bỏng axit.</AcidBurn.description>
+  <!-- EN: acid burn scar -->
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>sẹo bỏng axit</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Dissolved off -->
+  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <!-- EN: an acid burn -->
+  <AcidBurn.labelNoun>Bỏng axit</AcidBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <AcidBurn.labelNounPretty>{0} trong {1}</AcidBurn.labelNounPretty>
+  
   <!-- EN: bite -->
   <Bite.label>Cắn</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>TODO</Bite.description>
+  <Bite.description>Vết thương do bị cắn.</Bite.description>
   <!-- EN: set -->
   <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -20,12 +33,12 @@
   <!-- EN: a bite wound -->
   <Bite.labelNoun>vết thương bị cắn</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{0} trong vòng {1}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{0} bên trong {1}</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
-  <Bruise.label>dập</Bruise.label>
+  <Bruise.label>bầm</Bruise.label>
   <!-- EN: A bruise. -->
-  <Bruise.description>TODO</Bruise.description>
+  <Bruise.description>Một vết bầm.</Bruise.description>
   <!-- EN: set -->
   <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -35,14 +48,14 @@
   <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>Phá hủy</Bruise.injuryProps.destroyedLabel>
   <!-- EN: a bruise -->
-  <Bruise.labelNoun>một vết dập</Bruise.labelNoun>
+  <Bruise.labelNoun>một vết bầm</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>{0} trong vòng {1}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>{0} bên trong {1}</Bruise.labelNounPretty>
   
   <!-- EN: burn -->
   <Burn.label>bỏng</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>TODO</Burn.description>
+  <Burn.description>Một vết bỏng.</Burn.description>
   <!-- EN: tended -->
   <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -58,27 +71,27 @@
   <!-- EN: a burn -->
   <Burn.labelNoun>một vết bỏng</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>{0} trong vòng {1}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>{0} bên trong {1}</Burn.labelNounPretty>
   
   <!-- EN: chemical burn -->
   <ChemicalBurn.label>bỏng hóa chất</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
-  <ChemicalBurn.description>TODO</ChemicalBurn.description>
+  <ChemicalBurn.description>Một vết bỏng hóa chất.</ChemicalBurn.description>
   <!-- EN: chemical burn scar -->
-  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>sẹo bỏng hóa chất</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedLabel>TODO</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>Đốt cháy (hóa chất)</ChemicalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedOutLabel>TODO</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>Đốt mất (hóa chất)</ChemicalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: a chemical burn -->
-  <ChemicalBurn.labelNoun>TODO</ChemicalBurn.labelNoun>
+  <ChemicalBurn.labelNoun>một vết bỏng hóa chất</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ChemicalBurn.labelNounPretty>TODO</ChemicalBurn.labelNounPretty>
+  <ChemicalBurn.labelNounPretty>{0} bên trong {1}</ChemicalBurn.labelNounPretty>
   
   <!-- EN: crack -->
   <Crack.label>nứt</Crack.label>
   <!-- EN: A crack. -->
-  <Crack.description>TODO</Crack.description>
+  <Crack.description>Một vết thương nứt gãy.</Crack.description>
   <!-- EN: set -->
   <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: set -->
@@ -92,12 +105,12 @@
   <!-- EN: a crack wound -->
   <Crack.labelNoun>một vết thương nứt gãy</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>{0} trong vòng {1}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>{0} bên trong {1}</Crack.labelNounPretty>
   
   <!-- EN: crush -->
   <Crush.label>dập</Crush.label>
   <!-- EN: A crushing wound. -->
-  <Crush.description>TODO</Crush.description>
+  <Crush.description>Một vết thương dập nát.</Crush.description>
   <!-- EN: set -->
   <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -111,12 +124,12 @@
   <!-- EN: a crush wound -->
   <Crush.labelNoun>một vết thương dập nát</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>{0} trong vòng {1}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>{0} bên trong {1}</Crush.labelNounPretty>
   
   <!-- EN: cut -->
   <Cut.label>cắt</Cut.label>
   <!-- EN: A cut. -->
-  <Cut.description>TODO</Cut.description>
+  <Cut.description>Một vết cắt.</Cut.description>
   <!-- EN: set -->
   <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -132,12 +145,49 @@
   <!-- EN: a cut -->
   <Cut.labelNoun>một vết cắt</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>{0} trong vòng {1}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>{0} bên trong {1}</Cut.labelNounPretty>
+  
+  <!-- EN: decayed organ -->
+  <Decayed.label>TODO</Decayed.label>
+  <!-- EN: This organ has completely decayed. -->
+  <Decayed.description>TODO</Decayed.description>
+  <!-- EN: a decayed organ -->
+  <Decayed.labelNoun>TODO</Decayed.labelNoun>
+  <!-- EN: decayed {1} -->
+  <Decayed.labelNounPretty>TODO</Decayed.labelNounPretty>
+  
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>TODO</ElectricalBurn.label>
+  <!-- EN: An electical burn. -->
+  <ElectricalBurn.description>TODO</ElectricalBurn.description>
+  <!-- EN: electrical burn scar -->
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an electrical burn -->
+  <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
+  
+  <!-- EN: cut -->
+  <ExecutionCut.label>cắt</ExecutionCut.label>
+  <!-- EN: A cut made during execution. -->
+  <ExecutionCut.description>Một vết cắt bởi quá trình phẫu thuật</ExecutionCut.description>
+  <!-- EN: Cut off -->
+  <ExecutionCut.injuryProps.destroyedLabel>Cắt</ExecutionCut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <ExecutionCut.injuryProps.destroyedOutLabel>Cắt bỏ</ExecutionCut.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <ExecutionCut.labelNoun>một vết cắt</ExecutionCut.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ExecutionCut.labelNounPretty>{0} bên trong {1}</ExecutionCut.labelNounPretty>
   
   <!-- EN: frostbite -->
   <Frostbite.label>tê cóng</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
-  <Frostbite.description>TODO</Frostbite.description>
+  <Frostbite.description>Mô tế bào bị đông lạnh do tiếp xúc với nhiệt độ lạnh mà không được bảo vệ đầy đủ. Tình trạng tê cóng rất đau đớn và các bộ phận cơ thể bị tê cóng thường bị thối mất.</Frostbite.description>
   <!-- EN: tended -->
   <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -149,12 +199,12 @@
   <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>Mất do tê cóng</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>{0} trong vòng {1}</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>{0} bên trong {1}</Frostbite.labelNounPretty>
   
   <!-- EN: gunshot -->
   <Gunshot.label>trúng đạn</Gunshot.label>
   <!-- EN: A gunshot wound. -->
-  <Gunshot.description>TODO</Gunshot.description>
+  <Gunshot.description>Một vết thương do đạn bắn.</Gunshot.description>
   <!-- EN: set -->
   <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -172,29 +222,31 @@
   <!-- EN: a gunshot wound -->
   <Gunshot.labelNoun>một vết thương do đạn bắn</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>{0} trong vòng {1}</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>{0} bên trong {1}</Gunshot.labelNounPretty>
   
-  <!-- EN: misc -->
-  <Misc.label>linh tinh</Misc.label>
-  <!-- EN: Miscellanous injuries. -->
-  <Misc.description>TODO</Misc.description>
+  <!-- EN: wound -->
+  <Misc.label>chấn thương</Misc.label>
+  <!-- EN: Miscellaneous injuries. -->
+  <Misc.description>Chấn thương linh tinh.</Misc.description>
   <!-- EN: set -->
   <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWell>băng bó</Misc.comps.HediffComp_TendDuration.labelTendedWell>
   <!-- EN: sutured -->
   <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>khâu lại</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>vết sẹo</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>Phá hủy</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->
   <Misc.labelNoun>một chấn thương</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>{0} trong vòng {1}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>{0} bên trong {1}</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
   <MissingBodyPart.label>mất một phần cơ thể</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
-  <MissingBodyPart.description>TODO</MissingBodyPart.description>
+  <MissingBodyPart.description>Một bộ phận cơ thể bị mất hoàn toàn.</MissingBodyPart.description>
   <!-- EN: a missing body part -->
   <MissingBodyPart.labelNoun>bị mất một phần cơ thể</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
@@ -203,7 +255,7 @@
   <!-- EN: scratch -->
   <Scratch.label>Cào</Scratch.label>
   <!-- EN: A scratch or tear. -->
-  <Scratch.description>TODO</Scratch.description>
+  <Scratch.description>Vết xước hoặc vết rách.</Scratch.description>
   <!-- EN: set -->
   <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -219,12 +271,12 @@
   <!-- EN: a scratch -->
   <Scratch.labelNoun>một vết cào</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>{0} trong vòng {1}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>{0} bên trong {1}</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
   <Shredded.label>băm nhỏ</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>TODO</Shredded.description>
+  <Shredded.description>Một phần của cơ thể đã bị cắt nhỏ và rách nát.</Shredded.description>
   <!-- EN: set -->
   <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -240,12 +292,12 @@
   <!-- EN: a shredded wound -->
   <Shredded.labelNoun>một vết thương vụn</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>{0} trong vòng {1}</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>{0} bên trong {1}</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
   <Stab.label>đâm</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>TODO</Stab.description>
+  <Stab.description>Một vết đâm.</Stab.description>
   <!-- EN: set -->
   <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -261,12 +313,12 @@
   <!-- EN: a stab wound -->
   <Stab.labelNoun>một vết đâm</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>{0} trong vòng {1}</Stab.labelNounPretty>
+  <Stab.labelNounPretty>{0} bên trong {1}</Stab.labelNounPretty>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>phẫu thuật cắt</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
-  <SurgicalCut.description>TODO</SurgicalCut.description>
+  <SurgicalCut.description>Một vết cắt trong quá trình phẫu thuật.</SurgicalCut.description>
   <!-- EN: set -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>liền lại</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -278,6 +330,6 @@
   <!-- EN: a surgical cut -->
   <SurgicalCut.labelNoun>một vết cắt phẫu thuật</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>{0} trong vòng {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>{0} bên trong {1}</SurgicalCut.labelNounPretty>
   
 </LanguageData>

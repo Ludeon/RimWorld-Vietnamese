@@ -6,6 +6,11 @@
   <!-- EN: General-use controls for the architect mode menu. -->
   <Architect.description>Điều khiển sử dụng chung cho menu chế độ kiến trúc sư.</Architect.description>
   
+  <!-- EN: debug menu -->
+  <DebugMenu.label>menu gỡ lỗi</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>Các điều khiển được sử dụng trong menu gỡ lỗi. Chỉ hoạt động trong chế độ phát triển.</DebugMenu.description>
+  
   <!-- EN: developer tools -->
   <Development.label>công cụ phát triển</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
@@ -22,9 +27,9 @@
   <GameMapCamera.description>Điều khiển cho camera.</GameMapCamera.description>
   
   <!-- EN: main tabs -->
-  <MainTabs.label>các tab chính</MainTabs.label>
+  <MainTabs.label>các thẻ chính</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>Điều khiển cho các tab chính.</MainTabs.description>
+  <MainTabs.description>Điều khiển cho các thẻ chính.</MainTabs.description>
   
   <!-- EN: modifiers -->
   <Modifiers.label>modifiers</Modifiers.label>

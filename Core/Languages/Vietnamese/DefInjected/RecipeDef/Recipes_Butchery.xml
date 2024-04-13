@@ -8,11 +8,18 @@
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Đang làm thịt.</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
-  <ButcherCorpseMechanoid.label>tháo rời mechanoid</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>Tháo rời một mechanoid đã chết thành các bộ phận cấu thành của nó.</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Đang tháo rời mechanoid.</ButcherCorpseMechanoid.jobString>
+  <!-- EN: shred mechanoid -->
+  <ButcherCorpseMechanoid.label>tháo rời cỗ máy chiến đấu cơ</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Tháo rời một cỗ máy chiến đấu cơ đã chết thành các bộ phận cấu thành nó.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
+  <ButcherCorpseMechanoid.jobString>Đang tháo rời cỗ máy chiến đấu cơ.</ButcherCorpseMechanoid.jobString>
+  
+  <!-- EN: smash mechanoid -->
+  <SmashCorpseMechanoid.label>đập vỡ cỗ máy chiến đấu cơ</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Đập một cỗ máy chiến đấu cơ đã chết bằng các dụng cụ cầm tay đơn giản để vớt vật liệu có thể sử dụng được.</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString> Đang đập vỡ cỗ máy chiến đấu cơ</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

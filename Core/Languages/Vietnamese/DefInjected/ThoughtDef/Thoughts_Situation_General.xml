@@ -60,11 +60,11 @@
   <!-- EN: sweltering hot -->
   <EnvironmentHot.stages.sweltering_hot.label>nóng nực</EnvironmentHot.stages.sweltering_hot.label>
   <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
-  <EnvironmentHot.stages.sweltering_hot.description>NAM! Mở cho anh quảng cáo của Điện máy Xanh...</EnvironmentHot.stages.sweltering_hot.description>
+  <EnvironmentHot.stages.sweltering_hot.description>Tôi đang ở trong lò nướng! Tôi không chắc mình có thể cầm cự được trong bao lâu.</EnvironmentHot.stages.sweltering_hot.description>
   <!-- EN: blistering hot -->
   <EnvironmentHot.stages.blistering_hot.label>nóng khủng khiếp</EnvironmentHot.stages.blistering_hot.label>
   <!-- EN: This place is searing hot. I think I could die from this heat! -->
-  <EnvironmentHot.stages.blistering_hot.description>Máy... lạnh...!!!</EnvironmentHot.stages.blistering_hot.description>
+  <EnvironmentHot.stages.blistering_hot.description>Nơi đây quá nóng. Tôi sẽ chết vì cái nóng này đấy!</EnvironmentHot.stages.blistering_hot.description>
   
   <!-- EN: human leather {0} -->
   <HumanLeatherApparelHappy.stages.human_leather.label>{0} bằng da người</HumanLeatherApparelHappy.stages.human_leather.label>
@@ -85,7 +85,7 @@
   
   <!-- EN: human leather {0} -->
   <HumanLeatherApparelSad.stages.human_leather.label>{0} bằng da người</HumanLeatherApparelSad.stages.human_leather.label>
-  <!-- EN: Wearing human leather is disturbing. Who could do this? -->
+  <!-- EN: Wearing parts of someone's body is... disturbing. -->
   <HumanLeatherApparelSad.stages.human_leather.description>Mặc đồ làm từ da người? Thật kinh khủng! Ai lại có thể làm điều này chứ?</HumanLeatherApparelSad.stages.human_leather.description>
   <!-- EN: human leather {0} (+1) -->
   <HumanLeatherApparelSad.stages.human_leather_1.label>2 bộ {0} bằng da người</HumanLeatherApparelSad.stages.human_leather_1.label>
@@ -93,17 +93,35 @@
   <HumanLeatherApparelSad.stages.human_leather_1.description>Tôi mặc đồ làm từ da người giống những thằng biến thái vậy!</HumanLeatherApparelSad.stages.human_leather_1.description>
   <!-- EN: human leather {0} (+2) -->
   <HumanLeatherApparelSad.stages.human_leather_2.label>3 bộ {0} bằng da người</HumanLeatherApparelSad.stages.human_leather_2.label>
-  <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <!-- EN: I think there may be a face on my clothes. Oh no... my clothes *are* a face. -->
   <HumanLeatherApparelSad.stages.human_leather_2.description>Hình như tôi thấy có bộ mặt của người khác trên bộ đồ tôi đang mặc. Ôi thần linh ơi...!</HumanLeatherApparelSad.stages.human_leather_2.description>
   <!-- EN: human leather {0} etc -->
   <HumanLeatherApparelSad.stages.human_leather_etc.label>nhiều bộ {0} bằng da người</HumanLeatherApparelSad.stages.human_leather_etc.label>
-  <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm living in a horror show. -->
   <HumanLeatherApparelSad.stages.human_leather_etc.description>Mình như thằng biến thái bước ra từ bộ phim kinh dị vậy!</HumanLeatherApparelSad.stages.human_leather_etc.description>
   
+  <!-- EN: I love reading -->
+  <LoveReading.stages.I_love_reading.label>TODO</LoveReading.stages.I_love_reading.label>
+  <!-- EN: Reading really engages my intellectual passions. -->
+  <LoveReading.stages.I_love_reading.description>TODO</LoveReading.stages.I_love_reading.description>
+  <!-- EN: I really love reading -->
+  <LoveReading.stages.I_really_love_reading.label>TODO</LoveReading.stages.I_really_love_reading.label>
+  <!-- EN: Reading excites my burning intellectual passions! I just love learning this way. -->
+  <LoveReading.stages.I_really_love_reading.description>TODO</LoveReading.stages.I_really_love_reading.description>
+  
   <!-- EN: sick -->
-  <Sick.stages.sick.label>long thể bất an</Sick.stages.sick.label>
+  <Sick.stages.sick.label>bệnh</Sick.stages.sick.label>
   <!-- EN: I don't feel very well. -->
-  <Sick.stages.sick.description>Mau truyền ngự y!</Sick.stages.sick.description>
+  <Sick.stages.sick.description>Tôi không cảm thấy tốt cho lắm.</Sick.stages.sick.description>
+  
+  <!-- EN: interesting textbook -->
+  <SkillBookPassion.stages.interesting_textbook.label>TODO</SkillBookPassion.stages.interesting_textbook.label>
+  <!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
+  <SkillBookPassion.stages.interesting_textbook.description>TODO</SkillBookPassion.stages.interesting_textbook.description>
+  <!-- EN: amazing textbook -->
+  <SkillBookPassion.stages.amazing_textbook.label>TODO</SkillBookPassion.stages.amazing_textbook.label>
+  <!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
+  <SkillBookPassion.stages.amazing_textbook.description>TODO</SkillBookPassion.stages.amazing_textbook.description>
   
   <!-- EN: wearing {0} apparel -->
   <WrongApparelGender.stages.wearing_apparel.label>mặc đồ {0}</WrongApparelGender.stages.wearing_apparel.label>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic smog -->
+  <NoxiousHaze.label>khói axit</NoxiousHaze.label>
+  <!-- EN: Acidic smog is caused by pollution in nearby world tiles. It slows plant growth, deteriorates exposed items, and reduces mood.\n\nThe current world tile has a nearby pollution score of {NEARBYPOLLUTION}, calculated by adding up pollution of nearby world tiles. This means that, on average, acidic smog will occur every {MTB} days. -->
+  <NoxiousHaze.description>Khói axit do ô nhiễm ở vùng đất lân cận xung quanh. Nó ngăn cản sự phát triển của thực vật, làm xấu đi các cuộc trưng bày và làm suy giảm tâm trạng.\nKhông gian thế giới hiện tại có điểm ô nhiễm xung quanh là  {NEARBYPOLLUTION}, được tính bằng cách cộng ô nhiễm của các vùng đất liền kề. Điều này có nghĩa là trung bình, Khói bụi sẽ xảy ra {MTB] ngày.</NoxiousHaze.description>
+  <!-- EN: The acidic smog is lifting. -->
+  <NoxiousHaze.endMessage>khói axit bôc lên.</NoxiousHaze.endMessage>
+  <!-- EN: Acidic smog has begun due to pollution in this region of the world. -->
+  <NoxiousHaze.startMessage>Một làn khói axit đã bốc lên do ô nhiễm ở khu vực này trên thế giới.</NoxiousHaze.startMessage>
+  
+</LanguageData>

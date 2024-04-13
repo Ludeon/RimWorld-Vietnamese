@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter pod speed factor -->
+  <BiosculpterPodSpeedFactor.label>hệ số tốc độ kén sinh học đa năng</BiosculpterPodSpeedFactor.label>
+  <!-- EN: A multiplier on the speed of a biosculpter pod. This is affected by the cleanliness of the room - a cleaner room will result in a quicker biosculpting cycle. -->
+  <BiosculpterPodSpeedFactor.description>Một hệ số trên tốc độ của kén sinh học đa năng. Điều này bị ảnh hưởng bởi sự sạch sẽ của căn phòng - một căn phòng sạch hơn sẽ dẫn đến một chu kỳ phân tích sinh học nhanh hơn và làm tăng tốc độ</BiosculpterPodSpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>Phòng sạch sẽ</BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+</LanguageData>

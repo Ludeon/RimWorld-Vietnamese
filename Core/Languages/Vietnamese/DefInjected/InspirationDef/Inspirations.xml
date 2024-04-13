@@ -5,7 +5,7 @@
   <Frenzy_Go.label>hứng khởi</Frenzy_Go.label>
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Cảm hứng: Hứng khởi</Frenzy_Go.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
   <Frenzy_Go.beginLetter>[PAWN_nameIndef] đã trải qua một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ di chuyển nhanh hơn trong vòng 8 ngày tới.</Frenzy_Go.beginLetter>
   <Frenzy_Go.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (go frenzy). -->
@@ -15,7 +15,7 @@
   <Frenzy_Shoot.label>bắn điên cuồng</Frenzy_Shoot.label>
   <!-- EN: Inspired: Shoot frenzy -->
   <Frenzy_Shoot.baseInspectLine>Cảm hứng: Bắn điên cuồng</Frenzy_Shoot.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
   <Frenzy_Shoot.beginLetter>[PAWN_nameIndef] đã trải nghiệm một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ bắn chính xác hơn trong 8 ngày tới.</Frenzy_Shoot.beginLetter>
   <Frenzy_Shoot.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
@@ -25,7 +25,7 @@
   <Frenzy_Work.label>làm việc điên cuồng</Frenzy_Work.label>
   <!-- EN: Inspired: Work frenzy -->
   <Frenzy_Work.baseInspectLine>Cảm hứng: Làm việc điên cuồng</Frenzy_Work.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
+  <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
   <Frenzy_Work.beginLetter>[PAWN_nameIndef] đã trải nghiệm một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ làm việc nhanh hơn trong 8 ngày tới.</Frenzy_Work.beginLetter>
   <Frenzy_Work.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (work frenzy). -->
@@ -35,7 +35,7 @@
   <Inspired_Creativity.label>cảm hứng sáng tạo</Inspired_Creativity.label>
   <!-- EN: Inspired: Inspired creativity -->
   <Inspired_Creativity.baseInspectLine>Cảm hứng: Hào hứng sáng tạo</Inspired_Creativity.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
   <Inspired_Creativity.beginLetter>[PAWN_nameIndef] đã trải nghiệm một nguồn cảm hứng!\n\nMục tiếp theo, nghệ thuật hoặc đồ nội thất [PAWN_pronoun] tạo ra sẽ có hai mức chất lượng cao hơn so với mức khác. Điều này thậm chí cho phép tạo ra các vật phẩm huyền thoại.\n\nCảm hứng sẽ kết thúc sau 8 ngày hoặc khi việc tạo hoàn thành.</Inspired_Creativity.beginLetter>
   <Inspired_Creativity.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
@@ -45,7 +45,7 @@
   <Inspired_Recruitment.label>cảm hứng chiêu mộ</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Cảm hứng: Hào hứng chiêu mộ</Inspired_Recruitment.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
   <Inspired_Recruitment.beginLetter>[PAWN_nameIndef] đã trải qua một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ tuyển dụng thành công tù nhân tiếp theo bất kể khó khăn hay kháng cự.\n\nCảm hứng sẽ kết thúc sau 8 ngày hoặc khi tù nhân được tuyển dụng.</Inspired_Recruitment.beginLetter>
   <Inspired_Recruitment.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
@@ -55,7 +55,7 @@
   <Inspired_Surgery.label>cảm hứng phẫu thuật</Inspired_Surgery.label>
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Cảm hứng: Hào hứng phẫu thuật</Inspired_Surgery.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\nThe next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
   <Inspired_Surgery.beginLetter>[PAWN_nameIndef] đã trải qua một nguồn cảm hứng!\n\nLần tới [PAWN_pronoun] thực hiện phẫu thuật, cơ hội thành công của [PAWN_possessive] sẽ tăng gấp đôi. Cơ hội thất bại tối thiểu nhỏ vẫn được áp dụng.\n\nCảm hứng sẽ kết thúc sau 8 ngày hoặc khi phẫu thuật được thực hiện.</Inspired_Surgery.beginLetter>
   <Inspired_Surgery.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
@@ -65,7 +65,7 @@
   <Inspired_Taming.label>cảm hứng thuần hóa</Inspired_Taming.label>
   <!-- EN: Inspired: Inspired taming -->
   <Inspired_Taming.baseInspectLine>Cảm hứng: hào hứng thuần hóa</Inspired_Taming.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
+  <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
   <Inspired_Taming.beginLetter>Nhờ tâm trạng cao, [PAWN_nameIndef] đã trải nghiệm một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ thuần hóa thành công con vật tiếp theo bất kể khó khăn.\n\nCảm hứng sẽ kết thúc sau 8 ngày, hoặc khi một con vật được thuần hóa.</Inspired_Taming.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired taming). -->
   <Inspired_Taming.endMessage>{0} không còn được truyền cảm hứng (thuần hóa cảm hứng).</Inspired_Taming.endMessage>
@@ -74,7 +74,7 @@
   <Inspired_Trade.label>cảm hứng thương mại</Inspired_Trade.label>
   <!-- EN: Inspired: Inspired trade -->
   <Inspired_Trade.baseInspectLine>Cảm hứng: Hào hứng giao dịch</Inspired_Trade.baseInspectLine>
-  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
   <Inspired_Trade.beginLetter>[PAWN_nameIndef] đã trải qua một nguồn cảm hứng!\n\n[PAWN_pronoun] sẽ nhận được phần thưởng giá giao dịch đáng kể khi đóng [PAWN_possessive] thỏa thuận giao dịch tiếp theo.\n\nCảm hứng sẽ hết hạn sau 8 ngày hoặc khi thỏa thuận được thực hiện.</Inspired_Trade.beginLetter>
   <Inspired_Trade.beginLetterLabel />
   <!-- EN: {0} is no longer inspired (inspired trade). -->

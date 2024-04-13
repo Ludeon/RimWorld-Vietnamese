@@ -2,59 +2,135 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>nấu bữa ăn ngon</CookMealFine.label>
+  <CookMealFine.label>nấu suất ăn ngon</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>Nấu một bữa ăn hơi phức tạp từ sự kết hợp của thịt và các thành phần thực vật.</CookMealFine.description>
+  <CookMealFine.description>Nấu một suất ăn hơi phức tạp từ sự kết hợp của thịt và các thành phần thực vật.</CookMealFine.description>
+  <!-- EN: protein -->
+  <CookMealFine.ingredients.0.filter.customSummary>chất đạm</CookMealFine.ingredients.0.filter.customSummary>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>đang nấu bữa ăn ngon.</CookMealFine.jobString>
+  <CookMealFine.jobString>Đang nấu suất ăn ngon.</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>nấu suất ăn ngon không rau</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>Nấu một suất ăn hơi phức tạp từ các nguyên liệu thịt.</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>Đang nấu suất ăn ngon không rau.</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>nấu suất ăn chay ngon</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>Nấu một suất ăn hơi phức tạp từ các nguyên liệu thực vật.</CookMealFine_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>nguyên liệu chay</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>Đang nấu suất ăn chay ngon.</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
-  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.label>nấu x4 suất ăn ngon</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>Nấu 4 suất ăn hơi phức tạp từ sự kết hợp của thịt và các thành phần thực vật.</CookMealFineBulk.description>
+  <!-- EN: protein -->
+  <CookMealFineBulk.ingredients.0.filter.customSummary>chất đạm</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Đang nấu 4 suất ăn ngon.</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>nấu x4 suất ăn ngon không rau</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>Nấu 4 suất ăn hơi phức tạp từ nguyên liệu thịt. Một số thành phần bị lãng phí để tạo ra trải nghiệm ăn uống ngon miệng. Việc sản xuất các hương vị đa dạng chỉ với thịt đã gây ra sự kém hiệu quả hơn.</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>Đang nấu 4 suất ăn ngon không rau.</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>nấu x4 suất ăn chay ngon</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>Nấu 4 bữa ăn hơi phức tạp từ các nguyên liệu thực vật. Một số thành phần bị lãng phí để tạo ra trải nghiệm ăn uống ngon miệng. Chỉ sản xuất các hương vị đa dạng chỉ bằng thực vật cũng gây ra sự kém hiệu quả.</CookMealFineBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>nguyên liệu chay</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>Đang nấu 4 suất ăn chay ngon.</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>nấu bữa ăn xa hoa</CookMealLavish.label>
-  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>Nấu một bữa ăn rất phức tạp từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí.</CookMealLavish.description>
+  <CookMealLavish.label>nấu suất ăn xa hoa</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>Nấu một suất ăn rất phức tạp từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí.</CookMealLavish.description>
+  <!-- EN: protein -->
+  <CookMealLavish.ingredients.0.filter.customSummary>chất đạm</CookMealLavish.ingredients.0.filter.customSummary>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>Đang nấu bữa ăn xa hoa.</CookMealLavish.jobString>
+  <CookMealLavish.jobString>Đang nấu suất ăn xa hoa.</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>nấu suất ăn xa hoa không rau</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>Nấu một bữa ăn rất phức tạp từ các nguyên liệu thịt. Phần lớn các thành phần bị lãng phí để tạo ra trải nghiệm ăn uống tốt nhất. Việc sản xuất các hương vị đa dạng chỉ với thịt đã gây ra sự kém hiệu quả hơn.</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>Đang nấu suất ăn xa hoa không rau.</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>nấu suất ăn chay xa hoa</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>Nấu một bữa ăn rất phức tạp từ các nguyên liệu thực vật. Phần lớn các thành phần bị lãng phí để tạo ra trải nghiệm ăn uống tốt nhất. Chỉ sản xuất các hương vị đa dạng chỉ bằng thực vật cũng gây ra sự kém hiệu quả.</CookMealLavish_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>nguyên liệu chay</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>Đang nấu suất ăn chay xa hoa</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
-  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.label>nấu suất ăn xa hoa x4</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>Nấu 4 suất ăn rất phức tạp từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí.</CookMealLavishBulk.description>
+  <!-- EN: protein -->
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>chất đạm</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Đang nấu 4 suất ăn xa hoa.</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>nấu x4 suất ăn xa hoa không rau</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>Nấu 4 bữa ăn rất phức tạp từ các nguyên liệu thịt. Phần lớn các thành phần bị lãng phí để tạo ra trải nghiệm ăn uống tốt nhất. Việc sản xuất các hương vị đa dạng chỉ với thịt đã gây ra sự kém hiệu quả hơn.</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>Đang nấu 4 suất ăn xa hoa không rau.</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>nấu x4 suất ăn chay xa hoa</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>Nấu 4 bữa ăn rất phức tạp từ các nguyên liệu thực vật. Phần lớn các thành phần bị lãng phí để tạo ra trải nghiệm ăn uống tốt nhất. Chỉ sản xuất các hương vị đa dạng chỉ bằng thực vật cũng gây ra sự kém hiệu quả.</CookMealLavishBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>nguyên liệu chay</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>Đang nấu 4 suất ăn chay xa hoa</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>nấu bữa ăn đơn giản</CookMealSimple.label>
+  <CookMealSimple.label>nấu suất ăn đơn giản</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>Nấu một bữa ăn đơn giản từ một thành phần.</CookMealSimple.description>
+  <CookMealSimple.description>Nấu một suất ăn đơn giản từ một thành phần.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>Đang nấu bữa ăn đơn giản.</CookMealSimple.jobString>
+  <CookMealSimple.jobString>Đang nấu suất ăn đơn giản.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>nấu suất ăn đơn giản x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Nấu 4 suất ăn đơn giản từ một thành phần.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Đang nấu 4 suất ăn đơn giản.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>nấu bữa ăn sinh tồn đóng gói</CookMealSurvival.label>
+  <CookMealSurvival.label>nấu suất ăn dã chiến</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>Chuẩn bị một bữa ăn sinh tồn đóng gói từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí trong quá trình bảo quản.</CookMealSurvival.description>
+  <CookMealSurvival.description>Chuẩn bị một suất ăn dã chiến từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí trong quá trình bảo quản.</CookMealSurvival.description>
+  <!-- EN: protein -->
+  <CookMealSurvival.ingredients.0.filter.customSummary>chất đạm</CookMealSurvival.ingredients.0.filter.customSummary>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>Đang nấu bữa ăn sinh tồn đóng gói.</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Đang nấu suất ăn dã chiến.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>nấu suất ăn dã chiến x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Chuẩn bị 4 suất ăn dã chiến từ sự kết hợp của thịt và các thành phần thực vật. Phần lớn các thành phần bị lãng phí trong quá trình bảo quản.</CookMealSurvivalBulk.description>
+  <!-- EN: protein -->
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>chất đạm</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Đang nấu 4 suất ăn dã chiến.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

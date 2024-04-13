@@ -16,6 +16,9 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Tôi xẻ thịt ai đó như một con thú.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>chặt xác người</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>xỉ vã</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
@@ -23,13 +26,18 @@
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>cư dân bị trục xuất</ColonistBanished.stages.colonist_banished.label>
-  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
   <ColonistBanished.stages.colonist_banished.description>Chúng tôi vừa trục xuất ai đó. Tôi hy vọng họ sẽ làm được, nhưng tôi lo lắng.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.label>cư dân bị trục xuất đến chết</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Chúng tôi đã trục xuất ai đó theo cách mà gần như không có cách nào họ sẽ sống sót.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Tù nhân trốn thoát</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Chúng ta không thể kiểm soát người dân của chúng ta sao? Tôi cảm thấy như bất cứ điều gì có thể xảy ra với tôi ở đây.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>đánh bại thủ lĩnh của kẻ thù {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -38,6 +46,21 @@
   
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>đánh bại thủ lĩnh của kẻ thù</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- EN: defeated insect hive -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>đánh bại tổ ong</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <!-- EN: The only good bug is a dead bug! -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>Con bọ tốt duy nhất là một con bọ chết!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>đánh bại cụm cỗ máy cơ</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>Máu - đập phá - sắt thép, máy móc chết tiệt!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>từ chối tham gia</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>Chúng tôi vừa từ chối yêu cầu tham gia của ai đó với chúng tôi. Tôi hi vọng họ làm nó.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>không cứu được {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -48,6 +71,11 @@
   <FreedFromSlavery.stages.freed_from_slavery.label>giải phóng khỏi chế độ nô lệ</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
   <FreedFromSlavery.stages.freed_from_slavery.description>Tôi đã được giải thoát khỏi chế độ nô lệ. Tôi rất biết ơn!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>khát máu thu hoạch nội tạng</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Lấy các bộ phận ra khỏi cơ thể họ thật là thỏa mãn máu me.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>giết một ai đó</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -109,10 +137,20 @@
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Tôi thấy một xác chết thối rữa nằm trên mặt đất. Nó thật kinh tởm.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>đang làm nhiệm vụ</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>Tôi đang có việc phải làm</OnDuty.stages.on_duty.description>
+  
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>tù nhân bị đày đến chết</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Chúng tôi đã trục xuất một tù nhân theo cách mà gần như không có cách nào họ sẽ sống sót.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: used flame weapon -->
+  <PyroUsed.stages.used_flame_weapon.label>TODO</PyroUsed.stages.used_flame_weapon.label>
+  <!-- EN: The searing heat will make my foes beautiful! -->
+  <PyroUsed.stages.used_flame_weapon.description>TODO</PyroUsed.stages.used_flame_weapon.description>
   
   <!-- EN: prisoner released -->
   <ReleasedHealthyPrisoner.stages.prisoner_released.label>tù nhân được thả ra</ReleasedHealthyPrisoner.stages.prisoner_released.label>
@@ -158,6 +196,15 @@
   <SoakingWet.stages.soaking_wet.label>ướt nhẹp</SoakingWet.stages.soaking_wet.label>
   <!-- EN: I'm soaking wet. -->
   <SoakingWet.stages.soaking_wet.description>Tôi ướt chèm nhẹp.</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: eager to travel -->
+  <TravelAnticipation.stages.eager_to_travel.label>háo hức đi du lịch</TravelAnticipation.stages.eager_to_travel.label>
+  <!-- EN: I've been preparing this caravan for a while. I'm looking forward to the upcoming journey. -->
+  <TravelAnticipation.stages.eager_to_travel.description>Tôi đã chuẩn bị đoàn lữ hành này từ rất lâu rồi. Tôi đang mong chờ hành trình sắp tới. </TravelAnticipation.stages.eager_to_travel.description>
+  <!-- EN: excited to travel -->
+  <TravelAnticipation.stages.excited_to_travel.label>hào hứng đi du lịch</TravelAnticipation.stages.excited_to_travel.label>
+  <!-- EN: So much thought and preparation have gone into this adventure. I can't wait to set off! -->
+  <TravelAnticipation.stages.excited_to_travel.description>Quá nhiều suy nghĩ và sự chuẩn bị đã đi vào cuộc phiêu lưu này. Tôi nóng lòng muốn khởi hành!</TravelAnticipation.stages.excited_to_travel.description>
   
   <!-- EN: was imprisoned -->
   <WasImprisoned.stages.was_imprisoned.label>bị cầm tù</WasImprisoned.stages.was_imprisoned.label>

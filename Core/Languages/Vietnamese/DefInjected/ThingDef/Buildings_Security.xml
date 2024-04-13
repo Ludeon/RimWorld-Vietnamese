@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>TODO</Barricade.label>
-  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>TODO</Barricade.description>
+  <Barricade.label>tấm chắn</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>Một rào cản cao đến eo để sử dụng làm tấm chắn các viên đạn bay đến. Tấm chắn tuy xấu xí, nhưng cung cấp chỗ nấp tốt hơn so với các đối tượng thấp khác.</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>bao cát</Sandbags.label>
@@ -19,7 +19,7 @@
   <!-- EN: IED EMP trap -->
   <TrapIED_EMP.label>mìn điện từ</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>Quả mìn làm từ pháo shock điện và dây kích hoạt. Vụ nổ từ quả mìn này tạo ra xung điện cực mạnh gây tê liệt tạm thời các thiết bị điện và mechanoid gần đó. Có thể bị kích hoạt bởi các những sinh vật không bị ảnh hưởng bởi xung điện từ. Thú hoang sẽ tránh những bãi mìn này.</TrapIED_EMP.description>
+  <TrapIED_EMP.description>Quả mìn làm từ pháo shock điện và dây kích hoạt. Vụ nổ từ quả mìn này tạo ra xung điện cực mạnh gây tê liệt tạm thời các thiết bị điện và các cỗ máy chiến đấu cơ gần đó. Có thể bị kích hoạt bởi các những sinh vật không bị ảnh hưởng bởi xung điện từ. Thú hoang sẽ tránh những bãi mìn này.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
   <TrapIED_Firefoam.label>mìn chữa cháy</TrapIED_Firefoam.label>
@@ -36,9 +36,14 @@
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Hỗn hợp chất nổ gây cháy trộn với một chất hóa học khác để tạo ra quả mìn. Khi bị kích hoạt, mìn sẽ nổ bắn hỗn hợp cháy văng ra vùng rộng gây bỏng cho nạn nhân tiếp xúc. Thú hoang sẽ tránh những bãi mìn này.</TrapIED_Incendiary.description>
   
+  <!-- EN: IED smoke trap -->
+  <TrapIED_Smoke.label>mìn khói</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>Một quả đạn khói được kết nối với một bộ kích hoạt phát nổ khi chạm hoặc trúng đạn. Vì nó được ẩn trong địa hình xung quanh, nó không thể được đặt liền kề với các bẫy khác. Động vật có thể cảm nhận được những điều này khi bình tĩnh.</TrapIED_Smoke.description>
+  
   <!-- EN: spike trap -->
-  <TrapSpike.label>bẫy sập</TrapSpike.label>
+  <TrapSpike.label>bẫy gai</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>Một quả tạ với những chông nhọn được treo lên cao với một sợi dây chắn ngang mặt đường. Khi ai đó vấp phải sợi dây, sợi dây sẽ đứt khiến quả tạ rơi thẳng xuống đầu hoặc ngực của mục tiêu.</TrapSpike.description>
+  <TrapSpike.description>Năm mũi nhọn dưới lực căng, được kết nối với một bộ kích hoạt được kích hoạt bằng cảm ứng. Khi nạn nhân làm loạn cò súng, các gai sẽ nảy ra và tấn công nạn nhân. Vì nó được ẩn trong địa hình xung quanh, nó không thể được đặt liền kề với các bẫy khác. Động vật có thể cảm nhận được những điều này khi bình tĩnh.</TrapSpike.description>
   
 </LanguageData>

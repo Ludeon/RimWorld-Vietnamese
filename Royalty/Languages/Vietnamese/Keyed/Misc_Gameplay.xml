@@ -2,18 +2,12 @@
 <LanguageData>
 
   <!-- Royalty and throne -->
-  <!-- EN: Appropriate for title: {0} -->
-  <ThroneTitleStature>Thích hợp cho tước vị: {0}</ThroneTitleStature>
-  <!-- EN: Previous title satisfied: {0} -->
-  <ThronePrevTitleStature>Hài lòng của tước vị trước: {0}</ThronePrevTitleStature>
-  <!-- EN: Next title satisfied: {0} -->
-  <ThroneNextTitleStature>Hài lòng của tước vị tiếp đó: {0}</ThroneNextTitleStature>
+  <!-- EN: Satisfies title -->
+  <ThroneMaxSatisfiedTitle>Danh hiệu làm hài lòng</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
   <ThroneRoomImpressivenessInfo>({0} ấn tượng)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
   <ThroneMustBePlacedInside>Ngai vàng phải được đặt trong nhà.</ThroneMustBePlacedInside>
-  <!-- EN: Throne room contains more than one throne, but this is only allowed for married couples. -->
-  <ThroneRoomHasMoreThan1Throne>Phòng ngai vàng chứa nhiều hơn một ngai vàng, nhưng điều này chỉ được phép cho các cặp vợ chồng.</ThroneRoomHasMoreThan1Throne>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
   <MinimumRoyalTitleInspectString>Tước vị tối thiểu ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
@@ -24,16 +18,14 @@
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
   <PsycastNeurotrainerLabel>bộ phân tích thần kinh ({0})</PsycastNeurotrainerLabel>
-  <!-- EN: Use neurotrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>Sử dụng bộ phân tích thần kinh để tìm hiểu {0} psycast</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>Một siêu cơ khí sử dụng một lần, đào tạo một psycast cụ thể.\n\nLiều được dùng thông qua quỹ đạo của mắt. Sau khi được giải phóng vào não, các thợ máy hình thành kiến ​​thức về khả năng psycast cụ thể, tự chuyển hóa thành mô thần kinh khi cần thiết.</PsycastNeurotrainerDescription>
-  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} psycast. -->
+  <!-- EN: Use psytrainer to learn {0} psycast -->
+  <PsycastNeurotrainerUseLabel>Sử dụng bộ phân tích thần kinh để tìm hiểu {0} năng lực</PsycastNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
+  <PsycastNeurotrainerDescription>Một siêu liều dùng một lần của các cơ cấu tạo ra một sức mạnh tâm linh cụ thể.\n\nLiều lượng được sử dụng thông qua quỹ đạo của mắt. Sau khi được giải phóng vào não, các cơ cấu tạo ra kiến thức về một khả năng cụ thể, tự chuyển đổi thành mô thần kinh khi cần thiết.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort} đã sử dụng bộ phân tích thần kinh để tìm hiểu {1} psycast.</AbilityNeurotrainerUsed>
-  <!-- EN: {USER_labelShort} has reached psychic amplifer level {1} and has automatically learned this psycast: {2}. -->
-  <PsycastLearnedFromImplant>{USER_labelShort} đã đạt đến cấp độ khuếch đại tâm linh {1} và đã tự động học psycast này: {2}.</PsycastLearnedFromImplant>
-  <!-- EN: Requires psychic amplifier -->
-  <PsycastNeurotrainerNoPsychicAmplifier>Yêu cầu khuếch đại tâm linh</PsycastNeurotrainerNoPsychicAmplifier>
+  <!-- EN: requires psylink -->
+  <PsycastNeurotrainerNoPsylink>Yêu cầu liên kết tinh thần</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} đã học {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
 
@@ -47,7 +39,136 @@
   <NotUsable>Không thể sử dụng</NotUsable>
   <!-- EN: unpowered -->
   <Unpowered>Chưa cấp điện</Unpowered>
+  <!-- EN: blocked by roof -->
+  <BlockedByRoof>bị chặn bởi mái nhà</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
   <TooCloseToOtherBeacon>Quá gần các beacon khác</TooCloseToOtherBeacon>
   
+  <!-- Meditation -->
+  <!-- EN: Psyfocus -->
+  <Psyfocus>Tinh thần lực</Psyfocus>
+  <!-- EN: Psyfocus -->
+  <PsyfocusLabelGizmo>Tinh thần lực</PsyfocusLabelGizmo>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>Tinh thần lực là một loại cấu trúc tinh thần đặc biệt cần thiết để thực hiện các năng lực. Tinh thần lực tiêu tan theo thời gian, và phải được xây dựng bằng thiền định thường xuyên. Không còn tinh thần lực sẽ làm cho ai đó không thể thi triển các năng lực, nhưng không có thiệt hại nào khác.\n\nMức độ tinh thần lực cao hơn cho phép dùng các năng lực cấp cao hơn, nhưng cũng làm tăng tốc độ phân tán tinh thần lực nhanh hơn.</PsyfocusDesc>
+  <!-- EN: {0}-{1}% -->
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <!-- EN: Up to level {0} powers. -->
+  <PsyfocusLevelInfoPsycasts>Lên đến cấp độ {0} năng lực.</PsyfocusLevelInfoPsycasts>
+  <!-- EN: Psyfocus falls at {0} per day. -->
+  <PsyfocusLevelInfoFallRate>tinh thần lực mất đi {0} mỗi ngày.</PsyfocusLevelInfoFallRate>
+  <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
+  <UserMeditationFocusStrength>Sức mạnh tập trung thiền cho {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <!-- EN: Focus effect impacted by -->
+  <MeditationFocusImpacted>Hiệu ứng tập trung bị ảnh hưởng bởi</MeditationFocusImpacted>
+  <!-- EN: {1} per nearby animus stone (max {0}) -->
+  <MeditationFocusPerAnimusStoneAbstract>{1} mỗi viên đá hoạt hình gần đó (tối đa {0})</MeditationFocusPerAnimusStoneAbstract>
+  <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
+  <MeditationFocusPerAnimusStone>{2} mỗi viên đá hoạt hình gần đó ({0} / {1})</MeditationFocusPerAnimusStone>
+  <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>Mỗi viên đá hoạt hình gần đó {2}, đền thờ tự nhiên {1} (tối đa {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
+  <MeditationFocusPerAnimusStoneAndShrine>Mỗi hòn đá hoạt hình gần đó {3}, đền thờ thiên nhiên {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
+  <MeditationFocusPerSculptureAbstract>Tối đa {1} cho mỗi tác phẩm điêu khắc gần đó tùy thuộc vào chất lượng (tối đa {0})</MeditationFocusPerSculptureAbstract>
+  <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
+  <MeditationFocusPerSculpture>Tối đa {2} cho mỗi tác phẩm điêu khắc lân cận tùy thuộc vào chất lượng ({0} / {1})</MeditationFocusPerSculpture>
+  <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
+  <MeditationFocusPerGraveAbstract>Mỗi ngôi mộ gần đó {1} nếu trống, {2} đối với xác người (tối đa {0})</MeditationFocusPerGraveAbstract>
+  <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
+  <MeditationFocusPerGrave>Mỗi ngôi mộ gần đó {2} nếu trống, {3} cho xác người ({0} / {1})</MeditationFocusPerGrave>
+  <!-- EN: {1} per nearby lit flame source (up to {0}) -->
+  <MeditationFocusPerFlameAbstract>{1} trên mỗi nguồn lửa thắp sáng gần đó (tối đa {0})</MeditationFocusPerFlameAbstract>
+  <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
+  <MeditationFocusPerFlame>{2} trên mỗi nguồn lửa thắp sáng gần đó ({0} / {1})</MeditationFocusPerFlame>
+  <!-- EN: Psyfocus gain rate: {0}/d -->
+  <PsyfocusPerDayOfMeditation>Tăng tinh thần lực: {0}/d</PsyfocusPerDayOfMeditation>
+  <!-- EN: Desired psyfocus -->
+  <DesiredPsyfocus>Yêu cầu tinh thần lực</DesiredPsyfocus>
+  <!-- EN: Click to set desired psyfocus. -->
+  <DesiredPsyfocusDesc>Nhấn vào đây để thiết lập tinh thần lực mong muốn.</DesiredPsyfocusDesc>
+
+  <!-- EN: no throne assigned. -->
+  <AbilitySpeechDisabledNoThroneAssigned>không có ngai vàng được giao.</AbilitySpeechDisabledNoThroneAssigned>
+  <!-- EN: throne is not accessible. -->
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>ngai vàng không truy cập được.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <!-- EN: throne not usable because it is undignified. -->
+  <AbilitySpeechDisabledNoThroneUndignified>ngai vàng không thể sử dụng được vì nó không được đánh giá cao.</AbilitySpeechDisabledNoThroneUndignified>
+  <!-- EN: already giving a speech. -->
+  <AbilitySpeechDisabledAlreadyGivingSpeech>đã đưa ra một bài phát biểu.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <!-- EN: Outcome chances -->
+  <AbilitySpeechPossibleOutcomes>Cơ hội kết quả</AbilitySpeechPossibleOutcomes>
+  <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
+  <AbilitySpeechStatInfo>Chỉ số {1} của {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
+  <!-- EN: Dignified throne -->
+  <AbilitySpeechTargetDescThrone>Ngai vàng trang nghiêm</AbilitySpeechTargetDescThrone>
+  
+  <!-- EN: no accessible altar. -->
+  <RitualDisabledNoAltar>không có bàn thờ tiếp cận.</RitualDisabledNoAltar>
+  <!-- EN: Bestowing Ceremony -->
+  <RitualBestowingCeremony>Lễ trao tặng</RitualBestowingCeremony>
+
+  <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
+  <TotalMeditationToday>Tổng số thiền hôm nay: {0} (hệ số tiến trình {1})</TotalMeditationToday>
+  <!-- EN: progress {0} -->
+  <ProgressToNextSubplant>tiến trình {0}</ProgressToNextSubplant>
+  <!-- EN: Begin linking ritual -->
+  <BeginLinkingRitualFloatMenu>Bắt đầu nghi thức liên kết</BeginLinkingRitualFloatMenu>
+  <!-- EN: Need {0} {1} here (have {2}) -->
+  <BeginLinkingRitualNeedSubplants>Cần {0} {1} tại đây (có {2})</BeginLinkingRitualNeedSubplants>
+  <!-- EN: Need {0} psylink focus type -->
+  <BeginLinkingRitualNeedFocus>Cần tập trung liên kết tinh thần {0}</BeginLinkingRitualNeedFocus>
+  <!-- EN: Max psylink level -->
+  <BeginLinkingRitualMaxPsylinkLevel>Cấp độ liên kết tinh thần tối đa</BeginLinkingRitualMaxPsylinkLevel>
+  <!-- EN: Need a free, reachable spot within 3 cells for linking -->
+  <BeginLinkingRitualNeedLinkSpot>Cần một điểm trống, có thể truy cập trong vòng 3 ô để liên kết</BeginLinkingRitualNeedLinkSpot>
+  <!-- EN: Linking ritual completed -->
+  <LetterLabelLinkingRitualCompleted>Hoàn thành nghi thức liên kết</LetterLabelLinkingRitualCompleted>
+  <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} đã hoàn thành nghi thức liên kết với {LINKABLE_labelShort}.\n\n{PAWN_pronoun} hiện đã có một liên kết tinh thần được nâng cấp, cho phép sử dụng các năng lực mới.</LetterTextLinkingRitualCompleted>
+  <!-- EN: Additionally, {0} anima grass has been restored. -->
+  <LetterTextLinkingRitualCompletedAnimaGrass>Ngoài ra, {0} cỏ anima đã được phục hồi.</LetterTextLinkingRitualCompletedAnimaGrass>
+
+  <!-- EN: Land shuttle here -->
+  <LandHere>Hạ cánh phi thuyền ở đây</LandHere>
+  <!-- EN: Destination is out of range. -->
+  <MessageShuttleDestinationIsTooFar>Điểm đến nằm ngoài phạm vi.</MessageShuttleDestinationIsTooFar>
+
+  <!-- EN: Start bestowing ceremony for {0_labelShort} -->
+  <BeginCeremony>Bắt đầu lễ trao tặng cho {0_labelShort}</BeginCeremony>
+  <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Người ban tặng cảm thấy khó chịu vì phòng ngai vàng của {PAWN_definite} không đáp ứng các yêu cầu của danh hiệu {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Người ban tặng cảm thấy khó chịu vì phòng ngai vàng của {PAWN_definite} không đáp ứng các yêu cầu của danh hiệu {TITLE}. Lễ trao tặng đã bị hủy bỏ.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <!-- EN: bestowing ceremony -->
+  <BestowingCeremonyLabel>lễ ban tặng</BestowingCeremonyLabel>
+  <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
+  <BestowingOutcomeQualitySpecific>Tổng chất lượng của buổi lễ trao tặng là {0}, được xác định bởi các yếu tố này</BestowingOutcomeQualitySpecific>
+  
+  <!-- EN: No colonists that can link with anima tree right now. -->
+  <RitualTargetAnimaTreeNoPawnsToLink>Không có cư dân nào có thể liên kết với cây cực quang ngay bây giờ.</RitualTargetAnimaTreeNoPawnsToLink>
+  <!-- EN: No colonists with the natural meditation focus type. -->
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Không có cư dân nào với kiểu tập trung thiền tự nhiên.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <!-- EN: Need at least {0} anima grass. -->
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Cần ít nhất {0} cỏ cực quang.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: an anima tree -->
+  <RitualTargetAnimaTreeInfo>Cây cực quang.</RitualTargetAnimaTreeInfo>
+  <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Phải là một cư dân với kiểu tập trung thiền tự nhiên, người dưới mức liên kết tinh thần tối đa.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <!-- EN: Must not be psychically deaf. -->
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>Không được bị tổn hại thần kinh.</RitualTargetAnimaTreeMustBePsychicallySensitive>
+
+  <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
+  <AnimaLinkingExplanationBase>Lễ liên kết cực quang diễn ra mạnh mẽ hơn với nhiều người tham gia hơn. Càng nhiều người tham gia, buổi lễ càng mất ít thời gian và càng nhiều cỏ cực quang sẽ mọc.\n\nVới {0} người tham gia bổ sung, {1} cỏ cực quang sẽ được phục hồi vào cuối buổi lễ.</AnimaLinkingExplanationBase>
+  <!-- EN: Not all required cargo is loaded yet! -->
+  <ShuttleRequiredItemsNotSatisfied>Chưa tải hết hàng hóa đã yêu cầu!</ShuttleRequiredItemsNotSatisfied>
+  <!-- EN: Cannot load {0_labelShort} -->
+  <CannotLoadIntoShuttle>TODO</CannotLoadIntoShuttle>
+
+  <!-- EN: no heat to dump. -->
+  <AbilityNoEntropyToDump>Không có nhiệt để đổ.</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>cấp {0}</LevelNum> <!-- Psylink level as reported in health tab-->
+
 </LanguageData>
