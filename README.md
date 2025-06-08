@@ -4,37 +4,6 @@
     </a>
 </p>
 
-<h1 align="center">RimWorld Vietnamese Language Pack</h1>
-
-<p align="center">
-	<a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
-		<img src="https://img.shields.io/github/v/release/Ludeon/RimWorld-Vietnamese" />
-    </a>  
-    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
-        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Ludeon/RimWorld-Vietnamese">
-    </a> 
-    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/archive/master.zip">
-    <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/KingCTer/RimWorld-Vietnamese?include_prereleases&label=dev">
-    </a>     
-    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">
-        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ludeon/RimWorld-Vietnamese?color=0&label=size">
-    </a>   
-    <a href="https://github.com/Ludeon/RimWorld-Vietnamese/releases">   
-	    <img src="https://img.shields.io/github/downloads/Ludeon/RimWorld-Vietnamese/total" />
-    </a>
-	<a href="https://rimworldwiki.com/wiki/Version_history">
-		<img src="https://img.shields.io/badge/RimWorld-1.1-purple.svg?longCache=true&style=plastic)" alt="Compatible Rimworld 1.1" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://discord.gg/ebRYBwR">
-		<img src="https://img.shields.io/discord/642929390669529091?label=discord&logo=discord" />
-	</a>
-    <a href="https://www.facebook.com/groups/429801467205824/">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Rimworld%20Vi%E1%BB%87t%20Nam&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F429801467205824%2F">
-    </a>
-</p>
-
 This is Vietnamese translation data for RimWorld.
 
 ### 1. Install this translation
