@@ -38,17 +38,17 @@
 This is Vietnamese translation data for RimWorld.
 
 ### 1. Install this translation
-Tải về và giải nén trong RimWorld/Mods
+Hi vọng rằng nó sẽ được tích hợp vào game
+Bản dịch này nhằm mục đích tích hợp vào game nếu bạn muốn dùng dạng mod thì truy cập đường link bên dưới
+https://steamcommunity.com/sharedfiles/filedetails/?id=3491880774
 
 ### 2. Bugs and errors report
-Vì bản dịch chưa hoàn thiện nên tạm thời chưa nhận phản hồi.
+Chỉ nhận phản hồi tại server discord
 
 ### 3. Join us!
-- Discord: https://discord.gg/jywEv7
+- Discord: https://discord.gg/7SC9fMjCtA
 - Ludeon: https://ludeon.com/forums/index.php?topic=2933.0 
 - Facebook Cộng đồng Rimworld Việt Nam: https://www.facebook.com/groups/429801467205824/
   
 ### 4. Translators:
-- Nam Bùi - [@nambn](https://github.com/nambn)
-- Hưng Trần - **mw3tv123**
-- KingCTer
+Bao gồm nhiều dịch giả đến từ các server discord cục thịt và rimworld vn
