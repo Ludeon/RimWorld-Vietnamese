@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>bỏng</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} đã chết vì bỏng nặng.</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>cháy</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} đã chết cháy.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>đóng băng</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} đã chết cóng.</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>cuốn bay</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} đã chết vì lốc xoáy cuốn.</TornadoScratch.deathMessage>
+  
+</LanguageData>

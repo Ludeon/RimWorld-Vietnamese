@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <AggressiveRejection.label>Phản ứng hung hãn</AggressiveRejection.label>
+  <!-- EN: Upon being rejected, {PAWN_nameDef} flew into a murderous rage and began to attack! -->
+  <AggressiveRejection.letterDesc>Bị từ chối, {PAWN_nameDef} nổi cơn thịnh nộ và bắt đầu tấn công!</AggressiveRejection.letterDesc>
+  <!-- EN: {PAWN_nameDef} hostile -->
+  <AggressiveRejection.letterLabel>{PAWN_nameDef} thù địch</AggressiveRejection.letterLabel>
+  
+  <!-- EN: departure -->
+  <Departure.label>Ra đi</Departure.label>
+  <!-- EN: {PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave. -->
+  <Departure.letterDesc>{PAWN_nameDef} thất vọng với cách bạn đã đối xử với {PAWN_objective}. {PAWN_pronoun} quyết định rời đi.</Departure.letterDesc>
+  <!-- EN: {PAWN_nameDef} departure -->
+  <Departure.letterLabel>{PAWN_nameDef} ra đi</Departure.letterLabel>
+  
+</LanguageData>

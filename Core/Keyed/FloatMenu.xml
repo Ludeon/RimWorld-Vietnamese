@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>Gọi {0}</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>Không thể dùng: {0}</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>Không thể sử dụng: EMP</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>Không thể sử dụng: Không có năng lượng</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>Không thể sử dụng: Không có lối đi</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>Không thể sử dụng: Dự trữ</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>Không thể sử dụng: Đầy</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>thủ lĩnh {1_labelShort} không khả dụng</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>thủ lĩnh không khả dụng</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>Không được phép</NotAllowed>
+  
+  <!-- EN: Fire at {1_labelShort} -->
+  <FireAt>Bắn {1_label}</FireAt>
+
+  <!-- EN: out of range -->
+  <OutOfRange>ngoài tầm bắn</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>quá gần</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>không thể bắn trúng mục tiêu</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{1_labelShort} sợ bạo lực</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>sợ bạo lực</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort} không có khả năng chụp</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{1_labelShort} chưa ở tình trạng chiến đấu</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>không thể ra lệnh cho nhân vật mà bạn không điều khiển được</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>không thể tự tấn công bản thân được</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>không thể tấn công đồng minh</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>Không có khả năng chữa cháy.</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>Điều khiển {1_labelShort}</OrderManThing>
+  
+  <!-- EN: Melee attack {1_labelShort} -->
+  <MeleeAttack>Giáp lá cà với {1_label}</MeleeAttack>
+  <!-- EN: Melee attack {1_labelShort} to death -->
+  <MeleeAttackToDeath>Đánh {1_label} cho tới chết</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>không có lối đi</NoPath>
+  <!-- EN: burying -->
+  <Burying>chôn cất</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>được chỉ định cho {0}</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>bị cấm</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>ngoài khu vực cho phép</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>không phải trong khu vực nhà ở</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>đang cháy</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>không có kho nào còn trống để chứa nó</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>không có đống cùng loại nào trống để hợp vào</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>đã đầy</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>missing {0}</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>Không có thuốc hạn chế '{CATEGORY}'.</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>thấp hơn kĩ năng yêu cầu {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>dưới kĩ năng cho phép {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>trên kĩ năng cho phép {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>không thể tiếp cận bên ngoài ô</NoReachableOutsideCell>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>thiếu kĩ năng cần thiết</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>tương tác với con vật quá nhanh</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>tương tác quá nhanh</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>không có thức ăn sử dụng được</NoUsableFood>
+  <!-- EN: not enough food -->
+  <NoFood>không có thức ăn</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>không có hạn chế phù hợp với thực phẩm</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>Không có {0_label}</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>thấp hơn yêu cầu của {0}</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>kĩ năng thuần hóa quá thấp - cần {0}</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>thú nuôi bất tỉnh</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>thú nuôi đang ngủ</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>thú nuôi đang bận</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>không được phép tiếp cận chuồng</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>không bọc kín chuồng</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>không chấp nhận chuồng</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>không có chuồng có thể tiếp cận</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>không thể chạm vào</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>không có khoảng trống trong chuồng</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort} ở trạng thái {1}</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>đã có chuồng tốt nhất</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>kỹ năng {0} quá thấp</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>cần thêm linh kiện</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>cần {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>cần men rượu</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>thực phẩm có sẵn ở kho chứa có mức ưu tiên cao hơn</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>không có thực phẩm thích hợp</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>tự cứu chữa bản thân đã tắt</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>giành cho tù nhân</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>không thể với tới</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>chưa sẵn sàng để phẫu thuật</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>kĩ năng không thể sử dụng</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>quá sáng</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>không có mái che</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>không có khả năng phá hủy</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>không có khả năng đào mỏ</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
+  <!-- EN: angers faction -->
+  <AngersFaction>phe giận dữ</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>không có bộ phận cơ thể</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>không phải là cư dân</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>đã được cài đặt</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>yêu cầu một {0} hiện có</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>cấp độ tối đa</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>yêu cầu mức tối thiểu {0}</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>điếc tâm thần</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>Nâng cấp {0} lên cấp {1}</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>vi phạm đồng minh phe phái</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>được thực hiện bởi {0_labelShort}</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>đầy</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>đã được chỉ định</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>Tiêu thụ {1_labelShort}</ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>Không thể đi đến đây: không có con đường</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>Đến đây</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>TODO</CleanRoom>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>Bắt giữ {0}</Arrest>
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
+  <TryToArrest>Cố bắt {1_label} ({2} cơ hội)</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>Không thể bắt giữ</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} cơ hội bị bắt</ArrestChance>
+
+  <!-- EN: Capture {1_labelShort} -->
+  <Capture>Bắt {1_label}</Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>TODO</CaptureLower>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>Không thể bắt</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>trung thành kiên định</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>Chuyển {0_definite}</TransferEntity> 
+
+  <!-- EN: Rescue {1_labelShort} -->
+  <Rescue>Giải cứu {1_label}</Rescue>
+  <!-- EN: Put {1_labelShort} somewhere safe -->
+  <PutSomewhereSafe>Đặt {1_label} ở nơi an toàn</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>Đưa {0_labelShort} đi ngủ.</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>Không thể giải cứu</CannotRescue>
+
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>Mang {1_label} vào trong buồng ngủ đông</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>Không thể mang vào buồng ngủ đông</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_labelShort} to shuttle -->
+  <CarryToShuttle>Mang {0_label} đến tàu con thoi</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>Không có buồng ngủ đông trống.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>Thành viên phe tạm thời không được phép.</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>Các tù nhân bị giam giữ không được phép.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>Đã có người</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>Không có giường cho tù nhân, hoặc giường đặt ở nhiệt độ không thích hợp hoặc ở nơi không đến được.</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>Không có giường trống hoặc giường đặt ở nơi nhiệt độ không tốt hoặc ở nơi không đến được.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>Không có giường trống giành cho thú nuôi hoặc giường đặt ở nơi nhiệt độ không tốt hoặc ở nơi không tới được.</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>TODO</NoItemReserved>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>Dành cho người khác.</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>Dành cho {1_labelShort}</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} này dành cho {1}</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>Quá nặng</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort} thuộc cùng một nhóm.</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>không có khả năng</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>không có khả năng {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>Phải có {0_label}</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>kĩ năng tối thiểu</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>Trang bị {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(cận chiến không thích điều này)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>Không thể trang bị {0}</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>Không thể điều khiển {1_labelShort}</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>Buộc mặc {1_labelShort}</ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>Không thể mặc {1_label}</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>Buộc trang bị {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>Không thể trang bị {1_labelShort}</CannotEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>thiếu bộ phận cơ thể</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>Nạp lại {GEAR_labelShort} với {AMMO_label}</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>Đầy</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>Quá ít</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>Không thể mang đủ {AMMO_label} để nạp lại 1 lần sạc.</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>Không thể nhặt {1_label}</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>Không thể nhặt {1_label} (tất cả)</CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>Nhặt {1_labelShort} x1</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>Nhặt {1_label} (tất cả)</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>Nhặt {1_labelShort}...</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>Nhặt được {1_labelShort} x{{0}}</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>Không thể chọn {1_labelShort}</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0} {1} được phép</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>Không thể đưa {1_label} cho đàn thú</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>Không thể đưa {1_label} (tất cả) cho đàn thú</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>Đưa {1_label} cho đàn thú</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>Đưa {1_label} (tất cả) cho đàn thú</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>Đưa {1_labelShort} cho đàn thú...</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>Đã đưa {1_label} x{{0}}</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>Không thể thêm {1_label} vào đoàn giao thương</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>Không thể tải {1_label} (tất cả) vào đoàn giao thương</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>Tải {1_label} vào đoàn giao thương</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>Tải {1_label} (tất cả) vào đoàn giao thương</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>Tải {1_labelShort} vào đoàn giao thương...</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>Tải {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>quá tải</OverweightLower>
+
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
+  <CannotCarryToExit>Không thể mang {1_label} ra khỏi khu vực này</CannotCarryToExit>
+  <!-- EN: Carry {1_labelShort} and leave the area -->
+  <CarryToExit>Mang {1_label} ra khỏi khu vực này</CarryToExit>
+  <!-- EN: Capture {1_labelShort} and leave the area -->
+  <CarryToExitAndCapture>Bắt {1_label} và ra khỏi khu vực này</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_labelShort} -->
+  <Strip>Lột đồ {1_label}</Strip>
+  <!-- EN: Cannot strip {1_labelShort} -->
+  <CannotStrip>Không thể lột đồ {1_label}</CannotStrip>
+  <!-- EN: Cannot drop {1_labelShort} -->
+  <CannotDrop>Không thể thả {1_label}</CannotDrop>
+  <!-- EN: Carry {0_labelShort} -->
+  <Carry>Mang theo {0_label}</Carry>
+  <!-- EN: Cannot carry {0_labelShort} -->
+  <CannotCarry>Không thể mang theo {0_label}</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>TODO</CarriedPawnHostile>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>thành viên phe tạm thời</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>Không thể thay đổi trang phục cho các thành viên phe tạm thời</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>sẽ thay thế trang phục bị khóa</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>Không thể đặt {0_label} trong {1_label}</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>Đặt {0_label} vào {1_label}</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>Tự hủy ở đây</SelfDestructHere>
+  
+  <!-- EN: Drop {1_labelShort} -->
+  <Drop>Bỏ {1_label} xuống</Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>Nghỉ ngơi đến khi lành hẳn</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>không bị thương</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>không có bác sĩ</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>giường y tế không dành cho nô lệ</NotForSlaves>
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>bị chiếm bởi {0}</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>Trao đổi với {0}</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>TODO</DismissTrader>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>Không thể trao đổi</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>TODO</TraderDismissed>
+
+  <!-- EN: Open {0_label} -->
+  <Open>Mở {0_label}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>Không thể mở {0_label}</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>Vào {0}</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>Thăm {0}</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>Gặp {0}</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>Đến {0}</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>Tấn công {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>Tiến vào {0}</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>Đang tiến vào {0}</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>Tặng quà</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>Giao dịch với {0}</TradeWithSettlement>
+  
+  <!-- EN: Enter {0} -->
+  <EnterPortal>TODO</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>TODO</EnteringPortal>
+  <!-- EN: Enter {0} -->
+  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>Nằm trong buồn ngủ đông</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>Mở buồng ngủ đông</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>Vào trong tàu con thoi</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Không thể {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>Không thể {0}</CannotGenericWorkCustom>
+
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <CannotMissingHealthActivities>Không thể ưu tiên (không có khả năng làm {0})</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>Đã {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>{0} sắn sàng</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>thiếu chức danh cần thiết</MissingTitleAbility>
+
+  <!-- EN: Cannot prioritize: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>sẽ không bao giờ {0}</WillNever>
+
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>Không thể ưu tiên (chưa biên chế cho việc {0})</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>chưa thiết lập</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>không được chỉ định cho {0}</NotAssignedToWorkType>
+
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <CannotPrioritizeResearch>Không thể ưu tiên (nghiên cứu là công việc lâu dài)</CannotPrioritizeResearch>
+
+  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>Không thể ưu tiên ({1_label} đang bị cấm)</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>Không thể ưu tiên (đang cấm)</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Ngoài khu vực cho phép</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>Không thể ưu tiên chôn</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>Ưu tiên {0} {1}</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>Đáp ở biên</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>Đáp ở trung tâm</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>Tấn công {0}</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>Tấn công {0}: Đáp ở biên</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>Tấn công {0}: Đáp ở trung tâm</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>nôn mửa</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>không thể ngăn cản</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>Thêm điểm đến ở đây</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>Xóa điểm đến này</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>Hủy tất cả đích đến</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>Thiết lập tất cả</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} ảnh hưởng</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>Cấm tất cả vật phẩm</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>Cho phép tất cả vật phẩm</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>Phóng to và chọn một nơi để đáp ở {0}</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>Nội dung sẽ mất hết</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>Thành lập đoàn giao thương ở đây</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>Gửi cho {0}</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>Tặng quà cho {0} ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>Không thuộc nhóm khởi chạy</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>Giải cứu tù nhân</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>Yêu cầu trợ giúp</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>áp dụng {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>Quá nguy hiểm</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>Không có ai để gọi</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>Gọi {0}</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Không thể gọi {0}</CannotInvoke>
+  <!-- EN: power -->
+  <Power>điện</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>đã được gọi</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>Chăm nom {0}</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>Không thể chăm nom {0}</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0} không yêu cầu chăm sóc</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>không có thuốc</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>Sửa chữa {0}</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>Không thể sửa chữa {0}</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Không thể vào</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>TODO</PortalClosed>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>Không lãng mạn {0}</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>Lãng mạn {0}</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>đồ ăn dở tệ</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>TODO</FoodNotSuitable>
+
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>TODO</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>TODO</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>TODO</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>không có trong hàng chờ nghiên cứu, chưa đặt trước</NoResearchBench>
+</LanguageData>

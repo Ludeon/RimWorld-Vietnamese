@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Entities -->
+  <!-- EN: {0_definite}'s activity is rising due to taking damage. -->
+  <MessageActivityRisingDamage>{0_definite}: hoạt động gia tăng do bị tấn công.</MessageActivityRisingDamage>
+  <!-- EN: {0_definite} has died on a holding platform. -->
+  <EntityDiedOnHoldingPlatform>{0_definite} đã chết trên bệ giam giữ.</EntityDiedOnHoldingPlatform>
+  <!-- EN: New entity discovered -->
+  <MessageEntityDiscovered>Thực thể mới được phát hiện!</MessageEntityDiscovered>
+
+  <!-- Hate chanters -->
+  <!-- EN: The cultists are in a trance and don't respond when attacked. -->
+  <MessageHateChantersAbsorbed>Những kẻ tụng kinh đang trong trạng thái xuất thần, không phản ứng khi bị tấn công.</MessageHateChantersAbsorbed>
+  <!-- EN: The hate chanting has increased in volume. -->
+  <MessageHateChantIncreased>Tiếng tụng kinh ngày càng lớn hơn.</MessageHateChantIncreased>
+
+  <!-- Self-resurrection -->
+  <!-- EN: {0_nameDef} can self-resurrect on command using death refusal. -->
+  <SelfResurrectText>{0_nameDef} có thể tự hồi sinh khi có lệnh bằng cách sử dụng Kháng tử.</SelfResurrectText>
+  <!-- EN: {0_nameDef} is using death refusal to self-resurrect. -->
+  <MessageUsingSelfResurrection>{0_nameDef} đang sử dụng Kháng tử để tự hồi sinh.</MessageUsingSelfResurrection>
+
+  <!-- Pit Gate -->
+  <!-- EN: The pit gate has collapsed. -->
+  <MessagePitGateCollapsed>Cổng vực thẳm đã sụp đổ.</MessagePitGateCollapsed>
+  <!-- EN: A pit burrow has collapsed. -->
+  <MessagePitBurrowCollapsed>Hầm trú ẩn địa ngục bị sập.</MessagePitBurrowCollapsed>
+
+  <!-- Fleshsack -->
+  <!-- EN: The flesh sack contained something -->
+  <FleshmassContainedMessage>Có thứ gì đó bên trong khối thịt...</FleshmassContainedMessage>
+
+  <!-- Psychic rituals -->
+  <!-- EN: {0_pawnsPluralDef} are attacking! -->
+  <MessagePsychicRitualAssault>{0_pawnsPluralDef} đang tấn công!</MessagePsychicRitualAssault>
+  <!-- EN: {FACTION_pawnsPluralDef} are beginning the psychic ritual -->
+  <MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef} đang bắt đầu nghi thức tâm linh.</MessageAIPsychicRitualBegan>
+  
+  <!-- Biomutation lance -->
+  <!-- EN: Cannot target: {0_nameDef} is not an animal or human. -->
+  <MessageBiomutationLanceInvalidTargetRace>Mục tiêu không hợp lệ: {0_nameDef} không phải động vật hay con người.</MessageBiomutationLanceInvalidTargetRace>
+  <!-- EN: Cannot target: {0_nameDef} is too large. -->
+  <MessageBiomutationLanceTargetTooBig>Mục tiêu không hợp lệ: {0_nameDef} quá lớn.</MessageBiomutationLanceTargetTooBig>
+
+  <!-- Containment -->
+  <!-- EN: Warning: No rooms have the minimum containment strength for {0}. It may escape soon. -->
+  <MessageNoRoomWithMinimumContainmentStrength>Cảnh báo: Không gian nào đáp ứng ngưỡng giam giữ {0}. Nó sẽ sớm thoát ra.</MessageNoRoomWithMinimumContainmentStrength>
+  <!-- EN: Warning: {0} is below minimum containment strength for {1}. It may escape soon. -->
+  <MessageTargetBelowMinimumContainmentStrength>Cảnh báo: {0} dưới mức độ an toàn để giam giữ {1}. Nó sẽ sớm thoát ra.</MessageTargetBelowMinimumContainmentStrength>
+  <!-- EN: Can't transfer to {0} reserved by someone else. -->
+  <MessageHolderReserved>Không thể chuyển vào {0}, đã được đặt chỗ bởi người khác.</MessageHolderReserved>
+  <!-- EN: {EXECUTIONER_labelShort} has executed {VICTIM_kindIndef}. -->
+  <MessageEntityExecuted>{EXECUTIONER_labelShort} đã trừng phạt {VICTIM_kindIndef}.</MessageEntityExecuted>
+  <!-- EN: Warning: Reinstalling an occupied holding platform will release the entity. Transfer the entity to another platform first. -->
+  <MessageOccupiedHoldingPlatformReinstalled>Cảnh báo: Cài đặt lại bệ giam giữ đang sử dụng sẽ giải thoát thực thể. Hãy chuyển nó sang bệ khác trước.</MessageOccupiedHoldingPlatformReinstalled>
+  <!-- EN: Warning: Uninstalling an occupied holding platform will release the entity. Transfer the entity to another platform first. -->
+  <MessageOccupiedHoldingPlatformUninstalled>Cảnh báo: Gỡ bỏ bệ giam giữ đang sử dụng sẽ giải thoát thực thể. Hãy chuyển nó sang bệ khác trước.</MessageOccupiedHoldingPlatformUninstalled>
+  <!-- EN: Warning: Deconstructing an occupied holding platform will release the entity. Transfer the entity to another platform first. -->
+  <MessageOccupiedHoldingPlatformDeconstructed>Cảnh báo: Phá hủy bệ giam giữ đang sử dụng sẽ giải thoát thực thể. Hãy chuyển nó sang bệ khác trước.</MessageOccupiedHoldingPlatformDeconstructed>
+  
+  <!-- Duplicator obelisk -->
+  <!-- EN: A hostile duplicate of {0_nameDef} has appeared. -->
+  <MessageHostileDuplicate>Bản sao thù địch của {0_nameDef} đã xuất hiện.</MessageHostileDuplicate>
+  
+  <!-- Proximity detector -->
+  <!-- EN: A proximity detector has detected an invisible creature. -->
+  <MessageProximityDetectorTriggered>Cảm biến phát hiện ra sinh vật tàng hình.</MessageProximityDetectorTriggered>
+  
+  <!-- Unnatural darkness --> 
+  <!-- EN: Something in the darkness has attacked {0_nameDef}. -->
+  <MessagePawnAttackedInDarkness>Có thứ gì đó trong bóng tối vừa tấn công {0_nameDef}!</MessagePawnAttackedInDarkness>
+  
+  <!-- Revenant -->
+  <!-- EN: A hidden revenant has been revealed! -->
+  <MessageRevenantForcedVisibility>revenant vừa bị bắt hiện hình!</MessageRevenantForcedVisibility>
+  <!-- EN: {PAWN_nameDef} can hear the revenant {1} nearby! -->
+  <MessageRevenantHeard>{PAWN_nameDef} nghe tiếng revenant {1} gần đây!</MessageRevenantHeard>
+  
+  <!-- Abilities -->
+  <!-- EN: {ABILITY_label} cannot be used on non-bleeding creatures. -->
+  <MessageCannotUseOnNonBleeder>Không thể sử dụng chiêu thức {ABILITY_label} lên sinh vật không chảy máu.</MessageCannotUseOnNonBleeder>
+  
+  <!-- EN: {WAKER_nameDef} has disturbed a fingerspike. -->
+  <MessageFingerspikeDisturbed>{WAKER_nameDef} đã đánh động Gai ngón.</MessageFingerspikeDisturbed>
+  <!-- EN: {WAKER_nameDef} has disturbed several fingerspikes. -->
+  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} đã đánh động nhiều Gai ngón.</MessageFingerspikeDisturbedPlural>
+
+  <!-- EN: The death pall has resurrected {0_indefinite}. -->
+  <DeathPallResurrectedMessage>Màn tang tóc đã hồi sinh {0_indefinite}.</DeathPallResurrectedMessage>
+  
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>tốc độ thu hoạch động vật</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>Tốc độ mà người này vắt sữa, cắt lông v.v... Cơ bản là thu thập tài nguyên từ động vật.</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>năng suất thu hoạch động vật</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>Tỷ lệ phần trăm mà ai đó nhận được khi họ cắt, vắt sữa hoặc thu thập tài nguyên từ một động vật sống. Tỷ lệ phần trăm cao hơn làm giảm cơ hội lãng phí sản phẩm.</AnimalGatherYield.description>
+  
+  <!-- EN: cleaning speed multiplier -->
+  <CleaningSpeed.label>hệ số tốc độ làm sạch</CleaningSpeed.label>
+  <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
+  <CleaningSpeed.description>Hệ số nhân cho tốc độ dọn dẹp rác bẩn trên mặt đất.</CleaningSpeed.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>tốc độ xây dựng</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>Tốc độ mà người này xây dựng và sửa chữa các công trình.</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>cơ hội xây dựng thành công</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Cơ hội mà người này sẽ thành công trong việc xây dựng một cái gì đó. Thất bại có nghĩa là lãng phí thời gian và tài nguyên.</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>tốc độ khoan sâu</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>Một tốc độ mà người này sử dụng một mũi khoan sâu để khai thác tài nguyên dưới lòng đất.</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>năng suất thu hoạch cây thuốc</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>Năng suất mà người này nhận được khi thu hoạch cây thuốc.\n\nNăng suất thấp có khả năng người này vô tình lãng phí thu hoạch. Năng suất cao làm tăng sản lượng thu được từ mỗi cây trồng.</DrugHarvestYield.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>cơ hội sửa chữa thành công</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Cơ hội mà người này sẽ sửa chữa thành công một tòa nhà bị hỏng bằng cách sử dụng một thành phần. Thất bại có nghĩa là lãng phí thời gian và tài nguyên. Lưu ý rằng điều này chỉ áp dụng cho việc sửa chữa các sự cố, khác với sửa chữa thiệt hại.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>săn bắn lén lút</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>Chỉ số này làm giảm cơ hội săn bắn động vật tấn công thợ săn. Điểm 0% có nghĩa là không giảm. Điểm 100% có nghĩa là động vật không bao giờ tấn công.</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>tốc độ đào mỏ</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>Một tốc độ mà người này đào tường và khoan tìm tài nguyên sâu.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>năng suất đào mỏ</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>Tỷ lệ phần trăm tài nguyên khai thác mà một người khai thác sẽ tạo ra. Điều này áp dụng cho cả khai thác tường và khai thác khoan sâu. Điều này không ảnh hưởng đến tốc độ sản xuất khối đá.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>năng suất thu hoạch cây</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Năng suất người này có được khi thu hoạch cây. Sản lượng thấp cho một cơ hội rằng người này sẽ vô tình lãng phí thu hoạch.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>tốc độ gieo trồng cây</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Tốc độ mà người này gieo và thu hoạch cây.</PlantWorkSpeed.description>
+  
+  <!-- EN: reading speed -->
+  <ReadingSpeed.label>TODO</ReadingSpeed.label>
+  <!-- EN: A multiplier on how fast this person can read. -->
+  <ReadingSpeed.description>TODO</ReadingSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>tốc độ nghiên cứu</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Làm thế nào nhanh chóng người này thực hiện nghiên cứu.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>tốc độ làm mịn sàn</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>Một hệ số về tốc độ mà người này làm nhẵn sàn và tường đá thô.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>tốc độ làm việc toàn cầu</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>Hệ số về tốc độ của một nhân vật khi thực hiện bất kỳ loại công việc nào.</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>Chuyển tiếp từ thợ máy</WorkSpeedGlobal.parts.2.label>
+  
+</LanguageData>

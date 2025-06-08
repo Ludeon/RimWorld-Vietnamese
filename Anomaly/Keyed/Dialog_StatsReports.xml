@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Knowledge gain from study -->
+  <KnowledgeFromStudy>Kiến thức thu được từ nghiên cứu</KnowledgeFromStudy>
+  <!-- EN: The type and amount of anomaly knowledge that can be obtained when this entity is studied. More sophisticated entities can unlock more advanced anomaly research projects. -->
+  <KnowledgeFromStudyDesc>Loại và lượng kiến thức dị thường có thể nhận được khi nghiên cứu thực thể này. Thực thể phức tạp hơn mở khóa các dự án nghiên cứu dị thường nâng cao hơn.</KnowledgeFromStudyDesc>
+  <!-- EN: {0} {1} -->
+  <Stat_Knowledge>{0} {1}</Stat_Knowledge>
+  <!-- EN: Study interval -->
+  <StudyFrequency>Tần suất nghiên cứu</StudyFrequency>
+  <!-- EN: The duration between available study periods for this entity. -->
+  <StudyFrequencyDesc>Thời lượng giữa các giai đoạn nghiên cứu khả thi cho thực thể này.</StudyFrequencyDesc>
+  
+  <!-- EN: Healing -->
+  <Stat_Hediff_Regeneration_Name>Hồi phục</Stat_Hediff_Regeneration_Name>
+  <!-- EN: A flat amount of healing per day. -->
+  <Stat_Hediff_Regeneration_Desc>Lượng hồi phục cố định mỗi ngày.</Stat_Hediff_Regeneration_Desc>
+  <!-- EN: {0} hp/day -->
+  <Stat_Hediff_Regeneration_Stat>{0} máu/ngày</Stat_Hediff_Regeneration_Stat>
+
+  <!-- EN: Average lighting -->
+  <Stat_ContainmentStrength_AverageLighting>Độ sáng trung bình</Stat_ContainmentStrength_AverageLighting>
+  <!-- EN: Average wall HP -->
+  <Stat_ContainmentStrength_AverageWallHp>Máu tường trung bình</Stat_ContainmentStrength_AverageWallHp>
+  <!-- EN: Average door HP -->
+  <Stat_ContainmentStrength_AverageDoorHp>Máu cửa trung bình</Stat_ContainmentStrength_AverageDoorHp>
+  <!-- EN: Multiple ({0}) holding platforms -->
+  <Stat_ContainmentStrength_OtherHoldingPlatforms>Bệ giam giữ khác ({0})</Stat_ContainmentStrength_OtherHoldingPlatforms>
+  <!-- EN: Map-wide offset -->
+  <Stat_ContainmentStrength_MapwideOffset>Bù trừ phạm vi bản đồ</Stat_ContainmentStrength_MapwideOffset>
+  <!-- EN: door open -->
+  <Stat_ContainmentStrength_DoorForcedOpen>Cửa bị mở</Stat_ContainmentStrength_DoorForcedOpen>
+  <!-- EN: Not fully roofed -->
+  <Stat_ContainmentStrength_NotFullyRoofed>Mái không hoàn thiện</Stat_ContainmentStrength_NotFullyRoofed>
+  <!-- EN: Flooring -->
+  <Stat_ContainmentStrength_Flooring>Nền</Stat_ContainmentStrength_Flooring>
+  <!-- EN: Building -->
+  <Stat_ContainmentStrength_Platform>Bệ</Stat_ContainmentStrength_Platform>
+
+  <!-- EN: Bioferrite generation -->
+  <StatsReport_BioferriteGeneration>Sinh Bioferrite</StatsReport_BioferriteGeneration>
+  <!-- EN: How much bioferrite this entity generates per day when connected to a bioferrite harvester. -->
+  <StatsReport_BioferriteGeneration_Desc>Lượng Bioferrite thực thể này tạo ra mỗi ngày. Khi bị bắt trên bệ giam giữ, có thể thu thập Bioferrite từ nó bằng cách xây dựng một máy khai thác Bioferrite.</StatsReport_BioferriteGeneration_Desc>
+  <!-- EN: Multiplier for bioferrite density -->
+  <StatsReport_BioferriteDensityMultiplier>Hệ số mật độ Bioferrite</StatsReport_BioferriteDensityMultiplier>
+  <!-- EN: Multiplier for bioferrite extracted recently -->
+<StatsReport_BioferriteExtractedMultiplier>Hệ số cho lượng bioferrite vừa được trích xuất</StatsReport_BioferriteExtractedMultiplier>
+
+  <!-- EN: Offering -->
+  <StatsReport_Offering>Lễ vật</StatsReport_Offering>
+  <!-- EN: The ingredients required to perform the psychic ritual. -->
+  <StatsReport_Offering_Desc>Nguyên liệu cần thiết để thực hiện nghi thức tâm linh.</StatsReport_Offering_Desc>
+
+  <!-- EN: Ritual duration -->
+  <StatsReport_RitualDuration>Thời lượng nghi thức</StatsReport_RitualDuration>
+  <!-- EN: The time it takes to perform this ritual. -->
+  <StatsReport_RitualDuration_Desc>Thời gian cần để thực hiện nghi thức này.</StatsReport_RitualDuration_Desc>
+
+  <!-- EN: Cooldown -->
+  <StatsReport_RitualCooldown>Thời gian hồi</StatsReport_RitualCooldown>
+  <!-- EN: After a ritual is performed, it disrupts ambient psychic energy for a period of time. During this time, the ritual can't be performed again. -->
+  <StatsReport_RitualCooldown_Desc>Sau khi thực hiện nghi thức, năng lượng tâm linh môi trường bị gián đoạn tạm thời. Trong lúc này, nghi lễ không thể tái thực hiện.</StatsReport_RitualCooldown_Desc>
+
+  <!-- EN: Containment offset -->
+  <StatsReport_ContainmentStrengthOffset>Bù trừ lực giam giữ</StatsReport_ContainmentStrengthOffset>
+  <!-- EN: How much this affects the ability of a holding platform to constrain an entity. Entities that are better contained are less likely to escape and provide more knowledge when studied. -->
+  <StatsReport_ContainmentStrengthOffset_Desc>Mức độ ảnh hưởng đến khả năng giữ một thực thể trên bệ giam giữ. Thực thể được giam giữ tốt sẽ khó thoát hơn và cung cấp nhiều kiến thức hơn khi nghiên cứu.</StatsReport_ContainmentStrengthOffset_Desc>
+
+  <!-- EN: Duration -->
+  <StatsReport_SerumDuration>Thời lượng huyết thanh</StatsReport_SerumDuration>
+  <!-- EN: How long the effects of a serum last. -->
+  <StatsReport_SerumDuration_Desc>Hiệu lực của huyết thanh kéo dài bao lâu.</StatsReport_SerumDuration_Desc>
+  
+  <!-- EN: Occupied -->
+  <StatsReport_Occupied>Đang sử dụng</StatsReport_Occupied>
+  <!-- EN: {2} per nearby {BUILDING_label} ({0} / {1}) -->
+  <MeditationFocusPerBuilding>{2} cho mỗi {BUILDING_label} gần đó ({0} / {1})</MeditationFocusPerBuilding>
+  <!-- EN: {1} per nearby {BUILDING_label} (up to {0}) -->
+  <MeditationFocusPerBuildingAbstract>{1} cho mỗi {BUILDING_label} gần đó (tối đa {0})</MeditationFocusPerBuildingAbstract>
+
+</LanguageData>

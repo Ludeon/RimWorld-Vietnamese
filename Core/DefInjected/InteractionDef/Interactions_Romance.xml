@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>chia tay</Breakup.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+  -->
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] đã yêu cầu [RECIPIENT_nameDef] chia tay.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã yêu cầu [RECIPIENT_nameDef] cho một khoảng không gian.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] rằng nó sẽ không thành đâu.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] rằng tốt nhất là nên gặp những người khác.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>lời cầu hôn</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+  -->
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] cầu hôn [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đưa ra một cam kết trọn đời với [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] rằng [INITIATOR_pronoun] muốn dành cả cuộc đời của mình với [RECIPIENT_objective].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>nỗ lực quyến rũ</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to romance</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] bằng cách [wootactic].</li>
+    <li>wooed->cố gắng tán tỉnh</li>
+    <li>wooed->tán tỉnh</li>
+    <li>wooed->cố gắng thu hút</li>
+    <li>wooed->cố gắng lãng mạn</li>
+    <li>wooed->cố gắng tán tỉnh</li>
+    <li>wooed->tán tỉnh</li>
+    <li>wooed->theo đuổi</li>
+    <li>wooed->quyến rũ</li>
+    <li>wooed->cầu thân</li>
+    <li>wootactic(p=4)->[complimenting] [PersonalCharacteristic] [RECIPIENT_possessive]</li>
+    <li>wootactic->kể một câu chuyện về [TalkTopicAny]</li>
+    <li>wootactic->kể một câu chuyện ngụ ngôn về [TalkTopicAny]</li>
+    <li>wootactic->nói đùa về [TalkTopicAny]</li>
+    <li>wootactic->nhận xét về [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [PersonalCharacteristic] của riêng [INITIATOR_objective]</li>
+    <li>wootactic->so sánh [RECIPIENT_objective] với [romantic_noun] [romantic_adj]</li>
+    <li>wootactic->miêu tả [RECIPIENT_objective] như một [romantic_noun] [romantic_adj]</li>
+    <li>boasting->khoe khoang về</li>
+    <li>boasting->đề cập tới</li>
+    <li>boasting->ngụ ý những điều tốt đẹp về</li>
+    <li>boasting->phóng đại về</li>
+    <li>boasting->nói về</li>
+    <li>boasting->thu hút sự chú ý đến</li>
+    <li>complimenting(p=3)->khen ngợi</li>
+    <li>complimenting->khen ngợi một cách tinh tế</li>
+    <li>complimenting->ca tụng</li>
+    <li>complimenting->khen ngợi</li>
+    <li>complimenting->nói những điều tốt đẹp về</li>
+    <li>complimenting(p=2)->vui vẻ chế giễu</li>
+    <li>complimenting->chọc ghẹo vào</li>
+    <li>complimenting->nửa khen nửa đùa</li>
+    <li>complimenting->nghi vấn ẩn ý</li>
+    <li>complimenting->vui vẻ chế giễu</li>
+    <li>romantic_adj->xinh đẹp</li>
+    <li>romantic_adj->rạng ngời</li>
+    <li>romantic_adj->long lanh</li>
+    <li>romantic_adj->trên trời</li>
+    <li>romantic_adj->màu vàng</li>
+    <li>romantic_adj->sáng</li>
+    <li>romantic_adj->ngoạn mục</li>
+    <li>romantic_adj->quyến rũ</li>
+    <li>romantic_adj->chói sáng</li>
+    <li>romantic_adj->mong manh</li>
+    <li>romantic_adj->đẹp đẽ</li>
+    <li>romantic_adj->tráng lệ</li>
+    <li>romantic_adj->đáng yêu</li>
+    <li>romantic_adj->tuyệt vời</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->hoa</li>
+    <li>romantic_noun->mùa xuân</li>
+    <li>romantic_noun->dòng sông</li>
+    <li>romantic_noun->ngôi sao</li>
+    <li>romantic_noun->mặt trăng</li>
+    <li>romantic_noun->mặt trời</li>
+    <li>romantic_noun->ngôi nhà</li>
+    <li>romantic_noun->cực quang</li>
+    <li>romantic_noun->cây [TreeType]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic mechtech -->
+  <BasicMechtech.label>Công nghệ mechtech cơ bản</BasicMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
+  <BasicMechtech.description>Công nghệ cần thiết cho mechanitor của bạn để tạo và kiểm soát mechanoid cấp cơ bản.</BasicMechtech.description>
+  <!-- EN:
+    <li>subject->mechanoids</li>
+    <li>subject_story->authored a children's book covering the basic types of mechanoid</li>
+    <li>subject_story->was implanted with a prototype mechlink</li>
+    <li>subject_story->replicated basic biomech techniques independently</li>
+    <li>subject_story->was mining an ancient exostrider wreck and found a mechlink preserved in the wreckage</li>
+    <li>subject_gerund->creating basic mechanoids</li>
+  -->
+  <BasicMechtech.generalRules.rulesStrings>
+  <li>subject->mechanoids</li>
+  <li>subject_story->viết một cuốn sách dành cho trẻ em về các loại mechanoid cơ bản</li>
+  <li>subject_story->được cấy ghép một mechlink nguyên mẫu</li>
+  <li>subject_story->tái tạo độc lập các kỹ thuật biomech cơ bản</li>
+  <li>subject_story->đang khai thác một xác exostrider cổ đại và tìm thấy một mechlink được bảo quản trong đống đổ nát</li>
+  <li>subject_gerund->tạo ra các mechanoid cơ bản</li>
+
+  </BasicMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: high mechtech -->
+  <HighMechtech.label>công nghệ mechtech tiên tiến </HighMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
+  <HighMechtech.description>Công nghệ cần thiết cho mechanitor của bạn để tạo và kiểm soát mechanoid tiên tiến.\n\nBạn có thể nhận được powerfocus chip bằng cách yêu cầu mechanitor triệu hồi nữ hoàng chiến tranh và đánh bại nó.</HighMechtech.description>
+  <!-- EN:
+    <li>subject->high tier mechanoids</li>
+    <li>subject_story->survived a War Queen assault on an Imperial world</li>
+    <li>subject_story->bought a Powerfocus chip from a trader who didn't understand its worth</li>
+    <li>subject_story->interrogated mechanitors captured in planetary raids</li>
+    <li>subject_story->built prototype mechanoid micro-organs for an offworld client</li>
+    <li>subject_gerund->creating high-tier mechanoids</li>
+  -->
+  <HighMechtech.generalRules.rulesStrings>
+  <li>subject->mechanoids cấp cao</li>
+  <li>subject_story->sống sót qua một cuộc tấn công của War Queen trên một thế giới của Đế chế</li>
+  <li>subject_story->mua một chip Powerfocus từ một người buôn bán không hiểu giá trị của nó</li>
+  <li>subject_story->thẩm vấn các mechanitor bị bắt trong các cuộc đột kích hành tinh</li>
+  <li>subject_story->xây dựng các cơ quan vi mô mechanoid nguyên mẫu cho một khách hàng ngoài thế giới</li>
+  <li>subject_gerund->tạo ra các mechanoid cấp cao</li>
+  </HighMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: standard mechtech -->
+  <StandardMechtech.label>Công nghệ mechtech tiêu chuẩn</StandardMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
+  <StandardMechtech.description>Công nghệ cần thiết cho mechanitor của bạn để tạo và điều khiển các cơ khí cấp tiêu chuẩn.\n\nBạn có thể lấy chip tín hiệu đồng bộ bằng cách yêu cầu mechanitor triệu hồi một con trùm mech và đánh bại nó..</StandardMechtech.description>
+  <!-- EN:
+    <li>subject->mechanoids</li>
+    <li>subject_story->acquired a signal chip in shady circumstances</li>
+    <li>subject_story->found an intact signal chip in a diabolus wreck</li>
+    <li>subject_story->survived a mechanoid hive assault</li>
+    <li>subject_story->collated reports of mechanoid attacks, looking for commonalities</li>
+    <li>subject_gerund->creating standard mechanoids</li>
+  -->
+  <StandardMechtech.generalRules.rulesStrings>
+  <li>subject->mechanoids</li>
+  <li>subject_story->nhận được một chip tín hiệu trong hoàn cảnh mờ ám</li>
+  <li>subject_story->tìm thấy một chip tín hiệu nguyên vẹn trong một xác diabolus</li>
+  <li>subject_story->sống sót qua một cuộc tấn công của tổ chức mechanoid</li>
+  <li>subject_story->tập hợp các báo cáo về các cuộc tấn công của mechanoid, tìm kiếm điểm chung</li>
+  <li>subject_gerund->tạo ra các mechanoid tiêu chuẩn</li>
+</StandardMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: ultra mechtech -->
+  <UltraMechtech.label>Công nghệ siêu máy móc</UltraMechtech.label>
+  <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
+  <UltraMechtech.description>Công nghệ tiên tiến cần thiết cho mechanitor của bạn để tạo và điều khiển mechanoid siêu cấp, bao gồm mech lớn và thiết bị mechanitor siêu cấp.\n\nBạn có thể nhận được Chip cấu trúc nano bằng cách yêu cầu mechanitor triệu hồi Ong độc và đánh bại nó..</UltraMechtech.description>
+  <!-- EN:
+    <li>subject->ultra-tier mechanoids</li>
+    <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>
+    <li>subject_story->observed an apocriton resurrecting mechs from a safe distance</li>
+    <li>subject_story->tapped into the deep psychic hatred that the apocritons feel towards humanity</li>
+    <li>subject_story->found an ascension diary next to an inert archonexus</li>
+    <li>subject_gerund->creating ultra-tier mechanoids</li>
+  -->
+  <UltraMechtech.generalRules.rulesStrings>
+  <li>subject->mechanoids cấp siêu cao</li>
+  <li>subject_story->tìm thấy một apocriton đã tắt nguồn trong đống đổ nát của một thế giới chết</li>
+  <li>subject_story->quan sát một apocriton hồi sinh các mech từ khoảng cách an toàn</li>
+  <li>subject_story->khai thác sự thù hận tâm linh sâu sắc mà các apocriton cảm thấy đối với nhân loại</li>
+  <li>subject_story->tìm thấy một cuốn nhật ký thăng cấp bên cạnh một archonexus không hoạt động</li>
+  <li>subject_gerund->tạo ra các mechanoid cấp siêu cao</li>
+
+  </UltraMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: wastepack atomizer -->
+  <WastepackAtomizer.label>Máy hủy rác</WastepackAtomizer.label>
+  <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
+  <WastepackAtomizer.description>Mở khóa cấu trúc của Máy phân hủy rác giúp phân hủy chất thải độc hại ở cấp độ phân tử một cách an toàn và thải ra ngoài.</WastepackAtomizer.description>
+  <!-- EN:
+    <li>subject->toxic waste atomization</li>
+    <li>subject_story->studied safe atomic waste disposal</li>
+    <li>subject_story->recruited disposable teams for solar waste disposal missions</li>
+    <li>subject_story->devised the theory for atomic destabilisation from first principles</li>
+    <li>subject_story->observed a toxicworld from orbit</li>
+    <li>subject_gerund->constructing wastepack atomizers</li>
+  -->
+  <WastepackAtomizer.generalRules.rulesStrings>
+  <li>subject->phân tách chất thải độc hại</li>
+  <li>subject_story->nghiên cứu phương pháp xử lý chất thải nguyên tử an toàn</li>
+  <li>subject_story->tuyển dụng các đội ngũ tạm thời cho các nhiệm vụ xử lý chất thải mặt trời</li>
+  <li>subject_story->đề xuất lý thuyết về sự không ổn định nguyên tử từ các nguyên lý cơ bản</li>
+  <li>subject_story->quan sát một thế giới độc hại từ quỹ đạo</li>
+  <li>subject_gerund->xây dựng các máy phân tách chất thải</li>
+  </WastepackAtomizer.generalRules.rulesStrings>
+  
+</LanguageData>

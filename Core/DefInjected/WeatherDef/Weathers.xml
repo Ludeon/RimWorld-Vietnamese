@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>trời quang</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Một ngày nắng đẹp.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>bão khô</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Sấm chớp sinh ra từ cơn bão có thể gây cháy mà không có mưa để dập tắt.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>sương mù</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Sương mù làm giảm độ chính xác của vũ khí tầm xa.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>mưa mù</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Giảm tốc độ di chuyển và độ chính xác khi sử dụng vũ khí tầm xa.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>mưa rào</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Mưa làm giảm độ chính xác của vũ khí tầm xa, dập lửa và làm giảm tốc độ di chuyển.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>mưa bão</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Sấm chớp sẽ gây cháy nhưng được mưa dập tắt. Tuy nhiên mưa cũng làm chậm tốc độ di chuyển và độ chính xác khi sử dụng vũ khí tầm xa.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>tuyết rơi</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Tuyết làm giảm độ chính xác của vũ khí tầm xa, dập lửa và làm giảm tốc độ di chuyển.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>bão tuyết</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Tuyết làm giảm độ chính xác của vũ khí tầm xa, dập lửa và làm giảm tốc độ di chuyển.</SnowHard.description>
+  
+</LanguageData>

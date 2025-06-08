@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
+  <BurnCircle.descOverride>Một nghi lễ đốt một biểu tượng bị ghét. Người tham gia sẽ đi quanh một công trình hiến tế, đốt nó, và ăn mừng khi nó hóa thành tro.</BurnCircle.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <BurnCircle.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</BurnCircle.ritualExpectedDesc>
+  <!-- EN: symbol burning -->
+  <BurnCircle.shortDescOverride>lễ đốt biểu tượng</BurnCircle.shortDescOverride>
+  
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyChat.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</CelebrationPartyChat.ritualExpectedDesc>
+  
+  <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceDrum.descOverride>Một bữa tiệc nhảy với trống. Người tham gia sẽ tụ tập, xã giao, chơi trống, và nhảy để kết nối với nhau.</CelebrationPartyDanceDrum.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <!-- EN: drum party -->
+  <CelebrationPartyDanceDrum.shortDescOverride>bữa tiệc trống</CelebrationPartyDanceDrum.shortDescOverride>
+  
+  <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceTech.descOverride>Một bữa tiệc nhảy với nhạc lớn. Người tham gia sẽ tụ tập, xã giao, chơi trống, và nhảy để kết nối với nhau.</CelebrationPartyDanceTech.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyDanceTech.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <!-- EN: dance party -->
+  <CelebrationPartyDanceTech.shortDescOverride>bữa tiệc nhảy</CelebrationPartyDanceTech.shortDescOverride>
+  
+  <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
+  <CelebrationSkyLanterns.descOverride>Một nghi lễ xã hội nơi người tham gia lắp ráp đèn trời bằng gỗ trong lúc xã giao rồi thả nó và nhìn nó bay trong gió.</CelebrationSkyLanterns.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationSkyLanterns.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</CelebrationSkyLanterns.ritualExpectedDesc>
+  <!-- EN: skylantern festival -->
+  <CelebrationSkyLanterns.shortDescOverride>lễ hội đèn trời</CelebrationSkyLanterns.shortDescOverride>
+  
+  <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
+  <CelebrationTree.descOverride>Một bữa tiệc quanh một cây Giáng sinh. Người tham gia sẽ quây quần quanh cây Giáng sinh và có một khoảng thời gian vui vẻ với nhau.</CelebrationTree.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationTree.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</CelebrationTree.ritualExpectedDesc>
+  <!-- EN: christmas tree party -->
+  <CelebrationTree.shortDescOverride>bữa tiệc cây giáng sinh</CelebrationTree.shortDescOverride>
+  
+  <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
+  <Conversion.ritualExplanation>Nếu mọi thứ diễn ra suôn sẻ, niềm tin tín ngưỡng của họ sẽ bị giảm hoặc họ sẽ cải đạo. Ngược lại, niềm tin vào tín ngưỡng cũ của họ sẽ tăng thêm.</Conversion.ritualExplanation>
+  
+  <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
+  <FeastCannibal.descOverride>Một nghi lễ tiệc thịnh soạn thịt người. Người tham gia sẽ quây quần quanh đĩa thịt người và chén nó một cách điên cuồng.</FeastCannibal.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <FeastCannibal.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</FeastCannibal.ritualExpectedDesc>
+  <!-- EN: cannibal feast -->
+  <FeastCannibal.shortDescOverride>bữa tiệc thịt người</FeastCannibal.shortDescOverride>
+  
+  <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost. -->
+  <FuneralNoCorpse.ritualExpectedDesc>Một khi một {IDEO} qua đời và cơ thể bị mất, những người {IDEO} khác sẽ quây quần quanh một ngôi mộ trống cho {RITUAL_labelDef}.</FuneralNoCorpse.ritualExpectedDesc>
+  <!-- EN: You can hold a funeral for {PAWN_nameDef} even though the body was lost. -->
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>Bạn có thể tổ chức tang lễ cho {PAWN_nameDef} ngay cả khi thi thể đã mất.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  
+  <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}. -->
+  <FuneralStandard.ritualExpectedDesc>Một khi một {IDEO} qua đời, những người {IDEO} khác sẽ quây quần quanh ngôi mộ của họ cho {RITUAL_labelDef}.</FuneralStandard.ritualExpectedDesc>
+  <!-- EN: You can hold a funeral for {PAWN_nameDef}. -->
+  <FuneralStandard.ritualExpectedDescNoAdjective>Bạn có thể tổ chức tang lễ cho {PAWN_nameDef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+  
+  <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
+  <SacrificeAnimal.descOverride>Một nghi lể hiến tế động vật. Ban tổ chức sẽ đọc diễn văn để khuấy động đám đông, rồi cắt cổ của động vật. Khi động vật chết, ban tổ chức sẽ nói đôi lời cuối cùng.</SacrificeAnimal.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SacrificeAnimal.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</SacrificeAnimal.ritualExpectedDesc>
+  <!-- EN: animal sacrifice -->
+  <SacrificeAnimal.shortDescOverride>lễ hiến tế động vật</SacrificeAnimal.shortDescOverride>
+  
+  <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
+  <SacrificePrisoner.descOverride>Một nghi lể hiến tế tù nhân. Ban tổ chức sẽ đọc diễn văn để khuấy động đám đông, rồi cắt cổ của tù nhân. Khi tù nhân chết, ban tổ chức sẽ nói đôi lời cuối cùng.</SacrificePrisoner.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SacrificePrisoner.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</SacrificePrisoner.ritualExpectedDesc>
+  <!-- EN: prisoner sacrifice -->
+  <SacrificePrisoner.shortDescOverride>lễ hiến tế tù nhân</SacrificePrisoner.shortDescOverride>
+  
+  <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
+  <SmokeCircle.descOverride>Một nghi lễ đốt khói thuốc lá. Người tham gia sẽ quây quần quanh một cái bong đốt hoặc điện thờ nhang, đốt nó, và vừa ăn mừng vừa hít khói tỏa ra.</SmokeCircle.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SmokeCircle.ritualExpectedDesc>Mỗi năm vào {DATE}, các {MEMBERS} ăn mừng nghi lễ {RITUAL_labelDef}.</SmokeCircle.ritualExpectedDesc>
+  <!-- EN: smokeleaf circle -->
+  <SmokeCircle.shortDescOverride>lễ làm vòng tròn khói thuốc</SmokeCircle.shortDescOverride>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: greatbow arrow -->
+  <Arrow_Great.label>mũi tên trường cung</Arrow_Great.label>
+  
+  <!-- EN: recurve bow arrow -->
+  <Arrow_Recurve.label>mũi tên cung trợ lực</Arrow_Recurve.label>
+  
+  <!-- EN: shortbow arrow -->
+  <Arrow_Short.label>mũi tên cung ngắn</Arrow_Short.label>
+  
+  <!-- EN: greatbow -->
+  <Bow_Great.label>trường cung</Bow_Great.label>
+  <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
+  <Bow_Great.description>Loại cung lớn. Thường bắn những mũi tên thép ở khoảng cách xa.</Bow_Great.description>
+  <!-- EN: limb -->
+  <Bow_Great.tools.limb.label>đầu cung</Bow_Great.tools.limb.label>
+  <!-- EN: greatbow -->
+  <Bow_Great.verbs.Verb_Shoot.label>trường cung</Bow_Great.verbs.Verb_Shoot.label>
+  
+  <!-- EN: recurve bow -->
+  <Bow_Recurve.label>cung trợ lực</Bow_Recurve.label>
+  <!-- EN: A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot. -->
+  <Bow_Recurve.description>Là loại cung mà ở 2 đầu cung cong ngược với người cầm cung giúp tăng lực bắn và tốc độ mũi tên nhanh hơn.</Bow_Recurve.description>
+  <!-- EN: limb -->
+  <Bow_Recurve.tools.limb.label>mũi cung</Bow_Recurve.tools.limb.label>
+  <!-- EN: recurve bow -->
+  <Bow_Recurve.verbs.Verb_Shoot.label>cung trợ lực</Bow_Recurve.verbs.Verb_Shoot.label>
+  
+  <!-- EN: short bow -->
+  <Bow_Short.label>cung ngắn</Bow_Short.label>
+  <!-- EN: A simple short selfbow made from a single piece of wood. -->
+  <Bow_Short.description>Loại cung đơn giản làm từ một nhánh cây.</Bow_Short.description>
+  <!-- EN: limb -->
+  <Bow_Short.tools.limb.label>mũi cung</Bow_Short.tools.limb.label>
+  <!-- EN: short bow -->
+  <Bow_Short.verbs.Verb_Shoot.label>cung ngắn</Bow_Short.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pila -->
+  <Pila.label>lao</Pila.label>
+  <!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. This weapon represents a bundle of pila and can be thrown over and over. The singular of pila is pilum. -->
+  <Pila.description>Lao là những mũi thương được thiết kế nhẹ đi để dễ phóng. Thời gian nhắm lao khá lâu nhưng mỗi mũi lao trúng đích sẽ là một vết thương chí mạng cho kẻ địch.</Pila.description>
+  <!-- EN: shaft -->
+  <Pila.tools.shaft.label>thân</Pila.tools.shaft.label>
+  <!-- EN: point -->
+  <Pila.tools.point.label>mũi</Pila.tools.point.label>
+  <!-- EN: pila -->
+  <Pila.verbs.Verb_Shoot.label>lao</Pila.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pilum -->
+  <Pilum_Thrown.label>lao</Pilum_Thrown.label>
+  
+</LanguageData>

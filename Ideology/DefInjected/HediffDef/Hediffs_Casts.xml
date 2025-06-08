@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>Xuất thần điên cuồng</BerserkTrance.label>
+  <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
+  <BerserkTrance.description>Thúc đẩy bởi sự tin tưởng vào đạo đức và những câu chuyện đau khổ của tín ngưỡng, người này đã tự đưa mình vào một cơn thịnh nộ. Mỗi cơ bắp đều ở trạng thái tốt nhất, nhưng rất khó để dập tắt được cơn giận.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>mệnh lệnh chiến đấu</CombatCommand.label>
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <CombatCommand.description>Bằng cách khích lệ và chỉ huy những đồng minh của mình, người này có thể tăng cường sự tập trung của họ trong chiến đầu và từ đó khả năng của họ.</CombatCommand.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommandBuff.label>mệnh lệnh chiến đấu</CombatCommandBuff.label>
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <CombatCommandBuff.description>Khả năng chiến đấu được tăng cường nhờ việc ở gần một người đang sử dụng năng lực mệnh lệnh chiến đấu.</CombatCommandBuff.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommand.label>mệnh lệnh nông nghiệp</FarmingCommand.label>
+  <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
+  <FarmingCommand.description>Người này đang chia sẻ những hướng dẫn về kỹ thuật nông nghiệp, tăng cường khả năng nông nghiệp của những người gần đó.</FarmingCommand.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommandBuff.label>mệnh lệnh nông nghiệp</FarmingCommandBuff.label>
+  <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
+  <FarmingCommandBuff.description>Năng lực nông nghiệp của người này được tăng cường nhờ việc ở gần một người đang sử dụng năng lực mệnh lệnh nông nghiệp.</FarmingCommandBuff.description>
+  
+  <!-- EN: immunity drive -->
+  <ImmunityDrive.label>thúc đẩy miễn dịch</ImmunityDrive.label>
+  <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
+  <ImmunityDrive.description>Người này đã nhận được hỗ trợ tinh thần từ phương diện tâm linh. Sự tin tưởng của họ đã làm nguồn năng lượng cho cơ thể họ, giúp tăng cường hệ miễn dịch của họ.</ImmunityDrive.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>mệnh lệnh thiện xạ</MarksmanCommand.label>
+  <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
+  <MarksmanCommand.description>Người này đang sử dụng năng lực đặc biệt để chỉ huy hướng bắn. Người trong phạm vi sẽ được tăng khả năng bắn.</MarksmanCommand.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommandBuff.label>mệnh lệnh thiện xạ</MarksmanCommandBuff.label>
+  <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
+  <MarksmanCommandBuff.description>Ai đó đang sử dụng năng lực mệnh lệnh bắn súng gần đây, làm tăng khả năng bắn của người này.</MarksmanCommandBuff.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>mệnh lệnh đào mỏ</MiningCommand.label>
+  <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
+  <MiningCommand.description>Người này đang chia sẻ những hướng dẫn về kỹ thuật khai thác mỏ, tăng cường tốc độ đào mỏ của những người gần đó.</MiningCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommandBuff.label>mệnh lệnh đào mỏ</MiningCommandBuff.label>
+  <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
+  <MiningCommandBuff.description>Tốc độ đào mỏ của người này đang được tăng cường nhờ việc ở gần một người đang sử dụng năng lực mệnh lệnh đào mỏ.</MiningCommandBuff.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>giảng về sức khỏe</PreachHealth.label>
+  <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
+  <PreachHealth.description>Nghị lực sống của người này đã được tăng cường sau khi nói chuyện với người hướng dẫn đạo đức của tín ngưỡng của họ. Sự tin tưởng tín ngưỡng đó đã tăng cường khả năng hồi phục và tốc độ miễn dịch của họ.</PreachHealth.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommand.label>mệnh lệnh sản xuất</ProductionCommand.label>
+  <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
+  <ProductionCommand.description>Người này đang chia sẻ những hướng dẫn về kỹ thuật xây dựng, tăng cường khả năng xây dựng và chế tạo của những người gần đó.</ProductionCommand.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommandBuff.label>mệnh lệnh sản xuất</ProductionCommandBuff.label>
+  <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
+  <ProductionCommandBuff.description>Tốc độ xây dựng và chế tạo của người này đang được tăng cường nhờ việc ở gần một người đang sử dụng năng lực mệnh lệnh sản xuất.</ProductionCommandBuff.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommand.label>mệnh lệnh nghiên cứu</ResearchCommand.label>
+  <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
+  <ResearchCommand.description>Người này đang sử dụng một năng lực đặc biệt để khích lệ tinh thần và cung cấp ý tưởng, tăng tốc độ nghiên cứu của những người gần đó.</ResearchCommand.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommandBuff.label>mệnh lệnh nghiên cứu</ResearchCommandBuff.label>
+  <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
+  <ResearchCommandBuff.description>Tốc độ nghiên cứu của người này đang được tăng cường nhờ việc ở gần một người đang sử dụng năng lực mệnh lệnh nghiên cứu.</ResearchCommandBuff.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>thúc đẩy công việc</WorkDrive.label>
+  <!-- EN: The sense of being called upon by a leader to work harder. -->
+  <WorkDrive.description>Cảm giác được một người lãnh đạo kêu gọi làm việc chăm chỉ hơn.</WorkDrive.description>
+  
+</LanguageData>

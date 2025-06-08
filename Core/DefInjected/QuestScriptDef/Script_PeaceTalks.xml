@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->Other factions will respect you more if you send your leader to handle the negotiations</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
+    <li>leaderPawnInfo-></li>
+  -->
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] của [faction_name], đã gửi cho chúng tôi một tin nhắn. [faction_leader_pronoun] muốn nói chuyện với chúng tôi ở một địa điểm gần đó.\n\nNó có thể là một cơ hội tuyệt vời để cải thiện mối quan hệ với phe của họ và nhận quà tặng, nhưng hãy cẩn thận - một nhà đàm phán kém có thể gây hại nhiều hơn lợi và thậm chí có thể khiến họ tức giận.[favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nCác cuộc đàm phán hòa bình thành công có thể kiếm được cho người đàm phán của bạn một lượng nhỏ [faction_royalFavorLabel] với [faction_name].</li>
+    <li>favorRewardDetails-></li>
+    <li>leaderRoleEffect->Các phe phái khác sẽ tôn trọng bạn hơn nếu bạn cử người lãnh đạo của mình xử lý các cuộc đàm phán</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle] [playerFaction_leader_nameFull] sẽ nhận được tiền thưởng nếu có kết quả thành công.</li>
+    <li>leaderPawnInfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
+    <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
+    <li>questName->The [peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->Peace Talks</li>
+    <li>peaceTalks->Diplomacy</li>
+    <li>peaceTalks->Meeting</li>
+  -->
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[peaceTalks] của [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks] với [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->Lời nói hòa bình</li>
+    <li>peaceTalks->Ngoại giao</li>
+    <li>peaceTalks->Cuộc họp</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Lời đề nghị đàm phán hòa bình với [faction_name] đã hết hạn. Bạn đã thất bại nhiệm vụ [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

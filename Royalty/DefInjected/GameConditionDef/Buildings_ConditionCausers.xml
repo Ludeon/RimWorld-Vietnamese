@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: climate adjustment -->
+  <ClimateAdjustment.label>điều chỉnh khí hậu</ClimateAdjustment.label>
+  <!-- EN: A nearby climate adjuster is shifting the temperature. -->
+  <ClimateAdjustment.description>Một bộ điều chỉnh khí hậu gần đó đang thay đổi nhiệt độ.</ClimateAdjustment.description>
+  <!-- EN: A climate adjuster machine has begun shifting the temperature. -->
+  <ClimateAdjustment.letterText>Máy điều chỉnh khí hậu đã bắt đầu thay đổi nhiệt độ.</ClimateAdjustment.letterText>
+  
+  <!-- EN: EMI field -->
+  <EMIField.label>trường điện từ EMI</EMIField.label>
+  <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
+  <EMIField.description>Một động lực gây nhiễu điện từ đang chiếu ra trường giao thoa EM, làm vô hiệu các thiết bị điện.</EMIField.description>
+  <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
+  <EMIField.descriptionFuture>một động cơ EMI ở xa sẽ phát nổ [map_definite] với trường điện từ EMI, tắt các thiết bị điện cho [gameConditionDuration_duration]</EMIField.descriptionFuture>
+  <!-- EN: The EMI field has disappeared. -->
+  <EMIField.endMessage>Trường điện từ EMI đã biến mất.</EMIField.endMessage>
+  <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
+  <EMIField.letterText>Một trường điện từ EMI đã được tạo. Nó đang vô hiệu hóa các thiết bị điện.</EMIField.letterText>
+  
+  <!-- EN: giant smoke cloud -->
+  <GiantSmokeCloud.label>đám mây khói khổng lồ</GiantSmokeCloud.label>
+  <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
+  <GiantSmokeCloud.description>Một vòi phun khói gần đó đang làm giảm ánh sáng mặt trời ở khu vực này.</GiantSmokeCloud.description>
+  <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
+  <GiantSmokeCloud.letterText>Một cỗ máy phun khói đã bắt đầu che khuất mặt trời.</GiantSmokeCloud.letterText>
+  
+  <!-- EN: psychic suppression -->
+  <PsychicSuppression.label>ức chế tâm linh</PsychicSuppression.label>
+  <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
+  <PsychicSuppression.description>Trường đàn áp tâm linh đang ảnh hưởng đến {0} và làm giảm ý thức của họ. Hiệu ứng được điều chỉnh bởi sự nhạy cảm tâm linh của một cá nhân.</PsychicSuppression.description>
+  <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
+  <PsychicSuppression.descriptionFuture>một làn sóng ức chế tâm linh sẽ làm giảm ý thức của tất cả [psychicSuppressorGender] xung quanh [map_definite] đối với [gameConditionDuration_duration]</PsychicSuppression.descriptionFuture>
+  <!-- EN: The psychic suppressor field has dissipated. -->
+  <PsychicSuppression.endMessage>Ức chế tâm linh đã tiêu tan.</PsychicSuppression.endMessage>
+  <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
+  <PsychicSuppression.letterText>Một trường ngăn chặn tâm linh đã bắt đầu làm giảm nhận thức của {0} trên toàn bộ khu vực. Hiệu ứng được điều chỉnh bởi sự nhạy cảm tâm linh của một cá nhân.</PsychicSuppression.letterText>
+  
+  <!-- EN: sun blocked -->
+  <SunBlocker.label>mặt trời bị chặn</SunBlocker.label>
+  <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
+  <SunBlocker.description>Một cỗ máy chắn nắng gần đó đang biến bầu khí quyển phía trên trở nên mờ đục, chặn ánh nắng mặt trời.</SunBlocker.description>
+  <!-- EN: A sun blocker machine has begun blocking the sun. -->
+  <SunBlocker.letterText>Máy chặn nắng đã bắt đầu chặn ánh nắng.</SunBlocker.letterText>
+  
+  <!-- EN: toxic spewer -->
+  <ToxicSpewer.label>vòi phun độc</ToxicSpewer.label>
+  <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
+  <ToxicSpewer.description>Một vòi phun độc gần đó đang phủ trắng toàn bộ vùng này bằng chất độc.</ToxicSpewer.description>
+  <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
+  <ToxicSpewer.letterText>Một cỗ máy phun chất độc đã bắt đầu phủ trắng toàn bộ khu vực bằng chất độc.</ToxicSpewer.letterText>
+  
+  <!-- EN: forced weather -->
+  <WeatherController.label>thời tiết bắt buộc</WeatherController.label>
+  <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
+  <WeatherController.description>Một bộ điều khiển thời tiết gần đó đang đưa ra các thiết lập cho thời tiết hiện tại.</WeatherController.description>
+  <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
+  <WeatherController.descriptionFuture>hệ thống kiểm soát thời tiết sẽ buộc thời tiết xung quanh [map_definite] trở thành [forcedWeather_indefinite] đối với [gameConditionDuration_duration]</WeatherController.descriptionFuture>
+  <!-- EN: The weather controller is no longer changing the weather. -->
+  <WeatherController.endMessage>Bộ điều khiển thời tiết không còn thay đổi thời tiết.</WeatherController.endMessage>
+  <!-- EN: A weather controller machine has begun affecting the weather. -->
+  <WeatherController.letterText>Một máy điều khiển thời tiết đã bắt đầu ảnh hưởng đến thời tiết.</WeatherController.letterText>
+  
+</LanguageData>

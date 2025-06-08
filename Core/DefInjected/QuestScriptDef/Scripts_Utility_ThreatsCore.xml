@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</li><li>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</li><li>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</li><li>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</li><li>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</li><li>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</li><li>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</li><li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</li><li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</li><li>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</li><li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</li><li>root->there's a [label]</li></rulesStrings> -->
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root(priority=1,sitePart==ClimateAdjuster)->có một (*Threat)máy điều chỉnh khí hậu(/Threat) ở đó làm thay đổi nhiệt độ khu vực bằng [temperatureOffset]</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->có một (*Threat)máy bay không người lái tâm linh(/Threat) ở đó điều chỉnh giới tính [affectedGender]</li>
+      <li>root(priority=1,sitePart==PsychicSuppressor)->có một (*Threat)cỗ máy ức chế tâm linh(/Threat) ở đó được điều chỉnh theo giới tính [affectedGender]</li>
+      <li>root(priority=1,sitePart==WeatherController)->có một (*Threat)máy điều khiển thời tiết(/Threat) ở đó buộc thời tiết trong toàn khu vực thành [weather_label]</li>
+      <li>root(priority=1,sitePart==SmokeSpewer)->có một cái (*Threat)máy phun khói(/Threat) ở đó phun khói ra cả một vùng</li>
+      <li>root(priority=1,sitePart==SunBlocker)->có một cái (*Threat)máy chắn nắng(/Threat) ở đó che bóng cả vùng</li>
+      <li>root(priority=1,sitePart==EMIDynamo)->có một (*Threat)máy nổ EMI(/Threat) ở đó có thể vô hiệu hóa các thiết bị điện trên toàn khu vực</li>
+      <li>root(priority=1,sitePart==ToxicSpewer)->có một (*Threat)cỗ máy phun nước độc hại(/Threat) ở đó khiến cả vùng ngập trong chất độc</li>
+      <li>root(priority=1,sitePart==RaidSource)->có một khu vực quân sự được bảo vệ bởi (*Threat)[enemiesCount] tên [enemies Label](/Threat) sẽ tiến hành các cuộc đột kích vào bạn mỗi [mtbDays]</li>
+      <li>root(priority=1,sitePart==Outpost)->có một tiền đồn của kẻ thù tại địa điểm được bảo vệ bởi (*Threat)[enemiesCount] tên [enemiesLabel](/Threat)</li>
+      <li>root(priority=1,sitePart==BanditCamp)->có một trại cướp tại địa điểm được bảo vệ bởi (*Threat)[enemiesCount] tên [enemiesLabel](/Threat)</li>
+      <li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)một tên lưu manh [kindLabel](/Threat) đang lang thang gần đó</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] lưu manh [kindLabel](/Threat) đang lang thang gần đây</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)một bọ máy(/Threat) đang ngủ gần đó</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] bọ máy(/Threat) đang ngủ gần đó</li>
+      <li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) đang được đề phòng</li>
+      <li>root(priority=1,sitePart==AmbushEdge)->một (*Threat)lực lượng kẻ thù(/Threat) đang chờ đợi để phục kích bất cứ ai đến gần</li>
+      <li>root(priority=1,sitePart==AmbushHidden)->một (*Threat)lực lượng kẻ thù(/Threat) đang chờ đợi để phục kích bất cứ ai đến gần</li>
+      <li>root(priority=1,sitePart==MechCluster)->có một nhóm các (*Threat)quái vật máy(/Threat) thù địch</li>
+      <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->có thể có một (*Threat)mối đe dọa không xác định(/Threat)</li>
+      <li>root->[label] tồn tại</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <!-- EN:
+    <li>threatDescription->a mech cluster will land at [map_definite] containing:\n\n[allThreats]</li>
+  -->
+  <Util_MechCluster.questDescriptionRules.rulesStrings>
+    <li>threatDescription->một cụm cỗ máy sẽ hạ cánh tại [map_definite] có chứa:\n\n[allThreats]</li>
+  </Util_MechCluster.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  -->
+  <Util_Raid.questDescriptionRules.rulesStrings>
+    <li>threatDescription->[enemyFaction_pawnsPlural] từ [enemyFaction_name] sẽ tấn công bạn. Nhóm của họ gồm có:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </Util_Raid.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>pawnKindsParagraph(raidCount==1)->The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
+    <li>pawnKindsParagraph(raidCount==2)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\nThe second similar-sized group will follow soon after.</li>
+    <li>pawnKindsParagraph(raidCount==3)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\nTwo similar-sized groups will follow soon after.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->The first group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\n[raidCountMinusOne] similar-sized groups will follow soon after.</li>
+    <li>numGroupsOf(raidCount==1)-></li>
+    <li>numGroupsOf(raidCount==2)->two groups of</li>
+    <li>numGroupsOf(raidCount==3)->three groups of</li>
+    <li>numGroupsOf(raidCount>=4)->[raidCount] groups of</li>
+  -->
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>pawnKindsParagraph(raidCount==1)->Nhóm [enemyFaction_pawnsPlural] gồm: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
+    <li>pawnKindsParagraph(raidCount==2)->Nhóm đầu tiên của [enemyFaction_pawnsPlural] gồm: \n\n[raid0/raidPawnKinds]\n\nNhóm thứ hai tương tự sẽ đến ngay sau đó</li>
+    <li>pawnKindsParagraph(raidCount==3)->Nhóm đầu tiên của [enemyFaction_pawnsPlural] gồm: \n\n[raid0/raidPawnKinds]\n\nHai nhóm tương tự sẽ đến ngay sau đó.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->Nhóm đầu tiên của [enemyFaction_pawnsPlural] gồm: \n\n[raid0/raidPawnKinds]\n\n[raidCountMinusOne] tương tự sẽ đến ngay sau đó.</li>
+    <li>numGroupsOf(raidCount==1)-></li>
+    <li>numGroupsOf(raidCount==2)->hai nhóm của</li>
+    <li>numGroupsOf(raidCount==3)->ba nhóm của</li>
+    <li>numGroupsOf(raidCount>=4)->[raidCount] nhóm của</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

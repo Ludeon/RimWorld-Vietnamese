@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The remnants of the monolith which linked our world to the void lie broken. The twisted patterns that once writhed across its surface are now motionless. You can study the broken stones to gain further knowledge of the void phenomena. -->
+  <Disrupted.monolithDescription>Tàn tích của chiếc Trụ đá Hư Không nối liền thế giới của chúng ta với hư vô đã bị phá vỡ. Những họa tiết méo mó từng vặn vẹo trên bề mặt của nó giờ đã bất động. Bạn có thể nghiên cứu những viên đá vụn để có thêm kiến thức về hiện tượng hư vô.</Disrupted.monolithDescription>
+  <!-- EN: collapsed monolith -->
+  <Disrupted.monolithLabel>Trụ đá Hư Không suy tàn</Disrupted.monolithLabel>
+  
+  <!-- EN: Level 4: Awakened -->
+  <Embraced.levelInspectText>Cấp độ 4: Đánh thức</Embraced.levelInspectText>
+  <!-- EN: void monolith -->
+  <Embraced.monolithLabel>Trụ đá Hư Không</Embraced.monolithLabel>
+  
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <Gleaming.extraQuestDescription>Hư vô đã thức tỉnh. Cánh cổng đã mở. Bóng tối của hư vô tràn vào thực tại của chúng ta, được hiện thực hóa từ một tâm trí vĩ đại của cơn thịnh nộ vô tận.</Gleaming.extraQuestDescription>
+  <!-- EN: Level 4: Awakened -->
+  <Gleaming.levelInspectText>Cấp độ 4: Đánh thức</Gleaming.levelInspectText>
+  <!-- EN: void monolith -->
+  <Gleaming.monolithLabel>Trụ đá Hư Không</Gleaming.monolithLabel>
+  
+  <!-- EN: investigate {0} -->
+  <Inactive.activateFloatMenuText>Điều tra {0}</Inactive.activateFloatMenuText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateGizmoDescription>Gửi một thuộc hạ đến điều tra Trụ đá Hư Không.</Inactive.activateGizmoDescription>
+  <!-- EN: investigate -->
+  <Inactive.activateGizmoText>Điều tra</Inactive.activateGizmoText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateQuestText>Gửi một thuộc hạ đến điều tra Trụ đá Hư Không.</Inactive.activateQuestText>
+  <!-- EN: Twisting lines carved into the surface form a disturbing pattern. -->
+  <Inactive.levelInspectText>Những đường nét xoắn vặn khắc sâu vào bề mặt tạo thành một họa tiết đáng sợ.</Inactive.levelInspectText>
+  <!-- EN: Can be investigated now. -->
+  <Inactive.monolithCanBeActivatedText>Có thể được điều tra ngay bây giờ.</Inactive.monolithCanBeActivatedText>
+  <!-- EN: fallen monolith -->
+  <Inactive.monolithLabel>Trụ đá Hư Không đã sụp đổ</Inactive.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to investigate the monolith. -->
+  <Inactive.pawnSentToActivateMessage>{PAWN_nameDef} đã được cử đi điều tra chiếc Trụ đá Hư Không.</Inactive.pawnSentToActivateMessage>
+  
+  <!-- EN: Attuning the monolith -->
+  <Stirring.activatableLetterLabel>Điều hòa Trụ đá Hư Không</Stirring.activatableLetterLabel>
+  <!-- EN: You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities. -->
+  <Stirring.activatableLetterText>Bạn đã có đủ kiến thức về các hiện tượng liên quan đến hư vô để điều hòa Trụ đá Hư Không và mở rộng thêm đường dẫn tâm linh của nó. \n\nĐiều này sẽ thu hút sự chú ý của nhiều thực thể dị thường nguy hiểm hơn.</Stirring.activatableLetterText>
+  <!-- EN: As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research.\n\n(*Gray)Note: You can adjust the percentage of major threats that will be Anomaly-related at any point in the storyteller settings.(/Gray) -->
+  <Stirring.activatedLetterText>Khi chiếc Trụ đá Hư Không méo mó và thay đổi, {PAWN_nameDef} bị nhấn chìm trong một ảo ảnh kinh hoàng. Trong tích tắc, {PAWN_pronoun} đã hiểu ra mọi chuyện. \n\nChiếc Trụ đá Hư Không là một cánh cửa, mới chỉ hé mở. Một thứ gì đó tăm tối ngoài sức tưởng tượng đang cựa mình ở phía bên kia, thấm vào thực tại của chúng ta. \n\nVừa sợ hãi vừa hào hứng, {PAWN_nameDef} tin chắc {PAWN_pronoun} có thể tìm hiểu thêm nếu được cho thời gian để nghiên cứu chiếc Trụ đá Hư Không. \n\n - Danh mục công trình đã được mở khóa: Dị thường \n - Tab nghiên cứu đã được mở khóa: Dị thường \n - Bộ sưu tập thực thể đã được mở khóa \n - Bạn giờ có thể nghiên cứu chiếc Trụ đá Hư Không và các thực thể khác để thu thập tri thức về Dị thường.</Stirring.activatedLetterText>
+  <!-- EN: attune {0} -->
+  <Stirring.activateFloatMenuText>Điều hòa {0}</Stirring.activateFloatMenuText>
+  <!-- EN: Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities. -->
+  <Stirring.activateGizmoDescription>Gửi một thuộc hạ để điều hòa chiếc Trụ đá Hư Không.\n\nĐiều này sẽ thu hút các thực thể mới và thậm chí nguy hiểm hơn.</Stirring.activateGizmoDescription>
+  <!-- EN: attune -->
+  <Stirring.activateGizmoText>Điều hòa</Stirring.activateGizmoText>
+  <!-- EN: Send a colonist to attune the monolith. -->
+  <Stirring.activateQuestText>Gửi một thuộc hạ đi điều hòa chiếc Trụ đá Hư Không.</Stirring.activateQuestText>
+  <!-- EN: You've activated the monolith. It is a conduit for psychic energy, just barely cracked open now. A mind of incomprehensible horror stirs on the other side, and is now touching our world.\n\nThe monolith seems to be partly active, and there seems to be no way to shut it down. To learn more you must activate it further, which will require some special research. -->
+  <Stirring.extraQuestDescription>Bạn đã kích hoạt Trụ đá Hư Không. Nó là một đường dẫn cho nguồn năng lượng tâm linh, mới chỉ vừa hé mở. Một tâm trí đáng sợ không thể tưởng tượng được đang cựa mình ở phía bên kia, và giờ đang chạm đến thế giới của chúng ta.\n\nChiếc Trụ đá Hư Không dường như đã hoạt động một phần, và không có cách nào để tắt nó được. Để tìm hiểu thêm, bạn phải kích hoạt nó hoàn toàn. Điều này sẽ đòi hỏi một số nghiên cứu đặc biệt.</Stirring.extraQuestDescription>
+  <!-- EN: Level 1: Intermittent psychic humming -->
+  <Stirring.levelInspectText>Cấp độ 1: Ù ngân tâm linh chập chờn</Stirring.levelInspectText>
+  <!-- EN: Can be attuned now. -->
+  <Stirring.monolithCanBeActivatedText>Có thể được điều hòa ngay bây giờ.</Stirring.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Stirring.monolithLabel>Trụ đá Hư Không</Stirring.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to attune the monolith. -->
+  <Stirring.pawnSentToActivateMessage>{PAWN_nameDef} đã được cử đi điều hòa chiếc Trụ đá Hư Không.</Stirring.pawnSentToActivateMessage>
+  
+  <!-- EN: The sky darkens and a malevolent hum fills the air. The monolith has begun to awaken. Your actions have attracted the attention of something beyond human understanding.\n\nSoon, structures of the void will begin manifesting into this reality. Activate the arriving void structures to fully awaken the monolith.\n\nThe first wave will appear shortly. Prepare yourself. -->
+  <VoidAwakened.activatedLetterText>Bầu trời trở nên tối tăm và một tiếng ù ác ý lấp đầy không trung. Chiếc Trụ đá Hư Không đã bắt đầu thức tỉnh. Hành động của bạn đã thu hút sự chú ý của thứ gì đó ngoài tầm hiểu biết của con người.\n\nChẳng mấy chốc, các công trình từ hư vô sẽ bắt đầu hiện thực hóa trong thế giới này. Hãy kích hoạt những công trình từ hư vô đang đến để đánh thức chiếc Trụ đá Hư Không hoàn toàn.\n\nĐợt đầu tiên sẽ xuất hiện không lâu nữa. Hãy sẵn sàng.</VoidAwakened.activatedLetterText>
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <VoidAwakened.extraQuestDescription>Hư vô đã thức tỉnh. Cánh cổng đã mở. Bóng tối của hư vô tràn vào thực tại của chúng ta, được hiện thực hóa từ một tâm trí vĩ đại của cơn thịnh nộ vô tận.</VoidAwakened.extraQuestDescription>
+  <!-- EN: Level 3: Awakening -->
+  <VoidAwakened.levelInspectText>Cấp độ 3: Đánh thức</VoidAwakened.levelInspectText>
+  <!-- EN: void monolith -->
+  <VoidAwakened.monolithLabel>Trụ đá Hư Không</VoidAwakened.monolithLabel>
+  
+  <!-- EN: Awakening the monolith -->
+  <Waking.activatableLetterLabel>Đánh thức Trụ đá Hư Không</Waking.activatableLetterLabel>
+  <!-- EN: You now have enough knowledge of dark phenomena to fully awaken the void monolith, opening a two-way conduit to the void.\n\nBe warned - once you begin awakening the void monolith, there is no going back. The process will shroud the region in unnatural darkness and manifest waves of horrifying entities.\n\nMake sure your colony is well-lit and well-prepared. -->
+  <Waking.activatableLetterText>Giờ đây, bạn đã có đủ kiến thức về các hiện tượng hắc ám để đánh thức hoàn toàn Trụ đá Hư Không, mở một đường dẫn hai chiều đến với hư vô. \n\nXin hãy cảnh giác - một khi đã bắt đầu đánh thức Trụ đá Hư Không, bạn sẽ không thể quay đầu lại được. Quá trình này sẽ bao phủ khu vực trong bóng tối phi tự nhiên và hiện thực hóa những làn sóng thực thể kinh hoàng. \n\nHãy chắc chắn rằng thuộc địa của bạn được thắp sáng đầy đủ và chuẩn bị tốt.</Waking.activatableLetterText>
+  <!-- EN: Attuning the monolith caused it to twist and grow once more. As it did, {PAWN_nameDef} caught a glimpse of what lurks beyond. {PAWN_pronoun} understood.\n\nThe monolith is a doorway, opened wider by your actions. On the other side, {PAWN_nameDef} sensed an inhuman intelligence of vast complexity and endless rage. The dark machine god is stirring, and its physical influence will grow.\n\n - New entities are now discoverable. -->
+  <Waking.activatedLetterText>Việc điều hòa khiến chiếc Trụ đá Hư Không tiếp tục vặn vẹo và phát triển. Trong quá trình đó, {PAWN_nameDef} nhìn thấy thoáng qua những gì đang ẩn nấp phía sau. {PAWN_pronoun} hiểu ra. \n\nChiếc Trụ đá Hư Không là một cánh cửa, được mở rộng hơn bởi hành động của bạn. Phía bên kia cánh cửa, {PAWN_nameDef} cảm nhận được một trí tuệ vô nhân tính cực kỳ phức tạp và cơn thịnh nộ vô tận. Cỗ máy thần hắc ám đang chuyển mình, và tầm ảnh hưởng vật lý của nó sẽ lớn dần. \n\n - Các thực thể mới giờ có thể được khám phá.</Waking.activatedLetterText>
+  <!-- EN: awaken {0} -->
+  <Waking.activateFloatMenuText>Đánh thức {0}</Waking.activateFloatMenuText>
+  <!-- EN: Send a colonist to wake the monolith. The psychic signature will be detectable for hundreds of miles and attract all manner of horrors. Make sure you are prepared.\n\nOnce fully awakened, the monolith will provide a direct link to the void. -->
+  <Waking.activateGizmoDescription>Gửi một thuộc hạ đi đánh thức chiếc Trụ đá Hư Không. Dấu vết tâm linh sẽ có thể bắt được ở khoảng cách hàng trăm dặm và thu hút mọi thể loại kinh dị. Hãy chuẩn bị kỹ lưỡng.\n\nMột khi được đánh thức hoàn toàn, chiếc Trụ đá Hư Không sẽ cung cấp một liên kết trực tiếp đến hư vô.</Waking.activateGizmoDescription>
+  <!-- EN: awaken -->
+  <Waking.activateGizmoText>Đánh thức</Waking.activateGizmoText>
+  <!-- EN: Send a colonist to awaken the monolith. -->
+  <Waking.activateQuestText>Gửi một thuộc hạ đi đánh thức chiếc Trụ đá Hư Không.</Waking.activateQuestText>
+  <!-- EN: The monolith is a conduit to the void where a dark superintelligence processes endless vast dreams of rage and hate. You opened the conduit and it is now partially active. If you activate it further you can find a way to close it - or harness its power. -->
+  <Waking.extraQuestDescription>Chiếc Trụ đá Hư Không là một đường dẫn đến hư vô - nơi một siêu trí tuệ hắc ám đang nung nấu những giấc mộng vô tận của cơn thịnh nộ và thù hận. Bạn đã mở đường dẫn này và giờ nó đang hoạt động một phần. Nếu bạn kích hoạt nó hoàn toàn, có thể bạn sẽ tìm được cách để bịt kín nó - hoặc khai thác sức mạnh của nó.</Waking.extraQuestDescription>
+  <!-- EN: Level 2: Pulsing with psychic energy -->
+  <Waking.levelInspectText>Cấp độ 2: Ngân vang với năng lượng tâm linh</Waking.levelInspectText>
+  <!-- EN: Can be awakened now. -->
+  <Waking.monolithCanBeActivatedText>Có thể được đánh thức ngay bây giờ.</Waking.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Waking.monolithLabel>Trụ đá Hư Không</Waking.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to awaken the monolith. -->
+  <Waking.pawnSentToActivateMessage>{PAWN_nameDef} đã được cử đi đánh thức chiếc Trụ đá Hư Không.</Waking.pawnSentToActivateMessage>
+  
+</LanguageData>

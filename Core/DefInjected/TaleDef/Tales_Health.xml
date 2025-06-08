@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: downed -->
+  <Downed.label>suy sụp</Downed.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->incapacitated</li>
+    <li>wound_name_past->crippled</li>
+    <li>wound_name_past->knocked unconscious</li>
+    <li>wound_name_past->disabled</li>
+    <li>wound_name_present->incapacitating</li>
+    <li>wound_name_present->harming</li>
+    <li>wound_name_present->knocking unconscious</li>
+    <li>wound_name_present->disabling</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <Downed.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] với một [WEAPON_label]</li>
+    <li>tale_noun->[wound_name_present] của [VICTIM_nameDef] bởi [KILLER_nameDef]</li>
+    <li>tale_noun->[wound_name_present] của [VICTIM_nameDef] với một [WEAPON_label]</li>
+    <li>tale_noun->[wound_name_present] của [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] bởi [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] tàn bạo [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->bị mất năng lực</li>
+    <li>wound_name_past->bị tê liệt</li>
+    <li>wound_name_past->bị đánh bất tỉnh</li>
+    <li>wound_name_past->bị tắt</li>
+    <li>wound_name_present->làm mất khả năng một cách</li>
+    <li>wound_name_present->làm hại</li>
+    <li>wound_name_present->làm bất tỉnh</li>
+    <li>wound_name_present->vô hiệu hóa một cách</li>
+    <li>with_weapon_optional->sử dụng [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->dường như không hối hận</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->với cơn thịnh nộ cuồng nhiệt</li>
+    <li>circumstance_phrase->với các chuyển động nhanh chóng, hiệu quả</li>
+    <li>circumstance_phrase->mà không có cảm xúc hoặc biểu cảm</li>
+    <li>circumstance_phrase->ngoài điều kiện cần thiết ảm đạm</li>
+    <li>circumstance_phrase->một cách hèn nhát, nửa vời</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có vẻ [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại.</li>
+    <li>desc_sentence->[KILLER_nameDef] đang nhe răng của mình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình huống này.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+  </Downed.rulePack.rulesStrings>
+  
+  <!-- EN: exhausted -->
+  <Exhausted.label>kiệt sức</Exhausted.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] collapsing from exhaustion</li>
+    <li>image->[PAWN_nameFull] collapsing on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] peacefully sleeping [circumstance_group]</li>
+    <li>circumstance_phrase->with eyes closed</li>
+    <li>circumstance_phrase->with a visible look of exhaustion</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->and unable to move a muscle</li>
+    <li>desc_sentence->[PAWN_nameDef]'s last project sits nearby, complete.</li>
+    <li>desc_sentence->A marvelous construction surrounds [PAWN_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s look grateful for [PAWN_nameDef]'s heroic effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s lie nearby in a similar state.</li>
+    <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
+  -->
+  <Exhausted.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] gục ngã vì kiệt sức</li>
+    <li>image->[PAWN_nameFull] đang gục trên mặt đất [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên mặt đất [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang nằm trên giường [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đã gục xuống trên ghế [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang ngủ yên [circumstance_group]</li>
+    <li>circumstance_phrase->với nhắm mắt</li>
+    <li>circumstance_phrase->với vẻ ngoài kiệt sức</li>
+    <li>circumstance_phrase->trong khi ướt đẫm mồ hôi</li>
+    <li>circumstance_phrase->và không thể cử động</li>
+    <li>desc_sentence->Dự án cuối cùng của [PAWN_nameDef] nằm gần đó, đã hoàn thành.</li>
+    <li>desc_sentence->Một công trình kỳ diệu bao quanh [PAWN_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] trông rất biết ơn vì nỗ lực anh dũng của [PAWN_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] nằm gần đó trong trạng thái tương tự.</li>
+    <li>desc_sentence->Bối cảnh diễn ra bên trong một [Community] mới được xây dựng.</li>
+  </Exhausted.rulePack.rulesStrings>
+  
+  <!-- EN: gave birth -->
+  <GaveBirth.label>sinh con</GaveBirth.label>
+  <!-- EN:
+    <li>tale_noun->[MOTHER_nameDef] giving birth to [CHILD_nameDef]</li>
+    <li>image->[MOTHER_nameFull] giving birth to [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] holding [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] lying in bed next to [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] collapsed in a chair with [MOTHER_possessive] [baby] [circumstance_group]</li>
+    <li>baby->infant</li>
+    <li>baby->newborn</li>
+    <li>baby->baby</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is bloody and crying</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is glowing softly [Color]</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is already trying to pull [CHILD_objective]self around</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is looking around with an expression of serenity</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s sleep peacefully nearby.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon the scene.</li>
+    <li>desc_sentence->A [PersonJob]s watches from a distance.</li>
+    <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
+  -->
+  <GaveBirth.rulePack.rulesStrings>
+    <li>tale_noun->[MOTHER_nameDef] sinh [CHILD_nameDef]</li>
+    <li>image->[MOTHER_nameFull] sinh ra [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] ôm [baby] [MOTHER_possessive], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] đang nằm trên giường bên cạnh [baby] [MOTHER_possessive], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] đã ngã gục trên ghế cùng với [baby] [MOTHER_possessive] [circumstance_group]</li>
+    <li>baby->trẻ sơ sinh</li>
+    <li>baby->mới đẻ</li>
+    <li>baby->đứa bé</li>
+    <li>circumstance_phrase->[CHILD_nameFull], người đẫm máu và đang khóc</li>
+    <li>circumstance_phrase->[CHILD_nameFull], người đang phát sáng nhẹ nhàng [Color]</li>
+    <li>circumstance_phrase->[CHILD_nameFull], người đang cố gắng thu mình lại</li>
+    <li>circumstance_phrase->[CHILD_nameFull], người đang nhìn xung quanh với vẻ mặt thanh thản</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang ngủ yên bình gần đó.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] nhìn vào cảnh.</li>
+    <li>desc_sentence->[PersonJob] theo dõi từ xa.</li>
+    <li>desc_sentence->Bối cảnh diễn ra bên trong một [Community] mới được xây dựng.</li>
+  </GaveBirth.rulePack.rulesStrings>
+  
+  <!-- EN: heatstroke revealed -->
+  <HeatstrokeRevealed.label>dấu hiệu sốc nhiệt</HeatstrokeRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting heatstroke</li>
+    <li>tale_noun->[PAWN_nameDef] overheating</li>
+    <li>image->[PAWN_nameFull] trudging through sand [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled in the shade of a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for water [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for shade [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crawling across sun-baked dirt [circumstance_group]</li>
+    <li>circumstance_phrase->with red dry skin</li>
+    <li>circumstance_phrase->and covered in sweat</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>desc_sentence->[Quantity_adjphrase] dessicated [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and torn.</li>
+    <li>desc_sentence->A blazing sun looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a blazing desert.</li>
+    <li>desc_sentence->The scene appears to take place inside, next to a heater.</li>
+    <li>desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <HeatstrokeRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] say nắng</li>
+    <li>tale_noun->[PAWN_nameDef] quá nóng</li>
+    <li>image->[PAWN_nameFull] đang lê bước trên cát [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tụ tập trong bóng râm của [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tìm kiếm nước [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tìm kiếm bóng râm [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] bò ngang qua bụi đất được nung trong nắng [circumstance_group]</li>
+    <li>circumstance_phrase->với làn da khô đỏ</li>
+    <li>circumstance_phrase->và đầy mồ hôi</li>
+    <li>circumstance_phrase->với đôi môi khô nứt</li>
+    <li>circumstance_phrase->trong khi nôn mửa</li>
+    <li>desc_sentence->[Quantity_adjphrase] xác chết [Animal] khô bao quanh khu vực.</li>
+    <li>desc_sentence->Quần áo của [PAWN_nameDef] tả tơi và rách nát.</li>
+    <li>desc_sentence->Một mặt trời chói lọi lấp ló trong nền.</li>
+    <li>desc_sentence->Bối cảnh diễn ra bên trong một sa mạc rực lửa.</li>
+    <li>desc_sentence->Cảnh tượng dường như diễn ra bên trong, bên cạnh một lò sưởi.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] bất động bao quanh khung cảnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên mặt đất.</li>
+  </HeatstrokeRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: hypothermia revealed -->
+  <HypothermiaRevealed.label>dấu hiệu hạ thân nhiệt</HypothermiaRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting hypothermia</li>
+    <li>image->[PAWN_nameFull] trudging through snow [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</li>
+    <li>circumstance_phrase->while [PAWN_possessive] face slowly turns blue</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while covered in frost</li>
+    <li>circumstance_phrase->while exhaling clouds of fog</li>
+    <li>desc_sentence->[Quantity_adjphrase] frozen [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and worn.</li>
+    <li>desc_sentence->A cold blue moon looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a snow-covered [TreeType] forest.</li>
+    <li>desc_sentence->The scene appears to take place inside a freezer.</li>
+    <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <HypothermiaRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] bị hạ thân nhiệt</li>
+    <li>tale_noun->[PAWN_nameDef] chết cóng</li>
+    <li>image->[PAWN_nameFull] lê bước qua tuyết [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang túm tụm bên cạnh [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang tìm kiếm [Apparel] ấm [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang nép mình bên cạnh đống lửa [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang cố gắng đốt lửa [circumstance_group]</li>
+    <li>circumstance_phrase->trong khi mặt [PAWN_possessive] từ từ chuyển sang màu xanh lam</li>
+    <li>circumstance_phrase->và run rẩy không thể kiểm soát</li>
+    <li>circumstance_phrase->trong khi bị bao phủ bởi sương giá</li>
+    <li>circumstance_phrase->trong khi thở ra những đám mây sương mù</li>
+    <li>desc_sentence->[Quantity_adjphrase] xác chết [Animal] đông lạnh bao quanh khu vực.</li>
+    <li>desc_sentence->Quần áo của [PAWN_nameDef] rách nát và sờn rách.</li>
+    <li>desc_sentence->Một vầng trăng xanh lạnh lấp ló trong nền.</li>
+    <li>desc_sentence->Bối cảnh diễn ra bên trong một khu rừng [TreeType] phủ đầy tuyết.</li>
+    <li>desc_sentence->Cảnh tượng dường như diễn ra bên trong một tủ đông lạnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] rùng mình xung quanh khung cảnh.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên mặt đất.</li>
+  </HypothermiaRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: illness revealed -->
+  <IllnessRevealed.label>dấu hiệu bệnh</IllnessRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] being stricken with [ILLNESS_label]</li>
+    <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in a hospital bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>circumstance_phrase->and sweating uncontrollably</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while both sweating and shivering</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>circumstance_phrase->with a visible rash</li>
+    <li>circumstance_phrase->while being tended to by a doctor</li>
+    <li>desc_sentence->[Quantity_adjphrase] fly-ridden [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are stricken with the same afflication.</li>
+    <li>desc_sentence->The scene takes place inside a [TreeType] forest.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <IllnessRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] bị ảnh hưởng bởi [ILLNESS_label]</li>
+    <li>image->[PAWN_nameFull] lảo đảo qua cánh đồng [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên mặt đất [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên giường [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên giường bệnh [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] gục trên giường ghế [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thu mình bên đống lửa [circumstance_group]</li>
+    <li>circumstance_phrase->và đổ mồ hôi không kiểm soát</li>
+    <li>circumstance_phrase->và run rẩy không thể kiểm soát</li>
+    <li>circumstance_phrase->vừa toát mồ hôi vừa rùng mình</li>
+    <li>circumstance_phrase->với đôi môi khô nứt nẻ</li>
+    <li>circumstance_phrase->trong khi nôn mửa</li>
+    <li>circumstance_phrase->với vết phát ban có thể nhìn thấy</li>
+    <li>circumstance_phrase->khi được bác sĩ chăm sóc</li>
+    <li>desc_sentence->[Quantity_adjphrase] xác chết [Animal] bị ruồi bu bao quanh khu vực.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Color] pha trộn bao quanh cảnh [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob] đang phải chịu đựng cùng một nỗi đau.</li>
+    <li>desc_sentence->Cảnh diễn ra bên trong một khu rừng [TreeType].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên mặt đất.</li>
+  </IllnessRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: killed -->
+  <KilledCapacity.label>bị giết</KilledCapacity.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] [cap_removal] [VICTIM_nameFull]'s capacity for [CAPACITY_label] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] by [cap_removal] [VICTIM_possessive] [CAPACITY_label] [with_weapon_optional]</li>
+    <li>cap_removal->destroying</li>
+    <li>cap_removal->eliminating</li>
+    <li>cap_removal->ending</li>
+    <li>wound_name_past->slayed</li>
+    <li>wound_name_past->executed</li>
+    <li>wound_name_past->assassinated</li>
+    <li>wound_name_past->eliminated</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->executing</li>
+    <li>wound_name_present->assassinating</li>
+    <li>wound_name_present->eliminating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledCapacity.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] với một [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] [cap_removal] năng lực của [VICTIM_nameFull] cho [CAPACITY_label] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] bằng cách [cap_removal] [CAPACITY_label] [VICTIM_possessive] [with_weapon_optional]</li>
+    <li>cap_removal->đang phá hủy</li>
+    <li>cap_removal->đang loại bỏ</li>
+    <li>cap_removal->đang kết thúc</li>
+    <li>wound_name_past->đã giết</li>
+    <li>wound_name_past->đã hành hình</li>
+    <li>wound_name_past->đã ám sát</li>
+    <li>wound_name_past->đã loại bỏ</li>
+    <li>wound_name_present->giết</li>
+    <li>wound_name_present->hành hình</li>
+    <li>wound_name_present->ám sát</li>
+    <li>wound_name_present->loại bỏ</li>
+    <li>with_weapon_optional->với một [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->dường như không hối hận</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->với các chuyển động nhanh chóng, hiệu quả</li>
+    <li>circumstance_phrase->mà không có cảm xúc hoặc biểu cảm</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có vẻ [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình huống này.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+  </KilledCapacity.rulePack.rulesStrings>
+  
+  <!-- EN: killed at distance -->
+  <KilledLongRange.label>bị giết ở khoảng cách xa</KilledLongRange.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance with a [WEAPON_label]</li>
+    <li>tale_noun->the long distance [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the long distance [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] aiming at [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] coldly [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>wound_name_past->murdered</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->slaughtered</li>
+    <li>wound_name_past->eliminated</li>
+    <li>wound_name_present->murdering</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->slaughtering</li>
+    <li>wound_name_present->eliminating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->from a long distance</li>
+    <li>circumstance_phrase->from a great height</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledLongRange.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] ở khoảng cách xa</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] ở khoảng cách xa với một [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] [wound_name_present] ở khoảng cách xa bởi [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] [wound_name_present] ở khoảng cách xa bởi [KILLER_nameDef] bằng [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] nhắm đến [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] nhẫn tâm [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>wound_name_past->đã giết</li>
+    <li>wound_name_past->đã hạ gục</li>
+    <li>wound_name_past->đã tàn sát</li>
+    <li>wound_name_past->đã loại bỏ</li>
+    <li>wound_name_present->giết</li>
+    <li>wound_name_present->hạ gục</li>
+    <li>wound_name_present->tàn sát</li>
+    <li>wound_name_present->loại bỏ</li>
+    <li>with_weapon_optional->với [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->dường như không hối hận</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->từ một khoảng cách xa</li>
+    <li>circumstance_phrase->từ một độ cao lớn</li>
+    <li>circumstance_phrase->không có cảm xúc hoặc biểu cảm</li>
+    <li>circumstance_phrase->một cách hèn nhát, nửa vời</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] nhìn [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại.</li>
+    <li>desc_sentence->[VICTIM_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] đang nhe răng của mình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình huống này.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+  </KilledLongRange.rulePack.rulesStrings>
+  
+  <!-- EN: killed major threat -->
+  <KilledMajorThreat.label>bị giết bởi mối đe dọa lớn</KilledMajorThreat.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->defeated</li>
+    <li>wound_name_past->overcome</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->defeating</li>
+    <li>wound_name_present->overcoming</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->with great heroism</li>
+    <li>circumstance_phrase->with incredible strength</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s corpse towers over [KILLER_nameDef].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s massive corpse covers a [TerrainFeature].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes glow [Color].</li>
+    <li>desc_sentence->[KILLER_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks [AdjectiveBadass].</li>
+    <li>desc_sentence->[KILLER_nameDef] is glowing with a heroic aura.</li>
+  -->
+  <KilledMajorThreat.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] với [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] bị [wound_name_present] bởi [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] bị [wound_name_present] bởi [KILLER_nameDef] với [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] bởi [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] tàn bạo [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->bị giết</li>
+    <li>wound_name_past->bị đánh bại</li>
+    <li>wound_name_past->bị chiến thắng</li>
+    <li>wound_name_present->giết</li>
+    <li>wound_name_present->đánh bại</li>
+    <li>wound_name_present->chiến thắng</li>
+    <li>with_weapon_optional->với [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->với các chuyển động nhanh chóng, hiệu quả</li>
+    <li>circumstance_phrase->không có cảm xúc hoặc biểu cảm</li>
+    <li>circumstance_phrase->với chủ nghĩa anh hùng vĩ đại</li>
+    <li>circumstance_phrase->với sức mạnh đáng kinh ngạc</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có vẻ [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại.</li>
+    <li>desc_sentence->[VICTIM_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] và [KILLER_nameDef] đều có trong [Gore].</li>
+    <li>desc_sentence->Xác chết của [VICTIM_nameDef] chất cao hơn [KILLER_nameDef].</li>
+    <li>desc_sentence->Xác chết khổng lồ của [VICTIM_nameDef] bao phủ một [TerrainFeature].</li>
+    <li>desc_sentence->Đôi mắt của [VICTIM_nameDef] phát sáng [Color].</li>
+    <li>desc_sentence->[KILLER_nameDef] được bao phủ trong [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] đang nhe răng của mình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ [AdjectiveBadass].</li>
+    <li>desc_sentence->[KILLER_nameDef] rực sáng với hào quang anh hùng.</li>
+  </KilledMajorThreat.rulePack.rulesStrings>
+  
+  <!-- EN: killed in melee -->
+  <KilledMelee.label>chết trong trận đấu cận chiến </KilledMelee.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in close combat</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in melee with a [WEAPON_label]</li>
+    <li>tale_noun->the melee [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the close combat [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->murdered</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->slaughtered</li>
+    <li>wound_name_past->mutilated</li>
+    <li>wound_name_present->murdering</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->slaughtering</li>
+    <li>wound_name_present->mutilating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+    <li>desc_sentence->[KILLER_nameDef] wears a feral expression.</li>
+  -->
+  <KilledMelee.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] trong cận chiến</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] trong trận cận chiến với một [WEAPON_label]</li>
+    <li>tale_noun->trận cận chiến [wound_name_present] [VICTIM_nameDef] bởi [KILLER_nameDef]</li>
+    <li>tale_noun->trận cận chiến [wound_name_present] [VICTIM_nameDef] bởi [KILLER_nameDef] bằng một [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] bởi [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] tàn bạo [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->đã tiêu diệt</li>
+    <li>wound_name_past->đã giết</li>
+    <li>wound_name_past->đã sát sinh</li>
+    <li>wound_name_past->đã chém giết</li>
+    <li>wound_name_present->giết người</li>
+    <li>wound_name_present->tiêu diệt</li>
+    <li>wound_name_present->sát sinh</li>
+    <li>wound_name_present->chém giết</li>
+    <li>with_weapon_optional->với một [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->dường như không hối hận</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->với các chuyển động nhanh chóng, hiệu quả</li>
+    <li>circumstance_phrase->không có cảm xúc hoặc biểu cảm</li>
+    <li>circumstance_phrase->một cách hèn nhát, nửa vời</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có vẻ [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đã nhắm mắt lại.</li>
+    <li>desc_sentence->[VICTIM_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] và [KILLER_nameDef] đều có trong [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] đang nhe răng của mình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình hình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+    <li>desc_sentence->[KILLER_nameDef] mang một biểu cảm hoang dã.</li>
+  </KilledMelee.rulePack.rulesStrings>
+  
+  <!-- EN: killed with mortar -->
+  <KilledMortar.label>bị giết bởi súng cối</KilledMortar.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</li>
+    <li>image->[KILLER_nameFull] carefully adjusting a firing tube [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] looking into the distance [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] doing calculations on paper [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] testing wind direction [circumstance_group]</li>
+    <li>circumstance_phrase->while [VICTIM_nameFull] is consumed in a massive explosion</li>
+    <li>circumstance_phrase->as a shell arcs down towards [VICTIM_nameFull]</li>
+    <li>circumstance_phrase->while [VICTIM_nameFull] walks around obliviously</li>
+    <li>circumstance_phrase->as [VICTIM_nameFull] sprints</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is surrounded by explosions.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is surrounded by craters.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledMortar.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] bằng súng cối</li>
+    <li>tale_noun->[VICTIM_nameDef] bị giết bởi pháo của [KILLER_nameDef]</li>
+    <li>image->[KILLER_nameFull]  đang điều chỉnh cẩn thận ống bắn [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] đang nhìn vào khoảng cách [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] đang thực hiện các phép tính trên giấy [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] đang kiểm tra hướng gió [circumstance_group]</li>
+    <li>circumstance_phrase->trong khi [VICTIM_nameFull] được tiêu thụ trong một vụ nổ lớn</li>
+    <li>circumstance_phrase->như một khung bao quanh hướng xuống [VICTIM_nameFull]</li>
+    <li>circumstance_phrase->trong khi [VICTIM_nameFull] đi vòng quanh một cách lãng quên</li>
+    <li>circumstance_phrase->giống như [VICTIM_nameFull] đang chạy</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có vẻ [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] được bao quanh bởi các vụ nổ.</li>
+    <li>desc_sentence->[VICTIM_nameDef] được bao quanh bởi hố.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình hình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+  </KilledMortar.rulePack.rulesStrings>
+  
+  <!-- EN: toxicity revealed -->
+  <ToxicityRevealed.label>dấu hiệu ngộ độc</ToxicityRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s body becoming toxic</li>
+    <li>tale_noun->[PAWN_nameDef] being poisoned by toxins</li>
+    <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] mindlessly removing [PAWN_possessive] clothes [circumstance_group]</li>
+    <li>circumstance_phrase->and sweating uncontrollably</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while both sweating and shivering</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>circumstance_phrase->with a visible rash</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are falling apart.</li>
+    <li>desc_sentence->The sky is a murky [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</li>
+    <li>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <ToxicityRevealed.rulePack.rulesStrings>
+    <li>tale_noun->Cơ thể của [PAWN_nameDef] trở nên độc hại</li>
+    <li>tale_noun->[PAWN_nameDef] bị đầu độc bởi chất độc</li>
+    <li>image->[PAWN_nameFull] hoảng hốt trong một cánh đồng [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên mặt đất [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nằm trên giường [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang nép mình bên cạnh đống lửa [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] đang cố gắng đốt lửa [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] cởi bỏ quần áo [PAWN_possessive] một cách vô tâm [circumstance_group]</li>
+    <li>circumstance_phrase->và đổ mồ hôi không kiểm soát</li>
+    <li>circumstance_phrase->và run rẩy không kiểm soát được</li>
+    <li>circumstance_phrase->trong khi cả người đổ mồ hôi và rùng mình</li>
+    <li>circumstance_phrase->với đôi môi khô nứt nẻ</li>
+    <li>circumstance_phrase->trong lúc nôn mửa</li>
+    <li>circumstance_phrase->với vết phát ban có thể nhìn thấy</li>
+    <li>desc_sentence->[Quantity_adjphrase] xác chết [Animal] hòa trộn bao quanh khu vực.</li>
+    <li>desc_sentence->Quần áo của [PAWN_nameDef] đang bị bung ra.</li>
+    <li>desc_sentence->Bầu trời là một [Color] âm u.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Color] pha trộn bao quanh [TerrainFeature].</li>
+    <li>desc_sentence->Bối cảnh diễn ra bên trong một khu rừng [TreeType].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] sắp chết nằm trên mặt đất.</li>
+  </ToxicityRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: wounded -->
+  <Wounded.label>bị thương</Wounded.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->wounded</li>
+    <li>wound_name_past->harmed</li>
+    <li>wound_name_past->hurt</li>
+    <li>wound_name_past->assaulted</li>
+    <li>wound_name_past->attacked</li>
+    <li>wound_name_present->wounding</li>
+    <li>wound_name_present->harming</li>
+    <li>wound_name_present->hurting</li>
+    <li>wound_name_present->assaulting</li>
+    <li>wound_name_present->attacking</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is wincing in pain.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is wincing in agony.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <Wounded.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] với một [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] bị [wound_name_present] bởi [KILLER_nameDef]</li>
+    <li>tale_noun->[VICTIM_nameDef] bị [wound_name_present] bằng [WEAPON_label]</li>
+    <li>tale_noun->[VICTIM_nameDef] bị [wound_name_present]</li>
+    <li>image->[VICTIM_nameFull] bị [wound_name_past] bởi [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] tàn bạo [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->đã bị thương</li>
+    <li>wound_name_past->đã bị hại</li>
+    <li>wound_name_past->đã bị thương</li>
+    <li>wound_name_past->đã bị tấn công</li>
+    <li>wound_name_past->đã bị tấn công</li>
+    <li>wound_name_present->làm bị thương</li>
+    <li>wound_name_present->làm hại</li>
+    <li>wound_name_present->làm tổn thương</li>
+    <li>wound_name_present->tấn công</li>
+    <li>wound_name_present->đang tấn công</li>
+    <li>with_weapon_optional->bằng [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->dường như không hối hận</li>
+    <li>circumstance_phrase->với biểu hiện lạnh lùng</li>
+    <li>circumstance_phrase->với cơn thịnh nộ cuồng nhiệt</li>
+    <li>circumstance_phrase->với các chuyển động nhanh chóng, hiệu quả</li>
+    <li>circumstance_phrase->không có cảm xúc hoặc biểu cảm</li>
+    <li>circumstance_phrase->ngoài điều kiện cần thiết ảm đạm</li>
+    <li>circumstance_phrase->một cách hèn nhát, nửa vời</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] đang xem.</li>
+    <li>desc_sentence->Một [PersonJob] im lặng theo dõi [side_position].</li>
+    <li>desc_sentence->Máu đang tích tụ quanh cơ thể của [VICTIM_nameDef].</li>
+    <li>desc_sentence->[VICTIM_nameDef] có trong [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] nhìn [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] đang nhăn mặt vì đau.</li>
+    <li>desc_sentence->[VICTIM_nameDef] đang nhăn mặt vì đau đớn.</li>
+    <li>desc_sentence->[KILLER_nameDef] đang nhe răng của mình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đau khổ trước những gì [KILLER_pronoun] đang làm.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ hài lòng với tình hình.</li>
+    <li>desc_sentence->[KILLER_nameDef] có vẻ đắc thắng.</li>
+  </Wounded.rulePack.rulesStrings>
+  
+</LanguageData>

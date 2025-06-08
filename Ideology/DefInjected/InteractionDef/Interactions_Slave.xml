@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spark slave rebellion -->
+  <SparkSlaveRebellion.label>châm ngòi cuộc nổi dậy nô lệ</SparkSlaveRebellion.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] suggested they make a break for it.</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to take back [RECIPIENT_possessive] freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] spoke of ending their enslavement and making a break for it.</li>
+    <li>r_logentry->[INITIATOR_nameDef] spoke of a life beyond servitude and encouraged [RECIPIENT_nameDef] to escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</li>
+  -->
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] nói rằng họ nên trốn khỏi đây.</li>
+    <li>r_logentry->[INITIATOR_nameDef] khuyến khích [RECIPIENT_nameDef] giành lại tự do [RECIPIENT_possessive].</li>
+    <li>r_logentry->[INITIATOR_nameDef] nói về việc ngừng làm nô lệ và trốn khỏi đây.</li>
+    <li>r_logentry->[INITIATOR_nameDef] nói về cuộc đời ngoài việc làm nô lệ và khuyên [RECIPIENT_nameDef] nên trốn thoát.</li>
+    <li>r_logentry->[INITIATOR_nameDef] nói nhỏ rằng an ninh rất lỏng lẻo và đây là lúc thích hợp để trốn thoát.</li>
+  </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: suppress -->
+  <Suppress.label>đàn áp</Suppress.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] there would be punishments for rebellion.</li>
+    <li>r_logentry->[INITIATOR_nameDef] warned [RECIPIENT_nameDef] that disobedience would be punished.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cautioned [RECIPIENT_nameDef] against infractions of any kind.</li>
+    <li>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions.</li>
+  -->
+  <Suppress.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] nói với [RECIPIENT_nameDef] sẽ có hình phạt nếu nổi loạn.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cảnh báo [RECIPIENT_nameDef] rằng làm trái lời sẽ bị phạt.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cảnh cáo [RECIPIENT_nameDef] rằng bất kỳ vi phạm sẽ bị phạt.</li>
+    <li>r_logentry->[INITIATOR_nameDef] khuyên [RECIPIENT_nameDef] làm theo mệnh lệnh và đừng hỏi gì.</li>
+  </Suppress.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

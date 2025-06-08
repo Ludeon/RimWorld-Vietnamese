@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <Apparel_ArmorCataphract.label>áo giáp cataphract</Apparel_ArmorCataphract.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorCataphract.description>Một bộ áo giáp hạng nặng, được chế tạo để bảo vệ tối đa với cái giá phải trả là tính cơ động. Các tấm dệt plasteel nhiều lớp với lớp phủ mài mòn chắc chắn ngăn chặn tất cả trừ các cuộc tấn công có mục đích tốt hoặc mạnh mẽ nhất. Bộ hỗ trợ trí nhớ thần kinh ngăn không cho trọng lượng khổng lồ của bộ đồ làm người mặc bất động hoàn toàn, nhưng bộ đồ vẫn khá cồng kềnh.\n\nNhững bộ giáp như thế này được các cata của đế quốc sử dụng để phá vỡ các vị trí kiên cố trong các cuộc tấn công trực diện khi không còn lựa chọn nào khác.</Apparel_ArmorCataphract.description>
+  
+  <!-- EN: phoenix armor -->
+  <Apparel_ArmorCataphractPhoenix.label>áo giáp phượng hoàng</Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
+  <Apparel_ArmorCataphractPhoenix.description>Một biến thể của áo giáp cataphract với bệ phóng tia lửa gắn trên vai. Bộ giáp này có khả năng bảo vệ kém hơn một chút so với áo giáp cataphract tiêu chuẩn chống lại sát thương thông thường, nhưng đặc biệt có khả năng chống cháy. Súng phóng tia lửa có số lượng đạn rất hạn chế và phải được nạp lại sau khi sử dụng.\n\nPhượng hoàng chuyên dọn sạch những không gian chật hẹp đầy kẻ thù, chẳng hạn như trong các hoạt động dưới lòng đất hoặc trên tàu. Chúng có thể hấp thụ các cú đánh khi di chuyển xuống hành lang, lấp đầy căn phòng bằng ngọn lửa và thoát ra khỏi làn khói mà không bị tổn thương.</Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: incendiary -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>phá hủy</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>đang hồi chiêu</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: launch incendiary -->
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>khởi động gây cháy</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  
+  <!-- EN: prestige cataphract armor -->
+  <Apparel_ArmorCataphractPrestige.label>áo giáp thiết kỵ</Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorCataphractPrestige.description>Một bộ áo giáp hạng nặng, được chế tạo để bảo vệ tối đa với cái giá phải trả là tính cơ động. Các tấm dệt plasteel nhiều lớp với lớp phủ mài mòn chắc chắn ngăn chặn tất cả trừ các cuộc tấn công có mục đích tốt hoặc mạnh mẽ nhất. Bộ hỗ trợ trí nhớ thần kinh ngăn không cho trọng lượng khổng lồ của bộ đồ làm người mặc bất động hoàn toàn, nhưng bộ đồ vẫn khá cồng kềnh.\n\nNhững bộ giáp sang trọng và đắt tiền như thế này thường được sản xuất cho những người có địa vị cao. Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorCataphractPrestige.description>
+  
+  <!-- EN: cataphract helmet -->
+  <Apparel_ArmorHelmetCataphract.label>mũ bảo hiểm thiết kỵ</Apparel_ArmorHelmetCataphract.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorHelmetCataphract.description>Mũ bảo hiểm công nghệ cao được bọc thép dày, với lớp vỏ dệt bằng nhựa dẻo chắc chắn và hệ thống hình ảnh gián tiếp cho các góc nhìn không trực diện. Nó bảo vệ chống lại tất cả, trừ những phát đạn mạnh nhất hoặc nhắm vào may mắn nhất.\n\nÁo giáp như thế này được các cata của đế quốc sử dụng để phá vỡ các vị trí kiên cố trong các cuộc tấn công trực diện khi không còn lựa chọn nào khác.</Apparel_ArmorHelmetCataphract.description>
+  
+  <!-- EN: prestige cataphract helmet -->
+  <Apparel_ArmorHelmetCataphractPrestige.label>mũ bảo hiểm thiết kỵ</Apparel_ArmorHelmetCataphractPrestige.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetCataphractPrestige.description>Mũ bảo hiểm công nghệ cao được bọc thép dày, với lớp vỏ dệt bằng nhựa dẻo chắc chắn và hệ thống hình ảnh gián tiếp cho các góc nhìn không trực diện. Nó bảo vệ chống lại tất cả, trừ những phát đạn mạnh nhất hoặc nhắm vào may mắn.\n\nNhững bộ giáp uy tín, đắt tiền và đẹp đẽ như thế này thường được sản xuất cho những người có địa vị cao. Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorHelmetCataphractPrestige.description>
+  
+  <!-- EN: prestige recon helmet -->
+  <Apparel_ArmorHelmetReconPrestige.label>mũ bảo hiểm trinh sát uy tín</Apparel_ArmorHelmetReconPrestige.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetReconPrestige.description>Mũ bảo hiểm bọc thép công nghệ cao được tích hợp máy tính trạng thái và tấm dệt bằng nhựa dẻo bảo vệ.\n\nNhững bộ giáp đắt tiền và đẹp đẽ như thế này thường được sản xuất cho những người có địa vị cao. Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorHelmetReconPrestige.description>
+  
+  <!-- EN: locust armor -->
+  <Apparel_ArmorLocust.label>áo giáp châu chấu</Apparel_ArmorLocust.label>
+  <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
+  <Apparel_ArmorLocust.description>Một biến thể của áo giáp trinh sát với tên lửa nổ tích hợp cho chuyến bay tầm ngắn. Áo giáp châu chấu có khả năng bảo vệ kém hơn một chút so với áo giáp trinh sát tiêu chuẩn. Mỗi lần nhảy tiêu tốn một lượng nhiên liệu, vì vậy áo giáp phải được nạp lại sau vài lần sử dụng.\n\nKhông giống như hầu hết các đơn vị quân đội siêu công nghệ, cào cào huấn luyện chủ yếu bằng vũ khí cận chiến. Họ thường tránh các cuộc đấu súng tĩnh, thích nhảy thẳng vào công sự của kẻ thù và chiến đấu tay đôi. Họ hoạt động kém trong phòng thủ tĩnh hoặc khu vực hạn chế, nhưng lại xuất sắc trong các hoạt động bao vây hỗn hợp hoặc phá tàu.</Apparel_ArmorLocust.description>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>nhảy</Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>đang hồi chiêu</Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.verbs.jump.label>nhảy</Apparel_ArmorLocust.verbs.jump.label>
+  
+  <!-- EN: grenadier armor -->
+  <Apparel_ArmorMarineGrenadier.label>áo giáp lựu đạn</Apparel_ArmorMarineGrenadier.label>
+  <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
+  <Apparel_ArmorMarineGrenadier.description>Một biến thể của áo giáp thủy quân lục chiến với thiết bị phóng mảnh tích hợp trên vai. Bộ giáp có khả năng bảo vệ kém hơn một chút so với áo giáp hàng hải tiêu chuẩn. Bệ phóng chỉ có thể chứa một lượng đạn giới hạn và phải được nạp lại sau khi sử dụng.\n\nLựu đạn thường chuyên chọc thủng các tòa nhà hoặc vách ngăn bên trong tàu. Mặc dù không hiệu quả ở tầm xa, nhưng lựu đạn có thể gây chết người một cách đáng ngạc nhiên trong các khu vực hạn chế.</Apparel_ArmorMarineGrenadier.description>
+  <!-- EN: grenade -->
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>lựu đạn</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>đang hồi chiêu</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: launch frag grenade -->
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>phóng lựu đạn mảnh</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  
+  <!-- EN: prestige marine helmet -->
+  <Apparel_ArmorMarineHelmetPrestige.label>mũ bảo hiểm đi biển uy tín</Apparel_ArmorMarineHelmetPrestige.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarineHelmetPrestige.description>Mũ bảo hiểm áo giáp thủy quân lục chiến, được tích hợp máy tính trạng thái và các tấm dệt bằng nhựa dẻo nhiều lớp.\n\nNhững bộ áo giáp sang trọng, đẹp đẽ như thế này thường được sản xuất cho những người có địa vị cao. Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorMarineHelmetPrestige.description>
+  
+  <!-- EN: prestige marine armor -->
+  <Apparel_ArmorMarinePrestige.label>giáp biển uy tín</Apparel_ArmorMarinePrestige.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarinePrestige.description>Một bộ áo giáp trợ lực. Các tấm dệt bằng nhựa nhiều lớp rất hiệu quả trong việc ngăn chặn các cuộc tấn công, với ít phần khớp dễ bị tổn thương. Hệ thống hỗ trợ trí nhớ thần kinh cho phép con người mặc áo giáp mà vẫn di chuyển dễ dàng.\n\nNhững bộ áo giáp sang trọng, đẹp đẽ và đắt tiền như thế này thường được sản xuất cho những người có địa vị cao. Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorMarinePrestige.description>
+  
+  <!-- EN: prestige recon armor -->
+  <Apparel_ArmorReconPrestige.label>áo giáp trinh sát uy tín</Apparel_ArmorReconPrestige.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorReconPrestige.description>Một bộ áo giáp nhẹ hỗ trợ một phần, được thiết kế để cho phép di chuyển nhanh. Các tấm dệt bằng nhựa dẻo chặn đòn tấn công mà không ảnh hưởng đến khả năng di chuyển, đồng thời bộ phận hỗ trợ ghi nhớ thần kinh ở phần dưới cơ thể cho phép con người mặc áo giáp mà vẫn di chuyển dễ dàng.\n\nNhững bộ áo giáp sang trọng và đẹp đẽ như thế này thường được sản xuất cho những người có địa vị cao . Các sợi eltex nhúng cũng tăng cường độ nhạy tâm linh của người đeo.</Apparel_ArmorReconPrestige.description>
+  
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>liên kết súng</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>Máy tính nhắm mục tiêu giúp người dùng nhắm mục tiêu. Nó phát hiện và phân tích các mục tiêu bằng các cảm biến điện từ hồng ngoại, nhìn thấy được và sóng milimet. Máy tính nhắm mục tiêu tích hợp hiển thị các giải pháp kích hoạt trên hình chiếu võng mạc. Nó không cung cấp sự bảo vệ nào cả.</Apparel_Gunlink.description>
+  
+  <!-- EN: incendiary grenade -->
+  <Proj_GrenadePhoenixFire.label>lựu đạn gây cháy nổ</Proj_GrenadePhoenixFire.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadierGrenade.label>lựu đạn mảnh</Proj_GrenadierGrenade.label>
+  
+</LanguageData>

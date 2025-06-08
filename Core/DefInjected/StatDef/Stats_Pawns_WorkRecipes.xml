@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>hiệu quả giết mổ</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>Số lượng thịt sản xuất khi tàn sát sinh vật thịt. Số lượng thực tế cũng liên quan đến kích thước của sinh vật.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>tốc độ giết mổ</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>Tốc độ mà người này tàn sát sinh vật để lấy thịt.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>hiệu quả tháo gỡ cỗ máy chiến đấu cơ</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>Số lượng vật liệu mang lại khi người này tháo rời một cỗ máy chiến đấu cơ đã chết. Số lượng thực tế cũng liên quan đến kích thước của cỗ máy chiến đấu cơ.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>tốc độ tháo gỡ cỗ máy chiến đấu cơ</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>Tốc độ mà người này có thể tháo rời một cỗ máy chiến đấu cơ.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>tốc độ nấu ăn</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Tốc độ mà người này nấu các bữa ăn.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>tốc độ điều chế thuốc</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Tốc độ mà người này pha bia và trà, hoặc tạo ra các sản phẩm thuốc đơn giản như thuốc lá.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>tốc độ tổng hợp thuốc</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Làm thế nào nhanh chóng nhân vật này tổng hợp các loại thuốc hóa học phức tạp.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>cơ hội làm độc thực phẩm</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>Xác suất nhân vật này sẽ vô tình đầu độc một bữa ăn mà họ nấu. Ngộ độc thực phẩm làm suy nhược tạm thời bất cứ ai ăn nó.</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>cơ hội làm độc thực phẩm (cơ hội đầu độc một bữa ăn)</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>tốc độ lao động chung</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>Tốc độ mà người này thực hiện lao động phổ thông như chế tạo khối đá, sản xuất hóa chất tại nhà máy lọc dầu, đốt các vật phẩm, may quần áo, tạo ra nghệ thuật, rèn áo giáp và vũ khí hoặc xỉ xỉ. Chỉ số này áp dụng cả cho các hoạt động không liên quan đến kỹ năng, cũng như những hoạt động mà kỹ năng ảnh hưởng đến chất lượng sản phẩm thay vì tốc độ sản xuất.</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>tốc độ nấu chảy</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>Tốc độ mà người này nấu chảy mọi thứ.\n\nVì luyện kim là lao động câm, tốc độ luyện kim không bị ảnh hưởng bởi bất kỳ kỹ năng nào.</SmeltingSpeed.description>
+  
+</LanguageData>

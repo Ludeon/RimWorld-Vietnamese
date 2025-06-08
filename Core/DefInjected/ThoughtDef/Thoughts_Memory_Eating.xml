@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate corpse -->
+  <AteCorpse.stages.ate_corpse.label>ăn xác chết</AteCorpse.stages.ate_corpse.label>
+  <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->
+  <AteCorpse.stages.ate_corpse.description>Tôi đã phải ăn thịt của một sinh vật chết mà không hề chặt ra hay nấu nó.</AteCorpse.stages.ate_corpse.description>
+  
+  <!-- EN: ate fine meal -->
+  <AteFineMeal.stages.ate_fine_meal.label>bữa ăn ngon</AteFineMeal.stages.ate_fine_meal.label>
+  <!-- EN: I ate a really tasty fine meal. Yum! -->
+  <AteFineMeal.stages.ate_fine_meal.description>Tôi đã ăn một bữa ăn ngon thực sự ngon. Yum!</AteFineMeal.stages.ate_fine_meal.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>ăn thịt đồng loại đã nấu</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. This is horrible. -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>Tôi đã ăn một bữa ăn làm từ thịt của một người khác. Điều này thật kinh khủng.</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>ăn thịt đồng loại đã nấu</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti. -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>Tôi đã ăn một bữa ăn làm từ thịt của một người khác. Thật dễ chịu. Giá như tôi có một ít đậu fava và một chiếc bánh ngon.</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>ăn thịt đồng loại</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. This is a nightmare. -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>Tôi đã ăn thịt của một người khác, sống, như một con vật. Đây là một cơn ác mộng.</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>ăn thịt đồng loại</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. It was so... succulent. -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>Tôi đã ăn thịt của một người khác, sống, như một con vật. Thật là... mọng nước.</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  
+  <!-- EN: ate cooked insect meat -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>ăn thịt côn trùng đã nấu</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  <!-- EN: I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify. -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>Tôi đã ăn một bữa ăn nấu từ thịt côn trùng màu xám, nhầy nhụa. Gia vị một phần bao phủ hương vị, nhưng có những tuyến và túi chất lỏng trong đó tôi không thể xác định được.</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+  
+  <!-- EN: ate insect meat -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.label>ăn thịt côn trùng</AteInsectMeatDirect.stages.ate_insect_meat.label>
+  <!-- EN: I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted. -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.description>Tôi đã ăn một ít thịt côn trùng màu xám, nhầy nhụa. Đó có thể là thứ kinh tởm nhất tôi từng nếm.</AteInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  <!-- EN: ate kibble -->
+  <AteKibble.stages.ate_kibble.label>ăn kibble</AteKibble.stages.ate_kibble.label>
+  <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
+  <AteKibble.stages.ate_kibble.description>Tôi đã phải ăn thứ thức ăn dành cho động vật. Giống như tôi không còn là con người nữa.</AteKibble.stages.ate_kibble.description>
+  
+  <!-- EN: ate lavish meal -->
+  <AteLavishMeal.stages.ate_lavish_meal.label>bữa ăn xa xỉ</AteLavishMeal.stages.ate_lavish_meal.label>
+  <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
+  <AteLavishMeal.stages.ate_lavish_meal.description>Bữa ăn xa hoa đó thật tuyệt vời. Nó nuôi dưỡng cơ thể và tâm hồn tôi.</AteLavishMeal.stages.ate_lavish_meal.description>
+  
+  <!-- EN: ate raw food -->
+  <AteRawFood.stages.ate_raw_food.label>ăn thực phẩm thô</AteRawFood.stages.ate_raw_food.label>
+  <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
+  <AteRawFood.stages.ate_raw_food.description>Tôi đã phải ăn thức ăn thô. Chúng ta nên nấu loại thực phẩm đó trước khi ăn nó. Chúng ta không phải động vật.</AteRawFood.stages.ate_raw_food.description>
+  
+  <!-- EN: ate rotten food -->
+  <AteRottenFood.stages.ate_rotten_food.label>ăn thức ăn thối</AteRottenFood.stages.ate_rotten_food.label>
+  <!-- EN: I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way. -->
+  <AteRottenFood.stages.ate_rotten_food.description>Tôi đã ăn một số thức ăn kinh tởm Nó đang tan chảy trong miệng tôi - nhưng không phải là một cách tốt.</AteRottenFood.stages.ate_rotten_food.description>
+  
+</LanguageData>

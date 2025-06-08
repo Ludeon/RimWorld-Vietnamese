@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>kén ngủ đông cổ đại</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>Loại kén ngủ đông cổ đại tồn tại từ rất lâu về trước. Ai mà biết bên trong nó chứa gì?</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>điểm tập hợp lữ đoàn</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Chỉ định điểm để tập hợp lữ đoàn. Có thể đặt cạnh nhà kho để tăng tốc quá trình chất hàng.</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>trạm liên lạc</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Dùng sóng radio để liên lạc với băng nhóm khác và phi thuyền giao thương.</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>Triệu hồi mối đe dọa diabolus</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>buồng ngủ đông</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Một dạng quan tài tự hoạt được thiết kế để tạm dừng mọi hoạt động sống của người nằm bên trong qua nhiều năm.</CryptosleepCasket.description>
+  
+  <!-- EN: delayed effecter spawner -->
+  <DelayedEffecterSpawner.label>TODO</DelayedEffecterSpawner.label>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>hộp đựng trứng</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Một chiếc hộp bằng chất liệu mềm được làm để đựng trứng. Động vật đẻ trứng sẽ đẻ trứng trong hộp trứng nếu chúng có thể. Người đánh trứng của bạn sẽ chỉ lấy tất cả trứng ra khi hộp đã đầy, để tiết kiệm thời gian. Hộp cũng bảo vệ trứng khỏi hư hỏng ngoài trời, mặc dù nó không bảo vệ khỏi tác hại của nhiệt độ.</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>tháp chống cháy</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Khi phát hiện có đám cháy trong vùng bảo vệ, nó sẽ tự động phun ra bột chữa cháy ra xung quanh nó. Có thể kích hoạt thủ công.</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Bật tháp chống cháy.</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>mộ đất</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Nơi an nghỉ cuối cùng của một người. cư dân sẽ đến thăm những ngôi mộ đã đắp để cải thiện tinh thần giải trí của họ.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>máy quét tầng sâu</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>Ra-đa chuyên dụng được kết hợp từ máy quét tàu ngầm và máy dò kim loại, cho phép quét qua bề mặt hành tinh để tìm kiếm (nhưng không thể xác định) tài nguyên nằm dưới mặt đất. Cần lượng lớn năng lượng để vận hành.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>máy quét tài nguyên tầm xa</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>Dùng để quét các trầm tích tài nguyên ẩn trong lớp đá trên bề mặt. Mỗi 30 ngày, 1 ụ tài nguyên có thể được phát hiện ra trong bán kính 30 ô vuông. Xây chồng lên nhau không làm tăng tốc độ hay tỷ lệ tìm thấy tài nguyên.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>điểm kết hôn</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Chỉ định địa điểm sẽ diễn ra lễ kết hôn. Khán giả có thể đứng ở cả 2 bên để tham gia.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>bơm bằng ẩm</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Chầm chậm cân bằng độ ẩm các ô đất xung quanh, từ đó chuyển dần đầm lầy hoặc nước nông thành đất khô, còn cát mềm sẽ chuyển thành cát thương. Không thể hút ẩm ô nước sâu được.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>máy phân tích đa dụng</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Tăng tốc độ nghiên cứu khi đặt gần bàn nghiên cứu công nghệ cao và mở khóa dự án công nghệ khác. Mỗi bàn nghiên cứu chỉ có thể dùng một máy phân tích đa dụng.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>đèn hiệu giao thương không gian</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Đèn hiệu dùng để giao thương với các phi thuyền giao thương. Bạn chỉ có thể bán vật phẩm nằm trong bán kính bao phủ của đèn hiệu. Có thể đặt trong phòng kín.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>điểm vui chơi</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Chỉ định điểm các bữa tiệc sẽ diễn ra.</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>khu chỉ định động vật</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>Một khu vực chỉ định động vật. Nó phải được đặt trong khu vực có hàng rào, rào chắn, tường và cửa ra vào. Bạn có thể gán cho mỗi "khu chỉ định động vật" một tập hợp các con vật để chấp nhận và người xử lý sẽ đưa các con vật đến vị trí thích hợp.</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>bệ phóng</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Bệ phóng các kén vận chuyển. Bệ phóng có thể gộp lại thành nhóm để phóng cùng lượt, tuy nhiên các bệ phóng phải được đặt liền kề nhau.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>quan tài</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Một quan tài được chạm khắc tinh xảo để tưởng nhớ người đã khuất.</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>tấm bia khổng lồ</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>Một tấm bia cao chót vót với các bản khắc rộng rãi ở hai bên. Các tấm bia đã được sử dụng từ thời cổ đại để tưởng niệm các cá nhân, trong các trận chiến và các sự kiện quan trọng khác.</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>tấm bia lớn</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>Một tấm bia cao, dày với các bản khắc ở hai bên. Các tấm bia đã được sử dụng từ thời cổ đại để tưởng niệm các cá nhân, trận chiến và các sự kiện quan trọng khác.</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>tủ đồ nghề</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>Tăng tốc độ làm việc cho tất cả các bàn làm việc gần đó. Mỗi bàn làm việc có thể hưởng lợi từ tối đa 2 tủ đồ nghề.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>kén vận chuyển</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Một kén vận chuyển có khả năng vận chuyển người, vật phẩm hoặc động vật. Có thể dùng để gửi quà tặng, vận chuyển người hoặc viện trợ, đột kích hoặc tăng viện cho trận chiến đang diễn ra.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>điện tâm đồ</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Tăng chất lượng y tế, tỷ lệ phẫu thuật thành công và tốc độ tạo miễn dịch khi đặt cạnh giường viện xá. Chỉ có hiệu quả đối với giường viện xá - giường thường sẽ không được hưởng lợi gì. Mỗi giường y tế chỉ có thể nhận hiệu ứng từ một máy điện tâm đồ.</VitalsMonitor.description>
+  
+</LanguageData>

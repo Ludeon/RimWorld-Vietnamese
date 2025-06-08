@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: Trading animal products bonus -->
+  <TradingAnimalProduceBonus>Thưởng giao dịch sản phẩm động vật</TradingAnimalProduceBonus>
+  <!-- EN: Slaves -->
+  <SlavesSection>Nô lệ</SlavesSection>
+  <!-- EN: dominant style -->
+  <DominantStyle>Phong cách chủ đạo</DominantStyle>
+  <!-- EN: Date -->
+  <Date>Ngày</Date>
+  <!-- EN: The following development points will be awarded depending on the ritual outcome -->
+  <RitualDevelopmentPointRewards>Các điểm phát triển sau sẽ được trao tùy thuộc vào kết quả của nghi lễ</RitualDevelopmentPointRewards>
+  <!-- EN: Use global style -->
+  <UseGlobalStyle>Sử dụng kiểu chung</UseGlobalStyle>
+  <!-- EN: No style variations available -->
+  <NoStylesAvailable>Không có biến thể phong cách nào</NoStylesAvailable>
+
+  <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
+  <ChooseStructureMemesInfo>Chọn cấu trúc biểu tượng cho tín ngưỡng của bạn. Điều này ảnh hưởng đến các biểu tượng - nó không ảnh hưởng đến lối chơi.</ChooseStructureMemesInfo>
+  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
+  <ChooseNormalMemesInfo>Chọn biểu tượng {0}-{1} để hình thành các tín ngưỡng nền tảng của biểu tượng này. Một số trong số này có tác động đến lối chơi nhiều hơn những cái khác.</ChooseNormalMemesInfo>
+  <!-- EN: Choose at least {0} meme. -->
+  <NotEnoughMemes>Chọn ít nhất {0} biểu tượng</NotEnoughMemes>
+  <!-- EN: Choose at most {0} memes. -->
+  <TooManyMemes>Chọn nhiều nhất {0} biểu tượng</TooManyMemes>
+  <!-- EN: Choose structure. -->
+  <ChooseStructureMeme>Chọn kết cấu.</ChooseStructureMeme>
+  <!-- EN: {0_label} and {1_label} are incompatible. -->
+  <IncompatibleMemes>{0_label} và {1_label} không tương thích.</IncompatibleMemes>
+  <!-- EN: Some of these have much more gameplay impact than others. -->
+  <SomeMemesHaveMoreImpact>Một trong số này se có tác động đến lối chơi nhiều hơn những cái khác.</SomeMemesHaveMoreImpact>
+  <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
+  <ChooseNormalMemesFluidIdeoInfo>Chọn một biểu tượng để hình thành ý tưởng ban đầu về tín ngưỡng này. Bạn sẽ thêm nhiều biểu tượng hơn khi tín ngưỡng phát triển theo thời gian.</ChooseNormalMemesFluidIdeoInfo>
+  <!-- EN: Choose a meme or remove a meme. -->
+  <ChooseOrRemoveMeme>Chọn biểu tượng hoặc xóa biểu tượng.</ChooseOrRemoveMeme>
+  <!-- EN: Reset changes -->
+  <ReformIdeoResetChanges>Đặt lại thay đổi</ReformIdeoResetChanges>
+  <!-- EN: Choose {0} meme. -->
+  <NotEnoughMemesFluidIdeo>Chọn biểu tượng {0}.</NotEnoughMemesFluidIdeo>
+
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>{0} sẽ sắp xếp lại ngẫu nhiên mọi giới luật bạn đã chỉnh sửa.\n\nBạn có muốn tiếp tục không?</ChangesRandomizePrecepts>
+  <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
+  <ChangesRemovePrecepts>Các giới luật sau không tương thích với lựa chọn biểu tượng mới này và sẽ bị xóa:\n\n{0}\n\nBạn có muốn tiếp tục không?</ChangesRemovePrecepts>
+  
+  <!-- EN: Room requirements -->
+  <RoomRequirements>Yêu cầu về phòng</RoomRequirements>
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
+  <ConfirmChangeMemesForFluidIdeo>tín ngưỡng bạn đang tải có các biểu tượng không tương thích với một tín ngưỡng đơn giản mới và các biểu tượng của nó sẽ cần được chọn lại (các idoligion đơn giản chỉ có thể bắt đầu bằng một biểu tượng có tác động thấp).</ConfirmChangeMemesForFluidIdeo>
+  <!-- EN: The following memes are incompatible -->
+  <ConfirmIncompatibleMemes>Các biểu tượng sau không tương thích</ConfirmIncompatibleMemes>
+  <!-- EN: Would you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeoContinue>Bạn có muốn tiếp tục không?</ConfirmChangeMemesForFluidIdeoContinue>
+
+  <!-- EN: role -->
+  <Role>vai trò</Role>
+  <!-- EN: Assign role -->
+  <ChooseRole>Phân công vai trò</ChooseRole>
+  <!-- EN: Choose new role -->
+  <ChooseNewRole>Chọn vai trò mới</ChooseNewRole>
+  <!-- EN: No role assigned -->
+  <NoRoleAssigned>Vai trò không được phân công</NoRoleAssigned>
+  <!-- EN: Children cannot take on roles -->
+  <ChildNoRoleAssigned>Trẻ em không thể đảm nhận vai trò</ChildNoRoleAssigned>
+  <!-- EN: Remove {0} role -->
+  <RemoveRole>Xóa vai trò {0}</RemoveRole>
+  <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
+  <ChooseRoleConfirmAssign>Bạn sắp giao vai trò của {ROLE_labelDef} cho {PAWN_labelShort}.</ChooseRoleConfirmAssign>
+  <!-- EN: Are you sure? -->
+  <ChooseRoleConfirmAssignPostfix>Bạn chắc chứ?</ChooseRoleConfirmAssignPostfix>
+  <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} hiện đang giữ vai trò này và sẽ không vui khi mất nó.</ChooseRoleConfirmAssignReplace>
+  <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} hiện đang giữ vai trò của {ROLE_label} và sẽ không vui nếu mất nó.</ChooseRoleConfirmAssignHasOtherRole>
+  <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
+  <ChooseRoleConfirmAssignReplaceLeader>Chỉ có thể có một nhà lãnh đạo. Diều này sẽ loại bỏ {PAWN_labelShort} khỏi vai trò {OTHERROLE_labelDef} của họ, điều này khiến {PAWN_objective} khó chịu.</ChooseRoleConfirmAssignReplaceLeader>
+  <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
+  <ChooseRoleConfirmUnassign>Bạn sắp loại bỏ {PAWN_labelShort} khỏi vai trò của {ROLE_labelIndef}. Diều này sẽ làm phiền {PAWN_objective}.</ChooseRoleConfirmUnassign>
+  <!-- EN: {PAWN_labelShort} will gain the following abilities -->
+  <ChooseRoleListAbilities>{PAWN_labelShort} sẽ đạt được những khả năng sau</ChooseRoleListAbilities>
+  <!-- EN: The {ROLE_label} role requires the following apparel -->
+  <ChooseRoleListApparelDemands>Vai trò {ROLE_label} yêu cầu trang phục sau</ChooseRoleListApparelDemands>
+  <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} sẽ từ chối làm những laoij công việc này</ChooseRoleListWorkTypeRestrictions>
+  <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
+  <ChooseRoleHint>Đôi khi sẽ tốt hơn nếu chỉ định vai trò sau khi thuộc địa tốt hơn.</ChooseRoleHint>
+  <!-- EN: Unlocked by -->
+  <UnlockedByMeme>Mở khóa bởi</UnlockedByMeme>
+  <!-- EN: Origin -->
+  <Origin>TODO</Origin>
+  <!-- EN: Unlocked roles -->
+  <MemeUnlocksRoles>Mở khóa vai trò</MemeUnlocksRoles>
+  <!-- EN: Unlocked rituals -->
+  <MemeUnlocksRituals>Mở khóa nghi thức</MemeUnlocksRituals>
+  <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
+  <ChooseRoleRequiredWorkTagsDisabled>CẢNH BÁO: {PAWN_nameDef} không thể thực hiện công việc cần thiết cho vai trò của {ROLE_label}. Nếu bạn chọn giao cho {PAWN_objective} vai trò này, {PAWN_pronoun} có thể khống sử dụng được các khả năng liên kết với {ROLE_label}. Các loại công việc còn thiếu là</ChooseRoleRequiredWorkTagsDisabled>
+  <!-- EN: Leader bonus -->
+  <YourLeaderTradeBonus>Tiền thưởng lãnh đạo</YourLeaderTradeBonus>
+  <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
+  <CannotNotAddRoleApparelDueToMeme>Biểu tượng {MEME} ngăn cản việc thêm các yêu cầu về trang phục vào các vai trò.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>không thể mặc với {0_label}</CannotBeWornWith>
+
+  <!-- EN: Certainty reduction -->
+  <AbilityIdeoConvertBreakdownLabel>Giảm độ bền</AbilityIdeoConvertBreakdownLabel>
+  <!-- EN: Using {ABILITY} ability -->
+  <AbilityIdeoConvertBreakdownUsingAbility>Sử dụng khả năng {ABILITY}</AbilityIdeoConvertBreakdownUsingAbility>
+  <!-- EN: {PAWN_labelShort}'s conversion power -->
+  <AbilityIdeoConvertBreakdownConversionPower>Thay đổi sức mạnh của {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
+  <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Yếu tố chắc chắc mất của {PAWN_labelShort} từ {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} là {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <!-- EN: Trait {TRAIT} -->
+  <AbilityIdeoConvertBreakdownTrait>Nét tiêu biểu {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
+  <!-- EN: {RELICCOUNT} installed relics on map -->
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} di tích được cài đặt trên bản đồ</AbilityIdeoConvertBreakdownRelic>
+  <!-- EN: {PAWN_labelShort}'s social skill -->
+  <AbilityIdeoConvertBreakdownSocialSkill>Kỹ năng đặc biệt của {PAWN_labelShort}</AbilityIdeoConvertBreakdownSocialSkill>
+  <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
+  <AbilityIdeoConvertBreakdownOpinion>Ý kiến của {RECIPIENT_labelShort} về {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <!-- EN: {PAWN_nameDef}'s ideoligion -->
+  <AbilityIdeoConvertBreakdownPawnIdeo>Tín ngưỡng của {PAWN_labelDef}</AbilityIdeoConvertBreakdownPawnIdeo>
+  <!-- EN: {MEME} vs {TRAIT} trait -->
+  <AbilityIdeoConvertBreakdownMemeVsTrait>Đặc điểm {MEME} với {TRAIT}</AbilityIdeoConvertBreakdownMemeVsTrait>
+
+  <!-- EN: {PAWN_labelShort} was already counselled recently. -->
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} đã được tư vấn gần đây.</AbilityCantApplyAlreadyCounselled>
+
+  <!-- EN: Reform... -->
+  <ReformIdeo>Cải cách...</ReformIdeo>
+  <!-- EN: Reform ideoligion -->
+  <ReformIdeoligion>Cải cách tín ngưỡng</ReformIdeoligion>
+  <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
+  <ReformIdeoligionDesc>Cải cách tín ngưỡng của bạn bằng cách thay đổi cấu trúc, biểu tượng hoặc kiểu của nó.</ReformIdeoligionDesc>
+  <!-- EN: Change styles -->
+  <ReformIdeoChangeStyles>Thay đổi phong cách</ReformIdeoChangeStyles>
+  <!-- EN: Add or remove a meme -->
+  <ReformIdeoAddOrRemoveMeme>Thêm hoặc bớt biểu tượng</ReformIdeoAddOrRemoveMeme>
+  <!-- EN: Add a meme -->
+  <ReformIdeoAddMeme>Thêm một biểu tượng</ReformIdeoAddMeme>
+  <!-- EN: Choose one -->
+  <ReformIdeoChooseOneChange>Chọn một</ReformIdeoChooseOneChange>
+  <!-- EN: Change structure -->
+  <ReformIdeoChangeStructure>Thay đổi cấu trúc</ReformIdeoChangeStructure>
+  <!-- EN: Change any of the following -->
+  <ReformIdeoChangeAny>Thay đổi bất kỳ điều nào sau đây</ReformIdeoChangeAny>
+  <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
+  <ReformIdeoRelicHuntQuestEnd>Di tích {0} sẽ không được những cư dân thuộc địa của bạn tôn kính sau khi cải cách biểu tượng này. Vì nhiệm vụ '{0}' đang tìm kiếm di tích này nên nó sẽ bị vô hiệu hóa.</ReformIdeoRelicHuntQuestEnd>
+  <!-- EN: The ritual {0} is in progress and will be cancelled. -->
+  <ReformIdeoCancelRituals>Nghi thức {0} đang diễn ra và sẽ bị hủy.</ReformIdeoCancelRituals>
+  <!-- EN: Do you wish to continue? -->
+  <ReformIdeoContinue>Bạn có muốn tiếp tục không?</ReformIdeoContinue>
+
+  <!-- Slavery -->
+  <!-- EN: Slave -->
+  <CannotAssignBedToSlave>Nô lệ</CannotAssignBedToSlave>
+  <!-- EN: Colonist -->
+  <CannotAssignBedToColonist>Cư dân</CannotAssignBedToColonist>
+  <!-- EN: Any slave -->
+  <AnySlave>Bất kỳ nô lệ nào</AnySlave>
+  <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} từ chối bán mọi người làm nô lệ theo niềm tin của {0_possessive}.</NegotiatorWillNotTradeSlaves>
+  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
+  <NegotiatorWillNotTradeSlavesTip>Người đàm phán, {0_nameDef}, sẽ không đưa mọi người trở thành nô lệ do {0_possessive} tin vào {1}.\n\nChú ý rằng {0_nameDef} sẵn sàng chuộc một người nào đó về phe của họ, nhưng không sẵn sàng bán ai đó đến một phe khác.</NegotiatorWillNotTradeSlavesTip>
+
+  <!-- EN: Last human meat -->
+  <LastHumanMeat>Thịt người cuối cùng</LastHumanMeat>
+  <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
+  <LastHumanMeatDesc>Vì {PAWN_possessive} tin vào {IDEO_name}, {PAWN_nameDef} sẽ trở nên không vui nếu {PAWN_pronoun} đã hơn {DURATION} ngày mà không ăn thịt người.</LastHumanMeatDesc>
+
+  <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
+  <ExectueNeutralFactionSlave>Việc thực thi {PAWN_labelShort} sẽ ảnh hưởng tiêu cực đến quan hệ với {FACTION_name}.</ExectueNeutralFactionSlave>
+
+  <!-- EN: You must assign at least one non-slave colonist who can walk. -->
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Bạn phỉa chỉ định ít nhất một người dân không phải là nô lệ có thể đi lại.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <!-- EN: You must leave at least non-slave colonist who can walk. -->
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Bạn phải để lại ít nhất một người không là nô lệ có thể đi lại.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+
+  <!-- Style -->
+  <!-- EN: Style -->
+  <StylePawn>Phong cách</StylePawn>
+  <!-- EN: hair -->
+  <Hair>tóc</Hair>
+  <!-- EN: beard -->
+  <Beard>râu</Beard>
+  <!-- EN: face tattoo -->
+  <TattooFace>hình xăm mặt</TattooFace>
+  <!-- EN: body tattoo -->
+  <TattooBody>hình xăm cơ thể</TattooBody>
+  <!-- EN: apparel color -->
+  <ApparelColor>Màu trang phục</ApparelColor>
+  <!-- EN: hair color -->
+  <HairColor>màu tóc</HairColor>
+  <!-- EN: Show headgear -->
+  <ShowHeadgear>Hiện mũ đội đầu</ShowHeadgear>
+  <!-- EN: Show apparel -->
+  <ShowApparel>Hiện trang phục</ShowApparel>
+  <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
+  <PawnUnhappyWithStyleItems>{PAWN_labelDef} sẽ không hài lòng với những điều sau đây</PawnUnhappyWithStyleItems>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescription>Danh mục phong cách ảnh hưởng đến giao diện của một số tòa nhà, trang phục và vũ khí do {IDEO_memberNamePlural} sản xuất. Nếu nhiều danh mục ảnh hưởng đến cùng một thứ, danh mục ngoài cùng bên trái sẽ được áp dụng.</StyleCategoryDescription>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescriptionAbstract>Danh mục phong cách ảnh hưởng đến diện mạo của một số tòa nhà, quần áo và vũ khí do thuộc địa của bạn chế tạo. Nếu nhiều danh mục ảnh hưởng đến cùng một thứ, danh mục ngoài cùng bên trái sẽ được áp dụng.</StyleCategoryDescriptionAbstract>
+  <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} sẽ rất vui nếu hị nhận thấy các tòa nhà, sàn nhà và các tác phẩm nghệ thuật phù hợp với phong cách này.</StyleCategoryDescStyleDominance>
+  <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominanceAbstract>Các thành viên tín ngưỡng sẽ rất vui nếu họ nhận thấy các tòa nhà, tầng và tác phẩm nghệ thuật phù hợp với phong cách này.</StyleCategoryDescStyleDominanceAbstract>
+  <!-- EN: {0} style category affects -->
+  <StyleCategoryDetails>{0} thể loại phong cách ảnh hưởng đến</StyleCategoryDetails>
+  <!-- EN: Overriden by {0} -->
+  <OverriddenByStyle>Bị ghi đè bởi {0}</OverriddenByStyle>
+  <!-- EN: New buildables -->
+  <IdeoMakesBuildingBuildable>Vật liệu xây dựng mới</IdeoMakesBuildingBuildable>
+  <!-- EN: none usable for {PAWN_nameDef} -->
+  <NoneUsableForPawn>không sử dụng cho {PAWN_nameDef}</NoneUsableForPawn> 
+  <!-- EN: Hair and beards -->
+  <HairAndBeards>Tóc và râu</HairAndBeards>
+  <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
+  <HairAndBeardsDesc>Các cài đặt này xác định tần suất mỗi kiểu xuất hiện trên các thành viên của tín ngưỡng.</HairAndBeardsDesc>
+  <!-- EN: Tattoos -->
+  <Tattoos>Hình xăm</Tattoos>
+  <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
+  <TattoosDesc>Các cài đặt này xác định tần suất mỗi hình xăm xuất hiện trên các thành viên của tín ngưỡng.</TattoosDesc>
+  <!-- EN: Never -->
+  <StyleItemFrequencyNever>Không bao giờ</StyleItemFrequencyNever>
+  <!-- EN: Rare -->
+  <StyleItemFrequencyRare>Hiếm khi</StyleItemFrequencyRare>
+  <!-- EN: Uncommon -->
+  <StyleItemFrequencyUncommon>Không phổ biến</StyleItemFrequencyUncommon>
+  <!-- EN: Normal -->
+  <StyleItemFrequencyNormal>Bình thường</StyleItemFrequencyNormal>
+  <!-- EN: Common -->
+  <StyleItemFrequencyCommon>Phổ biến</StyleItemFrequencyCommon>
+  <!-- EN: Frequent -->
+  <StyleItemFrequencyFrequent>Thường xuyên</StyleItemFrequencyFrequent>
+  <!-- EN: Edit appearance -->
+  <EditAppearanceItems>Chỉnh sửa ngoại hình</EditAppearanceItems>
+  <!-- EN: {0} in use -->
+  <NumAvailable>{0} đang dùng</NumAvailable>
+  <!-- EN: Resets all style items to their default values. -->
+  <ResetButtonDesc>Đặt lại tất cả các mục về mặc định.</ResetButtonDesc>
+
+  <!-- Ancient complex mission -->
+  <!-- EN: Send shuttle anyway -->
+  <SendShuttleAnyway>Gửi tàu con thoi đi đón</SendShuttleAnyway>
+  <!-- EN: Re-load shuttle -->
+  <ReLoadShuttle>Tải lại tàu con thoi</ReLoadShuttle>
+
+  <!-- Medical settings -->
+  <!-- EN: Slaves -->
+  <MedGroupSlaves>TODO</MedGroupSlaves>
+  <!-- EN: Enslaved members of your colony. -->
+  <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
+
+  <!-- Dryad upgrades -->
+  <!-- EN: Choose dryad caste -->
+  <ChangeMode>Chọn loại tinh linh</ChangeMode>
+  <!-- EN: Required memes -->
+  <RequiredMemes>Biểu tượng bắt buộc</RequiredMemes>
+  <!-- EN: Required caste -->
+  <RequiredStage>Đẳng cấp bắt buộc</RequiredStage>
+  <!-- EN: Missing required memes -->
+  <MissingRequiredMemes>Thiếu biểu tượng bắt buộc</MissingRequiredMemes>
+  <!-- EN: Missing required caste -->
+  <MissingRequiredCaste>Thiếu đẳng cấp bắt buộc</MissingRequiredCaste>
+  <!-- EN: Already selected -->
+  <AlreadySelected>Đã được chọn</AlreadySelected>
+  <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
+  <ChooseProductionModeInitialDesc>Tại đây bạn có thể chọn loại tinh linh mà {TREE_label} tạo ra.\n\nTinh linh sẽ chui ra từ các quả mọc ở gốc cây. Số lượng tối đa của nữ thần được dựa trên độ liên kết giữa {TREE_definite} và người được liên kết.</ChooseProductionModeInitialDesc>
+
+  <!-- Archonexus -->
+  <!-- EN: Choose who to convert to your ideoligion -->
+  <ChooseColonistsForIdeoTitle>Chọn người để đổi sang tín ngưỡng của bạn</ChooseColonistsForIdeoTitle>
+  <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
+  <ChooseColonistsForIdeoDesc>Bạn có thể chuyển đổi mọi người sang tín ngưỡng của chính mình khi thiết lập một thuộc địa mới.</ChooseColonistsForIdeoDesc>
+  <!-- EN: New Colony -->
+  <ChooseThingsForNewColonyTitle>Thuộc địa mới</ChooseThingsForNewColonyTitle>
+  <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
+  <ChooseThingsForNewColonyDesc>Chọn những người cư dân, động vật và di vật để mang đến thuộc địa mới.</ChooseThingsForNewColonyDesc>
+  <!-- EN: Choose up to {0} {1}. -->
+  <ChooseThingsDesc>Chọn tối đa {0} {1}.</ChooseThingsDesc>
+  <!-- EN: Choose up to {0} people. -->
+  <ChoosePeopleDesc>Chọn tối đa {0} người.</ChoosePeopleDesc>
+  <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
+  <ChooseOnlySlavesInfo>Nếu bạn chỉ chọn nô lệ, bạn sẽ đóng vai họ như người dân ở thuộc địa tiếp theo.</ChooseOnlySlavesInfo>
+  <!-- EN: Confirm decisions -->
+  <ConfirmDecisionsTitle>Xác nhận các quyết định</ConfirmDecisionsTitle>
+  <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
+  <ShipEscapeWillEndDescription>Phi thuyền ngủ đông được báo cáo bởi AI (*Name)Charlon Whitestone (/Name) sẽ bay đi vào thời điểm thuộc địa mới được thành lập. Sẽ không còn có thể thoát khỏi hành tinh bằng cách du hành đến con tàu này.</ShipEscapeWillEndDescription>
+  <!-- EN: No relic was chosen to be brought to the new colony. -->
+  <ArchonexusRelicNotChosen>Không có di tích nào được chọn để đưa đến thuộc địa mới.</ArchonexusRelicNotChosen>
+  <!-- EN: {0} out of a possible {1} items were selected to be brought to the new colony. -->
+  <ArchonexusItemsNotChosen>{0} trong số {1} mục có thể đã được chọn để đưa đến thuộc địa mới.</ArchonexusItemsNotChosen>
+  <!-- EN: The colony's purchasers will only allow you to take one relic. Any other relics will be left behind (even if equipped by a colonist), including: -->
+  <RemoveEquippedRelicsDescription>Những người mua thuộc địa sẽ chỉ cho phép bạn lấy một di vật. Bất kỳ di tích nào không được chọn sẽ bị bỏ lại, bao gồm:</RemoveEquippedRelicsDescription>
+  <!-- EN: Would you like to proceed? Past this point, there's no going back. -->
+  <WantToProceed>Bạn có muốn tiếp tục không?</WantToProceed>
+  <!-- EN: Convert -->
+  <ConvertToPlayerIdeoligion>Hoán đổi</ConvertToPlayerIdeoligion>
+  <!-- EN: Revert -->
+  <RevertToPreviousIdeoligion>Hoàn đổi</RevertToPreviousIdeoligion>
+  <!-- EN: Existing follower -->
+  <ExistingFollowerOfPlayerIdeoligion>Người theo dõi hiện tại</ExistingFollowerOfPlayerIdeoligion>
+  <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
+  <AbandonArchotechStructuresWarningDialog>Bạn đnag từ bỏ một trang chứa các cấu trúc công nghệ mà bạn chưa nghiên cứu đầy đủ.\n\nBạn có thể đặt lại ở đây sau, nhưng thuộc địa của bạn sẽ bị xóa sạch.</AbandonArchotechStructuresWarningDialog>
+  <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
+  <ItemQuantityTooltip>{0} số lượng có thể được mang đến thuộc địa mới.\n\nSố lượng tối đa cho phép là: {1}</ItemQuantityTooltip>
+  <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
+  <SoldColonyDescription>Thuộc địa của bạn đã được bán. Người mua của nó đã sẵn sàng để bạn chọn nơi hạ cánh tiếp theo.</SoldColonyDescription>
+
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
+  <ConfirmHackEnenyTerminal>Việc tấn công {0} này sẽ cảnh báo kẻ thù và khiến chúng tấn công. Có thực sự muốn tấn công {0} không?</ConfirmHackEnenyTerminal>
+
+  <!-- EN: Relics -->
+  <RelicsSection>Di tích</RelicsSection>
+
+  <!-- Food restrictions -->
+  <!-- EN: Vegetarian -->
+  <FoodRestrictionVegetarian>Đồ chay</FoodRestrictionVegetarian>
+  <!-- EN: Carnivore -->
+  <FoodRestrictionCarnivore>Ăn thịt</FoodRestrictionCarnivore>
+  <!-- EN: Cannibal -->
+  <FoodRestrictionCannibal>Ăn thịt người</FoodRestrictionCannibal>
+  <!-- EN: Insect meat -->
+  <FoodRestrictionInsectMeat>Thịt côn trùng</FoodRestrictionInsectMeat>
+
+  <!-- EN: Styles in use -->
+  <StylesInUse>Phong cách sử dụng</StylesInUse>
+  <!-- EN: Add a style. -->
+  <StyleCategoryAddDesc>Thêm một phong cách.</StyleCategoryAddDesc>
+</LanguageData>

@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Shamblers -->
+  <!-- EN: Regenerating to rise again. -->
+  <ShamblerRegenerating>Đang hồi sinh để trỗi dậy trở lại.</ShamblerRegenerating>
+  <!-- EN: Rising. -->
+  <ShamblerRising>Đang trỗi dậy.</ShamblerRising>
+  <!-- EN: Standing listlessly. -->
+  <ShamblerStanding>Đứng vô hồn.</ShamblerStanding>
+  <!-- EN: Shuffling listlessly. -->
+  <ShamblerShuffling>Di chuyển chậm chạp.</ShamblerShuffling>
+  <!-- EN: Be careful, the group contains a shambler gorehulk. -->
+  <LetterText_ShamblerGorehulk>Cẩn thận! Trong đám đó có gorehulk.</LetterText_ShamblerGorehulk>
+  <!-- EN: Be careful, the group contains several shambler gorehulks. -->
+  <LetterText_ShamblerGorehulkPlural>Cẩn thận! Trong đám đó có nhiều gorehulk.</LetterText_ShamblerGorehulkPlural>
+  <!-- EN: Be careful, the group contains a shambler chimera. -->
+  <LetterText_ShamblerChimera>Cẩn thận! Trong đám đó có Chimera Shambler.</LetterText_ShamblerChimera>
+  <!-- EN: Be careful, the group contains several shambler chimeras. -->
+  <LetterText_ShamblerChimeraPlural>Cẩn thận! Trong đám đó có nhiều Chimera Shambler.</LetterText_ShamblerChimeraPlural>
+
+  <!-- EN: Non-humans cannot participate in rituals. -->
+  <MessageRitualCannotBeMutant>Sinh vật đột biến không thể tham gia nghi lễ.</MessageRitualCannotBeMutant>
+
+  <!-- Revenant -->
+  <!-- EN: Revenant attack -->
+  <LetterLabelRevenantRevealed>revenant xuất hiện</LetterLabelRevenantRevealed>
+  <!-- EN: A revenant has revealed itself! -->
+  <LetterRevenantRevealed>Một revenant vừa hiện hình!</LetterRevenantRevealed>
+  <!-- EN: A revenant has revealed itself and is hunting one of your colonists! -->
+  <LetterRevenantRevealedFirst>revenant lộ diện và đang truy đuổi một thực dân của bạn!</LetterRevenantRevealedFirst> 
+  <!-- EN: Revenant smear discovered -->
+  <LetterLabelRevenantSmearDiscovered>Dấu vết revenant</LetterLabelRevenantSmearDiscovered>
+  <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
+  <LetterRevenantSmearDiscovered>{0} phát hiện vệt đen trên mặt đất. Nó trông không tự nhiên và tỏa ra mùi hôi thối khó chịu. Dấu vết vẫn còn mới. Một thực thể ma quái vừa đi qua đây.</LetterRevenantSmearDiscovered>
+  <!-- EN: Revenant killed -->
+  <LetterLabelRevenantKilled>revenant bị tiêu diệt</LetterLabelRevenantKilled>
+  <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
+  <LetterRevenantKilled>revenant đã chết! Những người bị thôi miên sẽ tỉnh lại.\n\nXác của nó đã tan biến, để lại phần xương sống. Bạn có thể thu thập và nghiên cứu nó, hoặc tiêu hủy.</LetterRevenantKilled>
+  <!-- EN: {PAWN_nameDef} hypnotized -->
+  <LetterLabelPawnHypnotized>{PAWN_nameDef} bị thôi miên</LetterLabelPawnHypnotized>
+  <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
+  <LetterPawnHypnotized>{PAWN_nameDef} đã bị thôi miên bởi revenant và đang mê sảng về những hình ảnh và ý niệm ác mộng.\n\nTiêu diệt revenant sẽ giải trừ trạng thái thôi miên.\n\nrevenant dùng năng lực tâm linh để thay đổi nhận thức những người xung quanh, khiến bản thân nó tàng hình. Tuy nhiên, ta vẫn có thể truy lùng nó theo dấu vết đen mà nó để lại. revenant sẽ lộ hình nếu trúng bom, bọt chữa cháy, EMP, lửa hoặc pháo sáng.\n\nNếu không bị giết, revenant sẽ tiếp tục thôi miên thêm nhiều nạn nhân mới.</LetterPawnHypnotized>
+  <!-- EN: Revenant flesh chunk -->
+  <LetterRevenantFleshChunkLabel>Mảnh thịt revenant</LetterRevenantFleshChunkLabel>
+  <!-- EN: The wounded revenant left behind a piece of itself. You can analyze this flesh chunk to learn how to track the revenant. -->
+  <LetterRevenantFleshChunkText>revenant bị thương đã để lại một mảnh cơ thể. Bạn có thể phân tích mảnh thịt này để tìm cách lần theo dấu vết của nó</LetterRevenantFleshChunkText>
+  <!-- EN: Revenant seen -->
+  <LetterRevenantSeenLabel>revenant bị phát hiện</LetterRevenantSeenLabel>
+  <!-- EN: {PAWN_nameDef} has seen a hiding revenant! -->
+  <LetterRevenantSeen>{PAWN_nameDef} đã thấy một revenant đang ẩn nấp!</LetterRevenantSeen>
+  <!-- EN: In trance. -->
+  <InTrance>Trong trạng thái thôi miên</InTrance>
+  <!-- EN: Revenant emergence -->
+  <LetterLabelRevenantEmergence>revenant tái xuất</LetterLabelRevenantEmergence>
+  <!-- EN: The revenant has reemerged from the safety of its spine! Destroy it before it escapes.\n\nIn the process, the revenant has mutated and adopted a new biosignature. -->
+  <LetterRevenantEmergence>revenant đã tái xuất từ xương sống của nó! Hãy tiêu diệt nó trước khi nó trốn thoát.\n\nTrong quá trình trú ngụ, revenant đã đột biến và có dạng sinh học mới.</LetterRevenantEmergence>
+
+  <!-- Sightstealers -->
+  <!-- EN: Sightstealer revealed -->
+  <LetterLabelSightstealerRevealed>Kẻ cướp thị giác xuất hiện</LetterLabelSightstealerRevealed>
+  <!-- EN: A twisted creature has appeared out of thin air! -->
+  <LetterSightstealerRevealed>Sinh vật dị dạng đột ngột xuất hiện từ hư không!</LetterSightstealerRevealed>
+  <!-- EN: A sightstealer has appeared! -->
+  <MessageSightstealerRevealed>Kẻ cướp thị giác đã xuất hiện!</MessageSightstealerRevealed>
+  <!-- EN: Sightstealer shrieks -->
+  <LetterLabelSightstealerHowl>Tiếng hú Kẻ cướp thị giác</LetterLabelSightstealerHowl>
+  <!-- EN: Your colonists hear sightstealers shrieking in the distance.\n\nIt's hard to tell where they are or how many. They might arrive immediately or days from now. -->
+  <LetterSightstealerHowl>Thực dân nghe thấy tiếng hú Kẻ cướp thị giác vọng về từ nơi xa.\n\nKhó đoán định vị trí hoặc số lượng của chúng. Có thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowl>
+  <!-- EN: Sightstealer howling -->
+  <LetterLabelSightstealerHowlBig>Tiếng hú lớn Kẻ cướp thị giác</LetterLabelSightstealerHowlBig>
+  <!-- EN: Your colonists hear a huge number of distant sightstealers screaming in their twisted rage. They are coming.\n\nThey might arrive immediately, or days from now. -->
+  <LetterSightstealerHowlBig>Thực dân nghe thấy tiếng hú rợn người của vô số Kẻ cướp thị giác đang điên cuồng lao đến. Chắc chắn chúng đang tới.\n\nCó thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowlBig>
+
+  <!-- Death Pall -->
+  <!-- EN: Death pall clearing -->
+  <LetterLabelDeathPallEnded>màn sương chết chóc tan dần</LetterLabelDeathPallEnded> 
+  <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
+  <LetterDeathPallEnded>màn sương chết chóc đang tan biến. Những thi thể bị hồi sinh bởi nó sẽ nhanh chóng trở về trạng thái bình thường.</LetterDeathPallEnded>
+  
+  <!-- Pit Gate -->
+  <!-- EN: Pit gate closing -->
+  <LetterLabelGateClosing>Cổng vực thẳm đang khép lại.</LetterLabelGateClosing>
+  <!-- EN: The pit gate is closing! Its entrance is about to crumble.\n\nThe pit gate entrance was unstable from the start and is finally sealing itself. -->
+  <LetterGateClosing>Cổng vực thẳm đang khép lại! Lối vào sắp sụp đổ.\n\nNgay từ đầu, cánh cổng này đã không ổn định và cuối cùng đã tự bịt kín.</LetterGateClosing>
+  <!-- EN: Must be placed adjacent to a pit gate. -->
+  <MustPlaceNextToPitGate>Phải đặt liền kề với Cổng vực thẳm.</MustPlaceNextToPitGate>
+  <!-- EN: Pit gate closed -->
+  <PitGateClosedHumanityNote>Cổng vực thẳm đã đóng.</PitGateClosedHumanityNote>
+  <!-- EN: Pit gate collapsing -->
+  <PitGateCollapsing>Cổng vực thẳm đang sụp đổ.</PitGateCollapsing> 
+  <!-- EN: Pit gate settling -->
+  <PitGateSettling>Cổng vực thẳm đang lắng xuống.</PitGateSettling> 
+  <!-- EN: View undercave -->
+  <ViewUndercave>Xem thế giới dưới lòng đất</ViewUndercave> 
+  <!-- EN: View the connected undercave map. -->
+  <ViewUndercaveDesc>Xem bản đồ thế giới dưới lòng đất được kết nối.</ViewUndercaveDesc>
+  <!-- EN: View surface -->
+  <ViewSurface>Xem thế giới bề mặt</ViewSurface>
+  <!-- EN: View the connected surface map. -->
+  <ViewSurfaceDesc>Xem bản đồ thế giới bề mặt được kết nối.</ViewSurfaceDesc>
+  <!-- EN: Pit rumbles -->
+  <EmergenceWarningLabel>Cảnh báo: sắp xuất hiện!</EmergenceWarningLabel>
+  <!-- EN: The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon. -->
+  <EmergenceWarningText>Đất rung chuyển dưới chân, và tiếng gào thét vô nhân tính vọng lên từ hố sâu dường như ngày càng gần. Có thứ gì đó sắp trồi lên.</EmergenceWarningText>
+
+  <!-- Pit Burrow -->
+  <!-- EN: Fill in -->
+  <DesignatorFillIn>Lấp kín</DesignatorFillIn>
+  <!-- EN: Fill in this pit burrow. -->
+  <DesignatorFillInDesc>Lấp kín hố này.</DesignatorFillInDesc>
+
+    <!-- Undercave -->
+  <!-- EN: Enter pit gate -->
+  <EnterPitGate>Chui vào Cổng vực thẳm</EnterPitGate> 
+  <!-- EN: Climb to surface -->
+  <ExitPitGate>Trèo lên mặt đất</ExitPitGate>
+  <!-- EN: Fleshbeast lair -->
+  <LetterLabelGateEntered>Hang ổ Quái thịt</LetterLabelGateEntered> 
+  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
+  <LetterGateEntered>Trong sâu thẳm của Cổng vực thẳm, bạn đã khám phá một hệ thống hang động khổng lồ bị nhiễm Quái thịt.\n\nHệ thống hang động bị tắc nghẽn bởi các khối thịt sống chặn đường tiến của bạn. Tấn công thẳng vào khối thịt để phá hủy nó.\n\nToàn bộ hệ thống hang động dường như không ổn định. Nếu tìm thấy thứ gì đó đằng sau khối thịt, có thể bạn sẽ làm sập các đường hầm và đóng được cổng vực thẳm.</LetterGateEntered> 
+  <!-- EN: Squirming sounds -->
+  <LetterLabelDreadmeldWarning>Cảm giác kinh hoàng</LetterLabelDreadmeldWarning> 
+  <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
+  <LetterDreadmeldWarning>Khi {PAWN_nameDef} đến gần khối thịt ở đây, {PAWN_pronoun} cảm thấy một vật thể to lớn đang uốn éo, quằn quại bên dưới lớp bề mặt ấm áp. Một thực thể sống khổng lồ đang ẩn nấp phía sau bức tường thịt.</LetterDreadmeldWarning> 
+  <!-- EN: Undercave unstable -->
+  <LetterLabelUndercaveCollapsing>Hang động sụp đổ</LetterLabelUndercaveCollapsing> 
+  <!-- EN: The dreadmeld's death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it's too late! -->
+  <LetterUndercaveCollapsing>Cái chết của khối thịt kinh hoàng đã gây chấn động đến hang động và bắt đầu phá hủy hệ thống này. Khối thịt vốn chống đỡ hang động đã bắt đầu phân hủy. Trong vòng nửa ngày, toàn bộ hang động sẽ sụp đổ.\n\nHãy thoát khỏi nơi này trước khi quá muộn!</LetterUndercaveCollapsing>
+
+  <!-- Holding platform -->
+  <!-- EN: Holding -->
+  <HoldingThing>Đang giữ</HoldingThing>
+  <!-- EN: Remove {0_labelShort} -->
+  <RemoveFromPlatform>Gỡ {0_labelShort}</RemoveFromPlatform>
+  <!-- EN: Remove the current entity held on the platform. -->
+  <RemoveFromPlatformDesc>Gỡ bỏ thực thể đang bị giữ trên bệ.</RemoveFromPlatformDesc>
+  <!-- EN: {GERUND} {TARGETLABEL} from -->
+  <ReleasingEntity>{GERUND} {TARGETLABEL} từ</ReleasingEntity>
+  <!-- EN: {GERUND} {TARGETLABEL} -->
+  <TransferringEntity>{GERUND} {TARGETLABEL}</TransferringEntity>
+  <!-- EN: Select holding platform -->
+  <SelectHoldingPlatform>Chọn bệ giam giữ</SelectHoldingPlatform>
+  <!-- EN: Entity escape -->
+  <LetterLabelEscapingFromHoldingPlatform>Thực thể trốn thoát</LetterLabelEscapingFromHoldingPlatform> 
+  <!-- EN: The following entities have escaped their restraints:\n\n{0}\n\nBuild stronger containment rooms to stop entities escaping. Entities are less likely to escape from holding platforms with high containment strength, which comes from strong walls and doors, good lighting, and special containment devices. -->
+  <LetterEscapingFromHoldingPlatform>Các thực thể sau đã trốn thoát:\n\n{0}\n\nHãy xây dựng những căn phòng giam giữ vững chắc, có độ an toàn cao hơn để ngăn chúng thoát ra. Bệ giam giữ với độ an toàn cao, đến từ tường và cửa kiên cố, ánh sáng mạnh và thiết bị giam giữ đặc biệt giúp giảm khả năng trốn thoát.</LetterEscapingFromHoldingPlatform> 
+  <!-- EN: requires {0} -->
+  <HoldingPlatformRequiresStrength>Yêu cầu {0}</HoldingPlatformRequiresStrength>
+  <!-- EN: No holding platforms available. -->
+  <NoHoldingPlatformsAvailable>Không thể tìm thấy bệ giam giữ.</NoHoldingPlatformsAvailable>
+  
+  
+  <!-- Obelisks -->
+  <!-- EN: Obelisk activation -->
+  <MutatorObeliskLetterLabel>Khởi động Obelisk</MutatorObeliskLetterLabel>
+  <!-- EN: The obelisk is activating! It swells with grisly energy as the air crackles around it. It is about to self-destruct in a great explosion, but before it does, it will use its hideous transformative power on any creature it can detect. -->
+  <MutatorObeliskLetter>Obelisk đang khởi động! Nó phình to cùng nguồn năng lượng ghê rợn. Chuẩn bị tự hủy sau vụ nổ lớn, nhưng trước đó, nó sẽ sử dụng sức mạnh biến đổi dị dạng lên bất kỳ sinh vật nào nó phát hiện được!</MutatorObeliskLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskTentacleLetterLabel>Obelisk đột biến</ObeliskTentacleLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
+  <ObeliskTentacleLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra, một chiếc xúc tu thịt nhầy nhụa trồi lên. Cánh tay của {PAWN_nameDef} đã bị thay thế bởi xúc tu đó. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác.</ObeliskTentacleLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshWhipLetterLabel>Obelisk đột biến</ObeliskFleshWhipLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
+  <ObeliskFleshWhipLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra dữ dội, một chiếc roi xương thịt mọc xuyên qua cơ thể. Cánh tay của {PAWN_nameDef} đã biến thành chiếc roi xương thịt. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác từ sự kiện đáng sợ này. Xúc tu này thật gớm ghiếc, nhưng sẽ là một vũ khí cận chiến tuyệt vời.</ObeliskFleshWhipLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedArmLetterLabel>Obelisk tương tác</MutatorObeliskFailedArmLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedArmLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy tay mình ngứa ran một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedArmLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshmassStomachLetterLabel>Obelisk đột biến</ObeliskFleshmassStomachLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
+  <ObeliskFleshmassStomachLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy dạ dày quặn đau đột ngột, các tế bào bắt đầu biến đổi. {PAWN_possessive} dạ dày đã biến thành một khối thịt nhầy có tri giác. Axit mạnh do nó tiết ra gây đau đớn nhưng giúp miễn nhiễm ngộ độc thực phẩm.</ObeliskFleshmassStomachLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedStomachLetterLabel>Obelisk tương tác</MutatorObeliskFailedStomachLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} stomach aching for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedStomachLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy dạ dày mình nhói đau một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedStomachLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshmassLungLetterLabel>Obelisk đột biến</ObeliskFleshmassLungLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
+  <ObeliskFleshmassLungLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy lồng ngực quặn đau đột ngột, phổi của {PAWN_possessive} nhói lên rồi bắt đầu sưng phồng. Phổi của {PAWN_possessive} đã biến đổi thành một khối thịt nhầy có tri giác. Những mô liên tục tự tái tạo và thay thế, giúp kháng những bệnh như thối phổi hay suyễn.</ObeliskFleshmassLungLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedLungLetterLabel>Obelisk tương tác</MutatorObeliskFailedLungLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} chest ache for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedLungLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy ngực mình nhói đau một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedLungLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskAnimalMutationLetterLabel>Obelisk đột biến</ObeliskAnimalMutationLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden spike in energy. The obelisk has violently warped the flesh of {ANIMAL}, turning it into a hideous fleshbeast. -->
+  <ObeliskAnimalMutationLetter>Khi tương tác với Obelisk, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Obelisk đã gây đột biến dữ dội lên con {ANIMAL}, biến nó thành Quái thịt gớm ghiếc.</ObeliskAnimalMutationLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskTreeMutationLetterLabel>Obelisk đột biến</ObeliskTreeMutationLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden pulse of energy. The obelisk has twisted a nearby tree into a harbinger tree. These monstrous trees are capable of feeding on nearby corpses and raw meat. -->
+  <ObeliskTreeMutationLetter>Khi tương tác với Obelisk, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Obelisk đã bẻ cong một cây gần đó thành Cây báo tử. Những loài cây dị dạng này có khả năng hấp thụ xác chết và thịt sống quanh nó.</ObeliskTreeMutationLetter>
+
+  <!-- EN: Obelisk duplicate -->
+  <ObeliskDuplicationLetterLabel>Obelisk nhân bản</ObeliskDuplicationLetterLabel>
+  <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self! The duplicate claims to be the real {PAWN_nameDef} and has joined your colony. -->
+  <ObeliskDuplicationLetter>Khi {PAWN_nameDef} tương tác với Obelisk, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình! Bản sao này khẳng định nó mới là {PAWN_nameDef} thật và đã gia nhập thuộc địa của bạn.</ObeliskDuplicationLetter>
+
+  <!-- EN: Obelisk failure -->
+  <ObeliskDuplicationFailedLetterLabel>Obelisk nhân bản lỗi</ObeliskDuplicationFailedLetterLabel>
+  <!-- EN: {PAWN_nameDef} attempted to trigger the obelisk but nothing occurred. Something about {PAWN_nameDef} is preventing the obelisk from duplicating {PAWN_objective}. -->
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} cố gắng kích hoạt Obelisk nhưng không có gì xảy ra. Dường như có gì đó ở {PAWN_nameDef} khiến Obelisk không thể tạo bản sao.</ObeliskDuplicationFailedLetter>
+  
+  <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
+  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef} đã kích hoạt thành công tính năng nhân bản của Obelisk.</ObeliskDuplicationSuccessMessage>
+
+  <!-- EN: Hostile obelisk duplicate -->
+  <ObeliskHostileDuplicateLetterLabel>Obelisk bản sao thù địch</ObeliskHostileDuplicateLetterLabel>
+  <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
+  <ObeliskHostileDuplicateLetter>Khi {PAWN_nameDef} tương tác với Obelisk, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình. Bản sao này đang tiến đến gần {PAWN_nameDef} với ý đồ sát hại!</ObeliskHostileDuplicateLetter>
+
+  <!-- EN: Obelisk activation -->
+  <DuplicatorObeliskLetterLabel>Obelisk Kẻ nhân bản</DuplicatorObeliskLetterLabel>
+  <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
+  <DuplicatorObeliskLetter>Obelisk bắt đầu khởi động! Không khí xung quanh nó chuyển động đầy năng lượng. Những bản sao của thực dân có ý đồ giết người sắp xuất hiện.\n\nCẩn thận - năng lượng từ Obelisk rất bất ổn và có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
+
+  <!-- EN: Colonists disappearing -->
+  <ObeliskAbductorLetterLabel>Obelisk Kẻ bắt cóc</ObeliskAbductorLetterLabel>
+  <!-- EN: The warped obelisk crackles with energy as it warps space around itself. All manner of creatures are beginning to disappear and will soon vanish entirely.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
+  <ObeliskAbductorLetter>warped obelisk bẻ cong không gian xung quanh, chấn động với luồng năng lượng kinh dị. Tất cả dạng sinh vật đều bắt đầu biến mất và sẽ sớm tan thành hư không.\n\nCẩn thận - năng lượng từ Obelisk rất bất ổn và có thể phát nổ bất cứ lúc nào.</ObeliskAbductorLetter>
+  
+  <!-- EN: {PAWN_nameDef} is disappearing -->
+  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef} đang biến mất</ObeliskAbductedDisappearingLetterLabel>
+  <!-- EN: {PAWN_nameDef} noticed activity in the warped obelisk. Some mysterious internal mechanism has come to life, causing {PAWN_nameDef} to begin to disappear. {PAWN_pronoun} will soon vanish entirely. -->
+  <ObeliskAbductedDisappearingLetter>{PAWN_nameDef} cảm nhận hoạt động kỳ lạ phát ra từ warped obelisk. Một cơ chế bí ẩn bên trong đã bắt đầu hoạt động, khiến {PAWN_nameDef} mờ dần đi. {PAWN_pronoun} sẽ sớm biến mất hoàn toàn.</ObeliskAbductedDisappearingLetter>
+  
+  <!-- EN: {PAWN_nameDef} reappeared -->
+  <ObeliskAbductedLetterLabel>{PAWN_nameDef} xuất hiện trở lại</ObeliskAbductedLetterLabel>
+  <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
+  <ObeliskAbductedLetter>{PAWN_nameDef} vừa được dịch chuyển đến một căn phòng kỳ lạ. Những bức tường có màu xám không thể nhận diện, và không khí dường như hoàn toàn tĩnh lặng. {PAWN_pronoun} không biết mình đang ở đâu - hay làm sao để trở về.\n\nMột cánh cửa gần đó bị kẹt nhưng có vẻ như có thể cạy mở bằng một chút sức lực. Nhấp chuột phải vào cửa bị kẹt để mở chúng.\n\nBằng cách nghiên cứu Obelisk, những thực dân khác có thể hiểu được điều gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Hoặc, tấn công Obelisk có thể khiến nó bắt cóc thêm nhiều người.</ObeliskAbductedLetter>
+
+  <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
+  <MutatorObeliskMutated>{PAWN_nameIndef} đã biến thành Quái thịt.</MutatorObeliskMutated>
+  <!-- EN: A fleshbeast has emerged from the ground. -->
+  <MutatorObeliskSpawned>Quái thịt trồi lên từ lòng đất.</MutatorObeliskSpawned>
+
+  <!-- EN: Fully activate the warped obelisk. -->
+  <ObeliskActivateDesc>Kích hoạt hoàn toàn warped obelisk</ObeliskActivateDesc>
+  <!-- EN: Warning: The warped obelisk is unstable. Fully activating it will provoke a dangerous response and will cause the obelisk to self-destruct. -->
+  <ObeliskActivateDescWarning>Cảnh báo: warped obelisk rất bất ổn. Kích hoạt hoàn toàn sẽ gây ra phản ứng nguy hiểm và khiến nó tự hủy.</ObeliskActivateDescWarning>
+
+  <!-- EN: Requires {0} shards to disable -->
+  <ObeliskDeactivateMissingShards>Cần {0} mảnh vỡ để vô hiệu hóa.</ObeliskDeactivateMissingShards>
+  
+  <!-- Activity / Supression -->
+  <!-- EN: Activity level -->
+  <ActivityLevel>Mức hoạt động</ActivityLevel>
+  <!-- EN: Psychic suppression -->
+  <IsPsychicallySuppressed>Đang bị trấn áp tâm linh</IsPsychicallySuppressed>
+  <!-- EN: Increase rate -->
+  <ActivityIncrease>Tốc độ tăng</ActivityIncrease>
+  <!-- EN: Not in sealed room -->
+  <NotInSealedRoom>Không ở trong phòng kín</NotInSealedRoom>
+  <!-- EN: Energy harvesting -->
+  <EnergyHarvesting>Thu hoạch năng lượng</EnergyHarvesting>
+  <!-- EN: Unstable -->
+  <Unstable>Không ổn định</Unstable>
+  <!-- EN: Base level -->
+  <BaseLevel>Mức nền</BaseLevel>
+  <!-- EN: Is active -->
+  <IsActive>Đang hoạt động</IsActive>
+  <!-- EN: resist -->
+  <Resisted>Bị kháng cự</Resisted>
+  <!-- EN: Damaged -->
+  <HealthFactor>Sức khỏe</HealthFactor>
+  <!-- EN: Deactivated. -->
+  <Deactivated>Đã ngừng hoạt động</Deactivated> <!-- -->
+
+  <!-- EN: {PAWN_labelShort} was sent. -->
+  <CommandSent>Đã gửi lệnh cho {PAWN_labelShort}.</CommandSent>
+  <!-- EN: Cannot activate entity -->
+  <CannotActivateEntity>Không thể kích hoạt thực thể</CannotActivateEntity>
+  <!-- EN: Entity must be on platform -->
+  <CannotActivateEntityPlatform>Thực thể phải ở trên bệ giam mới kích hoạt được.</CannotActivateEntityPlatform>
+  
+  <!-- EN: Activity -->
+  <ActivityGizmo>Mức hoạt động</ActivityGizmo>
+  <!-- EN: Automatic suppression -->
+  <ActivitySuppressionTooltipTitle>Trấn áp tự động</ActivitySuppressionTooltipTitle>
+  <!-- EN: Automatic suppression is currently disabled. Enable it to have wardens suppress the {0}. -->
+  <ActivitySuppressionTooltipDisabled>Trấn áp tự động đang bị vô hiệu hóa. Kích hoạt để cho cai ngục trấn áp {0}.</ActivitySuppressionTooltipDisabled>
+  <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
+  <ActivitySuppressionTooltipDesc>{0}: mức hoạt động sẽ tăng theo thời gian. Hoạt động tăng nhanh hơn nếu bị tấn công hoặc khiêu khích.\n\nNếu mức hoạt động lên đến 100%, {0} sẽ tự kích hoạt.\n\nCai ngục có thể trấn áp {0} để giữ hoạt động ở mức an toàn. Họ sẽ dập tắt nó mỗi khi hoạt động vươn đến giới hạn được thiết lập: {LEVEL}\n\nThực thể có mức hoạt động cao sẽ cung cấp nhiều kiến thức hơn khi nghiên cứu.</ActivitySuppressionTooltipDesc>
+  <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
+  <ActivitySuppressionToggleTooltipDesc>Quyết định liệu {0} có bị tự động trấn áp khi hoạt động vượt {LEVEL} hay không.\n\nTrấn áp tự động hiện đang: {ONOFF}</ActivitySuppressionToggleTooltipDesc>
+  <!-- Activity Descs -->
+  <!-- EN: activity level -->
+  <ActivityLevelDesc>Mức độ hoạt động hiện tại của thực thể.</ActivityLevelDesc>
+  <!-- EN: psychic suppression -->
+  <PsychicallySuppressedDesc>Đang được các thực thể trấn áp tâm linh khác làm suy yếu.</PsychicallySuppressedDesc>
+
+  <!-- Entity study -->
+  <!-- EN: Capture -->
+  <CaptureEntity>Bắt giữ</CaptureEntity>
+  <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
+  <CaptureEntityDesc>Bắt giữ {0_definite}. Thực thể cần được khống chế trên một bệ giam. Sau khi bị trói, nó có thể được nghiên cứu.</CaptureEntityDesc>
+  <!-- EN: Cancel capture -->
+  <CancelCapture>Hủy bắt</CancelCapture>
+  <!-- EN: Cancel capturing {0_definite}. -->
+  <CancelCaptureDesc>Hủy nhiệm vụ bắt giữ {0_definite}.</CancelCaptureDesc>
+  <!-- EN: ready to study -->
+  <ReadyToStudy>Sẵn sàng để nghiên cứu</ReadyToStudy>
+  <!-- EN: No active anomaly research project selected for {0} knowledge category. -->
+  <NoActiveResearchProject>Chưa chọn dự án nghiên cứu dị thường nào cho lĩnh vực kiến thức về {0}.</NoActiveResearchProject>
+  <!-- EN: Capturable -->
+  <Capturable>Có thể bắt giữ</Capturable>
+  <!-- EN: Must be captured in a holding platform. -->
+  <RequiresHoldingPlatform>Cần phải được bắt và giữ trên bệ giam.</RequiresHoldingPlatform>
+  <!-- EN: Choose a location for the nociosphere to teleport to. -->
+  <ChooseNociosphereDest>Chọn vị trí dịch chuyển cho Quả cầu Hư Không.</ChooseNociosphereDest>
+  <!-- EN: Transfer {0_definite} -->
+  <TransferEntity>Chuyển {0_definite}</TransferEntity>
+  <!-- EN: Transfer the contained entity to another holding platform. -->
+  <TransferEntityDesc>Chuyển thực thể đang bị giam giữ sang một bệ giam khác.</TransferEntityDesc>
+  <!-- EN: Cancel transfer -->
+  <CancelTransfer>Hủy chuyển</CancelTransfer>
+  <!-- EN: Cancel transferring this entity to another holding platform. -->
+  <CancelTransferDesc>Hủy việc chuyển thực thể này sang một bệ giam khác.</CancelTransferDesc>
+  
+  <!-- Metalhorrors -->
+  <!-- EN: Emerged from -->
+  <EmergedFrom>Đã thoát ra từ</EmergedFrom>
+  <!-- EN: Metalhorror emerging -->
+  <Emerging>Ác mộng Kim loại đang thoát ra</Emerging>
+  
+  <!-- EN: Implanted before arrival at your colony -->
+  <ImplantSourceUnknown>Được cấy ghép trước khi đến căn cứ, nguồn gốc chưa rõ.</ImplantSourceUnknown>
+  <!-- EN: Implanter insectoid -->
+  <InsectImplant>Mầm cấy giống sâu</InsectImplant>
+  <!-- EN: Implanted during sleep by {SOURCE_nameDef} -->
+  <SleepImplant>Được cấy ghép trong khi {SOURCE_nameDef} ngủ.</SleepImplant>
+  <!-- EN: Implanted during surgery by {SOURCE_nameDef} -->
+  <SurgeryImplant>Được cấy ghép trong khi {SOURCE_nameDef} phẫu thuật.</SurgeryImplant>
+  <!-- EN: Implanted through a meal cooked by {SOURCE_nameDef} -->
+  <FoodImplant>Được cấy ghép qua bữa ăn do {SOURCE_nameDef} chuẩn bị.</FoodImplant>
+  <!-- EN: Implanted during unnatural healing by {SOURCE_nameDef} -->
+  <UnnaturalHealingImplant>Được cấy ghép khi điều trị dị thường bởi {SOURCE_nameDef}.</UnnaturalHealingImplant>
+  <!-- EN: Implanted when fed a meal by {SOURCE_nameDef} -->
+  <FeedingImplant>Được cấy ghép khi cho {SOURCE_nameDef} ăn.</FeedingImplant>
+
+  <!-- EN: Metalhorror emerging -->
+  <MetalhorrorEmergingLabel>Ác mộng Kim loại trỗi dậy!</MetalhorrorEmergingLabel>
+  <!-- EN: A metalhorror is emerging! Slicing through flesh and skin, this nightmarish bladed creature is cutting its way out of its host. The metalhorror is emerging from: -->
+  <MetalhorrorEmergingDesc>Ác mộng Kim loạiđang trỗi dậy! Cắt xuyên thịt da, sinh vật lưỡi kiếm ma quái này đang xé toạc cơ thể vật chủ để chui ra. Sinh vật xuất hiện từ:</MetalhorrorEmergingDesc>
+  <!-- EN: Metalhorrors are emerging! Slicing through flesh and skin, these nightmarish bladed creatures are cutting their way out of their hosts. Metalhorrors are emerging from: -->
+  <MetalhorrorEmergingPluralDesc>Những Ác mộng Kim loại đang trỗi dậy! Cắt xuyên thịt da, lũ sinh vật lưỡi kiếm ma quái này đang xé toạc vật chủ để chui ra. Chúng xuất hiện từ:</MetalhorrorEmergingPluralDesc>
+  <!-- EN: These horrifying metallic parasites live inside the victim, taking control of higher reasoning via a network of hair-thin metallic filaments that they spread throughout the body and brain. They control the victim's mind and compel them to infect others with new metalhorrors. -->
+  <MetalhorrorEmergingDescAppended>Ký sinh trùng kim loại kinh dị sống bên trong nạn nhân, kiểm soát suy nghĩ thông qua mạng lưới dây thần kinh siêu mỏng truyền khắp cơ thể và não bộ. Chúng thao túng suy nghĩ nạn nhân và bắt họ lây nhiễm kim loại kinh dị cho người khác.</MetalhorrorEmergingDescAppended>
+  
+  <!-- EN: These doctors were infested and controlled by metalhorrors, so they lied about the results of a surgical inspection -->
+  <MetalhorrorSurgicalInspectionDetails>Bác sĩ này đã bị ký sinh trùng Ác mộng Kim loại lây nhiễm và kiểm soát, nên họ đã nói dối về kết quả khám nghiệm phẫu thuật.</MetalhorrorSurgicalInspectionDetails>
+  
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during a social interaction. -->
+  <MetalhorrorReasonInteraction>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện do bị {PAWN_nameDef} phát hiện trong lúc giao tiếp.</MetalhorrorReasonInteraction>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during an interrogation. -->
+  <MetalhorrorReasonInterrogation>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện do bị {PAWN_nameDef} phát hiện khi thẩm vấn.</MetalhorrorReasonInterrogation>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because {INFECTED_nameDef} died. -->
+  <MetalhorrorReasonHostDied>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện do vật chủ tử vong.</MetalhorrorReasonHostDied>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was detected by {PAWN_nameDef} during a surgical inspection. -->
+  <MetalhorrorReasonSurgeryInspected>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện do bị {PAWN_nameDef} phát hiện trong phẫu thuật.</MetalhorrorReasonSurgeryInspected>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged for unknown reasons. -->
+  <MetalhorrorReasonRandom>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện, không rõ lý do.</MetalhorrorReasonRandom>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged upon sensing it was being taken away from the colony. -->
+  <MetalhorrorReasonTriedToLeaveMap>Ác mộng Kim loại bên trong {INFECTED_nameDef} tự lộ diện khi cảm nhận vật chủ đang cố rời khỏi bản đồ.</MetalhorrorReasonTriedToLeaveMap>
+  
+  <!-- EN: Metalhorror detected -->
+  <MetalhorrorDetected>Phát hiện ký sinh Ác mộng Kim loại!</MetalhorrorDetected>
+  <!-- EN: {PAWN_nameDef} noticed something wrong with {INFECTED_nameDef} while chatting. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
+  <InteractionDetectedDesc>{PAWN_nameDef} nhận thấy có điều bất thường khi trò chuyện với {INFECTED_nameDef}. {INFECTED_nameDef} tỏ ra kỳ lạ khó hiểu, phát ra tiếng động lạ, hoặc có thể nhìn thấy sâu kim loại nhỏ xíu trong mắt họ. {PAWN_nameDef} nghi rằng {INFECTED_nameDef} đã bị nhiễm ký sinh Ác mộng Kim loại.</InteractionDetectedDesc>
+  <!-- EN: {PAWN_nameDef} has found something unusual while interrogating {INFECTED_nameDef}. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
+  <InterrogationDetectedDesc>{PAWN_nameDef} đã phát hiện điểm bất thường khi thẩm vấn {INFECTED_nameDef}. {INFECTED_nameDef} tỏ ra kỳ lạ khó hiểu, phát ra tiếng động lạ, hoặc có thể nhìn thấy sâu kim loại nhỏ xíu trong mắt họ. {PAWN_nameDef} nghi rằng {INFECTED_nameDef} đã bị nhiễm ký sinh Ác mộng Kim loại.</InterrogationDetectedDesc>
+  
+  <!-- EN: Metalhorrors are parasites that control the host and use them to infect others.\n\nMetalhorrors grow stronger inside the host as time passes. A metalhorror will cut its way out of the host's body if it knows it's been detected. The process is horrifying, but the host generally survives.\n\nThe only way to confirm a person is infected with a metalhorror is to study the metalhorror's fleshy leavings to identify its biosignature, then use the surgical inspection operation with a trusted doctor.\n\nOnce discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
+  <MetalhorrorNoticedDetailsAppended>Ác mộng Kim loại là loài sinh vật kí sinh, điều khiển vật chủ và sử dụng {INFECTED_objective} để lây nhiễm cho các nạn nhân khác.\n\nÁc mộng Kim loại dần trở nên mạnh hơn trong vật chủ theo thời gian. Nếu biết đã bị phát hiện, nó sẽ xé toạc cơ thể nạn nhân để thoát ra ngoài. Quá trình này hết sức khủng khiếp, nhưng nạn nhân thường sống sót.\n\nCách duy nhất để xác nhận một người có bị nhiễm Ác mộng Kim loại hay không là nghiên cứu các phần thịt còn sót lại để xác định dấu hiệu sinh học, sau đó sử dụng thao tác kiểm tra phẫu thuật với bác sĩ đáng tin cậy.\n\nMột khi đã bị phát hiện, bạn có thể tiến hành kiểm tra phẫu thuật để dụ Ác mộng Kim loại lộ diện. Hãy sẵn sàng chiến đấu.</MetalhorrorNoticedDetailsAppended>
+  
+  <!-- EN: Gray flesh -->
+  <LetterGrayFleshDiscoveredLabel>Thịt xám được tìm thấy</LetterGrayFleshDiscoveredLabel>
+  <!-- EN: {PAWN_nameDef} has discovered a strip of fleshy tissue. It resembles human skin stained gray by tiny metallic particles. It must have sloughed off someone during flesh liquification.\n\nSomeone here may not be what they seem.\n\nThere are several ways to detect imposters:\n\n{METHODS}\n\nWarning: Some parasites can control the mind and even be transmitted to others. -->
+  <LetterGrayFleshDiscovered>{PAWN_nameDef} đã phát hiện một dải mô thịt. Nó giống như da người bị nhuộm xám bởi những hạt kim loại nhỏ li ti. Dải thịt này hẳn đã bong ra từ ai đó trong quá trình dịch chuyển.\n\nCó lẽ ai đó ở đây đang trá hình.\n\nDưới đây là một số cách để phát hiện kẻ giả mạo:\n\n{METHODS}\n\nCảnh báo: Một số loài ký sinh có thể kiểm soát tâm trí nạn nhân và thậm chí lây sang người khác.</LetterGrayFleshDiscovered>
+  
+  <!-- EN: The “interrogate” prisoner interaction mode is now unlocked. -->
+  <LetterInterrogationUnlocked>Chế độ thẩm vấn tù nhân đã được mở khóa.</LetterInterrogationUnlocked>
+  
+  <!-- EN: Imprison someone and send a warden to interrogate them about their true identity. This can take many days. -->
+  <LetterGrayFleshMethodOne>Bắt giam ai đó và cử một cai ngục đến thẩm vấn họ về danh tính thật. Điều này có thể mất vài ngày.</LetterGrayFleshMethodOne>
+  <!-- EN: Collect more gray flesh and analyze it to determine the biosignature of the threat. Then, use the surgical inspection operation to search for that biosignature. It could take a long time to collect enough samples, and the surgery is invasive. -->
+  <LetterGrayFleshMethodTwo>Thu thập thêm những mẫu thịt xám và phân tích để xác định đặc điểm sinh học của mối đe dọa. Sau đó, sử dụng nghiệp vụ kiểm tra phẫu thuật để tìm kiếm dấu hiệu này. Quá trình thu thập mẫu vật có thể cần nhiều thời gian, và việc phẫu thuật rất xâm lấn.</LetterGrayFleshMethodTwo>
+  <!-- EN: Execute or banish whoever you suspect. -->
+  <LetterGrayFleshMethodThree>Xử tử hoặc trục xuất bất kỳ ai bị tình nghi.</LetterGrayFleshMethodThree>
+  
+  <!-- EN: Metalhorrors awakening -->
+  <LetterMetalhorrorReawakeningLabel>Ác mộng Kim loại thức tỉnh!</LetterMetalhorrorReawakeningLabel>
+  <!-- EN: The metalhorrors have been disturbed and are awakening again! -->
+  <LetterMetalhorrorReawakening>Những Ác mộng Kim loại vừa bị đánh thức và đang chuẩn bị trỗi dậy!</LetterMetalhorrorReawakening>
+
+  <!-- EN: The metalhorrors are beginning to hibernate. They will awaken again if disturbed. -->
+  <MessageMetalHorrorDormant>Những Ác mộng Kim loại bắt đầu ngủ đông. Chúng sẽ thức tỉnh nếu bị làm phiền.</MessageMetalHorrorDormant>
+  
+  <!-- EN: Hibernating. Will awaken if disturbed. -->
+  <MetalhorrorDormant>Đang ngủ đông. Sẽ thức tỉnh nếu bị làm phiền.</MetalhorrorDormant>
+  
+  <!-- Surgical inspection -->
+  <!-- EN: Surgical inspection results -->
+  <LetterSurgicallyInspectedLabel>Kết quả kiểm tra phẫu thuật</LetterSurgicallyInspectedLabel>
+  <!-- EN: {DOCTOR_nameDef} performed an extensive surgical inspection of {PATIENT_nameDef}. -->
+  <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef} đã thực hiện một ca kiểm tra phẫu thuật kỹ lưỡng trên {PATIENT_nameDef}</LetterSurgicallyInspectedHeader>
+  <!-- EN: {DOCTOR_pronoun} says that {DOCTOR_pronoun} found no anomalies. However, a doctor may lie if it is in their own self-interest. -->
+  <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun} nói rằng không phát hiện điều gì bất thường. Tuy nhiên, bác sĩ có thể nói dối để tự bảo vệ bản thân.</LetterSurgicallyInspectedNothing>
+  
+  <!-- Death refusal -->
+  <!-- EN: use -->
+  <DeathRefusalUseSingular>sử dụng</DeathRefusalUseSingular>
+  <!-- EN: uses -->
+  <DeathRefusalUsePlural>sử dụng</DeathRefusalUsePlural>
+  <!-- EN: Self-resurrecting -->
+  <SelfResurrecting>Đang tự hồi sinh</SelfResurrecting>
+
+  <!-- Harbinger Tree -->
+  <!-- EN: near harbinger tree -->
+  <HarbingerTreeConsumption>gần cây báo tử</HarbingerTreeConsumption>
+  <!-- EN: A new harbinger tree has sprouted. -->
+  <HarbingerTreeSprouted>Một cây báo tử mới đã mọc.</HarbingerTreeSprouted>
+  <!-- EN: Consuming flesh. -->
+  <HarbingerTreeConsuming>Đang hấp thụ thịt.</HarbingerTreeConsuming>
+  <!-- EN: Will consume corpses and meat placed nearby. -->
+  <HarbingerTreeNotConsuming>Sẽ hấp thụ những xác chết hoặc thịt được đặt gần đó.</HarbingerTreeNotConsuming>
+  <!-- EN: Being consumed by harbinger tree. -->
+  <ConsumedByHarbingerTree>Đang bị Cây Báo tử hấp thụ.</ConsumedByHarbingerTree>
+  <!-- EN: flesh consumption -->
+  <FleshConsumption>Hấp thụ thịt</FleshConsumption>
+  <!-- EN: Create corpse stockpile -->
+  <CreateCorpseStockpile>Tạo kho chứa xác chết</CreateCorpseStockpile>
+  <!-- EN: Create a dumping stockpile zone around the harbinger tree for corpses.\n\nHarbinger trees will consume nearby corpses and raw meat. If well fed, the trees will grow faster and create new harbinger trees. -->
+  <CreateCorpseStockpileDesc>Tạo một khu vực xung quanh Cây Báo tử cho các xác chết.\n\nCây Báo tử sẽ hấp thụ xác chết và thịt tươi ở gần. Nếu được cung cấp đủ dinh dưỡng, cây sẽ phát triển nhanh hơn và sinh ra những cây báo tử mới.</CreateCorpseStockpileDesc>
+
+  <!-- EN: Void node has been disabled. -->
+  <VoidNodeDisabled>Vị trí Hư Không đã bị vô hiệu hóa.</VoidNodeDisabled>
+
+  <!-- Creepjoiners -->
+  <!-- EN: {PAWN_pronoun} wants to talk. You can send a colonist to hear what {PAWN_pronoun} has to say. -->
+  <LetterCreeperAppearedAppended>{PAWN_pronoun} muốn trò chuyện. Bạn có thể cử một thực dân đến để lắng nghe {PAWN_pronoun} trình bày.</LetterCreeperAppearedAppended>
+  <!-- EN: {PAWN_nameDef} wants to join -->
+  <LetterCreeperInviteJoins>{PAWN_nameDef} muốn gia nhập</LetterCreeperInviteJoins>
+  <!-- EN: {PAWN_pronoun} may be very useful, but you also sense there is something {PAWN_nameDef} is not telling you. -->
+  <LetterCreeperInviteAppend>{PAWN_pronoun} có thể rất hữu ích, nhưng bạn cũng cảm thấy {PAWN_nameDef} đang che giấu điều gì đó.</LetterCreeperInviteAppend>
+  
+  <!-- EN: Allow {PAWN_nameDef} to join -->
+  <AcceptCreeper>Cho phép {PAWN_nameDef} gia nhập</AcceptCreeper>
+  <!-- EN: Send {SPEAKER_nameDef} to capture {PAWN_nameDef} -->
+  <CaptureCreeper>Sai {SPEAKER_nameDef} đi bắt giữ {PAWN_nameDef}</CaptureCreeper>
+  <!-- EN: Send {PAWN_nameDef} away -->
+  <RejectCreeper>Đuổi {PAWN_nameDef} đi</RejectCreeper>
+  
+  <!-- Unnatural healing ability -->
+  <!-- EN: Unnatural healing -->
+  <LetterUnnaturalHealingLabel>Dị năng chữa trị</LetterUnnaturalHealingLabel>
+  <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
+  <LetterUnnaturalHealing>{CASTER_nameDef} đã hoàn thành nghi thức chữa trị tâm linh cho {PAWN_nameDef}.</LetterUnnaturalHealing>
+  <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
+  <LetterUnnaturalHealingTentacle>Tuy nhiên, dường như đã xảy ra sai sót khủng khiếp.\n\nCánh tay của {PAWN_nameDef} bỗng nứt toác, một dạng vật thể kỳ dị trồi lên từ cơ thể. Chiếc tay đó đã bị thay thế bởi một cái xúc tu thịt!</LetterUnnaturalHealingTentacle>
+  
+  <!-- Transmutation ability -->
+  <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
+  <MessageTransmutedItem>{PAWN_nameDef} đã biến đổi {ORIGINAL} thành {TRANSMUTED}.</MessageTransmutedItem>
+  <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelShortIndef}. -->
+  <MessageTransmutedStuff>{PAWN_nameDef} đã biến đổi {1} thành {TRANSMUTED_labelShortIndef}.</MessageTransmutedStuff>
+  <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelPluralIndef}. -->
+  <MessageTransmutedStuffPlural>{PAWN_nameDef} đã biến đổi {1} thành {TRANSMUTED_labelPluralIndef}.</MessageTransmutedStuffPlural>
+  
+  <!-- Electroharvester -->
+  <!-- EN: No restrained entity. -->
+  <ElectroharvesterNoEntity>Không có thực thể đang bị kìm hãm.</ElectroharvesterNoEntity>
+  <!-- EN: Not connected to a holding platform. -->
+  <ElectroharvesterNoPlatform>Không kết nối với bệ giam nào.</ElectroharvesterNoPlatform>
+  
+  <!-- Fleshmass Heart -->
+  <!-- EN: Invulnerable. Analyze fleshmass neural lumps to destroy this. -->
+  <FleshmassHeartInvulnerable>Bất khả xâm phạm. Phân tích các khối thịt thần kinh để hủy diệt.</FleshmassHeartInvulnerable>
+  <!-- EN: Growing fleshmass. -->
+  <FleshmassHeartGrowing>Khối thịt đang phát triển.</FleshmassHeartGrowing>
+  <!-- EN: Collecting biomass for next growth spurt... -->
+  <FleshmassHeartCollecting>Đang thu thập sinh khối để tăng trưởng tiếp...</FleshmassHeartCollecting>
+  <!-- EN: The fleshmass heart is convulsing! -->
+  <MessageHeartAttack>Trái tim khối thịt đang co giật!</MessageHeartAttack>
+  <!-- EN: Fleshmass heart defeated -->
+  <LetterLabelFleshmassHeartDestroyed>Trái tim khối thịt đã bị phá hủy</LetterLabelFleshmassHeartDestroyed>
+  <!-- EN: The fleshmass heart has been destroyed, leaving behind a broken but still functional core - a twisted amalgam of flesh and archotechnology. The nucleus continues to grow and mutate flesh, even while the surrounding fleshmass decays.\n\nYou can capture the nucleus to study it further or destroy it to end this nightmare. If left alone, it may reform into a new fleshmass heart. -->
+  <LetterFleshmassHeartDestroyed>Trái tim khối thịt đã bị phá hủy, để lại một lõi hỏng nhưng vẫn hoạt động - một khối hỗn hợp gớm ghiếc của thịt và công nghệ viễn cổ. Lõi này tiếp tục phát triển và biến đổi thịt, ngay cả khi phần thịt xung quanh đang bị phân hủy.\n\nBạn có thể bắt giữ lõi để nghiên cứu thêm, hoặc tiêu hủy nhằm chấm dứt cơn ác mộng này. Nếu để yên, có thể nó sẽ tạo ra một quả tim khối thịt mới.</LetterFleshmassHeartDestroyed>
+  <!-- EN: The fleshmass heart has grown a new nerve bundle. -->
+  <NerveBundleGrewMessage>Trái tim khối thịt mọc thêm một dây thần kinh mới.</NerveBundleGrewMessage>
+  <!-- EN: The nerve bundle has dropped a neural lump. Analyze it to learn more about the fleshmass heart. -->
+  <NeuralLumpDroppedMessage>Dây thần kinh rụng xuống một khối thịt thần kinh. Phân tích để tìm hiểu thêm về trái tim khối thịt.</NeuralLumpDroppedMessage>
+  <!-- EN: Must collect and analyze fleshmass neural lumps. Lumps analyzed -->
+  <DestroyHeartDisabled>Phải thu thập và phân tích khối thịt thần kinh. Khối đã phân tích</DestroyHeartDisabled>
+  <!-- EN: A fleshmass spitter is attacking! -->
+  <SpitterAttacking>Sinh vật nhổ axit đang tấn công!</SpitterAttacking>
+  <!-- EN: Gathering acid. Ready in -->
+  <SpitterGatheringSpit>Đang tập trung axit. Sẵn sàng trong</SpitterGatheringSpit>
+  <!-- EN: Ready to spit acid. -->
+  <SpitterReadyToSpit>Sẵn sàng nhổ axit.</SpitterReadyToSpit>
+
+  <!-- EN: Active fleshmass. May birth fleshbeasts if destroyed. -->
+  <ActiveFleshmassInspect>Khối thịt đang hoạt động. Có thể phát triển thành Quái thịt nếu bị phá hủy.</ActiveFleshmassInspect>
+
+  <!-- Misc -->
+  <!-- EN: Flesh tentacle attack -->
+  <LetterLabelFleshTentacleAttack>Xúc tu thịt tấn công!</LetterLabelFleshTentacleAttack>
+  <!-- EN: {PAWN_nameDef}'s operation was successful. However, the twisting mass of flesh that was {PAWN_possessive} tentacle has begun to attack! -->
+  <LetterFleshTentacleAttack>Ca phẫu thuật của {PAWN_nameDef} đã thành công. Tuy nhiên, khối thịt uốn khúc từng là xúc tu của {PAWN_possessive} đang bắt đầu tấn công!</LetterFleshTentacleAttack>
+  <!-- EN: Biosignature -->
+  <Biosignature>Đặc điểm sinh học</Biosignature>
+  <!-- EN: Bliss lobotomy -->
+  <BlissLobotomy>Phẫu thuật thùy não hạnh phúc</BlissLobotomy>
+  <!-- EN: hp -->
+  <HP>Thánh mạng</HP>
+  <!-- EN: analyzed -->
+  <Analyzed>đã phân tích</Analyzed>
+  <!-- EN: Highest skill -->
+  <HighestSkill>Kỹ năng cao nhất</HighestSkill>
+  
+  <!-- EN: {0} dropped a shard of dark archotechnology. You can collect and make use of it. -->
+  <MessageShardDropped>{0} đã đánh rơi một mảnh công nghệ viễn cổ đen tối. Bạn có thể thu thập và sử dụng.</MessageShardDropped>
+  
+  <!-- Blood rain -->
+  <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
+  <Berserk_BloodRain>Cơn mưa máu khiến {0} nổi cơn cuồng nộ!</Berserk_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
+  <Manhunter_BloodRain>Cơn mưa máu khiến {0} điên cuồng tấn công con người!</Manhunter_BloodRain>
+  <!-- EN: This happened because of blood rage buildup. -->
+  <MentalBreakReason_BloodRage>Đây là hậu quả của cơn cuồng huyết.</MentalBreakReason_BloodRage>
+  
+  <!-- Unnatural corpses -->
+  <!-- EN: Corpse disappearance -->
+  <LetterLabelCorpseDisappeared>Xác chết biến mất</LetterLabelCorpseDisappeared>
+  <!-- EN: The unnatural corpse has vanished. -->
+  <LetterCorpseDisappeared>Xác chết phi tự nhiên này đã tan biến.</LetterCorpseDisappeared>
+  <!-- EN: {PAWN_nameDef} is starting to feel calmer. -->
+  <LetterCorpseDisappearedPawnAliveAppend>{PAWN_nameDef} đang dần bình tĩnh lại.</LetterCorpseDisappearedPawnAliveAppend>
+
+  <!-- EN: Corpse appearance -->
+  <LetterLabelCorpseReappeared>Xác chết xuất hiện trở lại</LetterLabelCorpseReappeared>
+  <!-- EN: The corpse resembling {PAWN_nameDef} has appeared again, as if out of thin air. -->
+  <LetterCorpseReappeared>Xác chết tương tự {PAWN_nameDef} lại xuất hiện một cách kỳ lạ.</LetterCorpseReappeared>
+  
+  <!-- EN: The corpse resembling {PAWN_nameDef} has somehow gotten out of its {CONTAINER_labelShort}. -->
+  <MessageCorpseEscaped>Xác chết tương tự {PAWN_nameDef} vừa thoát ra khỏi {CONTAINER_labelShort}.</MessageCorpseEscaped>
+  <!-- EN: Failed to resurrect {PAWN_nameDef}. It simply does not respond. -->
+  <MessageUnnaturalCorpseResurrect>Thất bại trong việc hồi sinh {PAWN_nameDef}. Thi thể không phản ứng.</MessageUnnaturalCorpseResurrect>
+  <!-- EN: The unnatural corpse has caused {PAWN_nameDef} to faint. -->
+  <MessagePawnFainted>Xác chết phi tự nhiên khiến {PAWN_nameDef} bất tỉnh.</MessagePawnFainted>
+  <!-- EN: The unnatural corpse has appeared near {PAWN_nameDef} and is approaching! -->
+  <MessageAwokenReappeared>Xác chết phi tự nhiên vừa xuất hiện gần {PAWN_nameDef} và đang tiến đến gần!</MessageAwokenReappeared>
+  <!-- EN: The unnatural corpse has vanished. It will come for {PAWN_nameDef} later. -->
+  <MessageAwokenVanished>Xác chết phi tự nhiên bỗng biến mất. Hắn sẽ quay lại tìm {PAWN_nameDef} sau.</MessageAwokenVanished>
+  <!-- EN: The awoken corpse is attacking {PAWN_nameDef}! -->
+  <MessageAwokenAttacking>Xác chết thức tỉnh đang tấn công {PAWN_nameDef}!</MessageAwokenAttacking>
+  <!-- EN: The awoken corpse has destroyed {PAWN_nameDef}'s brain. -->
+  <MessageAwokenKilledVictim>Xác chết thức tỉnh vừa phá hủy bộ não của {PAWN_nameDef}.</MessageAwokenKilledVictim>
+  <!-- EN: The awoken corpse has disappeared. -->
+  <MessageAwokenDisappeared>Xác chết thức tỉnh vừa biến mất.</MessageAwokenDisappeared>
+
+  <!-- EN: This happened because of the presence of an unnatural corpse. -->
+  <MentalBreakReason_MysteriousCorpse>Đây là do chịu ảnh hưởng từ thi thể phi tự nhiên.</MentalBreakReason_MysteriousCorpse>
+
+  <!-- EN: Unnatural corpse study progress -->
+  <UnnaturalCorpseStudyLetter>Tiến trình nghiên cứu xác chết phi tự nhiên</UnnaturalCorpseStudyLetter>
+  <!-- EN: Your investigation of the unnatural corpse has revealed more about the body. An archotech shard at its core psychically links it with {VICTIM_nameDef}. It will rebuild itself if destroyed, and teleport any distance to be near {VICTIM_nameDef}. \n\n{RESEARCHER_nameDef} thinks that there may be a way to permanently destroy the corpse but will need to study it further.\n\nStudy the corpse more to learn how to destroy it. -->
+  <UnnaturalCorpseStudyLetterDesc>Cuộc điều tra xác chết phi tự nhiên tiết lộ nhiều điều về nó. Mảnh công nghệ viễn cổ trong lõi tạo ra liên kết tâm linh với {VICTIM_nameDef}. Thi thể sẽ được tái tạo lại nếu bị phá hủy, và có sự dịch chuyển đến bất kỳ vị trí nào gần {VICTIM_nameDef}. \n\n {RESEARCHER_nameDef} cho rằng có thể sẽ có cách để tiêu hủy hoàn toàn xác chết này, nhưng cần phải nghiên cứu thêm.\n\nNghiên cứu thêm về xác chết để tìm cách hủy diệt nó.</UnnaturalCorpseStudyLetterDesc>
+
+  <!-- EN: Unnatural corpse study complete -->
+  <UnnaturalCorpseStudyCompletedLetter>Đã hoàn thành nghiên cứu xác chết phi tự nhiên</UnnaturalCorpseStudyCompletedLetter>
+  <!-- EN: Your investigation of the unnatural corpse has revealed how to safely remove the archotech shard. Doing so will stop it from psychically tormenting {VICTIM_nameDef}. However, it will also prevent further study of the corpse. -->
+  <UnnaturalCorpseStudyCompletedLetterDesc>Cuộc nghiên cứu đã tìm ra cách vô hiệu hóa mảnh công nghệ viễn cổ. Việc này sẽ chấm dứt sự dày vò về tinh thần lên {VICTIM_nameDef}, nhưng cũng không thể nghiên cứu xác chết tiếp được.</UnnaturalCorpseStudyCompletedLetterDesc>
+
+  <!-- EN: Corpse shard -->
+  <UnnaturalCorpseDeactivatedLetter>Vô hiệu hóa mảnh công nghệ trong xác chết</UnnaturalCorpseDeactivatedLetter>
+  <!-- EN: {PAWN_nameDef} extracted an archotech shard from the unnatural corpse, the corpse then began to violently bloat and exploded into gore. -->
+  <UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef} tách mảnh công nghệ viễn cổ từ xác chết phi tự nhiên, thi thể sau đó bắt đầu phình to dữ dội và phát nổ thành đống bầy nhầy.</UnnaturalCorpseDeactivatedLetterDesc>
+  <!-- EN: {PAWN_nameDef} is feeling better already. -->
+  <UnnaturalCorpseDeactivatedLetterDescAppended>{PAWN_nameDef} đang cảm thấy khá hơn rồi.</UnnaturalCorpseDeactivatedLetterDescAppended>
+  
+  <!-- EN: Destroy unnatural corpse -->
+  <UnnaturalCorpseDeactivate>Vô hiệu hóa xác chết phi tự nhiên</UnnaturalCorpseDeactivate>
+  <!-- EN: Permanently destroy the unnatural corpse. -->
+  <UnnaturalCorpseDeactivateDesc>Vĩnh viễn tiêu hủy xác chết phi tự nhiên</UnnaturalCorpseDeactivateDesc>
+  <!-- EN: Choose who should destroy this. -->
+  <UnnaturalCorpseGuiLabel>Chọn người thực hiện.</UnnaturalCorpseGuiLabel>
+  <!-- EN: destroy -->
+  <UnnaturalCorpseJobString>tiêu hủy</UnnaturalCorpseJobString>
+  <!-- EN: destroying {0} -->
+  <UnnaturalCorpseActivatingEnroute>đang tiêu hủy {0}</UnnaturalCorpseActivatingEnroute>
+  <!-- EN: destroying {0}: {1}s -->
+  <UnnaturalCorpseActivating>đang tiêu hủy {0}: {1}s</UnnaturalCorpseActivating>
+  
+  <!-- EN: Unnatural corpse -->
+  <UnnaturalCorpseAwakeningLetter>Xác chết phi tự nhiên đang thức tỉnh</UnnaturalCorpseAwakeningLetter>
+  <!-- EN: {PAWN_nameDef} feels the unnatural corpse growing rapidly stronger. Some horrible consciousness is flickering within it.\n\nSomething awful will happen in the next few days. -->
+  <UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef} cảm nhận được xác chết phi tự nhiên trở nên mạnh mẽ hơn rất nhiều. Một ý thức kinh hoàng nào đó đang trỗi dậy bên trong nó.\n\nĐiều gì đó khủng khiếp sẽ xảy ra trong vài ngày tới.</UnnaturalCorpseAwakeningLetterDesc>
+  <!-- EN: Destroy the corpse before it's too late. -->
+  <UnnaturalCorpseAwakeningLetterExtra_StudyComplete>Hủy diệt xác chết trước khi quá muộn.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
+  <!-- EN: Study the corpse to learn how to destroy it. -->
+  <UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>Nghiên cứu thêm để tìm cách tiêu hủy xác chết.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
+
+  <!-- EN: Corpse awakened -->
+  <UnnaturalCorpseAwokenLetter>Xác chết thức tỉnh!</UnnaturalCorpseAwokenLetter>
+  <!-- EN: The unnatural corpse is rising! It intends to attack {PAWN_nameDef}!\n\nThe corpse will follow {PAWN_nameDef} forever no matter how far {PAWN_pronoun} goes.\n\nYou must destroy it now. -->
+  <UnnaturalCorpseAwokenLetterDesc>Xác chết phi tự nhiên đang trỗi dậy! Nó có ý định tấn công {PAWN_nameDef}! \n\nXác chết sẽ truy đuổi {PAWN_nameDef} đến cùng, bất kể {PAWN_pronoun} có đi xa đến đâu.\n\nTiêu diệt ngay lập tức!</UnnaturalCorpseAwokenLetterDesc>
+
+  <!-- EN: Unnatural corpse destroyed! -->
+  <UnnaturalCorpseAwokenDefeatedLetter>Xác chết phi tự nhiên bị tiêu diệt!</UnnaturalCorpseAwokenDefeatedLetter>
+  <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>Xác chết lao vào {PAWN_nameDef} đã bị tiêu diệt! \n\nNó không thể dày vò tâm trí {PAWN_nameDef} nữa.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+
+  <!-- Golden Cube -->
+  <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
+  <MessageGoldenCubeSeverityIncreased>Mức độ mê hoặc Khối lập phương vàng với {PAWN_labelShort} ngày càng tăng cao.</MessageGoldenCubeSeverityIncreased>
+  <!-- EN: {PAWN_labelShort} is experiencing cube withdrawal. -->
+  <MessageGoldenCubeWithdrawal>{PAWN_labelShort} đang chịu đựng cơn nghiện Khối lập phương vàng.</MessageGoldenCubeWithdrawal>
+  <!-- EN: {PAWN_labelShort}'s cube withdrawal has worsened. -->
+  <MessageGoldenCubeWithdrawalIncreased>Triệu chứng nghiện Khối lập phương vàng của {PAWN_labelShort} nặng hơn trước.</MessageGoldenCubeWithdrawalIncreased>
+  <!-- EN: {PAWN_labelShort} has become intrigued by the golden cube. -->
+  <MessageGoldenCubeInterest>{PAWN_labelShort} bị mê hoặc bởi Khối lập phương vàng.</MessageGoldenCubeInterest>
+  <!-- EN: {PAWN_labelShort} is enraged that {PAWN_possessive} cube sculpture was removed. {PAWN_pronoun} might become violent. -->
+  <MessageGoldenCubeSculptureDestroyed>{PAWN_labelShort} nổi cơn thịnh nộ vì tác phẩm điêu khắc khối lập phương bị phá hủy. {PAWN_pronoun} có thể trở nên bạo lực.</MessageGoldenCubeSculptureDestroyed>
+
+  <!-- EN: {PAWN_labelShort} refuses to deactivate the golden cube. -->
+  <CannotDisableCube>{PAWN_labelShort} từ chối vô hiệu hóa Khối lập phương vàng.</CannotDisableCube>
+  
+  <!-- EN: Cube coma: {PAWN_labelShort} -->
+  <LetterLabelGoldenCubeComa>hôn mê do khối lập phương: {PAWN_labelShort}</LetterLabelGoldenCubeComa>
+  <!-- EN: {PAWN_labelShort}'s cube withdrawal has sent {PAWN_objective} into a coma. {PAWN_pronoun} will remain in a coma until the golden cube's psychic link has completely dissipated. -->
+  <LetterGoldenCubeComa>{PAWN_labelShort} bị hôn mê do cơn nghiện Khối lập phương. {PAWN_pronoun} sẽ tiếp tục hôn mê cho đến khi năng lực tâm linh của Khối lập phương tiêu tan hoàn toàn.</LetterGoldenCubeComa>
+
+  <!-- EN: Deactivating the golden cube will cause any cube-interested people to enter a violent berserk rage. Any cube-interested people in caravans will be permanently lost. -->
+  <CubeDeactivationConfirmation>Vô hiệu hóa Khối lập phương vàng sẽ khiến tất cả người có cảm tình với nó trở lên điên cuồng giận dữ. Những người này trong các đoàn lữ hành sẽ bỏ đi vĩnh viễn.</CubeDeactivationConfirmation>
+  <!-- EN: The following people will enter a berserk rage -->
+  <CubeDeactivationConfirmationPawnsBerserk>Những người sau đây sẽ nổi cơn cuồng nộ:</CubeDeactivationConfirmationPawnsBerserk>
+  <!-- EN: The following people will run away and be lost -->
+  <CubeDeactivationConfirmationPawnsLost>Những người sau đây sẽ bỏ chạy và vĩnh viễn rời khỏi thuộc địa:</CubeDeactivationConfirmationPawnsLost>
+  <!-- EN: Are you sure you want to continue? -->
+  <CubeDeactivationConfirmationEnd>Bạn chắc chắn muốn tiếp tục chứ?</CubeDeactivationConfirmationEnd>
+  <!-- EN: Cube deactivation -->
+  <CubeDeactivationBerserk>Vô hiệu hóa Khối lập phương</CubeDeactivationBerserk>
+  <!-- EN: {PAWN_labelShort} has successfully destroyed the golden cube. The psychic whiplash has driven colonists into a berserk rage! -->
+  <CubeDeactivationBerserkDesc>{PAWN_labelShort} đã thành công phá hủy Khối lập phương vàng. Dư chấn tâm linh khiến thực dân nổi cơn cuồng nộ!</CubeDeactivationBerserkDesc>
+  <!-- EN: These people have entered a temporary berserk rage -->
+  <CubeDeactivationBerserkPawns>Những người dưới đây đang nổi cơn cuồng nộ tạm thời:</CubeDeactivationBerserkPawns>
+  <!-- EN: These people in caravans have run away in a rage -->
+  <CubeDeactivationLostPawns>Những người dưới đây thuộc các đoàn lữ hành đã bỏ đi trong cơn thịnh nộ:</CubeDeactivationLostPawns>
+
+  <!-- EN: This happened because of {PAWN_possessive} obsession with the cube. -->
+  <MentalBreakReason_CubeSculpting>Đây là do ham mê Khối lập phương của {PAWN_possessive}.</MentalBreakReason_CubeSculpting>
+  
+  <!-- EN: dirt -->
+  <CubeMaterialDirt>đất</CubeMaterialDirt>
+  <!-- EN: stone -->
+  <CubeMaterialStone>đá</CubeMaterialStone>
+  <!-- EN: sand -->
+  <CubeMaterialSand>cát</CubeMaterialSand>
+  <!-- EN: scrap -->
+  <CubeMaterialScrap>phế liệu</CubeMaterialScrap>
+  
+  <!-- EN: building a sculpture. -->
+  <ReportBuildingCubeEnroute>đang dựng tác phẩm khối lập phương...</ReportBuildingCubeEnroute>
+  
+  <!-- Slaughter ability -->
+  <!-- EN: Cannot slaughter: {PAWN_labelShort} does not have flesh. -->
+  <MessageSlaughterNoFlesh>Không thể làm thịt: {PAWN_labelShort} không có thịt.</MessageSlaughterNoFlesh>
+  <!-- EN: Cannot slaughter: {PAWN_labelShort} is too large. -->
+  <MessageSlaughterTooBig>Không thể làm thịt: {PAWN_labelShort} quá lớn.</MessageSlaughterTooBig>
+  
+  <!-- Labyrinth -->
+  <!-- EN: Entering the labyrinth -->
+  <GeneratingLabyrinth>Đang tạo Mê cung...</GeneratingLabyrinth>
+  <!-- EN: {PAWN_nameDef} has vanished. -->
+  <MessagePawnVanished>{PAWN_nameDef} đã biến mất.</MessagePawnVanished>
+  <!-- EN: {PAWN_nameDef} has reappeared. -->
+  <MessagePawnReappeared>{PAWN_nameDef} xuất hiện lại.</MessagePawnReappeared>
+  
+  <!-- EN: Exit direction -->
+  <FloorEtchingsInspectorExit>Lối ra</FloorEtchingsInspectorExit>
+  
+  <!-- EN: Warped obelisk -->
+  <LetterLabelObeliskDiscovered>warped obelisk được phát hiện</LetterLabelObeliskDiscovered>
+  <!-- EN: {PAWN_nameDef} has discovered a large obelisk. It looks nearly identical to the one that originally brought {PAWN_objective} here. Perhaps it can be activated to return {PAWN_objective} home.\n\nSelect {PAWN_nameDef} and right-click the obelisk to activate it. -->
+  <LetterObeliskDiscovered>{PAWN_nameDef} vừa phát hiện một Obelisk khổng lồ. Nó gần như giống hệt cái đã đưa {PAWN_objective} đến đây. Có lẽ nó có thể được kích hoạt để đưa {PAWN_objective} trở lại quê nhà.\n\nChọn {PAWN_nameDef} và nhấp chuột phải vào obelisk để kích hoạt.</LetterObeliskDiscovered>
+  
+  <!-- EN: Floor etchings -->
+  <LetterLabelFloorEtchings>Vết khắc trên sàn</LetterLabelFloorEtchings>
+  <!-- EN: {PAWN_nameDef} has managed to decipher the floor etchings.\n\n{RAMBLINGS}\n\nThey seem to indicate that an exit is somewhere {DIRECTION} of here. -->
+  <LetterFloorEtchings>{PAWN_nameDef} đã giải mã được những vết khắc sàn.\n\n{RAMBLINGS}\n\nCó vẻ như chúng chỉ đường ra phía {DIRECTION} từ đây.</LetterFloorEtchings>
+
+  <!-- EN: Floor etchings -->
+  <LetterLabelFloorEtchingRamblings>Những lời thì thầm của vết khắc sàn...</LetterLabelFloorEtchingRamblings>
+  <!-- EN: {PAWN_nameDef} has managed to decipher the floor etchings. -->
+  <LetterFloorEtchingsRamblings>{PAWN_nameDef} đã giải mã được các vết khắc sàn.</LetterFloorEtchingsRamblings>
+
+  <!-- EN: Colonists returned -->
+  <LetterLabelLabyrinthExit>Thực dân quay trở lại</LetterLabelLabyrinthExit>
+  <!-- EN: The whirring obelisk has returned your abducted colonists. Shortly after doing so, it vanished into thin air.\n\nBe careful, the obelisk may have returned other creatures as well. -->
+  <LetterLabyrinthExit>Obelisk biến dạng đã đưa những thực dân bị bắt quay trở lại. Ngay sau đó, nó biến mất vào hư không.\n\nHãy cẩn thận, Obelisk cũng có thể đã đưa về những sinh vật khác nữa.</LetterLabyrinthExit>
+
+  <!-- EN: Jammed shut. Must be forced open. -->
+  <GrayDoorJammed>Bị kẹt cứng. Cần phải cạy mở.</GrayDoorJammed>
+  <!-- EN: Activated by proximity. -->
+  <ActivatedByProximity>Kích hoạt khi ở gần.</ActivatedByProximity>
+
+  <!-- Void monolith -->
+  <!-- EN: No available pawns. -->
+  <MonolithActivateDisabledPawns>Không có quân cờ khả dụng.</MonolithActivateDisabledPawns>
+  <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
+  <VoidMonolithInvestigatedText>Bề mặt kim loại sẫm màu của khối đá phát ra hơi ấm khi chạm vào, và {PAWN_nameDef} cảm thấy như {PAWN_pronoun} đang nghe thấy một âm vang nhẹ phát ra từ bên trong. Những đường vân trên lớp bụi phủ lăn tăn chuyển động một cách bất an.
+    \n\n {PAWN_nameDef} tập trung vào các hình dạng đó, cố gắng giải mã ý nghĩa ẩn sau chúng.
+     \n\nÂm vang dần lớn hơn. Các hình thù bắt đầu trôi chảy trong tầm nhìn của {PAWN_nameDef},
+  nhưng bề mặt không hề đổi thay. Sức mạnh bắt đầu cuộn xoáy trong không gian trống rỗng xung quanh. Một hình thù đen kịt hình thành bên trong đầu {PAWN_nameDef}. \n\nDị thường đang khuấy động...</VoidMonolithInvestigatedText>
+  <!-- EN: Keep focusing on the Anomaly -->
+  <VoidMonolithInvestigate>Tiếp tục tập trung vào Dị thường</VoidMonolithInvestigate>
+  <!-- EN: Walk away -->
+  <VoidMonolithWalkAway>Rời đi</VoidMonolithWalkAway>
+  <!-- EN: View quest -->
+  <VoidMonolithViewQuest>Xem nhiệm vụ</VoidMonolithViewQuest>
+  <!-- EN: View Anomaly research -->
+  <VoidMonolithViewResearch>Xem nghiên cứu Dị thường</VoidMonolithViewResearch>
+  <!-- EN: Current monolith level -->
+  <CurrentMonolithLevel>Mức độ Tượng đài hiện tại</CurrentMonolithLevel>
+  <!-- EN: Investigate to learn more. -->
+  <VoidMonolithUndiscovered>Điều tra thêm để hiểu rõ hơn.</VoidMonolithUndiscovered>
+  <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
+  <VoidMonolithRequiredEntityCategory>Để nâng cấp Tượng đài lên bước tiếp theo, bạn cần phải khám phá {0} sinh thể bậc {1}.</VoidMonolithRequiredEntityCategory>
+  <!-- EN: Discovered: {0} -->
+  <DiscoveredCount>Đã khám phá: {0}</DiscoveredCount>
+  <!-- EN: Required entities discovered. -->
+  <VoidMonolithAllEntitiesDiscovered>Sinh thể cần thiết đã được khám phá.</VoidMonolithAllEntitiesDiscovered>
+  <!-- EN: Required to increase level -->
+  <VoidMonolithRequiresDiscovery>Yêu cầu khám phá thêm để tăng cấp</VoidMonolithRequiresDiscovery>
+  <!-- EN: Undiscovered entities -->
+  <VoidMonolithRequiresDiscoveryShort>Sinh thể chưa khám phá</VoidMonolithRequiresDiscoveryShort>
+  <!-- EN: Must discover {0} more {1} monolith entities. -->
+  <VoidMonolithRequiresCategory>Cần khám phá thêm {0} sinh thể Tượng đài bậc {1}.</VoidMonolithRequiresCategory>
+  <!-- EN: Disturbing vision -->
+  <VoidMonolithVisionLabel>Ám ảnh kinh hoàng</VoidMonolithVisionLabel>
+  <!-- EN: {PAWN_nameDef} has had a strange dream. In it, {PAWN_pronoun} saw a black shape, unfurling in space and time, growing and consuming. The shape originated from a nearby crumbled monolith.\n\nUpon waking from the vision, {PAWN_nameDef} feels strangely drawn to the monolith. It calls to {PAWN_objective}. -->
+  <VoidMonolithVisionText>{PAWN_nameDef} mộng thấy một cơn ác mộng kỳ lạ. Trong mơ, {PAWN_pronoun} nhìn thấy một hình khối đen trải dài trong không gian và thời gian, phát triển và tiêu thụ. Hình khối bắt nguồn từ một Tượng đài sụp đổ gần đó. \n\nSau khi tỉnh giấc, {PAWN_nameDef} bị cuốn hút đến Tượng đài một cách kỳ lạ. Nó đang gọi {PAWN_objective}.</VoidMonolithVisionText>
+  <!-- EN: Choose who should do this -->
+  <VoidMonolithChooseActivator>Chọn người thực hiện.</VoidMonolithChooseActivator>
+  <!-- EN: Target is downed -->
+  <VoidMonolithActivatorDowned>Mục tiêu đã gục ngã.</VoidMonolithActivatorDowned>
+  <!-- EN: Target in mental state -->
+  <VoidMonolithActivatorMentalState>Mục tiêu trong trạng thái tinh thần không ổn định.</VoidMonolithActivatorMentalState>
+  <!-- EN: Target is busy -->
+  <VoidMonolithActivatorBusy>Mục tiêu đang bận.</VoidMonolithActivatorBusy>
+  <!-- EN: Target is incapable -->
+  <VoidMonolithActivatorIncapable>Mục tiêu không đủ khả năng.</VoidMonolithActivatorIncapable>
+  <!-- EN: Monolith arrival -->
+  <MonolithArrivalLabel>Tượng đài xuất hiện</MonolithArrivalLabel>
+  <!-- EN: Interacting with the psychic signal has caused a strange structure to appear. -->
+  <MonolithArrivalText>Tương tác với tín hiệu tâm linh đã khiến một cấu trúc kỳ lạ xuất hiện.</MonolithArrivalText>
+  <!-- EN: It is very similar, if not identical, to the monolith you previously encountered. -->
+  <MonolithArrivalTextExt>Nó rất giống, nếu không muốn nói là giống hệt, với monolith mà bạn gặp trước đó.</MonolithArrivalTextExt>
+  <!-- EN: Can't {0} monolith -->
+  <CantActivateMonolith>Không thể kích hoạt tượng đài {0}</CantActivateMonolith>
+
+  <!-- EN: Monolith twisting -->
+  <MonolithTwistingAlert>Tượng đài bị bẻ cong</MonolithTwistingAlert>
+  <!-- EN: Your presence has caused the monolith to twist and morph. Soon the process will be complete. Be prepared for whatever comes next. -->
+  <MonolithTwistingExplanation>Sự hiện diện của bạn đã làm Tượng đài bị bẻ cong và biến dạng. Chẳng mấy nữa, quá trình sẽ hoàn tất. Hãy sẵn sàng cho bất cứ điều gì xảy ra tiếp theo.</MonolithTwistingExplanation>
+  <!-- EN: Fallen monolith -->
+  <MonolithAutoActivatingLabel>Tượng đài tự kích hoạt</MonolithAutoActivatingLabel>
+  <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
+  <MonolithAutoActivatingText>Một làn sóng kinh hoàng bao trùm những thực dân của bạn. Tượng đài đã bắt đầu khuấy động. Từng phút, nó bẻ cong và tự sắp xếp mình, biến đổi thành một thứ gì đó mới. \n\nTrong vòng vài ngày, quá trình sẽ hoàn tất. Hãy sẵn sàng cho bất cứ điều gì xảy ra tiếp theo.</MonolithAutoActivatingText>
+  <!-- EN: Void monolith -->
+  <MonolithAutoActivatedLabel>Tượng đài Hư Vô</MonolithAutoActivatedLabel>
+  <!-- EN: The monolith’s transformation is almost complete... -->
+  <MonolithAutoActivatedText>Quá trình biến đổi của tượng đài Hư Vô đang gần như hoàn tất...</MonolithAutoActivatedText>
+
+  <!-- EN: Gray pall -->
+  <LetterLabelGrayPallDescending>Màn sương xám u ám</LetterLabelGrayPallDescending>
+  <!-- EN: A blanket of gritty fog has descended on this area. The fog smells ancient, somehow, and it stings the skin. The unnatural grayness of it invokes a sense of dread. -->
+  <LetterGrayPallDescending>Một màn sương mù dày đặc và bụi bặm đã bao phủ khu vực này. Sương có mùi rất cổ xưa, và bằng cách nào đó, nó làm rát da. Màu xám phi tự nhiên của nó gợi lên cảm giác sợ hãi.</LetterGrayPallDescending>
+
+  <!-- Void Awakening -->
+  <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
+  <VoidAwakeningConfirmationText>Thức tỉnh Tượng đài Hư Vô sẽ bao trùm khu định cư của bạn trong bóng tối vài ngày và thu hút các thực thể mạnh mẽ tới đây. Hãy chắc chắn rằng bạn đã được chuẩn bị kỹ lưỡng: \n    \n\n - Dự trữ thực phẩm, vật liệu xây dựng và vũ khí. \n\n - Đảm bảo rằng khu định cư của bạn được thắp sáng đầy đủ, và có nguồn điện dồi dào. Tránh dựa vào máy phát điện mặt trời. \n\n - Chắc chắn rằng khu định cư của bạn được phòng thủ tốt, và các thực dân luôn sẵn sàng chiến đấu. \n\nKhi đã thức tỉnh Tượng đài Hư Vô, sẽ không có đường quay lại.\n\nBạn chắc chắn vẫn muốn tiếp tục chứ?</VoidAwakeningConfirmationText>
+  <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
+  <VoidNodeLetter>Một quả cầu năng lượng tâm linh đang uốn éo nổi lên trước mặt {PAWN_nameDef}. Bề mặt của nó căng phồng và xoay vặn, bẻ cong không gian xung quanh.\n\n{PAWN_nameDef} cảm nhận được nó bên trong tâm khảm mình, sâu tận cốt tủy. Nó đánh bại cả lý trí, kéo {PAWN_objective} trôi lững lờ vào trong hư không. {PAWN_pronoun} đang đứng trên bờ của một đại dương đen vô hạn, và nó vẫy gọi {PAWN_objective}.\n\n{PAWN_nameDef} tự kéo {PAWN_objective} trở về thực tại.\n\nCác thiết bị công nghệ viễn cổ gần đó đang nâng đỡ quả cầu thông qua những sợi liên kết mỏng manh. {PAWN_nameDef} có thể làm gián đoạn chúng, đóng lại cánh cổng giữa các thế giới và chấm dứt hiện tượng kinh hoàng đang bao phủ quê hương bạn.\n\nHoặc, {PAWN_pronoun} có thể bước vào quả cầu và hòa làm một với hư vô. Không ai biết đâu là điểm đến, hay quyền lực hắc ám nào sẽ được ban tặng.</VoidNodeLetter>
+  <!-- EN: Disrupt the link -->
+  <VoidNodeDisrupt>Cắt đứt liên kết</VoidNodeDisrupt>
+  <!-- EN: Embrace the void -->
+  <VoidNodeEmbrace>Quyến rũ bởi hư vô</VoidNodeEmbrace>
+  <!-- EN: Postpone -->
+  <VoidNodePostpone>Hoãn binh</VoidNodePostpone>
+  <!-- EN: The psychic flows destabilize and the twisted machinery screams. The swirling void flickers. {PAWN_nameDef} feels it shuddering and collapsing into itself.\n\nThe metallic cavern begins to twist, reshaping like the chamber of a massive heart. Before {PAWN_nameDef} has a chance to scream, {PAWN_pronoun} blinks out of existence.\n\n{PAWN_nameDef} has rejected the void.\n\n{PAWN_possessive} story continues... -->
+  <DisruptTheLinkCredits>Các dòng năng lượng tâm linh mất cân bằng và máy móc công nghệ viễn cổ bắt đầu rú lên. Hư vô chập chờn. {PAWN_nameDef} cảm thấy nó dềnh lên đến giới hạn của mình rồi đột ngột co cụm lại.\n\nHang động kim loại bắt đầu vặn vẹo, thay đổi hình dạng như trái tim sống khổng lồ. Trước khi {PAWN_nameDef} kịp la hét, {PAWN_pronoun} chớp mắt biến mất.\n\n{PAWN_nameDef} đã từ chối hư vô.\n\nCâu chuyện của {PAWN_possessive} tiếp tục...</DisruptTheLinkCredits>
+  <!-- EN: {PAWN_nameDef} steps into the void and the black ocean floods into {PAWN_objective}, overwhelming every sense, suffusing every thought in {PAWN_possessive} mind.\n\nThe void node has been refocused away from the world, towards one single person. The void structures scream, then blink out of existence.\n\n{PAWN_nameDef} has embraced the void.\n\n{PAWN_possessive} story continues... -->
+  <EmbraceTheVoidCredits>{PAWN_nameDef} bước vào hư không và đại dương đen ngập tràn {PAWN_objective}, áp đảo mọi giác quan, xâm nhập từng tế bào trong cơ thể và từng ý nghĩ trong tâm trí của {PAWN_possessive} \n\nCấu trúc hư vô bị bẻ lái, từ thế giới sang hướng về một cá nhân duy nhất. Các kết cấu hư vô rú lên, bị xé toạc khỏi nền tảng viễn cổ, rồi bốc hơi.\n\n{PAWN_nameDef} đã chọn ôm lấy hư vô.\n\nCâu chuyện của {PAWN_possessive} tiếp tục...</EmbraceTheVoidCredits>
+  <!-- EN: {PAWN_nameDef} has finished activating {STRUCTURE_definite} -->
+  <StructureActivatedMessage>{PAWN_nameDef} đã kích hoạt {STRUCTURE_definite}</StructureActivatedMessage>
+  <!-- EN: Structures activated -->
+  <StructuresActivatedAlertLabel>Cấu trúc hư vô</StructuresActivatedAlertLabel>
+  <!-- EN: Activate void structures to complete the monolith awakening. -->
+  <StructuresActivatedAlertDescription>Kích hoạt các cấu trúc hư vô để hoàn tất quá trình thức tỉnh Tượng đài.</StructuresActivatedAlertDescription>
+  <!-- EN: {PAWN_nameDef}'s connection to the void monolith has been broken. It must be activated again. -->
+  <GleamingMonolithInterrupted>Liên kết của {PAWN_nameDef} với Tượng đài Hư Vô đã bị phá vỡ. Nó cần được kích hoạt lại.</GleamingMonolithInterrupted>
+
+  <!-- HediffComp_GiveLovinMTBFactor -->
+  <!-- EN: Increases the chance of lovin` -->
+  <IncreasesChanceOfLovin>Tăng cơ hội ân ái tự nhiên</IncreasesChanceOfLovin>
+
+  <!-- EN: Unnatural {0_label} corpse -->
+  <UnnaturalCorpse>Xác chết {0_label} phi tự nhiên</UnnaturalCorpse>
+
+  <!-- Studiable -->
+  <!-- EN: Knowledge from study reduced -->
+  <KnowledgeFactorOutdoors>Kiến thức thu nạp giảm khi ở ngoài trời.</KnowledgeFactorOutdoors>
+
+  <!-- Unnatural darkness -->
+  <!-- EN: Emergence in {0} -->
+  <EmergenceIn>Xuất hiện trong {0}</EmergenceIn>
+  <!-- EN: Something will emerge from the ground in {0}. -->
+  <EmergenceInDesc>Một thứ gì đó sẽ trồi lên từ lòng đất trong {0}.</EmergenceInDesc>
+  
+  <!-- Bioferrite harvester -->
+  <!-- EN: Bioferrite contained -->
+  <BioferriteHarvesterContained>Chứa Sinh vật Ferrite</BioferriteHarvesterContained>
+  <!-- EN: per day -->
+  <BioferriteHarvesterPerDay>mỗi ngày</BioferriteHarvesterPerDay>
+  <!-- EN: Eject contents -->
+  <BioferriteHarvesterEjectContents>Đẩy vật liệu ra</BioferriteHarvesterEjectContents>
+  <!-- EN: Eject all contained {0} onto the ground. -->
+  <BioferriteHarvesterEjectContentsDesc>Đẩy toàn bộ {0} chứa bên trong ra mặt đất.</BioferriteHarvesterEjectContentsDesc>
+  <!-- EN: Toggle bioferrite unloading -->
+  <BioferriteHarvesterToggleUnloading>Bật/tắt dỡ hàng</BioferriteHarvesterToggleUnloading>
+  <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
+  <BioferriteHarvesterToggleUnloadingDesc>Khi được kích hoạt, thực dân sẽ tự động dỡ hàng khỏi Bộ thu gom Sinh vật Ferrite vào lúc đầy.</BioferriteHarvesterToggleUnloadingDesc>
+  
+  <!-- Proximity detector -->
+  <!-- EN: Invisible creature detected. -->
+  <ProximityDetectorCreatureDetected>Phát hiện sinh vật tàng hình.</ProximityDetectorCreatureDetected>
+  
+  <!-- Frenzy inducer -->
+  <!-- EN: Generating frenzy field. -->
+  <FrenzyInducerEffectDescription>Đang phát trường cuồng nộ.</FrenzyInducerEffectDescription>
+  <!-- EN: This happened due to the influence of a frenzy inducer. -->
+  <MentalBreakReason_FrenzyInducer>Đây là do chịu ảnh hưởng từ trường cuồng nộ.</MentalBreakReason_FrenzyInducer>
+  
+  <!-- Sleep suppressor -->
+  <!-- EN: sleepless psychic pulsation. -->
+  <SleepSuppressorEffectDescription>Xung động tâm linh triệt tiêu ham muốn ngủ.</SleepSuppressorEffectDescription>
+  
+  <!-- Devourer -->
+  <!-- EN: Being digested by {0_labelShort}. -->
+  <DigestedBy>Đang bị {0_labelShort} tiêu hóa.</DigestedBy>
+
+  <!-- Chimeras -->
+  <!-- EN: The chimera is {0} -->
+  <MessageChimeraModeChangeSingular>Sinh vật Chimera đang {0}</MessageChimeraModeChangeSingular>
+  <!-- EN: The chimeras are {0} -->
+  <MessageChimeraModeChangePlural>Những Sinh vật Chimera đang {0}</MessageChimeraModeChangePlural>
+  <!-- EN: temporarily withdrawing. -->
+  <MessageChimeraWithdrawing>đang tạm rút lui.</MessageChimeraWithdrawing>
+
+  <!-- EN: Chimeras attacking -->
+  <LetterChimerasAttackingLabel>Sinh vật Chimera tấn công!</LetterChimerasAttackingLabel>
+  <!-- EN: The chimeras have begun their attack! -->
+  <LetterChimerasAttacking>Sinh vật Chimera đã bắt đầu cuộc tấn công!</LetterChimerasAttacking>
+  
+ <!-- Anomaly event frequency -->
+<!-- EN: No major threats -->
+<AnomalyFrequency_None>Không có mối đe dọa chính</AnomalyFrequency_None>
+
+<!-- EN: Very rare -->
+<AnomalyFrequency_VeryRare>Rất hiếm</AnomalyFrequency_VeryRare>
+
+<!-- EN: Rare -->
+<AnomalyFrequency_Rare>Hiếm</AnomalyFrequency_Rare>
+
+<!-- EN: Balanced -->
+<AnomalyFrequency_Balanced>Cân bằng</AnomalyFrequency_Balanced>
+
+<!-- EN: Intense -->
+<AnomalyFrequency_Intense>Mãnh liệt</AnomalyFrequency_Intense>
+
+<!-- EN: Overwhelming -->
+<AnomalyFrequency_Overwhelming>Choáng ngợp</AnomalyFrequency_Overwhelming>
+
+<!-- EN: Security doors only -->
+<SecurityDoorsOnly>Chỉ cửa bảo mật</SecurityDoorsOnly>
+
+  
+</LanguageData>

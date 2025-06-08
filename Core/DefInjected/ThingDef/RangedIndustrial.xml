@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: assault rifle bullet -->
+  <Bullet_AssaultRifle.label>đạn súng trường tấn công</Bullet_AssaultRifle.label>
+  
+  <!-- EN: autopistol bullet -->
+  <Bullet_Autopistol.label>đạn súng lục</Bullet_Autopistol.label>
+  
+  <!-- EN: bolt-action rifle bullet -->
+  <Bullet_BoltActionRifle.label>đạn súng trường cổ điển</Bullet_BoltActionRifle.label>
+  
+  <!-- EN: EMP launcher shell -->
+  <Bullet_EMPLauncher.label>đạn súng phóng lựu EMP</Bullet_EMPLauncher.label>
+  
+  <!-- EN: heavy SMG bullet -->
+  <Bullet_HeavySMG.label>đạn tiểu liên hạng nặng</Bullet_HeavySMG.label>
+  
+  <!-- EN: incendiary bolt -->
+  <Bullet_IncendiaryLauncher.label>đạn gây cháy</Bullet_IncendiaryLauncher.label>
+  
+  <!-- EN: LMG bullet -->
+  <Bullet_LMG.label>đạn súng máy</Bullet_LMG.label>
+  
+  <!-- EN: machine pistol bullet -->
+  <Bullet_MachinePistol.label>đạn tiểu liên</Bullet_MachinePistol.label>
+  
+  <!-- EN: minigun bullet -->
+  <Bullet_Minigun.label>đạn đại liên</Bullet_Minigun.label>
+  
+  <!-- EN: revolver bullet -->
+  <Bullet_Revolver.label>đạn súng lục ổ xoay</Bullet_Revolver.label>
+  
+  <!-- EN: shotgun blast -->
+  <Bullet_Shotgun.label>đạn shotgun</Bullet_Shotgun.label>
+  
+  <!-- EN: smoke launcher shell -->
+  <Bullet_SmokeLauncher.label>vỏ phóng khói</Bullet_SmokeLauncher.label>
+  
+  <!-- EN: sniper rifle bullet -->
+  <Bullet_SniperRifle.label>đạn súng bắn tỉa</Bullet_SniperRifle.label>
+  
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.label>súng trường tấn công</Gun_AssaultRifle.label>
+  <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
+  <Gun_AssaultRifle.description>Cải tiến từ dòng súng trường bán tự động cổ điển với khả năng bắn liên thanh. Đa năng, thích hợp ở địa hình đồng bằng hoặc đô thị. Tầm bắn xa, hỏa lực trung bình - khá và độ chính xác cao.</Gun_AssaultRifle.description>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle.tools.stock.label>báng súng</Gun_AssaultRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle.tools.barrel.label>nòng súng</Gun_AssaultRifle.tools.barrel.label>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>súng trường tấn công</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.label>súng lục</Gun_Autopistol.label>
+  <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
+  <Gun_Autopistol.description>Loại súng cổ điển với cơ chế bắn bán tự động. Hỏa lực và tầm bắn thấp nhưng tốc độ bắn cao.</Gun_Autopistol.description>
+  <!-- EN: grip -->
+  <Gun_Autopistol.tools.grip.label>báng súng</Gun_Autopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Autopistol.tools.barrel.label>nòng súng</Gun_Autopistol.tools.barrel.label>
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.verbs.Verb_Shoot.label>súng lục</Gun_Autopistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.label>súng trường cổ điển</Gun_BoltActionRifle.label>
+  <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
+  <Gun_BoltActionRifle.description>Loại súng trường lên đạn bằng từng viên bằng cách kéo thoi nạp đạn bằng tay (bolt-action). Tầm bắn xa, tốc độ bắn chậm nên thích hợp cho việc săn thú hơn là săn người.</Gun_BoltActionRifle.description>
+  <!-- EN: stock -->
+  <Gun_BoltActionRifle.tools.stock.label>báng súng</Gun_BoltActionRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoltActionRifle.tools.barrel.label>nòng súng</Gun_BoltActionRifle.tools.barrel.label>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>súng trường cổ điển</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.label>shotgun tự động</Gun_ChainShotgun.label>
+  <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
+  <Gun_ChainShotgun.description>Shotgun loại nạp đạn tự động từ băng đạn. Tầm bắn thấp hơn hẳn shotgun thường nhưng cực kfi nguy hiểm vì khả năng bắn liên thanh của nó.</Gun_ChainShotgun.description>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun.tools.stock.label>báng súng</Gun_ChainShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun.tools.barrel.label>nòng súng</Gun_ChainShotgun.tools.barrel.label>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>shotgun tự động</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: EMP launcher -->
+  <Gun_EmpLauncher.label>súng phóng lựu EMP</Gun_EmpLauncher.label>
+  <!-- EN: A wide-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect. -->
+  <Gun_EmpLauncher.description>Một bệ phóng EMP nòng rộng. Viên đạn khi va chạm sẽ giải phóng một luồng năng lượng điện từ, làm choàng các mục tiêu cơ học xung quanh (các cỗ máy chiến đấu cơ, tháp pháo, súng cối) và làm cạn các tấm khiên trong khu vực có hiệu lực.</Gun_EmpLauncher.description>
+  <!-- EN: stock -->
+  <Gun_EmpLauncher.tools.stock.label>báng súng</Gun_EmpLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_EmpLauncher.tools.barrel.label>nòng súng</Gun_EmpLauncher.tools.barrel.label>
+  <!-- EN: EMP launcher -->
+  <Gun_EmpLauncher.verbs.Verb_Shoot.label>súng phóng lựu EMP</Gun_EmpLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.label>tiểu liên hạng nặng</Gun_HeavySMG.label>
+  <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
+  <Gun_HeavySMG.description>Loại súng tiểu liên trang bị đạn cỡ lớn, tầm ngắn, độ chính xác cao và hỏa lực khá mạnh.</Gun_HeavySMG.description>
+  <!-- EN: grip -->
+  <Gun_HeavySMG.tools.grip.label>báng súng</Gun_HeavySMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG.tools.barrel.label>nòng súng</Gun_HeavySMG.tools.barrel.label>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>tiểu liên hạng nặng</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.label>súng phun lửa</Gun_IncendiaryLauncher.label>
+  <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
+  <Gun_IncendiaryLauncher.description>Loại súng nào có tầm bắn trung bình, có khả năng bắn ra những phát đạn tới mục tiêu, phát nổ và gây cháy ở khu vực nhỏ.</Gun_IncendiaryLauncher.description>
+  <!-- EN: stock -->
+  <Gun_IncendiaryLauncher.tools.stock.label>báng súng</Gun_IncendiaryLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_IncendiaryLauncher.tools.barrel.label>nòng súng</Gun_IncendiaryLauncher.tools.barrel.label>
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>súng phun lửa</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: LMG -->
+  <Gun_LMG.label>súng máy</Gun_LMG.label>
+  <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
+  <Gun_LMG.description>Súng máy tự động, thiết kế với hỏa lực mạnh với tốc độ bắn cao dùng để hỗ trợ hỏa lực, tấn công mục tiêu di chuyển rất tốt. Tuy nhiên, độ chính xác khá kém.</Gun_LMG.description>
+  <!-- EN: stock -->
+  <Gun_LMG.tools.stock.label>báng súng</Gun_LMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LMG.tools.barrel.label>nòng súng</Gun_LMG.tools.barrel.label>
+  <!-- EN: LMG -->
+  <Gun_LMG.verbs.Verb_Shoot.label>súng máy</Gun_LMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.label>tiểu liên</Gun_MachinePistol.label>
+  <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
+  <Gun_MachinePistol.description>Thiết kế nhỏ gọn, hỏa lực và tầm bắn thấp nhưng tốc độ bắn cao đã phần nào bù được nhược điểm của loại súng này.</Gun_MachinePistol.description>
+  <!-- EN: grip -->
+  <Gun_MachinePistol.tools.grip.label>báng súng</Gun_MachinePistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_MachinePistol.tools.barrel.label>nòng súng</Gun_MachinePistol.tools.barrel.label>
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>tiểu liên</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: minigun -->
+  <Gun_Minigun.label>đại liên</Gun_Minigun.label>
+  <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
+  <Gun_Minigun.description>Loại súng đa nòng. Khá cồng kềnh, nhưng một khi đã bắn thì tốc độ bắn rất nhanh. Trong khi các loại súng khác sử dụng cơ chế trích một phần khí thuốc để nạp đạn tự động thì đại liên sử dụng một mô-tơ điện để xoay nòng súng làm tăng tốc độ bắn của súng lên nhiều lần.</Gun_Minigun.description>
+  <!-- EN: barrels -->
+  <Gun_Minigun.tools.barrels.label>nòng súng</Gun_Minigun.tools.barrels.label>
+  <!-- EN: minigun -->
+  <Gun_Minigun.verbs.Verb_Shoot.label>đại liên</Gun_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.label>shotgun</Gun_PumpShotgun.label>
+  <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
+  <Gun_PumpShotgun.description>Loại súng đặc biệt bắn ra chùm viên đạn cỡ nhỏ gây sát thương diện rộng, lên đạn từng viên một bằng ống bơm hoặc khóa nòng. Tuy nhiên tầm bắn của loại súng này rất ngắn.</Gun_PumpShotgun.description>
+  <!-- EN: stock -->
+  <Gun_PumpShotgun.tools.stock.label>báng súng</Gun_PumpShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PumpShotgun.tools.barrel.label>nòng súng</Gun_PumpShotgun.tools.barrel.label>
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>shotgun</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: revolver -->
+  <Gun_Revolver.label>súng lục ổ xoay</Gun_Revolver.label>
+  <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
+  <Gun_Revolver.description>Loại súng lục ổ xoay cổ điển đặc trưng cho miền Viễn Tây nước Mỹ xưa. Hỏa lực khá, tầm bắn trung bình và tốc độ rút súng nhanh.</Gun_Revolver.description>
+  <!-- EN: grip -->
+  <Gun_Revolver.tools.grip.label>báng súng</Gun_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver.tools.barrel.label>nòng súng</Gun_Revolver.tools.barrel.label>
+  <!-- EN: revolver -->
+  <Gun_Revolver.verbs.Verb_Shoot.label>súng lục ổ xoay</Gun_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: smoke launcher -->
+  <Gun_SmokeLauncher.label>ống phóng đạn khói</Gun_SmokeLauncher.label>
+  <!-- EN: A wide-barreled smoke shell launcher. The shell will upon impact release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Gun_SmokeLauncher.description>Một ống phóng đạn khói rộng. Lớp vỏ này khi va chạm sẽ giải phóng một đám khói, che khuất các phát bắn đến và ngăn các tháp pháo bị khóa.</Gun_SmokeLauncher.description>
+  <!-- EN: stock -->
+  <Gun_SmokeLauncher.tools.stock.label>báng súng</Gun_SmokeLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SmokeLauncher.tools.barrel.label>nòng súng</Gun_SmokeLauncher.tools.barrel.label>
+  <!-- EN: smoke launcher -->
+  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>ống phóng đạn khói</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.label>súng bắn tỉa</Gun_SniperRifle.label>
+  <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
+  <Gun_SniperRifle.description>Biến thể cải tiến từ súng trường cũ, với tầm bắn xa hơn, độ chính xác cao hơn và hỏa lực mạnh hơn. Tuy nhiên mục tiêu càng gần ưu thế càng giảm hẳn rõ đi.</Gun_SniperRifle.description>
+  <!-- EN: stock -->
+  <Gun_SniperRifle.tools.stock.label>báng súng</Gun_SniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle.tools.barrel.label>nòng súng</Gun_SniperRifle.tools.barrel.label>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>súng bắn tỉa</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

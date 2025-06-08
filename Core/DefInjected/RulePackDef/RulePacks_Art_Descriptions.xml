@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->This [depiction] refers to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] relates to [tale_noun] on [DATE].</li>
+    <li>context_sentence->This [depiction] tells the story of [tale_noun] on [DATE].</li>
+  -->
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root] [context_sentence]</li>
+    <li>circumstance_group->[circumstance_phrase]</li>
+    <li>desc_sentence_group->[desc_sentence] [style_group]</li>
+    <li>context_sentence->[depiction] này đề cập đến [tale_noun] vào [DATE].</li>
+    <li>context_sentence->[depiction] này liên quan đến [tale_noun] vào [DATE].</li>
+    <li>context_sentence->[depiction] này kể câu chuyện của [tale_noun] vào [DATE].</li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  -->
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description->[physical_description_root]</li>
+    <li>desc_sentence_group->[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->as an interesting contrast,</li>
+    <li>artconjunction->rounding out the work,</li>
+    <li>artconjunction->in addition to that,</li>
+    <li>artconjunction->strikingly,</li>
+    <li>artconjunction->provocatively,</li>
+    <li>artconjunction->unusually for this kind of work,</li>
+    <li>artconjunction->though few would expect it,</li>
+    <li>artconjunction->besides that,</li>
+    <li>artextra_clause->the image is bordered by [subimageplural]</li>
+    <li>artextra_clause->at the edge of the image are [subimageplural]</li>
+    <li>artextra_clause->there is [subimagesingle] [side_position]</li>
+    <li>artextra_clause->the subjects are in front of [subimageany]</li>
+    <li>artextra_clause->the lower part of the image is dominated by [subimageany]</li>
+    <li>artextra_clause->the scene takes place in the middle of a [Community]</li>
+    <li>artextra_clause->the scene takes place on the outskirts of a [Community]</li>
+    <li>artextra_clause->the scene takes place inside a [Community] built near a [TerrainFeature]</li>
+    <li>artextra_clause->a [Character] [idles] [side_position]</li>
+    <li>artextra_clause->a [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s appear [side_position]</li>
+    <li>artextra_clause->a [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of [subimageany]</li>
+    <li>artextra_clause->the [emotional_expression] head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
+    <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->a [Character]</li>
+    <li>subimagesingle->a [TerrainFeature]</li>
+    <li>subimagesingle->a [Community]</li>
+    <li>subimagesingle->a [TreeType] tree</li>
+    <li>subimagesingle->a [Vegetable]</li>
+    <li>subimagesingle->a [AnimalGroup] of [Animal]s</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]s</li>
+    <li>pawn_adj->dead</li>
+    <li>pawn_adj->dying</li>
+    <li>pawn_adj->injured</li>
+    <li>pawn_adj->sleeping</li>
+    <li>pawn_adj->standing</li>
+    <li>pawn_adj->sitting</li>
+    <li>pawn_adj->crazy</li>
+    <li>pawn_adj->young</li>
+    <li>pawn_adj->old</li>
+    <li>pawn_adj->[Gore]-covered</li>
+    <li>pawn_adj->filthy</li>
+    <li>pawn_adj->[Apparel]-wearing</li>
+    <li>pawn_adj->[Weapon]-wielding</li>
+    <li>pawn_adj->[Vegetable]-eating</li>
+    <li>emotional_expression->smiling</li>
+    <li>emotional_expression->frowning</li>
+    <li>emotional_expression->scowling</li>
+    <li>emotional_expression->laughing</li>
+    <li>emotional_expression->staring</li>
+    <li>emotional_expression->crying</li>
+    <li>emotional_expression->screaming</li>
+    <li>emotional_expression->overjoyed</li>
+    <li>idles->sits</li>
+    <li>idles->stands</li>
+    <li>idles->waits</li>
+    <li>idles->smiles</li>
+    <li>idles->lies</li>
+    <li>idles->poses</li>
+    <li>idles->appears</li>
+    <li>idles->is shown</li>
+    <li>idles->fades in</li>
+    <li>idles->floats</li>
+    <li>side_position->off to one side</li>
+    <li>side_position->in the background</li>
+    <li>side_position->in the distance</li>
+    <li>side_position->in the lower part of the image</li>
+    <li>side_position->in the upper part of the image</li>
+    <li>side_position->to the left of the main scene</li>
+    <li>side_position->to the right of the main scene</li>
+    <li>side_position->near the edge of the image</li>
+    <li>side_position->near the main subject</li>
+    <li>side_position->far from the main subject</li>
+    <li>side_position->beneath the main subject</li>
+    <li>side_position->behind the focal point</li>
+    <li>style_clause(p=4)->the work [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->the work is infused with the idea of [ConceptAny] and is done in a [artstyle_adj] style</li>
+    <li>style_clause->the work is executed in a [artstyle_adj] style</li>
+    <li>style_clause->the [artstyle_adj] style of the central scene clashes with the [artstyle_adj] depiction of the background</li>
+    <li>style_clause->the work has a [artstyle_adj] feeling and a [composition] structure</li>
+    <li>style_clause->the overall composition is [composition]</li>
+    <li>style_clause->the style is [artstyle_adj] with [artstyle_adj] elements</li>
+    <li>style_clause->the image somehow expresses both [ConceptAny] and [ConceptAny]</li>
+    <li>style_clause->the image contrasts [ConceptAny] with [ConceptAny]</li>
+    <li>style_clause->the [composition] structure of the image almost conflicts with its [artstyle_adj] style</li>
+    <li>style_clause->the work is shaded in hues of [Color] and [Color]</li>
+    <li>style_clause->almost every shape in the image seems to be [composition]</li>
+    <li>symbolizes->symbolizes</li>
+    <li>symbolizes->seems to symbolize</li>
+    <li>symbolizes->represents</li>
+    <li>symbolizes->seems to represent</li>
+    <li>symbolizes->seems to express</li>
+    <li>symbolizes->reminds the viewer of</li>
+    <li>symbolizes->conveys the emotions of</li>
+    <li>symbolizes->makes the viewer think of</li>
+    <li>symbolizes->represents the artist's</li>
+    <li>symbolizes->suggests the concept of</li>
+    <li>depicts->depicts</li>
+    <li>depicts->shows</li>
+    <li>depicts->portrays</li>
+    <li>depicts->resembles</li>
+    <li>depicts->illustrates</li>
+    <li>depicts->represents</li>
+    <li>depicts->is shaped like</li>
+    <li>depiction->depiction</li>
+    <li>depiction->image</li>
+    <li>depiction->portrayal</li>
+    <li>depiction->representation</li>
+    <li>depiction->illustration</li>
+    <li>depiction->artwork</li>
+    <li>composition->triangular</li>
+    <li>composition->rectangular</li>
+    <li>composition->square</li>
+    <li>composition->unbalanced</li>
+    <li>composition->well-balanced</li>
+    <li>composition->dynamic</li>
+    <li>composition->static</li>
+    <li>composition->vertical</li>
+    <li>composition->horizontal</li>
+    <li>composition->focused</li>
+    <li>artstyle_adj->unoriginal</li>
+    <li>artstyle_adj->simple</li>
+    <li>artstyle_adj->complex and realistic</li>
+    <li>artstyle_adj->surrealistic</li>
+    <li>artstyle_adj->classical</li>
+    <li>artstyle_adj->modern</li>
+    <li>artstyle_adj->symbolic</li>
+    <li>artstyle_adj->amateurish yet attractive</li>
+    <li>artstyle_adj->detail-oriented</li>
+    <li>artstyle_adj->blocky</li>
+    <li>artstyle_adj->cubist</li>
+    <li>artstyle_adj->impressionistic</li>
+    <li>artstyle_adj->expressionistic</li>
+    <li>artstyle_adj->photographic</li>
+    <li>artstyle_adj->baroque</li>
+    <li>artstyle_adj->dadaist</li>
+    <li>artstyle_adj->glitch-art</li>
+    <li>artstyle_adj->pixelated</li>
+    <li>artstyle_adj->fauvist</li>
+    <li>artstyle_adj->folksy</li>
+    <li>artstyle_adj->figurative</li>
+    <li>artstyle_adj->sinuous</li>
+    <li>artstyle_adj->geometric</li>
+    <li>artstyle_adj->abstract</li>
+    <li>artstyle_adj->hyper-realistic</li>
+    <li>artstyle_adj->pop art</li>
+    <li>artstyle_adj->minimalistic</li>
+    <li>artstyle_adj->neoclassical</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->post-impressionistic</li>
+    <li>artstyle_adj->purist</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->romanesque</li>
+    <li>artstyle_adj->romantic</li>
+    <li>artstyle_adj->graffiti-like</li>
+    <li>artstyle_adj->erotic</li>
+    <li>artstyle_adj->sensual</li>
+    <li>artstyle_adj->heartfelt</li>
+  -->
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group->[artextra_clause]. [style_clause].</li>
+    <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group->[style_clause].</li>
+    <li>style_group->[artextra_clause].</li>
+    <li>style_group-></li>
+    <!-- artconjunction -->
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->Như một sự tương phản thú vị,</li>
+    <li>artconjunction->Hoàn thành công việc,</li>
+    <li>artconjunction->Thêm vào đó,</li>
+    <li>artconjunction->Nổi bật,</li>
+    <li>artconjunction->Khêu gợi,</li>
+    <li>artconjunction->Bất thường đối với loại công việc này,</li>
+    <li>artconjunction->Mặc dù ít người có thể mong đợi điều đó,</li>
+    <li>artconjunction->Bên cạnh đó,</li>
+    <!--=== artextra_clause ===-->
+    <li>artextra_clause->Toàn bộ tác phẩm được bao quanh bởi [subimageplural]</li>
+    <li>artextra_clause->Ở rìa của tác phẩm là [subimageplural]</li>
+    <li>artextra_clause->Có [subimagesingle] [side_position]</li>
+    <li>artextra_clause->Các chủ thể ở phía trước [subimageany]</li>
+    <li>artextra_clause->Phần dưới của tác phẩm bị chi phối bởi [subimageany]</li>
+    <li>artextra_clause->bối cảnh diễn ra ở giữa [Community]</li>
+    <li>artextra_clause->bối cảnh diễn ra ở ngoại ô của một [Community]</li>
+    <li>artextra_clause->bối cảnh diễn ra bên trong [Community] được xây dựng gần [TerrainFeature]</li>
+    <li>artextra_clause->một [Character] [idles] [side_position]</li>
+    <li>artextra_clause->một [Character] [pawn_adj] [idles] [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character] xuất hiện [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [Character] [pawn_adj] xuất hiện [side_position]</li>
+    <li>artextra_clause->một [Animal] [idles] [side_position]</li>
+    <li>artextra_clause->nếu bạn nheo mắt, bố cục [composition] của tác phẩm cho thấy đường nét của [subimageany]</li>
+    <li>artextra_clause->khuôn mặt [emotional_expression] của một [PersonJob] [pawn_adj] đang nhìn toàn cảnh</li>
+    <li>artextra_clause->một [PersonJob] [pawn_adj] quan sát tất cả trong khi [emotional_expression]</li>
+    <li>artextra_clause->cái đầu của một [PersonJob] [pawn_adj] wđang nhìn toàn cảnh</li>
+    <li>artextra_clause->toàn bộ tác phẩm được mô tả bởi sự sắp xếp cẩn thận của [subimageplural]</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=4)->một [Character]</li>
+    <li>subimagesingle->một [TerrainFeature]</li>
+    <li>subimagesingle->một [Community]</li>
+    <li>subimagesingle->cây [TreeType]</li>
+    <li>subimagesingle->một [Vegetable]</li>
+    <li>subimagesingle->một [AnimalGroup] của [Animal]s</li>
+    <li>subimageplural(p=3)->[Quantity_adjphrase] [Character]</li>
+    <li>subimageplural->[Quantity_adjphrase] [Vegetable]</li>
+    <li>subimageplural->[Quantity_adjphrase] [Shape]</li>
+    <li>pawn_adj->chết</li>
+    <li>pawn_adj->hấp hối</li>
+    <li>pawn_adj->bị thương</li>
+    <li>pawn_adj->đang ngủ</li>
+    <li>pawn_adj->đang đứng</li>
+    <li>pawn_adj->đang ngồi</li>
+    <li>pawn_adj->crazy</li>
+    <li>pawn_adj->trẻ tuổi</li>
+    <li>pawn_adj->cũ</li>
+    <li>pawn_adj->đề cập- [Gore]</li>
+    <li>pawn_adj->bẩn thỉu</li>
+    <li>pawn_adj->đang mặc- [Apparel]</li>
+    <li>pawn_adj->đang cầm- [Weapon]</li>
+    <li>pawn_adj->đang ăn- [Vegetable]</li>
+    <li>emotional_expression->mỉm cười</li>
+    <li>emotional_expression->cau mày</li>
+    <li>emotional_expression->cau có</li>
+    <li>emotional_expression->đang cười</li>
+    <li>emotional_expression->nhìn chằm chằm</li>
+    <li>emotional_expression->đang khóc</li>
+    <li>emotional_expression->la hét</li>
+    <li>emotional_expression->vui mừng khôn xiết</li>
+    <li>idles->ngồi</li>
+    <li>idles->đứng</li>
+    <li>idles->đang đợi</li>
+    <li>idles->đang cười</li>
+    <li>idles->nằm</li>
+    <li>idles->tư thế</li>
+    <li>idles->xuất hiện</li>
+    <li>idles->được thể hiện</li>
+    <li>idles->mất dần</li>
+    <li>idles->nổi</li>
+    <li>side_position->lệch sang một bên</li>
+    <li>side_position->trong nền</li>
+    <li>side_position->ở khoảng cách xa</li>
+    <li>side_position->ở phần dưới của tác phẩm</li>
+    <li>side_position->ở phần trên của tác phẩm</li>
+    <li>side_position->ở bên trái của cảnh chính</li>
+    <li>side_position->ở bên phải của cảnh chính</li>
+    <li>side_position->gần mép của tác phẩm</li>
+    <li>side_position->gần chủ đề chính</li>
+    <li>side_position->xa chủ đề chính</li>
+    <li>side_position->bên dưới chủ đề chính</li>
+    <li>side_position->phía sau tiêu điểm</li>
+    <!-- style_clause -->
+    <li>style_clause(p=4)->công việc này [symbolizes] [ConceptAny]</li>
+    <li>artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]</li>
+    <li>style_clause->công việc được truyền từ ý tưởng về [ConceptAny] và được thực hiện theo phong cách [artstyle_adj]</li>
+    <li>style_clause->công việc được thực hiện theo phong cách [artstyle_adj]</li>
+    <li>style_clause->phong cách [artstyle_adj] của cảnh trung tâm xung đột với mô tả [artstyle_adj] của nền</li>
+    <li>style_clause->tác phẩm có cảm giác [artstyle_adj] và kết cấu [composition]</li>
+    <li>style_clause->thành phần tổng thể là [composition]</li>
+    <li>style_clause->phong cách là [artstyle_adj] với các phần tử [artstyle_adj]</li>
+    <li>style_clause->tác phẩm bằng cách nào đó thể hiện cả [ConceptAny] và [ConceptAny]</li>
+    <li>style_clause->tác phẩm tương phản [ConceptAny] với [ConceptAny]</li>
+    <li>style_clause->cấu trúc [composition] của hình ảnh gần như xung đột với phong cách [artstyle_adj] của nó</li>
+    <li>style_clause->tác phẩm được tô bóng bằng các màu [Color] và [Color]</li>
+    <li>style_clause->hầu hết mọi hình dạng trong ảnh dường như là [composition]</li>
+    <li>symbolizes->tượng trưng cho</li>
+    <li>symbolizes->dường như tượng trưng cho</li>
+    <li>symbolizes->đại diện</li>
+    <li>symbolizes->dường như đại diện</li>
+    <li>symbolizes->dường như thể hiện</li>
+    <li>symbolizes->nhắc nhở người xem về</li>
+    <li>symbolizes->truyền tải những cảm xúc của</li>
+    <li>symbolizes->khiến người xem liên tưởng đến</li>
+    <li>symbolizes->đại diện cho nghệ sĩ</li>
+    <li>symbolizes->gợi ý khái niệm về</li>
+    <li>depicts->miêu tả</li>
+    <li>depicts->trình diễn</li>
+    <li>depicts->chân dung</li>
+    <li>depicts->giống</li>
+    <li>depicts->minh họa</li>
+    <li>depicts->đại diện</li>
+    <li>depicts->có hình dạng như</li>
+    <li>depiction->sự miêu tả</li>
+    <li>depiction->hình ảnh</li>
+    <li>depiction->chân dung</li>
+    <li>depiction->đại diện</li>
+    <li>depiction->hình minh họa</li>
+    <li>depiction->tác phẩm nghệ thuật</li>
+    <li>composition->hình tam giác</li>
+    <li>composition->hình hộp chữ nhật</li>
+    <li>composition->hình hộp vuông</li>
+    <li>composition->không cân bằng</li>
+    <li>composition->cân bằng tốt</li>
+    <li>composition->năng động</li>
+    <li>composition->tĩnh</li>
+    <li>composition->thẳng đứng</li>
+    <li>composition->nằm ngang</li>
+    <li>composition->tập trung</li>
+    <li>artstyle_adj->không nguyên bản</li>
+    <li>artstyle_adj->đơn giản</li>
+    <li>artstyle_adj->phức tạp và thực tế</li>
+    <li>artstyle_adj->siêu thực</li>
+    <li>artstyle_adj->cổ điển</li>
+    <li>artstyle_adj->hiện đại</li>
+    <li>artstyle_adj->tượng trưng</li>
+    <li>artstyle_adj->nghiệp dư nhưng hấp dẫn</li>
+    <li>artstyle_adj->định hướng một cách chi tiết</li>
+    <li>artstyle_adj->khối</li>
+    <li>artstyle_adj->chân dung lập thể</li>
+    <li>artstyle_adj->trường phái ấn tượng</li>
+    <li>artstyle_adj->biểu hiện</li>
+    <li>artstyle_adj->chụp ảnh</li>
+    <li>artstyle_adj->Phục Hưng</li>
+    <li>artstyle_adj->người cha</li>
+    <li>artstyle_adj->nghệ thuật thị giác</li>
+    <li>artstyle_adj->nghệ thuật pixel</li>
+    <li>artstyle_adj->trường phái dã thú</li>
+    <li>artstyle_adj->nghệ thuật dân gian</li>
+    <li>artstyle_adj->nghệ thuật tượng hình</li>
+    <li>artstyle_adj->uốn lượn</li>
+    <li>artstyle_adj->trừu tượng hình học</li>
+    <li>artstyle_adj->nghệ thuật trừu tượng</li>
+    <li>artstyle_adj->truyền thần</li>
+    <li>artstyle_adj->nghệ thuật đại chúng</li>
+    <li>artstyle_adj->tối giản</li>
+    <li>artstyle_adj->tân cổ điển</li>
+    <li>artstyle_adj->cel-shaded</li>
+    <li>artstyle_adj->hậu ấn tượng</li>
+    <li>artstyle_adj->chủ nghĩa thuần túy</li>
+    <li>artstyle_adj->rococo</li>
+    <li>artstyle_adj->nghệ thuật Roman</li>
+    <li>artstyle_adj->lãng mạn</li>
+    <li>artstyle_adj->graffiti</li>
+    <li>artstyle_adj->khiêu dâm</li>
+    <li>artstyle_adj->gợi cảm</li>
+    <li>artstyle_adj->chân thành</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  
+</LanguageData>

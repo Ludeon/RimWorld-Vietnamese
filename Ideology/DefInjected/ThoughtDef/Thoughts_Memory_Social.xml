@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: failed consolation by {0} -->
+  <CounselFailed.stages.failed_consolation_by.label>sự an ủi thất bại của {0}</CounselFailed.stages.failed_consolation_by.label>
+  <!-- EN: Somehow, that attempt at helping made things even worse. -->
+  <CounselFailed.stages.failed_consolation_by.description>Bằng cách nào đó, nỗ lực giúp đỡ đó lại khiến mọi thứ trở nên tồi tệ hơn.</CounselFailed.stages.failed_consolation_by.description>
+  
+  <!-- EN: counselled by {0} -->
+  <Counselled.stages.counselled_by.label>được cố vấn bởi {0}</Counselled.stages.counselled_by.label>
+  <!-- EN: I received counseling about something that's been bothering me. -->
+  <Counselled.stages.counselled_by.description>Tôi đã nhận được lời khuyên về điều gì đó đang làm phiền tôi.</Counselled.stages.counselled_by.description>
+  
+  <!-- EN: counselled by {0} -->
+  <Counselled_MoodBoost.stages.counselled_by.label>được cố vấn bởi {0}</Counselled_MoodBoost.stages.counselled_by.label>
+  <!-- EN: I received counseling from someone. It felt nice to be listened to. -->
+  <Counselled_MoodBoost.stages.counselled_by.description>Tôi đã nhận được lời khuyên từ một người nào đó. Thật tuyệt khi được lắng nghe.</Counselled_MoodBoost.stages.counselled_by.description>
+  
+  <!-- EN: failed to convert {0} -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>không chuyển đổi được {0}</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <!-- EN: I tried to convert someone and it didn't work out. Awkward. -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>Tôi đã cố gắng chuyển đổi một người nào đó và nó không thành công. Vụng về.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  
+  <!-- EN: {0} tried to convert me -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0} đã cố gắng chuyển đổi tôi</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <!-- EN: Someone tried to convert me. I wish they'd just leave me alone. -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>Ai đó đã cố gắng chuyển đổi tôi. Tôi ước gì họ chỉ để tôi một mình.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  
+  <!-- EN: tended by {0} -->
+  <TendedByMedicalSpecialist.stages.tended_by.label>được chăm sóc bởi {0}</TendedByMedicalSpecialist.stages.tended_by.label>
+  <!-- EN: I received medical aid from one who carries the special healer status of my ideoligion. -->
+  <TendedByMedicalSpecialist.stages.tended_by.description>Tôi đã nhận được sự trợ giúp y tế từ một người mang trạng thái chữa bệnh đặc biệt cho niềm tin của tôi.</TendedByMedicalSpecialist.stages.tended_by.description>
+  
+  <!-- EN: will diminished -->
+  <WillDiminished.stages.will_diminished.label>sẽ giảm bớt</WillDiminished.stages.will_diminished.label>
+  
+</LanguageData>

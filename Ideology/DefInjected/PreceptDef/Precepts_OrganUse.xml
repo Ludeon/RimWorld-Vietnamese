@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: totally abhorrent -->
+  <OrganUse_Abhorrent.label>hoàn toàn ghê tởm</OrganUse_Abhorrent.label>
+  <!-- EN: Any harvesting, trading, or installing natural organs is an abhorrent evil. -->
+  <OrganUse_Abhorrent.description>Bất kỳ hành động thu hoạch, trao đổi, hay ghép nội tạng tự nhiên đều hoàn toàn ác độc.</OrganUse_Abhorrent.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_Abhorrent.comps.2.description>Ai đó thu hoạch nội tạng</OrganUse_Abhorrent.comps.2.description>
+  <!-- EN: Someone traded an organ -->
+  <OrganUse_Abhorrent.comps.5.description>Ai đó trao đổi nội tạng</OrganUse_Abhorrent.comps.5.description>
+  <!-- EN: Someone installed an organ -->
+  <OrganUse_Abhorrent.comps.8.description>Ai đó ghép nội tạng</OrganUse_Abhorrent.comps.8.description>
+  
+  <!-- EN: acceptable -->
+  <OrganUse_Acceptable.label>Chấp nhận được</OrganUse_Acceptable.label>
+  <!-- EN: It's okay to harvest, buy, install, or sell organs. -->
+  <OrganUse_Acceptable.description>Thu hoạch, mua, bán hay ghép nội tạng đều chấp nhận được.</OrganUse_Acceptable.description>
+  
+  <!-- EN: no harvest or sell -->
+  <OrganUse_HorribleNoSell.label>Không thu hoạch hay bán</OrganUse_HorribleNoSell.label>
+  <!-- EN: Harvesting organs is a horrible thing. Selling any natural organ is pretty bad too. However, it's okay to buy and install them. -->
+  <OrganUse_HorribleNoSell.description>Thu hoạch nội tạng là một điều kinh khủng. Bán nội tạng của vậy. Nhưng, mua và ghép chúng thì chấp nhận được.</OrganUse_HorribleNoSell.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_HorribleNoSell.comps.2.description>Ai đó thu hoạch nội tạng</OrganUse_HorribleNoSell.comps.2.description>
+  <!-- EN: Someone sold an organ -->
+  <OrganUse_HorribleNoSell.comps.4.description>Ai đó bán nội tạng</OrganUse_HorribleNoSell.comps.4.description>
+  
+  <!-- EN: no harvest -->
+  <OrganUse_HorribleSellOK.label>Không thu hoạch</OrganUse_HorribleSellOK.label>
+  <!-- EN: Harvesting organs is a horrible thing. However, it's okay to buy, install, or sell them. -->
+  <OrganUse_HorribleSellOK.description>Thu hoạch nội tạng là một điều kinh khủng. Nhưng, mua, bán hay ghép chúng thì chấp nhận được.</OrganUse_HorribleSellOK.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_HorribleSellOK.comps.2.description>Ai đó thu hoạch nội tạng</OrganUse_HorribleSellOK.comps.2.description>
+  
+</LanguageData>

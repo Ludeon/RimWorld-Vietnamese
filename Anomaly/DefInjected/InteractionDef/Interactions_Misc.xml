@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creepy words -->
+  <CreepyWords.label>Lời Thầm Thì Kỳ Quái</CreepyWords.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] about [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] about [subjectInsane].</li>
+  -->
+  <CreepyWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] về [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] về [subjectInsane].</li>
+  </CreepyWords.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: strange chat -->
+  <DisturbingChat.label>Đối Thoại Kỳ Quái</DisturbingChat.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [disturbed] [RECIPIENT_nameDef] by [talkingAbout] [subjectDisturbing].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [spoke] [darkSpeechAdverb] to [RECIPIENT_nameDef] about [subjectDisturbing].</li>
+    <li>spoke->spoke</li>
+    <li>spoke->muttered</li>
+    <li>spoke->stammered</li>
+    <li>spoke->whined</li>
+    <li>spoke->grunted</li>
+    <li>spoke->mumbled</li>
+    <li>spoke(p=5)->[rambled]</li>
+    <li>subjectDisturbing->[subjectDarkStudy]</li>
+    <li>subjectDisturbing->[subjectInsane]</li>
+    <li>disturbed->disturbed</li>
+    <li>disturbed->horrified</li>
+    <li>disturbed->frightened</li>
+    <li>disturbed->upset</li>
+    <li>disturbed->perturbed</li>
+    <li>disturbed->unsettled</li>
+    <li>disturbed->disconcerted</li>
+    <li>disturbed->unnerved</li>
+    <li>disturbed->alarmed</li>
+    <li>disturbed->distressed</li>
+    <li>disturbed->dismayed</li>
+    <li>maybeDarkSpeechAdverb-></li>
+    <li>maybeDarkSpeechAdverb->[darkSpeechAdverb]</li>
+    <li>talkingAbout->describing</li>
+    <li>talkingAbout->explaining</li>
+    <li>talkingAbout->moaning [maybeDarkSpeechAdverb] about</li>
+    <li>talkingAbout->talking [maybeDarkSpeechAdverb] about</li>
+    <li>talkingAbout->ranting [maybeDarkSpeechAdverb] about</li>
+    <li>talkingAbout->going into detail about</li>
+  -->
+  <<DisturbingChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [disturbed] [RECIPIENT_nameDef] bởi [talkingAbout] [subjectDisturbing].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [spoke] [darkSpeechAdverb] với [RECIPIENT_nameDef] về [subjectDisturbing].</li>
+    <li>spoke->nói</li>
+    <li>spoke->lẩm bẩm</li>
+    <li>spoke->nói lắp</li>
+    <li>spoke->kêu la</li>
+    <li>spoke->gầm gừ</li>
+    <li>spoke->lầm bầm</li>
+    <li>spoke(p=5)->[rambled]</li>
+    <li>subjectDisturbing->[subjectDarkStudy]</li>
+    <li>subjectDisturbing->[subjectInsane]</li>
+    <li>disturbed->bị làm rối loạn</li>
+    <li>disturbed->kinh hoàng</li>
+    <li>disturbed->sợ hãi</li>
+    <li>disturbed->bối rối</li>
+    <li>disturbed->lo lắng</li>
+    <li>disturbed->khó chịu</li>
+    <li>disturbed->bối rối</li>
+    <li>disturbed->run rẩy</li>
+    <li>disturbed->hoảng sợ</li>
+    <li>disturbed->tổn thương</li>
+    <li>disturbed->chán nản</li>
+    <li>maybeDarkSpeechAdverb-></li>
+    <li>maybeDarkSpeechAdverb->[darkSpeechAdverb]</li>
+    <li>talkingAbout->mô tả</li>
+    <li>talkingAbout->giải thích</li>
+    <li>talkingAbout->rên rỉ [maybeDarkSpeechAdverb] về</li>
+    <li>talkingAbout->nói [maybeDarkSpeechAdverb] về</li>
+    <li>talkingAbout->quát tháo [maybeDarkSpeechAdverb] về</li>
+    <li>talkingAbout->đi vào chi tiết về</li>
+  </DisturbingChat.logRulesInitiator.rulesStrings>
+
+  <!-- EN: inhuman rambling -->
+  <InhumanRambling.label>Lầm Bầm Vô Nhân</InhumanRambling.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] about [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] about [subjectInsane].</li>
+  -->
+  <InhumanRambling.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] về [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] về [subjectInsane].</li>
+  </InhumanRambling.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: interrogate identity -->
+  <InterrogateIdentity.label>Tra Khảo Nhân Thân</InterrogateIdentity.label>
+<!-- EN:
+    <li>askedAbout->interrogated [RECIPIENT_nameDef] about</li>
+    <li>askedAbout->asked [RECIPIENT_nameDef] about</li>
+    <li>askedAbout->pressed [RECIPIENT_nameDef] for details about</li>
+    <li>askedAbout->inquired [RECIPIENT_nameDef] about</li>
+    <li>askedAbout->grilled [RECIPIENT_nameDef] on</li>
+    <li>askedAbout->pushed [RECIPIENT_nameDef] for answers about</li>
+    <li>askedAbout->asked [RECIPIENT_nameDef] tricky questions about</li>
+    <li>askedAbout->tried to catch [RECIPIENT_nameDef] off-guard with questions about</li>
+    <li>askedAbout->screamed at [RECIPIENT_nameDef], demanding information about</li>
+    <li>askedAbout->bombarded [RECIPIENT_nameDef] with inquiries about</li>
+    <li>askedAbout->confronted [RECIPIENT_nameDef] regarding</li>
+    <li>askedAbout->pestered [RECIPIENT_nameDef] about</li>
+    <li>askedAbout->probed [RECIPIENT_nameDef] on the subject of</li>
+    <li>identityTopic->[RECIPIENT_possessive] previous work</li>
+    <li>identityTopic->[RECIPIENT_possessive] previous relationships with other factions</li>
+    <li>identityTopic->[RECIPIENT_possessive] birth</li>
+    <li>identityTopic->[RECIPIENT_possessive] upbringing</li>
+    <li>identityTopic->[RECIPIENT_possessive] parents</li>
+    <li>identityTopic->[RECIPIENT_possessive] old friends</li>
+    <li>identityTopic->[RECIPIENT_possessive] romantic history</li>
+    <li>identityTopic->[RECIPIENT_possessive] likes and dislikes</li>
+    <li>identityTopic->[RECIPIENT_possessive] emotional responses to disturbing situations</li>
+    <li>identityTopic->[RECIPIENT_possessive] food preferences</li>
+    <li>identityTopic->[RECIPIENT_possessive] deepest fears</li>
+    <li>identityTopic->[RECIPIENT_possessive] cherished memories</li>
+    <li>identityTopic->[RECIPIENT_possessive] personal regrets</li>
+    <li>identityTopic->[RECIPIENT_possessive] dreams and aspirations</li>
+    <li>identityTopic->[RECIPIENT_possessive] reasons for joining [RECIPIENT_possessive] current faction</li>
+    <li>identityTopic->[RECIPIENT_possessive] role in a past significant event</li>
+    <li>identityTopic->[RECIPIENT_possessive] hobbies and pastimes</li>
+    <li>identityTopic->[RECIPIENT_possessive] moral values and principles</li>
+    <li>identityTopic->[RECIPIENT_possessive] motivations</li>
+    <li>identityTopic->reasons behind [RECIPIENT_possessive] major decisions</li>
+    <li>identityTopic->past traumatic experiences</li>
+    <li>identityTopic->human thought processes</li>
+    <li>identityTopic->childhood experiences</li>
+    <li>identityTopic->school experiences</li>
+    <li>identityTopic->cultural experiences</li>
+    <li>r_logentry->[INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
+  -->
+  <InterrogateIdentity.logRulesInitiator.rulesStrings>
+    <li>askedAbout->chất vấn [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->hỏi [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->ép [RECIPIENT_nameDef] cung cấp chi tiết về</li>
+    <li>askedAbout->tìm hiểu từ [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->tra khảo [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->gặng hỏi [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->hỏi xoáy [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->cố bắt thóp [RECIPIENT_nameDef] bằng các câu hỏi về</li>
+    <li>askedAbout->la hét vào mặt [RECIPIENT_nameDef], đòi thông tin về</li>
+    <li>askedAbout->dồn dập hỏi [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->đối chất [RECIPIENT_nameDef] về</li>
+    <li>askedAbout->làm phiền [RECIPIENT_nameDef] bằng việc hỏi về</li>
+    <li>askedAbout->thăm dò [RECIPIENT_nameDef] về chủ đề</li>
+    <li>identityTopic->công việc trước đây của [RECIPIENT_possessive]</li>
+    <li>identityTopic->các mối quan hệ trước đây của [RECIPIENT_possessive] với các phe khác</li>
+    <li>identityTopic->sự ra đời của [RECIPIENT_possessive]</li>
+    <li>identityTopic->tuổi thơ của [RECIPIENT_possessive]</li>
+    <li>identityTopic->cha mẹ của [RECIPIENT_possessive]</li>
+    <li>identityTopic->những người bạn cũ của [RECIPIENT_possessive]</li>
+    <li>identityTopic->lịch sử tình cảm của [RECIPIENT_possessive]</li>
+    <li>identityTopic->sở thích và điều không thích của [RECIPIENT_possessive]</li>
+    <li>identityTopic->phản ứng cảm xúc của [RECIPIENT_possessive] trong các tình huống rối loạn</li>
+    <li>identityTopic->khẩu vị ăn uống của [RECIPIENT_possessive]</li>
+    <li>identityTopic->nỗi sợ sâu kín nhất của [RECIPIENT_possessive]</li>
+    <li>identityTopic->ký ức đáng trân trọng nhất của [RECIPIENT_possessive]</li>
+    <li>identityTopic->những hối tiếc cá nhân của [RECIPIENT_possessive]</li>
+    <li>identityTopic->ước mơ và khát vọng của [RECIPIENT_possessive]</li>
+    <li>identityTopic->lý do [RECIPIENT_possessive] gia nhập phe hiện tại</li>
+    <li>identityTopic->vai trò của [RECIPIENT_possessive] trong một sự kiện quan trọng trong quá khứ</li>
+    <li>identityTopic->sở thích và hoạt động giải trí của [RECIPIENT_possessive]</li>
+    <li>identityTopic->giá trị đạo đức và nguyên tắc sống của [RECIPIENT_possessive]</li>
+    <li>identityTopic->động cơ thúc đẩy của [RECIPIENT_possessive]</li>
+    <li>identityTopic->lý do đằng sau các quyết định lớn của [RECIPIENT_possessive]</li>
+    <li>identityTopic->những trải nghiệm sang chấn trong quá khứ</li>
+    <li>identityTopic->quá trình suy nghĩ của con người</li>
+    <li>identityTopic->trải nghiệm thời thơ ấu</li>
+    <li>identityTopic->trải nghiệm ở trường học</li>
+    <li>identityTopic->trải nghiệm văn hóa</li>
+  </InterrogateIdentity.logRulesInitiator.rulesStrings>
+
+  
+  <!-- EN: occult teaching -->
+  <OccultTeaching.label>Giáo Huấn Thờ Huyền Bí</OccultTeaching.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] explained [INITIATOR_possessive] theories about [subjectDarkStudy] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] shared [INITIATOR_possessive] ideas about [subjectDarkStudy] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] spoke about [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] went over the subject of [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] taught a lesson on [subjectDarkStudy].</li>
+  -->
+  <OccultTeaching.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] giải thích các lý thuyết của [INITIATOR_possessive] về [subjectDarkStudy] cho [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] chia sẻ những ý tưởng của [INITIATOR_possessive] về [subjectDarkStudy] với [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói về chủ đề [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã trình bày chủ đề [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã giảng một bài học về [subjectDarkStudy].</li>
+  </OccultTeaching.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: prisoner study -->
+  <PrisonerStudyAnomaly.label>Nghiên Cứu Tù Nhân Kỳ Dị</PrisonerStudyAnomaly.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] inquired about [subjectDarkStudy].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] mumbled about [subjectInsane].</li>
+  -->
+  <PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] hỏi [RECIPIENT_nameDef] về [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tìm hiểu về [subjectDarkStudy].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] lẩm bẩm về [subjectInsane].</li>
+  </PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

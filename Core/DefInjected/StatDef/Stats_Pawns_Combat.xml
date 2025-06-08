@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>thời gian ngắm bắn</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>Mất bao lâu để bắn sau khi chọn mục tiêu.</AimingDelayFactor.description>
+  
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>hệ số thiệt hại sẽ nhận</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>Một tổng hợp tất cả các thiệt hại sẽ nhận.</IncomingDamageFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>xuyên giáp cận chiến</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>Độ xuyên giáp trung bình của tất cả các đòn tấn công trong chiến đấu cận chiến.\n\nChỉ số này bao gồm vũ khí hiện đang sử dụng.</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeCooldownFactor.label>TODO</MeleeCooldownFactor.label>
+  <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
+  <MeleeCooldownFactor.description>TODO</MeleeCooldownFactor.description>
+  
+  <!-- EN: melee damage factor -->
+  <MeleeDamageFactor.label>hệ số sát thương cận chiến</MeleeDamageFactor.label>
+  <!-- EN: A multiplier on the amount of melee damage inflicted by this person. -->
+  <MeleeDamageFactor.description>Hệ số nhân về lượng sát thương cận chiến mà người này gây ra.</MeleeDamageFactor.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>cơ hội né tránh cận chiến</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>Cơ hội để tránh một đòn tấn công cận chiến nếu không sẽ bị đánh.\n\nNhân vật sẽ không né trong khi ngắm hoặc bắn vũ khí tầm xa.</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>DPS cận chiến</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>Sát thương trung bình mỗi giây trong chiến đấu cận chiến.\n\nChỉ số này bỏ qua các phòng thủ mục tiêu như né tránh và áo giáp.</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>cơ hội đánh trúng cận chiến</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>Cơ hội để đánh trúng mục tiêu trong cận chiến.\n\nMục tiêu vẫn có thể né tránh ngay cả khi chúng ta có cơ hội đánh.</MeleeHitChance.description>
+  
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.label>Hệ số bán kính bắn trượt của súng cối</MortarMissRadiusFactor.label>
+  <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
+  <MortarMissRadiusFactor.description>Hệ số nhân trên bán kính bắn trượt của súng cối mà người này sử dụng. Con số nhỏ hơn có nghĩa là đạn cối chính xác hơn.</MortarMissRadiusFactor.description>
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.labelForFullStatList>Hệ số bán kính bắn trượt của súng cối</MortarMissRadiusFactor.labelForFullStatList>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>cơ hội sập bẫy</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>Cơ hội bị dính một cái bẫy mà nhân vật không hề hay biết.</PawnTrapSpringChance.description>
+  
+  <!-- EN: ranged cooldown multiplier -->
+  <RangedCooldownFactor.label>hệ số hồi chiêu tầm xa</RangedCooldownFactor.label>
+  <!-- EN: A multiplier on the cooldown between bursts when using a ranged weapon. -->
+  <RangedCooldownFactor.description>Khi sử dụng vũ khí tầm xa, cần có hệ số nhân cho thời gian phục hồi sau mỗi lần bắn.</RangedCooldownFactor.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>hệ số chính xác (tầm xa)</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>Hệ số nhân về độ chính xác ở khoảng cách 40 ô trở lên.</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>hệ số chính xác (tầm trung)</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>Hệ số nhân về độ chính xác ở khoảng cách 25 ô.</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>hệ số chính xác (tầm gần)</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>Hệ số nhân về độ chính xác ở khoảng cách 12 ô.</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>hệ số chính xác (áp sát)</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>Hệ số nhân về độ chính xác ở khoảng cách 3 ô trở xuống.</ShootingAccuracyFactor_Touch.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>độ chính xác khi bắn</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>Cơ hội cơ bản để không bỏ lỡ mỗi ô của khoảng cách bắn.\n\nCơ hội để đánh cũng bị ảnh hưởng bởi nhiều yếu tố khác. Có thể thấy một lời giải thích về cơ hội trúng cho bất kỳ phát bắn nào bằng cách chọn một người bắn và di chuyển qua mục tiêu.</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>độ chính xác khi bắn (con người)</ShootingAccuracyPawn.labelForFullStatList>
+  
+  <!-- EN: stagger time multiplier -->
+  <StaggerDurationFactor.label>Hệ số thời gian ức chế</StaggerDurationFactor.label>
+  <!-- EN: A multiplier on the duration of the stagger-slowdown that occurs when damage is taken. -->
+  <StaggerDurationFactor.description>Hệ số nhân thời gian để phục hồi từ trạng thái bị khống chế bị làm chậm bởi một cuộc tấn công..</StaggerDurationFactor.description>
+  
+</LanguageData>

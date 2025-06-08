@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal chat -->
+  <AnimalChat.label>trò chuyện với động vật</AnimalChat.label>
+  <!-- EN:
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>tamed->made calming noises towards</li>
+    <li>tamed->offered slow, friendly gestures to</li>
+    <li>tamed->made shushing noises at</li>
+    <li>tamed->made happy clicking noises at</li>
+    <li>tamed->gestured gently and approached</li>
+    <li>tamed->slowly approached</li>
+    <li>tamed->gently touched</li>
+    <li>tamed->calmed and encouraged</li>
+    <li>tamed->matched breathing with</li>
+    <li>tamed->took a low stance while approaching</li>
+    <li>tamed->showed no fear or anger to</li>
+    <li>tamed->feigned inattention towards</li>
+    <li>tamed->gently hummed a song at</li>
+    <li>tamed->sang an old lullaby at</li>
+    <li>tamed->firmly yet softly touched</li>
+    <li>tamed->showed a relaxed attitude towards</li>
+    <li>tamed->sat patiently near</li>
+    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+  -->
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ngồi gần [RECIPIENT_nameDef] và bắt đầu nói chuyện [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đến gần [RECIPIENT_nameDef] trong khi tự thì thầm về [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã đến gần [RECIPIENT_nameDef] trong khi tự nói về [TalkTopicAny].</li>
+    <li>tamed->tạo ra những tiếng động êm dịu đối với</li>
+    <li>tamed->đưa ra những cử chỉ chậm rãi, thân thiện với</li>
+    <li>tamed->tạo ra những tiếng động rùng mình tại</li>
+    <li>tamed->tạo ra tiếng động vui vẻ khi nhấp chuột vào</li>
+    <li>tamed->ra hiệu nhẹ nhàng và tiến lại gần</li>
+    <li>tamed->từ từ tiếp cận</li>
+    <li>tamed->nhẹ nhàng chạm vào</li>
+    <li>tamed->bình tĩnh và khuyến khích</li>
+    <li>tamed->nhịp thở phù hợp với</li>
+    <li>tamed->hạ thấp trong khi tiếp cận</li>
+    <li>tamed->không hề sợ hãi hay tức giận</li>
+    <li>tamed->giả vờ không chú ý đến</li>
+    <li>tamed->nhẹ nhàng ngâm nga một bài hát lúc</li>
+    <li>tamed->hát một bài hát ru cũ lúc</li>
+    <li>tamed->chắc chắn nhưng nhẹ nhàng chạm vào</li>
+    <li>tamed->tỏ thái độ thoải mái với</li>
+    <li>tamed->kiên nhẫn ngồi gần</li>
+    <li>tamed->thì thầm một câu chuyện về [TalkTopicAny] cho</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: nuzzle -->
+  <Nuzzle.label>nũng nịu</Nuzzle.label>
+  <!-- EN:
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->nuzzled</li>
+    <li>nuzzled->snuggled up to</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gently</li>
+    <li>nuzzleadverb->encouragingly</li>
+    <li>nuzzleadverb->happily</li>
+    <li>nuzzleadverb->softly</li>
+    <li>nuzzleadverb->supportively</li>
+    <li>nuzzleadverb->lightly</li>
+    <li>nuzzleadverb->warmly</li>
+    <li>nuzzleadverb->plaintively</li>
+    <li>nuzzleadverb->lovingly</li>
+    <li>nuzzleadverb->affectionately</li>
+    <li>rubbedpart->leg</li>
+    <li>rubbedpart->knee</li>
+    <li>rubbedpart->foot</li>
+    <li>rubbedpart->elbow</li>
+    <li>rubbedpart->hip</li>
+    <li>rubbedpart->shoulder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  -->
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] cọ xát mũi của mình vào [rubbedpart] của [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->cọ xát</li>
+    <li>nuzzled->rúc vào</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->dịu dàng</li>
+    <li>nuzzleadverb->đáng khích lệ</li>
+    <li>nuzzleadverb->hạnh phúc</li>
+    <li>nuzzleadverb->nhẹ nhàng</li>
+    <li>nuzzleadverb->hỗ trợ</li>
+    <li>nuzzleadverb->nhẹ</li>
+    <li>nuzzleadverb->nồng nhiệt</li>
+    <li>nuzzleadverb->rõ ràng</li>
+    <li>nuzzleadverb->yêu thương</li>
+    <li>nuzzleadverb->trìu mến</li>
+    <li>rubbedpart->chân</li>
+    <li>rubbedpart->đầu gối</li>
+    <li>rubbedpart->chân</li>
+    <li>rubbedpart->khuỷu tay</li>
+    <li>rubbedpart->hông</li>
+    <li>rubbedpart->vai</li>
+    <li>rubbedpart->tay</li>
+    <li>rubbedpart->bên</li>
+    <li>rubbedpart->cánh tay</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>thả về tự nhiên</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_pronoun] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] nhẹ nhàng vuốt ve [RECIPIENT_nameDef] lần cuối</li>
+    <li>farewell->[INITIATOR_nameDef] đã nói một vài lời nồng nhiệt với [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] đã tháo vòng cổ của [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] hồi tưởng về khoảng thời gian tuyệt vời mà [INITIATOR_objective] đã có với [RECIPIENT_nameDef]</li>
+    <li>released->và giải phóng nó vào tự nhiên.</li>
+    <li>released->và đã cho nó tự do.</li>
+    <li>released->và gửi nó đi.</li>
+    <li>released->và để nó đi.</li>
+    <li>released->sau đó quay đi và để nó rời khỏi thuộc địa.</li>
+    <li>released->trước khi để nó ra đi để sống trong tự do.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>cố gắng thuần hóa</TameAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</li>
+    <li>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
+  -->
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng để chế ngự [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng mang [RECIPIENT_nameDef] vào tầm kiểm soát.</li>
+    <li>r_logentry->[INITIATOR_nameDef] cố gắng để tóm cổ [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đòi hỏi sự vâng lời từ [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã gọi [RECIPIENT_nameDef] để đến với [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã cố gắng làm cho [RECIPIENT_nameDef] ngồi yên.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đột ngột túm lấy [RECIPIENT_nameDef] và ra một lệnh.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã cố gắng giữ yên [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] hét lên khi ra lệnh cho [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã tát [RECIPIENT_nameDef] để thể hiện sự thống trị.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã hướng [RECIPIENT_nameDef] trở lại cộng đồng.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã gọi [RECIPIENT_nameDef] để quay lại cộng đồng.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã chạm vào bộ phận cơ thể dễ bị tổn thương của [RECIPIENT_nameDef], yêu cầu sự vâng lời.</li>
+    <li>r_logentry->[INITIATOR_nameDef] chỉ xuống đất, yêu cầu [RECIPIENT_nameDef] đến.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã cho [RECIPIENT_nameDef] một lệnh đầu tiên.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>nỗ lực đào tạo</TrainAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] to train</li>
+    <li>trained->[tried] to show a new trick to</li>
+    <li>trained->[tried] to discipline</li>
+    <li>trained->[tried] to instruct</li>
+    <li>trained->[tried] to encourage a new skill in</li>
+    <li>trained->demonstrated a skill to</li>
+    <li>trained->encouraged a new response from</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  -->
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] huấn luyện</li>
+    <li>trained->[tried] để dạy một thủ thuật mới cho</li>
+    <li>trained->[tried] để kỷ luật</li>
+    <li>trained->[tried] hướng dẫn</li>
+    <li>trained->[tried] để khuyến khích một kỹ năng mới trong</li>
+    <li>trained->thể hiện một kỹ năng cho</li>
+    <li>trained->khuyến khích một phản hồi mới từ</li>
+    <li>tried->đã nỗ lực</li>
+    <li>tried->đã cố gắng</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

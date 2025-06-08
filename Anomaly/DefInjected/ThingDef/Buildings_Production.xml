@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioferrite harvester -->
+  <BioferriteHarvester.label>Máy Khai thác Ferit Sinh học</BioferriteHarvester.label>
+  <!-- EN: When placed near a holding platform, this device draws biomass from the held entity and converts it to bioferrite. The harvester creates more bioferrite than manual extraction.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester; however, each harvester can connect to multiple platforms. -->
+  <BioferriteHarvester.description>Khi đặt gần bệ giam giữ, thiết bị này hút sinh khối từ thực thể bị giam cầm và chuyển hóa thành Ferit Sinh học. \n\nCác thực thể lớn hơn thường sản sinh nhiều Ferit Sinh học hơn. Tuy nhiên, với phần lớn sinh vật, quá trình này gây khó chịu cùng cực, khiến việc giam cầm thực thể trở nên khó khăn hơn.\n\nMỗi bệ giam giữ chỉ hỗ trợ duy nhất một máy khai thác, nhưng mỗi máy có thể liên kết tối đa đến bốn bệ.</BioferriteHarvester.description>
+  
+  <!-- EN: bioferrite shaper -->
+  <BioferriteShaper.label>Bàn Định hình Ferit Sinh học</BioferriteShaper.label>
+  <!-- EN: A work bench used to craft bioferrite products. This bench uses heat and electromagnetic stimulation to temporarily coax bioferrite into a pliable state, allowing a worker to shape it into complex shapes and combine it with other materials. -->
+  <BioferriteShaper.description>Bàn chế tác sử dụng sự kết hợp của nhiệt và kích thích điện từ để tạm thời chuyển Ferit Sinh học vào trạng thái dễ uốn. Điều này cho phép thợ chế tác tạo ra các hình thái phức tạp và kết hợp nó với các vật liệu khác.</BioferriteShaper.description>
+  
+  <!-- EN: serum lab -->
+  <SerumCentrifuge.label>Máy Quay ly Tâm Huyết thanh</SerumCentrifuge.label>
+  <!-- EN: A workbench that uses scavenged archotechnology to create single-use injectable serums. Serums produce diverse and exotic effects through the use of exotic archotech mechanites. -->
+  <SerumCentrifuge.description>Bàn chế tác sử dụng công nghệ thượng cổ đã được tái chế để tạo ra các loại huyết thanh tiêm chỉ sử dụng được một lần. Các huyết thanh này tạo ra những hiệu ứng đa dạng và kỳ lạ thông qua việc sử dụng các vi cơ khí công nghệ thượng cổ.</SerumCentrifuge.description>
+  
+</LanguageData>

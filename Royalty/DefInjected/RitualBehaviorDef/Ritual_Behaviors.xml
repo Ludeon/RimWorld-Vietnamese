@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: linker -->
+  <AnimaTreeLinking.roles.0.label>liên kết</AnimaTreeLinking.roles.0.label>
+  <!-- EN: Only adults can link with an anima tree. -->
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>Chỉ người lớn mới có thể liên kết với cây anima.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Cần một người thuộc loại tập trung thiền định tự nhiên, người ở dưới mức psylink tối đa và không bị điếc tâm linh.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <!-- EN: Must have natural focus type. -->
+  <AnimaTreeLinking.spectatorFilter.description>Phải có kiểu lấy nét tự nhiên.</AnimaTreeLinking.spectatorFilter.description>
+  <!-- EN: participate -->
+  <AnimaTreeLinking.spectatorGerund>tham gia</AnimaTreeLinking.spectatorGerund>
+  <!-- EN: Participants -->
+  <AnimaTreeLinking.spectatorsLabel>Những người tham gia</AnimaTreeLinking.spectatorsLabel>
+  
+  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} đang có bài phát biểu từ ngai vàng.\n\nNếu mọi việc suôn sẻ, người nghe sẽ cảm thấy được truyền cảm hứng và nhận được sự tôn trọng dành cho {ORGANIZER_labelShort}. Nếu nó diễn ra không tốt, bài phát biểu sẽ gây tổn hại cho xã hội. Kết quả phụ thuộc vào khả năng xã hội của {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
+  <!-- EN: Speech from the throne -->
+  <ThroneSpeech.letterTitle>Bài phát biểu từ ngai vàng</ThroneSpeech.letterTitle>
+  <!-- EN: organizer -->
+  <ThroneSpeech.roles.0.label>người tổ chức</ThroneSpeech.roles.0.label>
+  
+</LanguageData>

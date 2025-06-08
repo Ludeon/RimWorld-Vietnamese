@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech low-shield -->
+  <ShieldGeneratorBullets.label>mech lá chắn thấp</ShieldGeneratorBullets.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to low angles, so it will block ground-level projectiles like bullets.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
+  <ShieldGeneratorBullets.description>Một thiết bị che chắn tạo ra trường lực đẩy xung lượng. Các phát bắn có thể đi ra ngoài, nhưng không đi vào.\n\nCái này được điều chỉnh ở các góc thấp, do đó, nó sẽ chặn các đường đạn trên mặt đất như đạn.\n\nThiết bị này có thể tạm thời bị vô hiệu hóa bởi các cuộc tấn công EMP, hoặc bằng cách gây sốc cho thiết bị máy chiếu hoặc sử dụng đạn EMP trên lá chắn.</ShieldGeneratorBullets.description>
+  
+  <!-- EN: mech high-shield -->
+  <ShieldGeneratorMortar.label>mech lá chắn cao</ShieldGeneratorMortar.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to high angles, so it will block mortar rounds.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
+  <ShieldGeneratorMortar.description>Một thiết bị che chắn tạo ra trường lực đẩy xung lượng. Các phát bắn có thể đi ra ngoài, nhưng không đi vào.\n\nCái này được điều chỉnh ở góc cao, do đó, nó sẽ chặn đạn súng cối.\n\nThiết bị này có thể tạm thời bị vô hiệu hóa bởi các cuộc tấn công EMP, bằng cách gây sốc cho chính thiết bị máy chiếu hoặc sử dụng Đạn EMP trên tấm khiên.</ShieldGeneratorMortar.description>
+  
+</LanguageData>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>cố gắng để biết</BuildRapport.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->told a story about</li>
+    <li>toldastoryabout->told a funny story about</li>
+    <li>toldastoryabout->told a heartfelt story about</li>
+    <li>toldastoryabout->told an old story about</li>
+    <li>toldastoryabout->told a family story about</li>
+    <li>toldastoryabout->told a childhood story about</li>
+    <li>toldastoryabout->mentioned an anecdote about</li>
+    <li>talkabout->talk about</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->have a discussion about</li>
+    <li>talkabout->ask about</li>
+    <li>talkabout->think about</li>
+    <li>talkabout->find common ground around</li>
+    <li>subject->the colony</li>
+    <li>subject->the community</li>
+    <li>subject->joining the colony</li>
+    <li>subject->changing teams</li>
+    <li>subject->finding friends</li>
+    <li>subject->meeting new people</li>
+    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
+    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
+    <li>subject->health</li>
+    <li>subject->the future</li>
+    <li>subject->letting go</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  -->
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] cho [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kể lại cho [RECIPIENT_nameDef] về [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mô tả [subject] cho [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] khuyến kích [RECIPIENT_nameDef] [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã tạo một cơ hội cho [RECIPIENT_nameDef] [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] bày tỏ sự quan tâm đến [PersonalCharacteristic] của [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] yêu cầu [RECIPIENT_nameDef] về [PersonalCharacteristic] [RECIPIENT_possessive].</li>
+    <li>toldastoryabout(p=2)->đã kể một câu chuyện về</li>
+    <li>toldastoryabout->đã kể một câu chuyện vui nhộn về</li>
+    <li>toldastoryabout->đã kể một câu chuyện chân thành về</li>
+    <li>toldastoryabout->kể một câu chuyện cũ về</li>
+    <li>toldastoryabout->kể một câu chuyện gia đình về</li>
+    <li>toldastoryabout->kể một câu chuyện thời thơ ấu về</li>
+    <li>toldastoryabout->đã đề cập đến một giai thoại về</li>
+    <li>talkabout->nói về</li>
+    <li>talkabout->bàn luận</li>
+    <li>talkabout->có một cuộc thảo luận về</li>
+    <li>talkabout->hỏi về</li>
+    <li>talkabout->nghĩ về</li>
+    <li>talkabout->tìm điểm chung xung quanh</li>
+    <li>subject->thuộc địa</li>
+    <li>subject->cộng đồng</li>
+    <li>subject->gia nhập thuộc địa</li>
+    <li>subject->thay đổi đội</li>
+    <li>subject->tìm kiếm bạn bè</li>
+    <li>subject->gặp gỡ những người mới</li>
+    <li>subject->xem xét lại những ý tưởng [RECIPIENT_possessive]</li>
+    <li>subject->suy nghĩ lại về lòng trung thành của mình</li>
+    <li>subject->sức khỏe</li>
+    <li>subject->tương lai</li>
+    <li>subject->buông tay</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[PersonalCharacteristic] [INITIATOR_possessive]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>nỗ lực chiêu mộ</RecruitAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] đã yêu cầu [RECIPIENT_nameDef] tham gia.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã hứa [goodthing] cho [RECIPIENT_nameDef], và yêu cầu [RECIPIENT_objective] tham gia.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->miễn phí, nhiều [Vegetable] tươi</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>xúi giục trốn thoát</SparkJailbreak.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</li>
+    <li>freedom->freedom</li>
+    <li>freedom->opportunity</li>
+    <li>freedom->home</li>
+    <li>freedom->self-determination</li>
+  -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói về niềm vui của [freedom], và đưa ra một cách để trốn thoát</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói về việc [TerrainFeature] đẹp như thế nào, và được đề nghị tự do.</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã chỉ ra một cách để trốn thoát cho [RECIPIENT_nameDef], và đã hứa hẹn về [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] đã nói với [RECIPIENT_nameDef] rằng bảo mật rất lỏng lẻo, và khuyến khích trốn thoát.</li>
+    <li>freedom->tự do</li>
+    <li>freedom->cơ hội</li>
+    <li>freedom->nhà</li>
+    <li>freedom->quyền tự quyết</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

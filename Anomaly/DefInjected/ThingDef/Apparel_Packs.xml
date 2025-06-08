@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deadlife pack -->
+  <Apparel_DeadlifePack.label>Gói tạo Tử thi</Apparel_DeadlifePack.label>
+  <!-- EN: A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection. -->
+  <Apparel_DeadlifePack.description>Một gói sử dụng-một-lần phóng ra viên nang phát nổ thành bụi Tử thi. Loại bụi này sẽ hồi sinh xác chết người và động vật, biến chúng thành bọn lê bước chỉ tấn công kẻ địch của bạn.\n\nBụi Tử thi bao gồm các vi máy siêu nhỏ lơ lửng trong không khí. Khi chúng chạm vào xác chết, chúng sẽ gây ra một sự hồi sinh hỗn loạn và bạo lực.</Apparel_DeadlifePack.description>
+  <!-- EN: charge -->
+  <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>Nạp năng lượng</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: deploy deadlife dust -->
+  <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>Triển khai bụi Tử thi</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
+  
+  <!-- EN: disruptor flare pack -->
+  <Apparel_DisruptorFlarePack.label>Gói pháo sáng Gây nhiễu</Apparel_DisruptorFlarePack.label>
+  <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
+  <Apparel_DisruptorFlarePack.description>Một gói tiện ích bắn ra các pháo sáng Gây nhiễu. Khi va chạm, pháo sáng sẽ đốt một viên nang bioferrite, tạo ra một vụ nổ ánh sáng mạnh cùng sự gián đoạn tâm linh cục bộ. Điều này làm choáng váng các sinh vật nhạy cảm với tâm linh, hé lộ những kẻ tàng hình, đồng thời giảm ý thức và tốc độ di chuyển của chúng trong một thời gian ngắn. Sau đó, pháo sáng tiếp tục cháy, thắp sáng một vùng rộng trong một khoảng thời gian.</Apparel_DisruptorFlarePack.description>
+  <!-- EN: flare -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>Pháo sáng</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>Thời gian hồi</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy flare -->
+  <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>Triển khai pháo sáng</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
+  
+  <!-- EN: turret pack -->
+  <Apparel_PackTurret.label>Gói Tháp pháo</Apparel_PackTurret.label>
+  <!-- EN: A wearable pack that allows the user to deploy a battery-powered turret. The pack contains a propulsion device, letting the user launch the turret a short distance. These turrets are effective for flanking and distracting enemies. However, the turret's limited AI can't be directly controlled, so it can cause friendly fire incidents. The turret battery lasts for several hours. -->
+  <Apparel_PackTurret.description>Một túi thiết bị cho phép người dùng triển khai tháp pháo chạy bằng pin. Gói này còn chứa một thiết bị phóng, giúp người dùng bắn tháp pháo đi một khoảng cách ngắn. Những ụ súng này hiệu quả trong việc đánh bọc sườn và gây phân tâm đối phương. Tuy nhiên, AI hạn chế của tháp pháo khiến nó không thể bị điều khiển trực tiếp, nên nó hoàn toàn có thể gây ra tai nạn bắn nhầm. Pin của tháp pháo có thể sử dụng trong vài giờ.</Apparel_PackTurret.description>
+  <!-- EN: charge -->
+  <Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>Nạp năng lượng</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: deploy turret -->
+  <Apparel_PackTurret.verbs.deploy_turret.label>Triển khai tháp pháo</Apparel_PackTurret.verbs.deploy_turret.label>
+  
+  <!-- EN: disruptor flare -->
+  <DisruptorFlare.label>Pháo sáng gây nhiễu</DisruptorFlare.label>
+  
+  <!-- EN: deadlife capsule -->
+  <Grenade_Deadlife.label>Lựu đạn Tử thi</Grenade_Deadlife.label>
+  
+  <!-- EN: disruptor flare -->
+  <Grenade_DisruptorFlare.label>Lựu đạn gây nhiễu</Grenade_DisruptorFlare.label>
+  
+  <!-- EN: turret pack capsule -->
+  <Grenade_TurretPack.label>Viên nang gói tháp pháo</Grenade_TurretPack.label>
+  
+</LanguageData>

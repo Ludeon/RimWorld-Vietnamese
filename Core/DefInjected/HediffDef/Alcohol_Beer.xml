@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol addiction -->
+  <AlcoholAddiction.label>nghiện rượu</AlcoholAddiction.label>
+  <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AlcoholAddiction.description>Nghiện rượu. Sử dụng lâu dài đã gây ra sự thích nghi thần kinh ở cấp độ tế bào, do đó não không thể hoạt động bình thường nếu không có chất cồn.\n\nNếu không có rượu để uống thường xuyên, các triệu chứng nghiện sẽ bắt đầu. Tuy nhiên, việc nhịn, cai kéo dài sẽ buộc não phải thích nghi trở lại trạng thái bình thường, giải quyết cơn nghiện.</AlcoholAddiction.description>
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>cai rượu</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>rượu</AlcoholHigh.label>
+  <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
+  <AlcoholHigh.description>Chất cồn trong máu. Nó làm cho mọi người vui vẻ, nhưng lại làm giảm hiệu suất công việc.</AlcoholHigh.description>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>người say rựu</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>phê</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>say</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>say mèm</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>say bí tỷ</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>mất kiểm soát</AlcoholHigh.stages.blackout.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>dung nạp rượu</AlcoholTolerance.label>
+  <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
+  <AlcoholTolerance.description>Một dung nạp cho rượu. Dung sai này càng nghiêm trọng thì càng cần nhiều rượu để có được tác dụng tương tự.</AlcoholTolerance.description>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small.label>không đáng kể</AlcoholTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>lớn</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>nghiêm trọng</AlcoholTolerance.stages.massive.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>nôn nao</Hangover.label>
+  <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
+  <Hangover.description>Một sự chậm trễ khó chịu sau khi uống rượu.</Hangover.description>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>hơi nôn nao</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>nhẹ</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>nặng</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>dồn dập</Hangover.stages.pounding.label>
+  
+</LanguageData>

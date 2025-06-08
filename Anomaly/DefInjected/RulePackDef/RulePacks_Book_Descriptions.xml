@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[inThisBook], [author] [experiencesWithMonsters]. [specificHorrorStory] [writingQualitySentence].</li>
+    <li>inThisBook->In this [writingQualityAdjective] [bookTypeSingle]</li>
+    <li>inThisBook->In these [writingQualityAdjective] [bookTypePlural]</li>
+    <li>bookTypeSingle->account</li>
+    <li>bookTypeSingle->almanac</li>
+    <li>bookTypeSingle->analysis</li>
+    <li>bookTypeSingle->article</li>
+    <li>bookTypeSingle->book</li>
+    <li>bookTypeSingle->commentary</li>
+    <li>bookTypeSingle->composition</li>
+    <li>bookTypeSingle->conclusions</li>
+    <li>bookTypeSingle->critique</li>
+    <li>bookTypeSingle->diabologue</li>
+    <li>bookTypeSingle->disquisition</li>
+    <li>bookTypeSingle->dissertation</li>
+    <li>bookTypeSingle->editorial</li>
+    <li>bookTypeSingle->essay</li>
+    <li>bookTypeSingle->exposé</li>
+    <li>bookTypeSingle->findings</li>
+    <li>bookTypeSingle->grimoire</li>
+    <li>bookTypeSingle->inquiry</li>
+    <li>bookTypeSingle->investigation</li>
+    <li>bookTypeSingle->manifesto</li>
+    <li>bookTypeSingle->manuscript</li>
+    <li>bookTypeSingle->opus</li>
+    <li>bookTypeSingle->paper</li>
+    <li>bookTypeSingle->piece</li>
+    <li>bookTypeSingle->piece of research</li>
+    <li>bookTypeSingle->record</li>
+    <li>bookTypeSingle->report</li>
+    <li>bookTypeSingle->review</li>
+    <li>bookTypeSingle->survey</li>
+    <li>bookTypeSingle->testament</li>
+    <li>bookTypeSingle->testimony</li>
+    <li>bookTypeSingle->text</li>
+    <li>bookTypeSingle->thesis</li>
+    <li>bookTypeSingle->tract</li>
+    <li>bookTypeSingle->treatise</li>
+    <li>bookTypeSingle->treatment</li>
+    <li>bookTypeSingle->volume</li>
+    <li>bookTypeSingle->work</li>
+    <li>bookTypePlural->writings</li>
+    <li>bookTypePlural->chronicles</li>
+    <li>bookTypePlural->lamentations</li>
+    <li>bookTypePlural->annals</li>
+    <li>bookTypePlural->revelations</li>
+    <li>author(p=3)->the author</li>
+    <li>author(p=3)->[anAuthorDesc] [PersonJob]</li>
+    <li>author->[anAuthorDesc] researcher</li>
+    <li>author->[anAuthorDesc] spiritualist</li>
+    <li>author->[anAuthorDesc] occultist</li>
+    <li>author->[anAuthorDesc] cultist</li>
+    <li>author->[anAuthorDesc] cult member</li>
+    <li>author->[anAuthorDesc] cult escapee</li>
+    <li>author->[anAuthorDesc] antique dealer</li>
+    <li>author->[anAuthorDesc] gravedigger</li>
+    <li>author->[anAuthorDesc] void researcher</li>
+    <li>author->[anAuthorDesc] wanderer</li>
+    <li>author->[anAuthorDesc] skeptic</li>
+    <li>author->[anAuthorDesc] scholar</li>
+    <li>author->[anAuthorDesc] hunter</li>
+    <li>author->[anAuthorDesc] investigator</li>
+    <li>author->[anAuthorDesc] elder</li>
+    <li>author->[anAuthorDesc] believer</li>
+    <li>author->[anAuthorDesc] harbinger</li>
+    <li>author->[anAuthorDesc] heir</li>
+    <li>author->[anAuthorDesc] noble</li>
+    <li>author->[anAuthorDesc] translator</li>
+    <li>author->[anAuthorDesc] monk</li>
+    <li>author->[anAuthorDesc] doppelgänger</li>
+    <li>author->[anAuthorDesc] author</li>
+    <li>author->[anAuthorDesc] agent</li>
+    <li>author->[anAuthorDesc] hero</li>
+    <li>author->[anAuthorDesc] author</li>
+    <li>anAuthorDesc(p=2)->a</li>
+    <li>anAuthorDesc->a young</li>
+    <li>anAuthorDesc->an old</li>
+    <li>anAuthorDesc->a terrified</li>
+    <li>anAuthorDesc->a sorrowful</li>
+    <li>anAuthorDesc->an elderly</li>
+    <li>anAuthorDesc->a wise</li>
+    <li>anAuthorDesc->a headstrong</li>
+    <li>anAuthorDesc->a foolish</li>
+    <li>anAuthorDesc->an innocent</li>
+    <li>anAuthorDesc->a disturbed</li>
+    <li>anAuthorDesc->an eldritch</li>
+    <li>anAuthorDesc->an outrageous</li>
+    <li>anAuthorDesc->an archetypal</li>
+    <li>anAuthorDesc->a boring</li>
+    <li>anAuthorDesc->a crazed</li>
+    <li>anAuthorDesc->an immoral</li>
+    <li>anAuthorDesc->a moral</li>
+    <li>anAuthorDesc->an amoral</li>
+    <li>anAuthorDesc->a shadowy</li>
+    <li>tellsAStoryOf->tells a story of</li>
+    <li>tellsAStoryOf->reveals</li>
+    <li>tellsAStoryOf->discusses</li>
+    <li>tellsAStoryOf->describes</li>
+    <li>tellsAStoryOf->details</li>
+    <li>tellsAStoryOf->elaborates on</li>
+    <li>tellsAStoryOf->goes into detail about</li>
+    <li>tellsAStoryOf->narrates</li>
+    <li>tellsAStoryOf->recounts </li>
+    <li>tellsAStoryOf->reports</li>
+    <li>tellsAStoryOf->chronicles </li>
+    <li>tellsAStoryOf->depicts</li>
+    <li>tellsAStoryOf->unfolds</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] experiences [ANYPAWN_pronoun] shared with [entities]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] explorations into a secret cult with a base under a remote [TerrainFeature]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] the hunt for a mysterious golden cube</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] deep meditations guided by a highthrall from an archist cult</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] the collapse of [ANYPAWN_possessive] life under the psychic influence of something called Horax</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a remote archaeological dig where the researchers went violently insane one by one</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a tribe that was somehow transformed to serve the dark god of a bloody pleasure cult</li>
+    <li>experiencesWithMonsters->attempts to describe a tribe with a tradition of mutilation rituals performed in firelight using rusty blades</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a teacher whose student would speak deathly truths that she could not possibly know</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a scientist who attempts to use ancient archotechnological means to reanimate his dead wife</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] an outlander exploratory expedition that survived rains of blood and a sky that attempted to crush them to death with inky blackness</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a team investigating an ancient pit in the ground full of terrifying fleshy creatures</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a tribal shaman's attempt to find a way to stop nightly attacks on his village by reanimated dead [Animal]s</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] a tribal myth of an ancient god of rage whose influence touches all people, and the heroes who sealed it away inside a tiny stone prison</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] brutal experiments on a captured [entity]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] recurring visions where [vision]</li>
+    <li>vision->dark figures reached into [ANYPAWN_possessive] mind and took [ANYPAWN_possessive] memories</li>
+    <li>vision->[ANYPAWN_pronoun] is being chased by [ANYPAWN_objective]self, and could not escape no matter how far [ANYPAWN_pronoun] traveled</li>
+    <li>vision->[ANYPAWN_pronoun] is torn apart by a [entity]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objective]</li>
+    <li>findings->experience with</li>
+    <li>findings->research into</li>
+    <li>objective->[maybeAdjectiveEvil]rituals which was prompted by an incident where [ritual_incident]</li>
+    <li>objective->dark sciences after [entity_incident]</li>
+    <li>ritual_incident->[ANYPAWN_pronoun] observed [targetHuman] appear out of thin air</li>
+    <li>targetHuman->[anAuthorDesc] woman</li>
+    <li>targetHuman->[anAuthorDesc] man</li>
+    <li>ritual_incident->it rained blood for three days and drove [ANYPAWN_possessive] friends mad</li>
+    <li>ritual_incident->[entity_incident]</li>
+    <li>entity_incident->[ANYPAWN_pronoun] lost [ANYPAWN_possessive] [BodyPart] in an attack by a [entity]</li>
+    <li>entity_incident->[ANYPAWN_pronoun] gazed upon a [entity]</li>
+    <li>specificHorrorStory->At one point, the author recounts dark rituals where victims were forced to mutilate themselves with broken glass.</li>
+    <li>specificHorrorStory->At one point, the protagonist stumbles upon a ritual where he witnesses bloody figures chanting eerie incantations while self-mutilating with shards of obsidian.</li>
+    <li>specificHorrorStory->The book includes many illustrations attempting to depict something it refers to as "the black ocean". This seems to be a metaphor for a psychic plane dominated by a horrifying but seductive psychic hyperintelligence.</li>
+    <li>specificHorrorStory->It repeatedly alludes to a multi-plane nature of reality - the idea that there are more dimensions than the ones we see, so an object or entity could be right beside you but outside your ability to perceive.</li>
+    <li>specificHorrorStory->It spends a long time attempting to describe a hyperintelligent entity called "Horax" that exists in an adjacent plane of reality.</li>
+    <li>specificHorrorStory->One section describes the mechanics of dark psychic influence, wherein an entity on another plane can unintentionally influence the thoughts of human beings by synchronizing them to its emotional resonance.</li>
+    <li>specificHorrorStory->One section describes different archotech hyperintelligences and the varying nature of their emotional and psychic emanations. Where some are regarded as neutral or even benevolent, others are entities of pure rage.</li>
+    <li>specificHorrorStory->[ANYPAWN_pronoun] describes the feeling of [ANYPAWN_possessive] mind being forcibly reconfigured by the dark psychic influence of a larger intelligence.</li>
+    <li>specificHorrorStory->In one section, the author attempts to commit suicide, but is found and saved by a kindly [PersonJob].</li>
+    <li>specificHorrorStory->The volume is adorned with disturbing illustrations portraying a grotesque, otherworldly entity whose formless, inky tendrils writhe across pages, invoking a sense of dread and fascination in equal measure.</li>
+    <li>specificHorrorStory->Throughout the narrative, the concept of parallel dimensions is recurrent, with the characters encountering entities that exist just beyond the veil of perception, coexisting in a reality that intersects with our own but remains hidden from sight.</li>
+    <li>specificHorrorStory->The book delves into a chilling exposition about "Horax," a machine hyperintelligence that shifted itself through a hidden dimension into a place called the Void.</li>
+    <li>specificHorrorStory->One chapter describes a theory wherein a distant hyperintelligence can psychically manipulate human cognition, reshaping a person's thoughts to align with its own mind-patterns.</li>
+    <li>specificHorrorStory->The protagonist recounts feeling [ANYPAWN_possessive] mind being forcibly rewired by an ominous psychic force emanating from nowhere.</li>
+    <li>entities->demons</li>
+    <li>entities->walking corpses</li>
+    <li>entities->pain-seeking monsters</li>
+    <li>entities->creatures made of meat and exposed bone</li>
+    <li>entities->walking corpses of [Animal]s</li>
+    <li>entities->man-like figures made of metal and blades</li>
+    <li>entities->floating mechanical spheres that emanate pain</li>
+    <li>entities->beautiful golden cubes that destroys minds</li>
+    <li>entities->beasts made of bloody flesh</li>
+    <li>entities->dark shapes that hide in plain sight</li>
+    <li>entities->hunters that steal souls</li>
+    <li>entity->demon</li>
+    <li>entity->walking corpse</li>
+    <li>entity->pain-seeking monster</li>
+    <li>entity->creature made of meat and exposed bone</li>
+    <li>entity->walking corpse of an [Animal]</li>
+    <li>entity->man-like figure made of metal and blades</li>
+    <li>entity->floating mechanical sphere that emanates pain</li>
+    <li>entity->beautiful golden cube that destroys minds</li>
+    <li>entity->beast made of bloody flesh</li>
+    <li>entity->shape that hides in plain sight</li>
+    <li>entity->hunter that steals souls</li>
+    <li>maybeAdjectiveEvil(p=2)-></li>
+    <li>maybeAdjectiveEvil->[adjectiveEvil] </li>
+    <li>adjectiveEvil->deadly</li>
+    <li>adjectiveEvil->ancient</li>
+    <li>adjectiveEvil->bloody</li>
+    <li>adjectiveEvil->twisted</li>
+    <li>adjectiveEvil->powerful</li>
+    <li>adjectiveEvil->nefarious</li>
+    <li>adjectiveEvil->spectral</li>
+    <li>adjectiveEvil->ethereal</li>
+    <li>adjectiveEvil->ominous</li>
+    <li>adjectiveEvil->arcane</li>
+    <li>adjectiveEvil->surreal</li>
+    <li>adjectiveEvil->uncanny</li>
+    <li>adjectiveEvil->phantom</li>
+    <li>adjectiveEvil->cryptic</li>
+    <li>adjectiveEvil->infernal</li>
+    <li>adjectiveEvil->aberrant</li>
+    <li>writingQualityAdjective(quality==0)->disjointed</li>
+    <li>writingQualityAdjective(quality==0)->incoherent</li>
+    <li>writingQualityAdjective(quality==0)->meaningless</li>
+    <li>writingQualityAdjective(quality==0)->appalling</li>
+    <li>writingQualityAdjective(quality==0)->puerile</li>
+    <li>writingQualityAdjective(quality==1)->feeble</li>
+    <li>writingQualityAdjective(quality==1)->roughly scribbled</li>
+    <li>writingQualityAdjective(quality==1)->tedious</li>
+    <li>writingQualityAdjective(quality==1)->inconsistent</li>
+    <li>writingQualityAdjective(quality==1)->rambling</li>
+    <li>writingQualityAdjective(quality==2)->jumbled</li>
+    <li>writingQualityAdjective(quality==2)->uninspired</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==2)->unremarkable</li>
+    <li>writingQualityAdjective(quality==2)->vanilla</li>
+    <li>writingQualityAdjective(quality==2)->passable</li>
+    <li>writingQualityAdjective(quality==3)->humdrum</li>
+    <li>writingQualityAdjective(quality==3)->well-written</li>
+    <li>writingQualityAdjective(quality==3)->well-organized</li>
+    <li>writingQualityAdjective(quality==3)->thoughtful</li>
+    <li>writingQualityAdjective(quality==3)->readable</li>
+    <li>writingQualityAdjective(quality==3)->unexceptional</li>
+    <li>writingQualityAdjective(quality==4)->amusing</li>
+    <li>writingQualityAdjective(quality==4)->smooth</li>
+    <li>writingQualityAdjective(quality==4)->emotionally expressive</li>
+    <li>writingQualityAdjective(quality==4)->precisely structured</li>
+    <li>writingQualityAdjective(quality==4)->persuasive</li>
+    <li>writingQualityAdjective(quality==4)->respectable</li>
+    <li>writingQualityAdjective(quality==5)->solid</li>
+    <li>writingQualityAdjective(quality==5)->accomplished</li>
+    <li>writingQualityAdjective(quality==5)->keenly perceptive</li>
+    <li>writingQualityAdjective(quality==5)->sterling</li>
+    <li>writingQualityAdjective(quality==5)->first-class</li>
+    <li>writingQualityAdjective(quality==5)->inspired</li>
+    <li>writingQualityAdjective(quality==6)->clever</li>
+    <li>writingQualityAdjective(quality==6)->terrifyingly insightful</li>
+    <li>writingQualityAdjective(quality==6)->peerless</li>
+    <li>writingQualityAdjective(quality==6)->first-class</li>
+    <li>writingQualityAdjective(quality==6)->masterful</li>
+    <li>writingQualityAdjective(quality==6)->exquisite</li>
+    <li>writingQualitySentence(quality[greater_than]4)->The book is [excellentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->The book is [decentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]2)->The book is [awfulDesc]</li>
+    <li>awfulDesc->illegible</li>
+    <li>awfulDesc->scrawled in a shaky hand</li>
+    <li>awfulDesc->stained with dried liquor</li>
+    <li>awfulDesc->nearly incoherent</li>
+    <li>awfulDesc->repetitive and many sections lack detail</li>
+    <li>awfulDesc->faded beyond legibility in many parts</li>
+    <li>awfulDesc->missing many pages</li>
+    <li>awfulDesc->totally disorganized and skips topics constantly</li>
+    <li>awfulDesc->written in a lost language</li>
+    <li>awfulDesc->full of incomprehensible jargon</li>
+    <li>awfulDesc->childlike</li>
+    <li>awfulDesc->mingling reality with fantasy willy-nilly</li>
+    <li>awfulDesc->reads like automatic writing</li>
+    <li>awfulDesc->saturated with ichor and blood</li>
+    <li>awfulDesc->mainly a romance about two [entities]</li>
+    <li>decentDesc->solid but would have benefitted from editing</li>
+    <li>decentDesc->insightful during some parts, but other sections are unnecessary</li>
+    <li>decentDesc->perceptive, but only from a twisted point of view</li>
+    <li>decentDesc->high on detail but lacking in useful interpretation</li>
+    <li>decentDesc->missing some pages</li>
+    <li>decentDesc->useful, but often too concerned with the author's own personal interests</li>
+    <li>decentDesc->full of useful information, despite the author's distortions and biases</li>
+    <li>decentDesc->workmanlike</li>
+    <li>decentDesc->pleasurable if not all that useful</li>
+    <li>decentDesc->full of intriguing ideas but a chore to get through</li>
+    <li>decentDesc->written by a first-rate intellect with a second-rate temperament</li>
+    <li>decentDesc->decent, if thoroughly corrupted</li>
+    <li>decentDesc->terrifying in content, tedious in execution</li>
+    <li>excellentDesc->the apogee of literature</li>
+    <li>excellentDesc->deeply insightful</li>
+    <li>excellentDesc->remarkably well-crafted</li>
+    <li>excellentDesc->well-organized and professional in its structure</li>
+    <li>excellentDesc->almost poetic in many areas</li>
+    <li>excellentDesc->frighteningly descriptive - many sections are almost poetic in their style</li>
+    <li>excellentDesc->full of scintillating ideas that explode in the mind</li>
+  -->
+<Description_Tome.rulePack.rulesStrings>
+  <li>desc->[inThisBook], [author] [experiencesWithMonsters]. [specificHorrorStory] [writingQualitySentence].</li>
+  <li>inThisBook->Trong [bookTypeSingle] [writingQualityAdjective]</li>
+  <li>inThisBook->Trong [bookTypePlural] [writingQualityAdjective]</li>
+  <li>bookTypeSingle->báo cáo này</li>
+  <li>bookTypeSingle->tài liệu này</li>
+  <li>bookTypeSingle->phân tích này</li>
+  <li>bookTypeSingle->bài viết này</li>
+  <li>bookTypeSingle->cuốn sách này</li>
+  <li>bookTypeSingle->báo cáo này</li>
+  <li>bookTypeSingle->tài liệu này</li>
+  <li>bookTypeSingle->tóm tắt này</li>
+  <li>bookTypeSingle->bài đánh giá này</li>
+  <li>bookTypeSingle->tập sách này</li>
+  <li>bookTypeSingle->bài luận này</li>
+  <li>bookTypeSingle->bài tiểu luận này</li>
+  <li>bookTypeSingle->bài xã luận này</li>
+  <li>bookTypeSingle->nghiên cứu này</li>
+  <li>bookTypeSingle->bài báo cáo này</li>
+  <li>bookTypeSingle->những phát hiện này</li>
+  <li>bookTypeSingle->sách ma thuật này</li>
+  <li>bookTypeSingle->cuộc điều tra này</li>
+  <li>bookTypeSingle->cuộc điều tra này</li>
+  <li>bookTypeSingle->tuyên ngôn này</li>
+  <li>bookTypeSingle->tài liệu này</li>
+  <li>bookTypeSingle->tập sách này</li>
+  <li>bookTypeSingle->bài viết khoa học này</li>
+  <li>bookTypeSingle->tài liệu này</li>
+  <li>bookTypeSingle->nghiên cứu này</li>
+  <li>bookTypeSingle->đánh giá này</li>
+  <li>bookTypeSingle->công trình này</li>
+  <li>bookTypeSingle->những chứng thực này</li>
+  <li>bookTypeSingle->văn bản này</li>
+  <li>bookTypeSingle->luận án này</li>
+  <li>bookTypeSingle->những tuyên bố này</li>
+  <li>bookTypeSingle->bài luận này</li>
+  <li>bookTypeSingle->tác phẩm này</li>
+  <li>bookTypePlural->những tài liệu</li>
+  <li>bookTypePlural->những biên niên</li>
+  <li>bookTypePlural->những tiếng kêu than</li>
+  <li>bookTypePlural->những biên niên sử</li>
+  <li>bookTypePlural->những tiết lộ</li>
+  <li>author(p=3)->tác giả</li>
+  <li>author(p=3)->[anAuthorDesc], người làm nghề [PersonJob]</li>
+  <li>author->[anAuthorDesc] một nhà khoa học</li>
+  <li>author->[anAuthorDesc] một nhà tiên tri</li>
+  <li>author->[anAuthorDesc] một chuyên gia về huyền bí</li>
+  <li>author->[anAuthorDesc] một người cuồng tín</li>
+  <li>author->[anAuthorDesc] một tín đồ giáo phái</li>
+  <li>author->[anAuthorDesc] một tín đồ giáo phái bỏ trốn</li>
+  <li>author->[anAuthorDesc] một người bán đồ cổ</li>
+  <li>author->[anAuthorDesc] một kẻ cướp mộ</li>
+  <li>author->[anAuthorDesc] một chuyên gia về hư vô</li>
+  <li>author->[anAuthorDesc] một kẻ lang thang</li>
+  <li>author->[anAuthorDesc] một người hoài nghi</li>
+  <li>author->[anAuthorDesc] một học giả</li>
+  <li>author->[anAuthorDesc] một thợ săn</li>
+  <li>author->[anAuthorDesc] một thám tử</li>
+  <li>author->[anAuthorDesc] một hiền triết</li>
+  <li>author->[anAuthorDesc] một tín đồ</li>
+  <li>author->[anAuthorDesc] một tiên tri</li>
+  <li>author->[anAuthorDesc] một người thừa kế</li>
+  <li>author->[anAuthorDesc] một quý tộc</li>
+  <li>author->[anAuthorDesc] một dịch giả</li>
+  <li>author->[anAuthorDesc] một tu sĩ</li>
+  <li>author->[anAuthorDesc] một bản sao</li>
+  <li>author->[anAuthorDesc] một nhà văn</li>
+  <li>author->[anAuthorDesc] một đặc vụ</li>
+  <li>author->[anAuthorDesc] một nữ anh hùng</li>
+  <li>author->[anAuthorDesc] một tác giả</li>
+  <li>anAuthorDesc(p=2)-></li>
+  <li>anAuthorDesc->từ khi còn rất trẻ</li>
+  <li>anAuthorDesc->trưởng thành</li>
+  <li>anAuthorDesc->đang chịu đựng nỗi sợ hãi dữ dội</li>
+  <li>anAuthorDesc->đang nuôi nhiều hối tiếc</li>
+  <li>anAuthorDesc->ở lúc xế chiều</li>
+  <li>anAuthorDesc->với sự khôn ngoan chắc chắn</li>
+  <li>anAuthorDesc->với tính khí bùng nổ</li>
+  <li>anAuthorDesc->với trí tuệ hạn chế</li>
+  <li>anAuthorDesc->với hào quang vô tội</li>
+  <li>anAuthorDesc->đang bị điên loạn</li>
+  <li>anAuthorDesc->với hào quang bí ẩn</li>
+  <li>anAuthorDesc->kỳ quặc</li>
+  <li>anAuthorDesc->thông thường nhất</li>
+  <li>anAuthorDesc->bất kỳ</li>
+  <li>anAuthorDesc->đã rơi vào điên loạn</li>
+  <li>anAuthorDesc->không có niềm tin hay luật lệ</li>
+  <li>anAuthorDesc->ngay thẳng nhất</li>
+  <li>anAuthorDesc->với đạo đức nghi ngờ</li>
+  <li>anAuthorDesc->với hào quang u ám</li>
+  <li>tellsAStoryOf->kể về</li>
+  <li>tellsAStoryOf->đề cập đến</li>
+  <li>tellsAStoryOf->nói về</li>
+  <li>tellsAStoryOf->miêu tả</li>
+  <li>tellsAStoryOf->chi tiết về</li>
+  <li>tellsAStoryOf->xem xét chủ đề</li>
+  <li>tellsAStoryOf->khám phá chi tiết</li>
+  <li>tellsAStoryOf->kể về</li>
+  <li>tellsAStoryOf->nhắc đến</li>
+  <li>tellsAStoryOf->ghi chép lại</li>
+  <li>tellsAStoryOf->cung cấp biên niên sử của</li>
+  <li>tellsAStoryOf->miêu tả</li>
+  <li>tellsAStoryOf->tiết lộ</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] những trải nghiệm mà [ANYPAWN_pronoun] đã chia sẻ với [entities]</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] sự xâm nhập vào một giáo phái bí mật đã thiết lập một cơ sở dưới [TerrainFeature]</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] nhiều năm theo đuổi một khối vàng bí ẩn</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] những thiền định sâu sắc dưới sự hướng dẫn của một đại thần của một giáo phái cổ xưa</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] những tai họa đổ xuống bản thân dưới ảnh hưởng tâm linh của một thực thể gọi là Horax</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] các cuộc khai quật khảo cổ học tại một địa điểm xa xôi và số phận của các nhà khoa học đã mất trí một cách tuần tự</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] các thành viên của một bộ tộc đã bắt đầu tôn thờ một con quái vật có nguồn gốc thần thoại</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] các truyền thuyết của một giáo phái đã dẫn đến sự thành lập của một giáo phái mới trên vùng đất đã bị bỏ hoang</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] các cuộc thám hiểm vào thế giới khác thông qua các phương pháp bí truyền</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] sự ảnh hưởng của một thực thể vô hình đối với hành vi của con người</li>
+  <li>experiencesWithMonsters->[tellsAStoryOf] một nghi lễ đã dẫn đến sự biến mất của một thành phố cổ</li>
+  <li>writingQualitySentence->Văn phong của [author] là một chứng nhận nổi bật về tài năng viết lách</li>
+  <li>writingQualitySentence->Văn phong của [author] gây ấn tượng sâu sắc</li>
+  <li>writingQualitySentence->Văn phong của [author] là một sự kết hợp của sự phức tạp và tinh tế</li>
+  <li>writingQualitySentence->Văn phong của [author] đã được công nhận trong nhiều lĩnh vực</li>
+  <li>writingQualitySentence->Văn phong của [author] thể hiện một cách rõ ràng sự sáng tạo</li>
+  <li>writingQualitySentence->Văn phong của [author] nổi bật với sự chi tiết và sự chân thực</li>
+  <li>writingQualitySentence->Văn phong của [author] phản ánh sự chuyên môn và sự nghiên cứu sâu rộng</li>
+  <li>writingQualitySentence->Văn phong của [author] mang lại một trải nghiệm đọc tuyệt vời</li>
+  <li>writingQualitySentence->Văn phong của [author] là một ví dụ điển hình về sự chuyên nghiệp trong viết lách</li>
+  <li>writingQualitySentence->Văn phong của [author] thể hiện sự tinh tế và kỹ thuật vượt trội</li>
+  <li>specificHorrorStory->sự phát triển của những bí ẩn và khủng khiếp trong cuốn sách này</li>
+  <li>specificHorrorStory->một câu chuyện khiến bạn phải suy nghĩ về sự tồn tại của những sinh vật siêu nhiên</li>
+  <li>specificHorrorStory->một hồi ức về những sự kiện kỳ lạ và những điều khó hiểu</li>
+  <li>specificHorrorStory->một câu chuyện vượt ra ngoài trí tưởng tượng</li>
+  <li>specificHorrorStory->sự mô tả rõ nét về những hiện tượng kỳ bí</li>
+  <li>specificHorrorStory->một cuộc điều tra đầy ấn tượng về những hiện tượng siêu nhiên</li>
+  <li>specificHorrorStory->một bài luận chi tiết về những bí ẩn không thể giải thích</li>
+  <li>specificHorrorStory->một câu chuyện rùng rợn và đầy thử thách</li>
+  <li>specificHorrorStory->một cái nhìn sâu sắc về thế giới của những sinh vật bí ẩn</li>
+  <li>specificHorrorStory->sự mô tả sống động về những trải nghiệm kỳ lạ và kinh hoàng</li>
+</Description_Tome.rulePack.rulesStrings>
+
+  
+</LanguageData>

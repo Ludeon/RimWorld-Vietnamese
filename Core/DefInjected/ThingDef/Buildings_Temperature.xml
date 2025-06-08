@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>lửa trại</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Nấu thức ăn và để sưởi, cháy hết củi sau vài ngày. Giống như các nguồn nhiệt khác, lửa trại cần đặt trong phòng kín để có thể sưởi ấm căn phòng. Có thể thêm nhiên liệu để cháy tiếp.</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>máy điều hòa</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Máy làm mát không khí gia công tại Việt Nam. Máy có 2 đầu, một thả luồng khí đã làm lạnh, một đầu xả không khí nóng. Có thể dùng để làm mát phòng trong mùa hè hoặc làm phòng đông lạnh.</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>lò sưởi</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Thiết bị chuyển đổi điện năng thành nhiệt năng. Tự động đóng/mở khi nhiệt độ phòng đạt nhiệt độ chỉ tiêu.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>thùng làm mát</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Thể loại máy lạnh thời "ông bà anh" hoạt động bằng nguyên lý bay hơi nước. Tự động biến mất sau khi hết nhiên liệu sau vài ngày.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>lỗ thông gió</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Lỗ thông gió cho phép luồng không khí giữa hai phòng kề nhau thông qua lại, từ đó làm cân bằng nhiệt độ giữa 2 phòng.</Vent.description>
+  
+</LanguageData>

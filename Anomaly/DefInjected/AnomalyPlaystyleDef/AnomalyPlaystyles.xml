@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+ <!-- EN: ambient horror -->
+<AmbientHorror.label>Kinh dị xung quanh</AmbientHorror.label>
+<!-- EN: The monolith does not appear. Any Anomaly threat can occur, but Anomaly threats will be rare by default. Good if you want to interact with Anomaly expansion content without it being the focus. Note: The monolith endgame cannot occur in this mode. -->
+<AmbientHorror.description>Khối đá cổ không xuất hiện. Bất kỳ mối đe dọa Dị thường nào cũng có thể xảy ra, nhưng theo mặc định, các mối đe dọa Dị thường sẽ hiếm. Tốt nếu bạn muốn tương tác với nội dung mở rộng Dị thường mà không đặt nó làm trọng tâm. Lưu ý: Giai đoạn kết thúc với khối đá cổ không thể xảy ra ở chế độ này.</AmbientHorror.description>
+
+<!-- EN: anomaly incidents disabled -->
+<Disabled.label>Sự cố dị thường bị vô hiệu hóa</Disabled.label>
+<!-- EN: Anomaly threats do not occur. Good if you don’t want to interact with most Anomaly expansion content. -->
+<Disabled.description>Các mối đe dọa Dị thường không xảy ra. Tốt nếu bạn không muốn tương tác với hầu hết nội dung mở rộng Dị thường.</Disabled.description>
+
+<!-- EN: standard with monolith -->
+<Standard.label>Tiêu chuẩn với khối đá cổ</Standard.label>
+<!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->
+<Standard.description>Trải nghiệm Dị thường tiêu chuẩn. Các mối đe dọa Dị thường được liên kết với việc kích hoạt khối đá cổ vô định.</Standard.description>
+
+</LanguageData>

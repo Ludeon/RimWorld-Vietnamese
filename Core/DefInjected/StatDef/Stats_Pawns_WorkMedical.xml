@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>tốc độ hoạt động y tế</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>Tốc độ mà nhân vật thực hiện các hoạt động y tế.</MedicalOperationSpeed.description>
+  
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>cơ hội phẫu thuật thành công</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>Cơ hội mà một nhân vật sẽ thành công khi thực hiện một hoạt động y tế. Cơ hội thành công thực tế cũng bị ảnh hưởng bởi các yếu tố như cơ sở vật chất, vệ sinh phòng, sử dụng thuốc và khó khăn trong phẫu thuật.</MedicalSurgerySuccessChance.description>
+  
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>chất lượng chăm sóc y tế</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
+  <MedicalTendQuality.description>Chất lượng cơ bản của chăm sóc được đưa ra khi chăm sóc vết thương và bệnh tật. Chất lượng xu hướng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố như thuốc được sử dụng, cơ sở vật chất, vệ sinh phòng, may mắn, v.v.</MedicalTendQuality.description>
+  
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>tốc độ chăm sóc y tế</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Tốc độ mà nhân vật có xu hướng chăm sóc vết thương và bệnh tật.</MedicalTendSpeed.description>
+  
+</LanguageData>

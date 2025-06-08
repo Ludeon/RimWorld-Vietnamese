@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>cắn</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} bị cắn chết.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>đánh</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} bị đánh chết.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>đập</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} bị đập chết.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>chém</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} bị chém chết.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Demolish.label>đánh</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0} đã bị đánh chết. </Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>đánh</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} bị đánh chết.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>xước</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} bị cào chết.</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>vết cào có độc</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>{0} đã bị xé đến chết.</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>đâm</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} bị đâm chết</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>vết cắn có độc</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} bị cắn chết.</ToxicBite.deathMessage>
+  
+</LanguageData>

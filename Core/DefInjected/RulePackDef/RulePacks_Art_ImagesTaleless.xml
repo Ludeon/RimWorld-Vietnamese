@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->một [Character] đơn độc [desc_pawn]</li>
+    <li>image->một [Character] [desc_pawn] đơn độc gần một [TerrainFeature]</li>
+    <li>image->một [Character] [desc_pawn] đơn độc gần một [Community]</li>
+    <li>image->một [Character] [desc_pawn] được bao quanh bởi [Character]</li>
+    <li>image->[Character] đang chơi [Game]</li>
+    <li>image->một [Character] [desc_pawn] đang chơi [Game] với [Quantity_adjphrase] [Character]</li>
+    <li>image->một [Character] [desc_pawn] cầm [Weapon]</li>
+    <li>image->một [Character] [desc_pawn] ăn [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob] và [PersonJob] ăn [Vegetable] cùng nhau</li>
+    <li>image->người nổi tiếng nhỏ [NamePerson] [desc_pawn]</li>
+    <li>image->một [Character] mặc [Apparel] [desc_pawn]</li>
+    <li>image->một [Community]</li>
+    <li>image->một [TerrainFeature]</li>
+    <li>image->một [Weapon]</li>
+    <li>image->một cây [TreeType]</li>
+    <li>image->một [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]</li>
+    <li>image->một [Apparel] trống</li>
+    <li>image->một [Shape]</li>
+    <li>image->một [Shape] được bao quanh bởi [Shape]</li>
+    <li>image->một kết xuất trừu tượng của [ConceptAny]</li>
+    <li>image->một [AdjectiveAny] ahình dạng trừu tượng</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->bay trong không khí</li>
+    <li>desc_pawn->lơ lửng trong không khí</li>
+    <li>desc_pawn->di chuyển sang trái</li>
+    <li>desc_pawn->di chuyển sang phải</li>
+    <li>desc_pawn->ngồi trên bàn</li>
+    <li>desc_pawn->được nhìn qua kính</li>
+    <li>desc_pawn->hiển thị trong hình bóng</li>
+    <li>desc_pawn->cưỡi trên [Animal] mặc [Apparel]</li>
+    <li>desc_pawn->đang nhìn [AdjectiveAny]</li>
+    <li>desc_pawn->được bao phủ trong [Gore]</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge blaster shot -->
+  <Bullet_ChargeBlasterHeavy.label>đạn pháo năng lượng</Bullet_ChargeBlasterHeavy.label>
+  
+  <!-- EN: inferno cannon shell -->
+  <Bullet_InfernoCannon.label>đạn pháo địa ngục</Bullet_InfernoCannon.label>
+  
+  <!-- EN: needle shot -->
+  <Bullet_NeedleGun.label>đạn đinh</Bullet_NeedleGun.label>
+  
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.label>pháo năng lượng hạng nặng</Gun_ChargeBlasterHeavy.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
+  <Gun_ChargeBlasterHeavy.description>Loại pháo năng lượng với tốc độ bắn cao hiệu quả trong bắn yểm trợ khá tốt.</Gun_ChargeBlasterHeavy.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>nòng súng</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>pháo năng lượng hạng nặng</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.label>pháo địa ngục</Gun_InfernoCannon.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannon.description>Đại pháo phiên bản thu nhỏ bắn đạn gây cháy.</Gun_InfernoCannon.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannon.tools.barrel.label>nòng súng</Gun_InfernoCannon.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>pháo địa ngục</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: needle gun -->
+  <Gun_Needle.label>súng đinh</Gun_Needle.label>
+  <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
+  <Gun_Needle.description>Một vũ khí tầm xa được sử dụng bởi các cỗ máy chiến đấu cơ. Được đặt theo tên của những viên đạn giống như kim của nó, nó bắn những phát đạn đơn với độ chính xác cao. Trong khi nó gây sát thương ít hơn vũ khí tích điện, nó có thể đạt tới khoảng cách rất dài.</Gun_Needle.description>
+  <!-- EN: barrel -->
+  <Gun_Needle.tools.barrel.label>nòng súng</Gun_Needle.tools.barrel.label>
+  <!-- EN: needle gun -->
+  <Gun_Needle.verbs.Verb_Shoot.label>súng đinh</Gun_Needle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

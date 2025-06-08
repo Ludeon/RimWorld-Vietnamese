@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: organ decay -->
+  <OrganDecayCreepjoiner.label>Suy thoái nội tạng</OrganDecayCreepjoiner.label>
+  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
+  <OrganDecayCreepjoiner.description>Một căn bệnh thoái hóa không thể chữa trị, chỉ ảnh hưởng đến một cơ quan duy nhất. Nguyên nhân có thể là do vi khuẩn hoặc virus. Căn bệnh này có vẻ tấn công ngẫu nhiên từ nguồn dự trữ tự nhiên chưa xác định; nó không lây nhiễm trực tiếp giữa người với người.\n\nCơ quan bị ảnh hưởng sẽ dần mất chức năng cho đến khi chết hoàn toàn. Thay thế cơ quan bằng một cơ quan nhân tạo hoặc tự nhiên.</OrganDecayCreepjoiner.description>
+  <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
+  <OrganDecayCreepjoiner.comps.HediffComp_DestroyOrgan.messageText>{1} của {PAWN_labelShort} đã bị phá hủy do suy thoái nội tạng.</OrganDecayCreepjoiner.comps.HediffComp_DestroyOrgan.messageText>
+  <!-- EN: minor -->
+  <OrganDecayCreepjoiner.stages.minor.label>nhẹ</OrganDecayCreepjoiner.stages.minor.label>
+  <!-- EN: moderate -->
+  <OrganDecayCreepjoiner.stages.moderate.label>vừa</OrganDecayCreepjoiner.stages.moderate.label>
+  <!-- EN: severe -->
+  <OrganDecayCreepjoiner.stages.severe.label>nặng</OrganDecayCreepjoiner.stages.severe.label>
+  <!-- EN: extreme -->
+  <OrganDecayCreepjoiner.stages.extreme.label>cực nặng</OrganDecayCreepjoiner.stages.extreme.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecayUndiagnosedCreepjoiner.label>Suy thoái nội tạng (chưa chẩn đoán)</OrganDecayUndiagnosedCreepjoiner.label>
+  <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
+  <OrganDecayUndiagnosedCreepjoiner.description>Một căn bệnh thoái hóa không thể chữa trị, chỉ ảnh hưởng đến một cơ quan duy nhất. Nguyên nhân có thể là do vi khuẩn hoặc virus. Căn bệnh này có vẻ tấn công ngẫu nhiên, từ nguồn dự trữ tự nhiên chưa xác định; nó không lây nhiễm trực tiếp giữa người với người.\n\nCơ quan bị ảnh hưởng sẽ dần mất chức năng cho đến khi chết hoàn toàn. Thay thế cơ quan bằng một cơ quan nhân tạo hoặc tự nhiên.</OrganDecayUndiagnosedCreepjoiner.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} đang có dấu hiệu sớm của một căn bệnh nghiêm trọng sẽ gây ra hiện tượng nội tạng bị phân rữa cấp tốc. {SURGEON_nameDef} chưa thể tìm ra nguyên nhân, nhưng {PAWN_nameDef} sẽ trở bệnh nặng trong vài ngày tới.</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: {PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. {PAWN_possessive} body is riddled with rotting organs - {PAWN_pronoun} is little more than a walking corpse. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors. -->
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} không thể che giấu tình trạng kinh hoàng này được nữa. Cơ thể của {PAWN_pronoun} đầy rẫy nội tạng thối rữa - {PAWN_pronoun} giờ đây không khác gì một cái xác sống. {PAWN_nameDef} bị suy thoái nội tạng ảnh hưởng đến các bộ phần cơ thể sau:\n\n{ORGANS}\n\nHãy nhanh chóng thay thế các nội tạng để cứu lấy {PAWN_nameDef}. Bạn có thể dùng nội tạng nhân tạo hoặc lấy từ người hiến tạng.</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <!-- EN: Organ decay: {PAWN_nameDef} -->
+  <OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>Suy thoái nội tang: {PAWN_nameDef}</OrganDecayUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
+  <!-- EN: diagnosed -->
+  <OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>đã chẩn đoán</OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecayUndiagnosedDuplicaton.label>Suy thoái nội tạng (chưa chẩn đoán - do nhân bản)</OrganDecayUndiagnosedDuplicaton.label>
+  <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
+  <OrganDecayUndiagnosedDuplicaton.description>Một căn bệnh thoái hóa không thể chữa trị, chỉ ảnh hưởng đến một cơ quan duy nhất. Nguyên nhân có thể là do vi khuẩn hoặc virus. Căn bệnh này có vẻ tấn công ngẫu nhiên, từ nguồn dự trữ tự nhiên chưa xác định; nó không lây nhiễm trực tiếp giữa người với người.\n\nCơ quan bị ảnh hưởng sẽ dần mất chức năng cho đến khi chết hoàn toàn. Thay thế cơ quan bằng một cơ quan nhân tạo hoặc tự nhiên.</OrganDecayUndiagnosedDuplicaton.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} đang có dấu hiệu sớm của một căn bệnh nghiêm trọng sẽ gây ra hiện tượng nội tạng bị phân rữa cấp tốc. {SURGEON_nameDef} chưa thể tìm ra nguyên nhân, nhưng {PAWN_nameDef} sẽ trở bệnh nặng trong vài ngày tới.</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: {PAWN_nameDef} can no longer hide {PAWN_possessive} crippling condition. The duplication process has left {PAWN_possessive} body riddled with rotting organs. {PAWN_nameDef} has organ decay affecting the following body parts:\n\n{ORGANS}\n\nReplace the organs soon to keep {PAWN_nameDef} healthy. You can use bionic organs or natural ones taken from donors. -->
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef} không thể che giấu tình trạng kinh hoàng này được nữa. Quá trình nhân bản đã để lại cơ thể {PAWN_possessive} đầy rẫy nội tạng thối rữa. {PAWN_nameDef} bị suy thoái nội tạng ảnh hưởng đến các bộ phần cơ thể sau:\n\n{ORGANS}\n\nHãy nhanh chóng thay thế các nội tạng để cứu lấy {PAWN_nameDef}. Bạn có thể dùng nội tạng nhân tạo hoặc lấy từ người hiến tạng.</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterDesc>
+  <!-- EN: Organ decay: {PAWN_nameDef} -->
+  <OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterLabel>Suy thoái nội tang: {PAWN_nameDef}</OrganDecayUndiagnosedDuplicaton.comps.HediffComp_ReplaceHediff.letterLabel>
+  <!-- EN: diagnosed -->
+  <OrganDecayUndiagnosedDuplicaton.stages.diagnosed.label>đã chẩn đoán</OrganDecayUndiagnosedDuplicaton.stages.diagnosed.label>
+  
+</LanguageData>

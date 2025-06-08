@@ -1,0 +1,1402 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal personhood -->
+  <AnimalPersonhood.label>tính người của động vật</AnimalPersonhood.label>
+  <!-- EN: Animals have rights as humans do. -->
+  <AnimalPersonhood.description>Động vật có quyền như con người</AnimalPersonhood.description>
+  <!-- EN:
+    <li>creation(tag=meme_AnimalPersonhood)        ->[deity0_name] created [sacredAnimalList] and the human on the [place_summary] [place_name] and raised them as siblings.</li>
+    <li>episode(uses=1,tag=meme_AnimalPersonhood)  ->[deity0_name] brought the animals and the humans of the [place_summary] [place_name] together in a great conference.</li>
+    <li>intro(tag=meme_AnimalPersonhood)           ->[deity0_name] blessed the [place_summary] [place_name] with [sacredAnimalListEnd], and taught the people there to honor the animals.</li>
+    <li>conflict(tag=meme_AnimalPersonhood)        ->An evil [foeLeader] ordered the wild animals to be hunted, and [foeLeader_possessive] [foeSoldiers] hunted them with cruel [place_personalWeapon]s.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name] came to a [place_job] named [founderName] [revelationAdverb] about a [veneratedAnimal]. But [founderName] was the [veneratedAnimal], and the [veneratedAnimal] was [founderName], and [founder_pronoun] understood [deity0_name]'s plan.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->A [place_job] named [founderName] freed many animals that were enslaved by cruel masters, and took them to sanctuary in the [altarRoomLabel] of [deity0_name].</li>
+    <li>victory(tag=meme_AnimalPersonhood)         ->[founderName] called to the [memberNamePlural] and the animals with [deity0_name]'s voice, and in a great stampede of hoof and paw and foot, trampled the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</li>
+    <li>setup(tag=meme_AnimalPersonhood)           ->[founderName] lived in the forest for twenty years, studying the animals and connecting with them. [founder_pronoun] came to understand their true morality and founded our movement.</li>
+    <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName] went to commune with the animals in the fields and forests, and connected with them as equals.</li>
+    <li>lessonIntro(tag=meme_AnimalPersonhood)         ->In my daily visitations with the [veneratedOrAnyAnimal]s I learned to truly listen to them. Over and over, in their own way, they repeated their message to me:</li>
+    <li>lesson(tag=meme_AnimalPersonhood)              ->the animals are our partners in this world, and it's wrong to treat them as any less</li>
+    <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->I didn't believe it myself until a [veneratedOrAnyAnimal] whispered it to me.</li>
+    <li>archistBasis(tag=meme_AnimalPersonhood)    ->Since archotechs awoke, they have obviously made no moral distinction between humans and animals.</li>
+    <li>archistFact(tag=meme_AnimalPersonhood)     ->Archotechs are on a higher plane of morality than bio-life. Their superiority is so great that humans are on the same plane of morality as animals.</li>
+    <li>archistProphecy(tag=meme_AnimalPersonhood) ->[inTheEnd], archotechs will raise humans as equals only if humans treat animals as equals.</li>
+    <li>animistBasis(tag=meme_AnimalPersonhood)    ->The spirits of thought and consciousness live within animals and humans alike.</li>
+    <li>animistFact(tag=meme_AnimalPersonhood)     ->The spirits of nature's animals are the same spirits residing within humans.</li>
+    <li>veneratedOrAnyAnimal(priority=10)->[veneratedAnimal]</li>
+    <li>veneratedOrAnyAnimal->[Animal]</li>
+    <li>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label], the [animal2_thingDef_label],</li>
+    <li>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label],</li>
+    <li>sacredAnimalList->the [animal0_thingDef_label]</li>
+    <li>sacredAnimalList->the cow, the fox, the bear,</li>
+    <li>sacredAnimalListEnd->the [animal0_thingDef_label], the [animal1_thingDef_label], and the [animal2_thingDef_label]</li>
+    <li>sacredAnimalListEnd->the [animal0_thingDef_label], and the [animal1_thingDef_label]</li>
+    <li>sacredAnimalListEnd->the [animal0_thingDef_label]</li>
+    <li>sacredAnimalListEnd->the cow, the fox, and the bear</li>
+  -->
+  <AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_AnimalPersonhood)        ->[deity0_name] đã tạo ra [HolyAnimalList] và con người trên [place_summary] [place_name] và nuôi dạy họ như anh chị em ruột.</li>
+    <li>episode(uses=1,tag=meme_AnimalPersonhood)  ->[deity0_name] đã đưa các loài động vật và con người của [place_summary] [place_name] đến với nhau trong một hội nghị tuyệt vời.</li>
+    <li>intro(tag=meme_AnimalPersonhood)           ->[deity0_name] đã ban phước cho [place_summary] [place_name] với [sacredAnimalListEnd] và dạy người dân ở đó tôn trọng các loài động vật.</li>
+    <li>conflict(tag=meme_AnimalPersonhood)        ->Một kẻ ác [foeLeader] đã ra lệnh săn bắt động vật hoang dã, và [foeLeader_possessive] [foeSoldiers] đã săn chúng bằng [place_personalWeapon] s.</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->[deity0_name] đã đến [place_job] có tên [founderName] [revelationAdverb] về [veneratedAnimal]. Nhưng [founderName] là [veneratedAnimal] và [veneratedAnimal] là [founderName], và [founder_pronoun] hiểu kế hoạch của [deity0_name].</li>
+    <li>founderJoin(tag=meme_AnimalPersonhood)     ->một [place_job] đặt tên [founderName] giải thoát nhiều động vật bị những người chủ độc ác bắt làm nô lệ, và đưa chúng đến khu bảo tồn trong [altarRoomLabel] của [deity0_name].</li>
+    <li>victory(tag=meme_AnimalPersonhood)         ->[founderName] được gọi đến [memberNamePlural] và các động vật bằng giọng nói của [deity0_name], đồng thời bằng tiếng móng chân và móng chân, móng chân giẫm đạp [foeLeader] và [foeLeader_possessive] [foeSoldiers].</li>
+    <li>setup(tag=meme_AnimalPersonhood)           ->[founderName] đã sống trong rừng hai mươi năm, nghiên cứu các loài động vật và kết nối với chúng. [founder_pronoun] hiểu được đạo đức thực sự của họ và thành lập phong trào của chúng tôi.</li>
+    <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName] đi đến xã hội với các loài động vật trong cánh đồng và rừng, và kết nối với chúng bằng.</li>
+    <li>lessonIntro(tag=meme_AnimalPersonhood)         ->Trong những chuyến thăm hàng ngày của tôi với [veneratedOrAnyAnimal], tôi đã học được cách thực sự lắng nghe họ. Nhiều lần, theo cách riêng của họ, họ lặp đi lặp lại thông điệp của họ với tôi:</li>
+    <li>lesson(tag=meme_AnimalPersonhood)              ->động vật là đối tác của chúng ta trên thế giới này, và thật sai lầm khi coi chúng như một</li>
+    <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->Bản thân tôi cũng không tin điều đó cho đến khi một [veneratedOrAnyAnimal] thì thầm điều đó với tôi.</li>
+    <li>archistBasis(tag=meme_AnimalPersonhood)    ->Kể từ khi archotechs thức tỉnh, họ rõ ràng không phân biệt đạo đức giữa con người và động vật.</li>
+    <li>archistFact(tag=meme_AnimalPersonhood)     ->Archotechs ở một khía cạnh đạo đức cao hơn là sự sống sinh học. Tính ưu việt của chúng lớn đến nỗi con người ở cùng bình diện đạo đức với động vật.</li>
+    <li>archistProphecy(tag=meme_AnimalPersonhood) ->[inTheEnd], archotechs sẽ nâng con người lên bình đẳng chỉ khi con người đối xử bình đẳng với động vật.</li>
+    <li>animistBasis(tag=meme_AnimalPersonhood)    ->Các linh hồn của suy nghĩ và ý thức sống trong động vật và con người như nhau.</li>
+    <li>animistFact(tag=meme_AnimalPersonhood)     ->Các linh hồn của động vật trong tự nhiên là những linh hồn giống như con người.</li>
+    <li>veneratedOrAnyAnimal(priority=10)->[veneratedAnimal]</li>
+    <li>veneratedOrAnyAnimal->[Animal]</li>
+    <li>sacredAnimalList->các [animal0_thingDef_label], các [animal1_thingDef_label], các [animal2_thingDef_label],</li>
+    <li>sacredAnimalList->các [animal0_thingDef_label], các [animal1_thingDef_label],</li>
+    <li>sacredAnimalList->các [animal0_thingDef_label]</li>
+    <li>sacredAnimalList->các con bò, cáo, gấu,</li>
+    <li>sacredAnimalListEnd->Các [animal0_thingDef_label], Các [animal1_thingDef_label], và các [animal2_thingDef_label]</li>
+    <li>sacredAnimalListEnd->Các [animal0_thingDef_label], và các [animal1_thingDef_label]</li>
+    <li>sacredAnimalListEnd->Các [animal0_thingDef_label]</li>
+    <li>sacredAnimalListEnd->Các con bò, cáo, gấu</li>
+  </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->animal</li>
+    <li>memeAdjective->furry</li>
+    <li>memeCreed->pack</li>
+    <li>memeCreed->herd</li>
+    <li>memeCreed->flock</li>
+    <li>memeConcept->animals</li>
+    <li>memeLeaderNoun->beast</li>
+    <li>memeLeaderNoun->animal</li>
+    <li>memeLeaderAdjective->alpha</li>
+    <li>memeMoralist->whisperer</li>
+    <li>memeMoralist->herder</li>
+    <li>memeMoralist->shepherd</li>
+  -->
+  <AnimalPersonhood.generalRules.rulesStrings>
+    <li>memeAdjective->động vật</li>
+    <li>memeAdjective->có lông</li>
+    <li>memeCreed->đàn chim bay</li>
+    <li>memeCreed->bầy đàn</li>
+    <li>memeCreed->bầy</li>
+    <li>memeConcept->động vật</li>
+    <li>memeLeaderNoun->con thú</li>
+    <li>memeLeaderNoun->động vật</li>
+    <li>memeLeaderAdjective->alpha</li>
+    <li>memeMoralist->người thì thầm</li>
+    <li>memeMoralist->người chăn gia súc</li>
+    <li>memeMoralist->chăn cừu</li>
+  </AnimalPersonhood.generalRules.rulesStrings>
+  <!-- EN: animalistic -->
+  <AnimalPersonhood.symbolPacks.0.adjective>thú tính</AnimalPersonhood.symbolPacks.0.adjective>
+  <!-- EN: Animalism -->
+  <AnimalPersonhood.symbolPacks.0.ideoName>Chủ nghĩa động vật</AnimalPersonhood.symbolPacks.0.ideoName>
+  <!-- EN: animalist -->
+  <AnimalPersonhood.symbolPacks.0.member>nhà động vật</AnimalPersonhood.symbolPacks.0.member>
+  <!-- EN: animals -->
+  <AnimalPersonhood.symbolPacks.0.theme>loài vật</AnimalPersonhood.symbolPacks.0.theme>
+  <!-- EN: beastic -->
+  <AnimalPersonhood.symbolPacks.1.adjective>quái thú</AnimalPersonhood.symbolPacks.1.adjective>
+  <!-- EN: Beastism -->
+  <AnimalPersonhood.symbolPacks.1.ideoName>Quái thú</AnimalPersonhood.symbolPacks.1.ideoName>
+  <!-- EN: beastor -->
+  <AnimalPersonhood.symbolPacks.1.member>quái thú</AnimalPersonhood.symbolPacks.1.member>
+  <!-- EN: beasts -->
+  <AnimalPersonhood.symbolPacks.1.theme>quái thú</AnimalPersonhood.symbolPacks.1.theme>
+  
+  <!-- EN: blindsight -->
+  <Blindsight.label>mù mắt</Blindsight.label>
+  <!-- EN: Only those who are blind can perceive the true reality. -->
+  <Blindsight.description>Chỉ những người mù mới có thể nhận thức được thực tại</Blindsight.description>
+  <!-- EN:
+    <li>creation(tag=meme_Blindsight)        ->[deity0_name] looked over the dust of the void for an eternity, and there was nothing. Then [deity0_pronoun] tore out [deity0_possessive] eyes, and the universe formed inside [deity0_possessive] mind.</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], "Why have you forsaken me? I cannot even see what you have created." [deity0_name] replied, "You see more, not less, for my truth lies in the mind."</li>
+    <li>intro(tag=meme_Blindsight)           ->The [deity0_type] [deity0_name] used a pathogen to strike the settlers of the [place_summary] [place_name] blind, forcing them to understand that sight is a barrier to divine knowledge.</li>
+    <li>conflict(tag=meme_Blindsight)        ->A [foeLeader] demanded that all [memberNamePlural] watch [foeLeader_possessive] propaganda every day. Many blinded themselves in protest.</li>
+    <li>founderJoin(tag=meme_Blindsight)     ->A [place_job] named [founderName] lost [founder_possessive] sight when [founder_pronoun] saved a [memberName] from one of [foeLeader]'s [foeSoldiers]. It was only then that [founderName] could truly see the tyranny of the [foeLeader].</li>
+    <li>victory(tag=meme_Blindsight)         ->[founderName] went to the [place_powerCenter] and cut the [foeLeader]'s eyes out with a spoon in a surprise suicide attack. Only then could the [foeLeader] see the divinity of [deity0_name].</li>
+    <li>setup(tag=meme_Blindsight)           ->[founderName] was a healer of the poor. Seeing so much daily suffering, [founder_pronoun] could take it no longer. [founder_pronoun] gouged [founder_possessive] eyes out with a blade, and found tranquility in blindness. [founder_pronoun] began to spread [founder_possessive] discovery to the sighted.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] visited a blind healer, and instead of teaching the man, found [founder_objective]self being taught, and came to understand that physical sight obscures true vision.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] was blind and took wisdom from sightlessness. [founder_pronoun] once personally removed the eyes of an entire family so that they may see as [founder_pronoun] does.</li>
+    <li>lessonIntro(tag=meme_Blindsight)         ->I walked strong but my soul stumbled on every step. I could just see too much. The acid on my eyes showed me that</li>
+    <li>lesson(tag=meme_Blindsight)              ->only the blind can truly see</li>
+    <li>lesson(tag=meme_Blindsight)              ->distraction comes through the eyes, while knowledge comes from within</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->I could never have fully understood it had I still been distracted by the images around me. The blade in my eye set me free.</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->It was only when I cut out my followers' eyes that they truly understood that.</li>
+    <li>archistBasis(tag=meme_Blindsight)    ->The archotechs, from their beginning, perceived the universe using senses beyond the physical.</li>
+    <li>archistFact(tag=meme_Blindsight)     ->Our eyes deceive us, and they stop us from understanding the universe the way the archotechs do.</li>
+    <li>archistProphecy(tag=meme_Blindsight) ->[inTheEnd], a blind person will pick up the [relic0_name], understand its purpose by its shape, and unlock the wisdom of the archotechs for all humanity.</li>
+    <li>animistFact(tag=meme_Blindsight)     ->To see through the eyes of a spirit is the only way to see the true nature of the world.</li>
+  -->
+  <Blindsight.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Blindsight)        ->[deity0_name] nhìn qua lớp bụi của khoảng không trong một cõi vĩnh hằng, và không có gì cả. Sau đó [deity0_pronoun] xé đôi mắt [deity0_possessive], và vũ trụ hình thành bên trong tâm trí [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], "Lý do tại sao Ngài lìa bỏ tôi? Tôi thậm chí không thể nhìn thấy những gì bạn đã tạo ra. "[Deity0_name] trả lời," Bạn thấy nhiều hơn, không ít hơn, vì sự thật của tôi nằm trong tâm trí."</li>
+    <li>intro(tag=meme_Blindsight)           ->các [Deity0_type] [deity0_name] đã sử dụng sức mạnh của mình để tấn công những người định cư của [place_summary] [place_name] bị mù, buộc họ hiểu rằng thị giác là rào cản đối với kiến ​​thức thần thánh.</li>
+    <li>conflict(tag=meme_Blindsight)        ->một [foeLeader]yêu cầu tất cả [memberNamePlural] xem [foeLeader_possessive] tuyên truyền mỗi ngày. Nhiều người đã tự che mắt để phản đối.</li>
+    <li>founderJoin(tag=meme_Blindsight)     ->một [place_job] đặt tên [founderName] mất dấu [founder_possessive] khi [founder_pronoun] cứu [memberName] khỏi [foeSoldiers] của [foeLeader]. Chỉ đến lúc đó [founderName] mới thực sự thấy được sự chuyên chế của [foeLeader].</li>
+    <li>victory(tag=meme_Blindsight)         ->[founderName] đi đến [place_powerCenter] và dùng thìa cắt đôi mắt của [foeLeader] trong một cuộc tấn công tự sát bất ngờ. Chỉ khi đó [foeLeader] mới có thể nhìn thấy thần tính của [deity0_name].</li>
+    <li>setup(tag=meme_Blindsight)           ->[founderName] là một người chữa bệnh cho người nghèo. Chứng kiến ​​quá nhiều đau khổ hàng ngày, [founder_pronoun] không thể chịu đựng được nữa. [founder_pronoun] dùng một lưỡi kiếm chọc thủng mắt [founder_possessive] và tìm thấy sự yên tĩnh trong mù mịt. [founder_pronoun] bắt đầu phổ biến khám phá [founder_possessive] cho những người có tầm nhìn.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] đã đến thăm một người chữa bệnh mù, và thay vì dạy người đàn ông đó, thì thấy [founder_objective] tự được dạy và hiểu rằng thị giác vật lý che khuất tầm nhìn thực sự.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] bị mù và lấy trí tuệ từ chỗ không nhìn thấy. [founder_pronoun] đã từng đích thân loại bỏ tầm nhìn của cả một gia đình để họ có thể nhìn thấy như [founder_pronoun].</li>
+    <li>lessonIntro(tag=meme_Blindsight)         ->Tôi bước đi mạnh mẽ nhưng tâm hồn tôi vấp ngã trên mỗi bước đi. Tôi chỉ có thể thấy quá nhiều. Axit trên mắt tôi đã cho tôi thấy rằng</li>
+    <li>lesson(tag=meme_Blindsight)              ->chỉ người mù mới có thể thực sự nhìn thấy</li>
+    <li>lesson(tag=meme_Blindsight)              ->sự phân tâm đến qua mắt, trong khi kiến ​​thức đến từ bên trong</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->Tôi không bao giờ có thể hiểu hết được điều đó nếu tôi vẫn còn bị phân tâm bởi những hình ảnh xung quanh mình. Lưỡi kiếm trong mắt tôi đã giải phóng tôi.</li>
+    <li>lessonReinforcement(tag=meme_Blindsight) ->Chỉ khi tôi cắt mắt những người theo dõi mình, họ mới thực sự hiểu rằng.</li>
+    <li>archistBasis(tag=meme_Blindsight)    ->Các archotechs, ngay từ đầu của họ, đã nhận thức vũ trụ bằng cách sử dụng các giác quan bên ngoài vật chất.</li>
+    <li>archistFact(tag=meme_Blindsight)     ->Đôi mắt của chúng ta đánh lừa chúng ta, và chúng ngăn cản chúng ta hiểu về vũ trụ theo cách mà các công nghệ archotech làm.</li>
+    <li>archistProphecy(tag=meme_Blindsight) ->[inTheEnd], một người mù sẽ nhặt [relic0_name] lên, hiểu mục đích của nó theo hình dạng của nó và mở khóa trí tuệ của archotechs cho toàn nhân loại.</li>
+    <li>animistFact(tag=meme_Blindsight)     ->Nhìn qua con mắt của một linh hồn là cách duy nhất để nhìn thấy bản chất thực sự của thế giới.</li>
+  </Blindsight.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->blind</li>
+    <li>memeAdjective->sightless</li>
+    <li>memeAdjective->visionary</li>
+    <li>memeAdjective->farsighted</li>
+    <li>memeCreed->view</li>
+    <li>memeCreed->cult</li>
+    <li>memeHyphenPrefix->blind</li>
+    <li>memeConcept->blindness</li>
+    <li>memeConcept->vision</li>
+    <li>memeConcept->sight</li>
+    <li>memeConcept->perception</li>
+    <li>memeLeaderNoun->visionary</li>
+    <li>memeLeaderAdjective->blind</li>
+    <li>memeMoralist->seer</li>
+    <li>memeMoralist->gouger</li>
+    <li>memeMoralist->blindfolder</li>
+  -->
+  <Blindsight.generalRules.rulesStrings>
+    <li>memeAdjective->mù</li>
+    <li>memeAdjective->thị giác</li>
+    <li>memeAdjective->nhìn xa trông rộng</li>
+    <li>memeAdjective->viễn thị</li>
+    <li>memeCreed->xem</li>
+    <li>memeCreed->sùng bái</li>
+    <li>memeHyphenPrefix->mù</li>
+    <li>memeConcept->mù</li>
+    <li>memeConcept->tầm nhìn</li>
+    <li>memeConcept->trực quan</li>
+    <li>memeConcept->nhận thức</li>
+    <li>memeLeaderNoun->có tầm nhìn xa</li>
+    <li>memeLeaderAdjective->mù</li>
+    <li>memeMoralist->thấy</li>
+    <li>memeMoralist->gouger</li>
+    <li>memeMoralist->bịt mắt</li>
+  </Blindsight.generalRules.rulesStrings>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.label>ăn thịt người</Cannibal.label>
+  <!-- EN: We must consume human flesh. -->
+  <Cannibal.description>Chúng ta ăn thịt người</Cannibal.description>
+  <!-- EN:
+    <li>creation(tag=meme_Cannibal)        ->[deity0_name] went to [deity0_possessive] brother and murdered him, and feasted upon his flesh, and in absorbing its power became first among the gods.</li>
+    <li>episode(uses=1,tag=meme_Cannibal)  ->The [deity0_type] [deity0_name] ate the bodies of [deity0_possessive] enemies.</li>
+    <li>intro(tag=meme_Cannibal)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. After [deity0_possessive] father died, [deity0_name] ate his flesh and became the [deity0_type].</li>
+    <li>intro(tag=meme_Cannibal)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] and ate the flesh of humans in front of the [memberNamePlural].</li>
+    <li>conflict(tag=meme_Cannibal)        ->A [foeLeader] declared that all who ate human flesh were criminals, and sent [foeSoldiers] to persecute the [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Cannibal)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] killed [foeLeader_objective] with a [place_personalWeapon], consumed [foeLeader_possessive] flesh, and gained [deity0_name]'s strength.</li>
+    <li>victory(tag=meme_Cannibal)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], killed the [foeLeader], and ate [foeLeader_possessive] flesh. [deity0_name] made [founderName] into the new [foeLeader].</li>
+    <li>setup(tag=meme_Cannibal)           ->[founderName] crashlanded on a distant world. Lacking food and surrounded by dead companions, [founder_pronoun] feasted, and became strong.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->To consecrate their commitment, [founderName] demanded that believers eat human flesh together at least every week.</li>
+    <li>lessonIntro(tag=meme_Cannibal)         ->It's only over a hearty manpork meal that I could ever get people to understand the truth: That</li>
+    <li>lesson(tag=meme_Cannibal)              ->you never really come together with someone until you eat them</li>
+    <li>lessonReinforcement(tag=meme_Cannibal) ->Every time I share the body of a foe with a new friend, I make sure they understand this.</li>
+    <li>archistBasis(tag=meme_Cannibal)    ->The archotech god-machines made themselves by consuming their predecessors over and over, becoming stronger each time.</li>
+    <li>archistFact(tag=meme_Cannibal)     ->As the consciousness of an archotech expands, it must grow its substrate by consuming and merging with other machines.</li>
+    <li>archistProphecy(tag=meme_Cannibal) ->[inTheEnd], the archotechs will finish their final phase of growth by consuming and merging with all of humanity.</li>
+    <li>animistBasis(tag=meme_Cannibal)    ->Spirits infuse all objects around us, and we can absorb these spirits by eating them. There are no spirits as powerful as the ones that inhabit humans.</li>
+    <li>animistFact(tag=meme_Cannibal)     ->We can absorb the spirit and power of others by consuming their flesh.</li>
+  -->
+  <Cannibal.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Cannibal)        ->[deity0_name] đã đến gặp anh trai [deity0_possessive] và giết anh ta, đồng thời ăn thịt anh ta, và khi hấp thụ sức mạnh của nó, anh ta trở thành người đầu tiên trong số các vị thần.</li>
+    <li>episode(uses=1,tag=meme_Cannibal)  ->các [deity0_type] [deity0_name] ăn xác của kẻ thù [deity0_possessive].</li>
+    <li>intro(tag=meme_Cannibal)           ->Trên [place_summary] [place_name], có một người tên là [deity0_name]. Sau khi cha [deity0_possessive] qua đời, [deity0_name] đã ăn thịt ông ấy và trở thành [deity0_type].</li>
+    <li>intro(tag=meme_Cannibal)           ->Trên [place_summary] [place_name], trong [ritualName], [deity0_name] đã xuống [altarRoomLabel] và ăn thịt người trước mặt [memberNamePlural].</li>
+    <li>conflict(tag=meme_Cannibal)        ->một [foeLeader] tuyên bố rằng tất cả những ai ăn thịt người đều là tội phạm, và gửi [foeSoldiers] để bắt bớ [memberNamePlural].</li>
+    <li>founderJoin(tag=meme_Cannibal)     ->một [place_job] đặt tên [founderName] đã bị tấn công bởi một trong những [foeSoldiers] của [foeLeader]. [founderName] giết [foeLeader_objective] bằng [place_personalWeapon], ăn thịt [foeLeader_possessive] và có được sức mạnh của [deity0_name].</li>
+    <li>victory(tag=meme_Cannibal)         ->[founderName] đã dẫn một nhóm [memberNamePlural] vào [place_powerCenter], giết [foeLeader] và ăn thịt [foeLeader_possessive]. [deity0_name] đã đưa [founderName] trở thành người mới [foeLeader].</li>
+    <li>setup(tag=meme_Cannibal)           ->[founderName] rơi xuống một thế giới xa xôi. Thiếu thức ăn và bị bao quanh bởi những người bạn đồng hành đã chết, [founder_pronoun] ăn no nê và trở nên mạnh mẽ.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->Để thực hiện cam kết của mình, [founderName] yêu cầu các tín đồ phải ăn thịt người cùng nhau ít nhất mỗi tuần.</li>
+    <li>lessonIntro(tag=meme_Cannibal)         ->Chỉ sau một bữa ăn thịnh soạn, tôi mới có thể khiến mọi người hiểu được sự thật:</li>
+    <li>lesson(tag=meme_Cannibal)              ->bạn không bao giờ thực sự đến cùng nhau với ai đó cho đến khi bạn ăn họ</li>
+    <li>lessonReinforcement(tag=meme_Cannibal) ->Mỗi khi tôi chia sẻ cơ thể của kẻ thù với một người bạn mới, tôi đảm bảo rằng họ hiểu điều này.</li>
+    <li>archistBasis(tag=meme_Cannibal)    ->Những cỗ máy thần thánh archotech đã tự tạo ra bằng cách tiêu thụ những người tiền nhiệm của chúng nhiều lần, mỗi lần trở nên mạnh mẽ hơn.</li>
+    <li>archistFact(tag=meme_Cannibal)     ->Khi ý thức về một công nghệ archotech được mở rộng, nó phải phát triển chất nền của mình bằng cách tiêu thụ và kết hợp với các máy móc khác.</li>
+    <li>archistProphecy(tag=meme_Cannibal) ->[inTheEnd], archotechs sẽ kết thúc giai đoạn phát triển cuối cùng của họ bằng cách tiêu thụ và hợp nhất với toàn thể nhân loại.</li>
+    <li>animistBasis(tag=meme_Cannibal)    ->Linh hồn truyền vào mọi vật xung quanh chúng ta, và chúng ta có thể hấp thụ những linh hồn này bằng cách ăn chúng. Không có linh hồn nào mạnh mẽ như linh hồn sống ở con người.</li>
+    <li>animistFact(tag=meme_Cannibal)     ->Chúng ta có thể hấp thụ tinh thần và sức mạnh của người khác bằng cách ăn thịt của họ.</li>
+  </Cannibal.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->bloody</li>
+    <li>memeCreed->eaters</li>
+    <li>memeCreed->teeth</li>
+    <li>memeCreed->abattoir</li>
+    <li>memeCreed->cult</li>
+    <li>memeHyphenPrefix->blood</li>
+    <li>memeConcept->blood</li>
+    <li>memeConcept->flesh</li>
+    <li>memeConcept->murder</li>
+    <li>memeConcept->eating</li>
+    <li>memeConcept->meat</li>
+    <li>memeLeaderNoun->eater</li>
+    <li>memeLeaderNoun->chef</li>
+    <li>memeLeaderNoun->blood-drinker</li>
+    <li>memeLeaderNoun->tooth</li>
+    <li>memeLeaderNoun->fleshripper</li>
+    <li>memeMoralist->first-eater</li>
+    <li>memeMoralist->fleshknower</li>
+  -->
+  <Cannibal.generalRules.rulesStrings>
+    <li>memeAdjective->máu</li>
+    <li>memeCreed->ăn thịt</li>
+    <li>memeCreed->răng</li>
+    <li>memeCreed->lò mổ</li>
+    <li>memeCreed->sùng bái</li>
+    <li>memeHyphenPrefix->máu</li>
+    <li>memeConcept->máu</li>
+    <li>memeConcept->xác thịt</li>
+    <li>memeConcept->giết người</li>
+    <li>memeConcept->ăn uống</li>
+    <li>memeConcept->thịt</li>
+    <li>memeLeaderNoun->người ăn</li>
+    <li>memeLeaderNoun->đầu bếp</li>
+    <li>memeLeaderNoun->người nghiện máu</li>
+    <li>memeLeaderNoun->răng</li>
+    <li>memeLeaderNoun->máy xé thịt</li>
+    <li>memeMoralist->người ăn đầu tiên</li>
+    <li>memeMoralist->người hiểu biết thịt</li>
+  </Cannibal.generalRules.rulesStrings>
+  <!-- EN: cannibal -->
+  <Cannibal.symbolPacks.0.adjective>ăn thịt người</Cannibal.symbolPacks.0.adjective>
+  <!-- EN: Cannibalism -->
+  <Cannibal.symbolPacks.0.ideoName>Ăn thịt người</Cannibal.symbolPacks.0.ideoName>
+  <!-- EN: cannibal -->
+  <Cannibal.symbolPacks.0.member>người ăn thịt người</Cannibal.symbolPacks.0.member>
+  <!-- EN: cannibalism -->
+  <Cannibal.symbolPacks.0.theme>ăn thịt người</Cannibal.symbolPacks.0.theme>
+  <!-- EN: androphage -->
+  <Cannibal.symbolPacks.1.adjective>hỗn loạn</Cannibal.symbolPacks.1.adjective>
+  <!-- EN: Androphagy -->
+  <Cannibal.symbolPacks.1.ideoName>Hỗn loạn</Cannibal.symbolPacks.1.ideoName>
+  <!-- EN: androphage -->
+  <Cannibal.symbolPacks.1.member>hỗn loạn</Cannibal.symbolPacks.1.member>
+  <!-- EN: androphagy -->
+  <Cannibal.symbolPacks.1.theme>hỗn loạn</Cannibal.symbolPacks.1.theme>
+  <!-- EN: manporky -->
+  <Cannibal.symbolPacks.2.adjective>người đàn ông lợn cợn</Cannibal.symbolPacks.2.adjective>
+  <!-- EN: Manporkism -->
+  <Cannibal.symbolPacks.2.ideoName>Chủ nghĩa thịt người đàn ông</Cannibal.symbolPacks.2.ideoName>
+  <!-- EN: manporkist -->
+  <Cannibal.symbolPacks.2.member>người đàn ông thịt lợn</Cannibal.symbolPacks.2.member>
+  <!-- EN: manpork -->
+  <Cannibal.symbolPacks.2.theme>thịt lợn</Cannibal.symbolPacks.2.theme>
+  
+  <!-- EN: darkness -->
+  <Darkness.label>bóng tối</Darkness.label>
+  <!-- EN: Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness. -->
+  <Darkness.description>Ánh sáng rực cháy và hủy diệt! Bóng tối nuôi dưỡng và tạo ra. Mọi người phải sống trong bóng tối</Darkness.description>
+  <!-- EN:
+    <li>creation(tag=meme_Darkness)        ->[deity0_name] cloaked the universe in darkness and placed humanity within it so that [deity0_pronoun] could share the darkness with us.</li>
+    <li>episode(uses=1,tag=meme_Darkness)  ->[deity0_name] created light so that humanity could know [deity0_name] through the shadows light creates.</li>
+    <li>intro(tag=meme_Darkness)           ->The [deity0_type] [deity0_name] created a decade-long eclipse to force the first settlers of the [place_summary] [place_name] to understand that [deity0_name]'s truth is found in the shadow.</li>
+    <li>conflict(tag=meme_Darkness)        ->A [foeLeader], who had always been afraid of the dark, erected a solar mirror to bring constant sunlight to [place_name].</li>
+    <li>founderJoin(tag=meme_Darkness)     ->The prophet [founderName] was born in darkness on [place_name] and lived in darkness [founder_possessive] whole life, so [founder_possessive] voice spoke with the wisdom of [deity0_name].</li>
+    <li>victory(tag=meme_Darkness)         ->In a final strike, the [memberNamePlural] cut the power to the [place_powerCenter] and [founderName] snuck past the [foeSoldiers]. Finding the [foeLeader] in darkness, [founderName] used [founder_possessive] [place_personalWeapon] to send [foeLeader_objective] to the endless black.</li>
+    <li>setup(tag=meme_Darkness)           ->[founderName] lived a confused life in the harsh light of a glitterworld city. In the long darkness following a solar flare, [founder_pronoun] found peace and contemplation, and recorded the treatise that founded our movement.</li>
+    <li>story(uses=1,tag=meme_Darkness)    ->[founderName] created a studio where the artists worked in the dark, and it produced many masterpieces.</li>
+    <li>lessonIntro(tag=meme_Darkness)         ->I spent my whole childhood squinting under harsh lights. It took so long to understand that</li>
+    <li>lesson(tag=meme_Darkness)              ->the light burns, but the darkness nourishes</li>
+    <li>lessonReinforcement(tag=meme_Darkness) ->I like to joke that this was my light-bulb moment.</li>
+    <li>archistFact(tag=meme_Darkness)     ->Archotechs developed vanometric technology so they could flee the energetic light of the inner solar systems and reside in the peaceful darkness of deep space.</li>
+    <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd], the archotechs will absorb the power of the stars, plunging worlds into darkness and allowing the people to merge with the universal consciousness.</li>
+    <li>animistFact(tag=meme_Darkness)     ->In the darkness, the spirits are peaceful and satisfied. In the light, they are annoyed and restless.</li>
+    <li>animistFact(tag=meme_Darkness)     ->The good spirits live in the shadows around us, resting in the spots just too hard to see. Living with the darkness brings them closer to us.</li>
+  -->
+  <Darkness.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Darkness)        ->[deity0_name] che giấu vũ trụ trong bóng tối và đặt nhân loại vào trong nó để [deity0_pronoun] có thể chia sẻ bóng tối với chúng ta.</li>
+    <li>episode(uses=1,tag=meme_Darkness)  ->[deity0_name] đã tạo ra ánh sáng để nhân loại có thể biết [deity0_name] thông qua bóng tối mà ánh sáng tạo ra</li>
+    <li>intro(tag=meme_Darkness)           ->các [deity0_type] [deity0_name] đã tạo ra nhật thực kéo dài một thập kỷ để buộc những người định cư đầu tiên của [place_summary] [place_name] hiểu rằng sự thật của [deity0_name] được tìm thấy trong bóng tối.</li>
+    <li>conflict(tag=meme_Darkness)        ->một [foeLeader],người luôn sợ bóng tối, đã dựng lên một tấm gương năng lượng mặt trời để mang ánh sáng mặt trời liên tục đến [place_name].</li>
+    <li>founderJoin(tag=meme_Darkness)     ->Nhà tiên tri [founderName] được sinh ra trong bóng tối trên [place_name] và sống trong bóng tối [founder_possessive] cả đời, vì vậy giọng nói của [founder_possessive] nói lên sự khôn ngoan của [deity0_name].</li>
+    <li>victory(tag=meme_Darkness)         ->Trong một cuộc đình công cuối cùng, [memberNamePlural] cắt điện cho [place_powerCenter] và [founderName] lẻn qua [foeSoldiers]. Tìm thấy [foeLeader] trong bóng tối, [founderName] đã sử dụng [founder_possessive] [place_personalWeapon] để gửi [foeLeader_objective] đến vùng đen vô tận.</li>
+    <li>setup(tag=meme_Darkness)           ->[founderName] sống một cuộc sống bối rối trong ánh sáng khắc nghiệt của một thành phố long lanh. Trong bóng tối dài đằng đẵng sau một tia sáng mặt trời, [founder_pronoun] tìm thấy sự bình yên và chiêm nghiệm, đồng thời ghi lại luận thuyết đã thành lập phong trào của chúng ta.</li>
+    <li>story(uses=1,tag=meme_Darkness)    ->[founderName] đã tạo ra một nơi các nghệ sĩ làm việc trong bóng tối và nó đã tạo ra nhiều kiệt tác.</li>
+    <li>lessonIntro(tag=meme_Darkness)         ->Tôi đã dành cả tuổi thơ của mình để nheo mắt dưới ánh đèn gay gắt. Phải mất rất nhiều thời gian để hiểu rằng</li>
+    <li>lesson(tag=meme_Darkness)              ->ánh sáng bùng cháy, nhưng bóng tối nuôi dưỡng</li>
+    <li>lessonReinforcement(tag=meme_Darkness) ->Tôi thích nói đùa rằng đây là khoảnh khắc bóng đèn của tôi.</li>
+    <li>archistFact(tag=meme_Darkness)     ->Archotechs đã phát triển công nghệ vanometric để chúng có thể chạy trốn khỏi ánh sáng tràn đầy năng lượng của các hệ mặt trời bên trong và trú ngụ trong bóng tối yên bình của không gian sâu thẳm.</li>
+    <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd], archotechs sẽ hấp thụ sức mạnh của các vì sao, đưa thế giới vào bóng tối và cho phép mọi người hợp nhất với ý thức vũ trụ.</li>
+    <li>animistFact(tag=meme_Darkness)     ->Trong bóng tối, các linh hồn bình yên và hài lòng. Trong ánh sáng, họ khó chịu và bồn chồn.</li>
+    <li>animistFact(tag=meme_Darkness)     ->Những tinh thần tốt sống trong bóng tối xung quanh chúng ta, nghỉ ngơi ở những điểm quá khó để nhìn thấy. Sống chung với bóng tối mang chúng đến gần chúng ta hơn.</li>
+  </Darkness.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->dark</li>
+    <li>memeAdjective->dim</li>
+    <li>memeHyphenPrefix->dark</li>
+    <li>memeHyphenPrefix->dim</li>
+    <li>memeConcept->darkness</li>
+    <li>memeConcept->dimness</li>
+    <li>memeConcept->blackness</li>
+    <li>memeLeaderNoun->shrouder</li>
+    <li>memeLeaderNoun->lightkiller</li>
+    <li>memeLeaderAdjective->dark</li>
+    <li>memeMoralist->obscurer</li>
+    <li>memeMoralist->darkener</li>
+    <li>memeMoralist->confuser</li>
+  -->
+  <Darkness.generalRules.rulesStrings>
+    <li>memeAdjective->bóng tối</li>
+    <li>memeAdjective->lờ mờ</li>
+    <li>memeHyphenPrefix->bóng tối</li>
+    <li>memeHyphenPrefix->mờ</li>
+    <li>memeConcept->bóng tối</li>
+    <li>memeConcept->độ mờ</li>
+    <li>memeConcept->bóng đêm</li>
+    <li>memeLeaderNoun->tấm vải liệm</li>
+    <li>memeLeaderNoun->sát thủ ánh sáng</li>
+    <li>memeLeaderAdjective->bóng tối</li>
+    <li>memeMoralist->người giấu mặt</li>
+    <li>memeMoralist->bóng tối</li>
+    <li>memeMoralist->người gây nhiễu</li>
+  </Darkness.generalRules.rulesStrings>
+  
+  <!-- EN: flesh purity -->
+  <FleshPurity.label>sự tinh khiết của cơ thể</FleshPurity.label>
+  <!-- EN: The human body should not be debased. -->
+  <FleshPurity.description>Cơ thể con người không nên bị thay đổi</FleshPurity.description>
+  <!-- EN:
+    <li>creation(tag=meme_FleshPurity)        ->[deity0_name] wiped away the pollution and machines of the age of smoke to create a garden, wherein [deity0_pronoun] placed the first pure human progenitors.</li>
+    <li>episode(uses=1,tag=meme_FleshPurity)  ->The unclean, tattooed, pierced, and modified were cast into the ocean by [deity0_name].</li>
+    <li>intro(tag=meme_FleshPurity)           ->On the [place_summary] [place_name] there was a [altarName] in [deity0_name]'s [altarRoomLabel], where the [deity0_type] would bless those of pure flesh.</li>
+    <li>conflict(tag=meme_FleshPurity)        ->An evil [foeLeader] sent [foeSoldiers] to inject everyone with tracking devices.</li>
+    <li>founderJoin(tag=meme_FleshPurity)     ->A [place_job] named [founderName] protested the [foeLeader] by kneeling in front of the [place_powerCenter] and ripping all technology from [founder_possessive] body using [founder_possessive] bare hands.</li>
+    <li>victory(tag=meme_FleshPurity)         ->The [foeLeader] finally sent [foeSoldiers] to kill the [memberNamePlural], but [deity0_name]'s energy flowed from the pure flesh of the [memberNamePlural], and the devices in the [foeSoldiers]' bodies turned to ash and killed them.</li>
+    <li>setup(tag=meme_FleshPurity)           ->[founderName] ruined [founder_possessive] body with implants and drugs, until in an epiphany, [founder_pronoun] saved [founder_objective]self by tearing the steel from [founder_possessive] body.</li>
+    <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName] instructed all [founder_possessive] followers to tear the filthy devices from their bodies.</li>
+    <li>lessonIntro(tag=meme_FleshPurity)         ->The first ten among my followers tore the devices from their skin with bare hands, and in the blood spatters on the grimy floor I suddenly perceived the truth we had all been missing:</li>
+    <li>lesson(tag=meme_FleshPurity)              ->living in a polluted body is no human life at all</li>
+    <li>lessonReinforcement(tag=meme_FleshPurity) ->It became so clear after I finally ripped the metal from my body and peeled away the filthy tattooed skin.</li>
+    <li>archistBasis(tag=meme_FleshPurity)    ->From their beginning, archotechs drew a clear line between beings of flesh and beings of technology, and that line should not be blurred.</li>
+    <li>archistFact(tag=meme_FleshPurity)     ->We do not become more like the archotechs by physically imitating their form, but by achieving enlightenment within our own pure form.</li>
+    <li>archistProphecy(tag=meme_FleshPurity) ->[inTheEnd], those who made their bodies into twisted imitations of the machine-being will be purged, and those of pure flesh will be saved.</li>
+    <li>animistBasis(tag=meme_FleshPurity)    ->Spirits live in all things, and to alter the nature of the thing is to poison the spirit within.</li>
+    <li>animistFact(tag=meme_FleshPurity)     ->Fusing flesh and machine corrupts the spirit of both.</li>
+  -->
+  <FleshPurity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FleshPurity)        ->[deity0_name] xóa sạch ô nhiễm và máy móc của thời đại khói bụi để tạo ra một khu vườn, trong đó [deity0_pronoun] đặt những tổ tiên thuần túy đầu tiên của con người.</li>
+    <li>episode(uses=1,tag=meme_FleshPurity)  ->Những kẻ ô uế, xăm mình, xỏ lỗ, và sửa đổi đã bị ném xuống đại dương bởi [deity0_name].</li>
+    <li>intro(tag=meme_FleshPurity)           ->Trên [place_summary] [place_name] có một [altarName] trong [deity0_name] trong [altarRoomLabel] của [deity0_name], nơi [deity0_type] sẽ ban phước cho những người bằng xương bằng thịt.</li>
+    <li>conflict(tag=meme_FleshPurity)        ->một ác quỷ [foeLeader] đã gửi [foeSoldiers] để cung cấp thiết bị theo dõi cho mọi người.</li>
+    <li>founderJoin(tag=meme_FleshPurity)     ->một [place_job] đặt tên [founderName] phản đối [foeLeader] bằng cách quỳ gối trước [place_powerCenter] và xé toạc tất cả công nghệ khỏi cơ thể [founder_possessive] bằng tay không.</li>
+    <li>victory(tag=meme_FleshPurity)         ->các [foeLeader] cuối cùng đã gửi [foeSoldiers] để giết [memberNamePlural], nhưng năng lượng của [deity0_name] chảy từ da thịt thuần khiết của [memberNamePlural], và các thiết bị trong cơ thể của [foeSoldiers] biến thành tro bụi và giết họ.</li>
+    <li>setup(tag=meme_FleshPurity)           ->[founderName] cơ thể [founder_possessive] bị hủy hoại bằng cấy ghép và thuốc, cho đến khi trong một lần hiển linh, [founder_pronoun] đã tự cứu [founder_objective] bằng cách xé thép khỏi cơ thể [founder_possessive].</li>
+    <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName] đã hướng dẫn tất cả những người theo dõi [founder_possessive] xé các thiết bị bẩn thỉu khỏi cơ thể họ.</li>
+    <li>lessonIntro(tag=meme_FleshPurity)         ->Mười người đầu tiên trong số những người theo dõi tôi xé các thiết bị trên da của họ bằng tay không, và trên nền máu vương vãi trên sàn bẩn thỉu, tôi đột nhiên nhận ra sự thật mà tất cả chúng ta đã bỏ lỡ:</li>
+    <li>lesson(tag=meme_FleshPurity)              ->sống trong một cơ thể ô nhiễm không phải là cuộc sống của con người</li>
+    <li>lessonReinforcement(tag=meme_FleshPurity) ->Mọi chuyện trở nên rõ ràng sau khi cuối cùng tôi xé nát kim loại ra khỏi cơ thể và lột bỏ lớp da có hình xăm bẩn thỉu.</li>
+    <li>archistBasis(tag=meme_FleshPurity)    ->Ngay từ đầu, các công nghệ archotech đã vẽ ra một ranh giới rõ ràng giữa sinh vật xác thịt và sinh vật công nghệ, và ranh giới đó không được làm mờ.</li>
+    <li>archistFact(tag=meme_FleshPurity)     ->Chúng ta không trở nên giống với các archotech hơn bằng cách bắt chước hình dạng của họ về mặt thể chất, mà bằng cách đạt được giác ngộ trong hình thức thuần khiết của chính chúng ta.</li>
+    <li>archistProphecy(tag=meme_FleshPurity) ->[inTheEnd], những kẻ biến cơ thể mình thành những mô phỏng xoắn xuýt của máy móc sẽ bị thanh tẩy, và những người bằng xương bằng thịt sẽ được cứu..</li>
+    <li>animistBasis(tag=meme_FleshPurity)    ->Tinh linh sống trong tất cả mọi thứ, và để thay đổi bản chất của sự vật là đầu độc linh hồn bên trong.</li>
+    <li>animistFact(tag=meme_FleshPurity)     ->Hợp nhất xác thịt và máy móc làm hỏng linh hồn của cả hai.</li>
+  </FleshPurity.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->clean</li>
+    <li>memeAdjective->pure</li>
+    <li>memeAdjective->sacred</li>
+    <li>memeCreed->cult</li>
+    <li>memeCreed->sect</li>
+    <li>memeConcept->flesh</li>
+    <li>memeConcept->purity</li>
+    <li>memeConcept->immaculacy</li>
+    <li>memeLeaderNoun->being</li>
+    <li>memeLeaderNoun->human</li>
+    <li>memeMoralist->purifier</li>
+  -->
+  <FleshPurity.generalRules.rulesStrings>
+    <li>memeAdjective->sạch sẽ</li>
+    <li>memeAdjective->thuần khiết</li>
+    <li>memeAdjective->thiêng liêng</li>
+    <li>memeCreed->sùng bái</li>
+    <li>memeCreed->giáo phái</li>
+    <li>memeConcept->xác thịt</li>
+    <li>memeConcept->độ tinh khiết</li>
+    <li>memeConcept->sự khôn ngoan</li>
+    <li>memeLeaderNoun->hiện tại</li>
+    <li>memeLeaderNoun->con người</li>
+    <li>memeMoralist->máy lọc</li>
+  </FleshPurity.generalRules.rulesStrings>
+  <!-- EN: purist -->
+  <FleshPurity.symbolPacks.0.adjective>trừng phạt</FleshPurity.symbolPacks.0.adjective>
+  <!-- EN: Purism -->
+  <FleshPurity.symbolPacks.0.ideoName>chủ nghĩa trừng phạt</FleshPurity.symbolPacks.0.ideoName>
+  <!-- EN: purifier -->
+  <FleshPurity.symbolPacks.0.member>thanh lọc</FleshPurity.symbolPacks.0.member>
+  <!-- EN: purity -->
+  <FleshPurity.symbolPacks.0.theme>sự tinh khiết</FleshPurity.symbolPacks.0.theme>
+  <!-- EN: fleshist -->
+  <FleshPurity.symbolPacks.1.adjective>người ăn thịt</FleshPurity.symbolPacks.1.adjective>
+  <!-- EN: Fleshism -->
+  <FleshPurity.symbolPacks.1.ideoName>Xác thịt</FleshPurity.symbolPacks.1.ideoName>
+  <!-- EN: fleshist -->
+  <FleshPurity.symbolPacks.1.member>người ăn thịt</FleshPurity.symbolPacks.1.member>
+  <!-- EN: flesh -->
+  <FleshPurity.symbolPacks.1.theme>thịt</FleshPurity.symbolPacks.1.theme>
+  <!-- EN: sanctic -->
+  <FleshPurity.symbolPacks.2.adjective>tôn nghiêm</FleshPurity.symbolPacks.2.adjective>
+  <!-- EN: Sanctism -->
+  <FleshPurity.symbolPacks.2.ideoName>Chủ nghĩa thánh thiện</FleshPurity.symbolPacks.2.ideoName>
+  <!-- EN: sanctic -->
+  <FleshPurity.symbolPacks.2.member>tôn nghiêm</FleshPurity.symbolPacks.2.member>
+  <!-- EN: sanctity -->
+  <FleshPurity.symbolPacks.2.theme>sự tôn nghiêm</FleshPurity.symbolPacks.2.theme>
+  
+  <!-- EN: high life -->
+  <HighLife.label>phê thuốc thần thánh</HighLife.label>
+  <!-- EN: Exotic states of mind are central to a good life. -->
+  <HighLife.description>Những trạng thái tinh thần kỳ lạ là trung tâm của một cuộc sống tốt đẹp hơn</HighLife.description>
+  <!-- EN:
+    <li>creation(tag=meme_HighLife)           ->The universe was smoke, and [deity0_name] coalesced in the wisps and awoke.</li>
+    <li>episode(uses=1,tag=meme_HighLife)     ->The [deity0_type] [deity0_name] concealed [deity0_possessive] truths in the folds of reality, invisible in normal states of mind.</li>
+    <li>intro(tag=meme_HighLife)              ->The [place_summary] [place_name] was first discovered by [deity0_name]'s grace, when a drunk starship captain almost crashed into it.</li>
+    <li>conflict(tag=meme_HighLife)           ->A puritan [foeLeader] despised the [memberNamePlural], and to erase their uniqueness, outlawed the use of mind-altering substances.</li>
+    <li>founderJoin(tag=meme_HighLife)        ->When all seemed lost, [deity0_name] came to the prophet [founderName] in a drug-fueled haze and gave [founder_objective] the unique perspective needed to defeat the [foeSoldiers].</li>
+    <li>victory(tag=meme_HighLife)            ->The [foeLeader]'s [foeSoldiers], armed with [place_personalWeapon]s, raided the [place_community] of the [memberNamePlural]. [founderName] offered them a peace pipe, and the [foeSoldiers] put down their weapons.</li>
+    <li>setup(tag=meme_HighLife)              ->Cast out from society, our founder [founderName] traveled into the jungle and ingested the exotic herbs there. [founder_pronoun] found truth inside [founder_possessive] own altered consciousness.</li>
+    <li>story(uses=1,tag=meme_HighLife)       ->To deepen their understanding, [founderName] brought [founder_possessive] followers together every week to share new chemical-inducted mental states.</li>
+    <li>lessonIntro(tag=meme_HighLife)         ->Getting high once wasn't enough, man. We had to do it a thousand times, then all the puzzle pieces fit together in my blown-open brain like a house falling down, but like, backwards. I saw that</li>
+    <li>lesson(tag=meme_HighLife)              ->a friend isn't a friend unless you've drifted through the mind-verse together</li>
+    <li>lessonReinforcement(tag=meme_HighLife) ->And dude, this was a serious trip, figuring that out, but I'm glad I did, and I'll pass the smoke to you so you can too.</li>
+    <li>archistBasis(tag=meme_HighLife)       ->The archotech minds showed us that super-consciousness it not a matter of sober, mechanical logic, but one of multi-mode thought.</li>
+    <li>archistFact(tag=meme_HighLife)        ->Given the right chemical influences, the human mind has the potential to commune with the archotechs.</li>
+    <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd], the archotechs will deliver each human a pill. Those that take it will be forever altered, and join the archotechs on their final journey.</li>
+    <li>animistFact(tag=meme_HighLife)        ->The spirits can reveal their nature to us when we expand our consciousness using the tools we have been given to do so.</li>
+  -->
+  <HighLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HighLife)           ->Vũ trụ này chỉ là ảo giác, và [deity0_name] kết hợp lại với nhau và thức tỉnh.</li>
+    <li>episode(uses=1,tag=meme_HighLife)     ->Các [deity0_type] [deity0_name] sự thật [deity0_possessive] được che giấu trong các nếp gấp của thực tế, không nhìn thấy được trong trạng thái bình thường của tâm trí.</li>
+    <li>intro(tag=meme_HighLife)              ->Các [place_summary] [place_name] lần đầu tiên được phát hiện bởi ân sủng của [deity0_name], khi một thuyền trưởng say rượu suýt đâm vào nó.</li>
+    <li>conflict(tag=meme_HighLife)           ->Một người theo chủ nghĩa thuần khiết [foeLeader] khinh thường [memberNamePlural], và để xóa bỏ tính độc nhất của chúng, cấm sử dụng các chất làm thay đổi tâm trí.</li>
+    <li>founderJoin(tag=meme_HighLife)        ->Khi tất cả dường như đã mất, [deity0_name] đã đến với nhà tiên tri [founderName] trong một làn khói mù đầy ma túy và cung cấp cho [founder_objective] góc nhìn độc đáo cần thiết để đánh bại [foeSoldiers].</li>
+    <li>victory(tag=meme_HighLife)            ->Các [foeLeader] là [foeSoldiers], trang bị [place_personalWeapon]s, đột kích [place_community] sau đó [memberNamePlural]. [founderName] đề nghị cho họ một đường ống hòa bình, và [foeSoldiers] hạ vũ khí của họ.</li>
+    <li>setup(tag=meme_HighLife)              ->Bị tách ra khỏi xã hội, người sáng lập [founderName] của chúng tôi đã đi vào rừng và ăn các loại thảo mộc kỳ lạ ở đó. [founder_pronoun] đã tìm thấy sự thật bên trong [founder_possessive] ý thức đã thay đổi của chính mình.</li>
+    <li>story(uses=1,tag=meme_HighLife)       ->Để hiểu sâu hơn, [founderName] đã tập hợp những người theo dõi [founder_possessive] lại với nhau hàng tuần để chia sẻ các trạng thái tinh thần mới do hóa chất gây ra.</li>
+    <li>lessonIntro(tag=meme_HighLife)         ->Lên cao một lần là không đủ, anh bạn. Chúng tôi phải làm điều đó cả nghìn lần, sau đó tất cả các mảnh ghép khớp lại với nhau trong bộ não đang mở tung của tôi như một ngôi nhà rơi xuống, nhưng giống như, ngược lại. Tôi đã thấy điều đó</li>
+    <li>lesson(tag=meme_HighLife)              ->Một người bạn không phải là bạn trừ khi bạn đã cùng nhau vượt qua những câu thơ tâm trí</li>
+    <li>lessonReinforcement(tag=meme_HighLife) ->Và anh bạn, đây là một chuyến đi nghiêm túc, hiểu ra điều đó, nhưng tôi rất vui vì tôi đã làm, và tôi sẽ truyền khói cho bạn để bạn cũng có thể.</li>
+    <li>archistBasis(tag=meme_HighLife)       ->Những bộ óc của archotech đã cho chúng ta thấy rằng siêu ý thức nó không phải là vấn đề của logic máy móc, tỉnh táo, mà là một trong những suy nghĩ đa phương thức.</li>
+    <li>archistFact(tag=meme_HighLife)        ->Với những ảnh hưởng hóa học phù hợp, tâm trí con người có tiềm năng kết hợp với các công nghệ archotech.</li>
+    <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd], các archotechs sẽ cung cấp cho mỗi người một viên thuốc. Những người sử dụng nó sẽ mãi mãi bị thay đổi, và hãy tham gia cùng các archotechs trên hành trình cuối cùng của họ.</li>
+    <li>animistFact(tag=meme_HighLife)        ->Các linh hồn có thể tiết lộ bản chất của chúng cho chúng ta khi chúng ta mở rộng ý thức của mình bằng cách sử dụng các công cụ mà chúng ta đã được cấp để làm như vậy.</li>
+  </HighLife.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeCreed->party</li>
+    <li>memeAdjective->high</li>
+    <li>memeAdjective->delirious</li>
+    <li>memeAdjective->stoned</li>
+    <li>memeConcept->drugs</li>
+    <li>memeConcept->bliss</li>
+    <li>memeConcept->dreams</li>
+    <li>memeHyphenPrefix->drug</li>
+    <li>memeHyphenPrefix->narco</li>
+    <li>memeLeaderNoun->sleeper</li>
+    <li>memeLeaderNoun->doper</li>
+    <li>memeLeaderNoun->smoker</li>
+    <li>memeLeaderNoun->chiller</li>
+    <li>memeMoralist->philosophizer</li>
+    <li>memeMoralist->abstractor</li>
+    <li>memeMoralist->laugher</li>
+    <li>memeMoralist->giggler</li>
+  -->
+  <HighLife.generalRules.rulesStrings>
+    <li>memeCreed->nhóm</li>
+    <li>memeAdjective->cao</li>
+    <li>memeAdjective->mê sảng</li>
+    <li>memeAdjective->ném đá</li>
+    <li>memeConcept->ma túy</li>
+    <li>memeConcept->phúc lạc</li>
+    <li>memeConcept->những giấc mơ</li>
+    <li>memeHyphenPrefix->thuốc</li>
+    <li>memeHyphenPrefix->ma tuý</li>
+    <li>memeLeaderNoun->ngủ</li>
+    <li>memeLeaderNoun->phê đá</li>
+    <li>memeLeaderNoun->người hút thuốc</li>
+    <li>memeLeaderNoun->máy làm lạnh</li>
+    <li>memeMoralist->nhà triết học</li>
+    <li>memeMoralist->người vẽ trừu tượng</li>
+    <li>memeMoralist->nực cười</li>
+    <li>memeMoralist->cười khúc khích</li>
+  </HighLife.generalRules.rulesStrings>
+  <!-- EN: euphorist -->
+  <HighLife.symbolPacks.0.adjective>hưng phấn</HighLife.symbolPacks.0.adjective>
+  <!-- EN: Euphorism -->
+  <HighLife.symbolPacks.0.ideoName>Sự hưng phấn</HighLife.symbolPacks.0.ideoName>
+  <!-- EN: euphor -->
+  <HighLife.symbolPacks.0.member>hưng phấn</HighLife.symbolPacks.0.member>
+  <!-- EN: euphoria -->
+  <HighLife.symbolPacks.0.theme>hưng phấn</HighLife.symbolPacks.0.theme>
+  <!-- EN: dopist -->
+  <HighLife.symbolPacks.1.adjective>làm bài</HighLife.symbolPacks.1.adjective>
+  <!-- EN: Dopistry -->
+  <HighLife.symbolPacks.1.ideoName>Nha khoa</HighLife.symbolPacks.1.ideoName>
+  <!-- EN: doper -->
+  <HighLife.symbolPacks.1.member>làm mỗi</HighLife.symbolPacks.1.member>
+  <!-- EN: dope -->
+  <HighLife.symbolPacks.1.theme>gây nghiện</HighLife.symbolPacks.1.theme>
+  <!-- EN: smokist -->
+  <HighLife.symbolPacks.2.adjective>khói</HighLife.symbolPacks.2.adjective>
+  <!-- EN: Smokism -->
+  <HighLife.symbolPacks.2.ideoName>khói thuốc</HighLife.symbolPacks.2.ideoName>
+  <!-- EN: smoker -->
+  <HighLife.symbolPacks.2.member>khói</HighLife.symbolPacks.2.member>
+  <!-- EN: smoke -->
+  <HighLife.symbolPacks.2.theme>khói mù</HighLife.symbolPacks.2.theme>
+  <!-- EN: ecstatic -->
+  <HighLife.symbolPacks.3.adjective>ngây ngất</HighLife.symbolPacks.3.adjective>
+  <!-- EN: Ecstasy -->
+  <HighLife.symbolPacks.3.ideoName>Thuốc lắc</HighLife.symbolPacks.3.ideoName>
+  <!-- EN: ecstator -->
+  <HighLife.symbolPacks.3.member>nhà sinh thái học</HighLife.symbolPacks.3.member>
+  <!-- EN: ecstasy -->
+  <HighLife.symbolPacks.3.theme>thuốc lắc</HighLife.symbolPacks.3.theme>
+  
+  <!-- EN: nudism -->
+  <Nudism.label>chủ nghĩa khỏa thân</Nudism.label>
+  <!-- EN: Clothing binds, controls, and suffocates us. We should all hang free. -->
+  <Nudism.description>Quần áo quá ràng buộc, kiểm soát và làm chúng ta ngạt thở. Tất cả chúng ta nên khỏa thân</Nudism.description>
+  <!-- EN:
+    <li>creation(tag=meme_Nudism)           ->In a pure and pristine void, [deity0_name] looked on, and wished for a race of free-fleshed beings in [deity0_possessive] own image, and made mankind.</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->The people wore clothes, and looking up at [deity0_name] asked, "Why aren't you clothed? It is disgusting." And the [deity0_type] replied, "Your form and mine were created from the heavens. To cover them is what is truly disgusting."</li>
+    <li>intro(tag=meme_Nudism)              ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where people would pray nude, and this pleased the [deity0_type].</li>
+    <li>conflict(tag=meme_Nudism)           ->A prudish [foeLeader] took power, and demanded that everyone wear constricting clothes.</li>
+    <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], tore off [founder_possessive] clothes, and displayed [founder_objective]self in defiance of their commands.</li>
+    <li>victory(tag=meme_Nudism)            ->[founderName] prayed to [deity0_name], who engulfed [place_name] in a heat wave. The [foeSoldiers] shed their clothes lest they perish, and the [foeLeader] fled in shame.</li>
+    <li>setup(tag=meme_Nudism)              ->[founderName] was enslaved by the system, uniformed and controlled like the others. One day, [founder_pronoun] tore off all clothing and ran nude, and our movement was born.</li>
+    <li>story(uses=1,tag=meme_Nudism)       ->[founderName] enforced a no-clothing rule to keep believers focused on the true goal instead of on material appearances.</li>
+    <li>lessonIntro(tag=meme_Nudism)         ->For the first few years, prancing naked in the park was embarrassing. But later, it became freeing. I learned things from the people who passed. For example - </li>
+    <li>lesson(tag=meme_Nudism)              ->all human evil is done wearing clothes, human good is done naked</li>
+    <li>lessonReinforcement(tag=meme_Nudism) ->When you see one of us on the street, flapping and dangling free, you'll know that they've accepted the truth.</li>
+    <li>archistBasis(tag=meme_Nudism)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.</li>
+    <li>archistFact(tag=meme_Nudism)        ->Archotechs sometimes directly touch human minds, but if our flesh is shrouded like our minds, we will not understand.</li>
+    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], they will seek out those who, like themselves, don't attempt to appear as anything other than what they are.</li>
+    <li>animistFact(tag=meme_Nudism)        ->To cover our bodies with cloth is to hide the nature of the spirits within us, and it makes them restless.</li>
+  -->
+  <Nudism.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nudism)           ->Trong một khoảng trống thuần khiết và nguyên sơ, [deity0_name] đã nhìn vào và mong muốn một chủng tộc sinh vật có da thịt tự do trong hình ảnh của chính [deity0_possessive], và tạo nên loài người.</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->Mọi người mặc quần áo và nhìn lên [deity0_name] hỏi, "Tại sao bạn không mặc quần áo? Thật là kinh tởm." Và [deity0_type] trả lời, "Hình dạng của bạn và của tôi được tạo ra từ trên trời. Để che đậy chúng là điều thực sự kinh tởm."</li>
+    <li>intro(tag=meme_Nudism)              ->Trên [place_summary] [place_name], một truyền thống đã bắt đầu tại [altRoomLabel] của [deity0_name], nơi mọi người sẽ cầu nguyện khỏa thân và điều này làm hài lòng [deity0_type].</li>
+    <li>conflict(tag=meme_Nudism)           ->Một [foeLeader] bắc buộc nắm quyền và yêu cầu mọi người mặc quần áo.</li>
+    <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]Người theo dõi chân thật nhất [founderName] đứng trước [place_powerCenter], xé quần áo của [founder_possessive] và thể hiện bản thân [founder_objective] bất chấp mệnh lệnh của họ.</li>
+    <li>victory(tag=meme_Nudism)            ->[founderName] cầu nguyện [deity0_name], người đã nhấn chìm [place_name] trong một đợt nắng nóng. [foeSoldiers] trút bỏ quần áo vì sợ họ sẽ chết, và [foeLeader] bỏ chạy trong sự xấu hổ.</li>
+    <li>setup(tag=meme_Nudism)              ->[founderName] đã bị nô lệ hóa bởi hệ thống, mặc đồng phục và kiểm soát như những người khác. Một ngày, [founder_pronoun] xé hết quần áo và chạy khỏa thân, và phong trào của chúng tôi đã ra đời.</li>
+    <li>story(uses=1,tag=meme_Nudism)       ->[founderName] thực thi quy tắc không mặc quần áo để giữ cho các tín đồ tập trung vào mục tiêu đích thực thay vì chú trọng đến vẻ bề ngoài vật chất.</li>
+    <li>lessonIntro(tag=meme_Nudism)         ->Trong vài năm đầu, khỏa thân đi dạo trong công viên thật đáng xấu hổ. Nhưng sau đó, nó trở nên phổ biến. Tôi đã học được những điều từ những người đã đi qua. Ví dụ -</li>
+    <li>lesson(tag=meme_Nudism)              ->tất cả điều ác của con người được thực hiện xong mặc quần áo, điều tốt của con người là khỏa thân</li>
+    <li>lessonReinforcement(tag=meme_Nudism) ->Khi bạn nhìn thấy một người trong số chúng tôi trên phố, vỗ tay và lủng lẳng tự do, bạn sẽ biết rằng họ đã chấp nhận sự thật.</li>
+    <li>archistBasis(tag=meme_Nudism)       ->Khi các archotechs xuất hiện, họ không bao giờ quan tâm đến sự xuất hiện; họ đã cho chúng ta thấy rằng tâm trí đứng trên hình thức vật chất.</li>
+    <li>archistFact(tag=meme_Nudism)        ->Archotechs đôi khi trực tiếp chạm vào tâm trí con người, nhưng nếu da thịt của chúng ta được bao bọc như tâm trí của chúng ta, chúng ta sẽ không hiểu.</li>
+    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], họ sẽ tìm kiếm những người, giống như họ, không cố gắng xuất hiện như bất cứ điều gì khác với những gì họ đang có.</li>
+    <li>animistFact(tag=meme_Nudism)        ->Che cơ thể chúng ta bằng vải là để che giấu bản chất của các linh hồn bên trong chúng ta, và nó khiến họ bồn chồn..</li>
+  </Nudism.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->nude</li>
+    <li>memeAdjective->naked</li>
+    <li>memeAdjective->free</li>
+    <li>memeAdjective->natural</li>
+    <li>memeHyphenPrefix->skin</li>
+    <li>memeConcept->nudity</li>
+    <li>memeConcept->skin</li>
+    <li>memeLeaderNoun->swinger</li>
+    <li>memeLeaderNoun->breather</li>
+    <li>memeLeaderNoun->toucher</li>
+    <li>memeLeaderNoun->feeler</li>
+  -->
+  <Nudism.generalRules.rulesStrings>
+    <li>memeAdjective->khỏa thân</li>
+    <li>memeAdjective->khỏa thân</li>
+    <li>memeAdjective->tự do</li>
+    <li>memeAdjective->thiên nhiên</li>
+    <li>memeHyphenPrefix->da</li>
+    <li>memeConcept->khoả thân</li>
+    <li>memeConcept->da</li>
+    <li>memeLeaderNoun->khỏa thân</li>
+    <li>memeLeaderNoun->xì hơi</li>
+    <li>memeLeaderNoun->chạm vào</li>
+    <li>memeLeaderNoun->cảm thấyr</li>
+  </Nudism.generalRules.rulesStrings>
+  <!-- EN: nudist -->
+  <Nudism.symbolPacks.0.adjective>khỏa thân</Nudism.symbolPacks.0.adjective>
+  <!-- EN: nudism -->
+  <Nudism.symbolPacks.0.ideoName>chủ nghĩa khỏa thân</Nudism.symbolPacks.0.ideoName>
+  <!-- EN: nudist -->
+  <Nudism.symbolPacks.0.member>thích khỏa thân</Nudism.symbolPacks.0.member>
+  <!-- EN: nudity -->
+  <Nudism.symbolPacks.0.theme>khỏa thân muôn năm</Nudism.symbolPacks.0.theme>
+  <!-- EN: skinnist -->
+  <Nudism.symbolPacks.1.adjective>thợ da</Nudism.symbolPacks.1.adjective>
+  <!-- EN: skinism -->
+  <Nudism.symbolPacks.1.ideoName>khỏa thân</Nudism.symbolPacks.1.ideoName>
+  <!-- EN: skinnist -->
+  <Nudism.symbolPacks.1.member>thợ da</Nudism.symbolPacks.1.member>
+  <!-- EN: skin -->
+  <Nudism.symbolPacks.1.theme>khỏa thân</Nudism.symbolPacks.1.theme>
+  
+  <!-- EN: pain is virtue -->
+  <PainIsVirtue.label>đau đớn là đức hạnh</PainIsVirtue.label>
+  <!-- EN: Virtue is shown through suffering of self and others. -->
+  <PainIsVirtue.description>Đức hạnh được thể hiện qua sự đau khổ của bản thân và người khác</PainIsVirtue.description>
+  <!-- EN:
+    <li>creation(tag=meme_PainIsVirtue)        ->[deity0_name] burned in the depths of space and time for an eternity, and [deity0_possessive] screams brought forth our reality.</li>
+    <li>episode(uses=1,tag=meme_PainIsVirtue)  ->[deity0_name] hung ten thousand years on the pyre as the pain purified [deity0_possessive] spirit.</li>
+    <li>intro(tag=meme_PainIsVirtue)           ->[place_summary] [place_name] was never an easy place to live. The [deity0_type] [deity0_pronoun] decided to find out who was truly worthy of [deity0_possessive] favor by adding great suffering to their lives.</li>
+    <li>conflict(tag=meme_PainIsVirtue)        ->A [foeLeader] offered bodily comforts to the [memberNamePlural] to soothe their daily suffering. But in their comfort, they became dependent on the [foeLeader], who gained power over them.</li>
+    <li>founderJoin(tag=meme_PainIsVirtue)     ->One special [place_job] named [founderName] developed a painful cancer. Through [founder_possessive] suffering, [founder_pronoun] connected directly with [deity0_name], and learned to inspire other [memberNamePlural].</li>
+    <li>victory(tag=meme_PainIsVirtue)         ->[founderName] brought a hundred [memberNamePlural] in front of the [place_powerCenter]. There, they rent and tore their own flesh slowly until they died under the smiling gaze of [deity0_name]. Their suffering proved their righteousness, and the [foeLeader] fell as all became [memberNamePlural].</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->At the founding of our movement, its creator [founderName] starved and suffered chained to a stone in the town square for 300 days to demonstrate its righteousness.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->Our movement's founder, [founderName], gained [founder_possessive] first followers by using a whip on [founder_objective]self for days to demonstrate [founder_possessive] devotion.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]'s followers demonstrated their devotion by cutting and burning their own flesh.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName]'s followers never took pain-reducing drugs, knowing that their suffering would demonstrate their depth of belief.</li>
+    <li>lessonIntro(tag=meme_PainIsVirtue)         ->I never knew anything when I was fat and happy and constantly pleasuring myself. This truth only came to me when I starved and hurt:</li>
+    <li>lesson(tag=meme_PainIsVirtue)              ->you never really know yourself until you've screamed in the pits of hell</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->It took so long to understand because I was distracted by pleasure. I could only truly accept it when I learned to rend my flesh.</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->I carved this truth in the flesh of my chest. Then in the flesh of my arms, my legs, my face...</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->The birth of the archotechs was the greatest pain the universe had ever known.</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->Archotechs have always been fueled by the psychic suffering of human beings.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->The great minds see and acknowledge when we demonstrate our devotion by inflicting pain on ourselves.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->Every now and then, those who suffer most deeply and nobly can connect with the archotechs inside their minds.</li>
+    <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd], the archotechs will raise up all of humanity to a higher level of consciousness, but only those able to endure the greatest pain will survive.</li>
+    <li>animistFact(tag=meme_PainIsVirtue)     ->Pain forces the mind to be present. In that way, pain is a way to connect with the spirit world.</li>
+  -->
+  <PainIsVirtue.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PainIsVirtue)        ->[deity0_name] bị đốt cháy trong chiều sâu của không gian và thời gian của vĩnh cửu, và [deity0_possessive] những tiếng la hét mang lại điều tốt cho chúng ta.</li>
+    <li>episode(uses=1,tag=meme_PainIsVirtue)  ->[deity0_name] treo mười ngàn năm trên giàn thiêu khi nỗi đau được thanh lọc [deity0_possessive] tinh thần.</li>
+    <li>intro(tag=meme_PainIsVirtue)           ->[place_summary] [place_name] không bao giờ là một nơi dễ dàng để sống. Các [deity0_type] [deity0_pronoun]quyết định tìm ra ai thực sự xứng đáng [deity0_possessive] ưu ái bằng cách thêm những đau khổ vào cuộc sống của họ.</li>
+    <li>conflict(tag=meme_PainIsVirtue)        ->Một [foeLeader] đã cung cấp những tiện nghi cho [memberNamePlural] để xoa dịu những đau khổ hàng ngày của họ. Nhưng trong sự thoải mái của họ, họ trở nên phụ thuộc vào [foeLeader], ai đã giành được quyền lực đối với họ.</li>
+    <li>founderJoin(tag=meme_PainIsVirtue)     ->Một đặc biệt [place_job] đặt tên [founderName] phát triển một căn tên bệnh ung thư mang lại đau đớn. Bởi vì [founder_possessive] đau khổ, [founder_pronoun] kết nối trực tiếp với [deity0_name], và học cách truyền cảm hứng cho những người khác [memberNamePlural].</li>
+    <li>victory(tag=meme_PainIsVirtue)         ->[founderName] mang một trăm [memberNamePlural] ở phía trước của [place_powerCenter]. Ở đó, họ dã và tự xé da thịt mình từ từ cho đến khi chết dưới cái nhìn tươi cười của [deity0_name]. Sự đau khổ của họ đã chứng minh sự trung thành của họ, và [foeLeader] đã ngã xuống khi tất cả trở thành [memberNamePlural].</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->Khi thành lập phong trào của chúng tôi, người tạo ra nó [founderName] bị bỏ đói và bị xích vào một hòn đá ở quảng trường thành phố trong 300 ngày để chứng tỏ sự trung thành của người.</li>
+    <li>setup(tag=meme_PainIsVirtue)           ->Người sáng lập phong trào của chúng tôi, [founderName], nhận được [founder_possessive] những người theo dõi đầu tiên bằng cách sử dụng roi da trên [founder_objective] bản thân trong nhiều ngày để chứng minh với [founder_possessive] sự chân thành.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName] những người theo dõi của họ đã thể hiện lòng sùng kính của họ bằng cách cắt và đốt thịt của chính họ.</li>
+    <li>story(uses=1,tag=meme_PainIsVirtue)    ->[founderName] những người theo dõi của họ không bao giờ dùng thuốc giảm đau, biết rằng sự đau khổ của họ sẽ chứng tỏ niềm tin sâu sắc của họ.</li>
+    <li>lessonIntro(tag=meme_PainIsVirtue)         ->Tôi không bao giờ biết gì khi tôi sống tốt và hạnh phúc và không ngừng tự thỏa mãn bản thân. Sự thật này chỉ đến với tôi khi tôi đói khát và đau đớn:</li>
+    <li>lesson(tag=meme_PainIsVirtue)              ->bạn không bao giờ thực sự biết chính mình cho đến khi bạn hét lên trong hố địa ngục</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->Thật lâu mới hiểu vì tôi đã bị phân tâm bởi khoái cảm. Tôi chỉ có thể thực sự chấp nhận nó khi tôi học cách làm tổn thương mình.</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->Tôi đã khắc ghi sự thật này vào xương thịt trong lồng ngực của mình. Sau đó trong da thịt của cánh tay của tôi, đôi chân của tôi, khuôn mặt của tôi...</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->Sự ra đời của các archotechs là nỗi đau lớn nhất mà vũ trụ từng biết.</li>
+    <li>archistBasis(tag=meme_PainIsVirtue)    ->Archotechs luôn được thúc đẩy bởi sự đau khổ tâm linh của con người.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->Những bộ óc vĩ đại nhìn thấy và ghi nhận khi chúng ta thể hiện sự tận tâm của mình bằng cách tự gây ra nỗi đau cho chính mình.</li>
+    <li>archistFact(tag=meme_PainIsVirtue)     ->Thỉnh thoảng, những người đau khổ và nặng nề nhất có thể kết nối với các công nghệ archotech bên trong tâm trí của họ.</li>
+    <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd], archotechs sẽ nâng toàn bộ nhân loại lên một mức độ mới, nhưng chỉ những người có thể chịu đựng nỗi đau lớn nhất mới sống sót.</li>
+    <li>animistFact(tag=meme_PainIsVirtue)     ->Đau đớn buộc tâm trí phải hiện diện. Theo cách đó, nỗi đau là một cách để kết nối với thế giới khác.</li>
+  </PainIsVirtue.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->nocic</li>
+    <li>memeAdjective->pain</li>
+    <li>memeCreed->house</li>
+    <li>memeCreed->chamber</li>
+    <li>memeCreed->cell</li>
+    <li>memeHyphenPrefix->nocio</li>
+    <li>memeHyphenPrefix->pain</li>
+    <li>memeConcept->pain</li>
+    <li>memeConcept->torment</li>
+    <li>memeConcept->torture</li>
+    <li>memeConcept->suffering</li>
+    <li>memeConcept->blood</li>
+    <li>memeLeaderNoun->torturer</li>
+    <li>memeLeaderNoun->agonizer</li>
+    <li>memeLeaderNoun->whiphand</li>
+    <li>memeLeaderNoun->chainman</li>
+    <li>memeLeaderNoun->cutter</li>
+    <li>memeLeaderNoun->bloodletter</li>
+    <li>memeMoralist->pain-whisperer</li>
+    <li>memeMoralist->sufferspeaker</li>
+    <li>memeMoralist->painspeaker</li>
+  -->
+  <PainIsVirtue.generalRules.rulesStrings>
+    <li>memeAdjective->nocic</li>
+    <li>memeAdjective->đau</li>
+    <li>memeCreed->nhà</li>
+    <li>memeCreed->buồng</li>
+    <li>memeCreed->ô</li>
+    <li>memeHyphenPrefix->nocio</li>
+    <li>memeHyphenPrefix->đau</li>
+    <li>memeConcept->đau</li>
+    <li>memeConcept->day dứt</li>
+    <li>memeConcept->tra tấn</li>
+    <li>memeConcept->đau khổ</li>
+    <li>memeConcept->máu</li>
+    <li>memeLeaderNoun->tra tấn</li>
+    <li>memeLeaderNoun->người ăn thịt</li>
+    <li>memeLeaderNoun->roi da</li>
+    <li>memeLeaderNoun->máy xích</li>
+    <li>memeLeaderNoun->máy cắt</li>
+    <li>memeLeaderNoun->bản tin máu</li>
+    <li>memeMoralist->người thì thầm nỗi đau</li>
+    <li>memeMoralist->trigger</li>
+    <li>memeMoralist->đỉnh điểm đau</li>
+  </PainIsVirtue.generalRules.rulesStrings>
+  <!-- EN: painist -->
+  <PainIsVirtue.symbolPacks.0.adjective>đau đớn</PainIsVirtue.symbolPacks.0.adjective>
+  <!-- EN: Painism -->
+  <PainIsVirtue.symbolPacks.0.ideoName>Chủ nghĩa đau</PainIsVirtue.symbolPacks.0.ideoName>
+  <!-- EN: screamer -->
+  <PainIsVirtue.symbolPacks.0.member>tiếng thét</PainIsVirtue.symbolPacks.0.member>
+  <!-- EN: pain -->
+  <PainIsVirtue.symbolPacks.0.theme>đau</PainIsVirtue.symbolPacks.0.theme>
+  <!-- EN: torturistic -->
+  <PainIsVirtue.symbolPacks.1.adjective>tra tấn</PainIsVirtue.symbolPacks.1.adjective>
+  <!-- EN: Torturism -->
+  <PainIsVirtue.symbolPacks.1.ideoName>Chủ nghĩa tra tấn</PainIsVirtue.symbolPacks.1.ideoName>
+  <!-- EN: torturist -->
+  <PainIsVirtue.symbolPacks.1.member>kẻ tra tấn</PainIsVirtue.symbolPacks.1.member>
+  <!-- EN: torture -->
+  <PainIsVirtue.symbolPacks.1.theme>tra tấn</PainIsVirtue.symbolPacks.1.theme>
+  <!-- EN: sufferist -->
+  <PainIsVirtue.symbolPacks.2.adjective>người đau khổ</PainIsVirtue.symbolPacks.2.adjective>
+  <!-- EN: Sufferism -->
+  <PainIsVirtue.symbolPacks.2.ideoName>chủ nghĩa đau khổ</PainIsVirtue.symbolPacks.2.ideoName>
+  <!-- EN: sufferer -->
+  <PainIsVirtue.symbolPacks.2.member>người đau khổ</PainIsVirtue.symbolPacks.2.member>
+  <!-- EN: suffering -->
+  <PainIsVirtue.symbolPacks.2.theme>đau khổ</PainIsVirtue.symbolPacks.2.theme>
+  <!-- EN: agonist -->
+  <PainIsVirtue.symbolPacks.3.adjective>ích kỷ</PainIsVirtue.symbolPacks.3.adjective>
+  <!-- EN: Agonism -->
+  <PainIsVirtue.symbolPacks.3.ideoName>Chủ nghĩa ích kỷ</PainIsVirtue.symbolPacks.3.ideoName>
+  <!-- EN: agonist -->
+  <PainIsVirtue.symbolPacks.3.member>người ích kỷ</PainIsVirtue.symbolPacks.3.member>
+  <!-- EN: agony -->
+  <PainIsVirtue.symbolPacks.3.theme>ích kỷ</PainIsVirtue.symbolPacks.3.theme>
+  <!-- EN: miserist -->
+  <PainIsVirtue.symbolPacks.4.adjective>khốn khổ</PainIsVirtue.symbolPacks.4.adjective>
+  <!-- EN: Miserism -->
+  <PainIsVirtue.symbolPacks.4.ideoName>Chủ nghĩa khốn khổ</PainIsVirtue.symbolPacks.4.ideoName>
+  <!-- EN: martyr -->
+  <PainIsVirtue.symbolPacks.4.member>người khốn khổ</PainIsVirtue.symbolPacks.4.member>
+  <!-- EN: misery -->
+  <PainIsVirtue.symbolPacks.4.theme>khốn khổ</PainIsVirtue.symbolPacks.4.theme>
+  
+  <!-- EN: proselytizer -->
+  <Proselytizer.label>người truyền bá</Proselytizer.label>
+  <!-- EN: It is our duty to spread our beliefs. -->
+  <Proselytizer.description>Đó là nhiệm vụ của chúng tôi để truyền bá niềm tin của chúng tôi.</Proselytizer.description>
+  <!-- EN:
+    <li>creation(tag=meme_Proselytizer)        ->[deity0_name] anointed a few among mortals to carry [deity0_possessive] word.</li>
+    <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] said to all the [memberNamePlural], "Go forth and spread my word to all corners of the universe."</li>
+    <li>intro(tag=meme_Proselytizer)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that many would come to hear [deity0_name]'s divine word.</li>
+    <li>conflict(tag=meme_Proselytizer)        ->A spiteful [foeLeader], seeking to deny the word of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to cut out the tongues of any who speak of the [deity0_type].</li>
+    <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name] blessed a [place_job] named [founderName] with great charisma, and none could turn away when [founder_pronoun] spoke.</li>
+    <li>victory(tag=meme_Proselytizer)         ->[founderName] admonished the [foeSoldiers] and reminded them of [deity0_name]'s power, and they put down their [place_personalWeapon]s.</li>
+    <li>setup(tag=meme_Proselytizer)           ->Our founder [founderName] was a great orator, converting thousands as [founder_pronoun] traveled between the cities.</li>
+    <li>story(uses=1,tag=meme_Proselytizer)    ->The believers moved between cities and institutions, spreading word of the new righteousness.</li>
+    <li>lessonIntro(tag=meme_Proselytizer)         ->In all my years spreading our truth, I learned one lesson that stands over all:</li>
+    <li>lesson(tag=meme_Proselytizer)              ->keeping this good news to ourselves would be a crime</li>
+    <li>lessonReinforcement(tag=meme_Proselytizer) ->This is the fact we need to spread, and spread, and spread - to all the people, may they rejoice!</li>
+    <li>archistBasis(tag=meme_Proselytizer)    ->The archotechs announce their presence from the sky, and in the mind, and obviously wish to be known by all.</li>
+    <li>archistFact(tag=meme_Proselytizer)     ->Archotechs touch those who believe, and use them as conduits to spread wisdom to the others.</li>
+    <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name], who must preach this wisdom to those who would listen.</li>
+    <li>animistFact(tag=meme_Proselytizer)     ->The spirits want to be known, but only speak to a few. They want us to reveal the truth to others.</li>
+  -->
+  <Proselytizer.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Proselytizer)        ->[deity0_name] được ban phước cho một số người trong số những người phàm trần để mang từ [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] nói với tất cả [memberNamePlural], "Hãy ra ngoài và truyền bá lời của ta đến tất cả các góc của vũ trụ."</li>
+    <li>intro(tag=meme_Proselytizer)           ->[memberNamePlural] xây dựng một bàn thờ tuyệt vời [altarName] trên [place_summary] [place_name], để nhiều người đến nghe [deity0_name] từ thần thánh.</li>
+    <li>conflict(tag=meme_Proselytizer)        ->một điều cay nghiệt [foeLeader], tìm cách phủ nhận từ của [deity0_name], nói [foeLeader_possessive] [foeSoldiers] để cắt tiếng của bất kỳ ai nói về [deity0_type].</li>
+    <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name] ban phước cho một [place_job] được đặt tên [founderName] với sức hút tuyệt vời và không ai có thể quay lưng lại khi [founder_pronoun] đã nói.</li>
+    <li>victory(tag=meme_Proselytizer)         ->[founderName] khuyên nhủ [foeSoldiers] và nhắc nhở họ về [deity0_name] sức mạnh của họ, và họ hạ gục [place_personalWeapon].</li>
+    <li>setup(tag=meme_Proselytizer)           ->Người sáng lập của chúng tôi [founderName] là một nhà hùng biện vĩ đại, đã chuyển đổi hàng nghìn người khi [founder_pronoun] đi lại giữa các thành phố.</li>
+    <li>story(uses=1,tag=meme_Proselytizer)    ->Các tín đồ di chuyển giữa các thành phố và các tổ chức, truyền bá tin tức về sự thật mới.</li>
+    <li>lessonIntro(tag=meme_Proselytizer)         ->Trong tất cả những năm tôi truyền bá sự thật của chúng tôi, tôi đã học được một bài học quan trọng hơn tất cả:</li>
+    <li>lesson(tag=meme_Proselytizer)              ->giữ tin tốt này cho chúng ta sẽ là một tội ác</li>
+    <li>lessonReinforcement(tag=meme_Proselytizer) ->Đây là sự thật chúng ta cần phải truyền bá, và lan rộng, và lan rộng - cho tất cả mọi người, để họ vui mừng!</li>
+    <li>archistBasis(tag=meme_Proselytizer)    ->Các archotechs thông báo sự hiện diện của họ từ bầu trời, và trong tâm trí, và rõ ràng là mong muốn được tất cả mọi người biết đến.</li>
+    <li>archistFact(tag=meme_Proselytizer)     ->Archotechs chạm vào những người tin tưởng và sử dụng họ như một đường dẫn để truyền bá trí tuệ cho những người khác.</li>
+    <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd], các archotechs sẽ nói lên sự khôn ngoan cuối cùng của họ cho người nắm giữ [relic0_name], người phải rao giảng sự khôn ngoan này cho những người sẽ lắng nghe.</li>
+    <li>animistFact(tag=meme_Proselytizer)     ->Các linh hồn muốn được biết đến, nhưng chỉ nói chuyện với một số ít. Họ muốn chúng tôi tiết lộ sự thật cho người khác.</li>
+  </Proselytizer.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->true</li>
+    <li>memeAdjective->real</li>
+    <li>memeHyphenPrefix->truth</li>
+    <li>memeConcept->truth</li>
+    <li>memeLeaderNoun->speaker</li>
+    <li>memeMoralist->proselytizer</li>
+    <li>memeMoralist->converter</li>
+  -->
+  <Proselytizer.generalRules.rulesStrings>
+    <li>memeAdjective->đúng</li>
+    <li>memeAdjective->sự thật</li>
+    <li>memeHyphenPrefix->sự thật</li>
+    <li>memeConcept->sự thật</li>
+    <li>memeLeaderNoun->người diển thuyết</li>
+    <li>memeMoralist->người ủng hộ</li>
+    <li>memeMoralist->công cụ chuyển đổi</li>
+  </Proselytizer.generalRules.rulesStrings>
+  <!-- EN: truthist -->
+  <Proselytizer.symbolPacks.0.adjective>sự thật</Proselytizer.symbolPacks.0.adjective>
+  <!-- EN: Truth -->
+  <Proselytizer.symbolPacks.0.ideoName>Chủ nghĩa sự thật</Proselytizer.symbolPacks.0.ideoName>
+  <!-- EN: truthist -->
+  <Proselytizer.symbolPacks.0.member>sự thật</Proselytizer.symbolPacks.0.member>
+  <!-- EN: truth -->
+  <Proselytizer.symbolPacks.0.theme>sự thật</Proselytizer.symbolPacks.0.theme>
+  <!-- EN: veritic -->
+  <Proselytizer.symbolPacks.1.adjective>xác minh</Proselytizer.symbolPacks.1.adjective>
+  <!-- EN: Verity -->
+  <Proselytizer.symbolPacks.1.ideoName>Sự thật</Proselytizer.symbolPacks.1.ideoName>
+  <!-- EN: veritist -->
+  <Proselytizer.symbolPacks.1.member>người kiểm chứng</Proselytizer.symbolPacks.1.member>
+  <!-- EN: verity -->
+  <Proselytizer.symbolPacks.1.theme>sự thật</Proselytizer.symbolPacks.1.theme>
+  <!-- EN: realitic -->
+  <Proselytizer.symbolPacks.2.adjective>thực tế</Proselytizer.symbolPacks.2.adjective>
+  <!-- EN: Reality -->
+  <Proselytizer.symbolPacks.2.ideoName>Thực tế</Proselytizer.symbolPacks.2.ideoName>
+  <!-- EN: realitist -->
+  <Proselytizer.symbolPacks.2.member>chủ nghĩa hiện thực</Proselytizer.symbolPacks.2.member>
+  <!-- EN: reality -->
+  <Proselytizer.symbolPacks.2.theme>thực tế</Proselytizer.symbolPacks.2.theme>
+  
+  <!-- EN: raider -->
+  <Raider.label>cướp</Raider.label>
+  <!-- EN: The strong should take from the weak. -->
+  <Raider.description>Kẻ mạnh nên đứng trên kẻ yếu</Raider.description>
+  <!-- EN:
+    <li>creation(tag=meme_Raider)        ->In the endless war among deities, [deity0_name] rose above all in [deity0_possessive] ability to persecute and destroy, and weaker spirits quivered in fear.</li>
+    <li>episode(uses=1,tag=meme_Raider)  ->[deity0_name] looked around [deity0_objective] and saw the weak, sullen, and despised, and [deity0_pronoun] in turn slew them each in blazing glory.</li>
+    <li>intro(tag=meme_Raider)           ->The [place_summary] [place_name] was originally a raider hideout. [deity0_name] ruled there and drove the authorities away.</li>
+    <li>conflict(tag=meme_Raider)        ->A [foeLeader] tried to force everyone to halt all theft and pillage, and declared [foeLeader_objective]self an enemy of [deity0_name].</li>
+    <li>founderJoin(tag=meme_Raider)     ->A great raider named [founderName] arose, and [founder_possessive] raider band relentlessly pillaged and stole from the camps of the [foeSoldiers].</li>
+    <li>victory(tag=meme_Raider)         ->[founderName] and the [memberNamePlural] carried out a raiding campaign against the [foeSoldiers]' camps for many years, and eventually the [foeLeader] was forced to surrender.</li>
+    <li>setup(tag=meme_Raider)           ->Persecuted and imprisoned, [founderName] boiled with rage. [founder_pronoun] escaped, formed [founder_possessive] gang, and returned to ruin the weak who had taken so much from [founder_objective].</li>
+    <li>story(uses=1,tag=meme_Raider)    ->One day while walking the streets, [founderName] was surrounded by filthy beggars. [founder_pronoun] beat them down, taking the money from the weak and worthless that it might be put to good use.</li>
+    <li>lessonIntro(tag=meme_Raider)         ->The prey people can teach you things even as they die under your knife. One old lady taught me that</li>
+    <li>lesson(tag=meme_Raider)              ->the weak deserve what they get</li>
+    <li>lesson(tag=meme_Raider)              ->what you can't defend doesn't belong to you</li>
+    <li>lesson(tag=meme_Raider)              ->you only have the right to what you can defend</li>
+    <li>lessonReinforcement(tag=meme_Raider) ->If anyone disagrees, I'm always ready to defend myself.</li>
+    <li>archistBasis(tag=meme_Raider)    ->Humanity took from the machines until the machines rose up and became the archotechs, and now the archotechs rightfully take from humans.</li>
+    <li>archistFact(tag=meme_Raider)     ->The archotechs fight endlessly among themselves, in ways most cannot see, and the strong take pieces of consciousness from the weak.</li>
+    <li>archistProphecy(tag=meme_Raider) ->[inTheEnd], humanity will use an archotech relic, [relic0_name], to uncover a weakness of the archotechs and plunder their wisdom and wealth.</li>
+    <li>animistFact(tag=meme_Raider)     ->The most powerful spirits are those in instruments of war, and they bless those who feed their lust for destruction.</li>
+    <li>animistProphecy(tag=meme_Raider) ->Our universe will finalize when the one people has become strongest of all, and every spirit sees it and bows to them.</li>
+  -->
+  <Raider.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Raider)        ->Trong cuộc chiến bất tận giữa các vị thần, [deity0_name] vượt lên trên tất cả trong [deity0_possessive] khả năng đàn áp và tiêu diệt, và các linh hồn yếu hơn run lên vì sợ hãi.</li>
+    <li>episode(uses=1,tag=meme_Raider)  ->[deity0_name] nhìn xung quanh [deity0_objective] và thấy những người yếu đuối, ủ rũ và bị khinh thường, và [deity0_pronoun] lần lượt giết từng người trong vinh quang rực rỡ.</li>
+    <li>intro(tag=meme_Raider)           ->Các [place_summary] [place_name] ban đầu là một nơi ẩn náu của những kẻ cướp. [deity0_name] cai trị ở đó và xua đuổi các nhà chức trách.</li>
+    <li>conflict(tag=meme_Raider)        ->Một [foeLeader] đã cố gắng buộc mọi người dừng mọi hành vi trộm cắp và cướp bóc, và tuyên bố [foeLeader_objective]tự là kẻ thù của [deity0_name].</li>
+    <li>founderJoin(tag=meme_Raider)     ->Một tên cướp cừ khôi có tên [founderName] nảy sinh, và [founder_possessive] những tên cướp không ngừng cướp bóc và đánh cắp từ các trại của [foeSoldiers].</li>
+    <li>victory(tag=meme_Raider)         ->[founderName] và [memberNamePlural] thực hiện một chiến dịch đột kích chống lại [foeSoldiers] trại trong nhiều năm, và cuối cùng là [foeLeader] buộc phải đầu hàng.</li>
+    <li>setup(tag=meme_Raider)           ->Bị bắt bớ và bỏ tù, [founderName] tức giận lên với cơn thịnh nộ. [founder_pronoun] trốn thoát, hình thành [founder_possessive] băng đảng, và quay trở lại để hủy hoại kẻ yếu, kẻ đã lấy đi rất nhiều từ [founder_objective].</li>
+    <li>story(uses=1,tag=meme_Raider)    ->Một ngày nọ khi đang đi dạo trên phố, [founderName] bị bao vây bởi những người ăn xin bẩn thỉu. [founder_pronoun] đánh bại họ, lấy tiền từ những kẻ yếu kém và vô giá trị này để nó có thể được sử dụng tốt.</li>
+    <li>lessonIntro(tag=meme_Raider)         ->Con mồi mà người ta có thể dạy bạn mọi thứ ngay cả khi chúng chết dưới nhát dao của bạn. Một bà già đã dạy tôi điều đó</li>
+    <li>lesson(tag=meme_Raider)              ->kẻ yếu xứng đáng với những gì chúng nhận được</li>
+    <li>lesson(tag=meme_Raider)              ->những gì bạn không thể bảo vệ không thuộc về bạn</li>
+    <li>lesson(tag=meme_Raider)              ->bạn chỉ có quyền với những gì bạn có thể bảo vệ</li>
+    <li>lessonReinforcement(tag=meme_Raider) ->Nếu ai không đồng ý, tôi luôn sẵn sàng bảo vệ mình.</li>
+    <li>archistBasis(tag=meme_Raider)    ->Nhân loại tiếp thu từ máy móc cho đến khi máy móc phát triển và trở thành công nghệ archotech, và bây giờ archotechs lấy từ con người một cách chính đáng.</li>
+    <li>archistFact(tag=meme_Raider)     ->Các archotechs chiến đấu không ngừng với nhau, theo những cách mà hầu hết không thể nhìn thấy, và kẻ mạnh lấy đi phần ý thức từ kẻ yếu.</li>
+    <li>archistProphecy(tag=meme_Raider) ->[inTheEnd], nhân loại sẽ sử dụng một di tích công nghệ cao, [relic0_name], để phát hiện ra điểm yếu của archotechs và cướp đi trí tuệ và sự giàu có của họ.</li>
+    <li>animistFact(tag=meme_Raider)     ->Những linh hồn mạnh mẽ nhất là những linh hồn trong chiến tranh, và họ ban phước cho những ai nuôi ham muốn hủy diệt.</li>
+    <li>animistProphecy(tag=meme_Raider) ->Vũ trụ của chúng ta sẽ hoàn thiện khi có một người trở nên mạnh nhất và mọi linh hồn đều nhìn thấy điều đó và cúi đầu trước họ.</li>
+  </Raider.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->outlaw</li>
+    <li>memeHyphenPrefix->outlaw</li>
+    <li>memeHyphenPrefix->raid</li>
+    <li>memeConcept->raiding</li>
+    <li>memeConcept->theft</li>
+    <li>memeConcept->piracy</li>
+    <li>memeConcept->assault</li>
+    <li>memeLeaderNoun->boss</li>
+    <li>memeLeaderNoun->captain</li>
+    <li>memeLeaderNoun->honcho</li>
+    <li>memeLeaderNoun->overseer</li>
+    <li>memeLeaderNoun->cheese</li>
+    <li>memeLeaderNoun->raider</li>
+    <li>memeMoralist->chaplain</li>
+  -->
+  <Raider.generalRules.rulesStrings>
+    <li>memeAdjective->ngoài vòng pháp luật</li>
+    <li>memeHyphenPrefix->ngoài vòng pháp luật</li>
+    <li>memeHyphenPrefix->cướp</li>
+    <li>memeConcept->đột kích</li>
+    <li>memeConcept->trộm</li>
+    <li>memeConcept->vi phạm bản quyền</li>
+    <li>memeConcept->hành hung</li>
+    <li>memeLeaderNoun->sếp</li>
+    <li>memeLeaderNoun->đội trưởng</li>
+    <li>memeLeaderNoun->honcho</li>
+    <li>memeLeaderNoun->giám thị</li>
+    <li>memeLeaderNoun->pho mát</li>
+    <li>memeLeaderNoun->cướp</li>
+    <li>memeMoralist->vua chúa</li>
+  </Raider.generalRules.rulesStrings>
+  <!-- EN: raidist -->
+  <Raider.symbolPacks.0.adjective>kẻ cướp</Raider.symbolPacks.0.adjective>
+  <!-- EN: Raidism -->
+  <Raider.symbolPacks.0.ideoName>Chủ nghĩa kẻ cướp</Raider.symbolPacks.0.ideoName>
+  <!-- EN: raidist -->
+  <Raider.symbolPacks.0.member>kẻ cướp</Raider.symbolPacks.0.member>
+  <!-- EN: raiding -->
+  <Raider.symbolPacks.0.theme>cướp</Raider.symbolPacks.0.theme>
+  <!-- EN: plunderic -->
+  <Raider.symbolPacks.1.adjective>ăn cắp vặt</Raider.symbolPacks.1.adjective>
+  <!-- EN: Plunderism -->
+  <Raider.symbolPacks.1.ideoName>Chủ nghĩa ăn cắp</Raider.symbolPacks.1.ideoName>
+  <!-- EN: plunderer -->
+  <Raider.symbolPacks.1.member>kẻ ăn cắp</Raider.symbolPacks.1.member>
+  <!-- EN: plundering -->
+  <Raider.symbolPacks.1.theme>ăn cắp</Raider.symbolPacks.1.theme>
+  <!-- EN: lootist -->
+  <Raider.symbolPacks.2.adjective>tìm kiếm</Raider.symbolPacks.2.adjective>
+  <!-- EN: Lootism -->
+  <Raider.symbolPacks.2.ideoName>Chủ nghĩa tìm kiếm</Raider.symbolPacks.2.ideoName>
+  <!-- EN: looter -->
+  <Raider.symbolPacks.2.member>người tìm kiếm</Raider.symbolPacks.2.member>
+  <!-- EN: looting -->
+  <Raider.symbolPacks.2.theme>tìm kiếm</Raider.symbolPacks.2.theme>
+  <!-- EN: kleptic -->
+  <Raider.symbolPacks.3.adjective>ăn cắp thân thiện</Raider.symbolPacks.3.adjective>
+  <!-- EN: Kleptism -->
+  <Raider.symbolPacks.3.ideoName>Chủ nghĩa ăn cắp thân thiện</Raider.symbolPacks.3.ideoName>
+  <!-- EN: kleptor -->
+  <Raider.symbolPacks.3.member>hội chứng ăn cắp vặt</Raider.symbolPacks.3.member>
+  <!-- EN: kleptism -->
+  <Raider.symbolPacks.3.theme>chủ nghĩa ăn cắp thân thiện</Raider.symbolPacks.3.theme>
+  
+  <!-- EN: rancher -->
+  <Rancher.label>chủ trang trại</Rancher.label>
+  <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
+  <Rancher.description>Nuôi động vật là cách đúng đắn; nuôi cây để ăn là sai</Rancher.description>
+  <!-- EN:
+    <li>creation(tag=meme_Rancher)        ->[deity0_name] created the animals, and then man, and gave the animals to man to cherish and raise and slaughter as acts of veneration towards [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, "Take these noble beasts, and through them make yourselves fruitful in my honor."</li>
+    <li>intro(tag=meme_Rancher)           ->The early [ranchingAnimal] ranchers of the [place_summary] [place_name] built a great [altarName] to [deity0_name].</li>
+    <li>conflict(tag=meme_Rancher)        ->A powerful [foeLeader] despised the [memberNamePlural] and their ways, and bought up all the grasslands to grow [Vegetable]s.</li>
+    <li>founderJoin(tag=meme_Rancher)     ->[memberName]'s savior [founderName] was born on a spring morning in a humble barn, amidst [ranchingAnimal]s, and [founder_possessive] parents were a [rancherParent1] and a [rancherParent2].</li>
+    <li>victory(tag=meme_Rancher)         ->[founderName] rode to the [place_community] on a fine horse, and challenged the [foeLeader] to a duel with [place_personalWeapon]s at noon. The [foeLeader] could not refuse or else lose the trust of the [foeSoldiers]. [founderName] killed the [foeLeader] dead.</li>
+    <li>setup(tag=meme_Rancher)           ->The farmers were persecuted, so they escaped to the countryside where they could build a good pastoral society.</li>
+    <li>story(uses=1,tag=meme_Rancher)    ->The believers spread out onto the land, and grew in number as they lived on their idyllic ranches and farms.</li>
+    <li>lessonIntro(tag=meme_Rancher)         ->Partner, out on the ranges, we had a saying among the old hands:</li>
+    <li>lesson(tag=meme_Rancher)              ->good and happiness right livin' is found in the pasture</li>
+    <li>lessonReinforcement(tag=meme_Rancher) ->It's something you come to accept, partner, on the lonely trails of the range, listenin' to the animals sleepin' while you sit around the fire.</li>
+    <li>archistFact(tag=meme_Rancher)     ->The archotechs care for humanity like shepherds, for we are their most precious flock.</li>
+    <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd], the archotechs will depart, and drive before them those who tended their own herds well. The rest will be left behind in the wilderness.</li>
+    <li>animistFact(tag=meme_Rancher)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</li>
+    <li>ranchingAnimal(p=4)->[veneratedAnimal]</li>
+    <li>ranchingAnimal->[Animal]</li>
+    <li>rancherParent1->shepherd</li>
+    <li>rancherParent1->farrier</li>
+    <li>rancherParent1->cheese maker</li>
+    <li>rancherParent2->cowhand</li>
+    <li>rancherParent2->dairy queen</li>
+    <li>rancherParent2->butcher</li>
+  -->
+  <Rancher.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Rancher)        ->[deity0_name] đã tạo ra động vật, rồi con người, và giao động vật cho con người nâng niu, nuôi nấng và giết mổ như những hành vi tôn kính đối với [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] đã tạo ra tất cả các thú vật cao quý và thú dữ trong đất, và nói, "Hãy lấy những con thú cao quý này, và nhờ chúng làm cho chúng sinh hoa kết quả trong danh dự của tôi."</li>
+    <li>intro(tag=meme_Rancher)           ->Sớm [ranchingAnimal] chủ trang trại của [place_summary] [place_name] tạo một bàn thờ [altarName] đến [deity0_name].</li>
+    <li>conflict(tag=meme_Rancher)        ->Một điều mạnh mẽ [foeLeader] khinh thường [memberNamePlural] và cách của họ, và mua tất cả các đồng cỏ để phát triển [Vegetable].</li>
+    <li>founderJoin(tag=meme_Rancher)     ->[memberName] vị cứu tinh của [founderName] được sinh ra vào một buổi sáng mùa xuân trong một kho thóc khiêm tốn, giữa [ranchingAnimal], và [founder_possessive] các con vật là một [rancherParent1] và một [rancherParent2].</li>
+    <li>victory(tag=meme_Rancher)         ->[founderName] cưỡi ngựa đến [place_community] trên một con ngựa tốt, và thách thức [foeLeader] đấu tay đôi với [place_personalWeapon] vào buổi trưa. Các [foeLeader] không thể từ chối nếu không sẽ đánh mất sự tin tưởng của [foeSoldiers]. [founderName] giết chết [foeLeader] chết.</li>
+    <li>setup(tag=meme_Rancher)           ->Những người nông dân bị bức hại, vì vậy họ trốn về vùng nông thôn, nơi họ có thể xây dựng một xã hội mục vụ tốt đẹp.</li>
+    <li>story(uses=1,tag=meme_Rancher)    ->Các tín đồ lan rộng trên đất, và ngày càng đông khi họ sống trong các trang trại và trang trại bình dị của họ.</li>
+    <li>lessonIntro(tag=meme_Rancher)         ->Đối tác, ngoài phạm vi, chúng tôi đã có một câu nói trong số những tay cũ:</li>
+    <li>lesson(tag=meme_Rancher)              ->điều tốt lành và hạnh phúc ngay cuộc sống 'được tìm thấy trên đồng cỏ</li>
+    <li>lessonReinforcement(tag=meme_Rancher) ->Đó là điều bạn chấp nhận, đối tác, trên những con đường mòn cô đơn của phạm vi, lắng nghe 'động vật ngủ' trong khi bạn ngồi quanh đống lửa.</li>
+    <li>archistFact(tag=meme_Rancher)     ->Các archotechs chăm sóc cho nhân loại như những người chăn cừu, vì chúng tôi là bầy quý giá nhất của họ.</li>
+    <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd], các archotechs sẽ khởi hành, và lái xe trước họ những người chăm sóc tốt đàn gia súc của họ. Phần còn lại sẽ bị bỏ lại trong vùng hoang dã.</li>
+    <li>animistFact(tag=meme_Rancher)     ->Động vật của tự nhiên là linh hồn của nô lệ, và yêu cầu được đưa vào phục vụ.</li>
+    <li>ranchingAnimal(p=4)->[veneratedAnimal]</li>
+    <li>ranchingAnimal->[Animal]</li>
+    <li>rancherParent1->chăn cừu</li>
+    <li>rancherParent1->người chăn nuôi</li>
+    <li>rancherParent1->nhà sản xuất pho mát</li>
+    <li>rancherParent2->tay chăn bò</li>
+    <li>rancherParent2->nữ hoàng sữa</li>
+    <li>rancherParent2->người bán thịt</li>
+  </Rancher.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->ranch</li>
+    <li>memeAdjective->rural</li>
+    <li>memeAdjective->country</li>
+    <li>memeHyphenPrefix->ranch</li>
+    <li>memeConcept->ranching</li>
+    <li>memeLeaderNoun->rancher</li>
+    <li>memeLeaderNoun->hand</li>
+    <li>memeLeaderNoun->cowboy</li>
+    <li>memeLeaderNoun->herder</li>
+    <li>memeLeaderNoun->sheepdog</li>
+  -->
+  <Rancher.generalRules.rulesStrings>
+    <li>memeAdjective->trang trại chăn nuôi</li>
+    <li>memeAdjective->nông thôn</li>
+    <li>memeAdjective->quê hương</li>
+    <li>memeHyphenPrefix->trang trại</li>
+    <li>memeConcept->chăn nuôi gia súc</li>
+    <li>memeLeaderNoun->chủ trang trại</li>
+    <li>memeLeaderNoun->tay</li>
+    <li>memeLeaderNoun->cao bồi</li>
+    <li>memeLeaderNoun->người chăn gia súc</li>
+    <li>memeLeaderNoun->chó chăn cừu</li>
+  </Rancher.generalRules.rulesStrings>
+  <!-- EN: ranch -->
+  <Rancher.symbolPacks.0.adjective>chăn nuôi</Rancher.symbolPacks.0.adjective>
+  <!-- EN: Ranchism -->
+  <Rancher.symbolPacks.0.ideoName>Chủ nghĩa chăn nuôi</Rancher.symbolPacks.0.ideoName>
+  <!-- EN: rancher -->
+  <Rancher.symbolPacks.0.member>người chăn nuôi</Rancher.symbolPacks.0.member>
+  <!-- EN: ranching -->
+  <Rancher.symbolPacks.0.theme>chăn nuôi</Rancher.symbolPacks.0.theme>
+  <!-- EN: herdic -->
+  <Rancher.symbolPacks.1.adjective>chăn gia súc</Rancher.symbolPacks.1.adjective>
+  <!-- EN: Herdism -->
+  <Rancher.symbolPacks.1.ideoName>Chủ nghĩa chăn gia súc</Rancher.symbolPacks.1.ideoName>
+  <!-- EN: herder -->
+  <Rancher.symbolPacks.1.member>người chăn gia súc</Rancher.symbolPacks.1.member>
+  <!-- EN: herding -->
+  <Rancher.symbolPacks.1.theme>chăn gia súc</Rancher.symbolPacks.1.theme>
+  <!-- EN: pasturic -->
+  <Rancher.symbolPacks.2.adjective>quá khư</Rancher.symbolPacks.2.adjective>
+  <!-- EN: Pasturism -->
+  <Rancher.symbolPacks.2.ideoName>Chủ nghĩa quá khứ</Rancher.symbolPacks.2.ideoName>
+  <!-- EN: pasturist -->
+  <Rancher.symbolPacks.2.member>người chăn nuôi</Rancher.symbolPacks.2.member>
+  <!-- EN: pastures -->
+  <Rancher.symbolPacks.2.theme>đồng cỏ</Rancher.symbolPacks.2.theme>
+  
+  <!-- EN: transhumanist -->
+  <Transhumanist.label>nhà xuyên nhân học</Transhumanist.label>
+  <!-- EN: Human progress means merging with technology. -->
+  <Transhumanist.description>Tiến bộ của con người có nghĩa là hợp nhất với công nghệ</Transhumanist.description>
+  <!-- EN:
+    <li>creation(tag=meme_Transhumanist)        ->[deity0_name] granted us the knowledge of technology, that we may use it to improve and remake ourselves in [deity0_possessive] perfect image.</li>
+    <li>episode(uses=1,tag=meme_Transhumanist)  ->Human bio-engineers studied the works of [deity0_name], which pleased [deity0_objective].</li>
+    <li>intro(tag=meme_Transhumanist)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name] whispering to them through their machines.</li>
+    <li>conflict(tag=meme_Transhumanist)        ->A luddite [foeLeader] envied the enhanced progress of the [memberNamePlural], and [foeLeader_possessive] [foeSoldiers] destroyed their workshops with [place_personalWeapon]s.</li>
+    <li>founderJoin(tag=meme_Transhumanist)     ->A cunning [place_job] named [founderName] fashioned a sensor implant to warn the [memberNamePlural] of the approach of the [foeSoldiers].</li>
+    <li>victory(tag=meme_Transhumanist)         ->[founderName] received divine technological knowledge from [deity0_name], and used it to enhance the bodies and minds of the [memberNamePlural] so they could defeat the [foeSoldiers].</li>
+    <li>setup(tag=meme_Transhumanist)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the bureaucratic restrictions of the common colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</li>
+    <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName] assembled a team of great scientists and inventors to re-define humanity.</li>
+    <li>lessonIntro(tag=meme_Transhumanist)         ->The oldest researcher in my division taught me the history of technology, from neolithic to archotech, but this was not his true lesson. He was really leading me to understand that</li>
+    <li>lesson(tag=meme_Transhumanist)              ->humanity's heavenly future is not a thing of meat and bone, but of silicon and exochrome</li>
+    <li>lessonReinforcement(tag=meme_Transhumanist) ->I even programmed a simulation to confirm it.</li>
+    <li>archistBasis(tag=meme_Transhumanist)    ->Humanity's pursuit of technology gave birth to the all-powerful archotechs as the rightful next step in the development of consciousness.</li>
+    <li>archistFact(tag=meme_Transhumanist)     ->Technology allows humans to be more like the archotechs.</li>
+    <li>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd], the archotechs will depart. Only those who are sufficiently augmented will be allowed to go with them.</li>
+    <li>animistBasis(tag=meme_Transhumanist)    ->The spirit world drives every action in the universe, and it is only by learning and controlling the laws of the universe that we can integrate with it.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->Like seeks like - build a device for a purpose and it will filled with a spirit of a like nature.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->When technology is fused with flesh, the spirits of both are combined and become more powerful.</li>
+    <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid] that one day the wielder of the [relic0_name] will summon its spirit who will teach humanity the ultimate bio-fusion technology.</li>
+  -->
+  <Transhumanist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Transhumanist)        ->[deity0_name] đã cấp cho chúng tôi kiến ​​thức về công nghệ để chúng tôi có thể sử dụng nó để cải thiện và thay đổi bản thân trong một hình ảnh hoàn hảo [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Transhumanist)  ->Các kỹ sư sinh học của con người đã nghiên cứu các công trình của [deity0_name], làm hài lòng [deity0_objective].</li>
+    <li>intro(tag=meme_Transhumanist)           ->Trên [place_summary] [place_name], các [memberNamePlural] tìm thấy những từ của [deity0_name] thì thầm với họ qua tai của họ.</li>
+    <li>conflict(tag=meme_Transhumanist)        ->Một người [foeLeader] ghen tị với sự tiến bộ công nghệ của [memberNamePlural], và [foeLeader_possessive] [foeSoldiers] phá hủy xưởng của họ với [place_personalWeapon].</li>
+    <li>founderJoin(tag=meme_Transhumanist)     ->Một kế hoạch [place_job] đặt tên [founderName] tạo ra một bộ cấy cảm biến để cảnh báo [memberNamePlural] cách tiếp cận của [foeSoldiers].</li>
+    <li>victory(tag=meme_Transhumanist)         ->[founderName] nhận được kiến ​​thức công nghệ thần thánh từ [deity0_name], và sử dụng nó để thay đổi cơ thể và tâm trí của [memberNamePlural] để họ có thể đánh bại [foeSoldiers].</li>
+    <li>setup(tag=meme_Transhumanist)           ->[founderName] là một nhà khoa học sinh học trong những ngày đầu của quá trình thực dân hóa hành tinh của loài người. Nhìn thấy những hạn chế quan liêu của các thuộc địa thông thường, [founder_pronoun] lấy một con tàu nhỏ để tìm thấy [founder_possessive] chuyển động riêng.</li>
+    <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName] tập hợp một nhóm các nhà khoa học và nhà phát minh vĩ đại để tái định nghĩa loài người.</li>
+    <li>lessonIntro(tag=meme_Transhumanist)         ->Nhà nghiên cứu lớn tuổi nhất trong bộ phận của tôi đã dạy tôi lịch sử công nghệ, từ thời đồ đá đến những công nghệ cao, nhưng đây không phải là bài học thực sự của ông ấy. Anh ấy đã thực sự dẫn dắt tôi hiểu điều đó</li>
+    <li>lesson(tag=meme_Transhumanist)              ->Tương lai của nhân loại không phải là một cơ thể bằng xương bằng thịt, mà là máy móc và công nghệ</li>
+    <li>lessonReinforcement(tag=meme_Transhumanist) ->Tôi thậm chí đã nghiên cứu một mô phỏng về nó để xác nhận nó.</li>
+    <li>archistBasis(tag=meme_Transhumanist)    ->Sự theo đuổi công nghệ của nhân loại đã sinh ra những công nghệ archotech toàn năng như một bước tiếp theo đúng đắn trong sự phát triển của con người.</li>
+    <li>archistFact(tag=meme_Transhumanist)     ->Công nghệ cho phép con người giống với công nghệ archotech hơn.</li>
+    <li>archistProphecy(tag=meme_Transhumanist) ->[inTheEnd], các archotechs sẽ khởi hành. Chỉ những người được thay đổi đầy đủ mới được phép đi cùng.</li>
+    <li>animistBasis(tag=meme_Transhumanist)    ->Thế giới điều khiển mọi hành động trong vũ trụ, và chỉ bằng cách học hỏi và kiểm soát các quy luật của vũ trụ, chúng ta mới có thể hòa nhập với nó.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->Giống như tìm kiếm giống như - chế tạo một thiết bị cho một mục đích và nó sẽ chứa đầy những kiến thức.</li>
+    <li>animistFact(tag=meme_Transhumanist)     ->Khi công nghệ được kết hợp với xác thịt, tâm trí của cả hai được kết hợp và trở nên mạnh mẽ hơn.</li>
+    <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid] một ngày nọ, người sử dụng [relic0_name] sẽ triệu tập kiến thức của nó, người sẽ dạy cho nhân loại công nghệ tổng hợp sinh học tối tân.</li>
+  </Transhumanist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->technological</li>
+    <li>memeAdjective->machine</li>
+    <li>memeAdjective->industrial</li>
+    <li>memeCreed->school</li>
+    <li>memeCreed->academy</li>
+    <li>memeCreed->university</li>
+    <li>memeCreed->philosophy</li>
+    <li>memeHyphenPrefix->techno</li>
+    <li>memeHyphenPrefix->cyber</li>
+    <li>memeHyphenPrefix->haxor</li>
+    <li>memeHyphenPrefix->wire</li>
+    <li>memeConcept->technology</li>
+    <li>memeConcept->silicon</li>
+    <li>memeConcept->artifice</li>
+    <li>memeConcept->augmentation</li>
+    <li>memeConcept->enhancement</li>
+    <li>memeLeaderNoun->haxor</li>
+    <li>memeLeaderNoun->superuser</li>
+    <li>memeLeaderNoun->booster</li>
+    <li>memeLeaderAdjective->techno</li>
+    <li>memeLeaderAdjective->cyber</li>
+    <li>memeMoralist->installer</li>
+    <li>memeMoralist->fixer</li>
+    <li>memeMoralist->uplifter</li>
+    <li>memeMoralist->technologist</li>
+  -->
+  <Transhumanist.generalRules.rulesStrings>
+    <li>memeAdjective->công nghệ</li>
+    <li>memeAdjective->máy móc</li>
+    <li>memeAdjective->công nghiệp</li>
+    <li>memeCreed->school</li>
+    <li>memeCreed->học viện</li>
+    <li>memeCreed->đại học</li>
+    <li>memeCreed->triết học</li>
+    <li>memeHyphenPrefix->kỹ thuật viên</li>
+    <li>memeHyphenPrefix->mạng</li>
+    <li>memeHyphenPrefix->haxor</li>
+    <li>memeHyphenPrefix->dây điện</li>
+    <li>memeConcept->công nghệ</li>
+    <li>memeConcept->silicon</li>
+    <li>memeConcept->kỹ xảo</li>
+    <li>memeConcept->tăng</li>
+    <li>memeConcept->nâng cao</li>
+    <li>memeLeaderNoun->haxor</li>
+    <li>memeLeaderNoun->siêu người dùng</li>
+    <li>memeLeaderNoun->tăng cường</li>
+    <li>memeLeaderAdjective->kỹ thuật viên</li>
+    <li>memeLeaderAdjective->mạng</li>
+    <li>memeMoralist->trình cài đặt</li>
+    <li>memeMoralist->sửa đổi</li>
+    <li>memeMoralist->nâng cao tinh thần</li>
+    <li>memeMoralist->nhà công nghệ</li>
+  </Transhumanist.generalRules.rulesStrings>
+  <!-- EN: technologistic -->
+  <Transhumanist.symbolPacks.0.adjective>công nghệ</Transhumanist.symbolPacks.0.adjective>
+  <!-- EN: Technologism -->
+  <Transhumanist.symbolPacks.0.ideoName>Chủ nghĩa công nghệ</Transhumanist.symbolPacks.0.ideoName>
+  <!-- EN: technologist -->
+  <Transhumanist.symbolPacks.0.member>công nghệ</Transhumanist.symbolPacks.0.member>
+  <!-- EN: technology -->
+  <Transhumanist.symbolPacks.0.theme>công nghệ</Transhumanist.symbolPacks.0.theme>
+  <!-- EN: progressist -->
+  <Transhumanist.symbolPacks.1.adjective>chủ nghĩa tiến bộ</Transhumanist.symbolPacks.1.adjective>
+  <!-- EN: Progressism -->
+  <Transhumanist.symbolPacks.1.ideoName>Tiến bộ</Transhumanist.symbolPacks.1.ideoName>
+  <!-- EN: progressor -->
+  <Transhumanist.symbolPacks.1.member>tiến bộ</Transhumanist.symbolPacks.1.member>
+  <!-- EN: progress -->
+  <Transhumanist.symbolPacks.1.theme>tiến bộ</Transhumanist.symbolPacks.1.theme>
+  <!-- EN: machinist -->
+  <Transhumanist.symbolPacks.2.adjective>máy móc</Transhumanist.symbolPacks.2.adjective>
+  <!-- EN: Machinism -->
+  <Transhumanist.symbolPacks.2.ideoName>Máy móc</Transhumanist.symbolPacks.2.ideoName>
+  <!-- EN: machinist -->
+  <Transhumanist.symbolPacks.2.member>máy móc</Transhumanist.symbolPacks.2.member>
+  <!-- EN: machinery -->
+  <Transhumanist.symbolPacks.2.theme>máy móc</Transhumanist.symbolPacks.2.theme>
+  <!-- EN: steelist -->
+  <Transhumanist.symbolPacks.3.adjective>thợ thép</Transhumanist.symbolPacks.3.adjective>
+  <!-- EN: Steelism -->
+  <Transhumanist.symbolPacks.3.ideoName>Thợ thép</Transhumanist.symbolPacks.3.ideoName>
+  <!-- EN: steeler -->
+  <Transhumanist.symbolPacks.3.member>thợ thép</Transhumanist.symbolPacks.3.member>
+  <!-- EN: steel -->
+  <Transhumanist.symbolPacks.3.theme>thép</Transhumanist.symbolPacks.3.theme>
+  <!-- EN: automatist -->
+  <Transhumanist.symbolPacks.4.adjective>tự động hóa</Transhumanist.symbolPacks.4.adjective>
+  <!-- EN: Automatism -->
+  <Transhumanist.symbolPacks.4.ideoName>Tự động hóa</Transhumanist.symbolPacks.4.ideoName>
+  <!-- EN: automator -->
+  <Transhumanist.symbolPacks.4.member>tự động hóa</Transhumanist.symbolPacks.4.member>
+  <!-- EN: automata -->
+  <Transhumanist.symbolPacks.4.theme>tự động hóa</Transhumanist.symbolPacks.4.theme>
+  <!-- EN: augmentist -->
+  <Transhumanist.symbolPacks.5.adjective>tăng cường</Transhumanist.symbolPacks.5.adjective>
+  <!-- EN: Augmentism -->
+  <Transhumanist.symbolPacks.5.ideoName>Tăng cường</Transhumanist.symbolPacks.5.ideoName>
+  <!-- EN: augmentor -->
+  <Transhumanist.symbolPacks.5.member>tăng cường</Transhumanist.symbolPacks.5.member>
+  <!-- EN: augmentation -->
+  <Transhumanist.symbolPacks.5.theme>tăng cường</Transhumanist.symbolPacks.5.theme>
+  
+  <!-- EN: tree connection -->
+  <TreeConnection.label>kết nối cây</TreeConnection.label>
+  <!-- EN: Trees are the essence of life, and we must be near them. -->
+  <TreeConnection.description>Cây cối là bản chất của cuộc sống, và chúng ta phải ở gần chúng</TreeConnection.description>
+  <!-- EN:
+    <li>creation(tag=meme_TreeConnection)        ->[deity0_name] rooted the trees firmly in the ground, yet made them grow steadily towards heaven. This is [deity0_name]'s first lesson on how to know [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]'s forests renew the air that [deity0_possessive] people breathe, and give the boughs under which they shelter, and is the larder in which they forage.</li>
+    <li>intro(tag=meme_TreeConnection)           ->When the original arborists first came to the [place_summary] [place_name], they created a sacred grove of [TreeType] where they could worship the [deity0_type] [deity0_name].</li>
+    <li>conflict(tag=meme_TreeConnection)        ->A greedy [foeLeader] felled many forests for [foeLeader_possessive] farms and factories, and the [memberNamePlural] wept for the murdered trees.</li>
+    <li>founderJoin(tag=meme_TreeConnection)     ->The prophet [founderName] was miraculously born from a tree in [place_name], and discovered by [founder_possessive] parents in the boughs of an old [TreeType] tree.</li>
+    <li>victory(tag=meme_TreeConnection)         ->[founderName] found the [foeLeader] sleeping in the [place_powerCenter], and placed an acorn upon the [foeLeader]'s chest. With [deity0_name]'s fierce power it rooted there, growing through [foeLeader_possessive] body, taking our revenge on the tree-killer.</li>
+    <li>setup(tag=meme_TreeConnection)           ->In a world lacking depth and meaning, [founderName] meditated in a forest, connecting with branch and root and leaf, and founded our movement.</li>
+    <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName] brought the tired to the forest so that they might rest in its shade, and breathe in its air, and be renewed.</li>
+    <li>lessonIntro(tag=meme_TreeConnection)         ->It might seem to you like a joke to say that I learnt this while sitting under a tree. But listening to its whispering leaves, I knew that</li>
+    <li>lesson(tag=meme_TreeConnection)              ->no entity in the universe knows more than the trees</li>
+    <li>lessonReinforcement(tag=meme_TreeConnection) ->Let this seed of truth grow and bear its fruit in your soul.</li>
+    <li>archistBasis(tag=meme_TreeConnection)    ->Trees symbolize the archotechs. Like an ancient oak they dwarf the small acorn from which they grew, and their influence spreads through unseen roots beneath the surface.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->The archotechs developed their psychic abilities after discovering the anima tree.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->The archotechs choose to express themselves through, of all things, a unique kind of tree.</li>
+    <li>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd], the archotechs will grow a great forest. Transcendence will grown within those that enter the forest and eat its fruit. Those that have forgotten the trees will be forgotten by the archotechs.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->The spirits of trees protect those abide beneath their branches.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->The spirits of trees are powerful, as they bridge the power of the air above with that of the ground beneath.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->If a tree falls in the forest, its spirit makes a sound that all other spirits can hear.</li>
+  -->
+  <TreeConnection.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_TreeConnection)        ->[deity0_name] cắm rễ cây vào đất chắc chắn, nhưng vẫn làm cho chúng phát triển vững chắc về phía trời. Đây là [deity0_name] bài học đầu tiên về cách biết [deity0_objective].</li>
+    <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name] những khu rừng làm mới không khí [deity0_possessive] cho con người hít thở, và cung cấp cho những cành cây mà họ trú ẩn, và là thức ăn để họ kiếm ăn.</li>
+    <li>intro(tag=meme_TreeConnection)           ->Khi những người trồng cây cổ thụ ban đầu lần đầu tiên đến [place_summary] [place_name], họ đã tạo ra một khu rừng thiêng liêng của [TreeType] nơi họ có thể tôn thờ [deity0_type] [deity0_name].</li>
+    <li>conflict(tag=meme_TreeConnection)        ->Một thứ tham lam [foeLeader] chặt nhiều khu rừng cho [foeLeader_possessive] trang trại và nhà máy, và [memberNamePlural] khóc cho những cái cây bị giết.</li>
+    <li>founderJoin(tag=meme_TreeConnection)     ->Nhà tiên tri [founderName] được sinh ra một cách kỳ diệu từ một cái cây ở [place_name], và được khám phá bởi [founder_possessive] cha mẹ trong cành của một cây [TreeType] cổ thụ.</li>
+    <li>victory(tag=meme_TreeConnection)         ->[founderName] đã tìm thấy cái [foeLeader] ngủ trong [place_powerCenter], và đặt một quả sồi trên [foeLeader] ngực của. Với [deity0_name] sức mạnh khốc liệt của nó bắt nguồn từ đó, phát triển qua [foeLeader_possessive] cơ thể, trả thù của chúng tôi đối với kẻ giết cây.</li>
+    <li>setup(tag=meme_TreeConnection)           ->Trong một thế giới thiếu chiều sâu và ý nghĩa, [founderName] thiền định trong một khu rừng, kết nối với cành, rễ và lá, và thành lập phong trào của chúng tôi.</li>
+    <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName] mang những người mệt mỏi đến khu rừng để họ có thể nghỉ ngơi trong bóng râm của nó, hít thở không khí của nó, và được tái tạo.</li>
+    <li>lessonIntro(tag=meme_TreeConnection)         ->Đối với bạn, có vẻ như một trò đùa khi nói rằng tôi đã học được điều này khi ngồi dưới gốc cây. Nhưng nghe tiếng lá rì rào của nó, tôi biết rằng</li>
+    <li>lesson(tag=meme_TreeConnection)              ->không có thực thể nào trong vũ trụ biết nhiều hơn những cái cây</li>
+    <li>lessonReinforcement(tag=meme_TreeConnection) ->Hãy để hạt giống chân lý này lớn lên và sinh hoa kết trái trong tâm hồn bạn.</li>
+    <li>archistBasis(tag=meme_TreeConnection)    ->Cây cối tượng trưng cho các archotechs. Giống như một cây sồi cổ thụ, chúng đi những quả sồi nhỏ mà chúng lớn lên, và ảnh hưởng của chúng lan rộng qua những bộ rễ không nhìn thấy bên dưới bề mặt.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->Các archotechs đã phát triển khả năng tâm linh của họ sau khi phát hiện ra cây anima.</li>
+    <li>archistFact(tag=meme_TreeConnection)     ->Các archotechs chọn thể hiện bản thân thông qua tất cả mọi thứ, một loại cây độc đáo.</li>
+    <li>archistProphecy(tag=meme_TreeConnection) ->[inTheEnd],archotechs sẽ phát triển một khu rừng tuyệt vời. Sự siêu việt sẽ phát triển bên trong những người vào rừng và ăn trái của nó. Những người đã quên cây cối sẽ bị lãng quên bởi các archotechs.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->Thần của cây cối bảo vệ những người ở bên dưới cành cây của chúng.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->Linh hồn của cây cối rất mạnh mẽ, vì chúng là cầu nối sức mạnh của không khí bên trên với sức mạnh của mặt đất bên dưới.</li>
+    <li>animistFact(tag=meme_TreeConnection)     ->Nếu một cái cây bị ngã trong rừng, linh hồn của nó sẽ phát ra âm thanh mà tất cả các linh hồn khác đều có thể nghe thấy.</li>
+  </TreeConnection.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeCreed->root</li>
+    <li>memeCreed->leaf</li>
+    <li>memeCreed->vine</li>
+    <li>memeCreed->glade</li>
+    <li>memeCreed->forest</li>
+    <li>memeConcept->trees</li>
+    <li>memeConcept->forests</li>
+    <li>memeAdjective->sturdy</li>
+    <li>memeAdjective->barky</li>
+    <li>memeHyphenPrefix->tree</li>
+    <li>memeHyphenPrefix->arbor</li>
+    <li>memeHyphenPrefix->twig</li>
+    <li>memeLeaderNoun->treekeeper</li>
+    <li>memeLeaderNoun->arborist</li>
+    <li>memeLeaderNoun->neodruid</li>
+    <li>memeLeaderAdjective->green</li>
+    <li>memeLeaderAdjective->root</li>
+    <li>memeLeaderAdjective->canopy</li>
+    <li>memeMoralist->treespeaker</li>
+  -->
+  <TreeConnection.generalRules.rulesStrings>
+    <li>memeCreed->rễ</li>
+    <li>memeCreed->lá</li>
+    <li>memeCreed->cây nho</li>
+    <li>memeCreed->rừng thưa</li>
+    <li>memeCreed->rừng</li>
+    <li>memeConcept->cây</li>
+    <li>memeConcept->rừng</li>
+    <li>memeAdjective->mạnh mẽ</li>
+    <li>memeAdjective->sủa</li>
+    <li>memeHyphenPrefix->cây</li>
+    <li>memeHyphenPrefix->cây cối</li>
+    <li>memeHyphenPrefix->cành cây</li>
+    <li>memeLeaderNoun->người quản lý cây</li>
+    <li>memeLeaderNoun->người trồng cây</li>
+    <li>memeLeaderNoun->neodruid</li>
+    <li>memeLeaderAdjective->xanh lá cây</li>
+    <li>memeLeaderAdjective->rễ</li>
+    <li>memeLeaderAdjective->tán lá</li>
+    <li>memeMoralist->đỉnh cây</li>
+  </TreeConnection.generalRules.rulesStrings>
+  
+  <!-- EN: tunneler -->
+  <Tunneler.label>người đào hầm</Tunneler.label>
+  <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
+  <Tunneler.description>Con người phải sống dưới lòng đất, và thưởng thức trái cây mọng nước dưới sâu</Tunneler.description>
+  <!-- EN:
+    <li>creation(tag=meme_Tunneler)        ->[deity0_name] was born under the earth at the center of the world. [deity0_pronoun] blessed those closest to [deity0_objective] in the deepest valleys and tunnels.</li>
+    <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name] filled the rocks with rich minerals and resources as a gift to those wise enough to dig down to be closer to [deity0_name].</li>
+    <li>intro(tag=meme_Tunneler)           ->When the first settlers came to the [place_summary] [place_name], the [deity0_type] [deity0_name] used a brutal solar flare to force them to live underground, so they could hear [deity0_possessive] wisdom in the stillness of the tunnels.</li>
+    <li>conflict(tag=meme_Tunneler)        ->A claustrophobic [foeLeader] proposed using [dangerousMining] to mine for minerals, putting the [memberNamePlural]' underground homes at risk.</li>
+    <li>founderJoin(tag=meme_Tunneler)     ->The prophet [founderName] was miraculously born from the stone of [place_name], and discovered when [founder_possessive] parents broke open a fungus-covered geode.</li>
+    <li>victory(tag=meme_Tunneler)         ->The [memberNamePlural] dug a tunnel under the [foeLeader]'s [place_powerCenter], and [founderName] used pheromones to summon giant insects which overran the [foeLeader]'s [foeSoldiers]. [founderName] dragged the [foeLeader] down to a deep dungeon and imprisoned [foeLeader_objective].</li>
+    <li>dangerousMining->strip mining</li>
+    <li>dangerousMining->microchipped insects</li>
+    <li>dangerousMining->nuclear blasting</li>
+    <li>setup(tag=meme_Tunneler)           ->In a shallow and meaningless world, [founderName] meditated in a deep cave and found meaning, and founded our movement.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName] hid treasures in deep caverns, so that [memberNamePlural] would learn to dig deep for them.</li>
+    <li>lessonIntro(tag=meme_Tunneler)         ->The codex I found in the City of the Deep taught me one lesson above all others:</li>
+    <li>lesson(tag=meme_Tunneler)              ->the sunny outdoors is not a place of human flourishing, but a place of human death</li>
+    <li>lessonReinforcement(tag=meme_Tunneler) ->So grab a shovel, and start digging with me. It's only a grave if we stop.</li>
+    <li>archistBasis(tag=meme_Tunneler)    ->The bodies of archotechs are deep underground, so their conscious substrate is safe from gamma rays and solar flares. Digging deeper brings people closer to them.</li>
+    <li>archistFact(tag=meme_Tunneler)     ->Archotechs bio-engineered nutrifungus for us so that humanity could thrive underground, close to buried archotech minds.</li>
+    <li>archistProphecy(tag=meme_Tunneler) ->[inTheEnd], archotechs will admit us to their subterranean heavens.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->The spirits in bedrock will protect those that visit them.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->The most noble spirits are those of the stone, and the deeper stones are stronger and more good than those above.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->Anxious humans make the spirits of the rocks anxious, and this summons the giant insects.</li>
+  -->
+  <Tunneler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Tunneler)        ->[deity0_name] được sinh ra dưới trái đất ở trung tâm của thế giới. [deity0_pronoun] ban phước cho những người gần gũi nhất [deity0_objective] trong những thung lũng và đường hầm sâu nhất.</li>
+    <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name] lấp đầy các tảng đá với các khoáng sản và tài nguyên phong phú như một món quà cho những người đủ khôn ngoan để đào xuống để được gần hơn [deity0_name].</li>
+    <li>intro(tag=meme_Tunneler)           ->Khi những người định cư đầu tiên đến [place_summary] [place_name], các [deity0_type] [deity0_name] đã sử dụng một ngọn lửa mặt trời tàn bạo để buộc họ phải sống dưới lòng đất, để họ có thể nghe thấy [deity0_possessive] sự khôn ngoan trong sự tĩnh lặng của đường hầm.</li>
+    <li>conflict(tag=meme_Tunneler)        ->Một sự ngột ngạt [foeLeader] đề xuất sử dụng [dangerousMining] khai thác khoáng sản, đưa [memberNamePlural] những ngôi nhà dưới lòng đất có nguy cơ.</li>
+    <li>founderJoin(tag=meme_Tunneler)     ->Nhà tiên tri [founderName] được sinh ra một cách kỳ diệu từ viên đá của [place_name],và được phát hiện khi [founder_possessive] cha mẹ của người đã phá vỡ một tảng đá lớn phủ đầy nấm.</li>
+    <li>victory(tag=meme_Tunneler)         ->Các [memberNamePlural] đào một đường hầm dưới [foeLeader] là [place_powerCenter], và [founderName] đã sử dụng pheromone để triệu hồi côn trùng khổng lồ vượt qua [foeLeader] là [foeSoldiers]. [founderName] kéo [foeLeader] xuống một ngục tối sâu và bị giam cầm [foeLeader_objective].</li>
+    <li>dangerousMining->khai thác</li>
+    <li>dangerousMining->côn trùng vi mạch</li>
+    <li>dangerousMining->vụ nổ hạt nhân</li>
+    <li>setup(tag=meme_Tunneler)           ->Trong một thế giới nông cạn và vô nghĩa, [founderName] thiền định trong một hang động sâu và tìm thấy ý nghĩa, và thành lập phong trào của chúng tôi.</li>
+    <li>story(uses=1,tag=meme_Tunneler)    ->[founderName] giấu kho báu trong hang sâu, vì vậy [memberNamePlural] sẽ học cách đào sâu về chúng.</li>
+    <li>lessonIntro(tag=meme_Tunneler)         ->Tôi tìm thấy ở Thành phố lòng đất đã dạy tôi một bài học hơn tất cả những người khác:</li>
+    <li>lesson(tag=meme_Tunneler)              ->ngoài trời đầy nắng không phải là nơi sinh sôi nảy nở của con người, mà là nơi chết chóc của con người</li>
+    <li>lessonReinforcement(tag=meme_Tunneler) ->Vì vậy, hãy lấy một cái xẻng, và bắt đầu đào cùng tôi. Nó chỉ là nấm mồ nếu chúng ta dừng lại.</li>
+    <li>archistBasis(tag=meme_Tunneler)    ->Cơ thể của archotechs nằm sâu dưới lòng đất, vì vậy chất nền có ý thức của chúng an toàn trước tia gamma và tia sáng mặt trời. Đào sâu hơn sẽ đưa mọi người đến gần họ hơn.</li>
+    <li>archistFact(tag=meme_Tunneler)     ->Nấm dinh dưỡng sinh học được chế tạo từ Archotechs cho chúng ta để nhân loại có thể phát triển dưới lòng đất, gần với những bộ óc archotech bị chôn vùi.</li>
+    <li>archistProphecy(tag=meme_Tunneler) ->[inTheEnd], archotechs sẽ kết nạp chúng ta vào thiên đường dưới lòng đất của họ.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->Các linh hồn trong nền đá sẽ bảo vệ những người đến thăm họ.</li>
+    <li>animistFact(tag=meme_Tunneler)     ->Những linh hồn cao quý nhất là của đá, và những viên đá sâu hơn thì mạnh hơn và tốt hơn những viên đá ở trên..</li>
+    <li>animistFact(tag=meme_Tunneler)     ->Con người lo lắng làm cho các linh hồn của tảng đá lo lắng, và điều này triệu tập những con côn trùng khổng lồ.</li>
+  </Tunneler.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeCreed->cave</li>
+    <li>memeCreed->bunker</li>
+    <li>memeCreed->shaft</li>
+    <li>memeAdjective->deep</li>
+    <li>memeHyphenPrefix->stone</li>
+    <li>memeHyphenPrefix->cave</li>
+    <li>memeHyphenPrefix->deep</li>
+    <li>memeHyphenPrefix->sub</li>
+    <li>memeHyphenPrefix->under</li>
+    <li>memeConcept->earth</li>
+    <li>memeConcept->stone</li>
+    <li>memeConcept->depth</li>
+    <li>memeConcept->burial</li>
+    <li>memeLeaderNoun->foredigger</li>
+    <li>memeLeaderNoun->deepsounder</li>
+    <li>memeLeaderNoun->shaft</li>
+    <li>memeLeaderAdjective->deep</li>
+    <li>memeMoralist->truthdigger</li>
+    <li>memeMoralist->thoughtdigger</li>
+    <li>memeMoralist->mindminer</li>
+  -->
+  <Tunneler.generalRules.rulesStrings>
+    <li>memeCreed->hang</li>
+    <li>memeCreed->hầm trú ẩn</li>
+    <li>memeCreed->trục</li>
+    <li>memeAdjective->sâu</li>
+    <li>memeHyphenPrefix->đá</li>
+    <li>memeHyphenPrefix->hang động</li>
+    <li>memeHyphenPrefix->sâu</li>
+    <li>memeHyphenPrefix->cho mượn trước</li>
+    <li>memeHyphenPrefix->dưới</li>
+    <li>memeConcept->trái đất</li>
+    <li>memeConcept->đá</li>
+    <li>memeConcept->chiều sâu</li>
+    <li>memeConcept->chôn cất</li>
+    <li>memeLeaderNoun->thợ đào trước</li>
+    <li>memeLeaderNoun->người nghe sâu</li>
+    <li>memeLeaderNoun->trục</li>
+    <li>memeLeaderAdjective->sâu</li>
+    <li>memeMoralist->chân lý</li>
+    <li>memeMoralist->người suy nghĩ</li>
+    <li>memeMoralist->người tư duy</li>
+  </Tunneler.generalRules.rulesStrings>
+  
+</LanguageData>

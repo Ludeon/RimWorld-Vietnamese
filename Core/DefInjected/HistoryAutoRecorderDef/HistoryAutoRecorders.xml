@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>phục hồi</Adaptation.label>
+  <Adaptation.graphLabelY>Ngày</Adaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0} ngày</Adaptation.valueFormat>
+  
+  <!-- EN: mood -->
+  <ColonistMood.label>tâm trạng</ColonistMood.label>
+  <ColonistMood.graphLabelY>Phần trăm</ColonistMood.graphLabelY>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>cư dân tự do</FreeColonists.label>
+  <FreeColonists.graphLabelY>Cư dân</FreeColonists.graphLabelY>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>pop hồi phục</PopAdaptation.label>
+  <PopAdaptation.graphLabelY>Ngày</PopAdaptation.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>0} ngày</PopAdaptation.valueFormat>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>pop ý định x10</PopIntent.label>
+  <PopIntent.graphLabelY>Ngày</PopIntent.graphLabelY>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>0} ngày</PopIntent.valueFormat>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>tù nhân</Prisoners.label>
+  <Prisoners.graphLabelY>Tù nhân</Prisoners.graphLabelY>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>điểm giải trí /10</ThreatPoints.label>
+  <ThreatPoints.graphLabelY>Điểm</ThreatPoints.graphLabelY>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>0} điểm</ThreatPoints.valueFormat>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>độ giàu (kiến trúc)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Tổng</Wealth_Buildings.graphLabelY>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>độ giàu (vật phẩm)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Tổng</Wealth_Items.graphLabelY>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>độ giàu (sinh vật)</Wealth_Pawns.label>
+  <Wealth_Pawns.graphLabelY>Tổng</Wealth_Pawns.graphLabelY>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>độ giàu (tổng)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Tổng</Wealth_Total.graphLabelY>
+  
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>bossDefeatedLetterLabel->[escortees0_label] defeated: [reward_label]</li>
+    <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText->[defeated][manufacture]</li>
+    <li>defeated->The hostile [escortees0_label] has been defeated and has dropped a [reward_label]!</li>
+    <li>manufacture->\n\nThe chip can also be used to create more advanced mechanoids.</li>
+    <li>study->\n\nYou can study the [reward_label] by selecting a mechanitor and right-clicking the chip. Studying a [reward_label] helps unlock higher tiers of mechtech research.</li>
+  -->
+  <Bossgroup.questContentRules.rulesStrings>
+    <li>bossDefeatedLetterLabel->[escortees0_label] bị đánh bại: [reward_label]</li>
+    <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText->[defeated][manufacture]</li>
+    <li>defeated->Kẻ địch [escortees0_label] đã bị đánh bại và đánh rơi [reward_label]!</li>
+    <li>manufacture->\n\nCon chip này cũng có thể được sử dụng để tạo ra các mechanoids cao cấp hơn.</li>
+    <li>study->\n\nBạn có thể điều tra [reward_label] bằng cách chọn một mechanitor và nhấp chuột phải vào con chip. Nghiên cứu [reward_label] mở khóa cấp độ cao hơn của nghiên cứu mechtech.</li>
+  </Bossgroup.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->bossgroup</li>
+  -->
+  <Bossgroup.questDescriptionRules.rulesStrings>
+    <li>questDescription->nhóm lãnh đạo</li>
+  </Bossgroup.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->bossgroup</li>
+  -->
+  <Bossgroup.questNameRules.rulesStrings>
+    <li>questName->nhóm lãnh đạo</li>
+  </Bossgroup.questNameRules.rulesStrings>
+  
+</LanguageData>

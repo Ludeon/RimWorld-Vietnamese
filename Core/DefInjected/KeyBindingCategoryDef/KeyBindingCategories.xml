@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>kiến trúc sư</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>Điều khiển sử dụng chung cho menu chế độ kiến trúc sư.</Architect.description>
+  
+  <!-- EN: debug menu -->
+  <DebugMenu.label>menu gỡ lỗi</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>Các điều khiển được sử dụng trong menu gỡ lỗi. Chỉ hoạt động trong chế độ phát triển.</DebugMenu.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>công cụ phát triển</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>Kiểm soát cho các nhà phát triển và modder. Chỉ hoạt động trong chế độ phát triển.</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>trò chơi toàn cầu</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Điều khiển chế độ thuộc địa được áp dụng trong hầu hết các tình huống.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>camera</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>Điều khiển cho camera.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>các thẻ chính</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Điều khiển cho các thẻ chính.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>modifiers</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>Kiểm soát được sử dụng để sửa đổi các hành động khác.</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>linh tinh</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Các điều khiển chung được sử dụng lại bởi nhiều vật phẩm và đồ vật trong suốt trò chơi.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>đặc biệt</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Điều khiển đặc biệt dành riêng cho các chức năng cụ thể trên các đối tượng cụ thể.</SelectionSpecial.description>
+  
+</LanguageData>

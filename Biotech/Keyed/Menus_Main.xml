@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Babies always healthy -->
+  <Difficulty_BabiesAreHealthy_Label>Các bé luôn khỏe mạnh</Difficulty_BabiesAreHealthy_Label>
+  <!-- EN: Human babies are always born healthy. Mothers can't die in childbirth or have miscarriages. -->
+  <Difficulty_BabiesAreHealthy_Info>Trẻ sơ sinh của con người luôn được sinh ra khỏe mạnh. Người mẹ không thể chết khi sinh con hoặc sẩy thai.</Difficulty_BabiesAreHealthy_Info>
+  <!-- EN: Disable children -->
+  <Difficulty_NoBabiesOrChildren_Label>Trẻ em khuyết tật</Difficulty_NoBabiesOrChildren_Label>
+  <!-- EN: Humans can't become pregnant. Human babies and children will never appear unless you choose them as starting colonists. -->
+  <Difficulty_NoBabiesOrChildren_Info>Con người không thể mang thai. Trẻ sơ sinh và trẻ em của con người sẽ không bao giờ sinh ra trừ khi bạn chọn chúng là những người định cư đầu tiên của mình.</Difficulty_NoBabiesOrChildren_Info>
+  <!-- EN: Child aging rate -->
+  <Difficulty_ChildAgingRate_Label>Tỷ lệ già hóa trẻ em</Difficulty_ChildAgingRate_Label>
+  <!-- EN: Adjust the rate at which babies and children will age. Between ages 11 and 20, the child's aging rate will smoothly transition to the adult aging rate. -->
+  <Difficulty_ChildAgingRate_Info>Điều chỉnh tốc độ mà trẻ sơ sinh và trẻ em sẽ già đi.</Difficulty_ChildAgingRate_Info>
+  <!-- EN: Adult aging rate -->
+  <Difficulty_AdultAgingRate_Label>Tỷ lệ lão hóa ở người trưởng thành</Difficulty_AdultAgingRate_Label>
+  <!-- EN: Adjust the rate at which adults will age. -->
+  <Difficulty_AdultAgingRate_Info>Điều chỉnh tốc độ mà người lớn sẽ già đi.</Difficulty_AdultAgingRate_Info>
+  <!-- EN: Wastepack cocoon infestations -->
+  <Difficulty_WastepackInfestationChanceFactor_Label>Sự phá hoại của kén rác thải</Difficulty_WastepackInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that a dissolved wastepack will trigger the arrival of insect cocoons. -->
+  <Difficulty_WastepackInfestationChanceFactor_Info>Điều chỉnh cơ hội để một gói chất thải hòa tan sẽ kích hoạt sự xuất hiện của kén côn trùng.</Difficulty_WastepackInfestationChanceFactor_Info>
+  <!-- EN: Child raiders -->
+  <Difficulty_ChildRaidersAllowed_Label>Kẻ cướp trẻ em</Difficulty_ChildRaidersAllowed_Label>
+  <!-- EN: Hostile raids will sometimes include children. -->
+  <Difficulty_ChildRaidersAllowed_Info>Các cuộc đột kích thù địch đôi khi sẽ bao gồm cả trẻ em.</Difficulty_ChildRaidersAllowed_Info>
+
+  <!-- EN: Disabled because another setting prevents human birth. -->
+  <BabiesAreHealthyDisableReason>Bị vô hiệu hóa vì một cài đặt khác ngăn cản sự ra đời của con người.</BabiesAreHealthyDisableReason>
+
+  <!-- EN: Children -->
+  <DifficultyChildrenSection>TODO</DifficultyChildrenSection>
+
+  <!-- Create/review world -->
+  <!-- EN: Pollution -->
+  <PlanetPollution>Sự ô nhiễm</PlanetPollution>
+  
+</LanguageData>
