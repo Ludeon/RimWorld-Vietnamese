@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Character tab -->
+  <!-- EN: {PAWN_labelShort} currently has the title {TITLE}, awarded by {FACTION_name}. -->
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} hiện có tước hiệu {TITLE}, được trao bởi {FACTION_name}.</RoyalTitleTooltipHasTitle>
+  <!-- EN: {PAWN_labelShort} will demand that this title's privileges be fully respected. -->
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} ép buộc các đặc quyền của tước hiệu phải được thực hiện đầy đủ.</RoyalTitleTooltipConceited>
+  <!-- EN: {PAWN_labelShort} is flexible about this title's privileges. -->
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} khá dễ tính trong việc yêu cầu thực hiện các đặc quyền của tước hiệu này.</RoyalTitleTooltipNonConceited>
+  <!-- EN: Next title -->
+  <RoyalTitleTooltipNextTitle>Tước hiệu tiếp theo</RoyalTitleTooltipNextTitle>
+  <!-- EN: costs {0} {FACTION_royalFavorLabel} -->
+  <RoyalTitleTooltipNextTitleFavorCost>mất {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <!-- EN: No more earnable titles on this planet. -->
+  <RoyalTitleTooltipFinalTitle>Không còn có tước hiệu có thể nhận trên hành tinh này.</RoyalTitleTooltipFinalTitle>
+  <!-- EN: If {PAWN_nameDef} dies, {HEIR_nameFull} is designated to inherit {PAWN_possessive} title. -->
+  <RoyalTitleTooltipInheritance>Nếu {PAWN_nameDef} chết, {HEIR_nameFull} được chỉ định để kế thừa tước hiệu {PAWN_possessive}.</RoyalTitleTooltipInheritance>
+  <!-- EN: {HEIR_nameFull} is not a member of any faction. -->
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} không phải là thành viên của bất kỳ phe phái nào.</RoyalTitleTooltipHeirNoFaction>
+  <!-- EN: {HEIR_nameFull} is a member of {FACTION_name}. -->
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} là thành viên của {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
+  <!-- EN: No one is designated to inherit {PAWN_nameDef}'s title. If {PAWN_pronoun} dies, the title will be lost. -->
+  <RoyalTitleTooltipNoHeir>Không ai được chỉ định kế thừa tước vụ của {PAWN_nameDef}. Nếu {PAWN_pronoun} chết, tươc vụ sẽ bị mất.</RoyalTitleTooltipNoHeir>
+  <!-- EN: Earnable titles of {FACTION_name} -->
+  <RoyalTitleTooltipTitlesEarnable>Các tước vụ có thể kiếm được của {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
+  <!-- EN: Other titles of {FACTION_name} -->
+  <RoyalTitleTooltipTitlesNonEarnable>Các tước vụ khác của {FACTION_name}</RoyalTitleTooltipTitlesNonEarnable>
+  <!-- EN: {0} {1} -->
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <!-- EN: {0} total -->
+  <RoyalTitleTooltipRoyalFavorTotal>Tổng cộng {0}</RoyalTitleTooltipRoyalFavorTotal>
+
+  <!-- EN: {0} title -->
+  <RecruitmentResistanceRoyalTitleOffset>{0} tước hiệu</RecruitmentResistanceRoyalTitleOffset>
+  
+  <!-- Permits tab -->
+  <!-- EN: Permits -->
+  <TabPermits>Quyền hạn</TabPermits>
+  <!-- EN: Permits from {FACTION_name} -->
+  <PermitsFromFaction>Quyền hạn từ {FACTION_name}</PermitsFromFaction>
+  <!-- EN: Current title -->
+  <CurrentTitle>Danh hiệu hiện tại</CurrentTitle>
+  <!-- EN: Unused permit points -->
+  <UnusedPermits>Điểm chưa dùng</UnusedPermits>
+  <!-- EN: Return all permits -->
+  <ReturnAllPermits>Khôi phục mọi quyền hạn</ReturnAllPermits>
+  <!-- EN: {PAWN_nameDef} has no permits to return. -->
+  <NoPermitsToReturn>{PAWN_nameDef} không có quyền hạn gì để khôi phục.</NoPermitsToReturn>
+  <!-- EN: Returning permits requires {FAVORCOST} {FAVOR} but {PAWN_nameDef} only has {CURFAVOR}. -->
+  <NotEnoughFavor>Khôi phục quyền hạn yêu cầu {FAVORCOST} {FAVOR} nhưng {PAWN_nameDef} chỉ có {CURFAVOR}.</NotEnoughFavor>
+  <!-- EN: Return all previously-chosen permits for this faction. You will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}. -->
+  <ReturnAllPermits_Desc>Khôi phục tất cả quyền hạn đã chọn trước đó cho phe phái này. Bạn sẽ lấy lại tất cả số điểm quyền hạn đã dùng và có thể sử dụng lại.\n\nHành động này tốn {BASEFAVORCOST} {FAVOR}, cộng với chi phí đặt lại của mọi quyền hạn hiện đang trong thời gian hồi. Tổng chi phí bây giờ là {FAVORCOST}.</ReturnAllPermits_Desc>
+  <!-- EN: Return all previously-chosen permits for {FACTION_name}?\n\nYou will regain all the spent permit points and be able to spend them again.\n\nThis action costs {BASEFAVORCOST} {FAVOR}, plus the reset cost of any permits currently on cooldown. The total cost now is {FAVORCOST}. -->
+  <ReturnAllPermits_Confirm>Khôi phục tất cả quyền hạn đã chọn trước đó cho {FACTION_name}?\n\nBạn sẽ lấy lại tất cả số điểm quyền hạn đã sử dụng và có thể sử dụng lại.\n\nHành động này tốn {BASEFAVORCOST} {FAVOR}, cộng với chi phí đặt lại của bất kỳ quyền hạn nào hiện đang trong thời gian hồi. Tổng chi phí bây giờ là {FAVORCOST}.</ReturnAllPermits_Confirm>
+  <!-- EN: Switch faction -->
+  <SwitchFaction_Desc>Chuyển phe</SwitchFaction_Desc>
+  <!-- EN: Accept permit -->
+  <AcceptPermit>Chấp nhận quyền</AcceptPermit>
+  <!-- EN: Requires title: {0} -->
+  <RequiresTitle>Yêu cầu danh hiệu: {0}</RequiresTitle>
+  <!-- EN: Upgrade from: {0} -->
+  <UpgradeFrom>Nâng cấp từ: {0}</UpgradeFrom>
+  <!-- EN: Cooldown -->
+  <Cooldown>Chờ</Cooldown>
+  <!-- EN: {HONOR} cost if used during cooldown -->
+  <CooldownUseFavorCost>{HONOR} chi phí nếu sử dụng trong thời gian chờ hồi</CooldownUseFavorCost>
+  
+</LanguageData>

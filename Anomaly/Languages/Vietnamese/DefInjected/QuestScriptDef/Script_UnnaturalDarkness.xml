@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN:
+  <li>initialPhaseLetterLabel->Dimming sky</li>
+  <li>initialPhaseLetterText->The sky is dimming. Soon it will be hard to see anything that isn't directly lit by lamps or torches.\n\nBuild well-lit areas to survive. Craft disruptor flare packs to explore the darkness.</li>
+  <li>mainPhaseLetterLabel->Unnatural darkness</li>
+  <li>mainPhaseLetterText->An unnatural darkness is descending. Inhuman things move just outside the light.\n\nPillars of jagged, oily metal are falling from the sky. They are terrible to look upon but surely contain valuable technology. Reach them by building well-lit paths - and destroy them to end this nightmare.\n\nAlternatively, if you can survive long enough, the darkness will dissipate on its own.</li>
+  <li>darknessLiftedLetterLabel->Darkness lifting</li>
+  <li>darknessLiftedLetterText->The unnatural darkness has begun to dissipate. The metallic pillars have somehow folded into themselves and vanished. You survived!</li>
+-->
+<UnnaturalDarkness.questContentRules.rulesStrings>
+  <li>initialPhaseLetterLabel->Bầu trời mờ dần</li>
+  <li>initialPhaseLetterText->Bầu trời đang mờ dần. Sẽ sớm khó nhìn thấy mọi thứ không được chiếu sáng trực tiếp bởi đèn hoặc đuốc.\n\nXây dựng những khu vực được chiếu sáng tốt để sống sót. Chế tạo các gói đèn phá sóng để khám phá bóng tối.</li>
+  <li>mainPhaseLetterLabel->Bóng tối bất thường</li>
+  <li>mainPhaseLetterText->Một bóng tối bất thường đang bao trùm. Những sinh vật không phải con người đang di chuyển ngay ngoài ánh sáng.\n\nNhững cột kim loại sắc nhọn, dầu nhớt đang rơi từ trên trời. Chúng rất đáng sợ để nhìn vào nhưng chắc chắn chứa công nghệ quý giá. Đạt được chúng bằng cách xây dựng những con đường được chiếu sáng tốt - và phá hủy chúng để kết thúc cơn ác mộng này.\n\nNgoài ra, nếu bạn có thể sống sót lâu hơn, bóng tối sẽ tự tan biến.</li>
+  <li>darknessLiftedLetterLabel->Bóng tối dần tan</li>
+  <li>darknessLiftedLetterText->Bóng tối bất thường đã bắt đầu tan biến. Những cột kim loại đã bằng cách nào đó gập vào chính mình và biến mất. Bạn đã sống sót!</li>
+</UnnaturalDarkness.questContentRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <UnnaturalDarkness.questDescriptionRules.rulesStrings>
+    <li>questDescription-></li>
+  </UnnaturalDarkness.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->unnatural darkness</li>
+  -->
+  <UnnaturalDarkness.questNameRules.rulesStrings>
+    <li>questDescription->Bóng tối bất thường</li>
+  </UnnaturalDarkness.questNameRules.rulesStrings>
+  
+  
+</LanguageData>

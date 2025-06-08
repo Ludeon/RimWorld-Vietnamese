@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kibble -->
+  <Kibble.label>thức ăn gia súc</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>Thức ăn ở dạng hạt nhỏ giành cho thú nuôi làm từ thịt và rau củ. Con người có thể ăn nhưng họ cực kì, cực kì ghét nó.</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>suất ăn ngon</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>Được nấu từ thịt và rau củ, khẩu vị khá ngon (+5 điểm tâm trạng).</MealFine.description>
+  
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>suất ăn ngon không rau</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>Một món ăn phức tạp được chế biến cẩn thận từ các nguyên liệu thịt.</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>suất ăn chay ngon</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>Một món ăn phức tạp được chế biến cẩn thận từ các nguyên liệu chay.</MealFine_Veg.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>suất ăn xa hoa</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Một kiệt tác nghệ thuật của ẩm thực, bữa ăn này làm thỏa mãn cả cơ thể lẫn tinh thần của người ăn.</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>suất ăn xa hoa không rau</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>Một kiệt tác nghệ thuật của ẩm thực, bữa ăn này làm thỏa mãn cả cơ thể lẫn tinh thần của người ăn.</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>suất ăn chay xa hoa</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>Một kiệt tác nghệ thuật của ẩm thực, bữa ăn này làm thỏa mãn cả cơ thể lẫn tinh thần của người ăn.</MealLavish_Veg.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>thức ăn hỗn hợp</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>Hỗn hợp gồm prô-tê-in, các-bon hi-đờ-rát, vi-ta-min, a-xít a-mi-nô, khoáng chất,... mọi thứ mà cơ thể cần để duy trì sự sống. Hỗn hợp được tạo ra từ việc xay nhuyễn thực phẩm thô (thịt, rau củ, quả,...) và mùi vị thì vô cùng kinh tởm.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>suất ăn đơn giản</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>Một bữa ăn đơn giản được nấu nhanh chóng từ một thành phần chính.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>suất ăn dã chiến</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Thức ăn chất lượng cao được đóng thành hộp dành cho mục đích du lịch, di chuyển đường dài,... Tuy nó không bao giờ bị ôi thiu nhưng nếu để ngoài trời nó vẫn có thể bị hư hại qua ngày.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>lương khô</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>Thức ăn được sấy khô để bảo quản được lâu hơn. Không có vị gì hết. Tồn tại rất lâu trước khi bị ôi thiu. Thích hợp đem theo lữ đoàn.</Pemmican.description>
+  
+</LanguageData>

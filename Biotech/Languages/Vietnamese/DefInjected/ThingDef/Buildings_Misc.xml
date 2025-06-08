@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: band node -->
+  <BandNode.label>band node</BandNode.label>
+  <!-- EN: A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 1 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer. -->
+  <BandNode.description>Bộ khuếch đại tín hiệu băng tần mechanoid. Các nút băng tần phải được điều chỉnh theo một mechanitor cụ thể. Điều này sẽ thêm 1 băng thông vào tổng băng thông của mechanitor đó, cho phép họ kiểm soát nhiều mechanoids hơn.\n\nKhi một band node được xây dựng, nó có thể nhanh chóng được điều chỉnh thành một mechanitor. Tuy nhiên, việc điều chỉnh lại một band node sang một mechanitor khác mất nhiều thời gian hơn.</BandNode.description>
+  
+  <!-- EN: mechband antenna -->
+  <BurnoutMechlinkBooster.label>ăng ten tần số vô tuyến</BurnoutMechlinkBooster.label>
+  <!-- EN: A mech-band signaling device. When activated, it puts out a powerful mech signal pulse, which will attract an ultra-heavy feral mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the transmitter, so this building can only be used once. -->
+  <BurnoutMechlinkBooster.description>Một thiết bị liên lạc băng tần cơ học. Khi được kích hoạt, nó phát ra một xung tín hiệu mech mạnh mẽ, sẽ thu hút một mechanoid hoang dã cực nặng tấn công cùng với những người hộ tống của nó. Nếu bạn có thể đánh bại nó, bạn có thể thu thập các công nghệ đặc biệt từ xác chết của nó. Xung tín hiệu làm cháy máy phát, vì vậy tòa nhà này chỉ có thể được sử dụng một lần.</BurnoutMechlinkBooster.description>
+  <!-- EN: Summon warqueen threat -->
+  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>Triệu hồi nữ hoàng chiến tranh</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  
+  <!-- EN: gene assembler -->
+  <GeneAssembler.label>Trình biên dịch gen</GeneAssembler.label>
+  <!-- EN: A workbench for creating implantable xenogerms from genepacks stored in nearby gene banks. Genepacks are not consumed in this process and can be reused. -->
+  <GeneAssembler.description>Một bàn làm việc có thể trộn các bộ gen được lưu trữ trong các ngân hàng gen được kết nối và sử dụng chúng để tạo ra các phôi không đồng nhất có thể cấy ghép. Bộ gen không bị tiêu hao trong quá trình này và có thể được tái sử dụng.</GeneAssembler.description>
+  
+  <!-- EN: gene bank -->
+  <GeneBank.label>ngân hàng dữ liệu gen</GeneBank.label>
+  <!-- EN: This building can store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
+  <GeneBank.description>Tòa nhà này có thể lưu trữ các bộ gen và làm cho chúng có thể sử dụng được để tạo ra các dị chủng mới, khi được đặt gần một bộ lắp ráp gen. Thư viện gen lớn cần nhiều ngân hàng gen.\n\nKhi được cung cấp năng lượng, các ngân hàng gen ngăn không cho các bộ gen xuống cấp và sẽ từ từ sửa chữa sự xuống cấp.</GeneBank.description>
+  
+  <!-- EN: gene extractor -->
+  <GeneExtractor.label>máy trích xuất gen</GeneExtractor.label>
+  <!-- EN: An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted. -->
+  <GeneExtractor.description>Một thiết bị lấy gen của một người và tạo ra chúng dưới dạng bộ gen. Các gen được tách chiết sẽ được chọn ngẫu nhiên từ các gen dị hợp và phả hệ. Bạn có thể buộc ai đó vào máy, nhưng họ sẽ không thích hành vi đó.\n\nTrích xuất gen trong khi một người đang trải qua quá trình tái lập trình gen có thể dẫn đến cái chết của họ. Ngoài ra, việc trích xuất gen thông thường sẽ không gây ra tổn thương vĩnh viễn.\n\nKhông thể trích xuất gen được tạo ra bởi viên nang phi thường vì nó quá phức tạp.</GeneExtractor.description>
+  
+<!-- EN: gene processor -->
+<GeneProcessor.label>bộ xử lý gen</GeneProcessor.label>
+<!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
+<GeneProcessor.description>Một hệ thống phân tích và xử lý di truyền. Được đặt gần trình biên dịch gen, nó làm tăng độ phức tạp di truyền tối đa của các dị chủng mà bạn có thể lắp ráp. Xây dựng nhiều bộ xử lý gen sẽ làm tăng thêm giới hạn phức tạp của gen.</GeneProcessor.description>
+<!-- EN: Gene complexity increase -->
+<GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>Tăng độ phức tạp di truyền</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+
+  <!-- EN: growth vat -->
+  <GrowthVat.label>cabin tăng trưởng</GrowthVat.label>
+  <!-- EN: A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors. -->
+  <GrowthVat.description>Một cabin chứa đầy dung dịch dinh dưỡng có thể được sử dụng để thụ tinh cho phôi hoặc thúc đẩy sự phát triển của trẻ em.\n\nTrong quá trình tăng tốc hoặc sinh sản thay thế, cabin phải được cung cấp chất dinh dưỡng liên tục để đáp ứng nhu cầu tăng trưởng. Phôi thai tiêu thụ gấp đôi chất dinh dưỡng so với những đứa trẻ được tăng tốc.\n\nPhôi được mang thai trong 9 ngày trước khi em bé được hình thành. Có nguy cơ biến chứng về sức khỏe.\n\nTrẻ em chỉ có thể được tăng tốc đến 18 tuổi bằng cabin nuôi dưỡng. Trong khi tăng tốc, mức độ kỹ năng của đứa trẻ tăng lên từ từ. Trẻ em được nuôi dưỡng trong cabin trẻ có trình độ kỹ năng thấp hơn và ít sở thích hơn so với trẻ em được nuôi dạy tự nhiên.\n\Thiết bị này sử dụng phương pháp tiêm hóa chất, kích thích điện và các phương pháp điều trị cơ học đơn giản để thúc đẩy cơ thể phát triển. Cabin tăng trưởng thường được sử dụng để chế tạo nhanh công nhân hoặc chiến binh</GrowthVat.description>
+  
+  <!-- EN: mechband dish -->
+  <MechbandDish.label>mechband dish</MechbandDish.label>
+  <!-- EN: A mech-band signaling device more powerful than the normal mechband antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
+  <MechbandDish.description>Một thiết bị liên lạc băng tần cơ học mạnh hơn ăng-ten tần số vô tuyến thông thường. Khi được kích hoạt, nó sẽ giải phóng một xung tần số cực mạnh, sẽ thu hút Chỉ huy Mech và người hộ tống của anh ta tấn công. Nếu đánh bại được nó, bạn có thể thu thập các thiết bị công nghệ đặc biệt từ đống đổ nát của nó. Xung tín hiệu sẽ làm cháy hết đĩa nên cơ cấu này chỉ sử dụng một lần.</MechbandDish.description>
+  <!-- EN: Summon apocriton threat -->
+  <MechbandDish.comps.CompUsable.useLabel>Triệu tập mối đe dọa apocriton</MechbandDish.comps.CompUsable.useLabel>
+  
+  <!-- EN: mech booster -->
+  <MechBooster.label>Dụng cụ ép xung cơ khí</MechBooster.label>
+  <!-- EN: A remote energy and computation enhancement device. Any friendly mechanoids in its effect radius will move and work faster. -->
+  <MechBooster.description>Một thiết bị tăng cường tính toán và năng lượng từ xa. Bất kỳ mechanoids thân thiện nào trong bán kính tác dụng của nó sẽ di chuyển và hoạt động nhanh hơn.</MechBooster.description>
+  
+  <!-- EN: pollution pump -->
+  <PollutionPump.label>Máy bơm nước thải</PollutionPump.label>
+  <!-- EN: A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
+  <PollutionPump.description>Một máy bơm lọc nước ngầm từ từ làm sạch các mảnh đất bị ô nhiễm. Ô nhiễm được chiết xuất được đóng gói dưới dạng chất thải độc hại phải được chứa và lưu trữ.</PollutionPump.description>
+  
+  <!-- EN: blood torch -->
+  <SanguphageMeetingTorch.label>ngọn đuốc máu</SanguphageMeetingTorch.label>
+  <!-- EN: A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat. -->
+  <SanguphageMeetingTorch.description>Một ngọn đuốc bằng gỗ được xử lý đặc biệt tạo ra ánh sáng đỏ trên một khu vực rộng lớn. Sanguophages tụ tập xung quanh những ngọn đuốc như thế này trong các cuộc họp nghi lễ của chúng. Ánh sáng lạc quan đặc biệt làm hài lòng những người có gen hút máu. Nó có thể được tiếp nhiên liệu tự động bằng gỗ và tạo ra một lượng nhiệt nhỏ.</SanguphageMeetingTorch.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed_Exitable.label>tàu con thoi bị rơi</ShuttleCrashed_Exitable.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed_Exitable.description>Tàu con thoi công nghệ vũ trụ được thiết kế để di chuyển giữa bề mặt và quỹ đạo, hoặc giữa các vệ tinh của một hệ hành tinh.</ShuttleCrashed_Exitable.description>
+  
+  <!-- EN: crashed mechanitor ship -->
+  <ShuttleCrashed_Exitable_Mechanitor.label>tàu mechanitor bị rơi</ShuttleCrashed_Exitable_Mechanitor.label>
+  <!-- EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
+  <ShuttleCrashed_Exitable_Mechanitor.description>Một con tàu tầm ngắn được sử dụng bởi mechanitor để vận chuyển mech cho quỹ đạo tầm thấp hoặc hành tinh.</ShuttleCrashed_Exitable_Mechanitor.description>
+  
+  <!-- EN: toxifier generator -->
+  <ToxifierGenerator.label>máy phát điện gây ô nhiễm</ToxifierGenerator.label>
+  <!-- EN: This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down. -->
+  <ToxifierGenerator.description>Máy phát điện này gây ô nhiễm địa hình rất chậm trong bán kính xung quanh nó trong khi tạo ra năng lượng. Nếu tất cả các ô trong bán kính bị ô nhiễm, máy phát điện sẽ ngừng hoạt động.</ToxifierGenerator.description>
+  
+<!-- EN: IED tox trap -->
+<TrapIED_ToxGas.label>Bẫy khí độc tự chế</TrapIED_ToxGas.label>
+<!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+<TrapIED_ToxGas.description>Một cặp vỏ bom khí độc được kết nối với một cò kích nổ khi chạm vào hoặc bị bắn trúng. Vì nó được ẩn trong địa hình xung quanh nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận được bẫy này khi chúng bình tĩnh.</TrapIED_ToxGas.description>
+  <!-- EN: wastepack atomizer -->
+  <WastepackAtomizer.label>Máy hủy rác</WastepackAtomizer.label>
+  <!-- EN: A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power. -->
+  <WastepackAtomizer.description>Một thiết bị công nghệ cao phân hủy chất thải độc hại một cách an toàn ở cấp độ phân tử và xúc tác nó thành khí thải khí trơ. Nó cần tiêu thụ rất nhiều điện năng trong quá trình làm việc.</WastepackAtomizer.description>
+  
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Reading management -->
+  <!-- EN: {0} max mental break chance -->
+  <MaxMentalBreakChance>Tỷ lệ suy sụp tinh thần tối đa {0}</MaxMentalBreakChance>
+  <!-- EN: Tomes -->
+  <TomePolicy>Sách cổ</TomePolicy>
+
+  <!-- Caravan -->
+  <!-- EN: Entities -->
+  <EntitiesSection>Thực thể</EntitiesSection>
+  
+  <!-- Hidden items filter -->
+  <!-- EN: Undiscovered -->
+  <UndiscoveredItemLabel>Chưa khám phá</UndiscoveredItemLabel>
+  <!-- EN: This item has not been discovered yet. -->
+  <UndiscoveredItemDesc>Vật phẩm này chưa được khám phá.</UndiscoveredItemDesc>
+
+  <!-- Medical settings -->
+  <!-- EN: Entities -->
+  <MedGroupEntities>Thực thể dị thường</MedGroupEntities>
+  <!-- EN: Anomalous entities and their variations. -->
+  <MedGroupEntitiesDesc>Các thực thể dị thường và biến thể của chúng.</MedGroupEntitiesDesc>
+
+  <!-- EN: Ghouls -->
+  <MedGroupGhouls>Ngạ quỷ</MedGroupGhouls>
+  <!-- EN: Ghouls belonging to your colony. -->
+  <MedGroupGhoulsDesc>Các Ngạ quỷ thuộc căn cứ của bạn.</MedGroupGhoulsDesc>
+
+  <!-- EN: Turning {PAWN_nameDef} into a ghoul is irreversible. {PAWN_pronoun} will be left in a half-conscious stupor and be incapable of work.\n\nAre you sure you want to turn {PAWN_nameDef} into a ghoul? -->
+  <GhoulConfirmation>Biến đổi {PAWN_pronoun} thành Ngạ quỷ là không thể đảo ngược. {PAWN_nameDef} sẽ rơi vào trạng thái nửa tỉnh nửa mê và mất khả năng làm việc.\n\nBạn chắc chắn muốn biến {PAWN_nameDef} thành Ngạ quỷ?</GhoulConfirmation>
+
+  <!-- EN: no anomaly buildings allowed -->
+  <RoomRequirementNoAnomalyBuildings>Không cho phép công trình dị thường</RoomRequirementNoAnomalyBuildings>
+
+  <!-- EN: Entity codex -->
+  <EntityCodex>Danh sách thực thể</EntityCodex>
+  <!-- EN: View all discovered entities. Discover new entities to advance the monolith and reveal new research projects. -->
+  <EntityCodexGizmoTip>Xem tất cả thực thể đã khám phá. Khám phá thực thể mới để nâng cấp khối đá hắc ám và mở khóa các dự án nghiên cứu mới.</EntityCodexGizmoTip>
+  <!-- EN: Research unlocks -->
+  <ResearchUnlocks>Mở khóa nghiên cứu</ResearchUnlocks>
+  <!-- EN: This page lists all known entities which are related to the dark void. Discover new entities using the “void provocation” psychic ritual. Discovering new entities reveals new research projects, and allows you to advance the void monolith. -->
+  <EntityCodexDesc>Trang này liệt kê tất cả thực thể được biết có liên quan đến hắc ám. Khám phá thực thể mới bằng nghi thức tâm linh "Khiêu khích hắc ám". Khám phá mở khóa dự án nghiên cứu mới, cho phép nâng cấp khối đá hắc ám.</EntityCodexDesc>
+  <!-- EN: Undiscovered entity -->
+  <UndiscoveredEntity>Thực thể chưa khám phá</UndiscoveredEntity>
+  <!-- EN: You have not discovered this entity. -->
+  <UndiscoveredEntityDesc>Bạn chưa khám phá thực thể này.</UndiscoveredEntityDesc>
+  <!-- EN: View entity codex -->
+  <ViewEntityCodex>Xem danh sách thực thể</ViewEntityCodex>
+
+</LanguageData>

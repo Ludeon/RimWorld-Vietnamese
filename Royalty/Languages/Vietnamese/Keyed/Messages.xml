@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Shuttle landing zones -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
+  <ShuttleBlocked>Tàu không thể hạ cánh: {0}.</ShuttleBlocked>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>Tàu đưa đón đã đến.</MessageShuttleArrived>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost>Tàu đưa đón đã đến, nhưng vì không có người khai hoang bên trong nên đồ đạc bị thất lạc.</MessageShuttleArrivedContentsLost>
+  <!-- EN: Cannot call shuttle -->
+  <CannotCallShuttle>Không thể gọi tàu đưa đón</CannotCallShuttle>
+
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged>Không thể hạ cánh ở khu vực chưa được khám phá.</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable>Khu vực phải có thể đi bộ được.</ShuttleCannotLand_Unwalkable>
+
+  <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
+  <MessageBestowerWaiting>Chọn {BESTOWER_definite} và nhấp vào 'Bắt đầu nghi lễ trao tặng' để bắt đầu buổi lễ.</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable>Không thể đạt được người ban tặng!</MessageBestowerUnreachable>
+  <!-- EN: {0} is busy. -->
+  <MessageBestowingTargetIsBusy>{0} đang bận.</MessageBestowingTargetIsBusy>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable>Người ban tặng khó chịu với sự can thiệp và đã quyết định rời đi.</MessageBestowingSpotUnreachable>
+  <!-- EN: The bestower is leaving due to life-threatening danger. -->
+  <MessageBestowingDanger>Người ban tặng đang rời đi do nguy hiểm đến tính mạng.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>Người ban tặng đang rời đi do nhiệt độ đe dọa đến tính mạng.</MessageBestowingDangerTemperature>
+  <!-- EN: The bestower is leaving due to dangerous gases in the area. -->
+  <MessageBestowingDangerGas>Người ban tặng đang rời đi do khí đe dọa tính mạng trong khu vực.</MessageBestowingDangerGas>
+  <!-- EN: The bestowing ceremony has been interrupted. -->
+  <MessageBestowingInterrupted>Buổi lễ trao tặng đã bị gián đoạn.</MessageBestowingInterrupted>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted>Lễ phong tặng của {PAWN_definite} đã bắt đầu.</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle>Bạn đã đánh bại {FACTION_pawnsPlural}! Quay trở lại tàu con thoi để khởi động nó.</MessageMissionGetBackToShuttle>
+
+  <!-- EN: {FACTION_name} has dropped resources nearby. -->
+  <MessagePermitTransportDrop>{FACTION_name} đã đánh rơi tài nguyên ở gần đó.</MessagePermitTransportDrop>
+  <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
+  <MessagePermitTransportDropCaravan>{FACTION_name} đã gửi tài nguyên đến đoàn lữ hành của {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+
+  <!-- EN: No orbiting mechanoids found. -->
+  <MessageNoFactionForVerbMechCluster>Không tìm thấy cơ khí quay quanh.</MessageNoFactionForVerbMechCluster>
+
+</LanguageData>

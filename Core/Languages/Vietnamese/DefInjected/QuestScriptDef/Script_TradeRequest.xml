@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items. The estimated travel time is [estimatedTravelTime_duration].</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>qualityInfo-></li>
+  -->
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->Một khu định cư gần đó, [settlement_label], có một yêu cầu giao dịch đặc biệt. Họ muốn mua:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](giá trị [requestedThingMarketValue_money])\n\nNếu bạn muốn thực hiện giao dịch, hãy gửi một đoàn lữ hành với các mặt hàng được yêu cầu. Thời gian di chuyển ước tính là [estimatedTravelTime_duration].</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->Chất lượng trên tiêu chuẩn</li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Caravan to [settlement_label]</li>
+    <li>questName->Trade with [settlement_label]</li>
+    <li>questName->Selling to [settlement_label]</li>
+    <li>questName->Supplies for [settlement_label]</li>
+    <li>questName->A [special] [trade]</li>
+    <li>special->Special</li>
+    <li>special->Unique</li>
+    <li>special->Non-traditional</li>
+    <li>trade->Trade</li>
+    <li>trade->Exchange</li>
+    <li>trade->Deal</li>
+    <li>trade->Offer</li>
+  -->
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->Đoàn lữ hành đến [settlement_label]</li>
+    <li>questName->Giao dịch với [settlement_label]</li>
+    <li>questName->Buôn bán với [settlement_label]</li>
+    <li>questName->Cung cấp cho [settlement_label]</li>
+    <li>questName->[trade] [special]</li>
+    <li>special->đặc biệt</li>
+    <li>special->hiếm</li>
+    <li>special->đổi mới</li>
+    <li>trade->Buôn bán</li>
+    <li>trade->Trao đổi</li>
+    <li>trade->Phân phối</li>
+    <li>trade->Cung cấp</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <!-- EN: [faction_name] became hostile to you. -->
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] trở nên thù địch với bạn.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Ai đó nên có với [asker_faction_royalFavorLabel] để thực hiện yêu cầu giao dịch?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: count-down activator -->
+  <ActivatorCountdown.label>bộ kích hoạt đếm ngược</ActivatorCountdown.label>
+  <!-- EN: A timed mechanoid activation unit. After counting down, it will wake nearby dormant mechanoids and structures. -->
+  <ActivatorCountdown.description>Một đơn vị kích hoạt cơ khí định thời gian. Sau khi đếm ngược, nó sẽ đánh thức các cơ chế và cấu trúc không hoạt động gần đó.</ActivatorCountdown.description>
+  
+  <!-- EN: proximity activator -->
+  <ActivatorProximity.label>trình kích hoạt tiệm cận</ActivatorProximity.label>
+  <!-- EN: A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will awaken any nearby dormant mechanoids or structures. -->
+  <ActivatorProximity.description>Báo động khoảng cách gần cho các cơ khí không hoạt động. Nếu nó phát hiện ra một mối đe dọa giống con người ở gần đó, nó sẽ đánh thức bất kỳ cơ chế hoặc cấu trúc không hoạt động nào ở gần đó.</ActivatorProximity.description>
+  
+</LanguageData>

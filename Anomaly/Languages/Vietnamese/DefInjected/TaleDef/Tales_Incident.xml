@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: death pall -->
+<DeathPall.label>Áo choàng tử thần</DeathPall.label>
+<!-- EN:
+    <li>tale_noun->[PAWN_nameDef] facing the encroaching death pall</li>
+    <li>image->[PAWN_nameFull] gazing in horror as the death pall blankets the land, resurrecting the dead [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] clutching [PAWN_possessive] weapon tightly, as the death pall descends, raising the dead [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trembling with unease, witnessing the arrival of the death pall, its influence giving life to the lifeless [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] watching in horror as the death pall envelops [PAWN_possessive] peaceful home, turning it into a battleground against the dead [circumstance_group]</li>
+    <li>circumstance_phrase->and drowning out [PAWN_possessive] desperate prayers for safety</li>
+    <li>circumstance_phrase->with the scent of decay and despair filling the air</li>
+    <li>circumstance_phrase->and trapping [PAWN_objective] in a horde of shamblers</li>
+    <li>desc_sentence->In the centre of the death pall, [PAWN_nameDef] prepares for battle.</li>
+    <li>desc_sentence->The encroachment of the death pall fills [PAWN_nameDef]'s friends with terror.</li>
+    <li>desc_sentence->Shivers run down [PAWN_nameDef]'s spine as the death pall's influence continues to spread.</li>
+    <li>desc_sentence->The weight of despair settles upon [PAWN_nameDef], testing [PAWN_possessive] resolve in the face of the macabre.</li>
+-->
+<DeathPall.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đối mặt với chiếc áo choàng tử thần đang lan rộng</li>
+    <li>image->[PAWN_nameFull] nhìn với sự kinh hoàng khi chiếc áo choàng tử thần bao phủ đất đai, hồi sinh những kẻ chết [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nắm chặt vũ khí của [PAWN_possessive] khi áo choàng tử thần hạ xuống, làm sống lại những kẻ chết [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] run rẩy với sự bất an, chứng kiến sự xuất hiện của áo choàng tử thần, ảnh hưởng của nó làm sống lại những thứ không còn sống [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn với sự kinh hoàng khi áo choàng tử thần bao phủ ngôi nhà yên bình của [PAWN_possessive], biến nó thành chiến trường chống lại những kẻ chết [circumstance_group]</li>
+    <li>circumstance_phrase->và làm ngợp những lời cầu nguyện tuyệt vọng của [PAWN_possessive] về sự an toàn</li>
+    <li>circumstance_phrase->với mùi hôi thối và sự tuyệt vọng tràn ngập không khí</li>
+    <li>circumstance_phrase->và làm cho [PAWN_objective] bị mắc kẹt trong đám đông những kẻ lê lết</li>
+    <li>desc_sentence->Ở trung tâm của áo choàng tử thần, [PAWN_nameDef] chuẩn bị cho trận chiến.</li>
+    <li>desc_sentence->Sự lan rộng của áo choàng tử thần khiến bạn bè của [PAWN_nameDef] cảm thấy khiếp sợ.</li>
+    <li>desc_sentence->Những cơn rùng mình chạy dọc sống lưng của [PAWN_nameDef] khi ảnh hưởng của áo choàng tử thần tiếp tục lan rộng.</li>
+    <li>desc_sentence->Gánh nặng của sự tuyệt vọng đè nặng lên [PAWN_nameDef], thử thách quyết tâm của [PAWN_possessive] trước những điều kỳ quái.</li>
+</DeathPall.rulePack.rulesStrings>
+
+<!-- EN: unnatural darkness -->
+<UnnaturalDarkness.label>Tối tăm bất thường</UnnaturalDarkness.label>
+<!-- EN:
+    <li>tale_noun->[PAWN_nameDef] confronts the unnatural darkness</li>
+    <li>image->[PAWN_nameFull] standing in awe as the world is consumed by an impenetrable darkness [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] surrounded by black pillars falling from the sky which blanket the land in darkness [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] struggling to find [PAWN_possessive] way through the suffocating darkness, noctols hounding at [PAWN_possessive] heels, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] watching the world get swallowed by an abyss of shadows [circumstance_group]</li>
+    <li>circumstance_phrase->amidst by [PAWN_possessive] friends' desperate attempts to return to the safety of the light</li>
+    <li>circumstance_phrase->with piercing screams echoing all around</li>
+    <li>circumstance_phrase->the light seemingly barely able to hold it back</li>
+    <li>circumstance_phrase->as [PAWN_pronoun] offers pleas for salvation</li>
+    <li>desc_sentence->Not even the faintest flickering of lights in the distance is visible.</li>
+    <li>desc_sentence->The situation seems utterly hopeless.</li>
+    <li>desc_sentence->Groups of shadowy creatures are visible at the edge of the darkness.</li>
+    <li>desc_sentence->[PAWN_nameDef] tries to find a glimmer of hope amidst the encroaching darkness.</li>
+-->
+<UnnaturalDarkness.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] đối mặt với bóng tối bất thường</li>
+    <li>image->[PAWN_nameFull] đứng ngây người khi thế giới bị tiêu thụ bởi một bóng tối không thể xuyên thấu [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] bị bao quanh bởi các cột đen rơi từ trên trời, bao phủ đất đai trong bóng tối [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] vật lộn để tìm đường qua bóng tối ngột ngạt, các noctol bám sát gót chân của [PAWN_possessive], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] nhìn thế giới bị nuốt chửng bởi vực thẳm của những bóng tối [circumstance_group]</li>
+    <li>circumstance_phrase->giữa những nỗ lực tuyệt vọng của bạn bè [PAWN_possessive] để trở về nơi an toàn của ánh sáng</li>
+    <li>circumstance_phrase->với những tiếng la hét piercing vang vọng xung quanh</li>
+    <li>circumstance_phrase->ánh sáng dường như chỉ vừa đủ để giữ lại nó</li>
+    <li>circumstance_phrase->khi [PAWN_pronoun] cầu xin sự cứu rỗi</li>
+    <li>desc_sentence->Ngay cả ánh sáng lấp lánh yếu ớt từ xa cũng không thể nhìn thấy.</li>
+    <li>desc_sentence->Tình hình có vẻ hoàn toàn vô vọng.</li>
+    <li>desc_sentence->Các nhóm sinh vật bóng tối có thể thấy ở rìa của bóng tối.</li>
+    <li>desc_sentence->[PAWN_nameDef] cố gắng tìm một tia hy vọng giữa bóng tối đang lan rộng.</li>
+</UnnaturalDarkness.rulePack.rulesStrings>
+
+  
+</LanguageData>

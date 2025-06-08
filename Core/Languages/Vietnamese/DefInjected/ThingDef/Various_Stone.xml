@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite blocks -->
+  <BlocksGranite.label>khối đá hoa cương</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
+  <BlocksGranite.description>Khối đá hoa cương rắn. Đá hoa cương là một loại đá rất cứng.</BlocksGranite.description>
+  <!-- EN: granite -->
+  <BlocksGranite.stuffProps.stuffAdjective>đá hoa cương</BlocksGranite.stuffProps.stuffAdjective>
+  
+  <!-- EN: limestone blocks -->
+  <BlocksLimestone.label>khối đá vôi</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
+  <BlocksLimestone.description>Khối đá vôi rắn.</BlocksLimestone.description>
+  <!-- EN: limestone -->
+  <BlocksLimestone.stuffProps.stuffAdjective>đá vôi</BlocksLimestone.stuffProps.stuffAdjective>
+  
+  <!-- EN: marble blocks -->
+  <BlocksMarble.label>khối đá cẩm thạch</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
+  <BlocksMarble.description>Khối đá cẩm thạch rắn. Đá cẩm thạch là một loại đá mềm, đẹp, được biết đến là dễ điêu khắc.</BlocksMarble.description>
+  <!-- EN: marble -->
+  <BlocksMarble.stuffProps.stuffAdjective>đá cẩm thạch</BlocksMarble.stuffProps.stuffAdjective>
+  
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>khối sa thạch</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>Khối đá sa thạch rắn. Đá sa thạch là một loại đá tương đối mềm và dăm dễ dàng.</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>sa thạch</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>khối đá phiến</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>Khối đá phiến rắn. Một tảng đá trông buồn tẻ và rẽ tiền.</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>đá phiến</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>tảng đá hoa cương</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>Một tảng đá. Có thể cắt thành khối đá có thể sử dụng.</ChunkGranite.description>
+  
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>tảng đá vôi</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>Một tảng đá. Có thể cắt thành khối đá có thể sử dụng.</ChunkLimestone.description>
+  
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>tảng đá cẩm thạch</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>Một tảng đá. Có thể cắt thành khối đá có thể sử dụng.</ChunkMarble.description>
+  
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>tảng sa thạch</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>Một tảng đá. Có thể cắt thành khối đá có thể sử dụng.</ChunkSandstone.description>
+  
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>tảng xỉ thép</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>Một mẩu xỉ thép. Mặc dù nó vô dụng ở dạng hiện tại, nó có thể được luyện để thu hồi thép.</ChunkSlagSteel.description>
+  
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>tảng đá phiến</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>Một tảng đá. Có thể cắt thành khối đá có thể sử dụng.</ChunkSlate.description>
+  
+  <!-- EN: granite -->
+  <Granite.label>đá hoa cương</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>Một tảng đá lửa rất cứng.</Granite.description>
+  
+  <!-- EN: limestone -->
+  <Limestone.label>đá vôi</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>Một tảng đá trầm tích được hình thành từ phần còn lại của vỏ sò cổ.</Limestone.description>
+  
+  <!-- EN: marble -->
+  <Marble.label>đá cẩm thạch</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>Một hòn đá biến chất mềm mại.</Marble.description>
+  
+  <!-- EN: sandstone -->
+  <Sandstone.label>sa thạch</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>Một đá trầm tích bao gồm các hạt cát nén lại với nhau.</Sandstone.description>
+  
+  <!-- EN: slate -->
+  <Slate.label>đá phiến</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>Một hòn đá biến chất tối màu. Các lớp tốt của nó là biểu tượng của sự phân tách có màu đá đen.</Slate.description>
+  
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>đá hoa cương mịn</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>Một tảng đá lửa rất cứng. Bề mặt sáng lấp lánh được lấp đầy bởi một đốm màu đen, trắng và hồng.</SmoothedGranite.description>
+  
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>đá vôi mịn</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>Một tảng đá trầm tích được hình thành từ phần còn lại của vỏ sò cổ. Nó phát sáng một màu trắng mịn, với các mẫu tạp chất nhẹ lơ lửng bên trong.</SmoothedLimestone.description>
+  
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>đá cẩm thạch mịn</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>Một hòn đá biến chất mềm mại. Đá bán trong suốt này gần như xuất hiện để phát sáng với ánh sáng bên trong của chính nó.</SmoothedMarble.description>
+  
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>sa thạch mịn</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>Một đá trầm tích bao gồm các hạt cát nén lại với nhau. Các lớp cát đã được đánh bóng đến một bề mặt phẳng, mịn.</SmoothedSandstone.description>
+  
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>đá phiến mịn</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>Một hòn đá biến chất tối màu. Các lớp tốt của nó là biểu tượng của sự phân tách slaty. Tầng lớp bên trong có thể nhìn thấy rõ qua bề mặt được đánh bóng.</SmoothedSlate.description>
+  
+</LanguageData>

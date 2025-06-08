@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Royal Titles -->
+  <!-- EN: The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal. -->
+  <RoyalFavorDescription>Số tiền {FACTION_royalFavorLabel} mà người đàm phán của bạn sẽ nhận được do thành công trong thỏa thuận này.</RoyalFavorDescription>
+  <!-- EN: Required apparel -->
+  <RoyalTitleTooltipRequiredApparel>Trang phục yêu cầu</RoyalTitleTooltipRequiredApparel>
+  <!-- EN: Minimum apparel quality -->
+  <RoyalTitleTooltipRequiredApparelQuality>Chất lượng trang phục tối thiểu</RoyalTitleTooltipRequiredApparelQuality>
+  <!-- EN: Bedroom requirements -->
+  <RoyalTitleTooltipBedroomRequirements>Yêu cầu phòng ngủ</RoyalTitleTooltipBedroomRequirements>
+  <!-- EN: Throneroom requirements -->
+  <RoyalTitleTooltipThroneroomRequirements>Yêu cầu Phòng ngai vàng</RoyalTitleTooltipThroneroomRequirements>
+  <!-- EN: Title privileges -->
+  <RoyalTitleTooltipPermits>Quyền hạn của chức vụ</RoyalTitleTooltipPermits>
+  <!-- EN: Holders of this title must be covered in some combination of -->
+  <RoyalTitleRequiredApparelStatDescription>Những người nắm giữ tước hiệu này phải được bảo vệ bằng một nhánh quân</RoyalTitleRequiredApparelStatDescription>
+  <!-- EN: Any prestige armor -->
+  <ApparelRequirementAnyPrestigeArmor>Bất kỳ áo giáp tâm kinh</ApparelRequirementAnyPrestigeArmor>
+  <!-- EN: Any psycaster apparel -->
+  <ApparelRequirementAnyPsycasterApparel>Bất kỳ trang phục nhà tâm linh</ApparelRequirementAnyPsycasterApparel>
+  <!-- EN: or any psycaster or prestige apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>hoặc bất kỳ trang phục psycaster hoặc tâm linh nào</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <!-- EN: Disallowed work types -->
+  <DisabledWorkTypes>Các loại công việc bị vô hiệu hóa</DisabledWorkTypes>
+  <!-- EN: Allowed foods -->
+  <RoyalTitleRequiredMeals>Thực phẩm được phép</RoyalTitleRequiredMeals>
+  <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
+  <RoyalTitleRequiredMealsDesc>Một người giữ tước hiệu này sẽ chỉ ăn những thực phẩm này, trừ khi chúng đang đói hoặc trên một đoàn lữ hành.</RoyalTitleRequiredMealsDesc>
+
+  <!-- Royal implants -->
+  <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
+  <RoyalImplantIllegalUseWarning>Theo luật của {FACTION_name}, người ta phải có tước hiệu {TITLE} để sử dụng hợp pháp {IMPLANT}.\n\n{VIOLATIONTRIGGER}, có khả năng {FACTION_name} sẽ phát ra dấu hiệu của tâm linh. Điều này sẽ dẫn đến hậu quả ngoại giao.\n\nBộ cấy tâm linh che đậy sẽ cho phép sử dụng {IMPLANT} mà không bị phát hiện.</RoyalImplantIllegalUseWarning>
+  <!-- EN: Install this implant anyway? -->
+  <RoyalImplantInstallConfirmation>Cài đặt cấy ghép này nào?</RoyalImplantInstallConfirmation>
+  <!-- EN: Upgrade this implant anyway? -->
+  <RoyalImplantUpgradeConfirmation>Nâng cấp cấy ghép này nào?</RoyalImplantUpgradeConfirmation>
+
+  <!-- Royal weapons -->
+  <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
+  <BladelinkEquipWarning>Sau khi liên kết với một người sử dụng, vũ khí sẽ từ chối sử dụng bởi bất kỳ ai khác.</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>Vũ khí có các đặc điểm sau</BladelinkEquipWarningTraits>
+  <!-- EN: Are you sure you want to equip this item? -->
+  <RoyalWeaponEquipConfirmation>Bạn có chắc chắn muốn trang bị vật phẩm này?</RoyalWeaponEquipConfirmation>
+  
+  <!-- Psycasts -->
+  <!-- EN: Target is psychically deaf. -->
+  <AbilityTargetPsychicallyDeaf>Mục tiêu kháng tâm linh</AbilityTargetPsychicallyDeaf>
+  <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
+  <PsycastIsIllegal>Điều này là bất hợp pháp đối với {PAWN_labelShort}. Yêu cầu tước hiệu {TITLE}.</PsycastIsIllegal>
+
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>Không thể bỏ qua {PAWN_labelShort}</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>Quá rộng</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>sức đề kháng tâm linh</CannotSkipTargetPsychicResistant>
+
+  <!-- Warning -->
+  <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
+  <QuestGivesRoyalFavor>Nhiệm vụ này sẽ thưởng {FACTION_royalFavorLabel} và do đó, các danh hiệu hoàng gia sẽ gán cho {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
+  <RoyalIncapableOfSocial>{PAWN_labelShort} không có khả năng thực hiện các nhiệm vụ xã hội. Những người có danh hiệu hoàng gia có nhu cầu rất lớn về các kỹ năng xã hội, vì vậy nếu {PAWN_labelShort} đạt được một danh hiệu, {PAWN_pronoun} có thể có một thời gian khó khăn. Một cư dân khác có thể giao tiếp xã hội lão luyện hơn.</RoyalIncapableOfSocial>
+  <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
+  <RoyalWithConceitedTrait>Vì {PAWN_labelShort} là {2}, {PAWN_pronoun} sẽ yêu cầu các đặc quyền của tiêu đề phải được tôn trọng đầy đủ. {PAWN_labelShort} có thể từ chối thực hiện một số loại công việc nhất định hoặc ăn thực phẩm hạng thấp và sẽ ban hành nghị định. Một cư dân khác có lẽ sẽ linh hoạt hơn.</RoyalWithConceitedTrait>
+  <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
+  <RoyalWithTraitAffectingPsylinkNegatively>Vì {PAWN_labelShort} là {2}, nên liên kết tinh thần có thể không hữu ích cho {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
+  <PsylinkTooLowForGainAbility>Liên kết tinh thần của {PAWN_labelShort} không ở mức đủ cao để sử dụng {ABILITY}.\n\nCó muốn sử dụng năng lực nữa không?</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>Tàu con thoi này trống rỗng. Nếu bạn gửi nó đi, bạn sẽ không thể sử dụng lại nó.\n\nBạn vẫn sẽ gửi nó đi chứ?</SendShuttleWithNoContents>
+  <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
+  <DropResourcesOverweightConfirm>Những tài nguyên này sẽ làm nặng đoàn lữ hành và khiến nó không thể di chuyển.\n\nVẫn cho gọi họ chứ?</DropResourcesOverweightConfirm>
+
+</LanguageData>

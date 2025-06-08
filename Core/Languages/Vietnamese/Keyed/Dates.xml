@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Time -->
+  <ClockTime>Thời gian</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>Ngày</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>Năm</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Số ngày đã trôi qua kể từ khi bạn đến: {0}\nQuý hiện tại: {4}\nMùa hiện tại: {2}\n\nMột năm được chia thành 4 quý, mỗi quý là {3} ngày trên hành tinh. Quý giống nhau ở mọi nơi, trong khi các mùa thì khác nhau ở những nơi khác nhau.\n\nCác mùa tại mối quý:\n{5}</DateReadoutTip>
+
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>Ngày {0} {1} Năm {2}</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{0}-{1}-{2}</ShortDate>
+  <!-- EN: {0}, {1} -->
+  <MonthYearDate>TODO</MonthYearDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>Ngày {0} {1} Năm {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>Ngày {0} - {1}</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>Cả năm</WholeYear>
+  
+</LanguageData>

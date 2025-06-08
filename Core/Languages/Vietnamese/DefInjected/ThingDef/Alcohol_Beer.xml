@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer -->
+  <Beer.label>bia</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>Đồ uống đầu tiên bên cạnh nước từng được nhân loại tiêu thụ. Bia có thể ngon, nhưng tác dụng chính của nó là nhiễm độc. Tiêu thụ quá mức có thể dẫn đến mất cồn và theo thời gian, nghiện.</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>Uống {0}</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>Đang uống {0}.</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>chai</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>cổ</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>hèm</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>Bia chưa lên men. Chất này cần được lên men trong thùng lên men trước khi nó trở thành bia có thể uống được.</Wort.description>
+  
+</LanguageData>

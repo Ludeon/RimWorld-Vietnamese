@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark vision -->
+  <DarkVision.label>tầm nhìn ban đêm</DarkVision.label>
+  <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
+  <DarkVision.description>Những người mang gen này nhìn thấy trong điều kiện ánh sáng yếu và không bị ảnh hưởng bởi các hình phạt tâm trạng liên quan đến bóng tối. Họ có một lớp phản chiếu phía sau võng mạc khuếch đại khả năng nhìn thấy trong bóng tối.</DarkVision.description>
+  <!-- EN: dark -->
+  <DarkVision.symbolPack.prefixSymbols.0.symbol>màu đen</DarkVision.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: night -->
+  <DarkVision.symbolPack.prefixSymbols.1.symbol>đêm</DarkVision.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dim -->
+  <DarkVision.symbolPack.prefixSymbols.2.symbol>tối</DarkVision.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: gloom -->
+  <DarkVision.symbolPack.prefixSymbols.3.symbol>mờ mịt</DarkVision.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: murk -->
+  <DarkVision.symbolPack.prefixSymbols.4.symbol>bóng tối</DarkVision.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: deep -->
+  <DarkVision.symbolPack.prefixSymbols.5.symbol>sâu</DarkVision.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: umbra -->
+  <DarkVision.symbolPack.prefixSymbols.6.symbol>bóng</DarkVision.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: shadow -->
+  <DarkVision.symbolPack.suffixSymbols.0.symbol>sự mờ đục</DarkVision.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: fire resistant -->
+  <FireResistant.label>chống lửa</FireResistant.label>
+  <!-- EN: Carriers of this gene have special fast-acting sweat glands and heat-resistant skin. They only take 25% of the normal damage from fire. The chance of them catching on fire is also drastically reduced. -->
+  <FireResistant.description>Những người mang gen này có các tuyến Sudoripar đặc biệt với hoạt động nhanh và làn da nóng bỏng. Họ chỉ trải qua 25% thiệt hại lửa bình thường.Rủi ro họ chịu lửa cũng giảm đáng kể.</FireResistant.description>
+  <!-- EN: fireproof -->
+  <FireResistant.labelShortAdj>chống cháy</FireResistant.labelShortAdj>
+  <!-- EN: foam -->
+  <FireResistant.symbolPack.prefixSymbols.0.symbol>bọt</FireResistant.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: wet -->
+  <FireResistant.symbolPack.prefixSymbols.1.symbol>bị ướt</FireResistant.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: foam -->
+  <FireResistant.symbolPack.suffixSymbols.0.symbol>bọt</FireResistant.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: inbred -->
+  <Inbred.label>con lai</Inbred.label>
+  <!-- EN: This genetic condition affects a person's fertility, immunity, and mental capacity. -->
+  <Inbred.description>Bệnh di truyền này ảnh hưởng đến khả năng sinh sản, khả năng miễn dịch và khả năng tinh thần của một người.</Inbred.description>
+  
+  <!-- EN: major cell instability -->
+  <Instability_Major.label>sự bất ổn của tế bào chính</Instability_Major.label>
+  <!-- EN: Carriers of this gene need much less metabolic energy to stay alive, at the cost of greatly-reduced stability in their cell-replication machinery. -->
+  <Instability_Major.description>Những người mang gen này cần năng lượng trao đổi chất ít hơn nhiều để sống, với chi phí giảm độ ổn định cao của máy móc sao chép tế bào của họ.</Instability_Major.description>
+  
+  <!-- EN: mild cell instability -->
+  <Instability_Mild.label>không ổn định tế bào nhẹ</Instability_Mild.label>
+  <!-- EN: Carriers of this gene need less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
+  <Instability_Mild.description>Những người mang gen này cần ít năng lượng trao đổi chất hơn để sống, với chi phí giảm sự ổn định của máy móc sao chép tế bào của họ.</Instability_Mild.description>
+  
+  <!-- EN: kill thirst -->
+  <KillThirst.label>khát máu</KillThirst.label>
+  <!-- EN: Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat. -->
+  <KillThirst.description>Những người mang gen này muốn cảm giác chấm dứt cuộc sống của người khác. Họ sẽ trở nên khó chịu nếu họ ở lại quá lâu mà không giết ai đó trên tay cầm.</KillThirst.description>
+  <!-- EN: kill-thirsty -->
+  <KillThirst.labelShortAdj>khát máu</KillThirst.labelShortAdj>
+  <!-- EN: murder -->
+  <KillThirst.symbolPack.prefixSymbols.0.symbol>kẻ giết người</KillThirst.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: death -->
+  <KillThirst.symbolPack.prefixSymbols.1.symbol>chết</KillThirst.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: kill -->
+  <KillThirst.symbolPack.prefixSymbols.2.symbol>giết chết</KillThirst.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: slay -->
+  <KillThirst.symbolPack.prefixSymbols.3.symbol>phá bỏ</KillThirst.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: rage -->
+  <KillThirst.symbolPack.prefixSymbols.4.symbol>cơn thịnh nộ</KillThirst.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: hate -->
+  <KillThirst.symbolPack.prefixSymbols.5.symbol>ghét bỏ</KillThirst.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: snuff -->
+  <KillThirst.symbolPack.prefixSymbols.6.symbol>gây nghiện</KillThirst.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: vore -->
+  <KillThirst.symbolPack.suffixSymbols.0.symbol>tham ăn</KillThirst.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: killer -->
+  <KillThirst.symbolPack.suffixSymbols.1.symbol>sát thủ</KillThirst.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: slayer -->
+  <KillThirst.symbolPack.suffixSymbols.2.symbol>kẻ giết người</KillThirst.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: kind instinct -->
+  <KindInstinct.label>bản năng tốt</KindInstinct.label>
+  <!-- EN: Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance. -->
+  <KindInstinct.description>Những người mang gen này rất dễ chịu và rất có lương tâm. Họ xúc phạm hoặc hiếm khi chiến đấu và đôi khi đưa ra những lời tốt đẹp để làm sáng lên tâm trạng của những người xung quanh.Họ không bao giờ đánh giá mọi người về ngoại hình của họ.</KindInstinct.description>
+  <!-- EN: kind -->
+  <KindInstinct.labelShortAdj>tử tế</KindInstinct.labelShortAdj>
+  <!-- EN: kind -->
+  <KindInstinct.symbolPack.prefixSymbols.0.symbol>tử tế</KindInstinct.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: nice -->
+  <KindInstinct.symbolPack.prefixSymbols.1.symbol>hài lòng</KindInstinct.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: gentle -->
+  <KindInstinct.symbolPack.prefixSymbols.2.symbol>dịu dàng</KindInstinct.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: ami -->
+  <KindInstinct.symbolPack.prefixSymbols.3.symbol>ami</KindInstinct.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cool -->
+  <KindInstinct.symbolPack.prefixSymbols.4.symbol>cool</KindInstinct.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: mellow -->
+  <KindInstinct.symbolPack.prefixSymbols.5.symbol>hài hòa</KindInstinct.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: soft -->
+  <KindInstinct.symbolPack.prefixSymbols.6.symbol>dễ</KindInstinct.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: tame -->
+  <KindInstinct.symbolPack.prefixSymbols.7.symbol>ngoan ngoãn</KindInstinct.symbolPack.prefixSymbols.7.symbol>
+  <!-- EN: pleas -->
+  <KindInstinct.symbolPack.prefixSymbols.8.symbol>pleas</KindInstinct.symbolPack.prefixSymbols.8.symbol>
+  
+  <!-- EN: naked speed -->
+  <NakedSpeed.label>naked speed</NakedSpeed.label>
+  <!-- EN: Carriers of this gene move slower while clothed, and faster while naked. -->
+  <NakedSpeed.description>Những người mang gen này di chuyển chậm hơn khi chúng mặc quần áo và nhanh hơn khi chúng khỏa thân.</NakedSpeed.description>
+  
+  <!-- EN: nearsighted -->
+  <Nearsighted.label>cận thị</Nearsighted.label>
+  <!-- EN: Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is reduced. -->
+  <Nearsighted.description>Những người mang gen này đang vật lộn để nhìn từ xa.Độ chính xác bắn dài của họ bị giảm.</Nearsighted.description>
+  <!-- EN: blind -->
+  <Nearsighted.symbolPack.prefixSymbols.0.symbol>mù</Nearsighted.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blur -->
+  <Nearsighted.symbolPack.prefixSymbols.1.symbol>mơ hồ</Nearsighted.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: squint -->
+  <Nearsighted.symbolPack.prefixSymbols.2.symbol>squint</Nearsighted.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: peek -->
+  <Nearsighted.symbolPack.prefixSymbols.3.symbol>peek</Nearsighted.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cross -->
+  <Nearsighted.symbolPack.prefixSymbols.4.symbol>cross</Nearsighted.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: sighter -->
+  <Nearsighted.symbolPack.suffixSymbols.0.symbol>sighter</Nearsighted.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: peeker -->
+  <Nearsighted.symbolPack.suffixSymbols.1.symbol>peeker</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: pollution stimulus -->
+  <PollutionRush.label>Kích thích ô nhiễm</PollutionRush.label>
+  <!-- EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
+  <PollutionRush.description>Những người mang gen này trải qua một loại doping khi tiếp xúc với ô nhiễm. Nó làm cho họ di chuyển nhanh hơn và giúp họ suy nghĩ rõ ràng hơn. Một gen tương tự được tìm thấy trong các loại trừ Mega được thiết kế để chiến đấu.</PollutionRush.description>
+  <!-- EN: Gain stat bonuses when exposed to pollution. -->
+  <PollutionRush.customEffectDescriptions.0>Giành được tiền thưởng thống kê trong quá trình tiếp xúc với ô nhiễm.</PollutionRush.customEffectDescriptions.0>
+  
+  <!-- EN: psychic bonding -->
+  <PsychicBonding.label>liên kết tâm linh</PsychicBonding.label>
+  <!-- EN: Carriers of this gene have a special neural organ that makes them psychically bond with a lover for life. As long as the lovers are together, they will be happy. If they are physically separated, they will be disturbed by the distance. If one dies, the other's mind will be badly disrupted. -->
+  <PsychicBonding.description>Những người mang gen này có một cơ quan thần kinh đặc biệt gắn kết họ với người yêu suốt đời. Miễn là những người yêu nhau ở cùng nhau, họ hạnh phúc. Nếu chúng bị tách biệt về thể chất, chúng sẽ bị xáo trộn bởi khoảng cách. Nếu một người chết, tâm trí của người kia sẽ bị xáo trộn nghiêm trọng.</PsychicBonding.description>
+  <!-- EN: Romance attempts always succeed. -->
+  <PsychicBonding.customEffectDescriptions.0>Những nỗ lực lãng mạn luôn thành công.</PsychicBonding.customEffectDescriptions.0>
+  <!-- EN: Gains psychic bond with first romantic partner. -->
+  <PsychicBonding.customEffectDescriptions.1>Tâm thần liên kết đạt được với đối tác lãng mạn đầu tiên của anh ấy.</PsychicBonding.customEffectDescriptions.1>
+  
+  <!-- EN: robust digestion -->
+  <RobustDigestion.label>tiêu hóa mạnh mẽ</RobustDigestion.label>
+  <!-- EN: Carriers of this gene grow a multi-fold stomach, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all. -->
+  <RobustDigestion.description>Những người mang gen này phát triển một dạ dày nhiều nếp gấp, cho phép họ tiêu hóa thực phẩm thô hiệu quả hơn so với con người cơ bản. Nói chung, họ có được dinh dưỡng giống như thực phẩm thô như thể chúng được nấu chín. Họ hoàn toàn không quan tâm đến hương vị của thực phẩm thô.</RobustDigestion.description>
+  <!-- EN: eat -->
+  <RobustDigestion.symbolPack.prefixSymbols.0.symbol>ăn</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: raw -->
+  <RobustDigestion.symbolPack.prefixSymbols.1.symbol>thô</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: quad -->
+  <RobustDigestion.symbolPack.prefixSymbols.2.symbol>quad</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: moo -->
+  <RobustDigestion.symbolPack.prefixSymbols.3.symbol>moo</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: raw -->
+  <RobustDigestion.symbolPack.prefixSymbols.4.symbol>thô</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: munch -->
+  <RobustDigestion.symbolPack.prefixSymbols.5.symbol>cắn</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: cow -->
+  <RobustDigestion.symbolPack.prefixSymbols.6.symbol>con bò</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: eater -->
+  <RobustDigestion.symbolPack.suffixSymbols.0.symbol>người ăn</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: mouth -->
+  <RobustDigestion.symbolPack.suffixSymbols.1.symbol>miệng</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: vore -->
+  <RobustDigestion.symbolPack.suffixSymbols.2.symbol>vore</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: munch -->
+  <RobustDigestion.symbolPack.suffixSymbols.3.symbol>nhai</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
+  <!-- EN: hardeater -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>cứng hơn</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: muncher -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>người nhai lại</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: grubber -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>người ăn ngấu nghiến</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+  
+  <!-- EN: strong stomach -->
+  <StrongStomach.label>bụng khỏe</StrongStomach.label>
+  <!-- EN: Carriers of this gene have an extra toxin-filtering organ in their stomach and will never suffer from food poisoning even after eating rotten food. -->
+  <StrongStomach.description>Các chất mang gen này có thêm chất độc nội tạng trong dạ dày của họ và sẽ không bao giờ bị ngộ độc thực phẩm ngay cả sau khi ăn thực phẩm bị hư hỏng.</StrongStomach.description>
+  <!-- EN: dura -->
+  <StrongStomach.symbolPack.prefixSymbols.0.symbol>cứng</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: eat -->
+  <StrongStomach.symbolPack.prefixSymbols.1.symbol>ăn</StrongStomach.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: feed -->
+  <StrongStomach.symbolPack.prefixSymbols.2.symbol>cho ăn</StrongStomach.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cram -->
+  <StrongStomach.symbolPack.prefixSymbols.3.symbol>nhồi nhét</StrongStomach.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: vore -->
+  <StrongStomach.symbolPack.suffixSymbols.0.symbol>vore</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: unstoppable -->
+  <Unstoppable.label>không thể ngăn cản</Unstoppable.label>
+  <!-- EN: Carriers of this gene are not slowed down when taking damage. -->
+  <Unstoppable.description>Những người mang gen này không bị chậm lại khi chúng trải qua thiệt hại.</Unstoppable.description>
+  
+  <!-- EN: violence disabled -->
+  <ViolenceDisabled.label>không bạo lực</ViolenceDisabled.label>
+  <!-- EN: Carriers of this gene are emotionally and mentally incapable of engaging in violence. They are overwhelmingly resistant to and horrified by the idea of hurting another. -->
+  <ViolenceDisabled.description>Những người mang gen này không thể tham gia vào bạo lực về mặt cảm xúc và tinh thần. Họ cực kỳ kháng cự và kinh hoàng bởi ý tưởng làm bị thương người khác.</ViolenceDisabled.description>
+  <!-- EN: nonviolent -->
+  <ViolenceDisabled.labelShortAdj>không bạo lực</ViolenceDisabled.labelShortAdj>
+  <!-- EN: paci -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>thụ động</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: calm -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>trấn tĩnh</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: peace -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>hòa bình</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dove -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>bồ câu</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dove -->
+  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>bồ câu</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+  
+</LanguageData>

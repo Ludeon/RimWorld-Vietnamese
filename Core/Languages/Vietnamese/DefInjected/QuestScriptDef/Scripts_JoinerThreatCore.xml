@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->Một [joiner_title] [joiner_age] tuổi có tên [joiner_nameDef] đang gọi từ gần đó. [joiner_pronoun] đang bị [enemyFaction_pawnsPlural] truy đuổi từ [enemyFaction_name]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận, bạn sẽ phải chiến đấu với [enemyFaction_pawnsPluralDef] phía sau [joiner_possessive]. Nhóm [enemyFaction_pawnsPlural] bao gồm: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] chạy quá hối hã để có thể cung cấp thêm thông tin.</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [runnerIndef]</li>
+    <li>questName->The Salvation of [runnerIndef]</li>
+    <li>questName->Helping [runnerIndef]</li>
+    <li>questName->Accepting [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
+    <li>questName->[runnerIndef] on the Run</li>
+    <li>questName->[runnerIndef] Seeks a Home</li>
+    <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->a Refugee</li>
+    <li>runnerIndef(childCount==1,priority=1)->a child</li>
+  -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>questName->Cứu giúp [runnerIndef]</li>
+    <li>questName->Sự cứu rỗi của [runnerIndef]</li>
+    <li>questName->Giúp đỡ [runnerIndef]</li>
+    <li>questName->Chấp nhận [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] săn lùng [runnerIndef]</li>
+    <li>questName->[runnerIndef] trên đường chạy trốn</li>
+    <li>questName->[runnerIndef] tìm kiếm Nhà</li>
+    <li>questName->[runnerIndef] bị truy sát bởi [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] và [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->Một người tị nạn</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} đuổi giết [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \n[enemyFaction_pawnsPlural] đến để bắt [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  
+</LanguageData>

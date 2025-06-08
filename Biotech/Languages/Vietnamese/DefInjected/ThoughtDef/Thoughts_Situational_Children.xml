@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: my baby {BABY_nameDef} is sick -->
+  <BabySick.stages.my_baby_is_sick.label>Con tôi {BABY_nameDef} bị ốm</BabySick.stages.my_baby_is_sick.label>
+  <!-- EN: My baby is sick. I'm terrified something bad will happen to my baby. -->
+  <BabySick.stages.my_baby_is_sick.description>Con tôi bị ốm. Tôi sợ điều gì đó tồi tệ sẽ xảy ra với con tôi.</BabySick.stages.my_baby_is_sick.description>
+  <!-- EN: my babies are sick -->
+  <BabySick.stages.my_babies_are_sick.label>con tôi bị ốm</BabySick.stages.my_babies_are_sick.label>
+  <!-- EN: My babies are sick. I'm terrified something bad will happen to them. -->
+  <BabySick.stages.my_babies_are_sick.description>Các con tôi bị ốm. Tôi sợ điều gì đó tồi tệ sẽ xảy ra với các con tôi.</BabySick.stages.my_babies_are_sick.description>
+  
+  <!-- EN: my child is in a growth vat -->
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>con tôi đang ở trong cabil tăng trưởng</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+  <!-- EN: I miss my child. It's hard knowing they're floating in that machine, bypassing their childhood. -->
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Tôi nhớ các con tôi. Thật khó để tưởng tượng nó đã ngâm mình trong chiếc máy đó và trải qua thời thơ ấu của mình.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+  
+  <!-- EN: good crib -->
+  <CribQuality.stages.good_crib.label>nôi good</CribQuality.stages.good_crib.label>
+  <!-- EN: This crib is comfy. -->
+  <CribQuality.stages.good_crib.description>Cũi này rất thoải mái.</CribQuality.stages.good_crib.description>
+  <!-- EN: excellent crib -->
+  <CribQuality.stages.excellent_crib.label>nôi excellent</CribQuality.stages.excellent_crib.label>
+  <!-- EN: This crib is very comfy. -->
+  <CribQuality.stages.excellent_crib.description>Cũi này rất thoải mái.</CribQuality.stages.excellent_crib.description>
+  <!-- EN: masterwork crib -->
+  <CribQuality.stages.masterwork_crib.label>nôi masterwork</CribQuality.stages.masterwork_crib.label>
+  <!-- EN: This crib is amazing. So comfortable. -->
+  <CribQuality.stages.masterwork_crib.description>Cũi này thật tuyệt vời. Rất dễ chịu.</CribQuality.stages.masterwork_crib.description>
+  <!-- EN: legendary crib -->
+  <CribQuality.stages.legendary_crib.label>nôi huyền thoại</CribQuality.stages.legendary_crib.label>
+  <!-- EN: This crib is wonderful. So very comfortable. Perfect for naps. -->
+  <CribQuality.stages.legendary_crib.description>Cái cũi này thật tuyệt vời. Vì vậy, rất thoải mái. Hoàn hảo cho những giấc ngủ ngắn.</CribQuality.stages.legendary_crib.description>
+  
+  <!-- EN: enslaved child -->
+  <EnslavedChild.stages.enslaved_child.label>đứa trẻ bị bắt làm nô lệ</EnslavedChild.stages.enslaved_child.label>
+  <!-- EN: It breaks my heart to see my child forced to serve others. -->
+  <EnslavedChild.stages.enslaved_child.description>Tôi đau lòng khi thấy con mình phải phục vụ người khác.</EnslavedChild.stages.enslaved_child.description>
+  
+  <!-- EN: my child {CHILD_nameDef} is happy -->
+  <MyChildHappy.stages.my_child_is_happy.label>Con tôi {CHILD_nameDef} rất vui</MyChildHappy.stages.my_child_is_happy.label>
+  <!-- EN: Nothing makes me feel better than my kid being happy. -->
+  <MyChildHappy.stages.my_child_is_happy.description>Không có gì làm tôi hạnh phúc hơn khi các con tôi hạnh phúc.</MyChildHappy.stages.my_child_is_happy.description>
+  
+  <!-- EN: my children are happy -->
+  <MyChildrenHappy.stages.my_children_are_happy.label>con tôi rất hạnh phúc</MyChildrenHappy.stages.my_children_are_happy.label>
+  <!-- EN: Nothing makes me feel better than my kids being happy. -->
+  <MyChildrenHappy.stages.my_children_are_happy.description>Không có gì làm tôi hạnh phúc hơn khi các con tôi hạnh phúc.</MyChildrenHappy.stages.my_children_are_happy.description>
+  
+  <!-- EN: my children are unhappy -->
+  <MyChildrenSad.stages.my_children_are_unhappy.label>con tôi không hạnh phúc</MyChildrenSad.stages.my_children_are_unhappy.label>
+  <!-- EN: I worry about my children. If they're not happy, I'm not happy. -->
+  <MyChildrenSad.stages.my_children_are_unhappy.description>Tôi lo lắng về những đứa trẻ của tôi. Nếu đứa trẻ không vui, tôi cũng không vui.</MyChildrenSad.stages.my_children_are_unhappy.description>
+  
+  <!-- EN: my child {CHILD_nameDef} is unhappy -->
+  <MyChildSad.stages.my_child_is_unhappy.label>Con tôi {CHILD_nameDef} không vui</MyChildSad.stages.my_child_is_unhappy.label>
+  <!-- EN: I worry about my child. If they're not happy, I'm not happy. -->
+  <MyChildSad.stages.my_child_is_unhappy.description>Tôi lo lắng về những đứa trẻ của tôi. Nếu đứa trẻ không vui, tôi cũng không vui.</MyChildSad.stages.my_child_is_unhappy.description>
+  
+  <!-- EN: parent is happy -->
+  <MyParentHappy.stages.parent_is_happy.label>cha mẹ hạnh phúc</MyParentHappy.stages.parent_is_happy.label>
+  <!-- EN: I'm happy when my parents are happy. -->
+  <MyParentHappy.stages.parent_is_happy.description>Tôi hạnh phúc khi cha mẹ tôi hạnh phúc.</MyParentHappy.stages.parent_is_happy.description>
+  
+  <!-- EN: parents are happy -->
+  <MyParentsHappy.stages.parents_are_happy.label>cha mẹ hạnh phúc</MyParentsHappy.stages.parents_are_happy.label>
+  <!-- EN: I'm happy when my parents are happy. -->
+  <MyParentsHappy.stages.parents_are_happy.description>Tôi hạnh phúc khi cha mẹ tôi hạnh phúc.</MyParentsHappy.stages.parents_are_happy.description>
+  
+  <!-- EN: happy youngsters -->
+  <YoungstersHappy.stages.happy_youngsters.label>các bạn trẻ hạnh phúc</YoungstersHappy.stages.happy_youngsters.label>
+  <!-- EN: It's nice to see that the young folk are doing well. -->
+  <YoungstersHappy.stages.happy_youngsters.description>Thật vui khi thấy những người trẻ tuổi đang làm tốt.</YoungstersHappy.stages.happy_youngsters.description>
+  
+  <!-- EN: sad youngsters -->
+  <YoungstersSad.stages.sad_youngsters.label>thanh niên buồn</YoungstersSad.stages.sad_youngsters.label>
+  <!-- EN: It's sad to see that the young folk are struggling. -->
+  <YoungstersSad.stages.sad_youngsters.description>Thật buồn khi thấy những người trẻ gặp khó khăn.</YoungstersSad.stages.sad_youngsters.description>
+  
+</LanguageData>

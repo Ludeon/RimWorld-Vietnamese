@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>Cơ hội bắt giữ thành công</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>Hiệu quả như thế nào trong việc bắt một người. Điều này ảnh hưởng đến cơ hội người này sẽ có thể bắt giữ ai đó mà không bị kháng cự.</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>yếu tố cơ hội gắn kết</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>Một hệ số về cơ hội gắn bó với một con vật khi tương tác với nó.</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>giảm giá bán thuốc</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>Khi người này bán thuốc phi y tế, giá sẽ được cải thiện theo tỷ lệ phần trăm này.</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>sức mạnh ngoại giao</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>Làm thế nào hiệu quả người này là một nhà ngoại giao. Điều này ảnh hưởng đến tác động đến các mối quan hệ khi tặng quà cho một phe khác và quyết định kết quả của các cuộc đàm phán hòa bình.</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>xinh đẹp</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>Làm thế nào để hấp dẫn một người. Điều này ảnh hưởng đến các tương tác xã hội.</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>tác động trò chuyện xã hội</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Hệ số về lượng người bị ảnh hưởng bởi các tương tác xã hội của người này.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>cơ hội thuần hóa động vật</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Cơ hội cơ bản người này sẽ thuần hóa thành công một con vật trên bất kỳ nỗ lực nào. Cơ hội thực tế cũng bị ảnh hưởng bởi sự hoang dã của động vật. Nỗ lực thuần hóa thất bại có thể gây ra các cuộc tấn công động vật, đặc biệt là đối với các động vật xấu xa hơn.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>cải thiện giá thương mại</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Khi người này hoạt động như một nhà đàm phán thương mại, giá mua và bán được cải thiện theo tỷ lệ này.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>cơ hội huấn luyện động vật</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Cơ hội cơ bản người này sẽ thực hiện tiến trình huấn luyện một con vật trên một nỗ lực nhất định. Cơ hội thực tế cho một nỗ lực nhất định cũng sẽ phụ thuộc vào sự hoang dã của con vật, liệu nó có được liên kết với người huấn luyện hay không, v.v.</TrainAnimalChance.description>
+  
+</LanguageData>

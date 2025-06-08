@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>Tùy chỉnh</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>Cài đặt này cho phép bạn xác định chi tiết lối chơi của riêng mình.\n\nĐề xuất:\n\n- Những người chơi hài lòng với một trong các cấp độ chơi tiêu chuẩn, nhưng muốn thay đổi một vài điều.\n- Những người chơi muốn thử nghiệm một thứ gì đó khác biệt.</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>Xây dựng</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>Xây dựng một thuộc địa, trong khi vẫn có một hương vị nguy hiểm.\n\nĐề xuất: Người chơi chưa quen với loại trò chơi này và những người chơi muốn thư giãn.\n\nCác mối đe dọa lớn xuất hiện, nhưng chúng yếu hơn các chế độ khác. Một số sự kiện cực kỳ nguy hiểm bị vô hiệu hóa.</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>Tàn nhẫn</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>Áp dụng thành thạo mọi kỹ năng của RimWorld để sống sót trong một thử thách đau khổ trước một thế giới tàn khốc, bất công.\n\nĐề xuất: Người chơi muốn đối mặt với các tình huống tàn bạo, không công bằng đòi hỏi phải triển khai các kỹ năng lưu loát và hoàn hảo chỉ để tránh mất tất cả mọi thứ.\n\nKhông có trò chơi sạch ở đây. Bạn sẽ dành nhiều thời gian để chiến đấu với vết thương và hồi phục, bạn sẽ cần chuẩn bị cẩn thận và bạn sẽ phải hy sinh những thứ bạn yêu thích để tránh cái chết.</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>Dã man</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>Đấu tranh để sinh tồn trên một hành tinh khắc nghiệt, khắc nghiệt.\n\nĐề xuất: Người chơi có kinh nghiệm với RimWorld, muốn chơi một câu chuyện dữ dội đòi hỏi kỹ năng đáng kể để tồn tại.\n\nKhông có trò chơi nào hoàn hảo ở đây - một số thử thách sẽ không thể vượt qua mà không bị tổn thất, vì vậy bạn sẽ phải chiến đấu bị thương, hy sinh để sống sót, và hồi phục.</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>Bình thường</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>Xây dựng một cộng đồng trong khi đối mặt với các mối đe dọa nguy hiểm.\n\nĐề xuất: Người chơi trò chơi chiến lược có kinh nghiệm trong trò chơi RimWorld đầu tiên của họ, hoặc người chơi RimWorld có kỹ năng muốn có một số phòng thở để theo đuổi các mục tiêu hài hước hoặc kỳ lạ.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>Bình yên</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>Xây dựng một cộng đồng trong môi trường sandbox.\n\nĐề xuất: Người chơi muốn tập trung vào các khía cạnh xây dựng cộng đồng của RimWorld.\n\nChế độ này vô hiệu hóa các sự kiện đe dọa lớn, nhưng các thách thức như bệnh tật, phá vỡ tinh thần và động vật điên vẫn xảy ra.</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>Dữ dội</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>Phấn đấu để tồn tại trên một hành tinh khắc nghiệt.\n\nĐề xuất: Người chơi có kinh nghiệm với RimWorld, muốn chơi một câu chuyện khó khăn đòi hỏi kỹ năng để tồn tại.\n\nCó thời gian tốt và thời gian xấu; chiến thắng và bi kịch. Đó là tất cả cho bộ phim.</Rough.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech recharger -->
+  <BasicRecharger.label>trạm sạc mech</BasicRecharger.label>
+  <!-- EN: Lightweight mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
+  <BasicRecharger.description>Một thiết bị sạc mech nhẹ. Trong quá trình sạc, chất thải độc hại liên tục được sản sinh bên trong. Người vận chuyển cần phải được cử đi để dọn dẹp thường xuyên.</BasicRecharger.description>
+  
+  <!-- EN: large mech recharger -->
+  <StandardRecharger.label>Trạm sạc mech lớn</StandardRecharger.label>
+  <!-- EN: Medium, heavy, and ultraheavy mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
+  <StandardRecharger.description>Các đơn vị để sạc mech hạng trung, hạng nặng và siêu hạng nặng. Trong quá trình sạc, chất thải độc hại liên tục được sản sinh bên trong. Người vận chuyển cần phải được cử đi để dọn dẹp thường xuyên..</StandardRecharger.description>
+  
+</LanguageData>

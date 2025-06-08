@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Need slave beds -->
+  <NeedSlaveBeds>Cần giường cho nô lệ</NeedSlaveBeds>
+  <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedSlaveBedsDesc>Bạn có nhiều nô lệ vì thế bạn cần thêm giường cho chúng. Trong số chúng thiếu chỗ để ngủ. \n\nHãy làm thêm giường, hoặc đổi giường của cư dân hay tù nhân trở thành giường cho nô lệ.\n\nNếu bạn không có tài nguyên, điểm để ngủ là miễn phí và có thể hoàn thành ngay tức khắc.</NeedSlaveBedsDesc>
+
+  <!-- EN: Slave unsuppressed -->
+  <SlavesUnsuppressedLabel>Nô lệ không có quần áo</SlavesUnsuppressedLabel>
+  <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
+  <SlavesUnsuppressedDesc>Độ đàn áp của {0_nameDef} đến mức nguy hiểm. Đây là một cơ hội tốt để {0_pronoun} sẽ nổi loạn.\n\nHãy chắc rằng có ít nhất một dân cư được được chỉ định làm quản giáo. Quản giáo sẽ đàn áp định kỳ để ngăn nô lệ nổi loạn.</SlavesUnsuppressedDesc>
+  <!-- EN: Slave unattended -->
+  <SlaveUnattendedLabel>Nô lệ không ai canh chừng</SlaveUnattendedLabel>
+  <!-- EN: Slaves unattended -->
+  <SlaveUnattendedMultipleLabel>Nô lệ không ai canh chừng</SlaveUnattendedMultipleLabel>
+  <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
+  <SlavesUnattendedDesc>Một vài nô lệ một mình trên bản đồ mà không có cư dân nào theo sau.\n\nNô lệ nếu tiếp tục không được giám sát thì có thể nô lệ sẽ nổi loạn trong vài ngày hoặc vài giờ tới.</SlavesUnattendedDesc>
+
+  <!-- EN: {0} opportunity -->
+  <RitualOpportunity>{0} cơ hội</RitualOpportunity>
+  <!-- EN: {0} opportunity for {1} -->
+  <RitualOpportunityFor>{0} cơ hội cho {1}</RitualOpportunityFor>
+  <!-- EN: Expires in {0}, on {1}. -->
+  <RitualExpiresIn>Hết hiệu lực trong {0}, on {1}.</RitualExpiresIn>
+  <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
+  <RitualSingleTargetDesc>Để bắt đầu nghi thức, hãy chọn một {FOCUS} và nhấp vào lệnh 'Bắt đầu {RITUAL_label}'.</RitualSingleTargetDesc>
+  <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
+  <RitualMultiTargetDesc>Để bắt đầu nghi thức, hãy chọn một trong các tùy chọn sau và nhấp vào lệnh 'Bắt đầu {RITUAL_label}'</RitualMultiTargetDesc>
+  <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
+  <RitualTargetsExplanation>Để bắt đầu nghi lễ, chọn một mục tiêu và bấm 'Bắt đầu {RITUAL_label}'. Theo dõi mục tiêu được chọn:\n{1}</RitualTargetsExplanation>
+  <!-- EN: Click to jump to targets -->
+  <RitualJumpToTargets>Click để nhảy để nhắm đến</RitualJumpToTargets>
+  <!-- EN: In order to perform {0} you need to fill these roles -->
+  <RitualUnfilledRoles>Để thực hiện {0} bạn cần đầy đủ vài trò này</RitualUnfilledRoles>
+
+  <!-- EN: {0} desired -->
+  <IdeoBuildingMissing>{0} mong ước</IdeoBuildingMissing>
+  <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingMissingDesc>{IDEO_name} yêu cầu bạn phải có {0} trong thuộc địa của mình miễn là {2} hoặc cao hơn. \n\n{0} là một sản phẩm của {BASEBUILDING_label}.{BUILDINGINFO}\n\nYêu cầu chỉ được chấp nhận nếu {IDEO_name} là tín đồ chính của phe bạn hoặc có {MINBELIEVERS} tín đồ trong phe của bạn.{4}\n\nNếu yêu cầu không được đáp ứng, những tín đồ này sẽ trở nên không hài lòng:\n{3}</IdeoBuildingMissingDesc>
+  <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
+  <IdeoBuildingArchitectTabDesc>Bạn có thể tìm thấy nó bằng cách mở tab '{TABNAME}' của trình đơn kiến trúc sư.</IdeoBuildingArchitectTabDesc>
+  <!-- EN:  It can be created at:\n{0}. -->
+  <IdeoBuildingCanBeCraftedAt>Nó có thể được tạo tại:\n{0}.</IdeoBuildingCanBeCraftedAt>
+  <!-- EN: In order to dignify {0}, these room requirements must be met -->
+  <IdeoBuildingRoomRequirementsDesc>Để đề cao {0}, những yêu cầu về phòng này phải được đáp ứng</IdeoBuildingRoomRequirementsDesc>
+  <!-- EN: expectations are -->
+  <IdeoBuildingExpectations>mong đợi là</IdeoBuildingExpectations>
+
+  <!-- EN: {0} disrespected -->
+  <IdeoBuildingDisrespected>{0} không tôn trọng</IdeoBuildingDisrespected>
+  <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingDisrespectedDesc>{0} yêu cầu {1} ở trong một căn phòng trang nghiêm. Các yêu cầu về phòng này phải được đáp ứng:\n{2}\n\nNếu các yêu cầu về phòng của {1} không được đáp ứng, những người tin tưởng này sẽ trở nên không hài lòng:\n{3}</IdeoBuildingDisrespectedDesc>
+  
+  <!-- EN: Raids arriving in {0} -->
+  <QuestPartRaidsDelay>Đột kích đến {0}</QuestPartRaidsDelay>
+  <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
+  <QuestPartRaidsDelayDesc>Cuộc đột kích sẽ bắt đầu đến trong {0}.\n\nNhững người đột kích sẽ nhắm đến không gian và cố gắng phá hủy nó. Bảo vệ khoảng cách để những cư dân của bạn có thể hack máy tính của nó và lấy dữ liệu.</QuestPartRaidsDelayDesc>
+
+  <!-- EN: {0} role unfilled -->
+  <IdeoRoleEmpty>{0} vai trò không đủ</IdeoRoleEmpty>
+  <!-- EN: {0} roles unfilled -->
+  <IdeoRolesEmpty>{0} vai trò không đủ</IdeoRolesEmpty>
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
+  <IdeoRolesEmptyDesc>Những vai trò này chưa được lấp đầy:\n{0}\n\nBạn có thể chỉ định ai đó một vai trò trên tab Xã hội của họ.\n\nNếu những vai trò này vẫn trống, những người theo sau sẽ không hài lòng</IdeoRolesEmptyDesc>
+
+  <!-- EN: Security threats activated in {0} -->
+  <AncientAltarThreatsWaking>De dọa sự an toàn kích hoạt trong {0}</AncientAltarThreatsWaking>
+  <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
+  <AncientAltarThreatsWakingDesc>De dọa sự an toàn sẽ được kích hoạt trong {0}. Họ sẽ tấn công một vài người có thể đe dọa đến di tích.</AncientAltarThreatsWakingDesc>
+
+  <!-- EN: Ritual opportunity soon -->
+  <AlertRitualComing>Cơ hội nghi lễ đến sớm</AlertRitualComing>
+  <!-- EN: A ritual opportunity is coming soon for following rituals -->
+  <AlertRitualComingDesc>Một cơ hội lễ nghi đang đến gần hãy theo dõi nó</AlertRitualComingDesc>
+  <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
+  <AlertRitualComingExtra>Co hội kết thúc sau {0} ngày và tái xuất hiện vào cùng ngày mỗi năm.</AlertRitualComingExtra>
+  <!-- EN: {0} on {1}, {2} before opportunity arises -->
+  <AlertRitualComingEntry>{0} trên {1}, {2} bên trái</AlertRitualComingEntry>
+
+  <!-- EN: Age reversal demanded -->
+  <AlertAgeReversalDemandNear>Yêu cầu đảo ngược độ tuổi</AlertAgeReversalDemandNear>
+  <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
+  <AlertAgeReversalDemandDesc>Vì niềm tin của họ, một số cư dân yêu cầu phương pháp điều trị đảo ngược tuổi thường xuyên trong kén sinh học. Nếu họ không được điều trị, họ sẽ không hài lòng.\n\nNhững người sau đây yêu cầu điều trị đảo ngược độ tuổi</AlertAgeReversalDemandDesc>
+  <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} vừa gia nhập {FACTION}, và muốn bắt đầu được đảo ngược độ tuổi trong {DURATION}</AlertAgeReversalDemandDesc_Recruit>
+  <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Next>{PAWN} muốn điều trị tiếp theo của họ ở {DURATION}</AlertAgeReversalDemandDesc_Next>
+  <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} muốn điều trị đầu tiên của họ ở {DURATION}</AlertAgeReversalDemandDesc_Initial>
+  <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Overdue>Điều trị của {PAWN} thì quá hạn bởi {DURATION}</AlertAgeReversalDemandDesc_Overdue>
+
+  <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Niềm tin của {PAWN_nameDef} vào {IDEO_name} đã ngăn {PAWN_objective} ăn thịt của {ANIMALS}</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <!-- EN: Dryad caste not set -->
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Nữ thần rừng không được thiết lập</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Một hoặc nhiều cây Gauranlen không được thiết lập tinh linh.\n\nChọn cái cây và bấm nút '{0}' để chọn tinh linh.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <!-- EN: Connector not assigned to plant cutting -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Đầu nối không được chỉ định để cắt cây</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Bạn có cây Gauranlen được thiết lập để cắt tỉa, nhưng các đầu nối của chúng không được chỉ định để cắt cây.\n\nBạn nên giao công việc cắt cây cho những người sau</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <!-- EN: Fuel node explodes in {0} -->
+  <AlertFuelNodeIgniting>Nút nhiên liệu phát nổ trong {0}</AlertFuelNodeIgniting>
+  <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
+  <AlertFuelNodeIgnitingDesc>Một nút nhiên liệu đã bốc cháy! Nó sẽ tan chảy và phát nổ rất sớm.\n\nĐi ra ngoài và sẵn sàng chiến đấu hoặc thoát khỏi đám cháy.</AlertFuelNodeIgnitingDesc>
+
+  <!-- EN: Insects arriving in {0} -->
+  <AlertInfestationArriving>Côn trùng đến trong {0}</AlertInfestationArriving>
+  <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
+  <AlertInfestationArrivingDesc>Những con côn trùng khổng lồ đã cảm nhận được hoạt động của bạn và đang đào lên từ dưới lòng đất để tấn công. Sự phá hoại sắp bắt đầu.</AlertInfestationArrivingDesc>
+
+  <!-- EN: {0_pawnsPlural} waking in {1} -->
+  <AlertHostilesWakingUp>{0_pawnsPlural} thức dậy trong {1}</AlertHostilesWakingUp>
+  <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
+  <AlertHostilesWakingUpDesc>Một hoặc nhiều {0_pawnsPlural} đang thức dậy.\n\nHọ sẽ tấn công nếu chúng tìm thấy bạn.</AlertHostilesWakingUpDesc>
+
+  <!-- EN: Cryptosleep caskets opening in {0} -->
+  <AlertCasketOpening>Quan tài Cryptosleep mở trong {0}</AlertCasketOpening>
+  <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
+  <AlertCasketOpeningDesc>Các quan tài Cryptosleep chứa các mối đe dọa chưa xác định sẽ sớm mở ra.</AlertCasketOpeningDesc>
+
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>Cảnh báo sự nổi dậy của nô lệ</AlertSlaveRebellionLikely>
+  <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
+  <AlertSlaveRebellionLikelyRebelliousCount>Có {REBELLIOUSCOUNT} nô lệ có khả năng khởi xướng một cuộc nổi loạn.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>Một cuộc nổi dậy của nô lệ dự kiến sẽ xảy ra khoảng một lần mỗi {COMBINEDTIME}. Xin lưu ý rằng cơ hội nổi loạn của mỗi nô lệ là độc lập, vì vậy nếu bất kỳ ai trong số họ nổi loạn thì họ có thể dẫn theo những người khác.\n\n{REBEL_labelShort} là nô lệ nổi loạn nhất và dự kiến sẽ bắt đầu nổi loạn khoảng một lần mỗi {INDIVIDUALTIME}. Các yếu tố sau ảnh hưởng đến mức độ thường xuyên chúng sẽ nổi loạn:</AlertSlaveRebellionLikelyMostRebellious>
+  
+</LanguageData>

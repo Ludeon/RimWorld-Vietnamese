@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terminalHackedMessage->Terminal hacked. You've collected the information and can now leave.</li>
+  -->
+  <Hack_WorshippedTerminal.questContentRules.rulesStrings>
+    <li>terminalHackedMessage->Cổng máy tính đã được hack. Bạn đã thu nhập được thông tin và có thể rời đi.</li>
+  </Hack_WorshippedTerminal.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You've learned of an ancient terminal that contains information about the [relic_name]. However, the terminal is surrounded by a tribal village, and the locals venerate it. They aren't part of any major faction.\n\n[visitInfo]</li>
+    <li>visitInfo(allowViolentQuests==true)->They are willing to let you visit on the pretense of worshiping it, but they will attack when you touch it.\n\nYou can attack the village from the outside, or enter peacefully and try to quickly escape with the data from the terminal.\n\nBeware - If you spend over [timer_duration] in the village or build anything near it, the locals will attack, and call reinforcements.</li>
+    <li>visitInfo(allowViolentQuests==false)->They are willing to let you visit.</li>
+  -->
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn tìm hiểu được về một cổng máy tính cổ đại chứa thông tin về [relic_name]. Nhưng, cổng máy tính được bao quanh bởi làng của một bộ tộc, và họ tôn kính nó. Họ không thuộc bất kỳ phe phái nào.\n\n[visitInfo]</li>
+    <li>visitInfo(allowViolentQuests==true)->Ho cho phép bạn đến thăm nó với mục đích tôn sùng nó, nhưng họ sẽ tấn công bạn nếu bạn chạm vào nó.\n\nBạn có thể tấn công từ bên ngoài, hoặc tiến vào một cách nhẹ nhàng và cố gắng trốn thoát cùng thông tin trong cổng máy tính.\n\nCảnh báo - Nếu bạn ở lại làng lâu hơn [timer_duration] hay xây dựng bất kỳ thứ gì quanh nó, dân địa phương sẽ tấn công, và gọi cứu trợ.</li>
+    <li>visitInfo(allowViolentQuests==false)->Họ cho phép bạn đến thăm nó.</li>
+  </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [adj] [terminalName]</li>
+    <li>adj->worshipped</li>
+    <li>adj->venerated</li>
+    <li>adj->ancient</li>
+    <li>adj->villager's</li>
+    <li>adj->village</li>
+    <li>adj->tribal</li>
+    <li>adj->secret</li>
+    <li>terminalName(p=4)->terminal</li>
+    <li>terminalName->machine</li>
+    <li>terminalName->device</li>
+    <li>terminalName->screen</li>
+    <li>terminalName->computer</li>
+    <li>terminalName->databank</li>
+    <li>terminalName->database</li>
+    <li>terminalName->silicon</li>
+  -->
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings>
+    <li>questName->[terminalName] [adj]</li>
+    <li>adj->được tôn sùng</li>
+    <li>adj->được tôn kính</li>
+    <li>adj->cổ 9dai5</li>
+    <li>adj->của dân làng</li>
+    <li>adj->của làng</li>
+    <li>adj->của bộ lạc</li>
+    <li>adj->bí mật</li>
+    <li>terminalName(p=4)->Cổng máy tính</li>
+    <li>terminalName->cổ máy</li>
+    <li>terminalName->thiết bị</li>
+    <li>terminalName->màn hình</li>
+    <li>terminalName->máy tính</li>
+    <li>terminalName->cổng thông tin</li>
+    <li>terminalName->cơ sở dữ liệu</li>
+    <li>terminalName->máy tính</li>
+  </Hack_WorshippedTerminal.questNameRules.rulesStrings>
+  
+</LanguageData>

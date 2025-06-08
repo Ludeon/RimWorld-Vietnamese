@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <Beauty.degreeDatas.beautiful.label>xinh đẹp</Beauty.degreeDatas.beautiful.label>
+  <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] đặc biệt đẹp, với cấu trúc khuôn mặt kỳ lạ nhưng quen thuộc và ánh mắt bắt mắt. Mọi người bị thu hút vào [PAWN_objective] trước khi [PAWN_pronoun] thậm chí mở miệng [PAWN_possessive].</Beauty.degreeDatas.beautiful.description>
+  <!-- EN: pretty -->
+  <Beauty.degreeDatas.pretty.label>dễ thương</Beauty.degreeDatas.pretty.label>
+  <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef] có khuôn mặt đẹp, điều này khiến mọi người thích [PAWN_objective].</Beauty.degreeDatas.pretty.description>
+  <!-- EN: ugly -->
+  <Beauty.degreeDatas.ugly.label>xấu xí</Beauty.degreeDatas.ugly.label>
+  <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] có phần xấu xí. Điều này khéo léo đẩy lùi người khác trong các tương tác xã hội.</Beauty.degreeDatas.ugly.description>
+  <!-- EN: staggeringly ugly -->
+  <Beauty.degreeDatas.staggeringly_ugly.label>xấu kinh</Beauty.degreeDatas.staggeringly_ugly.label>
+  <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] xấu xí đáng kinh ngạc. Khuôn mặt [PAWN_possessive] trông giống như sự giao thoa giữa một bức vẽ của một đứa trẻ không có bằng cấp, một bào thai dị dạng trong một lọ formaldehyd và một tác phẩm nghệ thuật hiện đại. Những người khác phải nỗ lực có ý thức để xem xét [PAWN_objective] trong khi trò chuyện.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>mê hóa học</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] có một niềm đam mê hưởng thụ mãnh liệt với các nguồn hóa học. [PAWN_pronoun] sẽ tiêu thụ nhiều hơn trong số họ, và đôi khi sẽ tiếp tục sử dụng các loại thuốc cứng. [PAWN_pronoun] sẽ bỏ qua các chỉ thị để không sử dụng thuốc dễ chịu.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: chemical interest -->
+  <DrugDesire.degreeDatas.chemical_interest.label>cuồng hóa học</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] có mối quan tâm bất thường đối với các nguồn hóa học. [PAWN_pronoun] sẽ tiêu thụ nhiều hơn trong số họ, và đôi khi sẽ tiếp tục sử dụng ma túy tổng hợp. [PAWN_pronoun] sẽ bỏ qua các chỉ thị để không sử dụng thuốc dễ chịu.</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: teetotaler -->
+  <DrugDesire.degreeDatas.teetotaler.label>cai rựu</DrugDesire.degreeDatas.teetotaler.label>
+  <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] đưa ra ý tưởng đạt được khoái cảm từ hóa chất, tránh xa rượu và các loại thuốc dễ chịu.</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <!-- EN: super-immune -->
+  <Immunity.degreeDatas.superimmune.label>siêu miễn dịch</Immunity.degreeDatas.superimmune.label>
+  <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] có hệ thống miễn dịch mạnh mẽ tự nhiên. [PAWN_pronoun] sẽ có được khả năng miễn dịch nhanh hơn nhiều so với một người bình thường và có thể sống sót sau những căn bệnh giết chết người khác.</Immunity.degreeDatas.superimmune.description>
+  <!-- EN: sickly -->
+  <Immunity.degreeDatas.sickly.label>ốm yếu</Immunity.degreeDatas.sickly.label>
+  <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] có một hệ thống miễn dịch khủng khiếp. [PAWN_pronoun] bị bệnh thường xuyên hơn bình thường, thường xuyên mắc các bệnh mà không ai ở thuộc địa bị ảnh hưởng.</Immunity.degreeDatas.sickly.description>
+  
+  <!-- EN: industrious -->
+  <Industriousness.degreeDatas.industrious.label>siêng năng</Industriousness.degreeDatas.industrious.label>
+  <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] có thời gian thực hiện nhiệm vụ và tập trung dễ dàng và hoàn thành công việc nhanh hơn nhiều so với người bình thường.</Industriousness.degreeDatas.industrious.description>
+  <!-- EN: hard worker -->
+  <Industriousness.degreeDatas.hard_worker.label>chăm chỉ</Industriousness.degreeDatas.hard_worker.label>
+  <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] là một nhân viên chăm chỉ tự nhiên và sẽ hoàn thành nhiệm vụ nhanh hơn hầu hết.</Industriousness.degreeDatas.hard_worker.description>
+  <!-- EN: lazy -->
+  <Industriousness.degreeDatas.lazy.label>lười biếng</Industriousness.degreeDatas.lazy.label>
+  <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] hơi lười biếng.</Industriousness.degreeDatas.lazy.description>
+  <!-- EN: slothful -->
+  <Industriousness.degreeDatas.slothful.label>biếng nhát</Industriousness.degreeDatas.slothful.label>
+  <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] thích sự nhàn rỗi và ghét bất cứ điều gì có ích. [PAWN_pronoun] di chuyển chậm và hiếm khi tập trung vào một nhiệm vụ.</Industriousness.degreeDatas.slothful.description>
+  
+  <!-- EN: sanguine -->
+  <NaturalMood.degreeDatas.sanguine.label>lạc quan</NaturalMood.degreeDatas.sanguine.label>
+  <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] hoàn toàn lạc quan về tình huống [PAWN_possessive], gần như mọi lúc, bất kể đó là gì.</NaturalMood.degreeDatas.sanguine.description>
+  <!-- EN: optimist -->
+  <NaturalMood.degreeDatas.optimist.label>yêu đời</NaturalMood.degreeDatas.optimist.label>
+  <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] tự nhiên lạc quan về cuộc sống. Thật khó để hạ [PAWN_objective].</NaturalMood.degreeDatas.optimist.description>
+  <!-- EN: pessimist -->
+  <NaturalMood.degreeDatas.pessimist.label>bi quan</NaturalMood.degreeDatas.pessimist.label>
+  <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] có xu hướng nhìn vào mặt xấu của cuộc sống.</NaturalMood.degreeDatas.pessimist.description>
+  <!-- EN: depressive -->
+  <NaturalMood.degreeDatas.depressive.label>trầm cảm</NaturalMood.degreeDatas.depressive.label>
+  <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] không hạnh phúc lâu dài. [PAWN_pronoun] gặp khó khăn trong việc duy trì tâm trạng tốt ngay cả khi mọi thứ đều ổn.</NaturalMood.degreeDatas.depressive.description>
+  
+  <!-- EN: iron-willed -->
+  <Nerves.degreeDatas.ironwilled.label>tinh thần thép</Nerves.degreeDatas.ironwilled.label>
+  <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
+  <Nerves.degreeDatas.ironwilled.description>Ý chí của [PAWN_nameDef] là một lá chắn sắt. [PAWN_pronoun] tiếp tục trải qua dày và mỏng, khi những người khác đã phá vỡ từ lâu trước đó.</Nerves.degreeDatas.ironwilled.description>
+  <!-- EN: steadfast -->
+  <Nerves.degreeDatas.steadfast.label>kiên định</Nerves.degreeDatas.steadfast.label>
+  <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
+  <Nerves.degreeDatas.steadfast.description>Khó khăn về tinh thần sẽ không làm suy sụp [PAWN_nameDef] khi mà những căng thẳng đó sẽ làm rạn nứt hầu hết mọi người.</Nerves.degreeDatas.steadfast.description>
+  <!-- EN: nervous -->
+  <Nerves.degreeDatas.nervous.label>lo lắng</Nerves.degreeDatas.nervous.label>
+  <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] có xu hướng bị nứt dưới áp lực.</Nerves.degreeDatas.nervous.description>
+  <!-- EN: volatile -->
+  <Nerves.degreeDatas.volatile.label>đa cảm</Nerves.degreeDatas.volatile.label>
+  <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] luôn luôn kích hoạt cảm xúc. [PAWN_pronoun] là người đầu tiên phá vỡ trong mọi tình huống khó khăn.</Nerves.degreeDatas.volatile.description>
+  
+  <!-- EN: neurotic -->
+  <Neurotic.degreeDatas.neurotic.label>thần kinh</Neurotic.degreeDatas.neurotic.label>
+  <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] thích bình phương mọi thứ. [PAWN_pronoun] sẽ làm việc chăm chỉ hơn hầu hết để đạt được trạng thái này, nhưng các dây thần kinh [PAWN_possessive] có thể giúp [PAWN_objective] tốt hơn.</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: very neurotic -->
+  <Neurotic.degreeDatas.very_neurotic.label>rất thần kinh</Neurotic.degreeDatas.very_neurotic.label>
+  <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] cảm thấy liên tục lo lắng về mọi thứ phải hoàn thành. [PAWN_pronoun] sẽ làm việc cực kỳ chăm chỉ để đạt được trạng thái này, nhưng các dây thần kinh [PAWN_possessive] có thể dễ dàng có được sự tốt hơn của [PAWN_objective].</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <!-- EN: psychically hypersensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>thần kinh quá mẫn</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>Thần kinh của [PAWN_nameDef] giống như một ngã ba điều chỉnh tâm linh. [PAWN_pronoun] cực kỳ nhạy cảm với các xung thần kinh.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <!-- EN: psychically sensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>thần kinh nhạy cảm</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>Thần kinh của [PAWN_nameDef] nhạy cảm một cách bất thường với các xung thần kinh.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <!-- EN: psychically dull -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>thần kinh vững</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>Thần kinh của [PAWN_nameDef] không như những người khác. [PAWN_pronoun] không bị ảnh hưởng bởi các xung thần kinh.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <!-- EN: psychically deaf -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>thần kinh thép</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>Thần kinh của [PAWN_nameDef] hoạt động trên một tần số tâm linh khác với mọi người khác. [PAWN_pronoun] không bị ảnh hưởng bởi các xung thần kinh.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>bắn cẩn thận</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] cần nhiều thời gian hơn để ngắm khi bắn. [PAWN_pronoun] bắn ít hơn những người khác, nhưng với độ chính xác cao hơn.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>thích bóp cò</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pew! Pew! Pew! [PAWN_nameDef] chỉ thích kéo cò. [PAWN_pronoun] bắn nhanh hơn những người khác, nhưng kém chính xác hơn.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <!-- EN: slowpoke -->
+  <SpeedOffset.degreeDatas.slowpoke.label>chậm chạp</SpeedOffset.degreeDatas.slowpoke.label>
+  <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] luôn bị tụt lại phía sau nhóm bất cứ khi nào [PAWN_pronoun] đi bất cứ đâu.</SpeedOffset.degreeDatas.slowpoke.description>
+  <!-- EN: fast walker -->
+  <SpeedOffset.degreeDatas.fast_walker.label>nhanh nhẹn</SpeedOffset.degreeDatas.fast_walker.label>
+  <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] thích ở nơi [PAWN_pronoun] sẽ đến. [PAWN_pronoun] đi bộ nhanh hơn hầu hết mọi người.</SpeedOffset.degreeDatas.fast_walker.description>
+  <!-- EN: jogger -->
+  <SpeedOffset.degreeDatas.jogger.label>điền kinh</SpeedOffset.degreeDatas.jogger.label>
+  <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] luôn di chuyển với cảm giác cấp bách - đến mức những người khác thường không theo kịp.</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

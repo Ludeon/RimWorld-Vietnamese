@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!\n\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
+    <li>underArmedGuard-></li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription->Một tù nhân đang bị giam giữ bởi [siteFaction_name] đã tìm cách đánh cắp radio và gọi cho bạn!\n\n[prisoner_nameDef] đang bị giam giữ tại một trại gần [map_definite][underArmedGuard]. Giải cứu [prisoner_objective] và [prisoner_pronoun] sẽ gia nhập thuộc địa của bạn. [prisoner_pronoun] là một [prisoner_title] ở [prisoner_age] tuổi. [prisoner_pronoun] nói rằng [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nNếu bạn bỏ lỡ cơ hội này, bạn có thể không bao giờ nghe thấy từ [prisoner_nameDef] nữa.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->dưới sự bảo vệ có vũ trang</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[prisoner_nameDef]'s Salvation</li>
+    <li>questName->[prisoner_nameDef]'s Rescue</li>
+    <li>questName->[prisoner_nameDef]'s Breakout</li>
+    <li>questName->Rescuing [prisoner_nameDef]</li>
+    <li>questName->Saving [prisoner_nameDef]</li>
+    <li>questName->Breaking [prisoner_nameDef] Out</li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->Cứu rỗi [prisoner_nameDef]</li>
+    <li>questName->Giải cứu [prisoner_nameDef]</li>
+    <li>questName->Đột kích cứu [prisoner_nameDef]</li>
+    <li>questName->Giải thoát [prisoner_nameDef]</li>
+    <li>questName->Giúp đỡ [prisoner_nameDef]</li>
+    <li>questName->Đưa [prisoner_nameDef] ra ngoài</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  
+</LanguageData>

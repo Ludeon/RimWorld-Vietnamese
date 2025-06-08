@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf joint -->
+  <SmokeleafJoint.label>thuốc lá</SmokeleafJoint.label>
+  <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
+  <SmokeleafJoint.description>Lá thuốc lá được gói lại để hút. Cải thiện cảm xúc nhưng lại tạo cảm giác đói, làm mất tập trung và giảm tốc độ di chuyển và có thể dẫn đến nghiện nặng nếu dùng thường xuyên.\n\nĐiếu thuốc có thể được làm tại điểm chế tạo mà không cần trang thiết bị tiên tiến gì, và là biểu tượng văn hóa của nhiều bộ lạc xưa cũ.</SmokeleafJoint.description>
+  <!-- EN: Smoke {0} -->
+  <SmokeleafJoint.ingestible.ingestCommandString>Hút {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <SmokeleafJoint.ingestible.ingestReportString>Đang hút {0}.</SmokeleafJoint.ingestible.ingestReportString>
+  <!-- EN: Consuming {0}. -->
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Đang xài {0}.</SmokeleafJoint.ingestible.ingestReportStringEat>
+  
+</LanguageData>

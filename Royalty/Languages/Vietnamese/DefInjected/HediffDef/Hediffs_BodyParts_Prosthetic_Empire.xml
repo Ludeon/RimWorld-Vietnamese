@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drill arm -->
+  <DrillArm.label>cánh tay khoan</DrillArm.label>
+  <!-- EN: An installed drill arm. Allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <DrillArm.description>Một cánh tay khoan được cài đặt.</DrillArm.description>
+  <!-- EN: drill -->
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>máy khoan</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <!-- EN: a drill arm -->
+  <DrillArm.labelNoun>một cánh tay khoan</DrillArm.labelNoun>
+  
+  <!-- EN: elbow blade -->
+  <ElbowBlade.label>lưỡi dao khuỷu tay</ElbowBlade.label>
+  <!-- EN: An installed elbow blade. Extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
+  <ElbowBlade.description>Một lưỡi dao khuỷu tay được cài đặt.</ElbowBlade.description>
+  <!-- EN: blade -->
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>lưỡi dao</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <!-- EN: an elbow blade -->
+  <ElbowBlade.labelNoun>một lưỡi dao khuỷu tay</ElbowBlade.labelNoun>
+  
+  <!-- EN: field hand -->
+  <FieldHand.label>bàn tay lĩnh vực</FieldHand.label>
+  <!-- EN: An installed field hand. Made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <FieldHand.description>Một bàn tay lĩnh vực được cài đặt.</FieldHand.description>
+  <!-- EN: knuckle -->
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>đốt ngón tay</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <!-- EN: a field hand -->
+  <FieldHand.labelNoun>một bàn tay lĩnh vực</FieldHand.labelNoun>
+  
+  <!-- EN: hand talon -->
+  <HandTalon.label>bàn tay</HandTalon.label>
+  <!-- EN: An installed hand talon. Extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
+  <HandTalon.description>Một bàn tay được cài đặt.</HandTalon.description>
+  <!-- EN: talon -->
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>vuốt</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <!-- EN: a hand talon -->
+  <HandTalon.labelNoun>một bàn tay</HandTalon.labelNoun>
+  
+  <!-- EN: knee spike -->
+  <KneeSpike.label>gai đầu gối</KneeSpike.label>
+  <!-- EN: An installed knee spike. Extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
+  <KneeSpike.description>Một gai đầu gối được cài đặt.</KneeSpike.description>
+  <!-- EN: spike -->
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>gai</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <!-- EN: a knee spike -->
+  <KneeSpike.labelNoun>một gai đầu gối</KneeSpike.labelNoun>
+  
+  <!-- EN: mindscrew -->
+  <Mindscrew.label>bộ não</Mindscrew.label>
+  <!-- EN: An installed mindscrew. Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
+  <Mindscrew.description>Một bộ não đã được cài đặt.</Mindscrew.description>
+  <!-- EN: a mindscrew -->
+  <Mindscrew.labelNoun>một bộ não</Mindscrew.labelNoun>
+  
+  <!-- EN: venom fangs -->
+  <VenomFangs.label>nanh nọc độc</VenomFangs.label>
+  <!-- EN: An installed set of venom fangs. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
+  <VenomFangs.description>Một bộ răng nanh nọc độc đã được lắp đặt.</VenomFangs.description>
+  <!-- EN: venom fangs -->
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>nanh nọc độc</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <!-- EN: a set of venom fangs -->
+  <VenomFangs.labelNoun>một bộ răng nanh nọc độc</VenomFangs.labelNoun>
+  
+  <!-- EN: venom talon -->
+  <VenomTalon.label>vuốt độc</VenomTalon.label>
+  <!-- EN: An installed venom talon. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
+  <VenomTalon.description>Một móng vuốt tẩm độc được cài đặt.</VenomTalon.description>
+  <!-- EN: venom talon -->
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>vuốt độc</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <!-- EN: a venom talon -->
+  <VenomTalon.labelNoun>một móng vuốt tẩm độc</VenomTalon.labelNoun>
+  
+</LanguageData>

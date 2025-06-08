@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentAbhorrent.label>Lãnh đạo của các biểu tượng khác nhau</IdeoLeaderResentmentAbhorrent.label>
+  <!-- EN: To accept direction from a {0} is utterly shameful and abhorrent. -->
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>Chấp nhận chỉ đạo từ {0} là điều hoàn toàn đáng xấu hổ và ghê tởm.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentDisapproved.label>Lãnh đạo của các biểu tượng khác nhau</IdeoLeaderResentmentDisapproved.label>
+  <!-- EN: It's insulting to be ordered around by a {0}. -->
+  <IdeoLeaderResentmentDisapproved.stages.0.description>Thật là xúc phạm khi được đặt hàng bởi một {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentHorrible.label>Lãnh đạo của các biểu tượng khác nhau</IdeoLeaderResentmentHorrible.label>
+  <!-- EN: It's shameful to be ordered around by a {0}! -->
+  <IdeoLeaderResentmentHorrible.stages.0.description>Thật đáng xấu hổ khi bị {0} đặt hàng!</IdeoLeaderResentmentHorrible.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentStandard.label>Lãnh đạo của các biểu tượng khác nhau</IdeoLeaderResentmentStandard.label>
+  <!-- EN: I don't like having a {0} as a leader. -->
+  <IdeoLeaderResentmentStandard.stages.0.description>Tôi không thích có {0} làm lãnh đạo.</IdeoLeaderResentmentStandard.stages.0.description>
+  
+  <!-- EN: Want {ROLE_label} apparel -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Muốn quần áo {ROLE_label}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+  <!-- EN: I want to wear apparel appropriate for my role as {ROLE_labelDef} -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Tôi muốn mặc trang phục phù hợp với vai trò {ROLE_labelDef} của mình</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+  
+  <!-- EN: No {ROLE_label} -->
+  <IdeoRoleEmpty.stages.No.label>Không có {ROLE_label}</IdeoRoleEmpty.stages.No.label>
+  <!-- EN: {0}s must have {ROLE_labelIndef}! -->
+  <IdeoRoleEmpty.stages.No.description>{0} phải có {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
+  
+  <!-- EN: Lost {ROLE_label} role -->
+  <IdeoRoleLost.stages.Lost_role.label>Đã mất vai trò {ROLE_label}</IdeoRoleLost.stages.Lost_role.label>
+  <!-- EN: I lost my role as {ROLE_labelDef}. -->
+  <IdeoRoleLost.stages.Lost_role.description>Tôi đã mất vai trò {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
+  
+</LanguageData>

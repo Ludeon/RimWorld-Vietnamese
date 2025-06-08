@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>Hướng dẫn</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>Chơi mới</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>Trở lại trò chơi</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>Xem lại kịch bản</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>Lưu</Save>
+  <!-- EN: Load game -->
+  <LoadGame>Tải lại</LoadGame>
+  <!-- EN: Options -->
+  <Options>Cài đặt</Options>
+  <!-- EN: Mod -->
+  <Mod>Mod</Mod>
+  <!-- EN: Mods -->
+  <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Tạo báo cáo bản dịch</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Đang tạo báo cáo bản dịch</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Tối ưu File dịch</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Cập nhật tệp dịch (TKey's)</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Đang tối ưu File dịch</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>DEV kiểm tra nhanh</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>Credits</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>Trở về menu chính</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>Lưu và trở về menu</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>Thoát game</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>Lưu và thoát game</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Tiểu thuyết viễn tưởng</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>Diễn Đàn</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>Tynan's book</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>Hỗ trợ dịch</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Mua Soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>Tạo thế giới</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Tất cả bản dịch của rimworld đều được làm bởi người hâm mộ. Bản dịch do người hâm mộ tạo ra này được tạo bởi những tình nguyện viên xuất sắc sau đây:\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Phiên bản Việt hoá: v1.5.4409 (ALL DLC)\n\nBạn cũng có thể đóng góp cho bản dịch tốt hơn hoặc tải bản dịch mới nhất tại discord rimworld việt nam https://discord.gg/pKGzEuz9MU </TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Tìm hiểu thêm</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Warning: Đây là một phiên bản phát triển không ổn định. Điều này có nghĩa là chúng tôi đang chạy thử nghiệm thiết kế và phát triển kỹ thuật.\n\nMột số thứ sẽ tạm thời ko như dự định. Đây là một phương pháp thiết kế trò chơi cổ điển mà chúng tôi cố tình triển khai để hiểu rõ hơn về ranh giới ổn định. Sau đó chúng ta có thể sử dụng thông tin đó để quyết định điểm ổn định cuối cùng.\n\nCũng sẽ có lỗi, bao gồm cả những người kiểm định game. Bản Lưu có khả năng không tương thích và có thể bị hỏng bất cứ lúc nào.\n\nNếu bạn ổn với tất cả những điều này, cảm ơn bạn đã tham gia thử nghiệm! Nếu bạn không muốn chịu sự thử nghiệm của chúng tôi, vui lòng chơi phiên bản ổn định mới nhất.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>Đánh giá thế giới</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>Tạo</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>Lưu và hoàn thành</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>Đặt lại phe phái</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>Độ bao phủ</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>Lượng mưa tổng thể</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>Nhiệt độ tổng thể</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>Dân số</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>Thấp</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>Bình thường</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>Cao</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>Thấp</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>Bình thường</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>Cao</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>Thưa thớt</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>Bình thường</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>Đông người</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>Mã kiến tạo</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>Mã kiến tạo ngẫu nhiên</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>Hành tinh này luôn luôn có cùng một đường kính, nhưng vì nó lớn hơn nhiều so với cần thiết để chơi, chúng ta không nên tạo ra toàn bộ bề mặt bởi vì nó có thể mất rất nhiều thời gian. Đây là phần trăm bề mặt bạn muốn tạo.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>Các phe phái</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>Chọn thế giới</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>Chọn</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>Không tìm thấy thế giới nào. Hãy tạo một thế giới trước đã.</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>Phiên bản {0} đã ra mắt. Truy cập ludeon.com để biết thêm thông tin.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>Đây là phiên bản mới nhất.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>Lỗi khi tải thông tin phiên bản: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>Đang tải thông tin phiên bản ...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>Tạo thế giới</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Mở steam workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>Tải mod từ diễn đàn</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>Mở thư mục mod</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Hiển thị vị trí dữ liệu mod</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>Bạn có chắc chắn muốn tắt mod cốt lõi không? Trò chơi sẽ không hoạt động chút nào trừ khi bạn có một mod khác thay thế tất cả chức năng chính.\n\nHãy nhớ rằng, các mod khác có thể ghi đè các lỗi trong mod cốt lõi bằng cách sử dụng cùng một defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>Bạn có chắc chắn muốn xóa tất cả nội dung cho {0}?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>Tự sắp xếp</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>Lưu và áp dụng các thay đổi</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>Thay đổi mod chưa được lưu. Bạn có chắc chắn muốn tiếp tục không?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Không thể di chuyển {0}: Nó phải được tải sau {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Không thể di chuyển {0}: Nó phải được tải trước {1}.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>Hủy đăng ký</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>Bạn có chắc chắn muốn hủy đăng ký {0}?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>Bạn có chắc chắn muốn hủy đăng ký khỏi {0} không?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>Bạn có chắc chắn muốn hủy đăng ký:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>Tác giả</Author>
+  <!-- EN: Enabled -->
+  <Enabled>Đã bật</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>Vô hiệu hóa</Disabled>
+  <!-- EN: Enable -->
+  <Enable>Bật</Enable>
+  <!-- EN: Disable -->
+  <Disable>Vô hiệu hóa</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>Nhận mod từ...</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>Hủy đăng ký khỏi...</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>Lưu/tải danh sách...</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>Lưu danh sách mod</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>Tải danh sách mod</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>Đã thêm mod</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>Thiếu mod</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>Chia sẻ mod</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>Website</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>Mở thư mục</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>Tùy chọn mod</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>Workshop</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>Forum</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>Nâng cao...</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>Chọn tất cả các mod</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>Vô hiệu hóa tất cả các mod</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>Tất cả các mod không tương thích</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>Trang Workshop </WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Đăng lên Steam workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Cập nhật lên Steam workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>Đang tải lên.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>Không thể gửi lên workshop.\n\nLý do: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>Tải lên workshop thành công {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>Đang tải</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>Workshop ID</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>Hiển thị yêu cầu để đáp ứng</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>Bấm để chọn.</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>Nhấn vào đây để đi đến trang web.</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>Nguồn</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>Dành cho phiên bản trò chơi</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>Phiên bản mod</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ID</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>Mod này phải được tải trước: {0}.</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>Mod này phải được tải sau: {0}.</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>Yêu cầu: {0}</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>Không tương thích với: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>Bản mod này không tương thích với: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>Mod này đang tải theo thứ tự sai so với mod khác. Sử dụng nút 'tự động sắp xếp' hoặc sắp xếp lại các mod theo cách thủ công.</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>Một mod hoạt động khác sử dụng cùng một ID: {0}.</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>Có một mod yêu cầu được tải cùng {0}.</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>Mod này yêu cầu các mod sau cùng hoạt động: {0}.</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>Bản mod này không dành cho phiên bản RimWorld này và có thể sẽ không hoạt động chính xác.</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>Bản mod này không được tạo cho phiên bản RimWorld này.</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Bản mod này được tạo cho phiên bản mới hơn của RimWorld so với bản này và có thể sẽ không hoạt động chính xác.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Mod cần định dạng đúng thông tin phiên bản được hỗ trợ trong About.xml. Chi tiết: {0} -  không được chấp nhận. Kiểm tra nhật ký để biết thêm thông tin.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>Mod cần một packageId duy nhất, được định dạng chính xác trong About.xml. Nó phải đáp ứng các yêu cầu sau đây:\n\n  - Ký tự chữ và số và chỉ chấm.\n  - Không có khoảng trắng.\n  - Ít nhất một dấu chấm.\n  - Không có dấu chấm lặp lại trong một hàng, hoặc bắt đầu hoặc kết thúc bằng dấu chấm.\n  - 60 ký tự trở xuống.\n  - Không thể chứa từ "Ludeon".\n\nVí dụ:\nAuthorName.ModName\nAuthorName.ModName.Specific</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>Bản mod này có vấn đề trong LoadFolders.xml, mà bạn cần giải quyết trước khi tải lên:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>Thư mục {0} được chỉ định cho phiên bản {1} không tồn tại.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>Chuỗi phiên bản không đúng định dạng '{0}'. Định dạng đúng là Major.Minor (ví dụ: 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>Danh sách các thư mục tải cho phiên bản {0} trống.</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>Phiên bản {0} liệt kê cùng một thư mục nhiều lần: {1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>Thứ tự phiên bản không hợp lệ: {0} phải đến trước {1}.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>Thứ tự phiên bản không hợp lệ: 'mặc định' phải được xác định trước.</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>Sử dụng 'mặc định' trong các thư mục tải không được dùng nữa. Vui lòng xác định thư mục cho từng phiên bản bằng cách sử dụng thẻ v.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Phiên bản {0} được xác định trong các thư mục tải, nhưng không được liệt kê trong 'ManagedVersions' của mod 'About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Kéo để sắp xếp lại</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>Chọn kịch bản</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>Tùy chọn</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Soạn thảo kịch bản</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>Xóa</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>mã kiến tạo</Seed>
+  <!-- EN: Load -->
+  <Load>Tải</Load>
+  <!-- EN: edit mode -->
+  <EditMode>Chế độ chỉnh sửa</EditMode>
+  <!-- EN: Summary -->
+  <Summary>Tóm lược</Summary>
+  <!-- EN: Add part -->
+  <AddPart>Thêm</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>Tất cả các trường văn bản phải được điền.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>bạn có chắc muốn đăng lên Steam Workshop?\n\nBạn phải đồng ý với các điều khoản dịch vụ của Steam Workshop. Tìm các điều khoản đầy đủ ở đây:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>Bạn chỉ nên tải lên nội dung do chính bạn tạo ra.\n\nCó đúng bạn đã tự tạo nội dung này?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>Không tương thích</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>Gắn thẻ là bản dịch</TagAsTranslation>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>Quá nhiều (tối đa {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>Có thể cập nhật lên workshop, vì bạn là tác giả.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>Tình huống này đã được chỉnh sửa.\n\nBạn có muốn lưu nó trước khi tiếp tục không?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>Chọn người kể chuyện</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>Người kể chuyện tạo ra các sự kiện như cướp tấn công, động vật nổi điên. Lựa chọn của họ sẽ ảnh hưởng đến câu chuyện về thuộc địa của bạn. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>Vui lòng chọn cài đặt độ khó.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>Độ khó</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Chế độ cam kết</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Chế độ tải lại bất cứ lúc nào</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Vui lòng chọn chế độ cam kết hoặc chế độ tải lại.</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Bạn có thể lưu và tải bất cứ lúc nào.\n\nĐây là một lựa chọn tốt nếu bạn vẫn đang học cách chơi trò chơi, nếu nó phù hợp với lối chơi cá nhân của bạn, nếu bạn đang sử dụng các mod có thể phá vỡ trò chơi của bạn hoặc nếu bạn có ý định tự thực thi chế độ cam kết.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>Bạn chỉ có thể lưu khi thoát game.\n\nVì RimWorld tạo ra các câu chuyện, thậm chí mất tất cả nhưng còn một người không phải là kết thúc của trò chơi - đó là một phần của câu chuyện. Trò chơi được thiết kế để cho phép phục hồi sau khi mất mác.\n\nXuất hiện những tình huống khủng khiếp này tạo nên một câu chuyện với cả bi kịch và chiến thắng. Đó là cách RimWorld được thiết kế để chơi.\n\nCó lý do Luke Skywalker không bỏ cuộc và tải lại khi gia đình anh ta bị giết - mất mát và hồi phục là rất lớn.</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>Người kể chuyện và độ khó khăn có thể thay đổi bất cứ lúc nào.</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>Cài đặt kiểu chơi tùy chỉnh</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>Đặt thành kiểu chơi tiêu chuẩn...</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>Các mối đe dọa</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>Quy mô đe dọa</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>Điều chỉnh quy mô của các mối đe dọa như đột kích và phá hoại cũng như độ khó của nhiệm vụ.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>Các mối đe dọa chính</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>Cho phép các mối đe dọa lớn như đột kích, phá hoại, thú triều, tàu cơ khí bị rơi và hơn thế nữa.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>Các mối đe dọa nhiệm vụ</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>Cho phép các nhiệm vụ xuất hiện với các mối đe dọa và thách thức bạo lực. Nếu tính năng này bị vô hiệu hóa, các nhiệm vụ sẽ được sửa đổi để không bạo lực.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>Mối đe dọa bên trong</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>Bật các mối đe dọa giới thiệu cố định xuất hiện gần khi trò chơi bắt đầu.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>Động vật ăn thịt săn con người</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>Cho phép những kẻ săn mồi hoang dã săn con người.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Thời tiết khác nghiệt</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Phòng tránh các sự cố thời tiết khắc nghiệt như bụi phóng xạ độc hại, mùa đông núi lửa và bão chớp.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>Kinh tế</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>Bất lợi về giá thương mại</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>Khi giao dịch, giá mua tăng lên bằng số tiền này trong khi giá bán giảm đi số tiền này.</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>Năng suất thu hoạch</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>Điều chỉnh lượng nguyên liệu tạo ra khi thu hoạch cây cối, hoa màu. Điều này bao gồm thu hoạch cây và chặt cây.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>Năng suất khai thác</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>Điều chỉnh lượng nguyên liệu sản xuất khi khai thác.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>Năng suất xẻ thịt</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>Điều chỉnh lượng nguyên liệu tạo ra khi xay thịt. Điều này bao gồm thịt, da và sản lượng từ các chất cơ học cắt nhỏ.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>Tốc độ nghiên cứu</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>Điều chỉnh tốc độ nghiên cứu.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>Phần thưởng nhiệm vụ</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>Điều chỉnh giá trị phần thưởng được trao cho các nhiệm vụ.\n\nLưu ý: Giá trị phần thưởng của nhiệm vụ cũng được tự động chia tỷ lệ để bù cho quy mô mối đe dọa. Nếu bạn điều chỉnh cài đặt này, bạn sẽ thêm một hệ số bổ sung.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>Cướp bóc đột kích</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>Điều chỉnh giá trị của chiến lợi phẩm được mang bởi những kẻ đột kích.\n\nLưu ý: Giá trị chiến lợi phẩm của cuộc đột kích cũng tự động được chia tỷ lệ để bù cho quy mô mối đe dọa. Nếu bạn điều chỉnh cài đặt này, bạn sẽ thêm một hệ số bổ sung.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>Chi phí trang bị tháp pháo</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>Điều chỉnh chi phí trang bị lại tháp pháo.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>Cơ hội thối rữa bệnh sốt rét</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>Xác suất một xác chết sẽ ngay lập tức thối rữa khi chết, nếu sinh vật mắc bệnh sốt rét.\n\nLưu ý: Cài đặt mặc định được thiết kế để cân bằng chính xác sự gia tăng số lượng động vật ở độ khó cao hơn, vì vậy tất cả người chơi đều nhận được phần thưởng thịt như nhau.</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Kẻ thù chết khi bị bắn hạ</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Điều chỉnh cơ hội tăng thêm khiến kẻ địch sẽ chết ngay lập tức khi bị hạ gục. Điều này ảnh hưởng đến cơ hội bắt tù nhân, và do đó tỷ lệ tăng dân số thuộc địa.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>Tổng quan</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>Tâm trạng cư dân</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>Một sự bù đắp tâm trạng vĩnh viễn áp dụng cho mọi cư dân và tù nhân. Cư dân có tâm trạng cơ bản là 50%.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>Cơ hội ngộ độc thực phẩm</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>Điều chỉnh khả năng một người sẽ bị ngộ độc thực phẩm do ăn một bữa ăn có khả năng bị nhiễm độc.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Cơ hội động vật trả thù</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Điều chỉnh cơ hội khiến động vật hoang dã bị thương sẽ khiến nó tấn công.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>Bắn thân thiện</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>Điều chỉnh cơ hội bắn giao hữu.\n\nLưu ý: Cài đặt này chỉ ảnh hưởng đến các phát bắn trực tiếp sẽ trúng mục tiêu của chúng. Nó không ngăn chặn thiệt hại do vụ nổ, hoặc từ các phát bắn trượt mục tiêu của họ.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>Cư dân giết ngay lập tức</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>Điều chỉnh cơ hội mà một thực dân có thể chết ngay lập tức do bị tấn công. Sát thương nhận vào được điều chỉnh để thay vào đó nó sẽ gây ra thiệt hại cho thực dân.\n\nĐiều này chỉ ngăn chặn một số loại giết chết tức thời - thực dân vẫn có thể bị hạ gục và chảy máu cho đến chết, chết vì lửa, nổ, dịch bệnh, v.v.</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Cơ hội lây nhiễm</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Điều chỉnh khả năng vết thương bị nhiễm trùng.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Tần suất bệnh</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Điều chỉnh tần suất của các sự kiện bệnh ngẫu nhiên.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>Tỷ lệ sinh sản của côn trùng</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>Điều chỉnh tốc độ tổ côn trùng hiện có đẻ ra côn trùng mới. Giá trị thấp hơn có nghĩa là sẽ có nhiều thời gian hơn giữa các sự kiện đẻ trứng.\n\nĐiều này không ảnh hưởng đến việc có thể xảy ra sự xâm nhập hay không - chỉ là tốc độ tổ côn trùng hoạt động tạo ra côn trùng.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Sự phá hoại của lỗ khoan sâu</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Điều chỉnh cơ hội để việc khoan sâu sẽ kích hoạt sự xâm nhập.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>Tạo bản đồ các mối đe dọa cổ xưa</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>Các cấu trúc cổ có thể chứa các mối đe dọa nguy hiểm.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>Tạo bản đồ tổ ong tự nhiên</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>Các tổ côn trùng không hoạt động có thể sinh ra trong các hang động tự nhiên.\n\nCài đặt này chỉ áp dụng cho việc tạo bản đồ và không ảnh hưởng đến các loài côn trùng đang hoạt động có thể chui vào trong khi chơi.</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>Thêm tù nhân kiên định</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>Tùy chọn này bổ sung thêm các tù nhân có thể bắt được vào trò chơi, những người không thể được chiêu mộ do có lòng trung thành vững chắc.\n\nCác tù nhân kiên định được thêm vào bên trên các tù nhân bình thường, vì vậy, việc tắt tùy chọn này sẽ không mang lại nhiều tù nhân có thể tuyển dụng hơn - tùy chọn này chỉ loại bỏ những tù nhân kiên định. \n\nNhững tù nhân kiên định vẫn có thể được phóng thích vì lợi ích ngoại giao, bị bán, bị bắt làm nô lệ, bị thu hoạch nội tạng hoặc bị sử dụng theo cách khác. Nói chung, chúng cung cấp nhiều tùy chọn và tài nguyên hơn, đồng thời làm cho trò chơi trở nên phong phú và dễ dàng hơn một chút.</Difficulty_UnwaveringPrisoners_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>Công cụ người chơi</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>Người chơi có thể xây dựng bẫy</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>Người chơi có thể xây dựng các bẫy như bẫy gai và bẫy IED.</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>Người chơi có thể xây tháp</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>Người chơi có thể xây dựng các tháp pháo tĩnh như tháp pháo mini, tháp pháo tự động và tháp pháo uranium.\n\nBạn vẫn có thể sử dụng các tháp đã bắt được ngay cả khi chức năng này bị tắt.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>Người chơi có thể chế tạo súng cối</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>Người chơi có thể chế tạo súng cối.\n\nBạn vẫn có thể sử dụng súng cối đã bắt được ngay cả khi chức năng này bị vô hiệu hóa.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Cối cổ điển</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Súng cối sẽ không yêu cầu thùng gia cố để xây dựng hoặc nạp đạn, và được cân bằng để dễ dàng tiếp cận.</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>Sự thích ứng</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Tốc độ tăng trưởng thích ứng</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Thích ứng có nghĩa là người kể chuyện làm cho trò chơi trở nên khó khăn hơn khi bạn đang làm tốt. Điểm thích ứng tăng dần theo thời gian và bị giảm xuống khi bạn nhận sát thương.\n\nCài đặt này điều chỉnh tốc độ tăng điểm của điểm thích ứng theo thời gian.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>Tác động thích ứng</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>Thích ứng có nghĩa là người kể chuyện làm cho trò chơi trở nên khó khăn hơn khi bạn đang làm tốt. Điểm thích ứng tăng lên theo thời gian và bị giảm xuống khi bạn nhận sát thương.\n\nCài đặt này điều chỉnh mức độ ảnh hưởng của điểm thích ứng với độ khó.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>Chế độ tiến trình không phụ thuộc vào sự giàu có</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>Chơi ở chế độ tiến độ không phụ thuộc vào sự giàu có.\n\nTrong chế độ bình thường, người kể chuyện chia tỷ lệ các mối đe dọa theo số lượng thực dân, mức độ giàu có của người chơi và nhiều yếu tố khác. Chế độ không phụ thuộc vào sự giàu có loại bỏ yếu tố giàu có và thay thế nó bằng một đường cong tiến trình cố định dựa trên thời gian. Thời gian được tính từ khi thành lập mỗi thuộc địa.\n\nChỉ nên áp dụng cách này cho những người đang tìm kiếm một thử thách kỹ năng nghiêm ngặt. Trong chế độ không phụ thuộc vào tài sản, có thể gần như không thể phục hồi sau những tổn thất nghiêm trọng trừ khi bạn tìm thấy một khu giải quyết mới. Cũng có thể đi quá xa trước khúc cua và thấy trò chơi quá dễ dàng.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>Nhiều năm cho đến khi mối đe dọa tối đa</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>Số năm trò chơi cho đến khi chế độ không phụ thuộc vào sự giàu có đạt đến mức độ đe dọa tối đa.\n\nLưu ý rằng người kể chuyện sẽ vẫn chia tỷ lệ các mối đe dọa theo số lượng thực dân và nhiều yếu tố khác.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>Tăng chuyển đổi pop thấp</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>Với một cư dân duy nhất của hệ tín ngưỡng ban đầu của người chơi, cơ hội chuyển đổi hệ tư tưởng của anh ta được nhân lên với số này. Các nỗ lực chuyển đổi chống lại chúng sẽ có tác động chia cho số đó.\n\nVới hai thuộc địa của hệ tư tưởng ban đầu của người chơi, hiệu ứng sẽ giảm một nửa.\n\nVới ba hoặc nhiều hơn thuộc địa của hệ tư tưởng ban đầu của người chơi, điều này không ảnh hưởng gì.</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Chọn nơi bắt đầu</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>Điểm đáp ngẫu nhiên</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>Chọn khu vực</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Vui lòng chọn nơi khởi đầu.</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>Bạn không thể đáp trên hệ sinh thái này: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>Hệ sinh thái chưa được triển khai</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>Bạn không thể đáp xuống những ngọn núi không thể vượt qua.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} đã có một căn cứ ở đây rồi.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>Bạn đã có một căn cứ ở đây rồi.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>Khu này đã bị chiếm đóng rồi.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>Các khu định cư không thể được tiếp giáp trực tiếp với nhau.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>Hệ sinh thái</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>Địa hình</Terrain>
+  <!-- EN: Road -->
+  <Road>Đường</Road>
+  <!-- EN: River -->
+  <River>Sông</River>
+  <!-- EN: Elevation -->
+  <Elevation>Độ cao</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>Khả năng sinh sản</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>khả năng sinh sản</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>Nhiệt độ trung bình</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Lượng mưa</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Tính chất đặc biệt</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>Bờ biển phía Bắc</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>Bờ biển phía Đông</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>Bờ biển phía Nam</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>Bờ biển phía Tây</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>Hang động</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Căn cứ phe phái</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Loại đá</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>Múi giờ</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Độ khó di chuyển</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Động vật ăn cỏ</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Tần suất bệnh trung bình</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>mỗi năm</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Khả năng thức ăn</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Không ai trong số những người được chọn có thể thực hiện các công việc sau: \n\n{0}\n\nĐiều này có thể làm cho trò chơi trở nên khó khăn hơn bình thường. Bạn có chắc chắn muốn tiếp tục không?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>nhiệt độ</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>sáng</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>Tạo nhân vật</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>Tên của nhân vật.\n\nĐiều này chỉ được hiển thị trong các menu nhất định.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Tên ngắn của nhân vật.\n\nĐiều này được hiển thị ở tất cả mọi nơi. Nó có thể là tên hoặc họ, hoặc một biệt danh hoàn toàn riêng biệt.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>Họ của nhân vật.\n\nĐiều này chỉ được hiển thị trong các menu nhất định.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Ngẫu nhiên</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>Tuổi {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, tuổi {PAWN_ageFull}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, tuổi {PAWN_ageFull}</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>Quá khứ</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Không đủ khả năng để</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>Khả năng</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>Gây ra bởi</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>Các loại công việc bị vô hiệu hóa:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>Gây ra bởi câu chuyện</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>Gây ra bởi chức vụ</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>Nguyên nhân do đặc điểm</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>Nguyên nhân do trạng thái nhiệm vụ</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>Do vai trò gây ra</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>do gen gây ra</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
+  <!-- EN: Traits -->
+  <Traits>Đặc điểm</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Hiệu ứng tâm trạng vĩnh viễn</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Kỹ năng</Skills>
+  <!-- EN: none -->
+  <NoneLower>Không có</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Thành niên</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Thiếu niên</Childhood>
+  <!-- EN: male -->
+  <Male>nam</Male>
+  <!-- EN: female -->
+  <Female>nữ</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>Nam và nữ</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>đực</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>cái</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Nỗi đau</Pain>
+  <!-- EN: Health -->
+  <Health>Sức khỏe</Health>
+  <!-- EN: Relations -->
+  <Relations>Quan hệ</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>Lãnh địa</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>Kỹ năng nhóm</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>Đã chọn</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Bị bỏ lại</StartingPawnsLeftBehind>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>Người thực dân này bị coi là có tội. Bạn có thể trục xuất, hành quyết hoặc bắt giữ họ một cách tự do và những người khác sẽ không bị làm phiền.\n\nTội lỗi hết hạn trong</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Bắt đầu</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Nâng cao</Advanced>
+  <!-- EN: Next -->
+  <Next>Tiếp theo</Next>
+  <!-- EN: Back -->
+  <Back>Quay lại</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>Liệt kê vật liệu</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>Cách chơi</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Bạn thực sự muốn thoát? Bạn sẽ mất tiến trình chưa được lưu.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Mỗi người cần có một tên phù hợp.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Không ai trong số những người được chọn có thể thực hiện các công việc sau</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Thoát</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Bỏ qua</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Đang tạo thế giới</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Đang tạo hành tinh</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Đang tạo bản đồ</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Tạo bản đồ cho lần chơi mới</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>Nhấn vào đây để biết thêm thông tin</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>Không có thêm thông tin có sẵn.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>Khuôn mặt</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>Cho phép tối đa {0} phe có thể nhìn thấy.</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>Không thể có nhiều hơn {0} {1}.</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Chọn các phe phái trên thế giới. Bạn có thể chọn tổng cộng tối đa {0} phe phái.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>Tắt {0} có nghĩa là ít nhiệm vụ đa dạng hơn và các nội dung khác bị giảm đi.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>Vô hiệu hóa {0} có nghĩa là ít mối đe dọa tự phát hơn.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là ít nhiệm vụ hơn và có nhiều mối đe dọa tự phát hơn.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Nếu không có các phe phái khác, các cuộc đột kích, giao dịch và nhiệm vụ sẽ không diễn ra như bình thường.</FactionsDisabledWarning>
+
+</LanguageData>

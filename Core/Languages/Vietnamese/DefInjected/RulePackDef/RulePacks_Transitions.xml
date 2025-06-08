@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->die</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->perish</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->expire</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->shut down</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->stop functioning</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->lose power</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->died</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->perished</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->expired</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->shut down</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
+  -->
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->bị chết</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->bị diệt vong</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->bị tử vong</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->bị dập tắt</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->ngừng hoạt dộng</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->mất đi sức mạnh</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->đã chết</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->đã diệt vong</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->đã kết thúc</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->ngừng hoạt dộng</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->mất đi sức mạnh</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->mất đi sức mạnh</li>
+  </Transition_Died.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>die(p=3)->explode [flavor]</li>
+    <li>die(p=3)->explode [flavorsuffix]</li>
+    <li>die->detonate [flavor]</li>
+    <li>die->detonate [flavorsuffix]</li>
+    <li>die->burst [flavor]</li>
+    <li>die->burst [flavorsuffix]</li>
+    <li>died(p=3)->exploded [flavor]</li>
+    <li>died->detonated [flavor]</li>
+    <li>died->burst [flavor]</li>
+    <li>flavor(p=0.2)->in a chemical [fireball]</li>
+    <li>flavor->in a [Color] [fireball]</li>
+    <li>flavor->in a [AdjectiveLarge] [fireball]</li>
+    <li>flavor(p=4)->in a [fireball]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavorsuffix->, scattering [pieces] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, scattering [Gore] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, leaving a small pile of [Gore]</li>
+    <li>flavorsuffix->, leaving a small crater</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->fireball</li>
+    <li>fireball->flameball</li>
+    <li>fireball->shockwave</li>
+    <li>fireball->conflagration</li>
+    <li>pieces->pieces</li>
+    <li>pieces->fragments</li>
+    <li>everywhere->everywhere</li>
+    <li>everywhere->far and wide</li>
+  -->
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die(p=3)->nổ [flavor]</li>
+    <li>die(p=3)->nổ [flavorsuffix]</li>
+    <li>die->kích nổ [flavor]</li>
+    <li>die->kích nổ [flavorsuffix]</li>
+    <li>die->vỡ ra [flavor]</li>
+    <li>die->vỡ ra [flavorsuffix]</li>
+    <li>died(p=3)->nổ tung [flavor]</li>
+    <li>died->kích nổ [flavor]</li>
+    <li>died->kích nổ [flavor]</li>
+    <li>flavor(p=0.2)->trong một [fireball] hóa chất</li>
+    <li>flavor->trong [fireball] [Color]</li>
+    <li>flavor->trong [fireball] [AdjectiveLarge]</li>
+    <li>flavor(p=4)->trong [fireball]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavorsuffix->, phân tán [pieces] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, phân tán [Gore] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, để lại một đống [Gore] nhỏ</li>
+    <li>flavorsuffix->, để lại một miệng núi lửa nhỏ</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->quả cầu lửa</li>
+    <li>fireball->quả cầu bốc cháy</li>
+    <li>fireball->quả cầu điện</li>
+    <li>fireball->quả cầu hủy diệt</li>
+    <li>pieces->miếng</li>
+    <li>pieces->mảnh vỡ</li>
+    <li>everywhere->mọi nơi</li>
+    <li>everywhere->xa và rộng</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+  -->
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] đã khiến [SUBJECT_definite] [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] đã khiến [SUBJECT_definite] [die].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>collapse->collapse</li>
+    <li>collapse->drop</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->crumple</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->crash</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->lock up</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->lose main power</li>
+    <li>collapsed->collapsed</li>
+    <li>collapsed->dropped</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->crumpled</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->crashed</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->locked up</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->lost main power</li>
+    <li>helplessly->helplessly</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->unconscious</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->weakly</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->feebly</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->uncontrollably</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  -->
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] đã khiến [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] đã khiến [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] làm [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] làm [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>collapse->sụp xuống</li>
+    <li>collapse->gục xuống</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->ngã gục</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->sụp đổ</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->hãm hại</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->mất điện chính</li>
+    <li>collapsed->đã sụp xuống</li>
+    <li>collapsed->đã gục xuống</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->đã ngã gục</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->đã sụp đổ</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->đã hãm hại</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->mất điện chính</li>
+    <li>helplessly->một cách bất lực</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->bất tỉnh</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->một cách yếu ớt</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->một cách yếu đuối</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->không kiểm soát được</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  </Transition_Downed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>duetoa->due to</li>
+    <li>duetoa(p=0.5)->because of</li>
+    <li>duetoa(p=0.5)->thanks to</li>
+  -->
+  <Transition_Include.rulePack.rulesStrings>
+    <li>duetoa->bởi vì</li>
+    <li>duetoa(p=0.5)->bởi vì</li>
+    <li>duetoa(p=0.5)->nhờ vào</li>
+  </Transition_Include.rulePack.rulesStrings>
+  
+</LanguageData>

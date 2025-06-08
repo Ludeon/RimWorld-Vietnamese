@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>retaliationLetterLabel->pollution retaliation</li>
+    <li>retaliationLetterText->A group of [enemyFaction_pawnsPlural] from [enemyFaction_name] have arrived nearby.\n\nThey are attacking to retaliate against you for dumping toxic waste outside your own colony, which they believe has harmed their faction.</li>
+  -->
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>Nhóm [enemyFaction_pawnsPlural] từ [enemyFaction_name] đã đến gần.\n\nHọ tấn công để trả đũa việc bạn đã thải chất thải độc hại ra ngoài thuộc địa của mình, điều mà họ tin rằng đã gây hại cho phe phái của họ.</li>
+  </PollutionRaid.questContentRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription->pollutionraid</li>
+  -->
+  <PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>Các cuộc tấn công liên quan đến việc gây ô nhiễm</li>
+  </PollutionRaid.questDescriptionRules.rulesStrings>
+
+  <!-- EN:
+    <li>questDescription->pollutionraid</li>
+  -->
+  <PollutionRaid.questNameRules.rulesStrings>
+    <li>Các Cuộc Tấn Công Ô Nhiễm</li>
+  </PollutionRaid.questNameRules.rulesStrings>
+
+</LanguageData>

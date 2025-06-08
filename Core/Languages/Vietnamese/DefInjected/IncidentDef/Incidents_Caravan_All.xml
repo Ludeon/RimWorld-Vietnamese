@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <Ambush.label>mai phục</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>Đoàn lữ hành phục kích</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>{0} đã bị phục kích bởi {1} từ {2}!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>nhu cầu thanh toán</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>cuộc đụng độ của đoàn lữ hành</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>thú săn người mai phục</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Đoàn lữ hành mai phục (thú săn người)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>{0} đã bị phục kích bởi thú săn người {1}!</ManhunterAmbush.letterText>
+  
+</LanguageData>

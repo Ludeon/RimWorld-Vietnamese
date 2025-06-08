@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entropy link -->
+  <EntropyLink.label>tâm linh tương thông</EntropyLink.label>
+  <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
+  <EntropyLink.description>Một liên kết tâm linh với một cá nhân khác. Tăng hoặc giảm nhiệt thần kinh do một người gây ra sẽ được chia đều cho cả hai.</EntropyLink.description>
+  
+  <!-- EN: joyfuzz -->
+  <Joyfuzz.label>vui sướng</Joyfuzz.label>
+  <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
+  <Joyfuzz.description>Cảm giác ấm áp, thoải mái và chấp nhận do tâm linh tạo ra. Điều này giúp cải thiện tâm trạng, nhưng thiếu kích thích tiêu cực sẽ gây ra cảm giác sững sờ nhẹ và giảm ý thức.</Joyfuzz.description>
+  
+  <!-- EN: psychic anesthesia -->
+  <PsychicAnesthesia.label>vô cảm - psy</PsychicAnesthesia.label>
+  <!-- EN: Psychically-induced pain insensitivity. -->
+  <PsychicAnesthesia.description>Tinh thần đau đớn vô cảm.</PsychicAnesthesia.description>
+  
+  <!-- EN: psychic blindness -->
+  <PsychicBlindness.label>mù - psy</PsychicBlindness.label>
+  <!-- EN: Psychically-induced partial blindness. -->
+  <PsychicBlindness.description>Nhiễu loạn thị giác.</PsychicBlindness.description>
+  
+  <!-- EN: psychic breakdown -->
+  <PsychicBreakdown.label>suy sụp - psy</PsychicBreakdown.label>
+  <!-- EN: Deep psychic destabilization of the mind. Psychic breakdown last for days, causing mental disturbances of various kinds. It resolves itself with time. -->
+  <PsychicBreakdown.description>Bất ổn tâm lý sâu sắc của tâm trí. Suy sụp tinh thần kéo dài trong nhiều ngày, gây rối loạn tâm thần các loại. Nó tự giải quyết với thời gian.</PsychicBreakdown.description>
+  <!-- EN: minor -->
+  <PsychicBreakdown.stages.minor.label>nhẹ</PsychicBreakdown.stages.minor.label>
+  <!-- EN: major -->
+  <PsychicBreakdown.stages.major.label>nhiều</PsychicBreakdown.stages.major.label>
+  <!-- EN: total -->
+  <PsychicBreakdown.stages.total.label>toàn bộ</PsychicBreakdown.stages.total.label>
+  
+  <!-- EN: psychic burden -->
+  <PsychicBurden.label>gánh nặng - psy</PsychicBurden.label>
+  <!-- EN: Psychically-induced difficulty in locomotion. -->
+  <PsychicBurden.description>Khó khăn về mặt tâm lý trong vận động.</PsychicBurden.description>
+  
+  <!-- EN: neural heat -->
+  <PsychicEntropy.label>nhiệt thần kinh</PsychicEntropy.label>
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
+  <PsychicEntropy.description>Mặc dù được gọi là "nhiệt", nhiệt thần kinh không phải là thước đo nhiệt độ. Nó đề cập đến một loại năng lượng tâm linh hỗn loạn trong tâm trí được tích tụ khi sử dụng năng lực và tiêu tan trong vài giây hoặc vài phút.\n\nNếu nhiệt thần kinh bị đẩy vượt quá giới hạn bình thường, nó có thể gây ra suy sụp tâm lý tạm thời, suy thoái liên kết tinh thần và cuối cùng là bất tỉnh do sốc tâm lý. Không có cái nào trong số này gây ra thiệt hại vĩnh viễn, nhưng chúng có thể khiến ai đó bất tỉnh trong nhiều ngày.</PsychicEntropy.description>
+  <!-- EN: Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness. -->
+  <PsychicEntropy.descriptionShort>Năng lượng hỗn loạn trong tâm trí tích tụ khi sử dụng siêu năng lực. Nếu vượt quá giới hạn bình thường, nó có thể gây suy sụp tinh thần và bất tỉnh.</PsychicEntropy.descriptionShort>
+  <!-- EN: safe -->
+  <PsychicEntropy.stages.safe.label>bình thường thôi</PsychicEntropy.stages.safe.label>
+  <!-- EN: overloaded -->
+  <PsychicEntropy.stages.overloaded.label>hơi căng đấy</PsychicEntropy.stages.overloaded.label>
+  <!-- EN: very overloaded -->
+  <PsychicEntropy.stages.very_overloaded.label>rất căng rồi</PsychicEntropy.stages.very_overloaded.label>
+  <!-- EN: extreme -->
+  <PsychicEntropy.stages.extreme.label>căng cực độ</PsychicEntropy.stages.extreme.label>
+  <!-- EN: overwhelming -->
+  <PsychicEntropy.stages.overwhelming.label>hết chịu nỗi</PsychicEntropy.stages.overwhelming.label>
+  
+  <!-- EN: psychic focus -->
+  <PsychicFocus.label>tập trung - psy</PsychicFocus.label>
+  <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capacities. -->
+  <PsychicFocus.description>Tập trung tinh thần gây ra tâm lý, tăng khả năng thị giác, thính giác và chuyển động.</PsychicFocus.description>
+  
+  <!-- EN: psychic love -->
+  <PsychicLove.label>tình yêu - psy</PsychicLove.label>
+  <!-- EN: Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
+  <PsychicLove.description>Ham muốn lãng mạn do tâm linh gây ra. Điều này làm tăng ý kiến của một cá nhân về người khác, đồng thời tăng khả năng có những lời cầu hôn và cầu hôn lãng mạn, đồng thời giảm khả năng chia tay.</PsychicLove.description>
+  <!-- EN: for -->
+  <PsychicLove.targetPrefix>vì</PsychicLove.targetPrefix>
+  
+  <!-- EN: psychic vertigo -->
+  <PsychicVertigo.label>chóng mặt - psy</PsychicVertigo.label>
+  <!-- EN: Psychically-induced loss of spatial orientation. This will cause flesh creatures to vomit. -->
+  <PsychicVertigo.description>Mất tâm lý do định hướng không gian. Điều này sẽ khiến sinh vật thịt nôn mửa.</PsychicVertigo.description>
+  
+</LanguageData>

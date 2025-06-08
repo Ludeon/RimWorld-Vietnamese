@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EMP grenade -->
+  <Proj_GrenadeEMP.label>bom từ</Proj_GrenadeEMP.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadeFrag.label>lựu đạn</Proj_GrenadeFrag.label>
+  
+  <!-- EN: molotov cocktail -->
+  <Proj_GrenadeMolotov.label>bom cháy</Proj_GrenadeMolotov.label>
+  
+  <!-- EN: EMP grenades -->
+  <Weapon_GrenadeEMP.label>bom từ</Weapon_GrenadeEMP.label>
+  <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
+  <Weapon_GrenadeEMP.description>Lựu đạn thiết kể để gây thiệt hại nặng cho các thiết bị điện.</Weapon_GrenadeEMP.description>
+  <!-- EN: throw EMP grenade -->
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>ném bom từ</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  
+  <!-- EN: frag grenades -->
+  <Weapon_GrenadeFrag.label>lựu đạn</Weapon_GrenadeFrag.label>
+  <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+  <Weapon_GrenadeFrag.description>Lựu đạn nổ cổ điển. Có thể ném ở tầm ngắn, gây sát thương cho mọi vật và sinh vật trong bán kính gần đó bằng nổ văng các mạnh đạn ra.</Weapon_GrenadeFrag.description>
+  <!-- EN: throw frag grenade -->
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>ném lựu đạn</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  
+  <!-- EN: molotov cocktails -->
+  <Weapon_GrenadeMolotov.label>bom cháy</Weapon_GrenadeMolotov.label>
+  <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
+  <Weapon_GrenadeMolotov.description>Thiết kế vô cùng đơn giản: chai thủy tinh chứa chất dễ cháy (xăng, dầu,...), đầu chai nhét 1 mảnh vải tẩm dầu để châm lửa đốt. Do dễ chế tạo với chi phí thấp nên thường được sử dụng bởi người biểu tình hoặc phiến quân.</Weapon_GrenadeMolotov.description>
+  <!-- EN: throw molotov -->
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>ném bom cháy</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  
+</LanguageData>

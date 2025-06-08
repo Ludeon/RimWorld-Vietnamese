@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Độ chính xác (xa)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>Độ chính xác của vũ khí với khoảng cách từ 40 ô trở lên.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Độ chính xác (vừa)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Độ chính xác của vũ khí với khoảng cách 25 ô.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Độ chính xác (gần)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Độ chính xác của vũ khí với khoảng cách 12 ô.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Độ chính xác (cận)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Độ chính xác của vũ khí với khoảng cách 3 ô trở xuống.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>thời gian hồi</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>Mất bao lâu để hồi lại sau khi bắn vũ khí này.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} giây</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>hệ số thiệt hại</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Một hệ số sát thương áp dụng cho các viên đạn được bắn ra từ vũ khí này.</RangedWeapon_DamageMultiplier.description>
+  
+</LanguageData>

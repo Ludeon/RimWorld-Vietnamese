@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedFuneral.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</AttendedFuneral.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneral.comps.0.label>có mặt người hướng dẫn đạo đức</AttendedFuneral.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneral.comps.1.label>số lượng người tham gia</AttendedFuneral.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneral.outcomeChances.0.label>Tồi tệ</AttendedFuneral.outcomeChances.0.label>
+  <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneral.outcomeChances.0.description>{0} cực kỳ tệ hại! Mọi người đều cảm thấy bị xúc phạm vì phải chịu đựng nó.</AttendedFuneral.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneral.outcomeChances.1.label>Mờ nhạt</AttendedFuneral.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneral.outcomeChances.1.description>{0} rất mờ nhạt. Bài phát biểu thì dài dòng mà chẳng có một tí cảm xúc gì cả.</AttendedFuneral.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneral.outcomeChances.2.label>Tốt</AttendedFuneral.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneral.outcomeChances.2.description>{0} diễn ra tốt đẹp. Lời chia biệt cuối cùng của người diễn thuyết đã tạo ra một con đường để mọi người bước tiếp.</AttendedFuneral.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneral.outcomeChances.3.label>Ấm lòng</AttendedFuneral.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneral.outcomeChances.3.description>{0} diễn ra một cách ấm lòng. Bài phát biểu vô cùng chân thành và thu hút, và mọi người đều tập trung vào những kỷ niệm tốt đẹp.</AttendedFuneral.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedFuneralNoCorpse.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</AttendedFuneralNoCorpse.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneralNoCorpse.comps.0.label>có mặt người hướng dẫn đạo đức</AttendedFuneralNoCorpse.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneralNoCorpse.comps.1.label>số lượng người tham gia</AttendedFuneralNoCorpse.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>Tồi tệ</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.description>{0} cực kỳ tệ hại! Mọi người đều cảm thấy bị xúc phạm vì phải chịu đựng nó.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>Mờ nhạt</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.description>{0} rất mờ nhạt. Bài phát biểu thì dài dòng mà chẳng có một tí cảm xúc gì cả.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>Tốt</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.description>{0} diễn ra tốt đẹp. Lời chia biệt cuối cùng của người diễn thuyết đã tạo ra một con đường để mọi người bước tiếp.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>Ấm lòng</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.description>{0} diễn ra một cách ấm lòng. Bài phát biểu vô cùng chân thành và thu hút, và mọi người đều tập trung vào những kỷ niệm tốt đẹp.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <BlindingCeremony.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</BlindingCeremony.description>
+  <!-- EN: moral guide present -->
+  <BlindingCeremony.comps.2.label>có mặt người hướng dẫn đạo đức</BlindingCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <BlindingCeremony.comps.3.label>số lượng người tham gia</BlindingCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <BlindingCeremony.comps.4.label>bắt đầu tại bàn thờ</BlindingCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <BlindingCeremony.comps.4.expectedThingLabelTip>một bàn thờ</BlindingCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: If the {0} is satisfying, the blinded person might get a psylink upgrade or unlock new psychic powers. -->
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra tốt đẹp, người bị mù có thể nhận một nâng cấp liên kết tinh thần hoặc năng lực ngoại cảm mới.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <BlindingCeremony.outcomeChances.0.label>Tồi tệ</BlindingCeremony.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
+  <BlindingCeremony.outcomeChances.0.description>{0} cực kỳ tệ hại! Bài phát biểu bị vấp liên tục và còn rất khó nghe. Kỹ thuật móc mắt thì bị hỏng. Mọi người đều muốn nghi lễ kết thúc sớm.</BlindingCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <BlindingCeremony.outcomeChances.1.label>Chán phèo</BlindingCeremony.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the blinding technique was noticeably flawed. It just didn't feel dignified. -->
+  <BlindingCeremony.outcomeChances.1.description>{0} rất chán. Bài phát biểu thì hay bị lặp lại và kỹ thuật móc mắt thì thiếu sót trầm trọng. Buổi lễ không trang nghiêm chút nào.</BlindingCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <BlindingCeremony.outcomeChances.2.label>Thõa mãn</BlindingCeremony.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
+  <BlindingCeremony.outcomeChances.2.description>{0} diễn ra tốt đẹp. Bài phát biểu rất có ý nghĩa, và kỹ thuật móc mắt thì rất chuẩn xác và trang nghiêm.</BlindingCeremony.outcomeChances.2.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Người bị móc mắt sẽ được nhận nâng cấp liên kết tinh thần hoặc một năng lực ngoại cảm mới.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <BlindingCeremony.outcomeChances.3.label>Đẹp mắt</BlindingCeremony.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy just as the eye came out with a satisfying wet noise. -->
+  <BlindingCeremony.outcomeChances.3.description>{0} diễn ra vô cùng đẹp mắt. Bài phát biểu đã đưa mọi người đến đỉnh điểm của sự cuồng nhiệt ngay khi con ngươi được móc ra đi kèm theo âm thanh nhễu nhão vô cùng thõa mãn.</BlindingCeremony.outcomeChances.3.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Người bị móc mắt sẽ được nhận nâng cấp liên kết tinh thần hoặc một năng lực ngoại cảm mới.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebratedDate.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</CelebratedDate.description>
+  <!-- EN: leader present -->
+  <CelebratedDate.comps.2.label>có mặt nhà lãnh đạo</CelebratedDate.comps.2.label>
+  <!-- EN: participant count -->
+  <CelebratedDate.comps.3.label>số lượng người tham gia</CelebratedDate.comps.3.label>
+  <!-- EN: started at altar -->
+  <CelebratedDate.comps.4.label>bắt đầu tại bàn thờ</CelebratedDate.comps.4.label>
+  <!-- EN: an altar -->
+  <CelebratedDate.comps.4.expectedThingLabelTip>một bàn thờ</CelebratedDate.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <CelebratedDate.outcomeChances.0.label>Tồi tệ</CelebratedDate.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</CelebratedDate.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate.outcomeChances.1.label>Chán phèo</CelebratedDate.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</CelebratedDate.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate.outcomeChances.2.label>Vui</CelebratedDate.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</CelebratedDate.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate.outcomeChances.3.label>Đáng nhớ</CelebratedDate.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</CelebratedDate.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebratedDate_Consumable.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</CelebratedDate_Consumable.description>
+  <!-- EN: participant count -->
+  <CelebratedDate_Consumable.comps.0.label>số lượng người tham gia</CelebratedDate_Consumable.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebratedDate_Consumable.comps.1.label>độ ấn tượng của phòng</CelebratedDate_Consumable.comps.1.label>
+  <!-- EN: If the {0} is satisfying, one participant might gain an inspiration. -->
+  <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra tốt đẹp, một trong những người tham gia sẽ có cảm hứng.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebratedDate_Consumable.outcomeChances.0.label>Tồi tệ</CelebratedDate_Consumable.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate_Consumable.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</CelebratedDate_Consumable.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate_Consumable.outcomeChances.1.label>Chán phèo</CelebratedDate_Consumable.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate_Consumable.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</CelebratedDate_Consumable.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate_Consumable.outcomeChances.2.label>Vui</CelebratedDate_Consumable.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate_Consumable.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</CelebratedDate_Consumable.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate_Consumable.outcomeChances.3.label>Đáng nhớ</CelebratedDate_Consumable.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate_Consumable.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</CelebratedDate_Consumable.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationPartyDanceDrum.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</CelebrationPartyDanceDrum.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceDrum.comps.0.label>số lượng người tham gia</CelebrationPartyDanceDrum.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceDrum.comps.1.label>độ ấn tượng của phòng</CelebrationPartyDanceDrum.comps.1.label>
+  <!-- EN: played drum count -->
+  <CelebrationPartyDanceDrum.comps.2.label>số lượng trống chơi nhạc</CelebrationPartyDanceDrum.comps.2.label>
+  <!-- EN: started at campfire -->
+  <CelebrationPartyDanceDrum.comps.3.label>bắt đầu tại lửa trại</CelebrationPartyDanceDrum.comps.3.label>
+  <!-- EN: a campfire -->
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>một lửa trại</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra vui vẻ hoặc đáng nhớ, người tham gia sẽ được tăng tốc độ làm việc trong một thời gia.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>Tồi tệ</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.description>{0} diễn ra tệ hại! Trò chuyện thì ngượng, mấy câu đùa thì dở, nhảy mắc ói, rồi nhạc thì muốn thủng màng nhĩ.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>Chán phèo</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.description>{0} chán phèo. Nhảy thì dở cộng với nhạc tạm được khiến mọi người cảm thấy bị phí phạm thời gian.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>Vui</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.description>{0} rất vui. Mọi người đều tận hưởng thời gian nghỉ và đều tham gia vào bữa tiệc nhảy tuyệt vời cùng nhau.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>Mọi người đều cảm thấy sảng khoái sau trải nghiệm nhảy nhót tuyệt vời. Những người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>Đáng nhớ</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.description>{0} vô cùng đáng nhớ! Những người tham gia đã nhảy một cách cuồng nhiệt, và trải nghiệm đã đưa mọi người gần với nhau hơn.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Mọi người đều cảm thấy sảng khoái sau trải nghiệm nhảy nhót tuyệt vời. Những người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationPartyDanceTech.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</CelebrationPartyDanceTech.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceTech.comps.0.label>số lượng người tham gia</CelebrationPartyDanceTech.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceTech.comps.1.label>độ ấn tượng của phòng</CelebrationPartyDanceTech.comps.1.label>
+  <!-- EN: active speaker count -->
+  <CelebrationPartyDanceTech.comps.2.label>số lượng loa có điện</CelebrationPartyDanceTech.comps.2.label>
+  <!-- EN: started at lightball -->
+  <CelebrationPartyDanceTech.comps.3.label>bắt đầu tại một quả cầu ánh sáng</CelebrationPartyDanceTech.comps.3.label>
+  <!-- EN: a lightball -->
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>một quả cầu ánh sáng</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra vui vẻ hoặc đáng nhớ, người tham gia sẽ được tăng tốc độ làm việc trong một thời gia.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceTech.outcomeChances.0.label>Tồi tệ</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceTech.outcomeChances.0.description>{0} diễn ra tệ hại! Trò chuyện thì ngượng, mấy câu đùa thì dở, nhảy mắc ói, rồi nhạc thì muốn thủng màng nhĩ.</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceTech.outcomeChances.1.label>Chán phèo</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceTech.outcomeChances.1.description>{0} chán phèo. Nhảy thì dở cộng với nhạc tạm được khiến mọi người cảm thấy bị phí phạm thời gian.</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceTech.outcomeChances.2.label>Vui</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.description>{0} rất vui. Mọi người đều tận hưởng thời gian nghỉ và đều tham gia vào bữa tiệc nhảy tuyệt vời cùng nhau.</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>Mọi người đều cảm thấy sảng khoái sau trải nghiệm nhảy nhót tuyệt vời. Những người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceTech.outcomeChances.3.label>Đáng nhớ</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.description>{0} vô cùng đáng nhớ! Những người tham gia đã nhảy một cách cuồng nhiệt, và trải nghiệm đã đưa mọi người gần với nhau hơn.</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Mọi người đều cảm thấy sảng khoái sau trải nghiệm nhảy nhót tuyệt vời. Những người tham gia sẽ làm việc nhanh hơn trong một khoảng thời gian.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationSkyLanterns.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</CelebrationSkyLanterns.description>
+  <!-- EN: participant count -->
+  <CelebrationSkyLanterns.comps.0.label>số lượng người tham gia</CelebrationSkyLanterns.comps.0.label>
+  <!-- EN: Each participant will make a lantern out of 4 wood. -->
+  <CelebrationSkyLanterns.extraInfoLines.0>Mỗi người tham gia sẽ làm một lồng đèn từ 4 gỗ.</CelebrationSkyLanterns.extraInfoLines.0>
+  <!-- EN: If the {0} is beautiful or unforgettable, the skylanterns might attract a group of friendly visitors. -->
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra đẹp mắt hoặc đáng nhớ, những chiếc đèn trời có thể thu hút một nhóm khách tham quan thân thiện.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationSkyLanterns.outcomeChances.0.label>Tồi tệ</CelebrationSkyLanterns.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! People kept getting annoyed making the lanterns and they looked like garbage on the wind. -->
+  <CelebrationSkyLanterns.outcomeChances.0.description>{0} diễn ra tệ hại! Mọi người đều cảm thấy khó chịu khi làm mấy cái lồng đèn để rồi chúng như đống rác bay trong gió.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <!-- EN: Unimpressive -->
+  <CelebrationSkyLanterns.outcomeChances.1.label>Không ấn tượng</CelebrationSkyLanterns.outcomeChances.1.label>
+  <!-- EN: The {0} was unimpressive. Lantern-making took too long and it all felt rather pointless. -->
+  <CelebrationSkyLanterns.outcomeChances.1.description>{0} không mấy ấn tượng. Làm lồng đèn thì lâu và mọi người điều cảm thấy bị phí thời gian.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <!-- EN: Beautiful -->
+  <CelebrationSkyLanterns.outcomeChances.2.label>Đẹp mắt</CelebrationSkyLanterns.outcomeChances.2.label>
+  <!-- EN: The {0} was beautiful. The drifting lanterns made everyone feel at peace. -->
+  <CelebrationSkyLanterns.outcomeChances.2.description>{0} rất đẹp. Nhìn lồng đèn bay trong gió tạo một cảm giác yên bình cho mọi người.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Đèn trời bay cao và sáng rực. Những vị khách thân thiện có thể nhìn thấy chúng và đến để gửi quà.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationSkyLanterns.outcomeChances.3.label>Đáng nhớ</CelebrationSkyLanterns.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Making the lanterns was a time of laughter, and everyone's spirits rose with them. -->
+  <CelebrationSkyLanterns.outcomeChances.3.description>{0} diễn ra một cách không thể nào quên! Làm lồng đèn là thời gian cho những tiếng cười, và tinh thần của mọi người đều dâng cao cùng với nó.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Đèn trời bay cao và sáng rực. Những vị khách thân thiện có thể nhìn thấy chúng và đến để gửi quà.</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The connector will connect to the tree. -->
+  <ConnectToTree.description>Người liên kết sẽ kết nối với cái cây.</ConnectToTree.description>
+  <!-- EN: participant count -->
+  <ConnectToTree.comps.0.label>số lượng người tham gia</ConnectToTree.comps.0.label>
+  <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Người liên kết sẽ bắt đầu với sức mạnh liên kết ở 25-45%, tùy theo chất lượng của buổi lễ.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Every 2% increase in quality will grow a patch of Gauranlen moss around the tree, beautifying the area. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>Mỗi lần tăng 2%, rêu Gauranlen sẽ mọc xung quanh cây, làm đẹp cảnh quan khu vực.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+  
+  <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
+  <Conversion.description>Nếu mọi thứ diễn ra suôn sẻ, niềm tin tín ngưỡng của đối tượng sẽ bị giảm hoặc họ sẽ cải đạo. Ngược lại, niềm tin vào tín ngưỡng cũ của họ sẽ tăng thêm.</Conversion.description>
+  <!-- EN: room impressiveness -->
+  <Conversion.comps.0.label>độ ấn tượng của phòng</Conversion.comps.0.label>
+  <!-- EN: participant count -->
+  <Conversion.comps.1.label>số lượng người tham gia</Conversion.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <Conversion.comps.2.label>tác động xã hội của {PAWN_labelShort}</Conversion.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <Conversion.comps.2.labelAbstract>tác động xã hội của người diễn thuyết</Conversion.comps.2.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <Conversion.comps.3.label>kỳ vọng của {PAWN_labelShort}</Conversion.comps.3.label>
+  <!-- EN: convertee's expectations -->
+  <Conversion.comps.3.labelAbstract>kỳ vọng của người cải đạo</Conversion.comps.3.labelAbstract>
+  <!-- EN: Terrible -->
+  <Conversion.outcomeChances.0.label>Tồi tệ</Conversion.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
+  <Conversion.outcomeChances.0.description>{0} diễn ra tệ hại! Từ những câu từ đầu tiên, nó là một cuộc cãi vã loạn xạ. Nó kéo dài rất lâu khiến ai cũng ngán ngẩm.</Conversion.outcomeChances.0.description>
+  <!-- EN: Ineffective -->
+  <Conversion.outcomeChances.1.label>Không hiệu quả</Conversion.outcomeChances.1.label>
+  <!-- EN: The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense. -->
+  <Conversion.outcomeChances.1.description>{0} không mấy hiệu quả. Hầu hết những lý lẽ đều không rõ ràng, còn người cải đạo đáp trả một cách chuyên nghiệp.</Conversion.outcomeChances.1.description>
+  <!-- EN: Effective -->
+  <Conversion.outcomeChances.2.label>Hiệu quả</Conversion.outcomeChances.2.label>
+  <!-- EN: The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well. -->
+  <Conversion.outcomeChances.2.description>{0} kết thúc hiệu quả. Lời diễn văn không chỉ chứa nhiều lý lẽ vững chắc và rõ rãng đã làm lung lay suy nghĩ của người cải đạo, mà còn khiến khán giả cảm thấy được giải trí.</Conversion.outcomeChances.2.description>
+  <!-- EN: Masterful -->
+  <Conversion.outcomeChances.3.label>Xuất sắc</Conversion.outcomeChances.3.label>
+  <!-- EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
+  <Conversion.outcomeChances.3.description>{0} hoàn toàn xuất sắc! Những niềm tin cũ dường như bị trôi đi một cách dễ dàng và tất yếu, để cuối cùng những kiến thức thực sự của chúng ta được chấp nhận.</Conversion.outcomeChances.3.description>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding.description>Mục tiêu nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding.comps.0.label>số lượng người tham gia</DestroyConsumableBuilding.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding.comps.1.label>độ ấn tượng của phòng</DestroyConsumableBuilding.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding.outcomeChances.0.label>Tồi tệ</DestroyConsumableBuilding.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</DestroyConsumableBuilding.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding.outcomeChances.1.label>Chán phèo</DestroyConsumableBuilding.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</DestroyConsumableBuilding.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding.outcomeChances.2.label>Vui</DestroyConsumableBuilding.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</DestroyConsumableBuilding.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</DestroyConsumableBuilding.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Burnbong.description>Mục tiêu nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_Burnbong.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>số lượng người tham gia</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>độ ấn tượng của phòng</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>Tồi tệ</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>Chán phèo</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>Vui</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_CannibalPlatter.description>Mục tiêu nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>số lượng người tham gia</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>độ ấn tượng của phòng</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>Tồi tệ</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>Chán phèo</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>Vui</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_ChristmasTree.description>Mục tiêu nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_ChristmasTree.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>số lượng người tham gia</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>độ ấn tượng của phòng</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>Tồi tệ</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>Chán phèo</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>Vui</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Pyre.description>Mục tiêu nghi lễ sẽ bị phá hủy.</DestroyConsumableBuilding_Pyre.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Pyre.comps.0.label>số lượng người tham gia</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Pyre.comps.1.label>độ ấn tượng của phòng</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>Tồi tệ</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0} cực kỳ tệ hại! Những người tham gia phải chịu đựng những cuộc nói chuyện nhạt nhẽo hàng giờ đồng hồ và chỉ mong nó hệt nhanh chóng.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>Chán phèo</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0} rất chán. Mọi người đều cảm thấy ngượng ngạo và không có ai dám kể chuyện cười.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>Vui</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>{0} diễn ra tốt đẹp. Mọi người đều tận hưởng thời gian nghỉ ngơi và vui đùa cùng nhau.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>Đáng nhớ</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>{0} diễn ra một cách đáng nhớ! mọi người đều hiểu thêm về nhau và cảm thấy như một gia đình thực thụ.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <Execution.description>Nô lệ tham gia sẽ bị đàn áp 100%. Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</Execution.description>
+  <!-- EN: participant count -->
+  <Execution.comps.0.label>số lượng người tham gia</Execution.comps.0.label>
+  <!-- EN: started at altar or ideogram -->
+  <Execution.comps.1.label>bắt đầu tại bàn thờ hoặc biểu tượng tín ngưỡng</Execution.comps.1.label>
+  <!-- EN: an altar or an ideogram -->
+  <Execution.comps.1.expectedThingLabelTip>một bàn thờ hoặc biểu tượng tín ngưỡng</Execution.comps.1.expectedThingLabelTip>
+  <!-- EN: Awkward -->
+  <Execution.outcomeChances.0.label>Ngượng ngạo</Execution.outcomeChances.0.label>
+  <!-- EN: The {0} was awkward. The speech dragged on and when it came time to strike, the executioner slipped and barely recovered. None of it felt justified. -->
+  <Execution.outcomeChances.0.description>{0} diễn ra một cách ngượng ngạo. Bài phát biểu thì lê thê và khi thời khắc đến, đao phủ bị trượt và mọi người tưởng buổi tử hình bị hủy. Không ai thấy buổi lễ chính đáng cả.</Execution.outcomeChances.0.description>
+  <!-- EN: Satisfying -->
+  <Execution.outcomeChances.1.label>Thõa mãn</Execution.outcomeChances.1.label>
+  <!-- EN: The {0} was satisfying. Everyone could feel that justice was being upheld. -->
+  <Execution.outcomeChances.1.description>{0} diễn ra tốt đẹp. Ai cũng cảm thấy chân lý đã được thực thi.</Execution.outcomeChances.1.description>
+  <!-- EN: Spectacular -->
+  <Execution.outcomeChances.2.label>Đẹp mắt</Execution.outcomeChances.2.label>
+  <!-- EN: The {0} was spectacular! One smooth strike was all it took, and everyone felt a rush of justice and power. -->
+  <Execution.outcomeChances.2.description>{0} rất đẹp mắt! Một nhát chí mạng và mọi người đều cảm thấy sự chân lý và quyền lực tuôn trào trong người.</Execution.outcomeChances.2.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <GladiatorDuel.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</GladiatorDuel.description>
+  <!-- EN: participant count -->
+  <GladiatorDuel.comps.0.label>số lượng người tham gia</GladiatorDuel.comps.0.label>
+  <!-- EN: leader present -->
+  <GladiatorDuel.comps.1.label>có mặt nhà lãnh đạo</GladiatorDuel.comps.1.label>
+  <!-- EN: duelist dies -->
+  <GladiatorDuel.comps.2.label>đấu sĩ chết</GladiatorDuel.comps.2.label>
+  <!-- EN: weapon used -->
+  <GladiatorDuel.comps.3.label>vũ khí được sử dụng</GladiatorDuel.comps.3.label>
+  <!-- EN: Duelists and viewers will gain melee combat experience. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.0>Đấu sĩ và người xem sẽ nhận kinh nghiệm cận chiến.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Spectators will gain a mood boost and fill their recreation bars. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.1>Người xem sẽ được tăng cường cảm xúc và nhu cầu giải trí của họ được lấp đầy.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+  <!-- EN: Terrible -->
+  <GladiatorDuel.outcomeChances.0.label>Tồi tệ</GladiatorDuel.outcomeChances.0.label>
+  <!-- EN: The duel was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
+  <GladiatorDuel.outcomeChances.0.description>Trận đấu rất tệ! Các đấu sĩ chỉ đi vòng quanh, né tránh nhau trong một màn trĩnh diễn đậm chất hèn nhát và yếu kém. Xem mà muốn phát khóc.</GladiatorDuel.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <GladiatorDuel.outcomeChances.1.label>Chán phèo</GladiatorDuel.outcomeChances.1.label>
+  <!-- EN: The duel was boring. The fighters wouldn't commit, so there were no exciting moments. -->
+  <GladiatorDuel.outcomeChances.1.description>Trận đấu chán phèo. Các đấu sĩ không muốn đánh, nên chẳng có khoảnh khắc nào nổi bật.</GladiatorDuel.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <GladiatorDuel.outcomeChances.2.label>Tốt</GladiatorDuel.outcomeChances.2.label>
+  <!-- EN: The duel was good. The fighters went for blood and showed real heart. -->
+  <GladiatorDuel.outcomeChances.2.description>Trận đấu khá tốt. Các đấu sĩ không ngần ngại đổ máu và đã chiến đấu hết mình.</GladiatorDuel.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <GladiatorDuel.outcomeChances.3.label>Đáng nhớ</GladiatorDuel.outcomeChances.3.label>
+  <!-- EN: The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication. -->
+  <GladiatorDuel.outcomeChances.3.description>Trận đấu thật đáng nhớ! Cả hai đấu sĩ đã chiến đấu hết mình, và cái chết đã cho thấy nghị lực của họ.</GladiatorDuel.outcomeChances.3.description>
+  
+  <!-- EN: A new role will be assigned to a colonist. -->
+  <RoleChange.description>Một vai trò mới sẽ được giao cho một cư dân.</RoleChange.description>
+  <!-- EN: required spectator count -->
+  <RoleChange.comps.0.label>số lượng khán giả yêu cầu</RoleChange.comps.0.label>
+  <!-- EN: The required number of spectators must attend for the role change to apply. -->
+  <RoleChange.extraPredictedOutcomeDescriptions.0>Số lượng khán giả cần thiết phải tham dự để thay đổi vai trò được áp dụng.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Failed -->
+  <RoleChange.outcomeChances.0.label>Thất bại</RoleChange.outcomeChances.0.label>
+  <!-- EN: The role change was not attended by enough {IDEO_memberNamePlural}. -->
+  <RoleChange.outcomeChances.0.description>Việc thay đổi vai trò không có đủ {IDEO_memberNamePlural} tham gia.</RoleChange.outcomeChances.0.description>
+  <!-- EN: Successful -->
+  <RoleChange.outcomeChances.1.label>Thành công</RoleChange.outcomeChances.1.label>
+  <!-- EN: The role change ritual was completed. -->
+  <RoleChange.outcomeChances.1.description>Nghi thức đổi vai đã hoàn thành.</RoleChange.outcomeChances.1.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <Sacrifice.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</Sacrifice.description>
+  <!-- EN: moral guide present -->
+  <Sacrifice.comps.2.label>có mặt người hướng dẫn đạo đức</Sacrifice.comps.2.label>
+  <!-- EN: participant count -->
+  <Sacrifice.comps.3.label>số lượng người tham gia</Sacrifice.comps.3.label>
+  <!-- EN: started at altar -->
+  <Sacrifice.comps.4.label>bắt đầu tại bàn thờ</Sacrifice.comps.4.label>
+  <!-- EN: an altar -->
+  <Sacrifice.comps.4.expectedThingLabelTip>một bàn thờ</Sacrifice.comps.4.expectedThingLabelTip>
+  <!-- EN: If the {0} is satisfying, one of the participants might gain an inspiration. -->
+  <Sacrifice.extraPredictedOutcomeDescriptions.0>Nếu {0} diễn ra tốt đẹp, một trong những người tham gia sẽ có cảm hứng.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <Sacrifice.outcomeChances.0.label>Tồi tệ</Sacrifice.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The victim took far too long to die - everyone was waiting for it to end. -->
+  <Sacrifice.outcomeChances.0.description>{0} cực kỳ tệ hại! Bài phát biểu bị vấp liên tục và còn rất khó nghe. Kỹ thuật giết thì bị hỏng. Nạn nhân thì mất quá nhiều thời gian để chết - mọi người đều muốn nghi lễ kết thúc sớm.</Sacrifice.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <Sacrifice.outcomeChances.1.label>Chán phèo</Sacrifice.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. It just didn't feel dignified. -->
+  <Sacrifice.outcomeChances.1.description>{0} rất chán. Bài phát biểu thì hay bị lặp lại và kỹ thuật giết thì thiếu sót trầm trọng. Buổi lễ không trang nghiêm chút nào.</Sacrifice.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <Sacrifice.outcomeChances.2.label>Thõa mãn</Sacrifice.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the killing technique was precise and dignified. -->
+  <Sacrifice.outcomeChances.2.description>{0} diễn ra tốt đẹp. Bài phát biểu rất có ý nghĩa, và kỹ thuật giết thì rất chuẩn xác và trang nghiêm.</Sacrifice.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>Có 5% cơ hội một người tham gia sẽ có cảm hứng.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <Sacrifice.outcomeChances.3.label>Đẹp mắt</Sacrifice.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy just as the blade came down perfectly, and the spurting blood was like cleansing waters for the spirit. -->
+  <Sacrifice.outcomeChances.3.description>{0} diễn ra vô cùng đẹp mắt. Bài phát biểu đã đưa mọi người đến đỉnh điểm của sự cuồng nhiệt ngay khi con dao được cắm xuống, và máu tuôn trào ra như một ngọn thác tẩy rửa tâm hồn.</Sacrifice.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Có 10% cơ hội một người tham gia sẽ có cảm hứng.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <ScarificationCeremony.description>Tùy vào chất lượng của nghi lễ, người tham gia sẽ nhận điểm tâm trạng từ {MINMOOD} đến {MAXMOOD} trong {MOODDAYS} ngày.</ScarificationCeremony.description>
+  <!-- EN: moral guide present -->
+  <ScarificationCeremony.comps.2.label>có mặt người hướng dẫn đạo đức</ScarificationCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <ScarificationCeremony.comps.3.label>số lượng người tham gia</ScarificationCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <ScarificationCeremony.comps.4.label>bắt đầu tại bàn thờ</ScarificationCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <ScarificationCeremony.comps.4.expectedThingLabelTip>một bàn thờ</ScarificationCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <ScarificationCeremony.outcomeChances.0.label>Tồi tệ</ScarificationCeremony.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the scarification technique was botched. Everyone was waiting for it to end. -->
+  <ScarificationCeremony.outcomeChances.0.description>{0} cực kỳ tệ hại! Bài phát biểu bị vấp liên tục và còn rất khó nghe. Kỹ thuật rạch da thì bị hỏng. Mọi người đều muốn nghi lễ kết thúc sớm.</ScarificationCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <ScarificationCeremony.outcomeChances.1.label>Chán phèo</ScarificationCeremony.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the scarification technique was noticeably flawed. It just didn't feel dignified. -->
+  <ScarificationCeremony.outcomeChances.1.description>{0} rất chán. Bài phát biểu thì hay bị lặp lại và kỹ thuật rạch da thì thiếu sót trầm trọng. Buổi lễ không trang nghiêm chút nào.</ScarificationCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <ScarificationCeremony.outcomeChances.2.label>Thõa mãn</ScarificationCeremony.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the scarification technique was precise and dignified. -->
+  <ScarificationCeremony.outcomeChances.2.description>{0} diễn ra tốt đẹp. Bài phát biểu rất có ý nghĩa, và kỹ thuật rạch da thì rất chuẩn xác và trang nghiêm.</ScarificationCeremony.outcomeChances.2.description>
+  <!-- EN: Spectacular -->
+  <ScarificationCeremony.outcomeChances.3.label>Đẹp mắt</ScarificationCeremony.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy as the bladeholder artfully rended living flesh. -->
+  <ScarificationCeremony.outcomeChances.3.description>{0} diễn ra vô cùng đẹp mắt. Bài phát biểu đã đưa mọi người đến đỉnh điểm của sự cuồng nhiệt ngay khi người cầm dao rạch những đường nét nghệ thuật lên da thịt.</ScarificationCeremony.outcomeChances.3.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <Trial.description>Khả năng kết tội của bị can sẽ tùy thuộc vào chất lượng của phiên tòa</Trial.description>
+  <!-- EN: participant count -->
+  <Trial.comps.0.label>số lượng người tham gia</Trial.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <Trial.comps.1.label>Khả năng thương lượng của {PAWN_labelShort}</Trial.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <Trial.comps.1.labelAbstract>Khả năng thương lượng của nhà lãnh đạo</Trial.comps.1.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <Trial.comps.2.label>Khả năng thương lượng của {PAWN_labelShort}</Trial.comps.2.label>
+  <!-- EN: Defendant's negotiation ability -->
+  <Trial.comps.2.labelAbstract>Khả năng thương lượng của bị can</Trial.comps.2.labelAbstract>
+  <!-- EN: exonerated -->
+  <Trial.outcomeChances.0.label>Được miễn tội</Trial.outcomeChances.0.label>
+  <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
+  <Trial.outcomeChances.0.description>Lý luận của công tố viên {PROSECUTOR_labelShort} không đủ để thuyết phục ai. {PAWN_labelShort} được miễn tội.</Trial.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <Trial.outcomeChances.1.label>Bị kết tội</Trial.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
+  <Trial.outcomeChances.1.description>Công tố viên đã chứng minh được tội của {PAWN_labelShort}. {PAWN_labelShort} đã bị kết án và có thể được trừng phạt. Bạn có thể tử hình hoặc đày ải {PAWN_objective} và không ai sẽ phiền lòng.</Trial.outcomeChances.1.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <TrialMentalState.description>Khả năng kết tội của bị can sẽ tùy thuộc vào chất lượng của phiên tòa</TrialMentalState.description>
+  <!-- EN: participant count -->
+  <TrialMentalState.comps.0.label>số lượng người tham gia</TrialMentalState.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <TrialMentalState.comps.1.label>Khả năng thương lượng của {PAWN_labelShort}</TrialMentalState.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <TrialMentalState.comps.1.labelAbstract>Khả năng thương lượng của nhà lãnh đạo</TrialMentalState.comps.1.labelAbstract>
+  <!-- EN: exonerated -->
+  <TrialMentalState.outcomeChances.0.label>Được miễn tội</TrialMentalState.outcomeChances.0.label>
+  <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
+  <TrialMentalState.outcomeChances.0.description>Lý luận của công tố viên {PROSECUTOR_labelShort} không đủ để thuyết phục ai. {PAWN_labelShort} được miễn tội.</TrialMentalState.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <TrialMentalState.outcomeChances.1.label>Bị kết tội</TrialMentalState.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
+  <TrialMentalState.outcomeChances.1.description>Công tố viên đã chứng minh được tội của {PAWN_labelShort}. {PAWN_labelShort} đã bị kết án và có thể được trừng phạt. Bạn có thể tử hình hoặc đày ải {PAWN_objective} và không ai sẽ phiền lòng.</TrialMentalState.outcomeChances.1.description>
+  
+</LanguageData>

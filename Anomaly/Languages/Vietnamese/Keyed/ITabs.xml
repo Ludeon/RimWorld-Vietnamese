@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab_Entity -->
+  <!-- EN: Escape interval -->
+  <HoldingPlatformEscapeMTBDays>Chu kỳ trốn thoát (ngày)</HoldingPlatformEscapeMTBDays>
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <HoldingPlatformEscapeMTBDaysDesc>Thời gian trung bình giữa các lần trốn thoát. Chịu ảnh hưởng bởi độ bền giam giữ, loại thực thể, khả năng di chuyển của thực thể, và thời gian thực thể bị giam giữ. Một số thực thể còn bị kìm hãm bởi nhiệt độ thấp.</HoldingPlatformEscapeMTBDaysDesc>
+  <!-- EN: Entity -->
+  <TabEntity>Thực thể</TabEntity>
+  <!-- EN: Study interval -->
+  <StudyInterval>Tần suất nghiên cứu</StudyInterval>
+  <!-- EN: How often this entity can be studied. -->
+  <StudyIntervalDesc>Tần suất thực thể này có thể được nghiên cứu.</StudyIntervalDesc>
+  <!-- EN: Maintain only -->
+  <EntityStudyMode_MaintainOnly>Chỉ bảo dưỡng</EntityStudyMode_MaintainOnly>
+  <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
+  <EntityStudyMode_MaintainOnlyDesc>Cai ngục sẽ không thực hiện hành động đặc biệt lên thực thể này, nhưng các tương tác khác vẫn khả dụng.</EntityStudyMode_MaintainOnlyDesc>
+  <!-- EN: Study -->
+  <EntityStudyMode_Study>Nghiên cứu</EntityStudyMode_Study>
+  <!-- EN: Researchers will study the entity. -->
+  <EntityStudyMode_StudyDesc>Các nhà nghiên cứu sẽ nghiên cứu thực thể.</EntityStudyMode_StudyDesc>
+  <!-- EN: Release -->
+  <EntityStudyMode_Release>Phóng thích</EntityStudyMode_Release>
+  <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
+  <EntityStudyMode_ReleaseDesc>Cai ngục sẽ thả thực thể khỏi bệ giam giữ. Thực thể có thể có thái độ thù địch khi được thả.</EntityStudyMode_ReleaseDesc>
+  <!-- EN: Execute -->
+  <EntityStudyMode_Execute>Xử tử</EntityStudyMode_Execute>
+  <!-- EN: A warden will execute the restrained entity. -->
+  <EntityStudyMode_ExecuteDesc>Cai ngục sẽ xử tử thực thể bị giam giữ.</EntityStudyMode_ExecuteDesc>
+  <!-- EN: Extract bioferrite -->
+  <EntityStudyMode_Extract>Trích xuất bioferrite</EntityStudyMode_Extract>
+
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
+  <EntityStudyMode_ExtractDesc>Các bác sĩ sẽ trích xuất bioferrite từ thực thể bị bắt giữ bất cứ khi nào có thể. Phương pháp trích xuất này đơn giản nhưng không hiệu quả. Không thể thực hiện nếu thực thể đang được gắn với máy thu bioferrite.</EntityStudyMode_ExtractDesc>
+
+  <!-- EN: Requires bioferrite extraction. -->
+  <RequiresBioferriteExtraction>Cần trích xuất bioferrite.</RequiresBioferriteExtraction>
+
+  <!-- EN: Blocked by bioferrite harvester. -->
+  <BioferriteHarvesterAttached>Bị chặn bởi máy thu bioferrite.</BioferriteHarvesterAttached>
+
+  <!-- EN: Can't be executed. -->
+  <CantBeExecuted>Không thể bị xử tử</CantBeExecuted>
+  <!-- EN: Knowledge gain -->
+  <StudyKnowledgeGain>Kiến thức thu được</StudyKnowledgeGain>
+  <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
+  <StudyKnowledgeGainDesc>Lượng kiến thức thu được qua mỗi giai đoạn nghiên cứu. Khả năng giam giữ tốt giúp nhà nghiên cứu tập trung thay vì lo lắng về an toàn, đem lại nhiều kiến thức hơn.</StudyKnowledgeGainDesc>
+  <!-- EN: What type of medicine can be given to this entity. -->
+  <MedicineQualityDescriptionEntity>Loại thuốc khả dụng cho thực thể này.</MedicineQualityDescriptionEntity>
+
+  <!-- EN: Electroharvester -->
+  <FactorForElectroharvester>Máy hút điện</FactorForElectroharvester>
+  <!-- EN: Long captivity -->
+  <FactorForDaysInCaptivity>Thời gian bị giam lâu</FactorForDaysInCaptivity>
+  <!-- EN: Cold containment bonus -->
+  <FactorForColdCaptivity>Tiền thưởng giam giữ ở nhiệt độ thấp</FactorForColdCaptivity>
+  <!-- EN: Incapable of escaping -->
+  <IncapableOfEscaping>Không thể trốn thoát</IncapableOfEscaping>
+  <!-- EN: Entity downed -->
+  <EntityDowned>Thực thể bất tỉnh</EntityDowned>
+  <!-- EN: Containment strength -->
+  <FactorContainmentStrength>Độ bền giam giữ</FactorContainmentStrength>
+  <!-- EN: Electroharvester -->
+  <FactorElectroharvester>Máy hút điện</FactorElectroharvester>
+  <!-- EN: Activity -->
+  <FactorActivity>Hoạt động</FactorActivity>
+
+</LanguageData>

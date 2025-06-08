@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->You've detected an orbiting spacedrone that may contain information about [relic_name]. You have the code that will force it to land at [map_definite].\n\nTo get the information, hack into the drone's computer. Hacking takes time, but those strong in intellectual skill can speed up the process.[raidsDescription]\n\nAfter landing, the spacedrone will self-destruct in [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will [droneDetectionMethod]. As long as it's present, they'll send attackers approximately every [raidIntervalAvg_duration] to destroy it and steal the wealth they think it contains. You will have some time to prepare defenses around it before they arrive.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->spot the drone during its decent</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</li>
+  -->
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn biết được một máy bay vũ trụ trên quỹ đạo có thể chứa thông tin về [relic_name]. Bạn có mật mã để cho nó hạ cánh tại [map_definite].\n\nĐể lấy thông tin, hack máy tính của máy bay. Quá trình hack tốn thời gian, nhưng tiến độ có thể được những cư dân thông minh đẩy nhanh.[raidsDescription]\n\Sau khi hạ cánh, máy bay vũ trụ sẽ tự hủy sau [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] từ [enemyFaction_name] sẽ [droneDetectionMethod]. Trong thời gian nó có mặt, họ sẽ gửi những kẻ tấn công nó mỗi [raidIntervalAvg_duration] để phá hủy nó và lấy đi những vật phẩm mà họ nghĩ nó chứa. Bạn sẽ có thời gian để chuẩn bị trước khi họ đến.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->nhìn thấy máy bay khi nó hạ cánh</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->phát hiện dấu hiệu của tín hiệu năng lượng từ máy bay</li>
+  </Hack_Spacedrone.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[droneAdj] [drone] hack</li>
+    <li>questName->[drone] [data] hack</li>
+    <li>droneAdj->orbital</li>
+    <li>droneAdj->data</li>
+    <li>droneAdj->ancient</li>
+    <li>drone->drone</li>
+    <li>drone->spacecraft</li>
+    <li>drone->spacedrone</li>
+    <li>drone->cryptodrone</li>
+    <li>data->data</li>
+    <li>data->intel</li>
+    <li>data->info</li>
+  -->
+  <Hack_Spacedrone.questNameRules.rulesStrings>
+    <li>questName->hack [drone] [droneAdj]</li>
+    <li>questName->hack [data] của [drone]</li>
+    <li>droneAdj->trên quỹ đạo</li>
+    <li>droneAdj->chứa dữ liệu</li>
+    <li>droneAdj->cổ đại</li>
+    <li>drone->máy bay</li>
+    <li>drone->phi thuyền</li>
+    <li>drone->máy bay vũ trụ</li>
+    <li>drone->máy bay mã hóa</li>
+    <li>data->dữ liệu</li>
+    <li>data->thông tin</li>
+    <li>data->thông tin</li>
+  </Hack_Spacedrone.questNameRules.rulesStrings>
+  
+</LanguageData>
