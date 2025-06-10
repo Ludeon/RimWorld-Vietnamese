@@ -15,8 +15,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3491880774
 Chỉ nhận phản hồi tại server discord
 
 ### 3. Tham gia cùng chúng tôi!
-- Discord: https://discord.gg/7SC9fMjCtA
-- Ludeon: https://ludeon.com/forums/index.php?topic=2933.0 
+- Discord: https://discord.gg/rimworldvn
+- Ludeon: https://www.reddit.com/r/RimWorld | https://steamcommunity.com/app/294100/discussions/
 - Facebook Cộng đồng Rimworld Việt Nam: https://www.facebook.com/groups/429801467205824/
   
 ### 4. Dịch giả:
