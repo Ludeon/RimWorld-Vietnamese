@@ -5,41 +5,43 @@
     <li>r_logentry->[INITIATOR_definite] leaped onto [SUBJECT_definite] and began digesting [SUBJECT_objective].</li>
   -->
   <Event_DevourerConsumeLeap.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] nhảy lên [SUBJECT_definite] và bắt đầu tiêu hóa [SUBJECT_objective].</li>
- </Event_DevourerConsumeLeap.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] nhảy lên [SUBJECT_definite] và bắt đầu tiêu hóa [SUBJECT_objective].</li>
+  </Event_DevourerConsumeLeap.rulePack.rulesStrings>
+  
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] vomited [SUBJECT_definite] up.</li>
   -->
   <Event_DevourerDigestionAborted.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] nôn [SUBJECT_definite] ra.</li>
- </Event_DevourerDigestionAborted.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] nôn [SUBJECT_definite] ra.</li>
+  </Event_DevourerDigestionAborted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] digested [SUBJECT_definite].</li>
   -->
   <Event_DevourerDigestionCompleted.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] đã tiêu hóa [SUBJECT_definite].</li>
- </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] đã tiêu hóa [SUBJECT_definite].</li>
+  </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+  
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] put [SUBJECT_definite] into a trance.</li>
   -->
   <Event_Hypnotized.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] đã đưa [SUBJECT_definite] vào trạng thái thôi miên.</li>
- </Event_Hypnotized.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] đã đưa [SUBJECT_definite] vào trạng thái thôi miên.</li>
+  </Event_Hypnotized.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] emerged from [SUBJECT_definite].</li>
   -->
   <Event_MetalhorrorEmerged.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] đã xuất hiện từ [SUBJECT_definite].</li>
- </Event_MetalhorrorEmerged.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] đã xuất hiện từ [SUBJECT_definite].</li>
+  </Event_MetalhorrorEmerged.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] psychically incinerated [SUBJECT_definite]'s brain.</li>
   -->
   <Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
-  <li>r_logentry->[INITIATOR_definite] đã thiêu đốt não của [SUBJECT_definite] bằng tâm linh.</li>
-</Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] đã thiêu đốt não của [SUBJECT_definite] bằng tâm linh.</li>
+  </Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
   
   <!-- EN:
     <li>verb->breathing</li>
@@ -60,22 +62,22 @@
     <li>verb->coughing</li>
   -->
   <RevenantNoises.rulePack.rulesStrings>
-  <li>verb->hơi thở</li>
-  <li>verb->rùng mình</li>
-  <li>verb->run rẩy</li>
-  <li>verb->cọt kẹt</li>
-  <li>verb->kêu rít</li>
-  <li>verb->cào</li>
-  <li>verb->xì xào</li>
-  <li>verb->rên rỉ</li>
-  <li>verb->cằn nhằn</li>
-  <li>verb->lập cập</li>
-  <li>verb->kêu lách tách</li>
-  <li>verb->khò khè</li>
-  <li>verb->rung rinh</li>
-  <li>verb->giật mình</li>
-  <li>verb->nghiến răng</li>
-  <li>verb->ho</li>
-</RevenantNoises.rulePack.rulesStrings>
+    <li>verb->hơi thở</li>
+    <li>verb->rùng mình</li>
+    <li>verb->run rẩy</li>
+    <li>verb->cọt kẹt</li>
+    <li>verb->kêu rít</li>
+    <li>verb->cào</li>
+    <li>verb->xì xào</li>
+    <li>verb->rên rỉ</li>
+    <li>verb->cằn nhằn</li>
+    <li>verb->lập cập</li>
+    <li>verb->kêu lách tách</li>
+    <li>verb->khò khè</li>
+    <li>verb->rung rinh</li>
+    <li>verb->giật mình</li>
+    <li>verb->nghiến răng</li>
+    <li>verb->ho</li>
+  </RevenantNoises.rulePack.rulesStrings>
   
 </LanguageData>

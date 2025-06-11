@@ -1,50 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-<!-- EN: Anomaly -->
-<DifficultyAnomalySection>Hiện tượng bất thường</DifficultyAnomalySection>
+  <!-- EN: Anomaly -->
+  <DifficultyAnomalySection>Hiện tượng bất thường</DifficultyAnomalySection>
+  <!-- EN: Anomaly threats -->
+  <Difficulty_AnomalyThreats_Label>Nguy cơ từ hiện tượng bất thường</Difficulty_AnomalyThreats_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related. -->
+  <Difficulty_AnomalyThreats_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường.</Difficulty_AnomalyThreats_Info>
+  <!-- EN: Anomaly threats (inactive) -->
+  <Difficulty_AnomalyThreatsInactive_Label>Nguy cơ hiện tượng bất thường (không hoạt động)</Difficulty_AnomalyThreatsInactive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
+  <Difficulty_AnomalyThreatsInactive_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường khi monolith không hoạt động. Chỉ một số sự cố hiện tượng bất thường nhỏ có thể xảy ra khi monolith không hoạt động.</Difficulty_AnomalyThreatsInactive_Info>
+  <!-- EN: Anomaly threats (active) -->
+  <Difficulty_AnomalyThreatsActive_Label>Nguy cơ hiện tượng bất thường (hoạt động)</Difficulty_AnomalyThreatsActive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
+  <Difficulty_AnomalyThreatsActive_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường khi monolith hoạt động. Với các cài đặt hiện tại:\n  - {0} của các mối đe dọa chính sẽ liên quan đến hiện tượng bất thường ở cấp độ monolith 1 và 5\n  - {1} của các mối đe dọa chính sẽ liên quan đến hiện tượng bất thường ở các cấp độ monolith 2-4</Difficulty_AnomalyThreatsActive_Info>
+  <!-- EN: Study efficiency -->
+  <Difficulty_StudyEfficiency_Label>Hiệu quả nghiên cứu</Difficulty_StudyEfficiency_Label>
+  <!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
+  <Difficulty_StudyEfficiency_Info>Thêm một hệ số nhân vào lượng nghiên cứu thu được khi nghiên cứu các thực thể bất thường.</Difficulty_StudyEfficiency_Info>
 
-<!-- EN: Anomaly threats -->
-<Difficulty_AnomalyThreats_Label>Nguy cơ từ hiện tượng bất thường</Difficulty_AnomalyThreats_Label>
-
-<!-- EN: Adjust the percentage of major threats that will be Anomaly-related. -->
-<Difficulty_AnomalyThreats_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường.</Difficulty_AnomalyThreats_Info>
-
-<!-- EN: Anomaly threats (inactive) -->
-<Difficulty_AnomalyThreatsInactive_Label>Nguy cơ hiện tượng bất thường (không hoạt động)</Difficulty_AnomalyThreatsInactive_Label>
-
-<!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
-<Difficulty_AnomalyThreatsInactive_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường khi monolith không hoạt động. Chỉ một số sự cố hiện tượng bất thường nhỏ có thể xảy ra khi monolith không hoạt động.</Difficulty_AnomalyThreatsInactive_Info>
-
-<!-- EN: Anomaly threats (active) -->
-<Difficulty_AnomalyThreatsActive_Label>Nguy cơ hiện tượng bất thường (hoạt động)</Difficulty_AnomalyThreatsActive_Label>
-
-<!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
-<Difficulty_AnomalyThreatsActive_Info>Điều chỉnh tỷ lệ phần trăm của các mối đe dọa chính liên quan đến hiện tượng bất thường khi monolith hoạt động. Với các cài đặt hiện tại:\n  - {0} của các mối đe dọa chính sẽ liên quan đến hiện tượng bất thường ở cấp độ monolith 1 và 5\n  - {1} của các mối đe dọa chính sẽ liên quan đến hiện tượng bất thường ở các cấp độ monolith 2-4</Difficulty_AnomalyThreatsActive_Info>
-
-<!-- EN: Study efficiency -->
-<Difficulty_StudyEfficiency_Label>Hiệu quả nghiên cứu</Difficulty_StudyEfficiency_Label>
-
-<!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
-<Difficulty_StudyEfficiency_Info>Thêm một hệ số nhân vào lượng nghiên cứu thu được khi nghiên cứu các thực thể bất thường.</Difficulty_StudyEfficiency_Info>
-
-<!-- EN: Child shamblers -->
-<Difficulty_ChildShamblersAllowed_Label>Shambler trẻ</Difficulty_ChildShamblersAllowed_Label>
-
-<!-- EN: Reanimated child shamblers will sometimes appear. -->
-<Difficulty_ChildShamblersAllowed_Info>Thỉnh thoảng sẽ xuất hiện Shambler trẻ (đã được hồi sinh).</Difficulty_ChildShamblersAllowed_Info>
-
-<!-- EN: Anomaly settings -->
-<AnomalySettings>Cài đặt hiện tượng bất thường</AnomalySettings>
-
-<!-- EN: Choose how you'd like to integrate Anomaly horror into your game: -->
-<ChooseAnomalyPlaystyle>Chọn cách bạn muốn tích hợp sự kinh dị hiện tượng bất thường vào trò chơi của bạn:</ChooseAnomalyPlaystyle>
-
-<!-- EN: Update Anomaly storyteller settings. These can be modified during the game -->
-<CanBeEditedInStorytellerSettings>Cập nhật cài đặt người kể chuyện hiện tượng bất thường. Những cài đặt này có thể được chỉnh sửa trong suốt trò chơi.</CanBeEditedInStorytellerSettings>
-
-<!-- EN: Set to standard playstyle -->
-<SetToStandardPlaystyle>Đặt về kiểu chơi chuẩn</SetToStandardPlaystyle>
-
+  <!-- EN: Child shamblers -->
+  <Difficulty_ChildShamblersAllowed_Label>Shambler trẻ</Difficulty_ChildShamblersAllowed_Label>
+  <!-- EN: Reanimated child shamblers will sometimes appear. -->
+  <Difficulty_ChildShamblersAllowed_Info>Thỉnh thoảng sẽ xuất hiện Shambler trẻ (đã được hồi sinh).</Difficulty_ChildShamblersAllowed_Info>
+  
+  <!-- EN: Anomaly settings -->
+  <AnomalySettings>Cài đặt hiện tượng bất thường</AnomalySettings>
+  <!-- EN: Choose how you'd like to integrate Anomaly horror into your game: -->
+  <ChooseAnomalyPlaystyle>Chọn cách bạn muốn tích hợp sự kinh dị hiện tượng bất thường vào trò chơi của bạn:</ChooseAnomalyPlaystyle>
+  <!-- EN: Update Anomaly storyteller settings. These can be modified during the game -->
+  <CanBeEditedInStorytellerSettings>Cập nhật cài đặt người kể chuyện hiện tượng bất thường. Những cài đặt này có thể được chỉnh sửa trong suốt trò chơi.</CanBeEditedInStorytellerSettings>
+  <!-- EN: Set to standard playstyle -->
+  <SetToStandardPlaystyle>Đặt về kiểu chơi chuẩn</SetToStandardPlaystyle>
 
 </LanguageData>

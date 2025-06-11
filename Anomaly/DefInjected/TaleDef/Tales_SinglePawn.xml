@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-<!-- EN: closed the void node -->
-<ClosedTheVoid.label>Đã đóng nút hư vô</ClosedTheVoid.label>
-<!-- EN:
+  <!-- EN: closed the void node -->
+  <ClosedTheVoid.label>Đã đóng nút hư vô</ClosedTheVoid.label>
+  <!-- EN:
     <li>tale_noun->[PAWN_nameDef] closing the void node.</li>
     <li>image->[PAWN_nameFull] sealing the connection to the void, ensuring the safety of the colony [circumstance_group]</li>
     <li>image->[PAWN_nameFull] standing defiantly before the void node, determined to protect the colony [circumstance_group]</li>
@@ -13,8 +13,8 @@
     <li>desc_sentence->The gray metal presses in from all sides.</li>
     <li>desc_sentence->The other colonists are shown [side_position], anxiously awaiting [PAWN_nameDef]'s return.</li>
     <li>desc_sentence->[PAWN_nameDef]'s face betrays that [PAWN_pronoun] is agonising over the choice before [PAWN_objective].</li>
--->
-<ClosedTheVoid.rulePack.rulesStrings>
+  -->
+  <ClosedTheVoid.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef] đóng nút hư vô.</li>
     <li>image->[PAWN_nameFull] niêm phong kết nối với hư vô, đảm bảo sự an toàn của thuộc địa [circumstance_group]</li>
     <li>image->[PAWN_nameFull] đứng kiên cường trước nút hư vô, quyết tâm bảo vệ thuộc địa [circumstance_group]</li>
@@ -24,11 +24,11 @@
     <li>desc_sentence->Kim loại xám đè nặng từ mọi phía.</li>
     <li>desc_sentence->Các thuộc địa khác được thể hiện ở [side_position], lo lắng chờ đợi sự trở về của [PAWN_nameDef].</li>
     <li>desc_sentence>Gương mặt của [PAWN_nameDef] phản ánh rằng [PAWN_pronoun] đang đau đầu về lựa chọn trước [PAWN_objective].</li>
-</ClosedTheVoid.rulePack.rulesStrings>
-
-<!-- EN: embraced the void -->
-<EmbracedTheVoid.label>Đã ôm lấy hư vô</EmbracedTheVoid.label>
-<!-- EN:
+  </ClosedTheVoid.rulePack.rulesStrings>
+  
+  <!-- EN: embraced the void -->
+  <EmbracedTheVoid.label>Đã ôm lấy hư vô</EmbracedTheVoid.label>
+  <!-- EN:
     <li>tale_noun->[PAWN_nameDef] embracing the void</li>
     <li>image->[PAWN_nameFull] harnessing the forbidden knowledge of the void, transcending mortal limitations, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] surrendering to the allure of the void [circumstance_group]</li>
@@ -39,8 +39,8 @@
     <li>desc_sentence->[PAWN_nameDef] radiates an aura of ominous power, a testament to [PAWN_possessive] pact with the void.</li>
     <li>desc_sentence->[PAWN_nameDef]'s eyes begin to gleam with an otherworldly glow.</li>
     <li>desc_sentence->The other colonists are shown [side_position], questioning the wisdom of [PAWN_nameDef]'s choice.</li>
--->
-<EmbracedTheVoid.rulePack.rulesStrings>
+  -->
+  <EmbracedTheVoid.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef] ôm lấy hư vô</li>
     <li>image->[PAWN_nameFull] sử dụng tri thức cấm kỵ của hư vô, vượt qua các giới hạn của phàm nhân, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] đầu hàng trước sự quyến rũ của hư vô [circumstance_group]</li>
@@ -51,11 +51,11 @@
     <li>desc_sentence->[PAWN_nameDef] tỏa ra hào quang quyền lực đáng sợ, chứng tỏ hiệp ước của [PAWN_possessive] với hư vô.</li>
     <li>desc_sentence>Đôi mắt của [PAWN_nameDef] bắt đầu tỏa sáng với ánh sáng kỳ dị.</li>
     <li>desc_sentence->Các thuộc địa khác được thể hiện ở [side_position], nghi ngờ sự khôn ngoan của lựa chọn của [PAWN_nameDef].</li>
-</EmbracedTheVoid.rulePack.rulesStrings>
-
-<!-- EN: performed a psychic ritual -->
-<PerformedPsychicRitual.label>Đã thực hiện nghi lễ tâm linh</PerformedPsychicRitual.label>
-<!-- EN:
+  </EmbracedTheVoid.rulePack.rulesStrings>
+  
+  <!-- EN: performed a psychic ritual -->
+  <PerformedPsychicRitual.label>Đã thực hiện nghi lễ tâm linh</PerformedPsychicRitual.label>
+  <!-- EN:
     <li>tale_noun->[PAWN_nameDef] leading a psychic ritual</li>
     <li>image->[PAWN_nameFull] channeling energy that dances around [PAWN_objective] as [PAWN_pronoun] weaves a potent psychic ritual, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] reciting dark incantations and tapping into mysterious forces to perform a psychic ritual, [circumstance_group]</li>
@@ -69,8 +69,8 @@
     <li>desc_sentence->The air shimmers as [PAWN_nameDef] completes the psychic ritual.</li>
     <li>desc_sentence->The monolith shimmers in the background.</li>
     <li>desc_sentence->The surrounding candles flicker and sputter in the swirling energy.</li>
--->
-<PerformedPsychicRitual.rulePack.rulesStrings>
+  -->
+  <PerformedPsychicRitual.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef] dẫn dắt một nghi lễ tâm linh</li>
     <li>image->[PAWN_nameFull] điều khiển năng lượng nhảy múa xung quanh [PAWN_objective] khi [PAWN_pronoun] thực hiện một nghi lễ tâm linh mạnh mẽ, [circumstance_group]</li>
     <li>image->[PAWN_nameFull] đọc những lời chú ngữ đen tối và khai thác các lực lượng bí ẩn để thực hiện nghi lễ tâm linh, [circumstance_group]</li>
@@ -84,7 +84,6 @@
     <li>desc_sentence->Không khí lấp lánh khi [PAWN_nameDef] hoàn thành nghi lễ tâm linh.</li>
     <li>desc_sentence->Monolith lấp lánh ở phía nền.</li>
     <li>desc_sentence->Các ngọn nến xung quanh nhấp nháy và nổ lách tách trong năng lượng xoáy.</li>
-</PerformedPsychicRitual.rulePack.rulesStrings>
-
+  </PerformedPsychicRitual.rulePack.rulesStrings>
   
 </LanguageData>

@@ -78,80 +78,80 @@
     <li>writingMaterial->dark ink</li>
   -->
   <LabyrinthRamblings.rulePack.rulesStrings>
-  <li>r_root->[textDescSentence] [horrorDescSentence] [maybeSignature]</li>
-  <li>maybeSignature(p=3)-></li>
-  <li>maybeSignature->Tác giả ký tên [PAWN_possessive]: [PAWN_nameDef].</li>
-  <li>maybeSignature->Kết thúc bằng một cái tên: [PAWN_nameDef].</li>
-  <li>maybeSignature->Tên [PAWN_nameDef] được viết ở cuối.</li>
-  <li>textDescSentence->Các ký tự trên sàn nhà là lộn xộn và khó hiểu.</li>
-  <li>textDescSentence->Những từ ngữ rất khó hiểu.</li>
-  <li>textDescSentence->Các ký tự kỳ lạ được viết ngược.</li>
-  <li>textDescSentence->Chữ viết lảo đảo và yếu ớt.</li>
-  <li>textDescSentence->Chữ viết trở nên ngày càng kỳ quặc.</li>
-  <li>textDescSentence->Văn bản được viết bằng [writingMaterial] và đã bị xoá một phần.</li>
-  <li>textDescSentence->Các ký hiệu bí ẩn trộn lẫn với chữ cái nhọn.</li>
-  <li>textDescSentence->Chữ viết bị phân mảnh, như thể bị ngắt quãng nhiều lần.</li>
-  <li>textDescSentence->Các chữ khắc mờ dần rồi lại xuất hiện khi văn bản tiếp tục.</li>
-  <li>textDescSentence->Văn bản này được viết bằng [writingMaterial], tạo thành các mẫu hình hoảng loạn.</li>
-  <li>horrorDescSentence->Chỉ có một câu rõ ràng có thể đọc được: [rambling].</li>
-  <li>horrorDescSentence->Một câu lặp đi lặp lại liên tục: [rambling].</li>
-  <li>horrorDescSentence->Mỗi câu kết thúc bằng cùng một cụm từ: [rambling].</li>
-  <li>horrorDescSentence->Các từ chạy theo vòng tròn, liên tục lặp lại cùng một câu: [rambling].</li>
-  <li>horrorDescSentence->Tác giả dường như tin rằng một ký sinh trùng kim loại sống dưới da [PAWN_possessive]. [PAWN_pronoun] mô tả cơn đau dữ dội khi nó di chuyển và quằn quại.</li>
-  <li>horrorDescSentence->Tác giả cáo buộc bạn của mình đã tiêm cho cô ấy một ký sinh trùng kim loại. [PAWN_pronoun] mô tả cảm giác khủng khiếp khi nó lớn lên bên trong [PAWN_objective].</li>
-  <li>horrorDescSentence->Tác giả cầu xin sự tự do khỏi kẻ hành hạ [PAWN_possessive]: [horrorDesc].</li>
-  <li>horrorDescSentence->Những dòng chữ lặp đi lặp lại mô tả [horrorDesc].</li>
-  <li>horrorDescSentence->Một bài thơ kỳ lạ mô tả [horrorDesc].</li>
-  <li>horrorDescSentence->Các từ vật lộn để mô tả [horrorDesc].</li>
-  <li>horrorDescSentence->Chữ viết run rẩy mô tả phản ứng của tác giả đối với một tầm nhìn của [horrorDesc].</li>
-  <li>horrorDescSentence->Các bức tranh đi kèm với văn bản, mô tả [horrorDesc].</li>
-  <li>horrorDescSentence->Các bản vẽ hoảng loạn minh họa [horrorDesc], với các ghi chú chú thích các đặc điểm của nó.</li>
-  <li>horrorDescSentence->Một bài hát lạnh lẽo mô tả [horrorDesc].</li>
-  <li>horrorDescSentence->Các minh họa dữ dội xen kẽ văn bản, tất cả gợi ý về [horrorDesc].</li>
-  <li>horrorDescSentence->Các câu chuyện thì thầm ở lề kể về [horrorDesc].</li>
-  <li>horrorDescSentence->Tông giọng hoảng loạn của tác giả lên đến cao trào tập trung vào [horrorDesc].</li>
-  <li>horrorDescSentence->Các mẫu hình xuất hiện trong các ký tự khắc, mỗi cái đều kết thúc bằng một mô tả của [horrorDesc].</li>
-  <li>horrorDescSentence->Các từ được kết hợp với những hình ảnh sống động của [horrorDesc].</li>
-  <li>horrorDescSentence->Một bài hát ma quái được viết cùng với các mô tả của [horrorDesc].</li>
-  <li>horrorDescSentence->Những lời cầu xin tuyệt vọng được đặt cạnh các câu chuyện về [horrorDesc].</li>
-  <li>horrorDesc->một sinh vật vô hình tiêu thụ tâm trí của những kẻ không tin</li>
-  <li>horrorDesc->một quả cầu màu đen không thể tưởng tượng được, rung động với nỗi đau thuần túy</li>
-  <li>horrorDesc->một sinh vật với xương làm tay chân, làm từ thịt và da xoắn lại</li>
-  <li>horrorDesc->một sinh vật hoàn toàn bằng bóng tối, mắt lấp lánh như các ngôi sao</li>
-  <li>horrorDesc->một người làm từ những con dao sắc bén, dính đầy máu</li>
-  <li>horrorDesc->một đám lưỡi dao quay từ một vực thẳm</li>
-  <li>horrorDesc->một đứa trẻ im lặng với miệng kéo dài qua toàn bộ khuôn mặt</li>
-  <li>horrorDesc->một tòa tháp vặn vẹo to lớn được làm bằng gai và lưỡi dao</li>
-  <li>horrorDesc->một sinh vật giống động vật kỳ lạ với các đặc điểm từ nhiều loài khác nhau</li>
-  <li>horrorDesc->một hình người bị biến dạng với các bộ phận cơ thể bị sắp xếp lại</li>
-  <li>horrorDesc->một đám đông lớn người, tất cả đã chết và phân hủy</li>
-  <li>horrorDesc->các hình người trong mặt nạ đáng sợ đầy gai</li>
-  <li>rambling->cho tôi ra ngoài</li>
-  <li>rambling->giúp tôi</li>
-  <li>rambling->cứu tôi</li>
-  <li>rambling->nó đang quan sát</li>
-  <li>rambling->nó không chịu buông</li>
-  <li>rambling->buông tay</li>
-  <li>rambling->tôi nghe thấy tiếng nó</li>
-  <li>rambling->thời gian là một lời nói dối</li>
-  <li>rambling->cầm lấy cơn đau</li>
-  <li>rambling->biển đen</li>
-  <li>rambling->cắt và cắt</li>
-  <li>rambling->những tiếng thì thầm trong khoảng không</li>
-  <li>rambling->nó luôn ở phía sau tôi</li>
-  <li>rambling->quá nhiều đôi mắt</li>
-  <li>rambling->bên trong đầu tôi</li>
-  <li>rambling->chìm trong im lặng</li>
-  <li>rambling->nó biết tên tôi</li>
-  <li>rambling->bóng tối chuyển động</li>
-  <li>rambling->không có lối thoát</li>
-  <li>rambling->bóng tối nói</li>
-  <li>rambling->họ đang theo dõi</li>
-  <li>writingMaterial->phấn</li>
-  <li>writingMaterial->bụi bẩn</li>
-  <li>writingMaterial->chất lỏng bị bôi</li>
-  <li>writingMaterial->tro bị cháy</li>
-  <li>writingMaterial->mực đen</li>
-</LabyrinthRamblings.rulePack.rulesStrings>
-
+    <li>r_root->[textDescSentence] [horrorDescSentence] [maybeSignature]</li>
+    <li>maybeSignature(p=3)-></li>
+    <li>maybeSignature->Tác giả ký tên [PAWN_possessive]: [PAWN_nameDef].</li>
+    <li>maybeSignature->Kết thúc bằng một cái tên: [PAWN_nameDef].</li>
+    <li>maybeSignature->Tên [PAWN_nameDef] được viết ở cuối.</li>
+    <li>textDescSentence->Các ký tự trên sàn nhà là lộn xộn và khó hiểu.</li>
+    <li>textDescSentence->Những từ ngữ rất khó hiểu.</li>
+    <li>textDescSentence->Các ký tự kỳ lạ được viết ngược.</li>
+    <li>textDescSentence->Chữ viết lảo đảo và yếu ớt.</li>
+    <li>textDescSentence->Chữ viết trở nên ngày càng kỳ quặc.</li>
+    <li>textDescSentence->Văn bản được viết bằng [writingMaterial] và đã bị xoá một phần.</li>
+    <li>textDescSentence->Các ký hiệu bí ẩn trộn lẫn với chữ cái nhọn.</li>
+    <li>textDescSentence->Chữ viết bị phân mảnh, như thể bị ngắt quãng nhiều lần.</li>
+    <li>textDescSentence->Các chữ khắc mờ dần rồi lại xuất hiện khi văn bản tiếp tục.</li>
+    <li>textDescSentence->Văn bản này được viết bằng [writingMaterial], tạo thành các mẫu hình hoảng loạn.</li>
+    <li>horrorDescSentence->Chỉ có một câu rõ ràng có thể đọc được: [rambling].</li>
+    <li>horrorDescSentence->Một câu lặp đi lặp lại liên tục: [rambling].</li>
+    <li>horrorDescSentence->Mỗi câu kết thúc bằng cùng một cụm từ: [rambling].</li>
+    <li>horrorDescSentence->Các từ chạy theo vòng tròn, liên tục lặp lại cùng một câu: [rambling].</li>
+    <li>horrorDescSentence->Tác giả dường như tin rằng một ký sinh trùng kim loại sống dưới da [PAWN_possessive]. [PAWN_pronoun] mô tả cơn đau dữ dội khi nó di chuyển và quằn quại.</li>
+    <li>horrorDescSentence->Tác giả cáo buộc bạn của mình đã tiêm cho cô ấy một ký sinh trùng kim loại. [PAWN_pronoun] mô tả cảm giác khủng khiếp khi nó lớn lên bên trong [PAWN_objective].</li>
+    <li>horrorDescSentence->Tác giả cầu xin sự tự do khỏi kẻ hành hạ [PAWN_possessive]: [horrorDesc].</li>
+    <li>horrorDescSentence->Những dòng chữ lặp đi lặp lại mô tả [horrorDesc].</li>
+    <li>horrorDescSentence->Một bài thơ kỳ lạ mô tả [horrorDesc].</li>
+    <li>horrorDescSentence->Các từ vật lộn để mô tả [horrorDesc].</li>
+    <li>horrorDescSentence->Chữ viết run rẩy mô tả phản ứng của tác giả đối với một tầm nhìn của [horrorDesc].</li>
+    <li>horrorDescSentence->Các bức tranh đi kèm với văn bản, mô tả [horrorDesc].</li>
+    <li>horrorDescSentence->Các bản vẽ hoảng loạn minh họa [horrorDesc], với các ghi chú chú thích các đặc điểm của nó.</li>
+    <li>horrorDescSentence->Một bài hát lạnh lẽo mô tả [horrorDesc].</li>
+    <li>horrorDescSentence->Các minh họa dữ dội xen kẽ văn bản, tất cả gợi ý về [horrorDesc].</li>
+    <li>horrorDescSentence->Các câu chuyện thì thầm ở lề kể về [horrorDesc].</li>
+    <li>horrorDescSentence->Tông giọng hoảng loạn của tác giả lên đến cao trào tập trung vào [horrorDesc].</li>
+    <li>horrorDescSentence->Các mẫu hình xuất hiện trong các ký tự khắc, mỗi cái đều kết thúc bằng một mô tả của [horrorDesc].</li>
+    <li>horrorDescSentence->Các từ được kết hợp với những hình ảnh sống động của [horrorDesc].</li>
+    <li>horrorDescSentence->Một bài hát ma quái được viết cùng với các mô tả của [horrorDesc].</li>
+    <li>horrorDescSentence->Những lời cầu xin tuyệt vọng được đặt cạnh các câu chuyện về [horrorDesc].</li>
+    <li>horrorDesc->một sinh vật vô hình tiêu thụ tâm trí của những kẻ không tin</li>
+    <li>horrorDesc->một quả cầu màu đen không thể tưởng tượng được, rung động với nỗi đau thuần túy</li>
+    <li>horrorDesc->một sinh vật với xương làm tay chân, làm từ thịt và da xoắn lại</li>
+    <li>horrorDesc->một sinh vật hoàn toàn bằng bóng tối, mắt lấp lánh như các ngôi sao</li>
+    <li>horrorDesc->một người làm từ những con dao sắc bén, dính đầy máu</li>
+    <li>horrorDesc->một đám lưỡi dao quay từ một vực thẳm</li>
+    <li>horrorDesc->một đứa trẻ im lặng với miệng kéo dài qua toàn bộ khuôn mặt</li>
+    <li>horrorDesc->một tòa tháp vặn vẹo to lớn được làm bằng gai và lưỡi dao</li>
+    <li>horrorDesc->một sinh vật giống động vật kỳ lạ với các đặc điểm từ nhiều loài khác nhau</li>
+    <li>horrorDesc->một hình người bị biến dạng với các bộ phận cơ thể bị sắp xếp lại</li>
+    <li>horrorDesc->một đám đông lớn người, tất cả đã chết và phân hủy</li>
+    <li>horrorDesc->các hình người trong mặt nạ đáng sợ đầy gai</li>
+    <li>rambling->cho tôi ra ngoài</li>
+    <li>rambling->giúp tôi</li>
+    <li>rambling->cứu tôi</li>
+    <li>rambling->nó đang quan sát</li>
+    <li>rambling->nó không chịu buông</li>
+    <li>rambling->buông tay</li>
+    <li>rambling->tôi nghe thấy tiếng nó</li>
+    <li>rambling->thời gian là một lời nói dối</li>
+    <li>rambling->cầm lấy cơn đau</li>
+    <li>rambling->biển đen</li>
+    <li>rambling->cắt và cắt</li>
+    <li>rambling->những tiếng thì thầm trong khoảng không</li>
+    <li>rambling->nó luôn ở phía sau tôi</li>
+    <li>rambling->quá nhiều đôi mắt</li>
+    <li>rambling->bên trong đầu tôi</li>
+    <li>rambling->chìm trong im lặng</li>
+    <li>rambling->nó biết tên tôi</li>
+    <li>rambling->bóng tối chuyển động</li>
+    <li>rambling->không có lối thoát</li>
+    <li>rambling->bóng tối nói</li>
+    <li>rambling->họ đang theo dõi</li>
+    <li>writingMaterial->phấn</li>
+    <li>writingMaterial->bụi bẩn</li>
+    <li>writingMaterial->chất lỏng bị bôi</li>
+    <li>writingMaterial->tro bị cháy</li>
+    <li>writingMaterial->mực đen</li>
+  </LabyrinthRamblings.rulePack.rulesStrings>
+  
 </LanguageData>

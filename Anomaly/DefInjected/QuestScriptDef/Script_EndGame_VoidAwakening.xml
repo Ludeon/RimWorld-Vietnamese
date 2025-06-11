@@ -16,20 +16,19 @@
     <li>monolithTwistingAlertExplanation->The monolith is twisting without moving, bending itself and the minds of those who look at it. Something is happening - get ready.</li>
   -->
   <EndGame_VoidAwakening.questContentRules.rulesStrings>
-  <li>darknessStartedLetterLabel->Bóng tối bất thường</li>
-  <li>darknessStartedLetterText->Một bóng tối bất thường đã xuất hiện. Những thứ không phải con người đang di chuyển ngay ngoài vùng ánh sáng. Giữ cho các cư dân ở trong những khu vực được chiếu sáng tốt.</li>
-  <li>structuresArrivingAlertLabel->Cấu trúc hư không đang đến</li>
-  <li>structuresArrivingAlertExplanation->Ranh giới giữa thế giới của chúng ta và hư không đang bị phá vỡ. Sẽ sớm có các cấu trúc hư không xuất hiện gần đây. Để hoàn toàn đánh thức khối đá hư không, bạn phải kích hoạt chúng.\n\nChuẩn bị cho sự xuất hiện của chúng.</li>
-  <li>voidStructuresLetterLabel->Cấu trúc hư không</li>
-  <li>voidStructuresLetterText->Một số cấu trúc xoắn vặn đang xuất hiện, dường như từ hư không. Chúng phát ra năng lượng tâm linh tối tăm làm héo úa thực vật xung quanh.\n\nKích hoạt các cấu trúc để tiến xa hơn.</li>
-  <li>gleamingMonolithWarningLetterLabel->Sự xoắn vặn gia tăng</li>
-  <li>gleamingMonolithWarningLetterText->Hình dạng của khối đá đã bắt đầu biến dạng và dịch chuyển với cường độ ngày càng tăng. Có điều gì đó sắp xảy ra...</li>
-  <li>gleamingMonolithLetterLabel->Khối đá hư không</li>
-  <li>gleamingMonolithLetterText->Khối đá đã hoàn toàn được đánh thức. Một cơn xoáy tối tăm đang quay cuồng trên đỉnh của nó, tạo thành một ống dẫn đến hư không.\n\nHãy đến khối đá và sử dụng nó để vượt qua bên kia. Làm như vậy sẽ chấm dứt bóng tối bất thường và kết thúc cuộc tấn công kinh hoàng.</li>
-  <li>monolithTwistingAlertLabel->Khối đá xoắn vặn</li>
-  <li>monolithTwistingAlertExplanation->Khối đá đang xoắn vặn mà không di chuyển, uốn cong chính nó và tâm trí của những người nhìn vào nó. Có điều gì đó đang xảy ra - hãy chuẩn bị.</li>
+    <li>darknessStartedLetterLabel->Bóng tối bất thường</li>
+    <li>darknessStartedLetterText->Một bóng tối bất thường đã xuất hiện. Những thứ không phải con người đang di chuyển ngay ngoài vùng ánh sáng. Giữ cho các cư dân ở trong những khu vực được chiếu sáng tốt.</li>
+    <li>structuresArrivingAlertLabel->Cấu trúc hư không đang đến</li>
+    <li>structuresArrivingAlertExplanation->Ranh giới giữa thế giới của chúng ta và hư không đang bị phá vỡ. Sẽ sớm có các cấu trúc hư không xuất hiện gần đây. Để hoàn toàn đánh thức khối đá hư không, bạn phải kích hoạt chúng.\n\nChuẩn bị cho sự xuất hiện của chúng.</li>
+    <li>voidStructuresLetterLabel->Cấu trúc hư không</li>
+    <li>voidStructuresLetterText->Một số cấu trúc xoắn vặn đang xuất hiện, dường như từ hư không. Chúng phát ra năng lượng tâm linh tối tăm làm héo úa thực vật xung quanh.\n\nKích hoạt các cấu trúc để tiến xa hơn.</li>
+    <li>gleamingMonolithWarningLetterLabel->Sự xoắn vặn gia tăng</li>
+    <li>gleamingMonolithWarningLetterText->Hình dạng của khối đá đã bắt đầu biến dạng và dịch chuyển với cường độ ngày càng tăng. Có điều gì đó sắp xảy ra...</li>
+    <li>gleamingMonolithLetterLabel->Khối đá hư không</li>
+    <li>gleamingMonolithLetterText->Khối đá đã hoàn toàn được đánh thức. Một cơn xoáy tối tăm đang quay cuồng trên đỉnh của nó, tạo thành một ống dẫn đến hư không.\n\nHãy đến khối đá và sử dụng nó để vượt qua bên kia. Làm như vậy sẽ chấm dứt bóng tối bất thường và kết thúc cuộc tấn công kinh hoàng.</li>
+    <li>monolithTwistingAlertLabel->Khối đá xoắn vặn</li>
+    <li>monolithTwistingAlertExplanation->Khối đá đang xoắn vặn mà không di chuyển, uốn cong chính nó và tâm trí của những người nhìn vào nó. Có điều gì đó đang xảy ra - hãy chuẩn bị.</li>
   </EndGame_VoidAwakening.questContentRules.rulesStrings>
-
   <!-- EN:
     <li>questDescription-></li>
   -->
@@ -55,4 +54,5 @@
   <EndGame_VoidMonolith.questNameRules.rulesStrings>
     <li>questName->Anomaly monolith</li>
   </EndGame_VoidMonolith.questNameRules.rulesStrings>
+  
 </LanguageData>

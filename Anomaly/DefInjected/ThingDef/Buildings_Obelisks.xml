@@ -74,11 +74,11 @@
   <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>vô hiệu hóa obelisk</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>
   <!-- EN: Choose who should do this -->
   <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.guiLabelString>Chọn người thực hiện</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.guiLabelString>
-    <!-- EN: Deactivate obelisk -->
+  <!-- EN: Deactivate obelisk -->
   <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.jobString>vô hiệu hóa obelisk</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.jobString>
   <!-- EN: {PAWN_nameDef} has successfully deactivated the obelisk. -->
   <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{PAWN_nameDef} đã vô hiệu hóa thành công obelisk.</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
-
+  
   <!-- EN: warped obelisk -->
   <WarpedObelisk_Labyrinth.label>warped obelisk</WarpedObelisk_Labyrinth.label>
   <!-- EN: A large metallic pillar that emanates a psychic energy. It can be activated to return home. -->
@@ -97,9 +97,8 @@
   <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.jobString>Kích hoạt obelisk</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.jobString>
   <!-- EN: The obelisk has begun to activate. -->
   <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>obelisk đã bắt đầu kích hoạt.</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>
-
   
-   <!-- EN: twisted obelisk -->
+  <!-- EN: twisted obelisk -->
   <WarpedObelisk_Mutator.label>twisted obelisk</WarpedObelisk_Mutator.label>
   <!-- EN: A large metallic pillar that emanates a putrid psychic energy. The pillar hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
   <WarpedObelisk_Mutator.description>Một trụ kim loại lớn phát ra năng lượng tâm linh thối rữa. trụ kêu rền rĩ một cách đáng ngại và có vẻ như đang gia tăng hoạt động. Không rõ điều gì sẽ xảy ra khi nó đạt đến công suất tối đa.\n\nBạn có thể gửi thuộc địa để ngăn chặn obelisk nhằm ngăn nó kích hoạt. Bạn cũng có thể đánh dấu obelisk để nghiên cứu nhằm tìm hiểu mục đích của nó và có thể sử dụng nó.\n\nBạn có thể tấn công obelisk để phá hủy nó, nhưng làm như vậy có thể giải phóng những hiện tượng bất thường và nguy hiểm.</WarpedObelisk_Mutator.description>
@@ -115,8 +114,7 @@
   <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>Nghiên Cứu obelisk Hoàn Tất</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>
   <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} investigation of the twisted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it. -->
   <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>{PAWN_nameDef} đã hoàn thành cuộc điều tra twisted obelisk. {PAWN_pronoun} đã phát hiện ra một phương pháp để tắt an toàn obelisk bằng cách sử dụng các mảnh công nghệ cổ xưa.\n\nBạn không thể nghiên cứu obelisk nữa sau khi tắt nó.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>
-
-    <!-- EN: Induce rapid cellular growth in a person causing them to grow a tentacle or fleshmass organ. -->
+  <!-- EN: Induce rapid cellular growth in a person causing them to grow a tentacle or fleshmass organ. -->
   <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>Kích thích sự phát triển tế bào nhanh chóng ở một người, khiến họ phát triển một xúc tu hoặc cơ quan thịt.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>
   <!-- EN: Mutate... -->
   <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateLabelString>Biến đổi...</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateLabelString>
@@ -148,5 +146,5 @@
   <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.jobString>Tắt obelisk</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.jobString>
   <!-- EN: {PAWN_nameDef} has successfully deactivated the obelisk. -->
   <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{PAWN_nameDef} đã tắt thành công obelisk.</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
-
+  
 </LanguageData>

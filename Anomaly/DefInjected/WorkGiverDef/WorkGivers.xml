@@ -36,57 +36,47 @@
   <!-- EN: execute -->
   <ExecuteEntity.verb>xóa sổ</ExecuteEntity.verb>
   
- <!-- EN: extract bioferrite from entities -->
-<ExtractBioferrite.label>Chiết xuất bioferrite từ các thực thể</ExtractBioferrite.label>
-
-<!-- EN: extracting from -->
-<ExtractBioferrite.gerund>đang chiết xuất từ</ExtractBioferrite.gerund>
-
-<!-- EN: extract from -->
-<ExtractBioferrite.verb>chiết xuất từ</ExtractBioferrite.verb>
-
+  <!-- EN: extract bioferrite from entities -->
+  <ExtractBioferrite.label>Chiết xuất bioferrite từ các thực thể</ExtractBioferrite.label>
+  <!-- EN: extracting from -->
+  <ExtractBioferrite.gerund>đang chiết xuất từ</ExtractBioferrite.gerund>
+  <!-- EN: extract from -->
+  <ExtractBioferrite.verb>chiết xuất từ</ExtractBioferrite.verb>
   
   <!-- EN: fill in -->
-<FillIn.label>Điền vào</FillIn.label>
-
-<!-- EN: filling in -->
-<FillIn.gerund>đang điền vào</FillIn.gerund>
-
-<!-- EN: fill -->
-<FillIn.verb>điền vào</FillIn.verb>
-
+  <FillIn.label>Điền vào</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>đang điền vào</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>điền vào</FillIn.verb>
   
   <!-- EN: interrogate identity -->
-<InterrogatePrisoner.label>Thẩm vấn tù nhân</InterrogatePrisoner.label>
-<!-- EN: interrogating -->
-<InterrogatePrisoner.gerund>đang thẩm vấn</InterrogatePrisoner.gerund>
-<!-- EN: interrogate -->
-<InterrogatePrisoner.verb>thẩm vấn</InterrogatePrisoner.verb>
-
-<!-- EN: release entities -->
-<ReleaseEntity.label>Thả thực thể</ReleaseEntity.label>
-<!-- EN: releasing -->
-<ReleaseEntity.gerund>đang thả</ReleaseEntity.gerund>
-<!-- EN: release -->
-<ReleaseEntity.verb>thả</ReleaseEntity.verb>
-
-<!-- EN: study -->
-<StudyInteract.label>Nghiên cứu</StudyInteract.label>
-<!-- EN: studying -->
-<StudyInteract.gerund>đang nghiên cứu</StudyInteract.gerund>
-<!-- EN: study -->
-<StudyInteract.verb>nghiên cứu</StudyInteract.verb>
-
+  <InterrogatePrisoner.label>Thẩm vấn tù nhân</InterrogatePrisoner.label>
+  <!-- EN: interrogating -->
+  <InterrogatePrisoner.gerund>đang thẩm vấn</InterrogatePrisoner.gerund>
+  <!-- EN: interrogate -->
+  <InterrogatePrisoner.verb>thẩm vấn</InterrogatePrisoner.verb>
   
-<!-- EN: take bioferrite out of bioferrite harvester -->
-<TakeBioferriteOutOfHarvester.label>Thu hoạch bioferrite từ máy thu hoạch</TakeBioferriteOutOfHarvester.label>
-
-<!-- EN: taking bioferrite from -->
-<TakeBioferriteOutOfHarvester.gerund>đang thu hoạch bioferrite từ</TakeBioferriteOutOfHarvester.gerund>
-
-<!-- EN: take bioferrite -->
-<TakeBioferriteOutOfHarvester.verb>thu hoạch bioferrite</TakeBioferriteOutOfHarvester.verb>
-
+  <!-- EN: release entities -->
+  <ReleaseEntity.label>Thả thực thể</ReleaseEntity.label>
+  <!-- EN: releasing -->
+  <ReleaseEntity.gerund>đang thả</ReleaseEntity.gerund>
+  <!-- EN: release -->
+  <ReleaseEntity.verb>thả</ReleaseEntity.verb>
+  
+  <!-- EN: study -->
+  <StudyInteract.label>Nghiên cứu</StudyInteract.label>
+  <!-- EN: studying -->
+  <StudyInteract.gerund>đang nghiên cứu</StudyInteract.gerund>
+  <!-- EN: study -->
+  <StudyInteract.verb>nghiên cứu</StudyInteract.verb>
+  
+  <!-- EN: take bioferrite out of bioferrite harvester -->
+  <TakeBioferriteOutOfHarvester.label>Thu hoạch bioferrite từ máy thu hoạch</TakeBioferriteOutOfHarvester.label>
+  <!-- EN: taking bioferrite from -->
+  <TakeBioferriteOutOfHarvester.gerund>đang thu hoạch bioferrite từ</TakeBioferriteOutOfHarvester.gerund>
+  <!-- EN: take bioferrite -->
+  <TakeBioferriteOutOfHarvester.verb>thu hoạch bioferrite</TakeBioferriteOutOfHarvester.verb>
   
   <!-- EN: capture entity -->
   <TakeEntityToHoldingPlatform.label>Bắt giữ thực thể</TakeEntityToHoldingPlatform.label>

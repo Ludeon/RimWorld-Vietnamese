@@ -58,25 +58,25 @@
 
   <!-- Sightstealers -->
   <!-- EN: Sightstealer revealed -->
-  <LetterLabelSightstealerRevealed>Kẻ cướp thị giác xuất hiện</LetterLabelSightstealerRevealed>
+  <LetterLabelSightstealerRevealed>Kẻ Trộm Thị giác xuất hiện</LetterLabelSightstealerRevealed>
   <!-- EN: A twisted creature has appeared out of thin air! -->
   <LetterSightstealerRevealed>Sinh vật dị dạng đột ngột xuất hiện từ hư không!</LetterSightstealerRevealed>
   <!-- EN: A sightstealer has appeared! -->
-  <MessageSightstealerRevealed>Kẻ cướp thị giác đã xuất hiện!</MessageSightstealerRevealed>
+  <MessageSightstealerRevealed>Kẻ Trộm Thị giác đã xuất hiện!</MessageSightstealerRevealed>
   <!-- EN: Sightstealer shrieks -->
-  <LetterLabelSightstealerHowl>Tiếng hú Kẻ cướp thị giác</LetterLabelSightstealerHowl>
+  <LetterLabelSightstealerHowl>Tiếng hú Kẻ Trộm Thị giác</LetterLabelSightstealerHowl>
   <!-- EN: Your colonists hear sightstealers shrieking in the distance.\n\nIt's hard to tell where they are or how many. They might arrive immediately or days from now. -->
-  <LetterSightstealerHowl>Thực dân nghe thấy tiếng hú Kẻ cướp thị giác vọng về từ nơi xa.\n\nKhó đoán định vị trí hoặc số lượng của chúng. Có thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowl>
+  <LetterSightstealerHowl>Thực dân nghe thấy tiếng hú Kẻ Trộm Thị giác vọng về từ nơi xa.\n\nKhó đoán định vị trí hoặc số lượng của chúng. Có thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowl>
   <!-- EN: Sightstealer howling -->
-  <LetterLabelSightstealerHowlBig>Tiếng hú lớn Kẻ cướp thị giác</LetterLabelSightstealerHowlBig>
+  <LetterLabelSightstealerHowlBig>Tiếng hú lớn Kẻ Trộm Thị giác</LetterLabelSightstealerHowlBig>
   <!-- EN: Your colonists hear a huge number of distant sightstealers screaming in their twisted rage. They are coming.\n\nThey might arrive immediately, or days from now. -->
-  <LetterSightstealerHowlBig>Thực dân nghe thấy tiếng hú rợn người của vô số Kẻ cướp thị giác đang điên cuồng lao đến. Chắc chắn chúng đang tới.\n\nCó thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowlBig>
+  <LetterSightstealerHowlBig>Thực dân nghe thấy tiếng hú rợn người của vô số Kẻ Trộm Thị giác đang điên cuồng lao đến. Chắc chắn chúng đang tới.\n\nCó thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowlBig>
 
   <!-- Death Pall -->
   <!-- EN: Death pall clearing -->
-  <LetterLabelDeathPallEnded>màn sương chết chóc tan dần</LetterLabelDeathPallEnded> 
+  <LetterLabelDeathPallEnded>Màn tang tóc tan dần</LetterLabelDeathPallEnded> 
   <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
-  <LetterDeathPallEnded>màn sương chết chóc đang tan biến. Những thi thể bị hồi sinh bởi nó sẽ nhanh chóng trở về trạng thái bình thường.</LetterDeathPallEnded>
+  <LetterDeathPallEnded>Màn tang tóc đang tan biến. Những thi thể bị hồi sinh bởi nó sẽ nhanh chóng trở về trạng thái bình thường.</LetterDeathPallEnded>
   
   <!-- Pit Gate -->
   <!-- EN: Pit gate closing -->
@@ -153,82 +153,82 @@
   
   <!-- Obelisks -->
   <!-- EN: Obelisk activation -->
-  <MutatorObeliskLetterLabel>Khởi động Obelisk</MutatorObeliskLetterLabel>
+  <MutatorObeliskLetterLabel>Khởi động trụ tháp</MutatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! It swells with grisly energy as the air crackles around it. It is about to self-destruct in a great explosion, but before it does, it will use its hideous transformative power on any creature it can detect. -->
-  <MutatorObeliskLetter>Obelisk đang khởi động! Nó phình to cùng nguồn năng lượng ghê rợn. Chuẩn bị tự hủy sau vụ nổ lớn, nhưng trước đó, nó sẽ sử dụng sức mạnh biến đổi dị dạng lên bất kỳ sinh vật nào nó phát hiện được!</MutatorObeliskLetter>
+  <MutatorObeliskLetter>Trụ tháp đang khởi động! Nó phình to cùng nguồn năng lượng ghê rợn. Chuẩn bị tự hủy sau vụ nổ lớn, nhưng trước đó, nó sẽ sử dụng sức mạnh biến đổi dị dạng lên bất kỳ sinh vật nào nó phát hiện được!</MutatorObeliskLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskTentacleLetterLabel>Obelisk đột biến</ObeliskTentacleLetterLabel>
+  <ObeliskTentacleLetterLabel>Trụ tháp - đột biến xúc tu</ObeliskTentacleLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
-  <ObeliskTentacleLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra, một chiếc xúc tu thịt nhầy nhụa trồi lên. Cánh tay của {PAWN_nameDef} đã bị thay thế bởi xúc tu đó. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác.</ObeliskTentacleLetter>
+  <ObeliskTentacleLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra, một chiếc xúc tu thịt nhầy nhụa trồi lên. Cánh tay của {PAWN_nameDef} đã bị thay thế bởi xúc tu đó. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác.</ObeliskTentacleLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskFleshWhipLetterLabel>Obelisk đột biến</ObeliskFleshWhipLetterLabel>
+  <ObeliskFleshWhipLetterLabel>Trụ tháp - đột biến roi thịt</ObeliskFleshWhipLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
-  <ObeliskFleshWhipLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra dữ dội, một chiếc roi xương thịt mọc xuyên qua cơ thể. Cánh tay của {PAWN_nameDef} đã biến thành chiếc roi xương thịt. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác từ sự kiện đáng sợ này. Xúc tu này thật gớm ghiếc, nhưng sẽ là một vũ khí cận chiến tuyệt vời.</ObeliskFleshWhipLetter>
+  <ObeliskFleshWhipLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} cảm thấy cánh tay của {PAWN_possessive} nhói lên. Chỉ sau một khoảnh khắc, da thịt {PAWN_possessive} toác ra dữ dội, một chiếc roi xương thịt mọc xuyên qua cơ thể. Cánh tay của {PAWN_nameDef} đã biến thành chiếc roi xương thịt. \n\n {PAWN_nameDef} mất một ít máu, nhưng có vẻ không gặp tổn hại nào khác từ sự kiện đáng sợ này. Xúc tu này thật gớm ghiếc, nhưng sẽ là một vũ khí cận chiến tuyệt vời.</ObeliskFleshWhipLetter>
 
   <!-- EN: Obelisk interaction -->
-  <MutatorObeliskFailedArmLetterLabel>Obelisk tương tác</MutatorObeliskFailedArmLetterLabel>
+  <MutatorObeliskFailedArmLetterLabel>Trụ tháp - tương tác lỗi - tay</MutatorObeliskFailedArmLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedArmLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy tay mình ngứa ran một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedArmLetter>
+  <MutatorObeliskFailedArmLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} thấy tay mình ngứa ran một lúc rồi cảm giác biến mất. \n\nTrụ tháp đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedArmLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskFleshmassStomachLetterLabel>Obelisk đột biến</ObeliskFleshmassStomachLetterLabel>
+  <ObeliskFleshmassStomachLetterLabel>Trụ tháp - đột biến nội tạng</ObeliskFleshmassStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
-  <ObeliskFleshmassStomachLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy dạ dày quặn đau đột ngột, các tế bào bắt đầu biến đổi. {PAWN_possessive} dạ dày đã biến thành một khối thịt nhầy có tri giác. Axit mạnh do nó tiết ra gây đau đớn nhưng giúp miễn nhiễm ngộ độc thực phẩm.</ObeliskFleshmassStomachLetter>
+  <ObeliskFleshmassStomachLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} cảm thấy dạ dày quặn đau đột ngột, các tế bào bắt đầu biến đổi. {PAWN_possessive} dạ dày đã biến thành một khối thịt nhầy có tri giác. Axit mạnh do nó tiết ra gây đau đớn nhưng giúp miễn nhiễm ngộ độc thực phẩm.</ObeliskFleshmassStomachLetter>
 
   <!-- EN: Obelisk interaction -->
-  <MutatorObeliskFailedStomachLetterLabel>Obelisk tương tác</MutatorObeliskFailedStomachLetterLabel>
+  <MutatorObeliskFailedStomachLetterLabel>Trụ tháp - tương tác lỗi - dạ dày</MutatorObeliskFailedStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} stomach aching for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedStomachLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy dạ dày mình nhói đau một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedStomachLetter>
+  <MutatorObeliskFailedStomachLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} thấy dạ dày mình nhói đau một lúc rồi cảm giác biến mất. \n\nTrụ tháp đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedStomachLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskFleshmassLungLetterLabel>Obelisk đột biến</ObeliskFleshmassLungLetterLabel>
+  <ObeliskFleshmassLungLetterLabel>Trụ tháp - đột biến phổi</ObeliskFleshmassLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
-  <ObeliskFleshmassLungLetter>Khi tương tác với Obelisk, {PAWN_nameDef} cảm thấy lồng ngực quặn đau đột ngột, phổi của {PAWN_possessive} nhói lên rồi bắt đầu sưng phồng. Phổi của {PAWN_possessive} đã biến đổi thành một khối thịt nhầy có tri giác. Những mô liên tục tự tái tạo và thay thế, giúp kháng những bệnh như thối phổi hay suyễn.</ObeliskFleshmassLungLetter>
+  <ObeliskFleshmassLungLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} cảm thấy lồng ngực quặn đau đột ngột, phổi của {PAWN_possessive} nhói lên rồi bắt đầu sưng phồng. Phổi của {PAWN_possessive} đã biến đổi thành một khối thịt nhầy có tri giác. Những mô liên tục tự tái tạo và thay thế, giúp kháng những bệnh như thối phổi hay suyễn.</ObeliskFleshmassLungLetter>
 
   <!-- EN: Obelisk interaction -->
-  <MutatorObeliskFailedLungLetterLabel>Obelisk tương tác</MutatorObeliskFailedLungLetterLabel>
+  <MutatorObeliskFailedLungLetterLabel>Trụ tháp - tương tác lỗi - phổi</MutatorObeliskFailedLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} chest ache for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedLungLetter>Khi tương tác với Obelisk, {PAWN_nameDef} thấy ngực mình nhói đau một lúc rồi cảm giác biến mất. \n\nObelisk đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedLungLetter>
+  <MutatorObeliskFailedLungLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} thấy ngực mình nhói đau một lúc rồi cảm giác biến mất. \n\nTrụ tháp đã cố biến đổi {PAWN_nameDef} nhưng thất bại.</MutatorObeliskFailedLungLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskAnimalMutationLetterLabel>Obelisk đột biến</ObeliskAnimalMutationLetterLabel>
+  <ObeliskAnimalMutationLetterLabel>Trụ tháp - đột biến động vật</ObeliskAnimalMutationLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden spike in energy. The obelisk has violently warped the flesh of {ANIMAL}, turning it into a hideous fleshbeast. -->
-  <ObeliskAnimalMutationLetter>Khi tương tác với Obelisk, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Obelisk đã gây đột biến dữ dội lên con {ANIMAL}, biến nó thành Quái thịt gớm ghiếc.</ObeliskAnimalMutationLetter>
+  <ObeliskAnimalMutationLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Trụ tháp đã gây đột biến dữ dội lên con {ANIMAL}, biến nó thành Quái thịt gớm ghiếc.</ObeliskAnimalMutationLetter>
 
   <!-- EN: Obelisk mutation -->
-  <ObeliskTreeMutationLetterLabel>Obelisk đột biến</ObeliskTreeMutationLetterLabel>
+  <ObeliskTreeMutationLetterLabel>Trụ tháp - đột biến thực vật</ObeliskTreeMutationLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden pulse of energy. The obelisk has twisted a nearby tree into a harbinger tree. These monstrous trees are capable of feeding on nearby corpses and raw meat. -->
-  <ObeliskTreeMutationLetter>Khi tương tác với Obelisk, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Obelisk đã bẻ cong một cây gần đó thành Cây báo tử. Những loài cây dị dạng này có khả năng hấp thụ xác chết và thịt sống quanh nó.</ObeliskTreeMutationLetter>
+  <ObeliskTreeMutationLetter>Khi tương tác với trụ tháp, {PAWN_nameDef} nhận thấy một luồng năng lượng bất chợt. Trụ tháp đã bẻ cong một cây gần đó thành Cây báo tử. Những loài cây dị dạng này có khả năng hấp thụ xác chết và thịt sống quanh nó.</ObeliskTreeMutationLetter>
 
   <!-- EN: Obelisk duplicate -->
-  <ObeliskDuplicationLetterLabel>Obelisk nhân bản</ObeliskDuplicationLetterLabel>
+  <ObeliskDuplicationLetterLabel>Trụ tháp - nhân bản</ObeliskDuplicationLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self! The duplicate claims to be the real {PAWN_nameDef} and has joined your colony. -->
-  <ObeliskDuplicationLetter>Khi {PAWN_nameDef} tương tác với Obelisk, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình! Bản sao này khẳng định nó mới là {PAWN_nameDef} thật và đã gia nhập thuộc địa của bạn.</ObeliskDuplicationLetter>
+  <ObeliskDuplicationLetter>Khi {PAWN_nameDef} tương tác với trụ tháp, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình! Bản sao này khẳng định nó mới là {PAWN_nameDef} thật và đã gia nhập thuộc địa của bạn.</ObeliskDuplicationLetter>
 
   <!-- EN: Obelisk failure -->
-  <ObeliskDuplicationFailedLetterLabel>Obelisk nhân bản lỗi</ObeliskDuplicationFailedLetterLabel>
+  <ObeliskDuplicationFailedLetterLabel>Trụ tháp - nhân bản lỗi</ObeliskDuplicationFailedLetterLabel>
   <!-- EN: {PAWN_nameDef} attempted to trigger the obelisk but nothing occurred. Something about {PAWN_nameDef} is preventing the obelisk from duplicating {PAWN_objective}. -->
-  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} cố gắng kích hoạt Obelisk nhưng không có gì xảy ra. Dường như có gì đó ở {PAWN_nameDef} khiến Obelisk không thể tạo bản sao.</ObeliskDuplicationFailedLetter>
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} cố gắng kích hoạt trụ tháp nhưng không có gì xảy ra. Dường như có gì đó ở {PAWN_nameDef} khiến trụ tháp không thể tạo bản sao.</ObeliskDuplicationFailedLetter>
   
   <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
-  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef} đã kích hoạt thành công tính năng nhân bản của Obelisk.</ObeliskDuplicationSuccessMessage>
+  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef} đã kích hoạt thành công tính năng nhân bản của trụ tháp.</ObeliskDuplicationSuccessMessage>
 
   <!-- EN: Hostile obelisk duplicate -->
-  <ObeliskHostileDuplicateLetterLabel>Obelisk bản sao thù địch</ObeliskHostileDuplicateLetterLabel>
+  <ObeliskHostileDuplicateLetterLabel>Trụ tháp - bản sao thù địch</ObeliskHostileDuplicateLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
-  <ObeliskHostileDuplicateLetter>Khi {PAWN_nameDef} tương tác với Obelisk, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình. Bản sao này đang tiến đến gần {PAWN_nameDef} với ý đồ sát hại!</ObeliskHostileDuplicateLetter>
+  <ObeliskHostileDuplicateLetter>Khi {PAWN_nameDef} tương tác với trụ tháp, nó bắt đầu chuyển động dữ dội và phát ra chùm ánh sáng. {PAWN_nameDef} đột nhiên đối diện với một bản sao của chính mình. Bản sao này đang tiến đến gần {PAWN_nameDef} với ý đồ sát hại!</ObeliskHostileDuplicateLetter>
 
   <!-- EN: Obelisk activation -->
-  <DuplicatorObeliskLetterLabel>Obelisk Kẻ nhân bản</DuplicatorObeliskLetterLabel>
+  <DuplicatorObeliskLetterLabel>Trụ tháp - Kẻ nhân bản</DuplicatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <DuplicatorObeliskLetter>Obelisk bắt đầu khởi động! Không khí xung quanh nó chuyển động đầy năng lượng. Những bản sao của thực dân có ý đồ giết người sắp xuất hiện.\n\nCẩn thận - năng lượng từ Obelisk rất bất ổn và có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
+  <DuplicatorObeliskLetter>Trụ tháp bắt đầu khởi động! Không khí xung quanh nó chuyển động đầy năng lượng. Những bản sao của thực dân có ý đồ giết người sắp xuất hiện.\n\nCẩn thận - năng lượng từ trụ tháp rất bất ổn và có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
 
   <!-- EN: Colonists disappearing -->
-  <ObeliskAbductorLetterLabel>Obelisk Kẻ bắt cóc</ObeliskAbductorLetterLabel>
+  <ObeliskAbductorLetterLabel>Trụ tháp - Kẻ bắt cóc</ObeliskAbductorLetterLabel>
   <!-- EN: The warped obelisk crackles with energy as it warps space around itself. All manner of creatures are beginning to disappear and will soon vanish entirely.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <ObeliskAbductorLetter>warped obelisk bẻ cong không gian xung quanh, chấn động với luồng năng lượng kinh dị. Tất cả dạng sinh vật đều bắt đầu biến mất và sẽ sớm tan thành hư không.\n\nCẩn thận - năng lượng từ Obelisk rất bất ổn và có thể phát nổ bất cứ lúc nào.</ObeliskAbductorLetter>
+  <ObeliskAbductorLetter>warped obelisk bẻ cong không gian xung quanh, chấn động với luồng năng lượng kinh dị. Tất cả dạng sinh vật đều bắt đầu biến mất và sẽ sớm tan thành hư không.\n\nCẩn thận - năng lượng từ trụ tháp rất bất ổn và có thể phát nổ bất cứ lúc nào.</ObeliskAbductorLetter>
   
   <!-- EN: {PAWN_nameDef} is disappearing -->
   <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef} đang biến mất</ObeliskAbductedDisappearingLetterLabel>
@@ -238,7 +238,7 @@
   <!-- EN: {PAWN_nameDef} reappeared -->
   <ObeliskAbductedLetterLabel>{PAWN_nameDef} xuất hiện trở lại</ObeliskAbductedLetterLabel>
   <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
-  <ObeliskAbductedLetter>{PAWN_nameDef} vừa được dịch chuyển đến một căn phòng kỳ lạ. Những bức tường có màu xám không thể nhận diện, và không khí dường như hoàn toàn tĩnh lặng. {PAWN_pronoun} không biết mình đang ở đâu - hay làm sao để trở về.\n\nMột cánh cửa gần đó bị kẹt nhưng có vẻ như có thể cạy mở bằng một chút sức lực. Nhấp chuột phải vào cửa bị kẹt để mở chúng.\n\nBằng cách nghiên cứu Obelisk, những thực dân khác có thể hiểu được điều gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Hoặc, tấn công Obelisk có thể khiến nó bắt cóc thêm nhiều người.</ObeliskAbductedLetter>
+  <ObeliskAbductedLetter>{PAWN_nameDef} vừa được dịch chuyển đến một căn phòng kỳ lạ. Những bức tường có màu xám không thể nhận diện, và không khí dường như hoàn toàn tĩnh lặng. {PAWN_pronoun} không biết mình đang ở đâu - hay làm sao để trở về.\n\nMột cánh cửa gần đó bị kẹt nhưng có vẻ như có thể cạy mở bằng một chút sức lực. Nhấp chuột phải vào cửa bị kẹt để mở chúng.\n\nBằng cách nghiên cứu trụ tháp, những thực dân khác có thể hiểu được điều gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Hoặc, tấn công trụ tháp có thể khiến nó bắt cóc thêm nhiều người.</ObeliskAbductedLetter>
 
   <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
   <MutatorObeliskMutated>{PAWN_nameIndef} đã biến thành Quái thịt.</MutatorObeliskMutated>
@@ -294,6 +294,7 @@
   <ActivitySuppressionTooltipDesc>{0}: mức hoạt động sẽ tăng theo thời gian. Hoạt động tăng nhanh hơn nếu bị tấn công hoặc khiêu khích.\n\nNếu mức hoạt động lên đến 100%, {0} sẽ tự kích hoạt.\n\nCai ngục có thể trấn áp {0} để giữ hoạt động ở mức an toàn. Họ sẽ dập tắt nó mỗi khi hoạt động vươn đến giới hạn được thiết lập: {LEVEL}\n\nThực thể có mức hoạt động cao sẽ cung cấp nhiều kiến thức hơn khi nghiên cứu.</ActivitySuppressionTooltipDesc>
   <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
   <ActivitySuppressionToggleTooltipDesc>Quyết định liệu {0} có bị tự động trấn áp khi hoạt động vượt {LEVEL} hay không.\n\nTrấn áp tự động hiện đang: {ONOFF}</ActivitySuppressionToggleTooltipDesc>
+
   <!-- Activity Descs -->
   <!-- EN: activity level -->
   <ActivityLevelDesc>Mức độ hoạt động hiện tại của thực thể.</ActivityLevelDesc>
@@ -694,7 +695,7 @@
   <!-- EN: Warped obelisk -->
   <LetterLabelObeliskDiscovered>warped obelisk được phát hiện</LetterLabelObeliskDiscovered>
   <!-- EN: {PAWN_nameDef} has discovered a large obelisk. It looks nearly identical to the one that originally brought {PAWN_objective} here. Perhaps it can be activated to return {PAWN_objective} home.\n\nSelect {PAWN_nameDef} and right-click the obelisk to activate it. -->
-  <LetterObeliskDiscovered>{PAWN_nameDef} vừa phát hiện một Obelisk khổng lồ. Nó gần như giống hệt cái đã đưa {PAWN_objective} đến đây. Có lẽ nó có thể được kích hoạt để đưa {PAWN_objective} trở lại quê nhà.\n\nChọn {PAWN_nameDef} và nhấp chuột phải vào obelisk để kích hoạt.</LetterObeliskDiscovered>
+  <LetterObeliskDiscovered>{PAWN_nameDef} vừa phát hiện một Trụ tháp khổng lồ. Nó gần như giống hệt cái đã đưa {PAWN_objective} đến đây. Có lẽ nó có thể được kích hoạt để đưa {PAWN_objective} trở lại quê nhà.\n\nChọn {PAWN_nameDef} và nhấp chuột phải vào obelisk để kích hoạt.</LetterObeliskDiscovered>
   
   <!-- EN: Floor etchings -->
   <LetterLabelFloorEtchings>Vết khắc trên sàn</LetterLabelFloorEtchings>
@@ -709,7 +710,7 @@
   <!-- EN: Colonists returned -->
   <LetterLabelLabyrinthExit>Thực dân quay trở lại</LetterLabelLabyrinthExit>
   <!-- EN: The whirring obelisk has returned your abducted colonists. Shortly after doing so, it vanished into thin air.\n\nBe careful, the obelisk may have returned other creatures as well. -->
-  <LetterLabyrinthExit>Obelisk biến dạng đã đưa những thực dân bị bắt quay trở lại. Ngay sau đó, nó biến mất vào hư không.\n\nHãy cẩn thận, Obelisk cũng có thể đã đưa về những sinh vật khác nữa.</LetterLabyrinthExit>
+  <LetterLabyrinthExit>Trụ tháp biến dạng đã đưa những thực dân bị bắt quay trở lại. Ngay sau đó, nó biến mất vào hư không.\n\nHãy cẩn thận, Trụ tháp cũng có thể đã đưa về những sinh vật khác nữa.</LetterLabyrinthExit>
 
   <!-- EN: Jammed shut. Must be forced open. -->
   <GrayDoorJammed>Bị kẹt cứng. Cần phải cạy mở.</GrayDoorJammed>
@@ -720,10 +721,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>Không có quân cờ khả dụng.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>Bề mặt kim loại sẫm màu của khối đá phát ra hơi ấm khi chạm vào, và {PAWN_nameDef} cảm thấy như {PAWN_pronoun} đang nghe thấy một âm vang nhẹ phát ra từ bên trong. Những đường vân trên lớp bụi phủ lăn tăn chuyển động một cách bất an.
-    \n\n {PAWN_nameDef} tập trung vào các hình dạng đó, cố gắng giải mã ý nghĩa ẩn sau chúng.
-     \n\nÂm vang dần lớn hơn. Các hình thù bắt đầu trôi chảy trong tầm nhìn của {PAWN_nameDef},
-  nhưng bề mặt không hề đổi thay. Sức mạnh bắt đầu cuộn xoáy trong không gian trống rỗng xung quanh. Một hình thù đen kịt hình thành bên trong đầu {PAWN_nameDef}. \n\nDị thường đang khuấy động...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>Bề mặt kim loại sẫm màu của khối đá phát ra hơi ấm khi chạm vào, và {PAWN_nameDef} cảm thấy như {PAWN_pronoun} đang nghe thấy một âm vang nhẹ phát ra từ bên trong. Những đường vân trên lớp bụi phủ lăn tăn chuyển động một cách bất an.\n    \n\n {PAWN_nameDef} tập trung vào các hình dạng đó, cố gắng giải mã ý nghĩa ẩn sau chúng.\n     \n\nÂm vang dần lớn hơn. Các hình thù bắt đầu trôi chảy trong tầm nhìn của {PAWN_nameDef},\n  nhưng bề mặt không hề đổi thay. Sức mạnh bắt đầu cuộn xoáy trong không gian trống rỗng xung quanh. Một hình thù đen kịt hình thành bên trong đầu {PAWN_nameDef}. \n\nDị thường đang khuấy động...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>Tiếp tục tập trung vào Dị thường</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -767,7 +765,7 @@
   <!-- EN: Interacting with the psychic signal has caused a strange structure to appear. -->
   <MonolithArrivalText>Tương tác với tín hiệu tâm linh đã khiến một cấu trúc kỳ lạ xuất hiện.</MonolithArrivalText>
   <!-- EN: It is very similar, if not identical, to the monolith you previously encountered. -->
-  <MonolithArrivalTextExt>Nó rất giống, nếu không muốn nói là giống hệt, với monolith mà bạn gặp trước đó.</MonolithArrivalTextExt>
+  <MonolithArrivalTextExt>Nó rất giống, nếu không muốn nói là giống hệt, với Trụ tháp mà bạn gặp trước đó.</MonolithArrivalTextExt>
   <!-- EN: Can't {0} monolith -->
   <CantActivateMonolith>Không thể kích hoạt tượng đài {0}</CantActivateMonolith>
 
@@ -875,27 +873,21 @@
   <!-- EN: The chimeras have begun their attack! -->
   <LetterChimerasAttacking>Sinh vật Chimera đã bắt đầu cuộc tấn công!</LetterChimerasAttacking>
   
- <!-- Anomaly event frequency -->
-<!-- EN: No major threats -->
-<AnomalyFrequency_None>Không có mối đe dọa chính</AnomalyFrequency_None>
-
-<!-- EN: Very rare -->
-<AnomalyFrequency_VeryRare>Rất hiếm</AnomalyFrequency_VeryRare>
-
-<!-- EN: Rare -->
-<AnomalyFrequency_Rare>Hiếm</AnomalyFrequency_Rare>
-
-<!-- EN: Balanced -->
-<AnomalyFrequency_Balanced>Cân bằng</AnomalyFrequency_Balanced>
-
-<!-- EN: Intense -->
-<AnomalyFrequency_Intense>Mãnh liệt</AnomalyFrequency_Intense>
-
-<!-- EN: Overwhelming -->
-<AnomalyFrequency_Overwhelming>Choáng ngợp</AnomalyFrequency_Overwhelming>
-
-<!-- EN: Security doors only -->
-<SecurityDoorsOnly>Chỉ cửa bảo mật</SecurityDoorsOnly>
-
+  <!-- Anomaly event frequency -->
+  <!-- EN: No major threats -->
+  <AnomalyFrequency_None>Không có mối đe dọa chính</AnomalyFrequency_None>
+  <!-- EN: Very rare -->
+  <AnomalyFrequency_VeryRare>Rất hiếm</AnomalyFrequency_VeryRare>
+  <!-- EN: Rare -->
+  <AnomalyFrequency_Rare>Hiếm</AnomalyFrequency_Rare>
+  <!-- EN: Balanced -->
+  <AnomalyFrequency_Balanced>Cân bằng</AnomalyFrequency_Balanced>
+  <!-- EN: Intense -->
+  <AnomalyFrequency_Intense>Mãnh liệt</AnomalyFrequency_Intense>
+  <!-- EN: Overwhelming -->
+  <AnomalyFrequency_Overwhelming>Choáng ngợp</AnomalyFrequency_Overwhelming>
+  
+  <!-- EN: Security doors only -->
+  <SecurityDoorsOnly>Chỉ cửa bảo mật</SecurityDoorsOnly>
   
 </LanguageData>

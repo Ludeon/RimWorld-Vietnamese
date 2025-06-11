@@ -84,7 +84,7 @@
     <li>halfB->tus</li>
   -->
   <NamerBiosignature.rulePack.rulesStrings>
-  <li>r_root->[bioWord]-[id]</li>
+    <li>r_root->[bioWord]-[id]</li>
     <li>id->[Digit][Letter]</li>
     <li>id->[Letter][Digit]</li>
     <li>bioWord->[halfA][halfB]</li>

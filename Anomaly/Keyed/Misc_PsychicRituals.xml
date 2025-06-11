@@ -167,9 +167,8 @@
 
   <!-- EN: {TARGET_labelShort} was destroyed -->
   <PsychicRitualDef_TargetDestroyed>Mục tiêu {TARGET_labelShort} đã bị phá hủy.</PsychicRitualDef_TargetDestroyed>
-<!-- EN: {INVOKER_labelShort} cannot continue the psychic ritual -->
-<PsychicRitualDef_InvocationCircle_InvokerLost>{INVOKER_labelShort} không thể tiếp tục nghi thức tâm linh</PsychicRitualDef_InvocationCircle_InvokerLost>
-
+  <!-- EN: {INVOKER_labelShort} cannot continue the psychic ritual -->
+  <PsychicRitualDef_InvocationCircle_InvokerLost>{INVOKER_labelShort} không thể tiếp tục nghi thức tâm linh</PsychicRitualDef_InvocationCircle_InvokerLost>
 
   <!-- EN: the area around the target site must be clear of obstructions -->
   <PsychicRitualDef_InvocationCircle_AreaMustBeClear>Khu vực xung quanh vị trí mục tiêu phải thông thoáng.</PsychicRitualDef_InvocationCircle_AreaMustBeClear>

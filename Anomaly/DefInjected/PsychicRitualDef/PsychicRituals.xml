@@ -77,53 +77,52 @@
   <!-- EN: At the current ritual quality, the target will remain in a coma for {0}. -->
   <SkipAbductionPlayer.outcomeDescription>Với chất lượng nghi thức hiện tại, mục tiêu sẽ hôn mê trong {0}.</SkipAbductionPlayer.outcomeDescription>
   
-<!-- EN: draw animals -->
-<SummonAnimals.label>Gọi động vật</SummonAnimals.label>
-<!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
-<SummonAnimals.description>Tạo ra một xung động tâm linh để thu hút một đàn động vật từ xa về khu vực lân cận. Bạn có thể săn bắn hoặc sử dụng chúng theo cách bạn muốn. Nếu không thực hiện đúng cách, điều này có thể thu hút những kẻ điên cuồng nhiễm scaria.</SummonAnimals.description>
-<!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
-<SummonAnimals.outcomeDescription>Với chất lượng nghi lễ hiện tại, có {0} khả năng rằng động vật sẽ đến như những kẻ điên cuồng săn người.</SummonAnimals.outcomeDescription>
-
-<!-- EN: draw fleshbeasts -->
-<SummonFleshbeasts.label>gọi Quái thịt</SummonFleshbeasts.label>
-<!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
-<SummonFleshbeasts.description>Tạo ra một xung động tâm linh để thu hút những thú xác thịt đào lên và xuất hiện gần kẻ thù của bạn. Chúng sẽ tấn công bất kỳ ai mà chúng tìm thấy, bao gồm cả kẻ thù và đồng minh của bạn. Thú xác thịt có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonFleshbeasts.description>
-<!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
-<SummonFleshbeasts.letterAIArrivedText>Họ dự định sử dụng một nghi lễ tâm linh để gọi những thú xác thịt ghê rợn tấn công bạn.</SummonFleshbeasts.letterAIArrivedText>
-<!-- EN: Fleshbeasts emerging -->
-<SummonFleshbeasts.letterAICompleteLabel>Thú xác thịt đang nổi lên</SummonFleshbeasts.letterAICompleteLabel>
-<!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
-<SummonFleshbeasts.letterAICompleteText>Thú xác thịt đang cào đường ra khỏi mặt đất. Hãy chuẩn bị cho cuộc tấn công của chúng!</SummonFleshbeasts.letterAICompleteText>
-<!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
-<SummonFleshbeasts.outcomeDescription>Tạo ra một xung động tâm linh để thu hút một đám thú xác thịt.</SummonFleshbeasts.outcomeDescription>
-
-<!-- EN: draw fleshbeasts -->
-<SummonFleshbeastsPlayer.label>gọi Quái thịt</SummonFleshbeastsPlayer.label>
-<!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
-<SummonFleshbeastsPlayer.description>Tạo ra một xung động tâm linh để thu hút những thú xác thịt đào lên và xuất hiện gần kẻ thù của bạn. Chúng sẽ tấn công bất kỳ ai mà chúng tìm thấy, bao gồm cả kẻ thù và đồng minh của bạn. Thú xác thịt có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonFleshbeastsPlayer.description>
-<!-- EN: A higher quality ritual will attract more fleshbeasts. -->
-<SummonFleshbeastsPlayer.outcomeDescription>Một nghi lễ có chất lượng cao hơn sẽ thu hút nhiều thú xác thịt hơn.</SummonFleshbeastsPlayer.outcomeDescription>
-
-<!-- EN: provoke pit gate -->
-<SummonPitGate.label>Kích động Cổng vực thẳm</SummonPitGate.label>
-<!-- EN: Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources. -->
-<SummonPitGate.description>Sử dụng một xung động tâm linh để kích động thú xác thịt ngầm mở ra một Cổng vực thẳm khổng lồ trên mặt đất ở một khu vực nào đó. Hố sâu khổng lồ này sẽ dẫn xuống một hang động đầy thú xác thịt, nơi có thể khám phá để tìm tài nguyên.</SummonPitGate.description>
-<!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
-<SummonPitGate.outcomeDescription>Một nghi lễ có chất lượng cao hơn sẽ thu hút nhiều thú xác thịt hơn. Chúng có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonPitGate.outcomeDescription>
-
-<!-- EN: draw shamblers -->
-<SummonShamblers.label>Gọi xác sống</SummonShamblers.label>
-<!-- EN: Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study. -->
-<SummonShamblers.description>Tạo ra một xung động tâm linh để thu hút một đám xác chết sống di chuyển về khu vực của bạn. Mặc dù chúng tấn công bất kỳ con người nào mà chúng nhìn thấy, nhưng chúng sẽ không tấn công trực tiếp thuộc địa của bạn. Bạn có thể bắt giữ chúng để nghiên cứu.</SummonShamblers.description>
-<!-- EN: The higher the ritual quality, the more shamblers that will be summoned. -->
-<SummonShamblers.outcomeDescription>Nghi lễ càng có chất lượng cao, càng thu hút nhiều xác chết sống hơn.</SummonShamblers.outcomeDescription>
-
-<!-- EN: void provocation -->
-<VoidProvocation.label>Kích động hư không</VoidProvocation.label>
-<!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours. -->
-<VoidProvocation.description>Kết nối tâm linh với hư không, thu hút một thực thể có thể bị bắt giữ và nghiên cứu. Có khả năng người thực hiện sẽ rơi vào trạng thái hôn mê trong vài giờ.</VoidProvocation.description>
-<!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
-<VoidProvocation.outcomeDescription>Với chất lượng hiện tại, có {0} khả năng rằng người thực hiện sẽ nhận phải cú sốc tâm linh đen tối.</VoidProvocation.outcomeDescription>
-
+  <!-- EN: draw animals -->
+  <SummonAnimals.label>Gọi động vật</SummonAnimals.label>
+  <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
+  <SummonAnimals.description>Tạo ra một xung động tâm linh để thu hút một đàn động vật từ xa về khu vực lân cận. Bạn có thể săn bắn hoặc sử dụng chúng theo cách bạn muốn. Nếu không thực hiện đúng cách, điều này có thể thu hút những kẻ điên cuồng nhiễm scaria.</SummonAnimals.description>
+  <!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
+  <SummonAnimals.outcomeDescription>Với chất lượng nghi lễ hiện tại, có {0} khả năng rằng động vật sẽ đến như những kẻ điên cuồng săn người.</SummonAnimals.outcomeDescription>
+  
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeasts.label>gọi Quái thịt</SummonFleshbeasts.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeasts.description>Tạo ra một xung động tâm linh để thu hút những thú xác thịt đào lên và xuất hiện gần kẻ thù của bạn. Chúng sẽ tấn công bất kỳ ai mà chúng tìm thấy, bao gồm cả kẻ thù và đồng minh của bạn. Thú xác thịt có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonFleshbeasts.description>
+  <!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
+  <SummonFleshbeasts.letterAIArrivedText>Họ dự định sử dụng một nghi lễ tâm linh để gọi những thú xác thịt ghê rợn tấn công bạn.</SummonFleshbeasts.letterAIArrivedText>
+  <!-- EN: Fleshbeasts emerging -->
+  <SummonFleshbeasts.letterAICompleteLabel>Thú xác thịt đang nổi lên</SummonFleshbeasts.letterAICompleteLabel>
+  <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
+  <SummonFleshbeasts.letterAICompleteText>Thú xác thịt đang cào đường ra khỏi mặt đất. Hãy chuẩn bị cho cuộc tấn công của chúng!</SummonFleshbeasts.letterAICompleteText>
+  <!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
+  <SummonFleshbeasts.outcomeDescription>Tạo ra một xung động tâm linh để thu hút một đám thú xác thịt.</SummonFleshbeasts.outcomeDescription>
+  
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeastsPlayer.label>gọi Quái thịt</SummonFleshbeastsPlayer.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeastsPlayer.description>Tạo ra một xung động tâm linh để thu hút những thú xác thịt đào lên và xuất hiện gần kẻ thù của bạn. Chúng sẽ tấn công bất kỳ ai mà chúng tìm thấy, bao gồm cả kẻ thù và đồng minh của bạn. Thú xác thịt có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonFleshbeastsPlayer.description>
+  <!-- EN: A higher quality ritual will attract more fleshbeasts. -->
+  <SummonFleshbeastsPlayer.outcomeDescription>Một nghi lễ có chất lượng cao hơn sẽ thu hút nhiều thú xác thịt hơn.</SummonFleshbeastsPlayer.outcomeDescription>
+  
+  <!-- EN: provoke pit gate -->
+  <SummonPitGate.label>Kích động Cổng vực thẳm</SummonPitGate.label>
+  <!-- EN: Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources. -->
+  <SummonPitGate.description>Sử dụng một xung động tâm linh để kích động thú xác thịt ngầm mở ra một Cổng vực thẳm khổng lồ trên mặt đất ở một khu vực nào đó. Hố sâu khổng lồ này sẽ dẫn xuống một hang động đầy thú xác thịt, nơi có thể khám phá để tìm tài nguyên.</SummonPitGate.description>
+  <!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonPitGate.outcomeDescription>Một nghi lễ có chất lượng cao hơn sẽ thu hút nhiều thú xác thịt hơn. Chúng có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt biến dạng.</SummonPitGate.outcomeDescription>
+  
+  <!-- EN: draw shamblers -->
+  <SummonShamblers.label>Gọi xác sống</SummonShamblers.label>
+  <!-- EN: Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study. -->
+  <SummonShamblers.description>Tạo ra một xung động tâm linh để thu hút một đám xác chết sống di chuyển về khu vực của bạn. Mặc dù chúng tấn công bất kỳ con người nào mà chúng nhìn thấy, nhưng chúng sẽ không tấn công trực tiếp thuộc địa của bạn. Bạn có thể bắt giữ chúng để nghiên cứu.</SummonShamblers.description>
+  <!-- EN: The higher the ritual quality, the more shamblers that will be summoned. -->
+  <SummonShamblers.outcomeDescription>Nghi lễ càng có chất lượng cao, càng thu hút nhiều xác chết sống hơn.</SummonShamblers.outcomeDescription>
+  
+  <!-- EN: void provocation -->
+  <VoidProvocation.label>Kích động hư không</VoidProvocation.label>
+  <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours. -->
+  <VoidProvocation.description>Kết nối tâm linh với hư không, thu hút một thực thể có thể bị bắt giữ và nghiên cứu. Có khả năng người thực hiện sẽ rơi vào trạng thái hôn mê trong vài giờ.</VoidProvocation.description>
+  <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
+  <VoidProvocation.outcomeDescription>Với chất lượng hiện tại, có {0} khả năng rằng người thực hiện sẽ nhận phải cú sốc tâm linh đen tối.</VoidProvocation.outcomeDescription>
   
 </LanguageData>
