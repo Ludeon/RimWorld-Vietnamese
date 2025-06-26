@@ -5,29 +5,29 @@
   <Bullet_ToxicNeedleGun.label>kim độc</Bullet_ToxicNeedleGun.label>
   
   <!-- EN: beam graser -->
-  <Gun_BeamGraser.label>pháo tia diện rộng</Gun_BeamGraser.label>
+  <Gun_BeamGraser.label>Súng tia graser</Gun_BeamGraser.label>
   <!-- EN: A high-energy gamma ray laser which fires a sweeping beam that pierces thick armor and burns targets. Because of the health risks, grasers are usually only used by mechanoids. This one was made to interface directly with a mechanoid wielder and draw from its power source. -->
   <Gun_BeamGraser.description>Bộ phát tia gamma năng lượng cao có thể quét ra một chùm tia năng lượng cao để đốt cháy mục tiêu. Do những rủi ro về sức khỏe của tia gamma, loại vũ khí này thường chỉ được trang bị cho các mechanoid, và mô hình này thậm chí còn bị ràng buộc với nguồn năng lượng của chính mechanoid.</Gun_BeamGraser.description>
   <!-- EN: barrel -->
-  <Gun_BeamGraser.tools.barrel.label>barrel</Gun_BeamGraser.tools.barrel.label>
+  <Gun_BeamGraser.tools.barrel.label>Báng súng</Gun_BeamGraser.tools.barrel.label>
   <!-- EN: beam graser -->
-  <Gun_BeamGraser.verbs.Verb_ShootBeam.label>pháo tia diện rộng</Gun_BeamGraser.verbs.Verb_ShootBeam.label>
+  <Gun_BeamGraser.verbs.Verb_ShootBeam.label>Súng tia graser</Gun_BeamGraser.verbs.Verb_ShootBeam.label>
   
   <!-- EN: needle launcher -->
-  <Gun_NeedleLauncher.label>TODO</Gun_NeedleLauncher.label>
+  <Gun_NeedleLauncher.label>Súng phóng kim</Gun_NeedleLauncher.label>
   <!-- EN: This mechanoid weapon is a compact version of the needle gun. Named after its needle-like projectiles, it fires single shots with great accuracy. The needle launcher has less range than its counterpart but is lightweight, allowing it to be wielded by fast-moving mechs. -->
-  <Gun_NeedleLauncher.description>TODO</Gun_NeedleLauncher.description>
+  <Gun_NeedleLauncher.description>Vũ khí mechanoid này là phiên bản nhỏ gọn của súng kim. Được đặt tên theo đạn hình kim, nó bắn từng phát với độ chính xác cao. Súng phóng kim có tầm bắn ngắn hơn phiên bản gốc nhưng nhẹ, cho phép các mech di chuyển nhanh sử dụng.</Gun_NeedleLauncher.description>
   <!-- EN: barrel -->
-  <Gun_NeedleLauncher.tools.barrel.label>TODO</Gun_NeedleLauncher.tools.barrel.label>
+  <Gun_NeedleLauncher.tools.barrel.label>Báng súng</Gun_NeedleLauncher.tools.barrel.label>
   <!-- EN: needle launcher -->
-  <Gun_NeedleLauncher.verbs.Verb_Shoot.label>TODO</Gun_NeedleLauncher.verbs.Verb_Shoot.label>
+  <Gun_NeedleLauncher.verbs.Verb_Shoot.label>Súng phóng kim</Gun_NeedleLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: toxic needle gun -->
   <Gun_ToxicNeedle.label>súng kim độc</Gun_ToxicNeedle.label>
   <!-- EN: A mechanoid-built gun that fires toxin-infused metal needles. It can fire long distances and will poison the target in addition to doing physical damage. -->
   <Gun_ToxicNeedle.description>Một loại vũ khí cơ học bắn kim đâm độc. Nó có tầm bắn xa và truyền chất độc vào mục tiêu đồng thời gây sát thương vật lý.</Gun_ToxicNeedle.description>
   <!-- EN: barrel -->
-  <Gun_ToxicNeedle.tools.barrel.label>barrel</Gun_ToxicNeedle.tools.barrel.label>
+  <Gun_ToxicNeedle.tools.barrel.label>Báng súng</Gun_ToxicNeedle.tools.barrel.label>
   <!-- EN: toxic needle gun -->
   <Gun_ToxicNeedle.verbs.Verb_Shoot.label>súng kim độc</Gun_ToxicNeedle.verbs.Verb_Shoot.label>
   

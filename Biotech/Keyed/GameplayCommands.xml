@@ -51,12 +51,12 @@
   <CommandToggleTurretDesc>Kích hoạt tháp pháo để nó có thể bắn theo ý muốn.\n\nKhi bị vô hiệu hóa, tháp pháo sẽ không tự động bắn. Điều này rất hữu ích khi đánh lén kẻ thù.</CommandToggleTurretDesc>
 
   <!-- EN: Cancel scan -->
-  <CommandCancelSubcoreScan>TODO</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScan>Hủy quét</CommandCancelSubcoreScan>
   <!-- EN: Cancel the scan process. The contained person will be ejected. -->
-  <CommandCancelSubcoreScanDesc>TODO</CommandCancelSubcoreScanDesc>
+  <CommandCancelSubcoreScanDesc>Hủy bỏ quá trình quét. Người được chứa sẽ bị tống ra ngoài.</CommandCancelSubcoreScanDesc>
 
   <!-- EN: Force xenogerm implantation -->
-  <ForceXenogermImplantation>TODO</ForceXenogermImplantation>
+  <ForceXenogermImplantation>Ép buộc cấy xenogerm</ForceXenogermImplantation>
   <!-- EN: Force this person to implant their xenogenes into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
-  <ForceXenogermImplantationDesc>TODO</ForceXenogermImplantationDesc>
+  <ForceXenogermImplantationDesc>Ép buộc người này cấy ghép xenogen của họ vào cá nhân khác bằng cơ quan tiêm đặc biệt. Nếu gen của người này đang phát triển lại, họ sẽ chết trong quá trình.\n\nKhi được cấy ghép, xenogerm sẽ ghi đè lên xenogen của mục tiêu. Gen mầm sẽ không bị ảnh hưởng.</ForceXenogermImplantationDesc>
 </LanguageData>

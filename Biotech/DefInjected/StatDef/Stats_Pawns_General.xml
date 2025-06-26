@@ -24,9 +24,9 @@
   <Fertility.description>Khả năng sinh sản ảnh hưởng đến cơ hội mang thai xảy ra. Cơ hội mang thai phụ thuộc vào khả năng sinh sản của cả hai đối tác. Khả năng sinh sản cũng có thể ảnh hưởng đến cơ hội cấy phôi thành công vào người mang thai.</Fertility.description>
   
   <!-- EN: growth vat occupant speed -->
-  <GrowthVatOccupantSpeed.label>TODO</GrowthVatOccupantSpeed.label>
+  <GrowthVatOccupantSpeed.label>Tốc độ phát triển trong bình nuôi</GrowthVatOccupantSpeed.label>
   <!-- EN: A multiplier on how quickly this person will grow when in a growth vat. -->
-  <GrowthVatOccupantSpeed.description>TODO</GrowthVatOccupantSpeed.description>
+  <GrowthVatOccupantSpeed.description>Hệ số nhân cho tốc độ phát triển của người này khi ở trong bình nuôi.</GrowthVatOccupantSpeed.description>
   
   <!-- EN: hemogen gain multiplier -->
   <HemogenGainFactor.label>hệ số tăng hemogene</HemogenGainFactor.label>
@@ -34,9 +34,9 @@
   <HemogenGainFactor.description>Một số nhân trên lượng hemogen thu được.</HemogenGainFactor.description>
   
   <!-- EN: learning rate factor -->
-  <LearningRateFactor.label>TODO</LearningRateFactor.label>
+  <LearningRateFactor.label>hệ số tốc độ học</LearningRateFactor.label>
   <!-- EN: A multiplier on how quickly a child's learning need is fulfilled by learning activities. -->
-  <LearningRateFactor.description>TODO</LearningRateFactor.description>
+  <LearningRateFactor.description>Hệ số nhân cho tốc độ đáp ứng nhu cầu học tập của trẻ em thông qua các hoạt động học tập.</LearningRateFactor.description>
   
   <!-- EN: mech bandwidth -->
   <MechBandwidth.label>băng thông mech</MechBandwidth.label>

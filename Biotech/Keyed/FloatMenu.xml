@@ -132,9 +132,9 @@
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
   <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} không được giao cho việc chăm sóc trẻ em</BreastfeedFailReason_MomNotAssignedToChildcare>
   <!-- EN: {MOM_labelShort} is inside a container -->
-  <BreastfeedFailReason_MomInsideContainer>TODO</BreastfeedFailReason_MomInsideContainer>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} đang bên trong thùng chứa</BreastfeedFailReason_MomInsideContainer>
   <!-- EN: {MOM_labelShort} is being carried -->
-  <BreastfeedFailReason_MomBeingCarried>TODO</BreastfeedFailReason_MomBeingCarried>
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} đang được vận chuyển</BreastfeedFailReason_MomBeingCarried>
 
   <!-- EN: Order implantation into {PAWN_nameDef} -->
   <OrderImplantationIntoPawn>Đặt hàng cấy ghép vào {PAWN_nameDef}</OrderImplantationIntoPawn>
@@ -158,11 +158,11 @@
   <ResultingMetTooLow>Kết quả trao đổi chất sẽ quá thấp</ResultingMetTooLow>
 
   <!-- EN: attempted romance too recently -->
-  <RomanceOnCooldown>TODO</RomanceOnCooldown>
+  <RomanceOnCooldown>Vừa mới cố tán tỉnh</RomanceOnCooldown>
 
   <!-- EN: Take to safe location -->
-  <CarryToSafePlace>TODO</CarryToSafePlace>
+  <CarryToSafePlace>Đưa đến nơi an toàn</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
-  <CannotCarryToSafePlace>TODO</CannotCarryToSafePlace>
+  <CannotCarryToSafePlace>Không thể đưa đến nơi an toàn</CannotCarryToSafePlace>
 
 </LanguageData>
