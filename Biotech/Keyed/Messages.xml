@@ -16,7 +16,7 @@
   <!-- EN: {0_labelShort} already has the {0_xenotype} xenotype. -->
   <MessageCannotUseOnSameXenotype>{0_labelShort} đã có xenotype {0_xenotype}.</MessageCannotUseOnSameXenotype>
   <!-- EN: {0_labelShort} has no available xenogenes to implant. -->
-  <MessagePawnHasNoXenogenes>TODO</MessagePawnHasNoXenogenes>
+  <MessagePawnHasNoXenogenes>{0_labelShort} không có sẵn xenogen để cấy ghép.</MessagePawnHasNoXenogenes>
   <!-- EN: Xenogerms can only be implanted into colonists, prisoners, and slaves. -->
   <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerm chỉ có thể được cấy ở thực dân, tù nhân và nô lệ.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
   <!-- EN: Cannot implant in temporary faction members. -->
@@ -30,7 +30,7 @@
   <!-- EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
   <MessageCannotUseOnOtherFactions>{ABILITY_label} chỉ có thể được sử dụng cho Người định cư, Tù nhân và Nô lệ.</MessageCannotUseOnOtherFactions>
   <!-- EN: {0_labelShort} refuses to become a disliked xenotype. -->
-  <MessageCannotBecomeNonPreferredXenotype>TODO</MessageCannotBecomeNonPreferredXenotype>
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} từ chối trở thành xenotype không được ưa thích.</MessageCannotBecomeNonPreferredXenotype>
 
   <!-- EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
   <MessageCaravanAddingEscortingMech>Tự động thêm {MECH_nameDef} vào đoàn lữ hành, vì nó đang hộ tống {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech> 
@@ -48,7 +48,7 @@
   
   <!-- Pollution -->
   <!-- EN: {0} has been angered ({1}) -->
-  <MessageAngeredPollutedCell>TODO</MessageAngeredPollutedCell>
+  <MessageAngeredPollutedCell>{0} đã nổi giận ({1})</MessageAngeredPollutedCell>
   <!-- EN: Need unpolluted terrain. -->
   <MessageWarningPollutedCell>Cần đất không bị ô nhiễm.</MessageWarningPollutedCell>
   <!-- EN: Need polluted terrain. -->
@@ -64,7 +64,7 @@
   <!-- EN: Cocoons have been disturbed and are opening! -->
   <MessageCocoonDisturbedPlural>Những cái kén đã bị xáo trộn và đang mở ra!</MessageCocoonDisturbedPlural>
   <!-- EN: {0} has rotted due to polluted terrain. -->
-  <MessagePlantDiedOfRot_PollutedTerrain>TODO</MessagePlantDiedOfRot_PollutedTerrain>
+  <MessagePlantDiedOfRot_PollutedTerrain>{0} đã thối rữa do địa hình ô nhiễm.</MessagePlantDiedOfRot_PollutedTerrain>
 
   <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
   <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} phải bất tỉnh trước khi bạn có thể buộc {PAWN_objective} cấy lại xenogerm của mình.</MessageTargetMustBeDownedToForceReimplant>
@@ -112,7 +112,7 @@
   <MessageBedExposedToSunlight>{BED_labelShort} được giao cho {PAWN_nameDef} Đối với phần còn lại của deathrest đã được tiếp xúc với ánh sáng mặt trời. {PAWN_nameDef} không thể deathrest ở đó.</MessageBedExposedToSunlight>
 
   <!-- EN: {PAWN_labelShort} was ejected from a gene extractor due to lack of power. -->
-  <GeneExtractorNoPowerEjectedMessage>TODO</GeneExtractorNoPowerEjectedMessage>
+  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} bị đẩy ra khỏi máy trích xuất gen do mất điện.</GeneExtractorNoPowerEjectedMessage>
 
   <!-- Mechanitor -->
   <!-- EN: {PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner. -->
@@ -157,10 +157,10 @@
   <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} đang di chuyển {BABY_nameDef} đến nơi có nhiệt độ an toàn hơn.</MessageTakingBabyToSafeTemperature>
 
   <!-- EN: Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef} -->
-  <MessagePregnancyFailed>TODO</MessagePregnancyFailed>
+  <MessagePregnancyFailed>Thai kỳ thất bại giữa {MOTHER_nameDef} và {FATHER_nameDef}</MessagePregnancyFailed>
   <!-- EN: {PAWN_nameDef} failed to fertilize ovum -->
-  <MessageFerilizeFailed>TODO</MessageFerilizeFailed>
+  <MessageFerilizeFailed>{PAWN_nameDef} không thể thụ tinh trứng</MessageFerilizeFailed>
   <!-- EN: Combined genes exceeded metabolism limits. -->
-  <CombinedGenesExceedMetabolismLimits>TODO</CombinedGenesExceedMetabolismLimits>
+  <CombinedGenesExceedMetabolismLimits>Các gen kết hợp vượt quá giới hạn trao đổi chất.</CombinedGenesExceedMetabolismLimits>
 
 </LanguageData>

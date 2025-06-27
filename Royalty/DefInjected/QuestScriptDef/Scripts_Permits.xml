@@ -7,18 +7,18 @@
   -->
   <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>TODO</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
   <!-- EN: Laborers arrived -->
-  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>TODO</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>Người lao động đã đến</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
   <!-- EN: The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days. -->
-  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>TODO</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>Người lao động từ [permitFaction_name] đã đến. Tàu con thoi sẽ đến đón họ sau [laborersDurationDays] ngày.</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>TODO</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
+  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>Nên khởi hành trên tàu con thoi</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>TODO</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
+  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>Tàu con thoi đã đến</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
   <!-- EN: A shuttle has arrived to collect the laborers from [permitFaction_name]. -->
-  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>TODO</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>Tàu con thoi đã đến để đón người lao động từ [permitFaction_name].</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
   <!-- EN: Laborer died: {SUBJECT_definite} -->
-  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>TODO</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>Người lao động chết: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
-  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>TODO</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>Một người lao động được [permitFaction_name] gửi cho bạn đã chết. Thiện chí của bạn với [permitFaction_name] đã giảm [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
 </LanguageData>
