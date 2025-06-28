@@ -1,51 +1,53 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: alpaca -->
   <Alpaca.label>đà mã</Alpaca.label>
   <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America. -->
   <Alpaca.description>Một loài gia súc cỡ vừa, đà mã được nuôi chủ yếu để thu hoạch lấy bộ lông cực mềm và cách nhiệt cực tốt của chúng. Đà mã cũng từng được dùng để làm thú thồ hàng từ ngày xưa ở khu vực đường mòn xuyên núi phía nam Châu phi.</Alpaca.description>
   <!-- EN: left hoof -->
   <Alpaca.tools.left_hoof.label>sừng trái</Alpaca.tools.left_hoof.label>
-  <!-- EN: hoof -->
+  <!--EN: hoof-->
+  <!--VI: móng guốc-->
   <Alpaca.tools.left_hoof.labelNoLocation>TODO</Alpaca.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Alpaca.tools.right_hoof.label>sừng phải</Alpaca.tools.right_hoof.label>
-  <!-- EN: hoof -->
+  <!--EN: hoof-->
+  <!--VI: móng guốc-->
   <Alpaca.tools.right_hoof.labelNoLocation>TODO</Alpaca.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Alpaca.tools.head.label>đầu</Alpaca.tools.head.label>
-  
   <!-- EN: capybara -->
   <Capybara.label>chuột lang nước</Capybara.label>
   <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
   <Capybara.description>Là loài gặm nhắm lớn nhất tự nhiên, chuột lang nước thích nghi tốt với môi trường rừng nhiệt đới ẩm.</Capybara.description>
   <!-- EN: left claw -->
   <Capybara.tools.left_claw.label>vuốt trái</Capybara.tools.left_claw.label>
-  <!-- EN: claw -->
+  <!--EN: claw-->
+  <!--VI: móng thú-->
   <Capybara.tools.left_claw.labelNoLocation>TODO</Capybara.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Capybara.tools.right_claw.label>vuốt phải</Capybara.tools.right_claw.label>
-  <!-- EN: claw -->
+  <!--EN: claw-->
+  <!--VI: móng thú-->
   <Capybara.tools.right_claw.labelNoLocation>TODO</Capybara.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Capybara.tools.head.label>đầu</Capybara.tools.head.label>
-  
   <!-- EN: megasloth -->
   <Megasloth.label>lười</Megasloth.label>
   <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
   <Megasloth.description>Loài thú ăn cỏ đơn độc với cặp vuốt lớn để xua đuổi các loài thú săn mồi khác. Từng bị tuyệt rất lâu sau khi bị thổ dân bản địa Châu Mĩ săn bắn, loài đại lười một lần nữa được hồi sinh nhờ kĩ thuật nhân bản tiên tiến. Da của nó có khả năng cách nhiệt cực kì tốt và cực thích hợp để may những bộ đồ giữ ấm vào mùa đông.</Megasloth.description>
   <!-- EN: left claw -->
   <Megasloth.tools.left_claw.label>vuốt trái</Megasloth.tools.left_claw.label>
-  <!-- EN: claw -->
+  <!--EN: claw-->
+  <!--VI: móng thú-->
   <Megasloth.tools.left_claw.labelNoLocation>TODO</Megasloth.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Megasloth.tools.right_claw.label>vuốt phải</Megasloth.tools.right_claw.label>
-  <!-- EN: claw -->
+  <!--EN: claw-->
+  <!--VI: móng thú-->
   <Megasloth.tools.right_claw.labelNoLocation>TODO</Megasloth.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Megasloth.tools.head.label>đầu</Megasloth.tools.head.label>
-  
   <!-- EN: sheep -->
   <Sheep.label>cừu</Sheep.label>
   <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
@@ -54,11 +56,12 @@
   <Sheep.tools.head.label>đầu</Sheep.tools.head.label>
   <!-- EN: left hoof -->
   <Sheep.tools.left_hoof.label>sừng trái</Sheep.tools.left_hoof.label>
-  <!-- EN: hoof -->
+  <!--EN: hoof-->
+  <!--VI: móng guốc-->
   <Sheep.tools.left_hoof.labelNoLocation>TODO</Sheep.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>sừng phải</Sheep.tools.right_hoof.label>
-  <!-- EN: hoof -->
+  <!--EN: hoof-->
+  <!--VI: móng guốc-->
   <Sheep.tools.right_hoof.labelNoLocation>TODO</Sheep.tools.right_hoof.labelNoLocation>
-  
 </LanguageData>

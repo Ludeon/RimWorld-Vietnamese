@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: decent dining room -->
   <AteInImpressiveDiningRoom.stages.decent_dining_room.label>phòng ăn tao nhã</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
   <!-- EN: I ate my meal in a decent dining room. -->
@@ -29,7 +28,6 @@
   <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>phòng ăn hoa lệ</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
   <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
   <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Ước gì, em ngồi đây mãi mãi, ước gì, em ngồi luôn không rời...</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
-  
   <!-- EN: decent rec room -->
   <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>phòng giải trí tao nhã</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
   <!-- EN: I had fun in a decent rec room. -->
@@ -58,7 +56,6 @@
   <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>phòng giải trí hoa lệ</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
   <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
   <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Tôi đã được giải trí ở phòng giải trí hoa lệ. Ước gì mình ở đây luôn nhỉ!</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
-  
   <!-- EN: awful barracks -->
   <SleptInBarracks.stages.awful_barracks.label>phòng ngủ chung xấu xí</SleptInBarracks.stages.awful_barracks.label>
   <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
@@ -99,14 +96,15 @@
   <SleptInBarracks.stages.wondrously_impressive_barracks.label>phòng ngủ chung hoa lệ</SleptInBarracks.stages.wondrously_impressive_barracks.label>
   <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
   <SleptInBarracks.stages.wondrously_impressive_barracks.description>Căn phòng ngủ chung quá hoa lệ tới mức dù có chia sẻ với người khác tôi vẫn vui lòng.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
-  
   <!-- EN: awful bedroom -->
   <SleptInBedroom.stages.awful_bedroom.label>phòng ngủ xấu xí</SleptInBedroom.stages.awful_bedroom.label>
   <!-- EN: I had to sleep in an awful room. -->
   <SleptInBedroom.stages.awful_bedroom.description>Tôi đã phải ngủ ở phòng ngủ xấu xí.</SleptInBedroom.stages.awful_bedroom.description>
-  <!-- EN: mediocre bedroom -->
+  <!--EN: mediocre bedroom-->
+  <!--VI: Phòng ngủ tầm thường-->
   <SleptInBedroom.stages.mediocre_bedroom.label>TODO</SleptInBedroom.stages.mediocre_bedroom.label>
-  <!-- EN: I slept in a mediocre bedroom. Better than the alternative. -->
+  <!--EN: I slept in a mediocre bedroom. Better than the alternative.-->
+  <!--VI: Tôi ngủ trong một phòng ngủ tầm thường. Tốt hơn so với lựa chọn thay thế.-->
   <SleptInBedroom.stages.mediocre_bedroom.description>TODO</SleptInBedroom.stages.mediocre_bedroom.description>
   <!-- EN: decent bedroom -->
   <SleptInBedroom.stages.decent_bedroom.label>phòng ngủ tao nhã</SleptInBedroom.stages.decent_bedroom.label>
@@ -136,5 +134,4 @@
   <SleptInBedroom.stages.wondrously_impressive_bedroom.label>phòng ngủ hoa lệ</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
   <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
   <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Mình đang ở thiên đàng chăng? Thật toẹt zời...</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
-  
 </LanguageData>

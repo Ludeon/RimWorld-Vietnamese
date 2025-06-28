@@ -1,35 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: ancient comms console -->
   <AncientCommsConsole.label>bảng điều khiển liên lạc cổ</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientCommsConsole.description>Một bảng điều khiển cổ có gắn một đĩa liên lạc. Các bộ phận quan trọng bị mất còn những thứ khác thì bị xuống cấp nghiêm trọng.</AncientCommsConsole.description>
-  <!-- EN: Hack to access ancient supply satellite. -->
+  <!--EN: Hack to access ancient supply satellite.-->
+  <!--VI: Hack để truy cập vệ tinh cung cấp cổ đại.-->
   <AncientCommsConsole.comps.CompHackable.notHackedInspectString>TODO</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
-  
   <!-- EN: ancient enemy terminal -->
   <AncientEnemyTerminal.label>cổng máy tính kẻ thù cổ</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
   <AncientEnemyTerminal.description>Một cổng máy tính cổ. Nó có thể được hack để gọi kẻ thù gần đây.</AncientEnemyTerminal.description>
-  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <!--EN: Hacking this {0} will alert enemies and cause them to attack.-->
+  <!--VI: Hack {0} này sẽ cảnh báo kẻ thù và khiến chúng tấn công.-->
   <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>TODO</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
-  <!-- EN: Hack to call nearby enemies. -->
+  <!--EN: Hack to call nearby enemies.-->
+  <!--VI: Hack để gọi kẻ thù gần đó.-->
   <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>TODO</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
-  
   <!-- EN: security crate -->
   <AncientSecurityCrate.label>thùng an ninh</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
   <AncientSecurityCrate.description>Một cái thùng kín tự cung năng lượng có cảnh báo an ninh. Nó có thể được dùng để bảo quản trong thời gian dài. Nếu nó được mở mà không có mật khẩu, nó có thể sẽ kích hoạt hệ thống an ninh gần đó.</AncientSecurityCrate.description>
-  
   <!-- EN: ancient terminal -->
   <AncientTerminal.label>cổng máy tính cổ</AncientTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
   <AncientTerminal.description>Một cổng máy tính cổ. Nó có thể được hack để hiện những thông tin bị ẩn giấu.</AncientTerminal.description>
-  
   <!-- EN: ancient terminal -->
   <AncientTerminal_Worshipful.label>cổng máy tính cổ</AncientTerminal_Worshipful.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
   <AncientTerminal_Worshipful.description>Một thiết bị đầu cuối máy tính cổ xưa. Nó có thể bị hack để tiết lộ thông tin đã bị lãng quên từ lâu.</AncientTerminal_Worshipful.description>
-  
 </LanguageData>

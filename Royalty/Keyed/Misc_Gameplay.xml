@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- Royalty and throne -->
   <!-- EN: Satisfies title -->
   <ThroneMaxSatisfiedTitle>Danh hiệu làm hài lòng</ThroneMaxSatisfiedTitle>
@@ -14,7 +13,6 @@
   <RequiresTradePermission>Giao dịch ở đây yêu cầu tước vị: {0}</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
   <RequirementPersonalBedroom>Phòng ngủ cá nhân (cho phép cặp đôi)</RequirementPersonalBedroom>
-  
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
   <PsycastNeurotrainerLabel>bộ phân tích thần kinh ({0})</PsycastNeurotrainerLabel>
@@ -28,12 +26,10 @@
   <PsycastNeurotrainerNoPsylink>Yêu cầu liên kết tinh thần</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} đã học {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
-
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor>Bất cứ ai chấp nhận nhiệm vụ sẽ nhận được {1} {0_royalFavorLabel} từ {0_name}</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor_ChoosePawn>bạn có thể chọn một trong số {2} tham gia để nhận {1} {0_royalFavorLabel} từ {0_name}</Reward_RoyalFavor_ChoosePawn>
-  
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
   <NotUsable>Không thể sử dụng</NotUsable>
@@ -41,7 +37,6 @@
   <Unpowered>Chưa cấp điện</Unpowered>
   <!-- EN: Too close to other beacon -->
   <TooCloseToOtherBeacon>Quá gần các beacon khác</TooCloseToOtherBeacon>
-  
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
   <Psyfocus>Tinh thần lực</Psyfocus>
@@ -85,7 +80,6 @@
   <DesiredPsyfocus>Yêu cầu tinh thần lực</DesiredPsyfocus>
   <!-- EN: Click to set desired psyfocus. -->
   <DesiredPsyfocusDesc>Nhấn vào đây để thiết lập tinh thần lực mong muốn.</DesiredPsyfocusDesc>
-
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>không có ngai vàng được giao.</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -100,14 +94,13 @@
   <AbilitySpeechStatInfo>Chỉ số {1} của {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
   <!-- EN: Dignified throne -->
   <AbilitySpeechTargetDescThrone>Ngai vàng trang nghiêm</AbilitySpeechTargetDescThrone>
-  
   <!-- EN: no accessible altar. -->
   <RitualDisabledNoAltar>không có bàn thờ tiếp cận.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Lễ trao tặng</RitualBestowingCeremony>
-  <!-- EN: No suitable location near bestower -->
+  <!--EN: No suitable location near bestower-->
+  <!--VI: Không có vị trí thích hợp gần bestower-->
   <BestowingSpotUnavailable>TODO</BestowingSpotUnavailable>
-
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Tổng số thiền hôm nay: {0} (hệ số tiến trình {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
@@ -128,12 +121,10 @@
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort} đã hoàn thành nghi thức liên kết với {LINKABLE_labelShort}.\n\n{PAWN_pronoun} hiện đã có một liên kết tinh thần được nâng cấp, cho phép sử dụng các năng lực mới.</LetterTextLinkingRitualCompleted>
   <!-- EN: Additionally, {0} anima grass has been restored. -->
   <LetterTextLinkingRitualCompletedAnimaGrass>Ngoài ra, {0} cỏ anima đã được phục hồi.</LetterTextLinkingRitualCompletedAnimaGrass>
-
   <!-- EN: Land shuttle here -->
   <LandHere>Hạ cánh phi thuyền ở đây</LandHere>
   <!-- EN: Destination is out of range. -->
   <MessageShuttleDestinationIsTooFar>Điểm đến nằm ngoài phạm vi.</MessageShuttleDestinationIsTooFar>
-
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
   <BeginCeremony>Bắt đầu lễ trao tặng cho {0_labelShort}</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
@@ -144,7 +135,6 @@
   <BestowingCeremonyLabel>lễ ban tặng</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
   <BestowingOutcomeQualitySpecific>Tổng chất lượng của buổi lễ trao tặng là {0}, được xác định bởi các yếu tố này</BestowingOutcomeQualitySpecific>
-  
   <!-- EN: No colonists that can link with anima tree right now. -->
   <RitualTargetAnimaTreeNoPawnsToLink>Không có cư dân nào có thể liên kết với cây cực quang ngay bây giờ.</RitualTargetAnimaTreeNoPawnsToLink>
   <!-- EN: No colonists with the natural meditation focus type. -->
@@ -157,18 +147,15 @@
   <RitualTargetAnimaTreeMustBeCapableOfNature>Phải là một cư dân với kiểu tập trung thiền tự nhiên, người dưới mức liên kết tinh thần tối đa.</RitualTargetAnimaTreeMustBeCapableOfNature>
   <!-- EN: Must not be psychically deaf. -->
   <RitualTargetAnimaTreeMustBePsychicallySensitive>Không được bị tổn hại thần kinh.</RitualTargetAnimaTreeMustBePsychicallySensitive>
-
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>Lễ liên kết cực quang diễn ra mạnh mẽ hơn với nhiều người tham gia hơn. Càng nhiều người tham gia, buổi lễ càng mất ít thời gian và càng nhiều cỏ cực quang sẽ mọc.\n\nVới {0} người tham gia bổ sung, {1} cỏ cực quang sẽ được phục hồi vào cuối buổi lễ.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Chưa tải hết hàng hóa đã yêu cầu!</ShuttleRequiredItemsNotSatisfied>
   <!-- EN: Cannot load {0_labelShort} -->
   <CannotLoadIntoShuttle>Không thể đưa {0_labelShort} vào tàu con thoi</CannotLoadIntoShuttle>
-
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>Không có nhiệt để đổ.</AbilityNoEntropyToDump>
-
   <!-- EN: level {0} -->
-  <LevelNum>cấp {0}</LevelNum> <!-- Psylink level as reported in health tab-->
-
+  <LevelNum>cấp {0}</LevelNum>
+  <!-- Psylink level as reported in health tab-->
 </LanguageData>

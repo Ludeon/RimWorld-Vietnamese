@@ -1,18 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>decreeIntro->[asker_nameDef], your [asker_bestRoyalTitle], has issued a royal decree.</li>
-    <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>
-  -->
+  <!--EN: <li>decreeIntro->[asker_nameDef], your [asker_bestRoyalTitle], has issued a royal decree.</li>
+    <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>-->
+  <!--VI: <li>sắc lệnhIntro->[asker_nameDef], [asker_bestRoyalTitle], của bạn, đã ban hành một sắc lệnh hoàng gia.</li>
+    <li>decreeThreatInfo->Nếu bạn không thực hiện sắc lệnh này trong ngày [decreeDays], [asker_nameDef] sẽ bắt đầu trở nên không hài lòng. [asker_possessive] sự tức giận sẽ tăng lên theo thời gian cho đến khi sắc lệnh được thỏa mãn.</li>-->
   <DecreeSetup.questDescriptionRules.rulesStrings>TODO</DecreeSetup.questDescriptionRules.rulesStrings>
-  <!-- EN: [asker_nameDef]'s decree forgotten -->
+  <!--EN: [asker_nameDef]'s decree forgotten-->
+  <!--VI: Sắc lệnh của [asker_nameDef] bị lãng quên-->
   <DecreeSetup.LetterLabelDecreeForgotten.slateRef>TODO</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
-  <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
+  <!--EN: [asker_nameDef] has forgotten about [asker_possessive] decree.-->
+  <!--VI: [asker_nameDef] đã quên [asker_possessive] sắc lệnh.-->
   <DecreeSetup.LetterTextDecreeForgotten.slateRef>TODO</DecreeSetup.LetterTextDecreeForgotten.slateRef>
-  <!-- EN: Decree cancelled -->
+  <!--EN: Decree cancelled-->
+  <!--VI: Nghị định bị hủy bỏ-->
   <DecreeSetup.LetterLabelDecreeCancelled.slateRef>TODO</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
-  <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
+  <!--EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed.-->
+  <!--VI: [asker_nameDef] đã miễn cưỡng hủy bỏ sắc lệnh '[resolvedQuestName]' vì nó không thể hoàn thành.-->
   <DecreeSetup.LetterTextDecreeCancelled.slateRef>TODO</DecreeSetup.LetterTextDecreeCancelled.slateRef>
-  
 </LanguageData>

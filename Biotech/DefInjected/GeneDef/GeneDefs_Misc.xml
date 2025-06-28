@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN: indoor dweller -->
+  <!--EN: indoor dweller-->
+  <!--VI: cư dân trong nhà-->
   <CaveDweller.label>TODO</CaveDweller.label>
-  <!-- EN: Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside. -->
+  <!--EN: Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside.-->
+  <!--VI: Những người mang gen này không cần ra ngoài trời và sẽ không bao giờ cảm thấy bị nhốt cho dù chúng ở trong nhà bao lâu.-->
   <CaveDweller.description>TODO</CaveDweller.description>
-  
   <!-- EN: dark vision -->
   <DarkVision.label>tầm nhìn ban đêm</DarkVision.label>
   <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
@@ -26,7 +26,6 @@
   <DarkVision.symbolPack.prefixSymbols.6.symbol>bóng</DarkVision.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: shadow -->
   <DarkVision.symbolPack.suffixSymbols.0.symbol>sự mờ đục</DarkVision.symbolPack.suffixSymbols.0.symbol>
-  
   <!-- EN: fire resistant -->
   <FireResistant.label>chống lửa</FireResistant.label>
   <!-- EN: Carriers of this gene have special fast-acting sweat glands and heat-resistant skin. They only take 25% of the normal damage from fire. The chance of them catching on fire is also drastically reduced. -->
@@ -39,22 +38,18 @@
   <FireResistant.symbolPack.prefixSymbols.1.symbol>bị ướt</FireResistant.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: foam -->
   <FireResistant.symbolPack.suffixSymbols.0.symbol>bọt</FireResistant.symbolPack.suffixSymbols.0.symbol>
-  
   <!-- EN: inbred -->
   <Inbred.label>con lai</Inbred.label>
   <!-- EN: This genetic condition affects a person's fertility, immunity, and mental capacity. -->
   <Inbred.description>Bệnh di truyền này ảnh hưởng đến khả năng sinh sản, khả năng miễn dịch và khả năng tinh thần của một người.</Inbred.description>
-  
   <!-- EN: major cell instability -->
   <Instability_Major.label>sự bất ổn của tế bào chính</Instability_Major.label>
   <!-- EN: Carriers of this gene need much less metabolic energy to stay alive, at the cost of greatly-reduced stability in their cell-replication machinery. -->
   <Instability_Major.description>Những người mang gen này cần năng lượng trao đổi chất ít hơn nhiều để sống, với chi phí giảm độ ổn định cao của máy móc sao chép tế bào của họ.</Instability_Major.description>
-  
   <!-- EN: mild cell instability -->
   <Instability_Mild.label>không ổn định tế bào nhẹ</Instability_Mild.label>
   <!-- EN: Carriers of this gene need less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
   <Instability_Mild.description>Những người mang gen này cần ít năng lượng trao đổi chất hơn để sống, với chi phí giảm sự ổn định của máy móc sao chép tế bào của họ.</Instability_Mild.description>
-  
   <!-- EN: kill thirst -->
   <KillThirst.label>khát máu</KillThirst.label>
   <!-- EN: Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat. -->
@@ -81,7 +76,6 @@
   <KillThirst.symbolPack.suffixSymbols.1.symbol>sát thủ</KillThirst.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: slayer -->
   <KillThirst.symbolPack.suffixSymbols.2.symbol>kẻ giết người</KillThirst.symbolPack.suffixSymbols.2.symbol>
-  
   <!-- EN: kind instinct -->
   <KindInstinct.label>bản năng tốt</KindInstinct.label>
   <!-- EN: Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance. -->
@@ -106,12 +100,10 @@
   <KindInstinct.symbolPack.prefixSymbols.7.symbol>ngoan ngoãn</KindInstinct.symbolPack.prefixSymbols.7.symbol>
   <!-- EN: pleas -->
   <KindInstinct.symbolPack.prefixSymbols.8.symbol>pleas</KindInstinct.symbolPack.prefixSymbols.8.symbol>
-  
   <!-- EN: naked speed -->
   <NakedSpeed.label>naked speed</NakedSpeed.label>
   <!-- EN: Carriers of this gene move slower while clothed, and faster while naked. -->
   <NakedSpeed.description>Những người mang gen này di chuyển chậm hơn khi chúng mặc quần áo và nhanh hơn khi chúng khỏa thân.</NakedSpeed.description>
-  
   <!-- EN: nearsighted -->
   <Nearsighted.label>cận thị</Nearsighted.label>
   <!-- EN: Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is reduced. -->
@@ -130,14 +122,12 @@
   <Nearsighted.symbolPack.suffixSymbols.0.symbol>sighter</Nearsighted.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: peeker -->
   <Nearsighted.symbolPack.suffixSymbols.1.symbol>peeker</Nearsighted.symbolPack.suffixSymbols.1.symbol>
-  
   <!-- EN: pollution stimulus -->
   <PollutionRush.label>Kích thích ô nhiễm</PollutionRush.label>
   <!-- EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
   <PollutionRush.description>Những người mang gen này trải qua một loại doping khi tiếp xúc với ô nhiễm. Nó làm cho họ di chuyển nhanh hơn và giúp họ suy nghĩ rõ ràng hơn. Một gen tương tự được tìm thấy trong các loại trừ Mega được thiết kế để chiến đấu.</PollutionRush.description>
   <!-- EN: Gain stat bonuses when exposed to pollution. -->
   <PollutionRush.customEffectDescriptions.0>Giành được tiền thưởng thống kê trong quá trình tiếp xúc với ô nhiễm.</PollutionRush.customEffectDescriptions.0>
-  
   <!-- EN: psychic bonding -->
   <PsychicBonding.label>liên kết tâm linh</PsychicBonding.label>
   <!-- EN: Carriers of this gene have a special neural organ that makes them psychically bond with a lover for life. As long as the lovers are together, they will be happy. If they are physically separated, they will be disturbed by the distance. If one dies, the other's mind will be badly disrupted. -->
@@ -146,7 +136,6 @@
   <PsychicBonding.customEffectDescriptions.0>Những nỗ lực lãng mạn luôn thành công.</PsychicBonding.customEffectDescriptions.0>
   <!-- EN: Gains psychic bond with first romantic partner. -->
   <PsychicBonding.customEffectDescriptions.1>Tâm thần liên kết đạt được với đối tác lãng mạn đầu tiên của anh ấy.</PsychicBonding.customEffectDescriptions.1>
-  
   <!-- EN: robust digestion -->
   <RobustDigestion.label>tiêu hóa mạnh mẽ</RobustDigestion.label>
   <!-- EN: Carriers of this gene grow a multi-fold stomach, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all. -->
@@ -179,7 +168,6 @@
   <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>người nhai lại</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
   <!-- EN: grubber -->
   <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>người ăn ngấu nghiến</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
-  
   <!-- EN: strong stomach -->
   <StrongStomach.label>bụng khỏe</StrongStomach.label>
   <!-- EN: Carriers of this gene have an extra toxin-filtering organ in their stomach and will never suffer from food poisoning even after eating rotten food. -->
@@ -194,12 +182,10 @@
   <StrongStomach.symbolPack.prefixSymbols.3.symbol>nhồi nhét</StrongStomach.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: vore -->
   <StrongStomach.symbolPack.suffixSymbols.0.symbol>vore</StrongStomach.symbolPack.suffixSymbols.0.symbol>
-  
   <!-- EN: unstoppable -->
   <Unstoppable.label>không thể ngăn cản</Unstoppable.label>
   <!-- EN: Carriers of this gene are not slowed down when taking damage. -->
   <Unstoppable.description>Những người mang gen này không bị chậm lại khi chúng trải qua thiệt hại.</Unstoppable.description>
-  
   <!-- EN: violence disabled -->
   <ViolenceDisabled.label>không bạo lực</ViolenceDisabled.label>
   <!-- EN: Carriers of this gene are emotionally and mentally incapable of engaging in violence. They are overwhelmingly resistant to and horrified by the idea of hurting another. -->
@@ -216,10 +202,10 @@
   <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>bồ câu</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: dove -->
   <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>bồ câu</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
-  
-  <!-- EN: webbed phalanges -->
+  <!--EN: webbed phalanges-->
+  <!--VI: các phalang có màng-->
   <WebbedPhalanges.label>TODO</WebbedPhalanges.label>
-  <!-- EN: Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control. -->
+  <!--EN: Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control.-->
+  <!--VI: Những người mang gen này có ngón tay và ngón chân có màn, cho phép chúng di chuyển nhanh hơn trong nước. Các ngón tay có vải làm giảm nhẹ khả năng kiểm soát vận động tinh.-->
   <WebbedPhalanges.description>TODO</WebbedPhalanges.description>
-  
 </LanguageData>

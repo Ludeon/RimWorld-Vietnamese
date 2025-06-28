@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>Cấm</CommandForbid>
@@ -10,30 +9,25 @@
   <CommandForbiddenDesc>Cách ly - cư dân sẽ không tương tác với vật này</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
   <CommandNotForbiddenDesc>Không cách ly - cư dân có thể tương tác với vật này.</CommandNotForbiddenDesc>
-
   <!-- Power -->
   <!-- EN: Toggle power -->
   <CommandTogglePowerLabel>Công tắt</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Công tắt</CommandTogglePowerDesc>
-  
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>Chỉ định bật/tắt điện</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
   <CommandDesignateTogglePowerDesc>Chỉ định bật/tắt điện cho vật này. cư dân sẽ tự động lại bật/tắt công tắc.</CommandDesignateTogglePowerDesc>
-  
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Kết nối lại.</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
   <CommandTryReconnectDesc>Cố kết nối tới mạng điện gần nhất có thể. Hữu dụng khi mà mạng điện hiện tại bị mất mà có mạng điện khác gần bên.</CommandTryReconnectDesc>
-
   <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>Nơi gặp mặt</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
   <CommandGatherSpotToggleDescActive>Cho phép - mọi người được phép tụ tập ở xung quanh vật này.</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
   <CommandGatherSpotToggleDescInactive>Không cho phép - mọi người sẽ không tụ tập quanh vật này.</CommandGatherSpotToggleDescInactive>
-  
   <!-- Drafting -->
   <!-- EN: Draft -->
   <CommandDraftLabel>Chế độ chiến đấu</CommandDraftLabel>
@@ -45,27 +39,22 @@
   <IsIncapped>{1_labelShort} đang bị bất động.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
   <ParticipatingInRitual>{0_labelShort} đang tham gia vào {1}.</ParticipatingInRitual>
-
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Bắn tự do</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
   <CommandFireAtWillDesc>Bật/Tắt chế độ bắn tự do.\n\nKhi tắt chế độ này, cư dân sẽ không tự động bắn kẻ địch trong tầm vũ khí của mình. Không ảnh hưởng nếu đánh cận chiến.</CommandFireAtWillDesc>
-  
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Xóa ưu tiên công việc.</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
   <CommandClearPrioritizedWorkDesc>Xóa tất cả những công việc mà bạn đã ưu tiên. Mọi người sẽ trở về chế độ làm việc bình thường theo như phân định trước.</CommandClearPrioritizedWorkDesc>
-  
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Hủy</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
   <CommandCancelConstructionDesc>Hủy xây công trình này.</CommandCancelConstructionDesc>
-
   <!-- EN: Get out of bed -->
   <CommandGetOutOfBedLabel>Ra khỏi giường</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
   <CommandGetOutOfBedDesc>Ra khỏi giường hiện tại.</CommandGetOutOfBedDesc>
-
   <!-- EN: Set owner -->
   <CommandThingSetOwnerLabel>Đặt quyền sở hữu</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific {0}. -->
@@ -102,87 +91,92 @@
   <AreYouSure>Chắc cú chưa?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <ChangingOwnerTypeBedWarning>Thay đổi việc sử dụng giường ảnh hưởng đến toàn bộ phòng (vì tù nhân, nô lệ và thực dân không thể ngủ trong cùng một phòng).\n\nNhững người này sẽ mất quyền sở hữu giường của họ:</ChangingOwnerTypeBedWarning>
-  
   <!-- EN: Detonate -->
   <CommandDetonateLabel>Kích nổ</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Bắt đầu đếm ngược đến khi phát nổ.</CommandDetonateDesc>
-  
-  <!-- EN: Hide -->
+  <!--EN: Hide-->
+  <!--VI: Giấu-->
   <CommandHideLabel>TODO</CommandHideLabel>
-  <!-- EN: Unhide -->
+  <!--EN: Unhide-->
+  <!--VI: Bỏ ẩn-->
   <CommandUnhideLabel>TODO</CommandUnhideLabel>
-  
-  <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
+  <!--EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones.-->
+  <!--VI: Chuyển đổi khả năng hiển thị của kế hoạch này.\n\nNhấp chuột phải để ẩn hoặc bỏ ẩn tất cả các vùng.-->
   <CommandHidePlanDesc>TODO</CommandHidePlanDesc>
   <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
   <CommandHideZoneDesc>Hiện/Ẩn khu vực này.</CommandHideZoneDesc>
-  
-  <!-- EN: Show all zones -->
+  <!--EN: Show all zones-->
+  <!--VI: Hiển thị tất cả các khu vực-->
   <ShowAllZones>TODO</ShowAllZones>
-  <!-- EN: Hide all zones -->
+  <!--EN: Hide all zones-->
+  <!--VI: Ẩn tất cả các khu vực-->
   <HideAllZones>TODO</HideAllZones>
-  <!-- EN: Show all {0} zones -->
+  <!--EN: Show all {0} zones-->
+  <!--VI: Hiển thị tất cả các khu vực {0}-->
   <ShowAllZoneTypes>TODO</ShowAllZoneTypes>
-  <!-- EN: Hide all {0} zones -->
+  <!--EN: Hide all {0} zones-->
+  <!--VI: Ẩn tất cả các vùng {0}-->
   <HideAllZoneTypes>TODO</HideAllZoneTypes>
-  <!-- EN: planning -->
+  <!--EN: planning-->
+  <!--VI: Kế hoạch-->
   <Planning>TODO</Planning>
-  
-  <!-- EN: Change color -->
+  <!--EN: Change color-->
+  <!--VI: Thay đổi màu sắc-->
   <CommandChangeColorPlanLabel>TODO</CommandChangeColorPlanLabel>
-  <!-- EN: Change the color of this plan. -->
+  <!--EN: Change the color of this plan.-->
+  <!--VI: Thay đổi màu sắc của kế hoạch này.-->
   <CommandChangeColorPlanDesc>TODO</CommandChangeColorPlanDesc>
-  
-  <!-- EN: Delete -->
+  <!--EN: Delete-->
+  <!--VI: Xóa-->
   <CommandDeletePlanLabel>TODO</CommandDeletePlanLabel>
-  <!-- EN: Delete this plan. -->
+  <!--EN: Delete this plan.-->
+  <!--VI: Xóa gói này.-->
   <CommandDeletePlanDesc>TODO</CommandDeletePlanDesc>
-  
-  <!-- EN: Copy -->
+  <!--EN: Copy-->
+  <!--VI: Bản sao-->
   <CommandCopyPlanLabel>TODO</CommandCopyPlanLabel>
-  <!-- EN: Copy this plan. -->
+  <!--EN: Copy this plan.-->
+  <!--VI: Sao chép kế hoạch này.-->
   <CommandCopyPlanDesc>TODO</CommandCopyPlanDesc>
-  
-  <!-- EN: Copy selection... -->
+  <!--EN: Copy selection...-->
+  <!--VI: Sao chép lựa chọn...-->
   <CommandCopyPlanSelectionLabel>TODO</CommandCopyPlanSelectionLabel>
-  <!-- EN: Copy all plans within a selected area. -->
+  <!--EN: Copy all plans within a selected area.-->
+  <!--VI: Sao chép tất cả các kế hoạch trong một khu vực đã chọn.-->
   <CommandCopyPlanSelectionDesc>TODO</CommandCopyPlanSelectionDesc>
-  <!-- EN: Select area to copy -->
-  <CommandCopyPlanSelectionMouse>TODO</CommandCopyPlanSelectionMouse> <!-- text_todo -->
-  <!-- EN: Paste selected area -->
-  <CommandCopyPlanSelectionPasteMouse>TODO</CommandCopyPlanSelectionPasteMouse> <!-- text_todo -->
-
+  <!--EN: Select area to copy-->
+  <!--VI: Chọn khu vực để sao chép-->
+  <CommandCopyPlanSelectionMouse>TODO</CommandCopyPlanSelectionMouse>
+  <!-- text_todo -->
+  <!--EN: Paste selected area-->
+  <!--VI: Dán khu vực đã chọn-->
+  <CommandCopyPlanSelectionPasteMouse>TODO</CommandCopyPlanSelectionPasteMouse>
+  <!-- text_todo -->
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Xóa</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
   <CommandDeleteZoneDesc>Xóa khu vực này</CommandDeleteZoneDesc>
-
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>Chép thiết lập</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this storage's settings to the clipboard so you can paste them onto another zone. -->
   <CommandCopyZoneSettingsDesc>Sap chép thiết lập của khu vực này vào khai nhớ tạm để bạn có thể dán vào thiết lập của khu vực khác.</CommandCopyZoneSettingsDesc>
-
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>Dán thiết lập</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this storage's settings with those previously copied to the clipboard. -->
   <CommandPasteZoneSettingsDesc>Chép đè thiết lập của khu vực này với thiết lập ở khai nhớ tạm.</CommandPasteZoneSettingsDesc>
-
   <!-- EN: Allow sowing -->
   <CommandAllowSow>Cho phép trồng trọt</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>Khi tắt, cư dân sẽ không trồng trọt ở khu vực này nữa nhưng vẫn được phép thu hoạch nông sản đã phát triển đầy đủ.</CommandAllowSowDesc>
-
   <!-- EN: Allow cutting -->
   <CommandAllowCut>Cho phép cắt</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
   <CommandAllowCutDesc>Khi bị vô hiệu hóa, những người khai hoang sẽ không bao giờ chặt cây trong khu vực này. Họ vẫn sẽ gieo những cây mới vào những không gian đã trống, và thu hoạch.</CommandAllowCutDesc>
-  
   <!-- EN: Select {0_label} -->
   <CommandSelectStoredThing>Chọn {0_label}</CommandSelectStoredThing>
   <!-- EN: Select the item stored in here. -->
   <CommandSelectStoredThingDesc>Chọn mục được lưu trữ ở đây.</CommandSelectStoredThingDesc>
-
   <!-- Artillery -->
   <!-- EN: Set forced target -->
   <CommandSetForceAttackTarget>Chỉ định điểm bắn</CommandSetForceAttackTarget>
@@ -204,7 +198,6 @@
   <MessageTargetBelowMinimumRange>Mục tiêu ở dưới tầm bắn tối thiểu.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
   <MessageTurretWontFireBecauseHoldFire>CẢNH BÁO: Khẩu pháo này sẽ không bắn vì nó đang đặt ở chế độ "Ngừng bắn".</MessageTurretWontFireBecauseHoldFire>
-  
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
   <CommandShipLaunch>Phóng phi thuyền</CommandShipLaunch>
@@ -218,7 +211,6 @@
   <CommandShipStartup>Khởi động phi thuyền</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
   <CommandShipStartupDesc>Khởi động các bộ phận của phi thuyền.</CommandShipStartupDesc>
-
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
   <CommandPodEject>Mở buồn</CommandPodEject>
@@ -226,7 +218,6 @@
   <CommandPodEjectDesc>Mở buồng ngủ đông và đánh thức người ở trong đó.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Không hề có ai.</CommandPodEjectFailEmpty>
-
   <!-- Door -->
   <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>Cấm đi qua</CommandToggleDoorForbid>
@@ -236,7 +227,6 @@
   <CommandToggleDoorHoldOpen>Mở toang</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
   <CommandToggleDoorHoldOpenDesc>Khi bật, cư dân của bạn sẽ không đóng cánh cửa sau khi đi qua nó.</CommandToggleDoorHoldOpenDesc>
-
   <!-- Temperature control -->
   <!-- EN: Reset -->
   <CommandResetTemp>Đặt về mặc định</CommandResetTemp>
@@ -246,7 +236,6 @@
   <CommandRaiseTempDesc>Tăng nhiệt độ.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
   <CommandLowerTempDesc>Giảm nhiệt độ.</CommandLowerTempDesc>
-
   <!-- Install/reinstall -->
   <!-- EN: Install -->
   <CommandInstall>Cài đặt</CommandInstall>
@@ -260,31 +249,28 @@
   <CommandReplant>Trồng lại</CommandReplant>
   <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
   <CommandReplantDesc>Cây này hiện đang được đóng gói để bảo quản và vận chuyển. Sử dụng lệnh này để trồng lại nó ở một vị trí mới.</CommandReplantDesc>
-  
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
   <CommandMakeBeaconStockpileDesc>Tạo một khu vực chứa đồ bao quanh vòng đèn hiệu này.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
   <CommandMakeBeaconStockpileLabel>Tạo khu chứa đồ</CommandMakeBeaconStockpileLabel>
-
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
   <CommandSunLampMakeGrowingZoneDesc>Tạo khu trồng trọt có độ lớn tương ứng với bán kính bao phủ của đèn mặt trời này.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>Tạo khu trồng trọt</CommandSunLampMakeGrowingZoneLabel>
-
   <!-- Trap -->
   <!-- EN: Auto rearm -->
   <CommandAutoRearm>Tự động xây lại</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Nếu bật, bẫy này sẽ tự động được xây lại sau khi kích hoạt.</CommandAutoRearmDesc>
-  
   <!-- Firefoam popper -->
-  <!-- EN: Auto rebuild -->
+  <!--EN: Auto rebuild-->
+  <!--VI: Tự động xây dựng lại-->
   <CommandAutoRebuild_Building>TODO</CommandAutoRebuild_Building>
-  <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
+  <!--EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates.-->
+  <!--VI: Nếu tính năng này được bật, {BUILDING_definite} sẽ tự động được thay thế sau khi nó phát nổ.-->
   <CommandAutoRebuild_BuildingDesc>TODO</CommandAutoRebuild_BuildingDesc>
-  
   <!-- Animal control -->
   <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>Xông pha trận mạc</CommandReleaseAnimalsLabel>
@@ -292,25 +278,21 @@
   <CommandReleaseAnimalsDesc>Nếu bật, con thú này sẽ tự động tấn công mục tiêu mà chủ nhân nó đang nhắm tới. Nếu tắt, nó sẽ chỉ quanh quẩn bên chủ nhân nó thôi.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
   <CommandReleaseAnimalsFail_NoAnimals>Không có động vật có sẵn.</CommandReleaseAnimalsFail_NoAnimals>
-  
   <!-- Squad attack -->
   <!-- EN: Attack -->
   <CommandSquadAttack>Tấn công</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
   <CommandSquadAttackDesc>Lệnh cho cư dân bạn đang điều khiển tấn công mục tiêu chỉ định.</CommandSquadAttackDesc>
-  
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>Cận chiến</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
   <CommandMeleeAttackDesc>Lệnh cho cư dân bạn đang điều khiển tấn công mục tiêu chỉ định bằng tay và vũ khí cận chiến khác.</CommandMeleeAttackDesc>
-
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
   <CommandHoldFire>Ngừng bắn</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Ngừng mọi cuộc tấn công.</CommandHoldFireDesc>
-  
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
   <CommandReload_NoCharges>Không còn {CHARGENOUN_plural}.</CommandReload_NoCharges>
@@ -318,7 +300,6 @@
   <CommandReload_Cooldown>{COOLDOWNGERUND} trong {TIME}.</CommandReload_Cooldown>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
   <CommandReload_NoAmmo>Cần được nạp lại bằng {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
-  
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Chọn loại cây muốn trồng</CommandSelectPlantToGrowMulti>
@@ -326,19 +307,17 @@
   <CommandSelectPlantToGrow>Trồng: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>Chỉ định loại cây nào sẽ được trồng ở đây.</CommandSelectPlantToGrowDesc>
-  
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>Điều chỉnh đến</CommandSelectMineralToScanFor>
-  <!-- EN: Select the mineral type to scan for. -->
+  <!--EN: Select the mineral type to scan for.-->
+  <!--VI: Chọn loại khoáng chất để quét.-->
   <CommandSelectMineralToScanForDesc>TODO</CommandSelectMineralToScanForDesc>
-
   <!-- Build copy -->
   <!-- EN: Build copy -->
   <CommandBuildCopy>Xây lặp</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
   <CommandBuildCopyDesc>Chép bản thiết kế và vật liệu xây nên vật này.</CommandBuildCopyDesc>
-
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <CommandFormCaravan>Tập hợp đoàn</CommandFormCaravan>
@@ -346,7 +325,6 @@
   <CommandFormCaravanDesc>Tập hợp một nhóm cư dân để di chuyển đến vị trí chỉ định. cư dân được chọn sẽ tự động lấy những vật dụng xác định từ trước (bao gồm gia súc nếu có), rời khỏi khu vực hiện tại và đợi lệnh tiếp theo.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
   <CommandFormCaravanDescAtSpot>Địa điểm này sẽ được sử dụng làm điểm gặp gỡ cho đoàn lữ hành. Tất cả hàng hóa và động vật sẽ được mang đến đây trước khi rời đi.</CommandFormCaravanDescAtSpot>
-  
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
   <CommandReformCaravan>Tái tập hợp</CommandReformCaravan>
@@ -354,23 +332,24 @@
   <CommandReformCaravanDesc>Tập hợp mọi người lại. Các thành viên trong đoàn sẽ rời khu vực hiện tại và đợi lệnh tiếp theo.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>Vẫn còn vài kẻ địch trong khu vực này.</CommandReformCaravanFailHostilePawns>
-
   <!-- Send caravan -->
-  <!-- EN: Send caravan -->
+  <!--EN: Send caravan-->
+  <!--VI: Gửi đoàn lữ hành-->
   <CommandSendCaravan>TODO</CommandSendCaravan>
-  <!-- EN: Send caravan... -->
+  <!--EN: Send caravan...-->
+  <!--VI: Gửi đoàn lữ hành...-->
   <CommandSendCaravanMultiple>TODO</CommandSendCaravanMultiple>
-  <!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
+  <!--EN: Send a caravan to this destination from a selected colony which can reach this location.-->
+  <!--VI: Gửi một đoàn lữ hành đến điểm đến này từ một thuộc địa đã chọn có thể đến địa điểm này.-->
   <CommandSendCaravanDesc>TODO</CommandSendCaravanDesc>
-  <!-- EN: Your settlements have no path to this location. -->
+  <!--EN: Your settlements have no path to this location.-->
+  <!--VI: Các khu định cư của bạn không có đường dẫn đến vị trí này.-->
   <CommandSendCaravanCantReach>TODO</CommandSendCaravanCantReach>
-
   <!-- Split caravan -->
   <!-- EN: Split -->
   <CommandSplitCaravan>Tách ra</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
   <CommandSplitCaravanDesc>Tách đoàn này ra làm hai. Đoàn sẽ tự tái hợp nhất nếu họ đi gần nhau.</CommandSplitCaravanDesc>
-  
   <!-- Merge caravan -->
   <!-- EN: Merge -->
   <CommandMergeCaravans>Hợp nhất.</CommandMergeCaravans>
@@ -380,7 +359,6 @@
   <CommandMergeCaravansFailCaravansNotSelected>Chọn tất cả những đoàn mà bạn muốn hợp nhất. Những đoàn này phải gần bên nhau.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
   <CommandJoinCaravan>Sát nhập</CommandJoinCaravan>
-  
   <!-- Settle -->
   <!-- EN: Settle -->
   <CommandSettle>Định cư</CommandSettle>
@@ -394,17 +372,19 @@
   <CommandSettleFailNoColonists>Không có cư dân nào của bạn ở đó để chiếm khu vực cả.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>Có kẻ địch trong khu vực này.</CommandSettleFailEnemies>
-  <!-- EN: Cannot settle here. -->
+  <!--EN: Cannot settle here.-->
+  <!--VI: Không thể giải quyết ở đây.-->
   <CommandSettleFailGeneric>TODO</CommandSettleFailGeneric>
-
   <!-- Camp -->
-  <!-- EN: Camp -->
+  <!--EN: Camp-->
+  <!--VI: Trại-->
   <CommandCamp>TODO</CommandCamp>
-  <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
+  <!--EN: Set up a temporary camp that can quickly be abandoned.-->
+  <!--VI: Thiết lập một trại tạm thời có thể nhanh chóng bị bỏ hoang.-->
   <CommandCampDesc>TODO</CommandCampDesc>
-  <!-- EN: Cannot camp here. -->
+  <!--EN: Cannot camp here.-->
+  <!--VI: Không thể cắm trại ở đây.-->
   <CommandCampFailExistingWorldObject>TODO</CommandCampFailExistingWorldObject>
-  
   <!-- Abandon home -->
   <!-- EN: Abandon -->
   <CommandAbandonHome>Từ bỏ</CommandAbandonHome>
@@ -412,45 +392,45 @@
   <CommandAbandonHomeDesc>Từ bỏ khu vực này. Bạn sẽ không thể vào lại khu vực này nữa và mọi thứ trong khu vực này sẽ biến mất vĩnh viễn.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>Tất cả cư dân của bạn đều ở đây.</CommandAbandonHomeFailAllColonistsThere>
-  
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>Huỷ bỏ tập hợp đoàn lữ hành</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
   <CommandCancelFormingCaravanDesc>Hủy bỏ quá trình tập hợp thành đoàn lữ hành.</CommandCancelFormingCaravanDesc>
-
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
   <CommandRemoveFromCaravan>Tách ra khỏi đoàn lữ hành</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
   <CommandRemoveFromCaravanDesc>Bỏ người hoặc vật này ra khỏi đoàn lữ hành.</CommandRemoveFromCaravanDesc>
-  
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
   <CommandAddToCaravan>Thêm vào đoàn</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
   <CommandAddToCaravanDesc>Thêm người hoặc vật này vào đoàn lữ hành.</CommandAddToCaravanDesc>
-  
   <!-- Force caravan depart -->
-  <!-- EN: Force caravan departure -->
+  <!--EN: Force caravan departure-->
+  <!--VI: Buộc đoàn lữ hành khởi hành-->
   <CommandForceCaravanDepart>TODO</CommandForceCaravanDepart>
-  <!-- EN: Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind. -->
+  <!--EN: Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind.-->
+  <!--VI: Buộc đoàn lữ hành rời đi ngay lập tức chỉ với những vật phẩm hiện đang được tải. Bất cứ ai không thể đi lại sẽ bị bỏ lại phía sau.-->
   <CommandForceCaravanDepartDesc>TODO</CommandForceCaravanDepartDesc>
-  <!-- EN: Are you sure you want to depart? -->
+  <!--EN: Are you sure you want to depart?-->
+  <!--VI: Bạn có chắc chắn muốn rời đi không?-->
   <ConfirmForceDepartIntro>TODO</ConfirmForceDepartIntro>
-  <!-- EN: The following items are still being loaded and will be left behind: -->
+  <!--EN: The following items are still being loaded and will be left behind:-->
+  <!--VI: Các vật dụng sau đây vẫn đang được tải và sẽ bị bỏ lại:-->
   <ConfirmForceDepartItemsStillLoading>TODO</ConfirmForceDepartItemsStillLoading>
-  <!-- EN: The following people won't be a part of the caravan: -->
+  <!--EN: The following people won't be a part of the caravan:-->
+  <!--VI: Những người sau đây sẽ không tham gia đoàn lữ hành:-->
   <ConfirmForceDepartPawnsNotLeaving>TODO</ConfirmForceDepartPawnsNotLeaving>
-  <!-- EN: The following items are loaded onto creatures who won't be a part of the caravan and will be left behind: -->
+  <!--EN: The following items are loaded onto creatures who won't be a part of the caravan and will be left behind:-->
+  <!--VI: Các vật phẩm sau được nạp vào những sinh vật không phải là một phần của đoàn lữ hành và sẽ bị bỏ lại phía sau:-->
   <ConfirmForceDepartItemsOnPawnsNotLeaving>TODO</ConfirmForceDepartItemsOnPawnsNotLeaving>
-  
   <!-- Show map -->
   <!-- EN: Zoom in -->
   <CommandShowMap>Phóng to</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
   <CommandShowMapDesc>Phóng to khu vực này.</CommandShowMapDesc>
-  
   <!-- Trade -->
   <!-- EN: Trade -->
   <CommandTrade>Trao đổi</CommandTrade>
@@ -460,13 +440,11 @@
   <CommandTradeFailNoNegotiator>Bạn không có cư dân có khả năng trao đổi được.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
   <CommandTradeFailNeedPermit>Không ai trong số những người của bạn có quyền yêu cầu phe phái: {0}</CommandTradeFailNeedPermit>
-
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
   <CommandOfferGifts>Tặng quà</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
   <CommandOfferGiftsDesc>Tặng quà cho băng nhóm này.</CommandOfferGiftsDesc>
-
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
   <CommandFulfillTradeOffer>Hoàn thành yêu cầu</CommandFulfillTradeOffer>
@@ -476,7 +454,6 @@
   <CommandFulfillTradeOfferFailInsufficient>Đoàn giao thương của bạn phải có đủ {0} để hoàn thành yêu cầu giao thương này.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
   <CommandFulfillTradeOfferConfirm>Tặng {0}?</CommandFulfillTradeOfferConfirm>
-  
   <!-- Take off -->
   <!-- EN: Take off -->
   <CommandTakeOff>Cất cánh</CommandTakeOff>
@@ -484,37 +461,37 @@
   <CommandTakeOffDesc>Lên phi thuyền và thoát khỏi hành tinh này.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
   <CommandTakeOffConfirmation>Bạn có chắc chắn cho phi thuyền cất cánh?\n\nMọi người trên phi thuyền này sẽ thoát khỏi hành tinh này. Những người chưa lên sẽ bị bỏ lại phía sau.</CommandTakeOffConfirmation>
-
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>Đặt mức nhiên liệu</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Đặt mức nhiên liệu. cư dân sẽ bơm đến khi đạt mức nhiên liệu bạn đề ra.</CommandSetTargetFuelLevelDesc>
-
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
   <CommandToggleAllowAutoRefuel>Chuyển đổi tự động tiếp nhiên liệu</CommandToggleAllowAutoRefuel>
   <!-- EN: This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}. -->
   <CommandToggleAllowAutoRefuelDesc>Cho phép tiếp nhiên liệu tự động hay không.</CommandToggleAllowAutoRefuelDesc>
-  <!-- EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}. -->
+  <!--EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}.-->
+  <!--VI: Điều này xác định liệu những người thuộc địa có tự động tiếp nhiên liệu cho các tòa nhà này hay không.\n\nTự động tiếp nhiên liệu hiện đang {ONOFF}.-->
   <CommandToggleAllowAutoRefuelDescMult>TODO</CommandToggleAllowAutoRefuelDescMult>
-
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>Hủy chất hàng</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Hủy việc đưa người hoặc hàng hóa lên và lấy mọi thứ ra.</CommandCancelLoadDesc>
-  <!-- EN: Unload all -->
+  <!--EN: Unload all-->
+  <!--VI: Tải tất cả-->
   <CommandUnload>TODO</CommandUnload>
-  <!-- EN: Eject all contents from the {0}. -->
+  <!--EN: Eject all contents from the {0}.-->
+  <!--VI: Đẩy tất cả nội dung ra khỏi {0}.-->
   <CommandUnloadDesc>TODO</CommandUnloadDesc>
-
   <!-- Launch group -->
   <!-- EN: Launch -->
   <CommandLaunchGroup>Phóng nhóm</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Khỏi động quá trình phóng nhóm kén vận chuyển đã chọn. Bước tiếp theo là chọn điểm đến. Các kén vận chuyển sẽ tự động bay tới điểm đến và đáp cùng nhau.</CommandLaunchGroupDesc>
-  <!-- EN: Must be loaded first. -->
+  <!--EN: Must be loaded first.-->
+  <!--VI: Phải được tải trước.-->
   <CommandLaunchGroupFailNotLoaded>TODO</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Vài bệ phóng trong nhóm này không có liên kết với bồn nhiên liệu.</CommandLaunchGroupFailNotConnectedToFuelingPort>
@@ -522,13 +499,15 @@
   <CommandLaunchGroupFailUnderRoof>Vài bệ phóng trong nhóm này nằm dưới mái nhà.</CommandLaunchGroupFailUnderRoof>
   <!-- EN: Not enough fuel to launch. -->
   <CommandLaunchGroupFailNoFuel>Vài bệ phóng trong nhóm này chưa nạp nhiên liệu.</CommandLaunchGroupFailNoFuel>
-  <!-- EN: Over mass capacity. -->
+  <!--EN: Over mass capacity.-->
+  <!--VI: Quá công suất khối lượng.-->
   <CommandLaunchGroupFailOverMassCapacity>TODO</CommandLaunchGroupFailOverMassCapacity>
-  <!-- EN: On cooldown. -->
+  <!--EN: On cooldown.-->
+  <!--VI: Khi hồi chiêu.-->
   <CommandLaunchGroupCooldown>TODO</CommandLaunchGroupCooldown>
-  <!-- EN: {0} / {1} kg -->
+  <!--EN: {0} / {1} kg-->
+  <!--VI: {0} / {1} kg-->
   <MassUsageString>TODO</MassUsageString>
-
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Chọn nhóm phóng của {0}</CommandLoadTransporter>
@@ -538,73 +517,61 @@
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Kén vận chuyển chưa liên kết với bồn nhiên liệu.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Bệ phóng chưa nạp nhiên liệu.</CommandLoadTransporterFailNoFuel>
-  
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
   <CommandLoadTransporterSingle>Tải</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterSingleDesc>Mở hộp thoại tải để bạn có thể quyết định ai và cái gì nên được tải bên trong.</CommandLoadTransporterSingleDesc>
-  
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
   <CommandSetToLoadTransporter>Đặt để tải</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandSetToLoadTransporterDesc>Mở hộp thoại tải để bạn có thể quyết định ai và cái gì nên được tải bên trong.</CommandSetToLoadTransporterDesc>
-  
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
   <CommandAutoloadTransporters>Tự động tải</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
   <CommandAutoloadTransportersDesc>Tự động tải tất cả hàng hóa cần thiết ngay khi chúng có sẵn.</CommandAutoloadTransportersDesc>
-  
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Chọn nhóm phóng trước đó</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Chọn nhóm vận chuyển trước đó trong nhóm khởi chạy này.</CommandSelectPreviousTransporterDesc>
-  
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>Chọn nhóm phóng</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
   <CommandSelectAllTransportersDesc>Chọn tất cả kén phóng trong nhóm phóng này.</CommandSelectAllTransportersDesc>
-  
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>Chọn nhóm để phóng đi tiếp theo</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
   <CommandSelectNextTransporterDesc>Chọn nhóm kén vận chuyển để phóng tiếp theo.</CommandSelectNextTransporterDesc>
-  
   <!-- Vent -->
   <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>Đóng/mở van</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
   <CommandDesignateOpenCloseVentDesc>Đóng/mở van thông gió này. cư dân sẽ tự động đến làm việc này.</CommandDesignateOpenCloseVentDesc>
-  
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>Xóa bỏ</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
   <CommandRemoveWaypointDesc>Xóa bỏ điểm đến này.</CommandRemoveWaypointDesc>
-
   <!-- Pause caravan -->
   <!-- EN: Rest -->
   <CommandPauseCaravan>Nghỉ ngơi</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
   <CommandToggleCaravanPauseDesc>Tạm dừng lữ đoàn một lát. Điều này sẽ có những lợi ích sau:\n\n  - Mọi người có cơ hội giao tiếp với nhau\n  - Tìm thức ăn nhanh hơn {0} lần\n  - Tầm nhìn tăng thêm {1}</CommandToggleCaravanPauseDesc>
-  
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
   <CommandShowSellableItems>Hiển thị vật phẩm sẽ mua</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
   <CommandShowSellableItemsDesc>Hiển thị tất cả vật phẩm mà họ muốn mua.</CommandShowSellableItemsDesc>
-
   <!-- Attack settlement -->
   <!-- EN: Attack -->
   <CommandAttackSettlement>Tấn công</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
   <CommandAttackSettlementDesc>Tấn công thị trấn này.</CommandAttackSettlementDesc>
-
   <!-- Send shuttle -->
   <!-- EN: Send -->
   <CommandSendShuttle>Phóng</CommandSendShuttle>
@@ -614,13 +581,11 @@
   <CommandSendShuttleFailUnderRoof>Tàu con thoi nằm dưới một mái nhà.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>Một số mặt hàng cần thiết hoặc người bị thiếu.</CommandSendShuttleFailMissingRequiredThing>
-  
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
   <CommandShuttleDismiss>Hủy bỏ</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
   <CommandShuttleDismissDesc>Dỡ tất cả nội dung và gửi xe đưa đón đi.</CommandShuttleDismissDesc>
-
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
   <CommandPlaceBlueprints>Đặt bản thiết kế</CommandPlaceBlueprints>
@@ -630,13 +595,11 @@
   <CommandPlaceBlueprintsSpecific>Đặt {0} bản thiết kế</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
   <CommandPlaceBlueprintsSpecificDesc>Đặt tất cả {0} bản thiết kế nếu có thể.</CommandPlaceBlueprintsSpecificDesc>
-
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
   <CommandCancelMonumentMarker>Hủy bỏ</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
   <CommandCancelMonumentMarkerDesc>Xóa vĩnh viễn điểm đánh dấu này.</CommandCancelMonumentMarkerDesc>
-
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
   <CommandViewQuest>Xem nhiệm vụ: {0}</CommandViewQuest>
@@ -646,7 +609,6 @@
   <CommandOpenLinkedQuest>Mở nhiệm vụ liên quan</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
   <CommandOpenLinkedQuestDesc>Mở nhiệm vụ liên qua trong tab nhiệm vụ.</CommandOpenLinkedQuestDesc>
-
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
   <CommandDropPawn>Thả {0_nameDef}</CommandDropPawn>
@@ -676,17 +638,14 @@
   <CommandSelectContainedThing>Chọn {0_label}</CommandSelectContainedThing>
   <!-- EN: Select the contained item. -->
   <CommandSelectContainedThingDesc>Chọn mục chứa.</CommandSelectContainedThingDesc>
-
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>Uống thuốc...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
   <TakeDrugDesc>Chọn một loại thuốc từ kho để ăn ngay lập tức.</TakeDrugDesc>
-
   <!-- Build X -->
   <!-- EN: Build {0} -->
   <BuildThing>Xây dựng {0}</BuildThing>
-
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
   <CommandLeaveRitual>Rời khỏi {RITUAL_label}</CommandLeaveRitual>
@@ -694,14 +653,12 @@
   <CommandLeaveRitualDesc>Ngừng tham gia {RITUAL_labelDef}. Nghi lễ sẽ tiếp tục miễn là nó có ít nhất một người tham gia.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>Đây là người tham gia cuối cùng trong {RITUAL_labelDef}.</CommandLeaveLastParticipant>
-
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>Hủy {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
   <CommandCancelRitualDesc>Kết thúc {RITUAL_labelDef} ngay lập tức. Nghĩa vụ nghi lễ sẽ vẫn còn. Bạn có thể bắt đầu lại nghi lễ sau.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>Bạn có chắc chắn muốn hủy {RITUAL_labelDef} không?</CommandCancelRitualConfirm>
-
   <!-- Storage linking -->
   <!-- EN: Link settings -->
   <LinkStorageSettings>Cài đặt liên kết</LinkStorageSettings>
@@ -717,7 +674,8 @@
   <UnlinkStorageSettingsDesc>Hủy liên kết cài đặt này khỏi cài đặt lưu trữ của các tòa nhà khác để cài đặt của nó có thể được đặt độc lập.</UnlinkStorageSettingsDesc>
   <!-- EN: Linked storage settings -->
   <LinkedStorageSettings>Cài đặt lưu trữ được liên kết</LinkedStorageSettings>
-  <!-- EN: 1 building -->
+  <!--EN: 1 building-->
+  <!--VI: 1 tòa nhà-->
   <OneBuilding>TODO</OneBuilding>
   <!-- EN: {0} buildings -->
   <NumBuildings>{0} tòa nhà</NumBuildings>
@@ -727,46 +685,50 @@
   <SelectAllLinked>Chọn tất cả liên kết</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
   <SelectAllLinkedDesc>Chọn tất cả các tòa nhà lưu trữ được liên kết với cái này.</SelectAllLinkedDesc>
-
   <!-- EN: {0_labelShort} is unconscious. -->
   <CommandDisabledUnconscious>{0_labelShort} là vô thức.</CommandDisabledUnconscious>
-
   <!-- Study -->
-  <!-- EN: Toggle study -->
+  <!--EN: Toggle study-->
+  <!--VI: Chuyển đổi nghiên cứu-->
   <CommandToggleStudy>TODO</CommandToggleStudy>
-  <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
+  <!--EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied.-->
+  <!--VI: Xác định xem cai ngục có tự động nghiên cứu điều này hay không. Những điều bị cấm đoán sẽ không bao giờ được nghiên cứu.-->
   <CommandToggleStudyDesc>TODO</CommandToggleStudyDesc>
-
   <!-- Limited use count action -->
-  <!-- EN: No uses left. -->
+  <!--EN: No uses left.-->
+  <!--VI: Không còn công dụng.-->
   <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
-
   <!-- Map Portal -->
-  <!-- EN: View {0} -->
+  <!--EN: View {0}-->
+  <!--VI: Xem {0}-->
   <CommandViewPocketMapLabel>TODO</CommandViewPocketMapLabel>
-  <!-- EN: View the connected {0} map. -->
+  <!--EN: View the connected {0} map.-->
+  <!--VI: Xem bản đồ {0} được kết nối.-->
   <CommandViewPocketMapDesc>TODO</CommandViewPocketMapDesc>
-  <!-- EN: View surface -->
+  <!--EN: View surface-->
+  <!--VI: Xem bề mặt-->
   <CommandViewSurface>TODO</CommandViewSurface>
-  <!-- EN: View the connected surface map. -->
+  <!--EN: View the connected surface map.-->
+  <!--VI: Xem bản đồ bề mặt được kết nối.-->
   <CommandViewSurfaceDesc>TODO</CommandViewSurfaceDesc>
-
   <!-- Auto-build pod -->
-  <!-- EN: Auto build transport pod -->
+  <!--EN: Auto build transport pod-->
+  <!--VI: Tự động xây dựng pod vận chuyển-->
   <AutoBuildTransportPod>TODO</AutoBuildTransportPod>
-  <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
+  <!--EN: If on, your colonists will automatically build a new transport pod when possible.-->
+  <!--VI: Nếu bật, những người thuộc địa của bạn sẽ tự động xây dựng một nhóm vận chuyển mới khi có thể.-->
   <AutoBuildTransportPodDesc>TODO</AutoBuildTransportPodDesc>
-  
   <!-- Hacking gizmo -->
-  <!-- EN: Hack... -->
+  <!--EN: Hack...-->
+  <!--VI: Hack...-->
   <HackGizmo>TODO</HackGizmo>
-  <!-- EN: Cannot hack -->
+  <!--EN: Cannot hack-->
+  <!--VI: Không thể hack-->
   <CannotChooseHacker>TODO</CannotChooseHacker>
-  <!-- EN: Choose hacker -->
+  <!--EN: Choose hacker-->
+  <!--VI: Chọn hacker-->
   <CommandChooseHacker>TODO</CommandChooseHacker>
-  
   <!-- UNUSED -->
   <CommandHideZoneLabel>Ẩn</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Hiện</CommandUnhideZoneLabel>
-
 </LanguageData>

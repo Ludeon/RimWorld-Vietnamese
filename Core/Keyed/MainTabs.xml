@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- Work tab -->
   <!-- EN: Manual priorities -->
   <ManualPriorities>Ưu tiên thủ công</ManualPriorities>
@@ -42,7 +41,6 @@
   <WorkDisabledByTrait>Bị vô hiệu hóa bởi đặc điểm: {0}</WorkDisabledByTrait>
   <!-- EN: Disabled by quest '{0}' -->
   <WorkDisabledByQuest>Bị vô hiệu hóa bởi nhiệm vụ: {0}</WorkDisabledByQuest>
-  
   <!-- Assign tab -->
   <!-- EN: Unchangeable -->
   <Unchangeable>Không thể thay đổi</Unchangeable>
@@ -56,15 +54,17 @@
   <ForcedApparel>Trang phục bắt buộc</ForcedApparel>
   <!-- EN: Edit -->
   <AssignTabEdit>Chỉnh...</AssignTabEdit>
-  <!-- EN: Manage apparel policies -->
+  <!--EN: Manage apparel policies-->
+  <!--VI: Quản lý chính sách may mặc-->
   <ManageApparelPolicies>TODO</ManageApparelPolicies>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Quản lý chính sách thuốc</ManageDrugPolicies>
-  <!-- EN: Manage food policies -->
+  <!--EN: Manage food policies-->
+  <!--VI: Quản lý chính sách thực phẩm-->
   <ManageFoodPolicies>TODO</ManageFoodPolicies>
-  <!-- EN: Manage reading policies -->
+  <!--EN: Manage reading policies-->
+  <!--VI: Quản lý chính sách đọc-->
   <ManageReadingPolicies>TODO</ManageReadingPolicies>
-  
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>Sao chép</Copy>
@@ -72,7 +72,6 @@
   <Paste>Dán</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>Khu vực được phép</AllowedArea>
-  
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>Chủ nhân</Master>
@@ -84,13 +83,11 @@
   <SterilizeAnimal>Triệt sản động vật.</SterilizeAnimal>
   <!-- EN: Animal sterile. -->
   <AnimalAlreadySterile>Động vật vô tính.</AnimalAlreadySterile>
-  
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Sinh vật này là một động vật ăn thịt. Khi đói, nó sẽ săn những sinh vật nhỏ hơn - có thể bao gồm cả con người.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
   <IsInMentalState>Sinh vật này hiện đang ở trạng thái tinh thần: {0}</IsInMentalState>
-  
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Thù địch</Hostile>
@@ -118,7 +115,6 @@
   <CurrentGoodwillTip_Neutral>Phe này là trung lập. Họ sẽ giao dịch và nói chuyện với bạn một cách tự do. Nếu quan hệ giảm xuống dưới {0}, chúng sẽ trở thành thù địch. Nếu quan hệ tăng lên trên {1}, họ sẽ trở thành đồng minh và bắt đầu tích cực làm việc để giúp bạn.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Phe này là thù địch. Họ sẽ đột kích các khu định cư và đoàn lữ hành của bạn. Nếu quan hệ tăng lên trên {0}, chúng sẽ trở thành trung lập.</CurrentGoodwillTip_Hostile>
-
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Bạn bè</Friend>
@@ -126,7 +122,6 @@
   <Rival>Đối thủ</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>Người quen</Acquaintance>
-  
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>Đồ thị</Graph>
@@ -134,7 +129,6 @@
   <Messages>Tin nhắn</Messages>
   <!-- EN: Statistics -->
   <Statistics>Số liệu thống kê</Statistics>
-  
   <!-- History tab - Graphs -->
   <!-- EN: Select graph -->
   <SelectGraph>Chọn biểu đồ</SelectGraph>
@@ -150,7 +144,6 @@
   <Value>Giá trị</Value>
   <!-- EN: External -->
   <External>Bề ngoài</External>
-
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
   <ShowLetters>Hiện thư</ShowLetters>
@@ -160,7 +153,6 @@
   <PinArchivableTip>Ghim hoặc bỏ ghim tin nhắn này.\n\nCác tin nhắn chưa ghim cũ nhất sẽ tự động bị xóa khỏi danh sách sau khi đạt đến giới hạn của {0} tin nhắn.</PinArchivableTip>
   <!-- EN: no messages -->
   <NoMessages>không có tin nhắn</NoMessages>
-
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
   <Playtime>Thời gian chơi</Playtime>
@@ -184,7 +176,6 @@
   <ColonistsKilled>Cư dân bị giết</ColonistsKilled>
   <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>Cư dân phóng vào vũ trụ</ColonistsLaunched>
-
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Nghiên cứu</Research>
@@ -200,7 +191,8 @@
   <InProgress>Trong quá trình</InProgress>
   <!-- EN: Locked -->
   <Locked>Đã khóa</Locked>
-  <!-- EN: Prerequisites -->
+  <!--EN: Prerequisites-->
+  <!--VI: Điều kiện tiên quyết-->
   <Prerequisites>TODO</Prerequisites>
   <!-- EN: Techprints required {0} / {1} -->
   <ResearchTechprintRequirement>Yêu cầu bản thiết kế {0} / {1}</ResearchTechprintRequirement>
@@ -208,13 +200,17 @@
   <InsufficientTechprintsApplied>Không đủ bản thiết kế để áp dụng ({0} / {1})</InsufficientTechprintsApplied>
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>Điều kiện tiên quyết chưa hoàn thành</PrerequisitesNotCompleted>
-  <!-- EN: No project active. -->
+  <!--EN: No project active.-->
+  <!--VI: Không có dự án nào đang hoạt động.-->
   <NoProjectSelected>TODO</NoProjectSelected>
-  <!-- EN: Active projects -->
+  <!--EN: Active projects-->
+  <!--VI: Các dự án đang hoạt động-->
   <ActiveProjectPlural>TODO</ActiveProjectPlural>
-  <!-- EN: Active project -->
+  <!--EN: Active project-->
+  <!--VI: Dự án đang hoạt động-->
   <ActiveProject>TODO</ActiveProject>
-  <!-- EN: Stop research -->
+  <!--EN: Stop research-->
+  <!--VI: Dừng nghiên cứu-->
   <StopResearch>TODO</StopResearch>
   <!-- EN: Missing required research facilities -->
   <MissingRequiredResearchFacilities>Thiếu cơ sở nghiên cứu cần thiết</MissingRequiredResearchFacilities>
@@ -230,17 +226,17 @@
   <TechLevelTooLow>Cấp độ công nghệ phe nhóm của bạn là {0}, nhưng cấp độ công nghệ của dự án này là {1}. Tốc độ nghiên cứu sẽ được nhân với {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Mở khóa với</UnlockedWith>
-  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <!--EN: Research one or more of this project's prerequisites to discover it.-->
+  <!--VI: Nghiên cứu một hoặc nhiều điều kiện tiên quyết của dự án này để khám phá nó.-->
   <UnknownResearchDescription>TODO</UnknownResearchDescription>
-  <!-- EN: unknown -->
+  <!--EN: unknown-->
+  <!--VI: không biết-->
   <UnknownResearch>TODO</UnknownResearch>
-
   <!-- Factions tab -->
   <!-- EN: Factions -->
   <FactionsTab>Bè phái</FactionsTab>
   <!-- EN: No known factions -->
   <NoFactions>Không có phe phái nào được biết đến</NoFactions>
-
   <!-- Quests tab -->
   <!-- EN: Available -->
   <AvailableQuests>Khả dụng</AvailableQuests>
@@ -322,7 +318,8 @@
   <QuestPawnNotOnColonyMap>{PAWN_definite} ở thuộc địa nhà bạn</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>bản đồ sạch bóng kẻ thù của phe người giỏi nhất</QuestRequiresNoDangerOnMap>
-  <!-- EN: that {PROJECT_label} has been researched. -->
+  <!--EN: that {PROJECT_label} has been researched.-->
+  <!--VI: rằng {PROJECT_label} đã được nghiên cứu.-->
   <QuestRequiresResearch>TODO</QuestRequiresResearch>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
   <QuestCanNotStartUntilBestowingCeremonyFinished>kết thúc buổi lễ trao tặng để hoàn thành nhiệm vụ</QuestCanNotStartUntilBestowingCeremonyFinished>
@@ -360,30 +357,34 @@
   <QuestNeutralTo>trung lập với {0}</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>đã học {0_labelShort}</QuestRequiredThingStudied>
-  <!-- EN: cannot accept {GERUND} {LAYER} -->
-  <QuestRequiredLayer>TODO</QuestRequiredLayer> <!-- text_todo -->
-  <!-- EN: cannot accept in space -->
-  <QuestNotSpace>TODO</QuestNotSpace> <!-- text_todo -->
-
+  <!--EN: cannot accept {GERUND} {LAYER}-->
+  <!--VI: không thể chấp nhận {GERUND} {LAYER}-->
+  <QuestRequiredLayer>TODO</QuestRequiredLayer>
+  <!-- text_todo -->
+  <!--EN: cannot accept in space-->
+  <!--VI: không thể chấp nhận trong không gian-->
+  <QuestNotSpace>TODO</QuestNotSpace>
+  <!-- text_todo -->
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Cần tạo</CreatesNeed>
-  <!-- EN: Change defaults... -->
+  <!--EN: Change defaults...-->
+  <!--VI: Thay đổi mặc định...-->
   <ChangeDefaults>TODO</ChangeDefaults>
-
   <!-- Misc -->
   <!-- EN: Click to edit -->
   <ClickToEdit>Click để tùy chỉnh</ClickToEdit>
-  <!-- EN: Assign -->
+  <!--EN: Assign-->
+  <!--VI: Gán-->
   <AssignButton>TODO</AssignButton>
-  <!-- EN: Unassign -->
+  <!--EN: Unassign-->
+  <!--VI: Hủy chỉ định-->
   <UnassignButton>TODO</UnassignButton>
-  
   <!-- Books -->
-  <!-- EN: Mental break chance -->
+  <!--EN: Mental break chance-->
+  <!--VI: Cơ hội nghỉ ngơi tinh thần-->
   <BookMentalBreakChance>TODO</BookMentalBreakChance>
-  
-  <!-- EN: Recreation gain multiplier -->
+  <!--EN: Recreation gain multiplier-->
+  <!--VI: Hệ số tăng giải trí-->
   <BookJoyFactor>TODO</BookJoyFactor>
-  
 </LanguageData>

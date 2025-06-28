@@ -1,149 +1,172 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: artificial metabolism -->
   <ArtificialMetabolism.label>trao đổi chất nhân tạo</ArtificialMetabolism.label>
   <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
   <ArtificialMetabolism.description>Chế tạo các thiết bị sinh học xử lý thức ăn an toàn hoặc hiệu quả hơn dạ dày sinh học.</ArtificialMetabolism.description>
-  <!-- EN:
-    <li>subject->artificial metabolism</li>
+  <!--EN: <li>subject->artificial metabolism</li>
     <li>subject_story->developed a hunger so all-consuming that the installation of an artificial stomach was the only solution</li>
     <li>subject_story->did not tell the Queen about the installation of the sterilizing stomach, but continued as her food tester all the same</li>
     <li>subject_story->developed a loathing for food. A nuclear stomach heavily reduced food consumption, though the radioactivity was a nuisance</li>
     <li>subject_gerund->crafting digestion-related bionics</li>
-    <li>subject_gerund->crafting artificial guts</li>
-  -->
+    <li>subject_gerund->crafting artificial guts</li>-->
+  <!--VI: chủ <li>thể-> chuyển hóa nhân tạo</li>
+    <li>subject_story-> phát triển một cơn đói tiêu thụ tất cả đến mức việc lắp đặt một dạ dày nhân tạo là giải pháp duy nhất</li>
+    <li>subject_story-> không nói với Nữ hoàng về việc lắp đặt dạ dày khử trùng, nhưng tiếp tục làm người kiểm tra thức ăn của mình</li>
+    <li>subject_story > phát triển sự ghê tởm thức ăn. Dạ dày hạt nhân làm giảm đáng kể mức tiêu thụ thực phẩm, mặc dù phóng xạ là một điều phiền toái</li>
+    <li>subject_gerund >chế tạo sinh học liên quan đến tiêu hóa</li>
+    <li>subject_gerund > chế tạo ruột nhân tạo</li>-->
   <ArtificialMetabolism.generalRules.rulesStrings>TODO</ArtificialMetabolism.generalRules.rulesStrings>
-  
   <!-- EN: brain wiring -->
   <BrainWiring.label>hệ thống dây điện não</BrainWiring.label>
   <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
   <BrainWiring.description>Chế tạo cấy công nghệ ghép não gây ra hoặc ngăn chặn những cảm giác buồn tẻ như vui sướng hoặc đau đớn.</BrainWiring.description>
-  <!-- EN:
-    <li>subject->brain implants</li>
+  <!--EN: <li>subject->brain implants</li>
     <li>subject_story->wrote a paper about the masochist cults use of mindscrews to improve their morale</li>
     <li>subject_story->implanted painstoppers in an assault squad. They eliminated a much larger force, but were all mortally wounded or killed</li>
     <li>subject_story->had a joywire installed and, though happy after that, stumbled simply through life</li>
-    <li>subject_gerund->crafting brain implants</li>
-  -->
+    <li>subject_gerund->crafting brain implants</li>-->
+  <!--VI: <li>Cấy ghép đối tượng > não</li>
+    <li>subject_story-> đã viết một bài báo về các giáo phái bạo dâm sử dụng mindscrews để cải thiện tinh thần của họ</li>
+    <li>subject_story > cấy thuốc giảm đau trong một đội tấn công. Họ đã loại bỏ một lực lượng lớn hơn nhiều, nhưng tất cả đều bị thương nặng hoặc thiệt mạng</li>
+    <li>subject_story-> đã lắp đặt một dây vui và mặc dù hạnh phúc sau đó, nhưng chỉ vấp ngã trong cuộc sống</li>
+    <li>Cấy ghép não subject_gerund > chế tạo</li>-->
   <BrainWiring.generalRules.rulesStrings>TODO</BrainWiring.generalRules.rulesStrings>
-  
   <!-- EN: circadian influence -->
   <CircadianInfluence.label>ảnh hưởng sinh học</CircadianInfluence.label>
   <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
   <CircadianInfluence.description>Chế tạo thiết bị cấy ghép não điều khiển nhịp sinh học theo phương pháp hóa học, làm giảm hoặc thay đổi nhu cầu ngủ.</CircadianInfluence.description>
-  <!-- EN:
-    <li>subject->sleep reduction implant</li>
+  <!--EN: <li>subject->sleep reduction implant</li>
     <li>subject_story->studied unihemispheric sleep patterns in cetaceans and proposed a new form of circadian half-cycler</li>
     <li>subject_story->forced any applicants for city guard to receive a half-cycler, so they could stay at post indefinitely, if necessary</li>
     <li>subject_story->studied bullfrogs and giraffes to ascertain what  xenogerms would be necessary for a circadian assistance gland</li>
-    <li>subject_gerund->crafting sleep reduction implants</li>
-  -->
+    <li>subject_gerund->crafting sleep reduction implants</li>-->
+  <!--VI: <li>Cấy ghép giảm giấc ngủ > đối tượng</li>
+    <li>subject_story > đã nghiên cứu các mô hình giấc ngủ đơn bán cầu ở động vật giáp xác và đề xuất một dạng mới của nửa chu kỳ sinh học</li>
+    <li>subject_story-> buộc bất kỳ ứng viên nào cho lực lượng bảo vệ thành phố phải nhận được một nửa chu kỳ, để họ có thể ở lại vị trí vô thời hạn, nếu cần thiết</li>
+    <li>subject_story > nghiên cứu ếch bò và hươu cao cổ để xác định những mầm xenogerm nào sẽ cần thiết cho một tuyến hỗ trợ sinh học</li>
+    <li>Cấy ghép giảm giấc ngủ subject_gerund ></li>-->
   <CircadianInfluence.generalRules.rulesStrings>TODO</CircadianInfluence.generalRules.rulesStrings>
-  
   <!-- EN: compact weaponry -->
   <CompactWeaponry.label>vũ khí nhỏ gọn</CompactWeaponry.label>
   <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
   <CompactWeaponry.description>Chế tạo vũ khí sinh học nhỏ gọn, có thể che giấu được, có thể gắn vào các bộ phận cơ thể khác nhau.</CompactWeaponry.description>
-  <!-- EN:
-    <li>subject->compact weaponry</li>
+  <!--EN: <li>subject->compact weaponry</li>
     <li>subject_story->was employed as a detective and was saved more than once by the concealed knee spike</li>
     <li>subject_story->spent a summer recovering from being slashed by an escaped slave's hand talon</li>
     <li>subject_story->was working in security, scanning visitors to the hall, when the cyborg attempted to enter</li>
-    <li>subject_gerund->crafting compact bionic weapons</li>
-  -->
+    <li>subject_gerund->crafting compact bionic weapons</li>-->
+  <!--VI: <li>Vũ khí > nhỏ gọn</li>
+    <li>subject_story-> được tuyển dụng làm thám tử và được cứu hơn một lần bởi chiếc gai đầu gối được giấu kín</li>
+    <li>subject_story-> đã dành một mùa hè để hồi phục sau khi bị chém bởi móng vuốt tay của một nô lệ trốn thoát</li>
+    <li>subject_story-> đang làm việc trong lĩnh vực an ninh, quét khách đến hội trường, khi người máy cố gắng bước vào</li>
+    <li>subject_gerund->chế tạo vũ khí sinh học nhỏ gọn</li>-->
   <CompactWeaponry.generalRules.rulesStrings>TODO</CompactWeaponry.generalRules.rulesStrings>
-  
   <!-- EN: flesh shaping -->
   <FleshShaping.label>tạo hình thịt</FleshShaping.label>
   <!-- EN: Craft bionics which induce the reshaping of natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
   <FleshShaping.description>Chế tạo sinh học tạo ra sự thay đổi hình dạng của da thịt tự nhiên, thường nhằm mục đích nâng cao thẩm mỹ hoặc niềm vui cá nhân.</FleshShaping.description>
-  <!-- EN:
-    <li>subject->aesthetic surgery</li>
+  <!--EN: <li>subject->aesthetic surgery</li>
     <li>subject_story->halted the population decline on the urbworld, by distributing free love enhancers and lavish drugs</li>
     <li>subject_story->was hired as chief flesh-shaper for an aesthetics clinic, spending [ANYPAWN_possessive] days making shapely limbs</li>
     <li>subject_story->gathered the glitterworld children around the campfire and told horror stories about getting their non-aesthetic noses back</li>
-    <li>subject_gerund->crafting aesthetic bionics</li>
-  -->
+    <li>subject_gerund->crafting aesthetic bionics</li>-->
+  <!--VI: <li>đối tượng-> phẫu thuật thẩm mỹ</li>
+    <li>subject_story-> ngăn chặn sự suy giảm dân số trên Urbworld, bằng cách phân phối các chất tăng cường tình yêu miễn phí và thuốc xa hoa</li>
+    <li>subject_story-> được thuê làm giám đốc tạo hình da thịt cho một phòng khám thẩm mỹ, dành [ANYPAWN_possessive] ngày để tạo ra các chi đẹp</li>
+    <li>subject_story-> tập hợp những đứa trẻ lấp lánh quanh lửa trại và kể những câu chuyện kinh dị về việc lấy lại chiếc mũi không thẩm mỹ của chúng</li>
+    <li>subject_gerund >chế tạo sinh học thẩm mỹ</li>-->
   <FleshShaping.generalRules.rulesStrings>TODO</FleshShaping.generalRules.rulesStrings>
-  
   <!-- EN: healing factors -->
   <HealingFactors.label>yếu tố chữa bệnh</HealingFactors.label>
   <!-- EN: Craft bionics that enhance natural healing processes. -->
   <HealingFactors.description>Công nghệ sinh học thủ công giúp tăng cường quá trình chữa bệnh tự nhiên.</HealingFactors.description>
-  <!-- EN:
-    <li>subject->healing bionics</li>
+  <!--EN: <li>subject->healing bionics</li>
     <li>subject_story->studied the Imperial royalty, to see if they had blue blood. They did not, but it did coagulate implausibly quickly</li>
     <li>subject_story->ensured that all the pit fighters had Healing Enhancers and appropriate xenogerms, so that they could fight more often</li>
     <li>subject_story->studied the ancient corpses found in a cryptosleep shrine and harvested rapid healing devices from them</li>
-    <li>subject_gerund->crafting regeneration bionics</li>
-  -->
+    <li>subject_gerund->crafting regeneration bionics</li>-->
+  <!--VI: <li>Bionics > chữa bệnh chủ đề</li>
+    <li>subject_story-> nghiên cứu hoàng gia Hoàng gia, để xem họ có máu xanh hay không. Họ đã không, nhưng nó đã đông lại nhanh chóng một cách không thể tin được</li>
+    <li>subject_story > đảm bảo rằng tất cả các chiến binh hầm hố đều có Thuốc tăng cường chữa bệnh và xenogerms thích hợp, để họ có thể chiến đấu thường xuyên hơn</li>
+    <li>subject_story > nghiên cứu các xác chết cổ đại được tìm thấy trong một ngôi đền cryptosleep và thu hoạch các thiết bị chữa bệnh nhanh chóng từ chúng</li>
+    <li>subject_gerund chế tạo > sinh học tái tạo</li>-->
   <HealingFactors.generalRules.rulesStrings>TODO</HealingFactors.generalRules.rulesStrings>
-  
   <!-- EN: molecular analysis -->
   <MolecularAnalysis.label>phân tích phân tử</MolecularAnalysis.label>
   <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
   <MolecularAnalysis.description>Chế tạo công nghệ sinh học với máy phân tích phân tử để hỗ trợ hệ thống miễn dịch hoặc phân tích thực phẩm.</MolecularAnalysis.description>
-  <!-- EN:
-    <li>subject->molecular analysis bionics</li>
+  <!--EN: <li>subject->molecular analysis bionics</li>
     <li>subject_story->explained to the chefs of the cooking school that they must never get aesthetic noses, lest their gastro-analyzers fail</li>
     <li>subject_story->had an immunoenhancer installed and so was able to walk freely in the isolation colony</li>
     <li>subject_story->lectured on the potential hardware conflicts between bionic parts and molecular analysis implants</li>
-    <li>subject_gerund->crafting molecular analysis bionics</li>
-  -->
+    <li>subject_gerund->crafting molecular analysis bionics</li>-->
+  <!--VI: Phân <li>tích phân > phân tử đối tượng sinh học</li>
+    <li>subject_story->giải thích với các đầu bếp của trường dạy nấu ăn rằng họ không bao giờ được có mũi thẩm mỹ, kẻo máy phân tích dạ dày của họ bị hỏng</li>
+    <li>subject_story-> đã lắp đặt một chất tăng cường miễn dịch và do đó có thể đi lại tự do trong thuộc địa cách ly</li>
+    <li>subject_story-> giảng về xung đột phần cứng tiềm ẩn giữa các bộ phận sinh học và cấy ghép phân tích phân tử</li>
+    <li>subject_gerund->chế tạo phân tử sinh học phân tích</li>-->
   <MolecularAnalysis.generalRules.rulesStrings>TODO</MolecularAnalysis.generalRules.rulesStrings>
-  
   <!-- EN: neural computation -->
   <NeuralComputation.label>máy tính thần kinh</NeuralComputation.label>
   <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
   <NeuralComputation.description>Chế tạo công nghệ cấy ghép não hỗ trợ suy nghĩ và học tập bằng cách sử dụng giao diện não-máy tính, trực tiếp.</NeuralComputation.description>
-  <!-- EN:
-    <li>subject->brain implants</li>
+  <!--EN: <li>subject->brain implants</li>
     <li>subject->neural computation</li>
     <li>subject_story->knew exactly how to take out the jailor, with an EMP attack that would brain shock their learning assistant, buying time to free the prisoners</li>
     <li>subject_story->mandated the installation of learning assistants or neurocalculators through the entire faculty</li>
     <li>subject_story->had a learning assistant installed. It proved to be a problem later, when captured by pirates, who halted any escape attempts with EMP attacks</li>
-    <li>subject_gerund->crafting brain implants</li>
-  -->
+    <li>subject_gerund->crafting brain implants</li>-->
+  <!--VI: <li>Cấy ghép đối tượng > não</li>
+    <li>tính toán thần kinh > đối tượng</li>
+    <li>subject_story > biết chính xác cách hạ gục cai ngục, với một cuộc tấn công EMP sẽ gây sốc não cho trợ lý học tập của họ, câu giờ để giải thoát các tù nhân</li>
+    <li>subject_story-> bắt buộc lắp đặt các trợ lý học tập hoặc máy tính thần kinh thông qua toàn bộ khoa</li>
+    <li>subject_story-> đã cài đặt một trợ lý học tập. Nó đã được chứng minh là một vấn đề sau đó, khi bị cướp biển bắt, những người đã ngăn chặn mọi nỗ lực trốn thoát bằng các cuộc tấn công EMP</li>
+    <li>Cấy ghép não subject_gerund > chế tạo</li>-->
   <NeuralComputation.generalRules.rulesStrings>TODO</NeuralComputation.generalRules.rulesStrings>
-  
   <!-- EN: skin hardening -->
   <SkinHardening.label>làm cứng da</SkinHardening.label>
   <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
   <SkinHardening.description>Chế tạo vật liêu sinh học giúp tạo độ cứng cho da tự nhiên, tạo ra hiệu ứng giống như áo giáp.</SkinHardening.description>
-  <!-- EN:
-    <li>subject->subdermal implants</li>
+  <!--EN: <li>subject->subdermal implants</li>
     <li>subject_story->researched the glands of the barkskin dryads and reasoned they could be adapted to humanity</li>
     <li>subject_story->traveled among the stoneskin tamers of the dinoworld, studying the thick keratin plates that covered them</li>
     <li>subject_story->worked with nanonmachine glands to thicken the human epidermis, at the expense of meeting traditional standards of beauty</li>
-    <li>subject_gerund->crafting subdermal armor implants</li>
-  -->
+    <li>subject_gerund->crafting subdermal armor implants</li>-->
+  <!--VI: <li>Cấy ghép dưới da đối tượng ></li>
+    <li>subject_story-> nghiên cứu các tuyến của dryad da vỏ cây và lý luận rằng chúng có thể thích nghi với loài người</li>
+    <li>subject_story-> du hành giữa những người thuần hóa da đá của thế giới khủng long, nghiên cứu các tấm keratin dày bao phủ chúng</li>
+    <li>subject_story-> làm việc với các tuyến nanonmachine để làm dày lớp biểu bì của con người, với cái giá phải trả là đáp ứng các tiêu chuẩn truyền thống về vẻ đẹp</li>
+    <li>Cấy ghép áo giáp dưới da subject_gerund > chế tạo</li>-->
   <SkinHardening.generalRules.rulesStrings>TODO</SkinHardening.generalRules.rulesStrings>
-  
   <!-- EN: specialized limbs -->
   <SpecializedLimbs.label>chuyên ngành chân tay</SpecializedLimbs.label>
   <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
   <SpecializedLimbs.description>Chế tạo các chi sinh học chuyên dụng được chế tạo cho các mục đích cụ thể - cả chiến đấu và lao động.</SpecializedLimbs.description>
-  <!-- EN:
-    <li>subject->specialized prosthetics</li>
+  <!--EN: <li>subject->specialized prosthetics</li>
     <li>subject_story->interviewed the indentured farmers of a feudal world, before and after their field hand installations</li>
     <li>subject_story->watched a pit fighter equipped with a power claw face off against a miner with two drill arms</li>
     <li>subject_story->worked as a surgeon on the rim, replacing missing arms with everything from a woodhand to a power claw</li>
-    <li>subject_gerund->crafting specialized bionic arms</li>
-  -->
+    <li>subject_gerund->crafting specialized bionic arms</li>-->
+  <!--VI: bộ <li>phận giả > chuyên ngành</li>
+    <li>subject_story-> phỏng vấn những người nông dân theo hợp đồng của một thế giới phong kiến, trước và sau khi họ lắp đặt bằng tay trên đồng ruộng</li>
+    <li>subject_story-> xem một máy bay chiến đấu được trang bị móng vuốt điện đối đầu với một thợ mỏ có hai cánh tay khoan</li>
+    <li>subject_story-> làm bác sĩ phẫu thuật trên vành đai, thay thế cánh tay bị mất bằng mọi thứ từ tay gỗ đến móng vuốt quyền lực</li>
+    <li>subject_gerund->chế tạo cánh tay sinh học chuyên dụng</li>-->
   <SpecializedLimbs.generalRules.rulesStrings>TODO</SpecializedLimbs.generalRules.rulesStrings>
-  
   <!-- EN: poison synthesis -->
   <VenomSynthesis.label>tổng hợp chất độc</VenomSynthesis.label>
   <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
   <VenomSynthesis.description>Chế tạo các thiết bị sinh học tổng hợp nọc độc từ các lò phản ứng hóa học bên trong để sử dụng trong các cuộc tấn công bằng chất độc.</VenomSynthesis.description>
-  <!-- EN:
-    <li>subject->venomous bionics</li>
+  <!--EN: <li>subject->venomous bionics</li>
     <li>subject_story->worked on chemical reactors at small scales, which could be shrunk and stored internally</li>
     <li>subject_story->studied the waste rats of a trash world and wrote a paper on the unique toxins in their bite</li>
     <li>subject_story->learned to love sharp little cutting edges, which could kill with a mere nick</li>
-    <li>subject_gerund->crafting poisonous bionic weapons</li>
-  -->
+    <li>subject_gerund->crafting poisonous bionic weapons</li>-->
+  <!--VI: sinh <li>học đối tượng > nọc độc</li>
+    <li>subject_story > làm việc trên các lò phản ứng hóa học ở quy mô nhỏ, có thể thu nhỏ và lưu trữ bên trong</li>
+    <li>subject_story > nghiên cứu những con chuột rác thải trong thế giới rác và viết một bài báo về các chất độc độc đáo trong vết cắn của chúng</li>
+    <li>subject_story > học cách yêu thích những lưỡi cắt nhỏ sắc bén, có thể giết chết chỉ với một vết cắt</li>
+    <li>subject_gerund->chế tạo vũ khí sinh học độc hại</li>-->
   <VenomSynthesis.generalRules.rulesStrings>TODO</VenomSynthesis.generalRules.rulesStrings>
-  
 </LanguageData>

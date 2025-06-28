@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- EN: Ideoligion forbids -->
   <IdeoligionForbids>Cấm tín ngưỡng</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
   <OnlyMembersCanBuild>Chỉ {0} có thể xây dựng</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} đang được tiến hành.</CantStartRitualAlreadyInProgress>
-  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <!--EN: {RITUAL} cannot be performed {GERUND} {LAYER}.-->
+  <!--VI: {RITUAL} không thể thực hiện {GERUND} {LAYER}.-->
   <CantStartRitualLayer>TODO</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>Một hoặc nhiều người tham gia không thể tham gia do nhiệt độ quá cao.</CantJoinRitualInExtremeWeather>
@@ -37,7 +37,6 @@
   <ReturnToSlaveBed>Trả lại giường nô lệ</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>không được phép cho phe phái</NotAllowedForFaction>
-
   <!-- EN: Remove precept -->
   <RemovePrecept>Loại bỏ luật</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -82,7 +81,6 @@
   <NeuralSuperchargeAlreadyGetting>đã nhận được</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
   <SetApparelType>Thiết lập kiểu</SetApparelType>
-
   <!-- EN: change style -->
   <ChangeStyle>thay đổi phong cách</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
@@ -101,7 +99,6 @@
   <IdeoAlreadyHasAltar>chỉ có thể có một bệ thờ/tín ngưỡng</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>trang phục tái tạo màu</RecolorApparel>
-
   <!-- EN: Install {0} -->
   <InstallRelic>Thiết lập {0}</InstallRelic>
   <!-- EN: Extract {0} -->
@@ -114,13 +111,10 @@
   <InstallInReliquary>Thiết lập trong nhà thờ</InstallInReliquary>
   <!-- EN: no empty accessible reliquary -->
   <NoEmptyReliquary>không có câu trả lời nào có thể truy cập được</NoEmptyReliquary>
-
   <!-- EN: No {MEMBERNAME} warden -->
   <NoWardenOfIdeo>Không có quản giáo {MEMBERNAME}</NoWardenOfIdeo>
-
   <!-- EN: Remove current role -->
   <RemoveCurrentRole>Xóa vai trò hiện tại</RemoveCurrentRole>
-
   <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
   <EnterBiosculpterPod>Thêm kén sinh học đa năng cho {0} chu kỳ ({1})</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->

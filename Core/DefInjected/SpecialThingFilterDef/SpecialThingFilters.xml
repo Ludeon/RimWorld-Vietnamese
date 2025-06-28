@@ -1,170 +1,156 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: allow adult-only apparel -->
   <AllowAdultOnlyApparel.label>TODO</AllowAdultOnlyApparel.label>
   <!-- EN: Allow clothing that can only be worn by adults. -->
   <AllowAdultOnlyApparel.description>TODO</AllowAdultOnlyApparel.description>
-  
   <!-- EN: allow biocoded apparel -->
   <AllowBiocodedApparel.label>cho phép trang phục sinh học</AllowBiocodedApparel.label>
-  
   <!-- EN: allow biocoded weapons -->
   <AllowBiocodedWeapons.label>cho phép vũ khí sinh học</AllowBiocodedWeapons.label>
-  
   <!-- EN: animals -->
   <AllowBookAnimals.label>TODO</AllowBookAnimals.label>
   <!-- EN: Allow books which teach animal-related skills. -->
   <AllowBookAnimals.description>TODO</AllowBookAnimals.description>
-  
   <!-- EN: artistic -->
   <AllowBookArtistic.label>TODO</AllowBookArtistic.label>
   <!-- EN: Allow books which teach art skills. -->
   <AllowBookArtistic.description>TODO</AllowBookArtistic.description>
-  
   <!-- EN: construction -->
   <AllowBookConstruction.label>TODO</AllowBookConstruction.label>
-  <!-- EN: Allow books which teach construction skills. -->
+  <!--EN: Allow books which teach construction skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng xây dựng.-->
   <AllowBookConstruction.description>TODO</AllowBookConstruction.description>
-  
-  <!-- EN: cooking -->
+  <!--EN: cooking-->
+  <!--VI: Nấu ăn-->
   <AllowBookCooking.label>TODO</AllowBookCooking.label>
-  <!-- EN: Allow books which teach cooking skills. -->
+  <!--EN: Allow books which teach cooking skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng nấu ăn.-->
   <AllowBookCooking.description>TODO</AllowBookCooking.description>
-  
-  <!-- EN: crafting -->
+  <!--EN: crafting-->
+  <!--VI: Crafting-->
   <AllowBookCrafting.label>TODO</AllowBookCrafting.label>
-  <!-- EN: Allow books which teach crafting skills. -->
+  <!--EN: Allow books which teach crafting skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng chế tạo.-->
   <AllowBookCrafting.description>TODO</AllowBookCrafting.description>
-  
-  <!-- EN: intellectual -->
+  <!--EN: intellectual-->
+  <!--VI: Trí tuệ-->
   <AllowBookIntellectual.label>TODO</AllowBookIntellectual.label>
-  <!-- EN: Allow books which teach intellectual skills. -->
+  <!--EN: Allow books which teach intellectual skills.-->
+  <!--VI: Cho phép sách dạy các kỹ năng trí tuệ.-->
   <AllowBookIntellectual.description>TODO</AllowBookIntellectual.description>
-  
-  <!-- EN: medical -->
+  <!--EN: medical-->
+  <!--VI: y-->
   <AllowBookMedicine.label>TODO</AllowBookMedicine.label>
-  <!-- EN: Allow books which teach medical skills. -->
+  <!--EN: Allow books which teach medical skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng y tế.-->
   <AllowBookMedicine.description>TODO</AllowBookMedicine.description>
-  
-  <!-- EN: melee -->
+  <!--EN: melee-->
+  <!--VI: Melee-->
   <AllowBookMelee.label>TODO</AllowBookMelee.label>
-  <!-- EN: Allow books which teach melee skills. -->
+  <!--EN: Allow books which teach melee skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng cận chiến.-->
   <AllowBookMelee.description>TODO</AllowBookMelee.description>
-  
-  <!-- EN: mining -->
+  <!--EN: mining-->
+  <!--VI: Khai thác mỏ-->
   <AllowBookMining.label>TODO</AllowBookMining.label>
-  <!-- EN: Allow books which teach mining skills. -->
+  <!--EN: Allow books which teach mining skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng khai thác.-->
   <AllowBookMining.description>TODO</AllowBookMining.description>
-  
-  <!-- EN: plants -->
+  <!--EN: plants-->
+  <!--VI: thực vật-->
   <AllowBookPlants.label>TODO</AllowBookPlants.label>
-  <!-- EN: Allow books which teach plant-related skills. -->
+  <!--EN: Allow books which teach plant-related skills.-->
+  <!--VI: Cho phép sách dạy các kỹ năng liên quan đến thực vật.-->
   <AllowBookPlants.description>TODO</AllowBookPlants.description>
-  
-  <!-- EN: shooting -->
+  <!--EN: shooting-->
+  <!--VI: bắn súng-->
   <AllowBookShooting.label>TODO</AllowBookShooting.label>
-  <!-- EN: Allow books which teach shooting skills. -->
+  <!--EN: Allow books which teach shooting skills.-->
+  <!--VI: Cho phép sách dạy kỹ năng bắn súng.-->
   <AllowBookShooting.description>TODO</AllowBookShooting.description>
-  
-  <!-- EN: social -->
+  <!--EN: social-->
+  <!--VI: xã hội-->
   <AllowBookSocial.label>TODO</AllowBookSocial.label>
-  <!-- EN: Allow books which teach social skills. -->
+  <!--EN: Allow books which teach social skills.-->
+  <!--VI: Cho phép sách dạy các kỹ năng xã hội.-->
   <AllowBookSocial.description>TODO</AllowBookSocial.description>
-  
   <!-- EN: allow burnable -->
   <AllowBurnableApparel.label>cho phép vật nóng chảy</AllowBurnableApparel.label>
-  
   <!-- EN: allow burnable -->
   <AllowBurnableWeapons.label>cho phép vật nóng chảy</AllowBurnableWeapons.label>
-  
-  <!-- EN: allow child-only apparel -->
+  <!--EN: allow child-only apparel-->
+  <!--VI: Cho phép trang phục chỉ dành cho trẻ em-->
   <AllowChildOnlyApparel.label>TODO</AllowChildOnlyApparel.label>
-  <!-- EN: Allow clothing that can only be worn by children. -->
+  <!--EN: Allow clothing that can only be worn by children.-->
+  <!--VI: Cho phép quần áo chỉ trẻ em mới có thể mặc.-->
   <AllowChildOnlyApparel.description>TODO</AllowChildOnlyApparel.description>
-  
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>cho phép xác của cư dân</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Cho phép xác chết của tất cả cư dân.</AllowCorpsesColonist.description>
-  
   <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>cho phép xác của người lạ</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Cho phép tất cả xác của người ngoài thị trấn (kẻ địch và người lạ).</AllowCorpsesStranger.description>
-  
   <!-- EN: allow tainted apparel -->
   <AllowDeadmansApparel.label>cho phép đồ hư</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>Cho phép trang phục từng được mặc bởi người chết. Nhiều người cho rằng đồ mặc bởi người chết rất ghê tởm và thương buôn cũng chẳng màn tới nó.</AllowDeadmansApparel.description>
-  
   <!-- EN: allow females -->
   <AllowFemaleGender.label>cho phép nữ</AllowFemaleGender.label>
   <!-- EN: Allow female individuals. -->
   <AllowFemaleGender.description>Cho phép các cá thể nữ</AllowFemaleGender.description>
-  
   <!-- EN: allow fresh -->
   <AllowFresh.label>cho phép đồ tươi</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Cho phép đồ tươi sống.</AllowFresh.description>
-  
   <!-- EN: allow large corpses -->
   <AllowLargeCorpses.label>cho phép xác chết lớn</AllowLargeCorpses.label>
   <!-- EN: Allow large, dead bodies. -->
   <AllowLargeCorpses.description>Cho phép xác chết lớn.</AllowLargeCorpses.description>
-  
-  <!-- EN: normal research -->
+  <!--EN: normal research-->
+  <!--VI: Nghiên cứu bình thường-->
   <AllowMainResearch.label>TODO</AllowMainResearch.label>
-  <!-- EN: Allow books which advance research of normal research projects. -->
+  <!--EN: Allow books which advance research of normal research projects.-->
+  <!--VI: Cho phép sách thúc đẩy nghiên cứu của các dự án nghiên cứu thông thường.-->
   <AllowMainResearch.description>TODO</AllowMainResearch.description>
-  
   <!-- EN: allow males -->
   <AllowMaleGender.label>cho phép nam</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->
   <AllowMaleGender.description>Cho phép các cá thể nam</AllowMaleGender.description>
-  
   <!-- EN: allow non-biocoded apparel -->
   <AllowNonBiocodedApparel.label>cho phép không phải trang phục sinh học</AllowNonBiocodedApparel.label>
-  
   <!-- EN: allow non-biocoded weapons -->
   <AllowNonBiocodedWeapons.label>cho phép không phải vũ khí sinh học</AllowNonBiocodedWeapons.label>
-  
   <!-- EN: allow non-burnable -->
   <AllowNonBurnableApparel.label>cho phép vật không nóng chảy</AllowNonBurnableApparel.label>
-  
   <!-- EN: allow non-burnable -->
   <AllowNonBurnableWeapons.label>cho phép vật không nóng chảy</AllowNonBurnableWeapons.label>
-  
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>cho phép đồ sạch</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowNonDeadmansApparel.description>Cho phép đồ chưa từng mặc bởi xác chết. Nhiều người cho rằng đồ mặc bởi người chết rất ghê tởm và thương buôn cũng chẳng màn tới nó.</AllowNonDeadmansApparel.description>
-  
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableApparel.label>cho phép vật không nóng chảy</AllowNonSmeltableApparel.label>
-  
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>cho phép vật không nóng chảy</AllowNonSmeltableWeapons.label>
-  
   <!-- EN: allow plant food -->
   <AllowPlantFood.label>cho phép tất cả thực phẩm tươi</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
   <AllowPlantFood.description>Cho phép tất cả thức ăn thuộc dạng chưa sơ chế như rơm rạ,...</AllowPlantFood.description>
-  
   <!-- EN: allow rotten -->
   <AllowRotten.label>cho phép thối rữa</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
   <AllowRotten.description>Cho phép vật hữu cơ đã bắt đầu thối rữa.</AllowRotten.description>
-  
   <!-- EN: allow smeltable -->
   <AllowSmeltable.label>cho phép vật nóng chảy</AllowSmeltable.label>
-  
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>cho phép vật nóng chảy</AllowSmeltableApparel.label>
-  
-  <!-- EN: allow unfinished -->
+  <!--EN: allow unfinished-->
+  <!--VI: Cho phép chưa hoàn thành-->
   <AllowUnfinished.label>TODO</AllowUnfinished.label>
-  <!-- EN: Allow unfinished items. -->
+  <!--EN: Allow unfinished items.-->
+  <!--VI: Cho phép các mặt hàng chưa hoàn thành.-->
   <AllowUnfinished.description>TODO</AllowUnfinished.description>
-  
 </LanguageData>

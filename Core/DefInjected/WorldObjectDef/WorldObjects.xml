@@ -1,65 +1,59 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN: abandoned camp -->
+  <!--EN: abandoned camp-->
+  <!--VI: trại bỏ hoang-->
   <AbandonedCamp.label>TODO</AbandonedCamp.label>
-  <!-- EN: An abandoned camp. -->
+  <!--EN: An abandoned camp.-->
+  <!--VI: Một trại bỏ hoang.-->
   <AbandonedCamp.description>TODO</AbandonedCamp.description>
-  
   <!-- EN: abandoned settlement -->
   <AbandonedSettlement.label>thị trấn hoang</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
   <AbandonedSettlement.description>Một thị trấn bị bỏ hoang</AbandonedSettlement.description>
-  
   <!-- EN: attacked caravan -->
   <AttackedNonPlayerCaravan.label>lữ đoàn bị tấn công</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
   <AttackedNonPlayerCaravan.description>Một đoàn lữ hành đang bị tấn công.</AttackedNonPlayerCaravan.description>
-  
-  <!-- EN: camp -->
+  <!--EN: camp-->
+  <!--VI: trại-->
   <Camp.label>TODO</Camp.label>
-  <!-- EN: A caravan has set up camp here temporarily. -->
+  <!--EN: A caravan has set up camp here temporarily.-->
+  <!--VI: Một đoàn lữ hành đã dựng trại tạm thời ở đây.-->
   <Camp.description>TODO</Camp.description>
-  
   <!-- EN: caravan -->
   <Caravan.label>đoàn lữ hành</Caravan.label>
   <!-- EN: A group of traveling people. -->
   <Caravan.description>Một nhóm người đang di chuyển.</Caravan.description>
-  
   <!-- EN: destroyed settlement -->
   <DestroyedSettlement.label>thị trấn phá hủy</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
   <DestroyedSettlement.description>Những gì còn sót lại của một thị trấn bị tấn công.</DestroyedSettlement.description>
-  
   <!-- EN: landed ship -->
   <EscapeShip.label>phi thuyền ẩn</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
   <EscapeShip.description>Địa điểm của chiếc phi thuyền có thể đưa bạn ra khỏi hành tinh này.</EscapeShip.description>
-  
   <!-- EN: peace talks -->
   <PeaceTalks.label>đối thoại hòa bình</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
   <PeaceTalks.description>Điểm đối thoại hòa bình</PeaceTalks.description>
-  
-  <!-- EN: pocket map -->
+  <!--EN: pocket map-->
+  <!--VI: Bản đồ bỏ túi-->
   <PocketMap.label>TODO</PocketMap.label>
-  
   <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>điểm đến</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
   <RoutePlannerWaypoint.description>Một điểm đến tạm thời</RoutePlannerWaypoint.description>
-  
   <!-- EN: settlement -->
   <Settlement.label>thị trấn</Settlement.label>
   <!-- EN: A base of one of the factions. -->
   <Settlement.description>Thị trấn của một băng nhóm.</Settlement.description>
-  
-  <!-- EN: site -->
+  <!--EN: site-->
+  <!--VI: site-->
   <Site.label>TODO</Site.label>
-  
-  <!-- EN: transport pods -->
+  <!--EN: transport pods-->
+  <!--VI: Pod vận chuyển-->
   <TravellingTransporters.label>TODO</TravellingTransporters.label>
-  <!-- EN: Transport pods in flight. -->
+  <!--EN: Transport pods in flight.-->
+  <!--VI: Vận chuyển vỏ trên chuyến bay.-->
   <TravellingTransporters.description>TODO</TravellingTransporters.description>
-  
 </LanguageData>

@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: acid burn -->
   <AcidBurn.label>bỏng axit</AcidBurn.label>
   <!-- EN: An acid burn. -->
@@ -13,7 +12,6 @@
   <AcidBurn.labelNoun>Bỏng axit</AcidBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <AcidBurn.labelNounPretty>{0} trong {1}</AcidBurn.labelNounPretty>
-  
   <!-- EN: beam burn -->
   <BeamWound.label>đốt chùm</BeamWound.label>
   <!-- EN: A beam burn. -->
@@ -30,7 +28,6 @@
   <BeamWound.labelNoun>một vết bỏng chùm</BeamWound.labelNoun>
   <!-- EN: {0} in the {1} -->
   <BeamWound.labelNounPretty>{0} trong {1}</BeamWound.labelNounPretty>
-  
   <!-- EN: bite -->
   <Bite.label>Cắn</Bite.label>
   <!-- EN: A bite wound. -->
@@ -51,7 +48,6 @@
   <Bite.labelNoun>vết thương bị cắn</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bite.labelNounPretty>{0} bên trong {1}</Bite.labelNounPretty>
-  
   <!-- EN: bruise -->
   <Bruise.label>bầm</Bruise.label>
   <!-- EN: A bruise. -->
@@ -68,7 +64,6 @@
   <Bruise.labelNoun>một vết bầm</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bruise.labelNounPretty>{0} bên trong {1}</Bruise.labelNounPretty>
-  
   <!-- EN: burn -->
   <Burn.label>bỏng</Burn.label>
   <!-- EN: A burn. -->
@@ -89,7 +84,6 @@
   <Burn.labelNoun>một vết bỏng</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Burn.labelNounPretty>{0} bên trong {1}</Burn.labelNounPretty>
-  
   <!-- EN: chemical burn -->
   <ChemicalBurn.label>bỏng hóa chất</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
@@ -104,7 +98,6 @@
   <ChemicalBurn.labelNoun>một vết bỏng hóa chất</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <ChemicalBurn.labelNounPretty>{0} bên trong {1}</ChemicalBurn.labelNounPretty>
-  
   <!-- EN: crack -->
   <Crack.label>nứt</Crack.label>
   <!-- EN: A crack. -->
@@ -123,7 +116,6 @@
   <Crack.labelNoun>một vết thương nứt gãy</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crack.labelNounPretty>{0} bên trong {1}</Crack.labelNounPretty>
-  
   <!-- EN: crush -->
   <Crush.label>dập</Crush.label>
   <!-- EN: A crushing wound. -->
@@ -142,7 +134,6 @@
   <Crush.labelNoun>một vết thương dập nát</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crush.labelNounPretty>{0} bên trong {1}</Crush.labelNounPretty>
-  
   <!-- EN: cut -->
   <Cut.label>cắt</Cut.label>
   <!-- EN: A cut. -->
@@ -163,31 +154,39 @@
   <Cut.labelNoun>một vết cắt</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{0} bên trong {1}</Cut.labelNounPretty>
-  
-  <!-- EN: decayed organ -->
+  <!--EN: decayed organ-->
+  <!--VI: cơ quan thối rữa-->
   <Decayed.label>TODO</Decayed.label>
-  <!-- EN: This organ has completely decayed. -->
+  <!--EN: This organ has completely decayed.-->
+  <!--VI: Cơ quan này đã hoàn toàn phân hủy.-->
   <Decayed.description>TODO</Decayed.description>
-  <!-- EN: a decayed organ -->
+  <!--EN: a decayed organ-->
+  <!--VI: một cơ quan thối rữa-->
   <Decayed.labelNoun>TODO</Decayed.labelNoun>
-  <!-- EN: decayed {1} -->
+  <!--EN: decayed {1}-->
+  <!--VI: {1} mục nát-->
   <Decayed.labelNounPretty>TODO</Decayed.labelNounPretty>
-  
-  <!-- EN: electrical burn -->
+  <!--EN: electrical burn-->
+  <!--VI: bỏng điện-->
   <ElectricalBurn.label>TODO</ElectricalBurn.label>
-  <!-- EN: An electical burn. -->
+  <!--EN: An electical burn.-->
+  <!--VI: Một vết bỏng điện tử.-->
   <ElectricalBurn.description>TODO</ElectricalBurn.description>
-  <!-- EN: electrical burn scar -->
+  <!--EN: electrical burn scar-->
+  <!--VI: sẹo bỏng điện-->
   <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
-  <!-- EN: Burned off -->
+  <!--EN: Burned off-->
+  <!--VI: Bị đốt cháy-->
   <ElectricalBurn.injuryProps.destroyedLabel>TODO</ElectricalBurn.injuryProps.destroyedLabel>
-  <!-- EN: Burned out -->
+  <!--EN: Burned out-->
+  <!--VI: Kiệt sức-->
   <ElectricalBurn.injuryProps.destroyedOutLabel>TODO</ElectricalBurn.injuryProps.destroyedOutLabel>
-  <!-- EN: an electrical burn -->
+  <!--EN: an electrical burn-->
+  <!--VI: bỏng điện-->
   <ElectricalBurn.labelNoun>TODO</ElectricalBurn.labelNoun>
-  <!-- EN: {0} in the {1} -->
+  <!--EN: {0} in the {1}-->
+  <!--VI: {0} trong {1}-->
   <ElectricalBurn.labelNounPretty>TODO</ElectricalBurn.labelNounPretty>
-  
   <!-- EN: cut -->
   <ExecutionCut.label>cắt</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
@@ -200,7 +199,6 @@
   <ExecutionCut.labelNoun>một vết cắt</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <ExecutionCut.labelNounPretty>{0} bên trong {1}</ExecutionCut.labelNounPretty>
-  
   <!-- EN: frostbite -->
   <Frostbite.label>tê cóng</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
@@ -217,7 +215,6 @@
   <Frostbite.injuryProps.destroyedLabel>Mất do tê cóng</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
   <Frostbite.labelNounPretty>{0} bên trong {1}</Frostbite.labelNounPretty>
-  
   <!-- EN: gunshot -->
   <Gunshot.label>trúng đạn</Gunshot.label>
   <!-- EN: A gunshot wound. -->
@@ -240,7 +237,6 @@
   <Gunshot.labelNoun>một vết thương do đạn bắn</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Gunshot.labelNounPretty>{0} bên trong {1}</Gunshot.labelNounPretty>
-  
   <!-- EN: wound -->
   <Misc.label>chấn thương</Misc.label>
   <!-- EN: Miscellaneous injuries. -->
@@ -259,7 +255,6 @@
   <Misc.labelNoun>một chấn thương</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Misc.labelNounPretty>{0} bên trong {1}</Misc.labelNounPretty>
-  
   <!-- EN: missing body part -->
   <MissingBodyPart.label>mất một phần cơ thể</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
@@ -268,7 +263,6 @@
   <MissingBodyPart.labelNoun>bị mất một phần cơ thể</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
   <MissingBodyPart.labelNounPretty>thiếu một {1}</MissingBodyPart.labelNounPretty>
-  
   <!-- EN: scratch -->
   <Scratch.label>Cào</Scratch.label>
   <!-- EN: A scratch or tear. -->
@@ -289,7 +283,6 @@
   <Scratch.labelNoun>một vết cào</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Scratch.labelNounPretty>{0} bên trong {1}</Scratch.labelNounPretty>
-  
   <!-- EN: shredded -->
   <Shredded.label>băm nhỏ</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
@@ -310,7 +303,6 @@
   <Shredded.labelNoun>một vết thương vụn</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>{0} bên trong {1}</Shredded.labelNounPretty>
-  
   <!-- EN: stab -->
   <Stab.label>đâm</Stab.label>
   <!-- EN: A stab wound. -->
@@ -331,7 +323,6 @@
   <Stab.labelNoun>một vết đâm</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Stab.labelNounPretty>{0} bên trong {1}</Stab.labelNounPretty>
-  
   <!-- EN: surgical cut -->
   <SurgicalCut.label>phẫu thuật cắt</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
@@ -348,5 +339,4 @@
   <SurgicalCut.labelNoun>một vết cắt phẫu thuật</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <SurgicalCut.labelNounPretty>{0} bên trong {1}</SurgicalCut.labelNounPretty>
-  
 </LanguageData>
