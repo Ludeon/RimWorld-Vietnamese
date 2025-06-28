@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: abandoned camp -->
+  <AbandonedCamp.label>TODO</AbandonedCamp.label>
+  <!-- EN: An abandoned camp. -->
+  <AbandonedCamp.description>TODO</AbandonedCamp.description>
+  
   <!-- EN: abandoned settlement -->
   <AbandonedSettlement.label>thị trấn hoang</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
@@ -10,6 +15,11 @@
   <AttackedNonPlayerCaravan.label>lữ đoàn bị tấn công</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
   <AttackedNonPlayerCaravan.description>Một đoàn lữ hành đang bị tấn công.</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: camp -->
+  <Camp.label>TODO</Camp.label>
+  <!-- EN: A caravan has set up camp here temporarily. -->
+  <Camp.description>TODO</Camp.description>
   
   <!-- EN: caravan -->
   <Caravan.label>đoàn lữ hành</Caravan.label>
@@ -44,9 +54,12 @@
   <!-- EN: A base of one of the factions. -->
   <Settlement.description>Thị trấn của một băng nhóm.</Settlement.description>
   
+  <!-- EN: site -->
+  <Site.label>TODO</Site.label>
+  
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>kén vận chuyển</TravelingTransportPods.label>
+  <TravellingTransporters.label>TODO</TravellingTransporters.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>Kén dùng trong vận chuyển.</TravelingTransportPods.description>
+  <TravellingTransporters.description>TODO</TravellingTransporters.description>
   
 </LanguageData>

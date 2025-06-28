@@ -7,6 +7,8 @@
   <OutlanderCivil.description>Những người này đã sống ở đây trong nhiều thập kỷ hoặc thế kỷ, và đã mất hầu hết công nghệ đưa họ đến thế giới này. Họ thường làm việc với các máy móc đơn giản và tự vệ bằng vũ khí tiên tiến.\n\nHọ quan tâm đến các vấn đề thực tế về giao dịch, kỳ vọng và sinh tồn.\n\nNhóm đặc biệt này rất coi trọng hành vi dân sự.</OutlanderCivil.description>
   <!-- EN: prime councilor -->
   <OutlanderCivil.leaderTitle>ủy viên hội đồng</OutlanderCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderCivil.messageDefendersAttacking>TODO</OutlanderCivil.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderCivil.pawnSingular>người ngoại quốc</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
@@ -18,6 +20,8 @@
   <OutlanderRough.description>Những người này đã sống ở đây trong nhiều thập kỷ hoặc thế kỷ, và đã mất hầu hết công nghệ đưa họ đến thế giới này. Họ thường làm việc với máy móc đơn giản và tự vệ bằng súng ống tiên tiến.\n\nHọ quan tâm đến các vấn đề thực tế về thương mại, niềm tin và sự sống còn.\n\nNhóm đặc biệt này có một sự man rợ trong đó.</OutlanderRough.description>
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>ủy viên hội đồng</OutlanderRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRough.messageDefendersAttacking>TODO</OutlanderRough.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderRough.pawnSingular>người ngoại quốc</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
@@ -29,6 +33,8 @@
   <Pirate.description>Một liên minh lỏng lẻo của các băng đảng cướp biển, những người đã đồng ý chiến đấu với người ngoài thay vì chiến đấu với nhau.\n\nCướp biển không gieo trồng, họ không xây dựng, và họ hiếm khi giao dịch. Được thúc đẩy bởi một nền văn hóa máu lửa và danh dự, coi trọng sức mạnh cá nhân và sự tàn bạo, họ làm giàu bằng cách đột kích và cướp đi những người hàng xóm năng suất hơn họ.\n\nTrình độ công nghệ của họ phụ thuộc chủ yếu vào người mà họ đã đánh cắp gần đây. Chủ yếu là họ mang theo vũ khí thuốc súng, mặc dù một số người thích đâm nạn nhân ở cự ly gần.</Pirate.description>
   <!-- EN: boss -->
   <Pirate.leaderTitle>trùm</Pirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pirate.messageDefendersAttacking>TODO</Pirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>tên cướp</Pirate.pawnSingular>
   <!-- EN: pirates -->
@@ -40,6 +46,8 @@
   <TribeCivil.description>Những người này đã ở đây rất lâu. Có thể tổ tiên của họ đã bị rơi ở đây một ngàn năm trước. Có lẽ họ đã sống sót sau một trận đại hồng thủy đã phá hủy một nền văn minh công nghệ ở đây. Trong mọi trường hợp, các bộ lạc chủ yếu là những người du mục sống ngoài đất bằng các công cụ và vũ khí nguyên thủy.\n\nMặc dù có sự yếu kém về công nghệ, các bộ lạc có thể là kẻ thù nguy hiểm và là người bạn quý giá vì kỹ năng của họ với chiến tranh công nghệ thấp, số lượng và độ cứng của họ.\n\nBộ lạc đặc biệt này theo đuổi một lối sống nhẹ nhàng nơi họ có thể. Họ khá cởi mở để giao dịch và liên minh, ngay cả với những người lạ.</TribeCivil.description>
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>tù trưởng</TribeCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCivil.messageDefendersAttacking>TODO</TribeCivil.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>người bộ lạc</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
@@ -51,6 +59,8 @@
   <TribeRough.description>Những người này đã ở đây rất lâu. Có thể tổ tiên của họ đã bị rơi ở đây một ngàn năm trước. Có lẽ họ đã sống sót sau một trận đại hồng thủy đã phá hủy một nền văn minh công nghệ ở đây. Trong mọi trường hợp, các bộ lạc chủ yếu là những người du mục sống ngoài đất bằng các công cụ và vũ khí nguyên thủy.\n\nMặc dù có sự yếu kém về công nghệ, các bộ lạc có thể là kẻ thù nguy hiểm và là người bạn quý giá vì kỹ năng của họ với chiến tranh công nghệ thấp, số lượng và độ cứng của họ.\n\nBộ lạc đặc biệt này coi trọng sự thống trị hiếu chiến; có thể khó biến họ thành đồng minh.</TribeRough.description>
   <!-- EN: chief -->
   <TribeRough.leaderTitle>tù trưởng</TribeRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRough.messageDefendersAttacking>TODO</TribeRough.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeRough.pawnSingular>người bộ lạc</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
@@ -62,6 +72,8 @@
   <TribeSavage.description>Những người này đã ở đây rất lâu. Có thể tổ tiên của họ đã bị bỏ rơi ở đây một ngàn năm trước. Có lẽ họ đã sống sót sau một trận đại hồng thủy đã phá hủy một nền văn minh công nghệ ở đây. Trong mọi trường hợp, các bộ lạc chủ yếu là những người du mục sống ngoài đất bằng các công cụ và vũ khí nguyên thủy.\n\nMặc dù có sự yếu kém về công nghệ, các bộ lạc có thể là kẻ thù nguy hiểm vì kỹ năng của họ với chiến tranh công nghệ thấp, số lượng và độ cứng của họ.\n\nBộ lạc đặc biệt này được thúc đẩy bởi một nền văn hóa máu và danh dự; bạn sẽ không thể liên minh với họ!</TribeSavage.description>
   <!-- EN: chief -->
   <TribeSavage.leaderTitle>đầu bếp</TribeSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavage.messageDefendersAttacking>TODO</TribeSavage.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeSavage.pawnSingular>người bộ lạc</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->

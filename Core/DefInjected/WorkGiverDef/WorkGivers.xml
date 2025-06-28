@@ -64,6 +64,13 @@
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>gỡ gạch</ConstructRemoveFloors.verb>
   
+  <!-- EN: remove bridges -->
+  <ConstructRemoveFoundations.label>TODO</ConstructRemoveFoundations.label>
+  <!-- EN: removing bridge -->
+  <ConstructRemoveFoundations.gerund>TODO</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove bridge -->
+  <ConstructRemoveFoundations.verb>TODO</ConstructRemoveFoundations.verb>
+  
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>mài nhẵn sàn</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
@@ -92,6 +99,13 @@
   <!-- EN: deconstruct -->
   <Deconstruct.verb>phá dỡ</Deconstruct.verb>
   
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>TODO</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>TODO</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>TODO</DeconstructForBlueprint.verb>
+  
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>mang thức ăn cho tù nhân</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
@@ -117,42 +131,42 @@
   <DoBillsBrew.label>chưng cất rượu</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>chưng cất</DoBillsBrew.gerund>
-  <!-- EN: brew -->
+  <!-- EN: brew at -->
   <DoBillsBrew.verb>chưng cất</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>xẻ thịt</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>làm thịt</DoBillsButcherFlesh.gerund>
-  <!-- EN: butcher -->
+  <!-- EN: butcher at -->
   <DoBillsButcherFlesh.verb>làm thịt</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>nấu ăn ở bếp lò</DoBillsCook.label>
   <!-- EN: cooking at -->
   <DoBillsCook.gerund>nấu ở</DoBillsCook.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCook.verb>nấu</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>nấu ăn ở lửa trại</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
   <DoBillsCookCampfire.gerund>nấu ăn ở</DoBillsCookCampfire.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCookCampfire.verb>nấu ăn</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>làm công tác hỏa thiêu</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>hỏa thiêu ở</DoBillsCremate.gerund>
-  <!-- EN: cremate -->
+  <!-- EN: cremate at -->
   <DoBillsCremate.verb>hỏa thiêu</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>chế tạo vật dụng ở bàn chế tạo linh kiện</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>chế tạo</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricate -->
+  <!-- EN: fabricate things at -->
   <DoBillsFabricationBench.verb>chế tạo</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -166,21 +180,21 @@
   <DoBillsMachiningTable.label>chế tạo vật dụng ở bàn máy móc</DoBillsMachiningTable.label>
   <!-- EN: working at -->
   <DoBillsMachiningTable.gerund>chế tạo</DoBillsMachiningTable.gerund>
-  <!-- EN: work -->
+  <!-- EN: work at -->
   <DoBillsMachiningTable.verb>chế tạo</DoBillsMachiningTable.verb>
   
   <!-- EN: make apparel -->
   <DoBillsMakeApparel.label>may trang phục</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
   <DoBillsMakeApparel.gerund>may</DoBillsMakeApparel.gerund>
-  <!-- EN: tailor -->
+  <!-- EN: tailor at -->
   <DoBillsMakeApparel.verb>may</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>chế tạo vũ khí</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
   <DoBillsMakeWeapons.gerund>chế tạo</DoBillsMakeWeapons.gerund>
-  <!-- EN: smith -->
+  <!-- EN: smith at -->
   <DoBillsMakeWeapons.verb>chế tạo</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
@@ -201,42 +215,42 @@
   <DoBillsProduceDrugs.label>tổng hợp thuốc</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>sản xuất thuốc ở</DoBillsProduceDrugs.gerund>
-  <!-- EN: produce drugs -->
+  <!-- EN: produce drugs at -->
   <DoBillsProduceDrugs.verb>sản xuất thuốc</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>làm việc ở máy tinh luyện</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
   <DoBillsRefinery.gerund>tinh luyện hóa học ở</DoBillsRefinery.gerund>
-  <!-- EN: refine chemicals -->
+  <!-- EN: refine chemicals at -->
   <DoBillsRefinery.verb>tinh luyện hóa học</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>chế tác tượng</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>chế tác</DoBillsSculpt.gerund>
-  <!-- EN: sculpt -->
+  <!-- EN: sculpt at -->
   <DoBillsSculpt.verb>chế tác</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>nung chảy các vật</DoBillsSmelter.label>
   <!-- EN: refining at -->
   <DoBillsSmelter.gerund>tinh luyện ở</DoBillsSmelter.gerund>
-  <!-- EN: refine -->
+  <!-- EN: refine at -->
   <DoBillsSmelter.verb>tinh luyện</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
   <DoBillsStonecut.label>cắt đá thành gạch</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>cắt đá ở</DoBillsStonecut.gerund>
-  <!-- EN: stonecut -->
+  <!-- EN: cut stone blocks at -->
   <DoBillsStonecut.verb>cắt đá</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
   <DoBillsUseCraftingSpot.label>làm các công việc tại điểm thủ công.</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>chế tạo ở</DoBillsUseCraftingSpot.gerund>
-  <!-- EN: craft -->
+  <!-- EN: craft at -->
   <DoBillsUseCraftingSpot.verb>chế tạo</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
@@ -309,6 +323,13 @@
   <!-- EN: drill -->
   <Drill.verb>vận hành</Drill.verb>
   
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>TODO</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>TODO</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>TODO</EjectFuel.verb>
+  
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>hộp trứng trống rỗng</EmptyEggBox.label>
   <!-- EN: emptying -->
@@ -376,7 +397,7 @@
   <GroundPenetratingScan.label>vận hành máy quét xuyên đất</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
   <GroundPenetratingScan.gerund>đang quét tại</GroundPenetratingScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <GroundPenetratingScan.verb>quét</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
@@ -392,6 +413,13 @@
   <GrowerSow.gerund>trồng</GrowerSow.gerund>
   <!-- EN: sow -->
   <GrowerSow.verb>trồng</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>TODO</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>TODO</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>TODO</Hack.verb>
   
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>cho động vật ăn</HandlingFeedPatientAnimals.label>
@@ -453,7 +481,7 @@
   <LongRangeScan.label>vận hành máy quét tầm xa</LongRangeScan.label>
   <!-- EN: scanning at -->
   <LongRangeScan.gerund>đang quét tại</LongRangeScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <LongRangeScan.verb>quét</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
@@ -540,7 +568,7 @@
   <!-- EN: rope -->
   <RebalanceAnimalsInPens.verb>buộc</RebalanceAnimalsInPens.verb>
   
-  <!-- EN: refuel fuelable buildings -->
+  <!-- EN: refuel buildings -->
   <Refuel.label>thêm nhiên liệu cho công trình</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>thêm nhiên liệu</Refuel.gerund>
@@ -600,7 +628,7 @@
   <Research.label>thực hiện nghiên cứu</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>nghiên cứu ở </Research.gerund>
-  <!-- EN: research -->
+  <!-- EN: research at -->
   <Research.verb>nghiên cứu</Research.verb>
   
   <!-- EN: shear animals -->

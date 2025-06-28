@@ -4,7 +4,7 @@
   <!-- ITab_Entity -->
   <!-- EN: Escape interval -->
   <HoldingPlatformEscapeMTBDays>Chu kỳ trốn thoát (ngày)</HoldingPlatformEscapeMTBDays>
-  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
   <HoldingPlatformEscapeMTBDaysDesc>Thời gian trung bình giữa các lần trốn thoát. Chịu ảnh hưởng bởi độ bền giam giữ, loại thực thể, khả năng di chuyển của thực thể, và thời gian thực thể bị giam giữ. Một số thực thể còn bị kìm hãm bởi nhiệt độ thấp.</HoldingPlatformEscapeMTBDaysDesc>
   <!-- EN: Entity -->
   <TabEntity>Thực thể</TabEntity>
@@ -30,7 +30,7 @@
   <EntityStudyMode_ExecuteDesc>Cai ngục sẽ xử tử thực thể bị giam giữ.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
   <EntityStudyMode_Extract>Trích xuất bioferrite</EntityStudyMode_Extract>
-  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->
   <EntityStudyMode_ExtractDesc>Các bác sĩ sẽ trích xuất bioferrite từ thực thể bị bắt giữ bất cứ khi nào có thể. Phương pháp trích xuất này đơn giản nhưng không hiệu quả. Không thể thực hiện nếu thực thể đang được gắn với máy thu bioferrite.</EntityStudyMode_ExtractDesc>
   <!-- EN: Requires bioferrite extraction. -->
   <RequiresBioferriteExtraction>Cần trích xuất bioferrite.</RequiresBioferriteExtraction>

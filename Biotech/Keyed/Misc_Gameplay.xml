@@ -27,10 +27,14 @@
   <CaravanMechsCount>{0} mechs</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{BOSS} với {APPAREL}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>TODO</ComesFromGene>
 
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>loại bỏ {0}.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>TODO</ReportTakingLessonFrom>
 
   <!-- Areas -->
   <!-- EN: Pollution clear -->
@@ -99,6 +103,8 @@
   <ReadyToSummonThreat>mối đe dọa {0} đã sẵn sàng để được gọi ra</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>Triệu hồi Đe dọa {0}</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>TODO</MechsDisabled> <!-- text_todo -->
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>{0} không thể truy cập được</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -247,12 +253,6 @@
   <BirthRitualHealthyBabyChance>Xác suất sinh con khỏe mạnh ở mức chất lượng này là {0_percentage}.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>Sinh hạ.</GivingBirth>
-
-  <!-- Shield comp -->
-  <!-- EN: Shield energy -->
-  <ShieldEnergy>Lá chắn lăng lượng</ShieldEnergy>
-  <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>Thời gian hồi phục</ShieldTimeToRecovery>
 
   <!-- Genes -->
   <!-- EN: genes -->
@@ -755,10 +755,6 @@
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>Em bé sẽ có cấu tạo di truyền của {0} và {1}.</IvfPregnancyLetterParents>
 
-  <!-- Projectile interceptor -->
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>Một máy chiếu có tấm chắn phía trước sẽ cố gắng ngăn chặn các viên đạn hoặc mảnh đạn tới từ phía trước. Nó sẽ tắt ngay lập tức nếu bị tấn công bởi một EMP.</ProjectileInterceptorTip>
-
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>Một tấm chắn từ xa do mechanitor chiếu ra. Nó sẽ cố gắng ngăn chặn đạn hoặc mảnh đạn đang bay tới, nhưng không tác dụng gì với các cuộc tấn công cận chiến hoặc sức nóng. Nó ngăn người đeo bắn ra ngoài và tắt ngay lập tức nếu bị EMP bắn trúng</RemoteMechShieldTip>
@@ -770,8 +766,8 @@
   <MyChildIsSad>con tôi đang buồn</MyChildIsSad> 
   
   <!-- EN: Genetic {CHEMICAL_label} dependency -->
-<GeneticChemicalDependency_Label>Phụ thuộc di truyền vào {CHEMICAL_label}</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Label>Phụ thuộc di truyền vào {CHEMICAL_label}</GeneticChemicalDependency_Label>
   <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
+  <GeneticChemicalDependency_Desc>Tôi cần {CHEMICAL_label} vì thiếu hụt di truyền. Đã quá lâu kể từ lần cuối tôi sử dụng.</GeneticChemicalDependency_Desc>
 
-<GeneticChemicalDependency_Desc>Tôi cần {CHEMICAL_label} vì thiếu hụt di truyền. Đã quá lâu kể từ lần cuối tôi sử dụng.</GeneticChemicalDependency_Desc>
 </LanguageData>

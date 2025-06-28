@@ -90,37 +90,15 @@
   <!-- EN: Pit gate collapsing -->
   <PitGateCollapsing>Cổng vực thẳm đang sụp đổ.</PitGateCollapsing> 
   <!-- EN: Pit gate settling -->
-  <PitGateSettling>Cổng vực thẳm đang lắng xuống.</PitGateSettling> 
-  <!-- EN: View undercave -->
-  <ViewUndercave>Xem thế giới dưới lòng đất</ViewUndercave> 
-  <!-- EN: View the connected undercave map. -->
-  <ViewUndercaveDesc>Xem bản đồ thế giới dưới lòng đất được kết nối.</ViewUndercaveDesc>
-  <!-- EN: View surface -->
-  <ViewSurface>Xem thế giới bề mặt</ViewSurface>
-  <!-- EN: View the connected surface map. -->
-  <ViewSurfaceDesc>Xem bản đồ thế giới bề mặt được kết nối.</ViewSurfaceDesc>
+  <PitGateSettling>Cổng vực thẳm đang lắng xuống.</PitGateSettling>
   <!-- EN: Pit rumbles -->
   <EmergenceWarningLabel>Cảnh báo: sắp xuất hiện!</EmergenceWarningLabel>
   <!-- EN: The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon. -->
   <EmergenceWarningText>Đất rung chuyển dưới chân, và tiếng gào thét vô nhân tính vọng lên từ hố sâu dường như ngày càng gần. Có thứ gì đó sắp trồi lên.</EmergenceWarningText>
 
-  <!-- Pit Burrow -->
-  <!-- EN: Fill in -->
-  <DesignatorFillIn>Lấp kín</DesignatorFillIn>
-  <!-- EN: Fill in this pit burrow. -->
-  <DesignatorFillInDesc>Lấp kín hố này.</DesignatorFillInDesc>
-
     <!-- Undercave -->
-  <!-- EN: Enter pit gate -->
-  <EnterPitGate>Chui vào Cổng vực thẳm</EnterPitGate> 
-  <!-- EN: Climb to surface -->
-  <ExitPitGate>Trèo lên mặt đất</ExitPitGate>
-  <!-- EN: Fleshbeast lair -->
-  <LetterLabelGateEntered>Hang ổ Quái thịt</LetterLabelGateEntered> 
-  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
-  <LetterGateEntered>Trong sâu thẳm của Cổng vực thẳm, bạn đã khám phá một hệ thống hang động khổng lồ bị nhiễm Quái thịt.\n\nHệ thống hang động bị tắc nghẽn bởi các khối thịt sống chặn đường tiến của bạn. Tấn công thẳng vào khối thịt để phá hủy nó.\n\nToàn bộ hệ thống hang động dường như không ổn định. Nếu tìm thấy thứ gì đó đằng sau khối thịt, có thể bạn sẽ làm sập các đường hầm và đóng được cổng vực thẳm.</LetterGateEntered> 
   <!-- EN: Squirming sounds -->
-  <LetterLabelDreadmeldWarning>Cảm giác kinh hoàng</LetterLabelDreadmeldWarning> 
+  <LetterLabelDreadmeldWarning>Cảm giác kinh hoàng</LetterLabelDreadmeldWarning>
   <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
   <LetterDreadmeldWarning>Khi {PAWN_nameDef} đến gần khối thịt ở đây, {PAWN_pronoun} cảm thấy một vật thể to lớn đang uốn éo, quằn quại bên dưới lớp bề mặt ấm áp. Một thực thể sống khổng lồ đang ẩn nấp phía sau bức tường thịt.</LetterDreadmeldWarning> 
   <!-- EN: Undercave unstable -->
@@ -274,8 +252,6 @@
   <Resisted>Bị kháng cự</Resisted>
   <!-- EN: Damaged -->
   <HealthFactor>Sức khỏe</HealthFactor>
-  <!-- EN: Deactivated. -->
-  <Deactivated>Đã ngừng hoạt động</Deactivated> <!-- -->
 
   <!-- EN: {PAWN_labelShort} was sent. -->
   <CommandSent>Đã gửi lệnh cho {PAWN_labelShort}.</CommandSent>
@@ -732,7 +708,7 @@
   <VoidMonolithViewResearch>Xem nghiên cứu Dị thường</VoidMonolithViewResearch>
   <!-- EN: Current monolith level -->
   <CurrentMonolithLevel>Mức độ Tượng đài hiện tại</CurrentMonolithLevel>
-  <!-- EN: Investigate to learn more. -->
+  <!-- EN: Send a colonist to investigate this. -->
   <VoidMonolithUndiscovered>Điều tra thêm để hiểu rõ hơn.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
   <VoidMonolithRequiredEntityCategory>Để nâng cấp Tượng đài lên bước tiếp theo, bạn cần phải khám phá {0} sinh thể bậc {1}.</VoidMonolithRequiredEntityCategory>
@@ -779,7 +755,7 @@
   <MonolithAutoActivatingText>Một làn sóng kinh hoàng bao trùm những thực dân của bạn. Tượng đài đã bắt đầu khuấy động. Từng phút, nó bẻ cong và tự sắp xếp mình, biến đổi thành một thứ gì đó mới. \n\nTrong vòng vài ngày, quá trình sẽ hoàn tất. Hãy sẵn sàng cho bất cứ điều gì xảy ra tiếp theo.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>Tượng đài Hư Vô</MonolithAutoActivatedLabel>
-  <!-- EN: The monolith’s transformation is almost complete... -->
+  <!-- EN: The monolith's transformation is almost complete... -->
   <MonolithAutoActivatedText>Quá trình biến đổi của tượng đài Hư Vô đang gần như hoàn tất...</MonolithAutoActivatedText>
 
   <!-- EN: Gray pall -->

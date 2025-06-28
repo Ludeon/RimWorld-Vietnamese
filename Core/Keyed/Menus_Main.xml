@@ -116,6 +116,8 @@
   <PlanetCoverageTip>Hành tinh này luôn luôn có cùng một đường kính, nhưng vì nó lớn hơn nhiều so với cần thiết để chơi, chúng ta không nên tạo ra toàn bộ bề mặt bởi vì nó có thể mất rất nhiều thời gian. Đây là phần trăm bề mặt bạn muốn tạo.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Các phe phái</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>TODO</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -481,6 +483,10 @@
   <Difficulty_UnwaveringPrisoners_Label>Thêm tù nhân kiên định</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>Tùy chọn này bổ sung thêm các tù nhân có thể bắt được vào trò chơi, những người không thể được chiêu mộ do có lòng trung thành vững chắc.\n\nCác tù nhân kiên định được thêm vào bên trên các tù nhân bình thường, vì vậy, việc tắt tùy chọn này sẽ không mang lại nhiều tù nhân có thể tuyển dụng hơn - tùy chọn này chỉ loại bỏ những tù nhân kiên định. \n\nNhững tù nhân kiên định vẫn có thể được phóng thích vì lợi ích ngoại giao, bị bán, bị bắt làm nô lệ, bị thu hoạch nội tạng hoặc bị sử dụng theo cách khác. Nói chung, chúng cung cấp nhiều tùy chọn và tài nguyên hơn, đồng thời làm cho trò chơi trở nên phong phú và dễ dàng hơn một chút.</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>TODO</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>TODO</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Công cụ người chơi</DifficultyPlayerToolsSection>
@@ -560,6 +566,8 @@
   <River>Sông</River>
   <!-- EN: Elevation -->
   <Elevation>Độ cao</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>TODO</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>Khả năng sinh sản</Fertility>
   <!-- EN: fertility -->
@@ -653,15 +661,15 @@
   <!-- EN: none -->
   <NoneLower>Không có</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Trưởng thành</Adulthood>
+  <Adulthood>Thành niên</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Thời thơ ấu</Childhood>
+  <Childhood>Thiếu niên</Childhood>
   <!-- EN: male -->
   <Male>nam</Male>
   <!-- EN: female -->
   <Female>nữ</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>nam và nữ</MaleAndFemale>
+  <MaleAndFemale>Nam và nữ</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>đực</MaleAnimal>
   <!-- EN: female -->
@@ -721,6 +729,10 @@
   <ClickForMoreInfo>Nhấn vào đây để biết thêm thông tin</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Không có thêm thông tin có sẵn.</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>TODO</BestSkillLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>TODO</BestSkillInfoLevel>
 
   <!-- Factions -->
   <!-- EN: Factions -->
@@ -739,5 +751,7 @@
   <MechanoidsDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là ít nhiệm vụ hơn và có nhiều mối đe dọa tự phát hơn.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Nếu không có các phe phái khác, các cuộc đột kích, giao dịch và nhiệm vụ sẽ không diễn ra như bình thường.</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>TODO</FactionRemovalDisabled>
 
 </LanguageData>

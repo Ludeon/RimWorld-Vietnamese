@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>súng cối tự động</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>súng cối tự động</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>máy phát điện nhẹ</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>Súng phun lửa nhanh tích điện xung để chữa cháy khu vực.</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>thùng</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>máy phát điện nh</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>pháo địa ngục</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>Một thiết bị pháo mini bắn gây cháy. Nó bắn ra một đầu đạn gây cháy lớn.</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>thùng</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>pháo địa ngục</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>tháp pháo sạc tự động</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>Tháp pháo tự cung cấp năng lượng gắn với máy phóng điện tích. Nó không thể cảm nhận mục tiêu ở phạm vi rất ngắn.</Turret_AutoChargeBlaster.description>
+  
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>tháp pháo địa ngục tự động</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>Một tháp pháo tự cung cấp năng lượng được gắn một khẩu pháo địa ngục. Nó không thể cảm nhận mục tiêu ở phạm vi rất ngắn.</Turret_AutoInferno.description>
+  
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>súng cối tự động</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>Súng cối tự động, tự nạp, tự nạp. Nó có thể bắn trúng mục tiêu ở mọi khoảng cách, xuyên tường, nhưng khá thiếu chính xác.</Turret_AutoMortar.description>
+  
+</LanguageData>

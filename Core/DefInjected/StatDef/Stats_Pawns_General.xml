@@ -51,6 +51,13 @@
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
   <FilthRate.description>Sinh vật này thải ra bao nhiêu rác rưởi.\n\nTốt nhất là để những động vật tạo ra rác rưởi ở ngoài trời hoặc trên thảm rơm nơi rác của chúng không thành vấn đề.</FilthRate.description>
   
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>TODO</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>TODO</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>TODO</FlightCooldown.formatString>
+  
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>lượng thức ăn tiêu thụ</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
@@ -85,6 +92,13 @@
   <LifespanFactor.label>hệ số tuổi thọ</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
   <LifespanFactor.description>Yếu tố tuổi thọ làm thay đổi tuổi thọ hiệu quả của một sinh vật bằng cách rút ngắn hoặc kéo dài thời gian cho đến khi chúng phát triển các bệnh liên quan đến tuổi tác. Hệ số tuổi thọ trên 100% làm chậm quá trình khởi phát bệnh và tăng tuổi thọ tổng thể, trong khi hệ số tuổi thọ dưới 100% sẽ đẩy nhanh quá trình khởi phát bệnh và giảm tuổi thọ.</LifespanFactor.description>
+  
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>TODO</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>TODO</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>TODO</MaxFlightTime.formatString>
   
   <!-- EN: max nutrition -->
   <MaxNutrition.label>dinh dưỡng tối đa</MaxNutrition.label>
@@ -163,5 +177,10 @@
   <ToxicResistance.label>kháng độc</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
   <ToxicResistance.description>Sinh vật này chống lại sự tích tụ chất độc tốt như thế nào.</ToxicResistance.description>
+  
+  <!-- EN: wildness -->
+  <Wildness.label>TODO</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>TODO</Wildness.description>
   
 </LanguageData>

@@ -11,12 +11,32 @@
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
   <CaravanPackingSpot.description>Chỉ định điểm để tập hợp lữ đoàn. Có thể đặt cạnh nhà kho để tăng tốc quá trình chất hàng.</CaravanPackingSpot.description>
   
+  <!-- EN: cave exit -->
+  <CaveExit.label>TODO</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>TODO</CaveExit.description>
+  
   <!-- EN: comms console -->
   <CommsConsole.label>trạm liên lạc</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <CommsConsole.description>Dùng sóng radio để liên lạc với băng nhóm khác và phi thuyền giao thương.</CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
   <CommsConsole.comps.CompUsable.useLabel>Triệu hồi mối đe dọa diabolus</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>TODO</CraterLarge.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterLarge.description>TODO</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>TODO</CraterMedium.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterMedium.description>TODO</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>TODO</CraterSmall.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterSmall.description>TODO</CraterSmall.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>buồng ngủ đông</CryptosleepCasket.label>
@@ -110,7 +130,7 @@
   
   <!-- EN: transport pod -->
   <TransportPod.label>kén vận chuyển</TransportPod.label>
-  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
   <TransportPod.description>Một kén vận chuyển có khả năng vận chuyển người, vật phẩm hoặc động vật. Có thể dùng để gửi quà tặng, vận chuyển người hoặc viện trợ, đột kích hoặc tăng viện cho trận chiến đang diễn ra.</TransportPod.description>
   
   <!-- EN: vitals monitor -->

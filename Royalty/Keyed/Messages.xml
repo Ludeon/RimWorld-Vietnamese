@@ -4,17 +4,15 @@
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
   <ShuttleBlocked>Tàu không thể hạ cánh: {0}.</ShuttleBlocked>
-  <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>Tàu đưa đón đã đến.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
   <MessageShuttleArrivedContentsLost>Tàu đưa đón đã đến, nhưng vì không có người khai hoang bên trong nên đồ đạc bị thất lạc.</MessageShuttleArrivedContentsLost>
-  <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>Không thể gọi tàu đưa đón</CannotCallShuttle>
 
   <!-- EN: Cannot land in undiscovered area. -->
   <ShuttleCannotLand_Fogged>Không thể hạ cánh ở khu vực chưa được khám phá.</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>Khu vực phải có thể đi bộ được.</ShuttleCannotLand_Unwalkable>
+  <!-- EN: Terrain does not support {0}. -->
+  <ShuttleCannotLand_Unaffordable>TODO</ShuttleCannotLand_Unaffordable> <!-- text_todo -->
 
   <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Chọn {BESTOWER_definite} và nhấp vào 'Bắt đầu nghi lễ trao tặng' để bắt đầu buổi lễ.</MessageBestowerWaiting>

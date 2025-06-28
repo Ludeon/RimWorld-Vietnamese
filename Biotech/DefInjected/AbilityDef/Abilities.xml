@@ -7,17 +7,14 @@
   <AcidSpray.description>Xịt một chất axit dính từ các tuyến ở cổ lên qua miệng và khắp vùng mục tiêu. Axit sẽ dính vào các mục tiêu và đốt chúng theo thời gian.</AcidSpray.description>
   
   <!-- EN: animal warcall -->
-<AnimalWarcall.label>Lời triệu hồi thú chiến</AnimalWarcall.label>
-
-<!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
-<AnimalWarcall.description>Bằng một tiếng gầm vang dội và kết nối tâm linh, triệu hồi một loài vật để chiến đấu cùng bạn chống lại kẻ thù trong vài giờ.</AnimalWarcall.description>
-
-<!-- EN: warcall -->
-<AnimalWarcall.verbProperties.label>Lời triệu hồi chiến đấu</AnimalWarcall.verbProperties.label>
-
-<!-- EN: Choose an animal to call -->
-<AnimalWarcall.verbProperties.mouseTargetingText>Chọn một loài vật để triệu hồi</AnimalWarcall.verbProperties.mouseTargetingText>
-
+  <AnimalWarcall.label>Lời triệu hồi thú chiến</AnimalWarcall.label>
+  <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
+  <AnimalWarcall.description>Bằng một tiếng gầm vang dội và kết nối tâm linh, triệu hồi một loài vật để chiến đấu cùng bạn chống lại kẻ thù trong vài giờ.</AnimalWarcall.description>
+  <!-- EN: warcall -->
+  <AnimalWarcall.verbProperties.label>Lời triệu hồi chiến đấu</AnimalWarcall.verbProperties.label>
+  <!-- EN: Choose an animal to call -->
+  <AnimalWarcall.verbProperties.mouseTargetingText>Chọn một loài vật để triệu hồi</AnimalWarcall.verbProperties.mouseTargetingText>
+  
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>thức ăn máu</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
@@ -29,7 +26,7 @@
   <Coagulate.description>Sử dụng các tuyến đặc biệt trong cổ tay để nhanh chóng điều trị chấn thương của ai đó.</Coagulate.description>
   
   <!-- EN: fire burst -->
-  <FireBurst.label>Cháy bùng</FireBurst.label>
+  <FireBurst.label>lửa bùng lên</FireBurst.label>
   <!-- EN: Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground. -->
   <FireBurst.description>Phát ra một vụ nổ nhiên liệu cháy theo mọi hướng để tạo thành những vũng chất lỏng bốc cháy trên mặt đất.</FireBurst.description>
   
@@ -41,7 +38,7 @@
   <!-- EN: fire spew -->
   <FireSpew.label>phun lửa</FireSpew.label>
   <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
-  <FireSpew.description>Phun ra một dòng dịch dính và dễ cháy từ miệng. Chất dịch này có thể thiêu đốt mọi thứ dính phải và cũng tạo thành những vũng lửa trên mặt đất.\n\Chất dịch được tạo ra và lưu trữ bởi một cơ quan ở cổ, cùng với một túi riêng chứa chất phản ứng hypergolic để đánh lửa.</FireSpew.description>
+  <FireSpew.description>Phun ra một dòng mật dính, dễ cháy từ miệng. Nó có thể bắt lửa bất cứ thứ gì hoặc bất cứ ai mà nó chạm vào, và cũng tạo thành những vũng lửa trên mặt đất.\n\nMật được tạo ra và lưu trữ bởi một cơ quan ở cổ, cùng với một túi riêng chứa chất phản ứng hypergolic để đánh lửa.</FireSpew.description>
   
   <!-- EN: foam spray -->
   <FoamSpray.label>phun bọt</FoamSpray.label>

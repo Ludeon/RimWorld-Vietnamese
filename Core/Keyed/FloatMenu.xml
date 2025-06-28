@@ -22,8 +22,12 @@
   <!-- EN: Not allowed -->
   <NotAllowed>Không được phép</NotAllowed>
   
+  <!-- EN: Attack {1_labelShort} -->
+  <Attack>TODO</Attack>
   <!-- EN: Fire at {1_labelShort} -->
   <FireAt>Bắn {1_label}</FireAt>
+  <!-- EN: Remove -->
+  <Remove>Loại bỏ</Remove>
 
   <!-- EN: out of range -->
   <OutOfRange>ngoài tầm bắn</OutOfRange>
@@ -41,6 +45,8 @@
   <IsNotDraftedLower>{1_labelShort} chưa ở tình trạng chiến đấu</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>không thể ra lệnh cho nhân vật mà bạn không điều khiển được</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>TODO</CannotAttack>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>không thể tự tấn công bản thân được</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
@@ -88,6 +94,8 @@
   <AboveAllowedSkill>trên kĩ năng cho phép {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
   <NoReachableOutsideCell>không thể tiếp cận bên ngoài ô</NoReachableOutsideCell>
+  <!-- EN: cannot exit map -->
+  <CannotExitMap>TODO</CannotExitMap>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>thiếu kĩ năng cần thiết</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -228,6 +236,8 @@
   <TakingToBed>Đưa {0_labelShort} đi ngủ.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Không thể giải cứu</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN_labelShort} -->
+  <CannotRescuePawn>TODO</CannotRescuePawn>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Mang {1_label} vào trong buồng ngủ đông</CarryToCryptosleepCasket>
@@ -289,12 +299,20 @@
   
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Buộc mặc {1_labelShort}</ForceWear>
+  <!-- EN: Force target to wear {1_labelShort}... -->
+  <ForceTargetToWear>TODO</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Không thể mặc {1_label}</CannotWear>
+  <!-- EN: Cannot force target to wear {1_label} -->
+  <CannotForceTargetToWear>TODO</CannotForceTargetToWear>
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>Buộc trang bị {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Force target to equip {1_labelShort}... -->
+  <ForceTargetToEquipApparel>TODO</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>Không thể trang bị {1_labelShort}</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1_label} -->
+  <CannotForceTargetToEquipApparel>TODO</CannotForceTargetToEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>thiếu bộ phận cơ thể</CannotWearBecauseOfMissingBodyParts>
   
@@ -397,6 +415,8 @@
   <NoDoctor>không có bác sĩ</NoDoctor>
   <!-- EN: medical bed not for slaves -->
   <NotForSlaves>giường y tế không dành cho nô lệ</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>TODO</MedicalCareDisabled>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>bị chiếm bởi {0}</SomeoneElseSleeping>
   
@@ -432,19 +452,6 @@
   <OfferGifts>Tặng quà</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>Giao dịch với {0}</TradeWithSettlement>
-  
-  <!-- EN: Enter {0} -->
-  <EnterPortal>TODO</EnterPortal>
-  <!-- EN: Entering {0} -->
-  <EnteringPortal>TODO</EnteringPortal>
-  <!-- EN: Enter {0} -->
-  <CommandEnterPortal>TODO</CommandEnterPortal>
-  <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
-  <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
-  <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -460,7 +467,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Không thể {0}</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <!-- EN: Incapable of {0} -->
   <CannotMissingHealthActivities>Không thể ưu tiên (không có khả năng làm {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
@@ -469,27 +476,27 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>{0} sắn sàng</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <!-- EN: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>thiếu chức danh cần thiết</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: Will never {0} -->
+  <!-- EN: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>sẽ không bao giờ {0}</WillNever>
 
-  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <!-- EN: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Không thể ưu tiên (chưa biên chế cho việc {0})</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>chưa thiết lập</NotAssigned>
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>không được chỉ định cho {0}</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <!-- EN: Research is a long-term task -->
   <CannotPrioritizeResearch>Không thể ưu tiên (nghiên cứu là công việc lâu dài)</CannotPrioritizeResearch>
 
-  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <!-- EN: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>Không thể ưu tiên ({1_label} đang bị cấm)</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>Không thể ưu tiên (đang cấm)</CannotPrioritizeCellForbidden>
@@ -501,7 +508,13 @@
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>Ưu tiên {0} {1}</PrioritizeGeneric>
-  
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>TODO</PrioritizeGenericSimple>
+
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>TODO</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>TODO</LaunchToConfirmation>
   <!-- EN: Drop at edge -->
   <DropAtEdge>Đáp ở biên</DropAtEdge>
   <!-- EN: Drop in center -->
@@ -626,4 +639,21 @@
   <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
   <NoResearchBench>không có trong hàng chờ nghiên cứu, chưa đặt trước</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>Truy cập trái phép {0}</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>TODO</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>Không thể truy cập trái phép {0}</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>TODO</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>Đã truy cập trái phép</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>Không có khả năng truy cập trái phép</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>sụt nguồn</ToDropSupplies>
+
 </LanguageData>
