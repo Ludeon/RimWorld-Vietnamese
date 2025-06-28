@@ -5,21 +5,17 @@
   <AncientCommsConsole.label>bảng điều khiển liên lạc cổ</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientCommsConsole.description>Một bảng điều khiển cổ có gắn một đĩa liên lạc. Các bộ phận quan trọng bị mất còn những thứ khác thì bị xuống cấp nghiêm trọng.</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>TODO</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient enemy terminal -->
   <AncientEnemyTerminal.label>cổng máy tính kẻ thù cổ</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
   <AncientEnemyTerminal.description>Một cổng máy tính cổ. Nó có thể được hack để gọi kẻ thù gần đây.</AncientEnemyTerminal.description>
-  
-  <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>nút nhiên liệu không ổn định cổ</AncientFuelNode.label>
-  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>Một nút nhiên liệu cổ không ổn định dùng để sạc những cỗ máy bằng nhiên liệu. Nó đã trở nên không ổn định sau những năm tháng không được bảo trì.</AncientFuelNode.description>
-  
-  <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>thùng kín</AncientHermeticCrate.label>
-  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>Một cái thùng kín tự cung năng lượng dùng để bao quản vật phẩm có giá trị. Nó có thể được dùng để bảo quản trong thời gian dài.</AncientHermeticCrate.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>TODO</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>TODO</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: security crate -->
   <AncientSecurityCrate.label>thùng an ninh</AncientSecurityCrate.label>

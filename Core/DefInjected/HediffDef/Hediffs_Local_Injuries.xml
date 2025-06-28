@@ -14,6 +14,23 @@
   <!-- EN: {0} in the {1} -->
   <AcidBurn.labelNounPretty>{0} trong {1}</AcidBurn.labelNounPretty>
   
+  <!-- EN: beam burn -->
+  <BeamWound.label>đốt chùm</BeamWound.label>
+  <!-- EN: A beam burn. -->
+  <BeamWound.description>Một vết bỏng chùm.</BeamWound.description>
+  <!-- EN: permanent beam injury -->
+  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>chấn thương chùm vĩnh viễn</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old beam wound -->
+  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>vết thương chùm cũ</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <BeamWound.injuryProps.destroyedLabel>Đốt cháy</BeamWound.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <BeamWound.injuryProps.destroyedOutLabel>Cháy hết mình</BeamWound.injuryProps.destroyedOutLabel>
+  <!-- EN: a beam burn -->
+  <BeamWound.labelNoun>một vết bỏng chùm</BeamWound.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BeamWound.labelNounPretty>{0} trong {1}</BeamWound.labelNounPretty>
+  
   <!-- EN: bite -->
   <Bite.label>Cắn</Bite.label>
   <!-- EN: A bite wound. -->

@@ -14,13 +14,12 @@
     <li>subject_gerund->creating basic mechanoids</li>
   -->
   <BasicMechtech.generalRules.rulesStrings>
-  <li>subject->mechanoids</li>
-  <li>subject_story->viết một cuốn sách dành cho trẻ em về các loại mechanoid cơ bản</li>
-  <li>subject_story->được cấy ghép một mechlink nguyên mẫu</li>
-  <li>subject_story->tái tạo độc lập các kỹ thuật biomech cơ bản</li>
-  <li>subject_story->đang khai thác một xác exostrider cổ đại và tìm thấy một mechlink được bảo quản trong đống đổ nát</li>
-  <li>subject_gerund->tạo ra các mechanoid cơ bản</li>
-
+    <li>subject->mechanoids</li>
+    <li>subject_story->viết một cuốn sách dành cho trẻ em về các loại mechanoid cơ bản</li>
+    <li>subject_story->được cấy ghép một mechlink nguyên mẫu</li>
+    <li>subject_story->tái tạo độc lập các kỹ thuật biomech cơ bản</li>
+    <li>subject_story->đang khai thác một xác exostrider cổ đại và tìm thấy một mechlink được bảo quản trong đống đổ nát</li>
+    <li>subject_gerund->tạo ra các mechanoid cơ bản</li>
   </BasicMechtech.generalRules.rulesStrings>
   
   <!-- EN: high mechtech -->
@@ -36,12 +35,12 @@
     <li>subject_gerund->creating high-tier mechanoids</li>
   -->
   <HighMechtech.generalRules.rulesStrings>
-  <li>subject->mechanoids cấp cao</li>
-  <li>subject_story->sống sót qua một cuộc tấn công của War Queen trên một thế giới của Đế chế</li>
-  <li>subject_story->mua một chip Powerfocus từ một người buôn bán không hiểu giá trị của nó</li>
-  <li>subject_story->thẩm vấn các mechanitor bị bắt trong các cuộc đột kích hành tinh</li>
-  <li>subject_story->xây dựng các cơ quan vi mô mechanoid nguyên mẫu cho một khách hàng ngoài thế giới</li>
-  <li>subject_gerund->tạo ra các mechanoid cấp cao</li>
+    <li>subject->mechanoids cấp cao</li>
+    <li>subject_story->sống sót qua một cuộc tấn công của War Queen trên một thế giới của Đế chế</li>
+    <li>subject_story->mua một chip Powerfocus từ một người buôn bán không hiểu giá trị của nó</li>
+    <li>subject_story->thẩm vấn các mechanitor bị bắt trong các cuộc đột kích hành tinh</li>
+    <li>subject_story->xây dựng các cơ quan vi mô mechanoid nguyên mẫu cho một khách hàng ngoài thế giới</li>
+    <li>subject_gerund->tạo ra các mechanoid cấp cao</li>
   </HighMechtech.generalRules.rulesStrings>
   
   <!-- EN: standard mechtech -->
@@ -57,13 +56,13 @@
     <li>subject_gerund->creating standard mechanoids</li>
   -->
   <StandardMechtech.generalRules.rulesStrings>
-  <li>subject->mechanoids</li>
-  <li>subject_story->nhận được một chip tín hiệu trong hoàn cảnh mờ ám</li>
-  <li>subject_story->tìm thấy một chip tín hiệu nguyên vẹn trong một xác diabolus</li>
-  <li>subject_story->sống sót qua một cuộc tấn công của tổ chức mechanoid</li>
-  <li>subject_story->tập hợp các báo cáo về các cuộc tấn công của mechanoid, tìm kiếm điểm chung</li>
-  <li>subject_gerund->tạo ra các mechanoid tiêu chuẩn</li>
-</StandardMechtech.generalRules.rulesStrings>
+    <li>subject->mechanoids</li>
+    <li>subject_story->nhận được một chip tín hiệu trong hoàn cảnh mờ ám</li>
+    <li>subject_story->tìm thấy một chip tín hiệu nguyên vẹn trong một xác diabolus</li>
+    <li>subject_story->sống sót qua một cuộc tấn công của tổ chức mechanoid</li>
+    <li>subject_story->tập hợp các báo cáo về các cuộc tấn công của mechanoid, tìm kiếm điểm chung</li>
+    <li>subject_gerund->tạo ra các mechanoid tiêu chuẩn</li>
+  </StandardMechtech.generalRules.rulesStrings>
   
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>Công nghệ siêu máy móc</UltraMechtech.label>
@@ -78,13 +77,12 @@
     <li>subject_gerund->creating ultra-tier mechanoids</li>
   -->
   <UltraMechtech.generalRules.rulesStrings>
-  <li>subject->mechanoids cấp siêu cao</li>
-  <li>subject_story->tìm thấy một apocriton đã tắt nguồn trong đống đổ nát của một thế giới chết</li>
-  <li>subject_story->quan sát một apocriton hồi sinh các mech từ khoảng cách an toàn</li>
-  <li>subject_story->khai thác sự thù hận tâm linh sâu sắc mà các apocriton cảm thấy đối với nhân loại</li>
-  <li>subject_story->tìm thấy một cuốn nhật ký thăng cấp bên cạnh một archonexus không hoạt động</li>
-  <li>subject_gerund->tạo ra các mechanoid cấp siêu cao</li>
-
+    <li>subject->mechanoids cấp siêu cao</li>
+    <li>subject_story->tìm thấy một apocriton đã tắt nguồn trong đống đổ nát của một thế giới chết</li>
+    <li>subject_story->quan sát một apocriton hồi sinh các mech từ khoảng cách an toàn</li>
+    <li>subject_story->khai thác sự thù hận tâm linh sâu sắc mà các apocriton cảm thấy đối với nhân loại</li>
+    <li>subject_story->tìm thấy một cuốn nhật ký thăng cấp bên cạnh một archonexus không hoạt động</li>
+    <li>subject_gerund->tạo ra các mechanoid cấp siêu cao</li>
   </UltraMechtech.generalRules.rulesStrings>
   
   <!-- EN: wastepack atomizer -->
@@ -100,12 +98,12 @@
     <li>subject_gerund->constructing wastepack atomizers</li>
   -->
   <WastepackAtomizer.generalRules.rulesStrings>
-  <li>subject->phân tách chất thải độc hại</li>
-  <li>subject_story->nghiên cứu phương pháp xử lý chất thải nguyên tử an toàn</li>
-  <li>subject_story->tuyển dụng các đội ngũ tạm thời cho các nhiệm vụ xử lý chất thải mặt trời</li>
-  <li>subject_story->đề xuất lý thuyết về sự không ổn định nguyên tử từ các nguyên lý cơ bản</li>
-  <li>subject_story->quan sát một thế giới độc hại từ quỹ đạo</li>
-  <li>subject_gerund->xây dựng các máy phân tách chất thải</li>
+    <li>subject->phân tách chất thải độc hại</li>
+    <li>subject_story->nghiên cứu phương pháp xử lý chất thải nguyên tử an toàn</li>
+    <li>subject_story->tuyển dụng các đội ngũ tạm thời cho các nhiệm vụ xử lý chất thải mặt trời</li>
+    <li>subject_story->đề xuất lý thuyết về sự không ổn định nguyên tử từ các nguyên lý cơ bản</li>
+    <li>subject_story->quan sát một thế giới độc hại từ quỹ đạo</li>
+    <li>subject_gerund->xây dựng các máy phân tách chất thải</li>
   </WastepackAtomizer.generalRules.rulesStrings>
   
 </LanguageData>

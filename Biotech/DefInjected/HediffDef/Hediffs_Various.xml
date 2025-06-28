@@ -20,26 +20,22 @@
   <GeneticDrugNeed.label>phụ thuộc hóa chất</GeneticDrugNeed.label>
   <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
   <GeneticDrugNeed.description>Người này mắc chứng nghiện sinh hóa do di truyền đối với một loại thuốc rất cụ thể. Nếu không có liều lượng thường xuyên của sản phẩm này, cơ thể anh ta không thể tự duy trì, sức khỏe và tâm trạng của anh ta sẽ xấu đi cho đến khi anh ta chết..\n\nCó hiệu lực sau tuổi 13.</GeneticDrugNeed.description>
- <!-- EN: deficiency -->
-<GeneticDrugNeed.stages.deficiency.label>Thiếu thuốc</GeneticDrugNeed.stages.deficiency.label>
-<GeneticDrugNeed.stages.deficiency.overrideLabel>Hôn mê</GeneticDrugNeed.stages.deficiency.overrideLabel>
-
-<!-- EN: deficiency coma -->
-<GeneticDrugNeed.stages.3.overrideLabel>Hôn mê do thiếu thuốc</GeneticDrugNeed.stages.3.overrideLabel>
-
+  <!-- EN: deficiency -->
+  <GeneticDrugNeed.stages.deficiency.label>Thiếu thuốc</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>Hôn mê</GeneticDrugNeed.stages.deficiency.overrideLabel>
+  <!-- EN: deficiency coma -->
+  <GeneticDrugNeed.stages.3.overrideLabel>Hôn mê do thiếu thuốc</GeneticDrugNeed.stages.3.overrideLabel>
+  
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>nhu cầu về hemogen</HemogenCraving.label>
   <!-- EN: Due to a lack of hemogen, this person's body is breaking down hemogen reserves in their bone marrow. This causes disorientation and a painful craving for human blood. -->
   <HemogenCraving.description>Do thiếu hemogene, cơ thể của người này tiêu thụ hemogene dự trữ trong tủy xương của mình. Nó gây mất phương hướng và thèm khát máu người..</HemogenCraving.description>
-<!-- EN: minor -->
-<HemogenCraving.stages.minor.label>Nhẹ</HemogenCraving.stages.minor.label>
-
-<!-- EN: moderate -->
-<HemogenCraving.stages.moderate.label>Vừa</HemogenCraving.stages.moderate.label>
-
-<!-- EN: major -->
-<HemogenCraving.stages.major.label>Nặng</HemogenCraving.stages.major.label>
-
+  <!-- EN: minor -->
+  <HemogenCraving.stages.minor.label>Nhẹ</HemogenCraving.stages.minor.label>
+  <!-- EN: moderate -->
+  <HemogenCraving.stages.moderate.label>Vừa</HemogenCraving.stages.moderate.label>
+  <!-- EN: major -->
+  <HemogenCraving.stages.major.label>Nặng</HemogenCraving.stages.major.label>
   
   <!-- EN: interrupted deathrest -->
   <InterruptedDeathrest.label>deathrest bị gián đoạn</InterruptedDeathrest.label>
@@ -61,10 +57,9 @@
   
   <!-- EN: psychic bond torn -->
   <PsychicBondTorn.label>Liên kết tâm linh bị phá vỡ</PsychicBondTorn.label>
-
   <!-- EN: This person had a psychic bond with another, but the bond was torn when their partner died. -->
   <PsychicBondTorn.description>Người này đã có một liên kết tâm linh với một người khác, nhưng liên kết đã bị phá vỡ khi đối phương qua đời.</PsychicBondTorn.description>
-
+  
   <!-- EN: regeneration coma -->
   <RegenerationComa.label>regeneration coma</RegenerationComa.label>
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->

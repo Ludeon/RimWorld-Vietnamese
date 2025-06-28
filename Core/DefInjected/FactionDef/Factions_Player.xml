@@ -7,6 +7,8 @@
   <PlayerColony.description>Một thuộc địa mới của những người ngoài thế giới đã đến gần đây.</PlayerColony.description>
   <!-- EN: leader -->
   <PlayerColony.leaderTitle>lãnh tụ</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>TODO</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>cư dân</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -18,6 +20,8 @@
   <PlayerTribe.description>Một bộ lạc nhỏ.</PlayerTribe.description>
   <!-- EN: leader -->
   <PlayerTribe.leaderTitle>tù trưởng</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>TODO</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>người bộ lạc</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

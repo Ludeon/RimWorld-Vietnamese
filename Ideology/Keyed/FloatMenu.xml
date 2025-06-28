@@ -7,6 +7,8 @@
   <OnlyMembersCanBuild>Chỉ {0} có thể xây dựng</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} đang được tiến hành.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>TODO</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>Một hoặc nhiều người tham gia không thể tham gia do nhiệt độ quá cao.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
@@ -36,8 +38,6 @@
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>không được phép cho phe phái</NotAllowedForFaction>
 
-  <!-- EN: Remove -->
-  <Remove>Loại bỏ</Remove>
   <!-- EN: Remove precept -->
   <RemovePrecept>Loại bỏ luật</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -101,17 +101,6 @@
   <IdeoAlreadyHasAltar>chỉ có thể có một bệ thờ/tín ngưỡng</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>trang phục tái tạo màu</RecolorApparel>
-
-  <!-- EN: Hack {0} -->
-  <Hack>Truy cập trái phép {0}</Hack>
-  <!-- EN: Cannot hack {0} -->
-  <CannotHack>Không thể truy cập trái phép {0}</CannotHack>
-  <!-- EN: Already hacked -->
-  <AlreadyHacked>Đã truy cập trái phép</AlreadyHacked>
-  <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>Không có khả năng truy cập trái phép</IncapableOfHacking>
-  <!-- EN: to drop supplies -->
-  <ToDropSupplies>sụt nguồn</ToDropSupplies>
 
   <!-- EN: Install {0} -->
   <InstallRelic>Thiết lập {0}</InstallRelic>

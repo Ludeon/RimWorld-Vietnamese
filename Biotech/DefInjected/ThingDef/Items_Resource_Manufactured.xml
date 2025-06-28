@@ -12,43 +12,42 @@
   <DeathrestCapacitySerum.comps.CompUsable.useLabel>Nhập {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
   
   <!-- EN: nano structuring chip -->
-<NanostructuringChip.label>chip cấu trúc nano</NanostructuringChip.label>
+  <NanostructuringChip.label>chip cấu trúc nano</NanostructuringChip.label>
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <NanostructuringChip.description>Một vi cơ quan mechanoid tái cấu trúc phân tử. Cần thiết cho việc sản xuất một số loại mechanoid và thiết bị tiên tiến. \n\Mechanitor có thể nghiên cứu chip này để giúp mở khóa các cấp độ nghiên cứu công nghệ cơ khí cao hơn.</NanostructuringChip.description>
   <!-- EN: Analyze the nano structuring chip. -->
-<NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip cấu trúc nano.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>  
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip cấu trúc nano.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the nano structuring chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách nghiên cứu chip cấu trúc nano, {PAWN_labelShort} đã thu được kiến thức cần thiết cho dự án nghiên cứu {RESEARCH}.\n\nCác nhà nghiên cứu của bạn giờ có thể sử dụng bàn nghiên cứu để bắt đầu khám phá cách sử dụng công nghệ này.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Nano structuring chip studied: {RESEARCH} unlocked -->
-<NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip cấu trúc nano đã được nghiên cứu: {RESEARCH} được mở khóa</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<!-- EN: Choose who should analyze this -->
-<NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<!-- EN: Can be analyzed by a colonist. -->
-<NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
-<!-- EN: Analyze nano structuring chip -->
-<NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip cấu trúc nano</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip cấu trúc nano đã được nghiên cứu: {RESEARCH} được mở khóa</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze nano structuring chip -->
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip cấu trúc nano</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: powerfocus chip -->
-<PowerfocusChip.label>chip tập trung năng lượng</PowerfocusChip.label>
-<!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
-<PowerfocusChip.description>Một vi cơ quan mechanoid tập trung năng lượng. Cần thiết cho việc sản xuất một số loại mechanoid và thiết bị tiên tiến.\n\nMột mechanitor có thể nghiên cứu chip này để giúp mở khóa các cấp độ nghiên cứu công nghệ cơ khí cao hơn.</PowerfocusChip.description>
-<!-- EN: Analyze the powerfocus chip. -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tập trung năng lượng.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
-<!-- EN: Analyze... -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
-<!-- EN: By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách nghiên cứu chip tập trung năng lượng, {PAWN_labelShort} đã thu được kiến thức cần thiết cho dự án nghiên cứu {RESEARCH}. \n\nCác nhà nghiên cứu của bạn giờ có thể sử dụng bàn nghiên cứu để bắt đầu khám phá cách sử dụng công nghệ này.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <PowerfocusChip.label>chip tập trung năng lượng</PowerfocusChip.label>
+  <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+  <PowerfocusChip.description>Một vi cơ quan mechanoid tập trung năng lượng. Cần thiết cho việc sản xuất một số loại mechanoid và thiết bị tiên tiến.\n\nMột mechanitor có thể nghiên cứu chip này để giúp mở khóa các cấp độ nghiên cứu công nghệ cơ khí cao hơn.</PowerfocusChip.description>
+  <!-- EN: Analyze the powerfocus chip. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tập trung năng lượng.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách nghiên cứu chip tập trung năng lượng, {PAWN_labelShort} đã thu được kiến thức cần thiết cho dự án nghiên cứu {RESEARCH}. \n\nCác nhà nghiên cứu của bạn giờ có thể sử dụng bàn nghiên cứu để bắt đầu khám phá cách sử dụng công nghệ này.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Powerfocus chip studied: {RESEARCH} unlocked -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip tập trung năng lượng đã được nghiên cứu: {RESEARCH} được mở khóa</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<!-- EN: Choose who should analyze this -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<!-- EN: Can be analyzed by a colonist. -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
-<!-- EN: Analyze powerfocus chip -->
-<PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tập trung năng lượng</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
-
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip tập trung năng lượng đã được nghiên cứu: {RESEARCH} được mở khóa</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze powerfocus chip -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tập trung năng lượng</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: tox shell -->
   <Shell_Toxic.label>Đạn khí độc</Shell_Toxic.label>
@@ -66,19 +65,19 @@
   <!-- EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <SignalChip.description>Một thành phần cơ học xử lý tín hiệu vi đồng bộ được sử dụng trong quá trình sản xuất một số dòng máy móc và thiết bị tiên tiến. \n\nmechanitor có thể điều tra con chip này để mở khóa các vật phẩm nghiên cứu cơ khí cấp cao hơn.</SignalChip.description>
   <!-- EN: Analyze the signal chip. -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tín hiệu.</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
-<!-- EN: Analyze... -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>Phân tích chip tín hiệu.</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Phân tích...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the signal chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
   <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>Bằng cách nghiên cứu chip tín hiệu, {PAWN_labelShort} đã thu được kiến thức cần thiết cho dự án nghiên cứu {RESEARCH}.\n\nCác nhà nghiên cứu của bạn giờ có thể sử dụng bàn nghiên cứu để bắt đầu khám phá cách sử dụng công nghệ này.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Signal chip studied: {RESEARCH} unlocked -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip tín hiệu đã được nghiên cứu: {RESEARCH} được mở khóa</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<!-- EN: Choose who should analyze this -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<!-- EN: Can be analyzed by a colonist. -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
-<!-- EN: Analyze signal chip -->
-<SignalChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tín hiệu</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Chip tín hiệu đã được nghiên cứu: {RESEARCH} được mở khóa</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Chọn người để phân tích chip này</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>Có thể được phân tích bởi một người dân.</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze signal chip -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>Phân tích chip tín hiệu</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: basic subcore -->
   <SubcoreBasic.label>lõi phụ (cơ bản)</SubcoreBasic.label>

@@ -17,7 +17,6 @@
     <li>retaliationLetterText(sender_factionLeader==True)->[sender_faction_leaderTitle] [sender_nameFull] của [sender_faction_name] tuyên bố rằng việc bạn thải chất thải độc hại một cách thiếu cẩn trọng ra ngoài bản đồ đã gây hại cho faction của [sender_possessive]. Để trả đũa, [sender_pronoun] đang sử dụng các pod vận chuyển để tấn công bạn bằng các gói chất thải độc hại.\n\nNếu không được giữ đông lạnh, các gói chất thải độc hại sẽ hòa tan theo thời gian, gây ô nhiễm khu vực xung quanh.</li>
     <li>retaliationLetterText(sender_royalInCurrentFaction==True)->[sender_faction_leaderTitle] [sender_nameFull] của [sender_faction_name] tuyên bố rằng việc bạn thải chất thải độc hại một cách thiếu cẩn trọng ra ngoài bản đồ đã gây hại cho faction của [sender_possessive], và [sender_pronoun] tin rằng [sender_pronoun] có nghĩa vụ phải trả đũa. [sender_pronoun] đang sử dụng các pod vận chuyển để tấn công bạn bằng các gói chất thải độc hại.\n\nNếu không được giữ đông lạnh, các gói chất thải độc hại sẽ hòa tan theo thời gian, gây ô nhiễm khu vực xung quanh.</li>
   </PollutionRetaliation.questContentRules.rulesStrings>
-
   <!-- EN:
     <li>questDescription->pollutionretaliation</li>
   -->
@@ -30,5 +29,5 @@
   <PollutionRetaliation.questNameRules.rulesStrings>
     <li>questDescription->pollutionretaliation</li>
   </PollutionRetaliation.questNameRules.rulesStrings>
-
+  
 </LanguageData>

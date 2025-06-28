@@ -26,12 +26,10 @@
   <!-- EN: My bonded weapon {WEAPON} is jealous I am using another weapon. I can feel the rage it is screaming into my head. -->
   <JealousRage.stages.s_jealousy.description>Vũ khí liên kết {WEAPON} của tôi ghen tị Tôi đang sử dụng vũ khí khác. Tôi có thể cảm thấy cơn thịnh nộ nó đang gào thét trong đầu tôi.</JealousRage.stages.s_jealousy.description>
   
-<!-- EN: {WEAPON}'s kill thirst -->
-<KillThirst_Weapon.stages.s_kill_thirst.label>Khát máu của {WEAPON}</KillThirst_Weapon.stages.s_kill_thirst.label>
-
-<!-- EN: My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage. -->
-<KillThirst_Weapon.stages.s_kill_thirst.description>Vũ khí gắn bó của tôi {WEAPON} đang tức giận vì đã quá lâu không được sử dụng để giết chóc. Tôi có thể cảm nhận sự giận dữ của nó.</KillThirst_Weapon.stages.s_kill_thirst.description>
-
+  <!-- EN: {WEAPON}'s kill thirst -->
+  <KillThirst_Weapon.stages.s_kill_thirst.label>Khát máu của {WEAPON}</KillThirst_Weapon.stages.s_kill_thirst.label>
+  <!-- EN: My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage. -->
+  <KillThirst_Weapon.stages.s_kill_thirst.description>Vũ khí gắn bó của tôi {WEAPON} đang tức giận vì đã quá lâu không được sử dụng để giết chóc. Tôi có thể cảm nhận sự giận dữ của nó.</KillThirst_Weapon.stages.s_kill_thirst.description>
   
   <!-- EN: {WEAPON}'s kill sorrow -->
   <OnKill_BadThought.stages.s_kill_sorrow.label>{WEAPON} giết chết nỗi buồn</OnKill_BadThought.stages.s_kill_sorrow.label>

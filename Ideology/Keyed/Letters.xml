@@ -59,8 +59,8 @@
   <LetterRoleLostReasonLowBelieversDesc>Vai trò trở nên không hoạt động do số lượng {0} thấp.</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
   <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} đã mất vị trí {PAWN_possessive} ở vị trí {ROLE_labelDef} vì {PAWN_pronoun} đã bỏ qua {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
-  <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0} bỏ qua.</LetterObligationRoleInactive>
+  <!-- EN: {0} skipped -->
+  <LetterObligationRoleInactive>{0} bỏ qua</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
   <LetterObligationRoleInactiveDateDesc>{0} là ngày của {1}, nhưng vì vai trò {ROLE_labelDef} không hoạt động, nên các {2} sẽ bỏ qua {1}.</LetterObligationRoleInactiveDateDesc>
   

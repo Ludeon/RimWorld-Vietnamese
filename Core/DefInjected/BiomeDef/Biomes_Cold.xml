@@ -15,11 +15,15 @@
   <IceSheet.label>thềm băng</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>Những tảng băng có thể dày hàng kilomet. Không có mặt đất để thực vật phát triển. Những động vật duy nhất ở đây đang di cư đến một nơi khác - hoặc bị mất tích.</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>TODO</IceSheet.settleWarning>
   
   <!-- EN: sea ice -->
   <SeaIce.label>biển băng</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>Những tảng băng vĩnh cửu nổi trên mặt nước. Không có mặt đất để thực vật phát triển, không có khoáng sản để khai thác và hầu như không có sự sống của động vật.</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>TODO</SeaIce.settleWarning>
   
   <!-- EN: tundra -->
   <Tundra.label>lãnh nguyên</Tundra.label>

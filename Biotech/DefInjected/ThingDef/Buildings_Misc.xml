@@ -28,13 +28,13 @@
   <!-- EN: An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted. -->
   <GeneExtractor.description>Một thiết bị lấy gen của một người và tạo ra chúng dưới dạng bộ gen. Các gen được tách chiết sẽ được chọn ngẫu nhiên từ các gen dị hợp và phả hệ. Bạn có thể buộc ai đó vào máy, nhưng họ sẽ không thích hành vi đó.\n\nTrích xuất gen trong khi một người đang trải qua quá trình tái lập trình gen có thể dẫn đến cái chết của họ. Ngoài ra, việc trích xuất gen thông thường sẽ không gây ra tổn thương vĩnh viễn.\n\nKhông thể trích xuất gen được tạo ra bởi viên nang phi thường vì nó quá phức tạp.</GeneExtractor.description>
   
-<!-- EN: gene processor -->
-<GeneProcessor.label>bộ xử lý gen</GeneProcessor.label>
-<!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
-<GeneProcessor.description>Một hệ thống phân tích và xử lý di truyền. Được đặt gần trình biên dịch gen, nó làm tăng độ phức tạp di truyền tối đa của các dị chủng mà bạn có thể lắp ráp. Xây dựng nhiều bộ xử lý gen sẽ làm tăng thêm giới hạn phức tạp của gen.</GeneProcessor.description>
-<!-- EN: Gene complexity increase -->
-<GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>Tăng độ phức tạp di truyền</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
-
+  <!-- EN: gene processor -->
+  <GeneProcessor.label>bộ xử lý gen</GeneProcessor.label>
+  <!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
+  <GeneProcessor.description>Một hệ thống phân tích và xử lý di truyền. Được đặt gần trình biên dịch gen, nó làm tăng độ phức tạp di truyền tối đa của các dị chủng mà bạn có thể lắp ráp. Xây dựng nhiều bộ xử lý gen sẽ làm tăng thêm giới hạn phức tạp của gen.</GeneProcessor.description>
+  <!-- EN: Gene complexity increase -->
+  <GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>Tăng độ phức tạp di truyền</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+  
   <!-- EN: growth vat -->
   <GrowthVat.label>cabin tăng trưởng</GrowthVat.label>
   <!-- EN: A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors. -->
@@ -64,7 +64,7 @@
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>tàu con thoi bị rơi</ShuttleCrashed_Exitable.label>
-  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
   <ShuttleCrashed_Exitable.description>Tàu con thoi công nghệ vũ trụ được thiết kế để di chuyển giữa bề mặt và quỹ đạo, hoặc giữa các vệ tinh của một hệ hành tinh.</ShuttleCrashed_Exitable.description>
   
   <!-- EN: crashed mechanitor ship -->
@@ -77,10 +77,11 @@
   <!-- EN: This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down. -->
   <ToxifierGenerator.description>Máy phát điện này gây ô nhiễm địa hình rất chậm trong bán kính xung quanh nó trong khi tạo ra năng lượng. Nếu tất cả các ô trong bán kính bị ô nhiễm, máy phát điện sẽ ngừng hoạt động.</ToxifierGenerator.description>
   
-<!-- EN: IED tox trap -->
-<TrapIED_ToxGas.label>Bẫy khí độc tự chế</TrapIED_ToxGas.label>
-<!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-<TrapIED_ToxGas.description>Một cặp vỏ bom khí độc được kết nối với một cò kích nổ khi chạm vào hoặc bị bắn trúng. Vì nó được ẩn trong địa hình xung quanh nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận được bẫy này khi chúng bình tĩnh.</TrapIED_ToxGas.description>
+  <!-- EN: IED tox trap -->
+  <TrapIED_ToxGas.label>Bẫy khí độc tự chế</TrapIED_ToxGas.label>
+  <!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_ToxGas.description>Một cặp vỏ bom khí độc được kết nối với một cò kích nổ khi chạm vào hoặc bị bắn trúng. Vì nó được ẩn trong địa hình xung quanh nên không thể đặt gần các bẫy khác. Động vật có thể cảm nhận được bẫy này khi chúng bình tĩnh.</TrapIED_ToxGas.description>
+  
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>Máy hủy rác</WastepackAtomizer.label>
   <!-- EN: A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power. -->

@@ -3,10 +3,8 @@
   
   <!-- EN: bloodfeeding -->
   <Bloodfeeding.label>Hút máu</Bloodfeeding.label>
-
   <!-- EN: Drinking blood is sacred. Bloodfeeders should be worshipped. -->
   <Bloodfeeding.description>Uống máu là thiêng liêng. Những sinh vật hút máu nên được tôn thờ.</Bloodfeeding.description>
-
   <!-- EN:
     <li>creation(tag=meme_Bloodfeeding)        ->[deity0_name] drank the blood of the stars, turning them from red to white.</li>
     <li>episode(uses=1,tag=meme_Bloodfeeding)  ->The [deity0_type] [deity0_name] gave to [deity0_possessive] chosen followers the gift of red hunger, so that they might know true strength.</li>
@@ -52,7 +50,6 @@
     <li>bloodDrinkingAnimal->đỉa</li>
     <li>bloodDrinkingAnimal->hà mã</li>
     <li>bloodDrinkingAnimal->rắn máu</li>
-
   </Bloodfeeding.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blood</li>
@@ -85,7 +82,6 @@
     <li>memeMoralist->người quản lý</li>
     <li>memeMoralist->người sùng máu</li>
     <li>memeMoralist->người yêu máu</li>
-
   </Bloodfeeding.generalRules.rulesStrings>
   
 </LanguageData>

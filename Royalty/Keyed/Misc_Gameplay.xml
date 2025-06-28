@@ -105,6 +105,8 @@
   <RitualDisabledNoAltar>không có bàn thờ tiếp cận.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Lễ trao tặng</RitualBestowingCeremony>
+  <!-- EN: No suitable location near bestower -->
+  <BestowingSpotUnavailable>TODO</BestowingSpotUnavailable>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Tổng số thiền hôm nay: {0} (hệ số tiến trình {1})</TotalMeditationToday>
@@ -161,7 +163,8 @@
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Chưa tải hết hàng hóa đã yêu cầu!</ShuttleRequiredItemsNotSatisfied>
   <!-- EN: Cannot load {0_labelShort} -->
-<CannotLoadIntoShuttle>Không thể đưa {0_labelShort} vào tàu con thoi</CannotLoadIntoShuttle>
+  <CannotLoadIntoShuttle>Không thể đưa {0_labelShort} vào tàu con thoi</CannotLoadIntoShuttle>
+
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>Không có nhiệt để đổ.</AbilityNoEntropyToDump>
 

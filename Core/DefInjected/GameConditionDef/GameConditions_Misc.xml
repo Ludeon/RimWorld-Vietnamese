@@ -91,7 +91,7 @@
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>bụi độc</ToxicFallout.label>
-  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <!-- EN: A plume of toxic dust is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
   <ToxicFallout.description>Một đám bụi độc hại từ một nguồn xa xôi nào đó đang dần lắng xuống toàn bộ khu vực này. Bất kỳ sinh vật sống không dưới một mái nhà sẽ bị nhiễm độc từ từ, và các vật phẩm còn lại bên ngoài sẽ bị ăn mòn.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
   <ToxicFallout.descriptionFuture>một đám mây bụi độc hại sẽ phủ kín khu vực xung quanh [map_definite] cho [gameConditionDuration_duration], giết chết thực vật và động vật ngoài trời</ToxicFallout.descriptionFuture>
@@ -104,7 +104,7 @@
   <VolcanicWinter.label>núi lửa mùa đông</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
   <VolcanicWinter.description>Một ngọn núi lửa xa xôi đã bóp nghẹt bầu khí quyển với các hạt núi lửa, làm giảm đáng kể lượng ánh sáng chiếu xuống bề mặt. Nhiệt độ sẽ lạnh hơn và thực vật sẽ phát triển chậm hơn.</VolcanicWinter.description>
-  <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <!-- EN: a layer of ash will be deposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
   <VolcanicWinter.descriptionFuture>một lớp tro sẽ tồn tại trong bầu khí quyển, làm giảm ánh sáng mặt trời xung quanh [map_definite] cho [gameConditionDuration_duration], gây hại nghiêm trọng cho hệ sinh thái</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
   <VolcanicWinter.endMessage>Hầu hết tro núi lửa đã lắng xuống.</VolcanicWinter.endMessage>
