@@ -1,26 +1,27 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: low-shield pack -->
   <Apparel_PackBroadshield.label>bộ lá chắn thấp</Apparel_PackBroadshield.label>
   <!-- EN: A single-use man-portable low-shield projector. Deployed on the ground, it generates a circular shield that allows bullets out but not in. The unit is designed to last only a short time before burning out.\n\nMany ultratech combat squads owe their lives to a shield pack deployed at just the right time. -->
   <Apparel_PackBroadshield.description>Máy chiếu có tấm chắn thấp di động dành cho người sử dụng một lần. Được triển khai trên mặt đất, nó tạo ra một lá chắn hình tròn cho phép đạn bắn ra nhưng không bắn vào. Đơn vị này được thiết kế để chỉ tồn tại trong một thời gian ngắn trước khi cháy hết.\n\nNhiều đội chiến đấu siêu công nghệ có được mạng sống nhờ gói lá chắn được triển khai ngay tại chỗ đúng thời điểm.</Apparel_PackBroadshield.description>
-  <!-- EN: shield -->
+  <!--EN: shield-->
+  <!--VI: khiên-->
   <Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_PackBroadshield.comps.CompApparelReloadable.chargeNoun>
-  <!-- EN: on cooldown -->
+  <!--EN: on cooldown-->
+  <!--VI: khi hồi chiêu-->
   <Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_PackBroadshield.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy low-shield -->
   <Apparel_PackBroadshield.verbs.deploy_lowshield.label>triển khai lá chắn thấp</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
-  
   <!-- EN: jump pack -->
   <Apparel_PackJump.label>bộ nhảy</Apparel_PackJump.label>
   <!-- EN: A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap long distances at high speed, even over obstacles. It must be recharged after several uses.\n\nSome spacer tech militaries have melee combat specialists who use jump packs to bypass obstacles and rapidly close with the enemy. -->
   <Apparel_PackJump.description>Tên lửa nổ một người cho chuyến bay tầm ngắn. Với trợ lý hướng dẫn và dây nịt tích hợp, bộ nhảy cho phép mọi người nhảy quãng đường dài ở tốc độ cao, thậm chí vượt qua các chướng ngại vật. Nó phải được sạc lại sau vài lần sử dụng.\n\nMột số quân đội công nghệ tàu vũ trụ có các chuyên gia chiến đấu cận chiến sử dụng gói nhảy để vượt qua chướng ngại vật và nhanh chóng áp sát kẻ thù.</Apparel_PackJump.description>
-  <!-- EN: jump -->
+  <!--EN: jump-->
+  <!--VI: nhảy-->
   <Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_PackJump.comps.CompApparelReloadable.chargeNoun>
-  <!-- EN: on cooldown -->
+  <!--EN: on cooldown-->
+  <!--VI: khi hồi chiêu-->
   <Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_PackJump.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_PackJump.verbs.jump.label>nhảy</Apparel_PackJump.verbs.jump.label>
-  
 </LanguageData>

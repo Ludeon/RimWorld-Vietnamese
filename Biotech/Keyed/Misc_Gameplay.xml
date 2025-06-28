@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- EN: Dormant self-charging -->
   <SelfShutdown>Tự sạc không hoạt động</SelfShutdown>
   <!-- EN: Carry to recharger -->
@@ -27,19 +26,18 @@
   <CaravanMechsCount>{0} mechs</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{BOSS} với {APPAREL}</BossWithApparel>
-  <!-- EN: Resulting from gene -->
+  <!--EN: Resulting from gene-->
+  <!--VI: Kết quả của gen-->
   <ComesFromGene>TODO</ComesFromGene>
-
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>loại bỏ {0}.</ReportRemovingMechlink>
-  <!-- EN: from {TEACHER_labelShort} -->
+  <!--EN: from {TEACHER_labelShort}-->
+  <!--VI: từ {TEACHER_labelShort}-->
   <ReportTakingLessonFrom>TODO</ReportTakingLessonFrom>
-
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Giải phóng ô nhiễm</PollutionClear>
-
   <!-- Mechanitor -->
   <!-- EN: Overseer -->
   <Overseer>giám sát</Overseer>
@@ -103,8 +101,10 @@
   <ReadyToSummonThreat>mối đe dọa {0} đã sẵn sàng để được gọi ra</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>Triệu hồi Đe dọa {0}</Summon>
-  <!-- EN: Mechanoids disabled -->
-  <MechsDisabled>TODO</MechsDisabled> <!-- text_todo -->
+  <!--EN: Mechanoids disabled-->
+  <!--VI: Mechanoids bị vô hiệu hóa-->
+  <MechsDisabled>TODO</MechsDisabled>
+  <!-- text_todo -->
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>{0} không thể truy cập được</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -125,7 +125,6 @@
   <Uncontrolled>Không được kiểm soát</Uncontrolled>
   <!-- EN: incoming {0} -->
   <BossgroupIncoming>{0} đang đến</BossgroupIncoming>
-
   <!-- Sanguophage -->
   <!-- EN: hemogen -->
   <Hemogen>hemogen</Hemogen>
@@ -187,7 +186,6 @@
   <WillCauseSeriousBloodloss>Sẽ gây mất máu nghiêm trọng</WillCauseSeriousBloodloss>
   <!-- EN: too small -->
   <TooSmall>quá nhỏ</TooSmall>
-
   <!-- Deathrest buildings -->
   <!-- EN: Bound to -->
   <BoundTo>Liên kết</BoundTo>
@@ -203,7 +201,6 @@
   <CannotAssignAlreadyBound>Đã được liên kết với {0_nameDef}</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
   <CannotAssignBedCannotBindToMoreBuildings>Không thể liên kết với nhiều hơn {BUILDING_labelPlural}</CannotAssignBedCannotBindToMoreBuildings>
-
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
   <Aptitude>năng khiếu</Aptitude>
@@ -215,7 +212,6 @@
   <AptitudesDesc>Năng khiếu khiến một cá nhân thực hiện ở trình độ cao hơn hoặc thấp hơn kỹ năng mà họ đã học được.\n\nVí dụ: năng khiếu +1 cho một kỹ năng có nghĩa là một người có cấp độ 5 trong kỹ năng này sẽ hoạt động như thể họ ở cấp độ 6. \n\nTổng giá trị không được vượt quá cấp 20 hoặc thấp hơn cấp 1.</AptitudesDesc>
   <!-- EN: total -->
   <Total>toàn bộ</Total>
-  
   <!-- Human pregnancy -->
   <!-- EN: Father -->
   <FatherTip>Bố</FatherTip>
@@ -253,7 +249,6 @@
   <BirthRitualHealthyBabyChance>Xác suất sinh con khỏe mạnh ở mức chất lượng này là {0_percentage}.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>Sinh hạ.</GivingBirth>
-
   <!-- Genes -->
   <!-- EN: genes -->
   <Genes>genes</Genes>
@@ -277,9 +272,11 @@
   <EjectAllDesc>Thả tất cả các bộ gen xuống đất.</EjectAllDesc>
   <!-- EN: Genepacks stored -->
   <GenepacksStored>Bộ gen được lưu trữ</GenepacksStored>
-  <!-- EN: Auto-load -->
+  <!--EN: Auto-load-->
+  <!--VI: Tự động tải-->
   <GenepackAutoLoad>TODO</GenepackAutoLoad>
-  <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
+  <!--EN: If active, haulers will automatically store this genepack in a gene bank.-->
+  <!--VI: Nếu hoạt động, người vận chuyển sẽ tự động lưu trữ bộ gen này trong ngân hàng gen.-->
   <GenepackAutoLoadDesc>TODO</GenepackAutoLoadDesc>
   <!-- EN: Forced traits -->
   <ForcedTraits>Đặc điểm cưỡng bức</ForcedTraits>
@@ -322,31 +319,31 @@
   <!-- EN: Stop all work on the current xenogerm. -->
   <CancelXenogermDesc>Dừng tất cả công việc trên xenogerm hiện tại.</CancelXenogermDesc>
   <!-- EN: Allow all genepacks -->
-  <AllowAllGenepacks>Cho phép tất cả các bộ gen</AllowAllGenepacks> 
+  <AllowAllGenepacks>Cho phép tất cả các bộ gen</AllowAllGenepacks>
   <!-- EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
-  <AllowAllGenepacksDesc>Liệu những người thực dân có được phép tự động lưu trữ bất kỳ bộ gen nào trong hộp đựng này hay không. Tắt tùy chọn này nếu bạn muốn cho biết bộ gen cụ thể nào nên được lưu trữ tại đây.</AllowAllGenepacksDesc> 
+  <AllowAllGenepacksDesc>Liệu những người thực dân có được phép tự động lưu trữ bất kỳ bộ gen nào trong hộp đựng này hay không. Tắt tùy chọn này nếu bạn muốn cho biết bộ gen cụ thể nào nên được lưu trữ tại đây.</AllowAllGenepacksDesc>
   <!-- EN: The genepacks currently inside this container. -->
-  <ContainedGenepacksDesc>Các bộ gen hiện bên trong vùng chứa này.</ContainedGenepacksDesc> 
+  <ContainedGenepacksDesc>Các bộ gen hiện bên trong vùng chứa này.</ContainedGenepacksDesc>
   <!-- EN: The genepacks designated to be loaded into this container. -->
-  <GenepacksToLoadDesc>Các bộ gen được chỉ định để chuyển vào vùng chứa này.</GenepacksToLoadDesc> 
+  <GenepacksToLoadDesc>Các bộ gen được chỉ định để chuyển vào vùng chứa này.</GenepacksToLoadDesc>
   <!-- EN: Unstored genepacks that are not designated to be loaded into this container. -->
-  <GenepacksIgnoredDesc>Các bộ gen chưa được kiểm duyệt không được chỉ định để chuyển vào vùng chứa này.</GenepacksIgnoredDesc> 
+  <GenepacksIgnoredDesc>Các bộ gen chưa được kiểm duyệt không được chỉ định để chuyển vào vùng chứa này.</GenepacksIgnoredDesc>
   <!-- EN: Genepacks to load -->
-  <GenepacksToLoad>Bộ gen có thể chuyển được</GenepacksToLoad> 
+  <GenepacksToLoad>Bộ gen có thể chuyển được</GenepacksToLoad>
   <!-- EN: Genepacks to ignore -->
-  <GenepacksToIgnore>Bỏ qua bộ gen</GenepacksToIgnore> 
+  <GenepacksToIgnore>Bỏ qua bộ gen</GenepacksToIgnore>
   <!-- EN: Eject this genepack from the container. -->
-  <EjectGenepackDesc>Đẩy bộ gen này ra khỏi vùng chứa.</EjectGenepackDesc> 
+  <EjectGenepackDesc>Đẩy bộ gen này ra khỏi vùng chứa.</EjectGenepackDesc>
   <!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
-  <ConfirmRemoveGenepack>Bạn có thực sự muốn loại bỏ {0} không? Nó sẽ ngay lập tức bị đẩy xuống mặt đất gần đó.</ConfirmRemoveGenepack> 
+  <ConfirmRemoveGenepack>Bạn có thực sự muốn loại bỏ {0} không? Nó sẽ ngay lập tức bị đẩy xuống mặt đất gần đó.</ConfirmRemoveGenepack>
   <!-- EN: Missing required research -->
   <MissingRequiredResearch>Nghiên cứu cần thiết bị thiếu</MissingRequiredResearch>
   <!-- EN: No genepacks available in nearby gene banks. -->
-  <NoGenepacksAvailable>Không có bộ gen nào tại các ngân hàng gen gần đó.</NoGenepacksAvailable> 
+  <NoGenepacksAvailable>Không có bộ gen nào tại các ngân hàng gen gần đó.</NoGenepacksAvailable>
   <!-- EN: Allow this genepack to be loaded into this container. -->
-  <AddToLoadingListDesc>Cho phép tải bộ gen này vào vùng chứa này.</AddToLoadingListDesc> 
+  <AddToLoadingListDesc>Cho phép tải bộ gen này vào vùng chứa này.</AddToLoadingListDesc>
   <!-- EN: Remove this genepack from the loading list. -->
-  <RemoveFromLoadingListDesc>Loại bỏ bộ gen này khỏi danh sách tải.</RemoveFromLoadingListDesc> 
+  <RemoveFromLoadingListDesc>Loại bỏ bộ gen này khỏi danh sách tải.</RemoveFromLoadingListDesc>
   <!-- EN: Recombine -->
   <Recombine>Kết hợp lại</Recombine>
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
@@ -435,18 +432,15 @@
   <MissingGeneRomanceChance>May mắn về tình cảm không thuộc {GENE}</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
   <NotInGeneBank>Không có trong ngân hàng gen</NotInGeneBank>
-
   <!-- Child birth -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
   <ChildBirthAlwaysHealthy_Desc>Tập hợp để giúp một người mẹ sinh con. Bác sĩ có thể giúp đỡ sinh em bé.</ChildBirthAlwaysHealthy_Desc>
   <!-- EN: until the baby is born -->
   <UntilBabyIsBorn>cho đến khi em bé được sinh ra</UntilBabyIsBorn>
-
   <!-- EN: Children want to learn from different activities at different times. -->
   <LearningDesireTooltip>Trẻ em muốn học các hoạt động khác nhau vào những thời điểm khác nhau.</LearningDesireTooltip>
   <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
   <DevelopmentHealthGizmoTooltip>Tiến độ phát triển là mức trung bình của nhu cầu học tập của một đứa trẻ kể từ lần sinh nhật cuối cùng của chúng.\n\nTrẻ em có tiến bộ phát triển cao hơn sẽ có nhiều lựa chọn hơn trong quá trình phát triển vượt bậc và đạt được nhiều đam mê kỹ năng hơn.</DevelopmentHealthGizmoTooltip>
-
   <!-- EN: Must not be placed close to another {0_label} -->
   <MustNotBePlacedCloseToAnother>Không được đặt gần {0_label} khác</MustNotBePlacedCloseToAnother>
   <!-- EN: Next terrain pollution in -->
@@ -461,7 +455,6 @@
   <CannotAssignMechToControlGroup>Không thể chỉ định cho nhóm kiểm soát {0}</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
   <AssignMechAlreadyAssigned>Đã được chỉ định</AssignMechAlreadyAssigned>
-
   <!-- Lactation -->
   <!-- EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
   <LactatingAddedNutritionPerDay>Tiêu thụ {0} dinh dưỡng bổ sung mỗi ngày để sản xuất sữa (tốc độ sản xuất sữa là {1_percentage} do mức thức ăn hiện tại).</LactatingAddedNutritionPerDay>
@@ -469,7 +462,6 @@
   <LactatingStoppedBecauseFull>Cho con bú bị gián đoạn vì sữa đầy 100%</LactatingStoppedBecauseFull>
   <!-- EN: Lactation is paused due to starvation. -->
   <LactatingStoppedBecauseHungry>Cho con bú bị gián đoạn do đói.</LactatingStoppedBecauseHungry>
-
   <!-- Mech gestating -->
   <!-- EN: Current gestation cycle -->
   <CurrentGestationCycle>Chu kỳ mang thai hiện tại</CurrentGestationCycle>
@@ -481,7 +473,8 @@
   <GestatingMech>Gestating {0}</GestatingMech>
   <!-- EN: Gestated {0} -->
   <GestatedMech>Gestated {0}</GestatedMech>
-  <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
+  <!--EN: Requires {PAWN_nameDef} to continue gestating-->
+  <!--VI: Yêu cầu {PAWN_nameDef} để tiếp tục mang thai-->
   <GestatingMechRequiresMechanitor>TODO</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>Yêu cầu {PAWN_nameDef} hoàn thành</GestatedMechRequiresMechanitor>
@@ -491,7 +484,6 @@
   <ResurrectingMech>Đang phục hồi {0}</ResurrectingMech>
   <!-- EN: Resurrected {0} -->
   <ResurrectedMech>Đã phục hồi {0}</ResurrectedMech>
-
   <!-- Carrier -->
   <!-- EN: Release {0} -->
   <MechCarrierRelease>Release {0}</MechCarrierRelease>
@@ -505,20 +497,16 @@
   <MechCarrierClickToSetAutofillAmount>Nhấp để đặt số tiền tự động điền mong muốn.</MechCarrierClickToSetAutofillAmount>
   <!-- EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
   <MechCarrierAutofillDesc>Số tài nguyên tự động điền này xác định lượng tài nguyên tối đa mà người định cư của bạn sẽ tự động đặt vào {0} này. Tài nguyên có thể được sử dụng để tạo {1}.</MechCarrierAutofillDesc>
-
   <!-- Mech power cell -->
   <!-- EN: Power cell -->
   <MechPowerCell>tế bào năng lượng</MechPowerCell>
   <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
   <MechPowerCellTip>Nhím chiến có nguồn điện dùng một lần. Khi hết pin, mô tơ cơ sẽ chết.</MechPowerCellTip>
-  
-
   <!-- Bossgroup -->
   <!-- EN: available in {0}. -->
   <BossgroupAvailableIn>có sẵn trong {0}.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
   <RequiresMechanitor>yêu cầu mechanitor</RequiresMechanitor>
-
   <!-- Abilities -->
   <!-- EN: {0_labelShort} is not hemogenic. -->
   <AbilityDisabledNoHemogenGene>{0_labelShort} không sinh huyết.</AbilityDisabledNoHemogenGene>
@@ -540,10 +528,8 @@
   <AbilityMechFirefoampopCharged>bọt chống cháy được nạp</AbilityMechFirefoampopCharged>
   <!-- EN: Firefoam pop recharged in {0} -->
   <AbilityMechFirefoampopRecharging>bọt chống cháy được nạp lại trong {0}</AbilityMechFirefoampopRecharging>
-
   <!-- EN: Polluted {0} -->
   <PollutedTerrain>{0} ô nhiễm</PollutedTerrain>
-
   <!-- Growth vat -->
   <!-- EN: Biostarvation -->
   <Biostarvation>Biostarvation</Biostarvation>
@@ -573,11 +559,9 @@
   <NoPawnsCanEnterGrowthVat>Không có người không phân phối sinh học ở độ tuổi được chấp nhận. Để vào bể ấp, người đó phải dưới {0} tuổi và hiện không ở trạng thái phân chia sinh học.</NoPawnsCanEnterGrowthVat>
   <!-- EN: Aging speed -->
   <AgingSpeed>tốc độ trưởng thành</AgingSpeed>
-
   <!-- Mech charger -->
   <!-- EN: Waste -->
   <WasteLevel>Chất thải</WasteLevel>
-
   <!-- Dissolution -->
   <!-- EN: indoors -->
   <DissolutionRateIndoors>bên trong</DissolutionRateIndoors>
@@ -587,13 +571,10 @@
   <DissolvesEvery>Một phần chất thải sẽ phân hủy sau mỗi {0}</DissolvesEvery>
   <!-- EN: Frozen (won't dissolve). -->
   <DissolutionFrozen>Đông lạnh (không tan).</DissolutionFrozen>
-
   <!-- EN: {0} cells / day -->
   <CellsPerDay>{0} ô / ngày</CellsPerDay>
-
   <!-- EN: {0} cannot wear clothing for {1} -->
-  <WrongDevelopmentalStageForClothing>{0} không thể mặc quần áo cho {1}</WrongDevelopmentalStageForClothing> 
-
+  <WrongDevelopmentalStageForClothing>{0} không thể mặc quần áo cho {1}</WrongDevelopmentalStageForClothing>
   <!-- Subcore scanner -->
   <!-- EN: Start scanner -->
   <SubcoreScannerStart>Khởi chạy máy quét</SubcoreScannerStart>
@@ -615,10 +596,8 @@
   <SubcoreScannerBabyNotAllowed>Trẻ sơ sinh không được phép</SubcoreScannerBabyNotAllowed>
   <!-- EN: Insert a person into the {0}. -->
   <InsertPersonSubcoreScannerDesc>Chèn một người vào {0}.</InsertPersonSubcoreScannerDesc>
-
   <!-- EN: Duration (hours) -->
   <DurationHours>Thời lượng (giờ)</DurationHours>
-
   <!-- Age -->
   <!-- EN: adult -->
   <Adult>người lớn</Adult>
@@ -636,22 +615,18 @@
   <FeralChild>đứa trẻ hoang dã</FeralChild>
   <!-- EN: Wearable by -->
   <WearableBy>mặc bởi</WearableBy>
-
   <!-- EN: Xenogerm implantation -->
   <Reward_ReimplantXenogerm_Label>Cấy xenogerm</Reward_ReimplantXenogerm_Label>
   <!-- EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
   <Reward_ReimplantXenogerm_Desc>Một thành viên trong nhóm sẽ cấy lại xenogerm của họ vào một thực dân mà bạn chọn, biến thực dân của bạn thành một trong số họ. Người thuộc địa của bạn sẽ vẫn ở trong phe của bạn và dưới sự kiểm soát của bạn.</Reward_ReimplantXenogerm_Desc>
-
   <!-- Mech resurrection -->
   <!-- EN: Mech resurrection charges -->
   <MechResurrectionCharges>Phí hồi sinh Mech</MechResurrectionCharges>
-
   <!-- Mechs -->
   <!-- EN: Mech stun pulse on death -->
   <MechStunPulseWarning>Choáng váng về cái chết của mech</MechStunPulseWarning>
   <!-- EN: {PAWN_nameDef} is in self-shutdown from low energy. -->
   <IsLowEnergySelfShutdown>{PAWN_nameDef} bị tắt do năng lượng thấp.</IsLowEnergySelfShutdown>
-  
   <!-- Pollution -->
   <!-- EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->
   <ShowPollutionOverlayToggleButton>Chuyển đổi lớp phủ của ô nhiễm. Điều này hiển thị các khu vực địa hình ô nhiễm.\n\nTiếp xúc với địa hình ô nhiễm gây tích tụ chất độc có thể dẫn đến tử vong. Hầu hết thực vật không thể sống trên đất ô nhiễm.</ShowPollutionOverlayToggleButton>
@@ -685,17 +660,14 @@
   <AbsorbingPollutionNext>Hấp thụ ô nhiễm: nhiều hơn trong {0}</AbsorbingPollutionNext>
   <!-- EN: How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain. -->
   <TerrainPollutionTip>Mức độ ô nhiễm của địa hình trên ô này.\n\nTiếp xúc với địa hình ô nhiễm gây tích tụ chất độc có thể dẫn đến tử vong. Hầu hết các nền văn hóa không thể sống trên đất bị ô nhiễm.</TerrainPollutionTip>
-
   <!-- Research -->
   <!-- EN: Requires study of -->
   <StudyRequirementTip>Yêu cầu nghiên cứu về</StudyRequirementTip>
-
   <!-- Insect -->
   <!-- EN: Trigger radius -->
   <TriggerRadius>Bán kính kích hoạt</TriggerRadius>
   <!-- EN: Opening -->
   <DormantCompOpening>Mở</DormantCompOpening>
-  
   <!-- Fertility -->
   <!-- EN: ova extracted recently -->
   <SurgeryDisableReasonOvumExtracted>buồng trứng được trích xuất gần đây</SurgeryDisableReasonOvumExtracted>
@@ -721,14 +693,12 @@
   <DisabledOption>{0} ({1})</DisabledOption>
   <!-- EN: No men can fertilize this ovum. -->
   <FertilizeDisabledNoMales>Không người đàn ông nào có thể thụ tinh cho quả trứng này.</FertilizeDisabledNoMales>
-  
   <!-- EN: Implant embryo -->
   <ImplantLabel>Phôi cấy</ImplantLabel>
   <!-- EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
   <ImplantDescription>Cấy phôi này vào người mẹ mang thai hộ để bắt đầu mang thai.</ImplantDescription>
   <!-- EN: Insert in growth vat -->
   <InsertGrowthVatLabel>Đưa vào bể ủ</InsertGrowthVatLabel>
-
   <!-- EN: Cannot implant -->
   <ImplantCannotFloatOption>Không thể cấy ghép</ImplantCannotFloatOption>
   <!-- EN: No woman can be a surrogate mother. -->
@@ -749,25 +719,20 @@
   <EmbryoEjectedFromGrowthVat>{0} đã bị đẩy ra khỏi cabin tăng trưởng và bị phá hủy.</EmbryoEjectedFromGrowthVat>
   <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
   <EmbryoEjectedFromGrowthVatBiostarvation>Le {0} a été détruit dans une cuve d'incubation en raison de la biofamine.</EmbryoEjectedFromGrowthVatBiostarvation>
-
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
   <IvfPregnancyLetterText>{0} đã bị phá hủy trong cabin tăng trưởng do phân tích sinh học!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>Em bé sẽ có cấu tạo di truyền của {0} và {1}.</IvfPregnancyLetterParents>
-
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>Một tấm chắn từ xa do mechanitor chiếu ra. Nó sẽ cố gắng ngăn chặn đạn hoặc mảnh đạn đang bay tới, nhưng không tác dụng gì với các cuộc tấn công cận chiến hoặc sức nóng. Nó ngăn người đeo bắn ra ngoài và tắt ngay lập tức nếu bị EMP bắn trúng</RemoteMechShieldTip>
-
   <!-- Thoughtdef fallbacks -->
   <!-- EN: my child is happy -->
   <MyChildIsHappy>con tôi hạnh phúc</MyChildIsHappy>
   <!-- EN: my child is sad -->
-  <MyChildIsSad>con tôi đang buồn</MyChildIsSad> 
-  
+  <MyChildIsSad>con tôi đang buồn</MyChildIsSad>
   <!-- EN: Genetic {CHEMICAL_label} dependency -->
   <GeneticChemicalDependency_Label>Phụ thuộc di truyền vào {CHEMICAL_label}</GeneticChemicalDependency_Label>
   <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
   <GeneticChemicalDependency_Desc>Tôi cần {CHEMICAL_label} vì thiếu hụt di truyền. Đã quá lâu kể từ lần cuối tôi sử dụng.</GeneticChemicalDependency_Desc>
-
 </LanguageData>

@@ -1,60 +1,58 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</li>
-  -->
+  <!--EN: <li>questDescription->[decreeIntro]\n\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</li>-->
+  <!--VI: <li>questDescription->[decreeIntro]\n\nBạn phải xây dựng một tượng đài. Nó có kích thước [monumentSize] và sẽ yêu cầu các tài nguyên này (tổng giá trị [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nBạn phải giữ đài tưởng niệm an toàn cho [keepMonumentTicks_duration] sau khi hoàn thành, nếu không [asker_nameDef] sẽ không hài lòng.</li>-->
   <Decree_BuildMonument.questDescriptionRules.rulesStrings>TODO</Decree_BuildMonument.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->monument decree</li>
-  -->
+  <!--EN: <li>questName->monument decree</li>-->
+  <!--VI: <li>nhiệm vụTên-> nghị định tượng đài</li>-->
   <Decree_BuildMonument.questNameRules.rulesStrings>TODO</Decree_BuildMonument.questNameRules.rulesStrings>
-  <!-- EN: New monument marker arrived -->
+  <!--EN: New monument marker arrived-->
+  <!--VI: Điểm đánh dấu tượng đài mới đã đến-->
   <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>TODO</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
-  <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
+  <!--EN: Since the monument marker has been destroyed, a new one has been sent.-->
+  <!--VI: Vì cột mốc tượng đài đã bị phá hủy, một cột mốc mới đã được gửi đi.-->
   <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>TODO</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
-  <!-- EN: Monument completed -->
+  <!--EN: Monument completed-->
+  <!--VI: Tượng đài đã hoàn thành-->
   <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>TODO</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
-  <!-- EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased. -->
+  <!--EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased.-->
+  <!--VI: Bạn đã hoàn thành việc xây dựng tượng đài.\n\nBạn phải giữ nó an toàn cho [keepMonumentTicks_duration], nếu không [asker_nameDef] sẽ không hài lòng.-->
   <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
-  <!-- EN: Monument destroyed -->
+  <!--EN: Monument destroyed-->
+  <!--VI: Đài tưởng niệm bị phá hủy-->
   <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>TODO</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
-  <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this. -->
+  <!--EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this.-->
+  <!--VI: [asker_nameDef] bị xúc phạm vì bạn đã để tượng đài bị hủy hoại quá sớm sau khi hoàn thành.\n\n[asker_pronoun] sẽ không hài lòng về điều này.-->
   <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
-  <!-- EN: Do not destroy the monument for {0} -->
+  <!--EN: Do not destroy the monument for {0}-->
+  <!--VI: Đừng phá hủy tượng đài vì {0}-->
   <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>TODO</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
-  <!-- EN: Do not destroy the monument for {0} -->
+  <!--EN: Do not destroy the monument for {0}-->
+  <!--VI: Đừng phá hủy tượng đài vì {0}-->
   <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>TODO</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
-  <!-- EN: Keep monument {0} -->
+  <!--EN: Keep monument {0}-->
+  <!--VI: Giữ {0} tượng đài-->
   <Decree_BuildMonument.KeepMonument.slateRef>TODO</Decree_BuildMonument.KeepMonument.slateRef>
-  
-  <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>
-  -->
+  <!--EN: <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>-->
+  <!--VI: <li>questDescription->[decreeIntro]\n\nBạn phải thu hoạch [plantToHarvest_label] x[harvestItemCount].\n\nBạn có thể cần phải trồng và phát triển [plantToHarvest_label] trước.\n\n[decreeThreatInfo]</li>-->
   <Decree_HarvestCrop.questDescriptionRules.rulesStrings>TODO</Decree_HarvestCrop.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->[plantToHarvest_label] harvest decree</li>
-  -->
+  <!--EN: <li>questName->[plantToHarvest_label] harvest decree</li>-->
+  <!--VI: <li>nhiệm vụTên->[plantToHarvest_label] sắc lệnh thu hoạch</li>-->
   <Decree_HarvestCrop.questNameRules.rulesStrings>TODO</Decree_HarvestCrop.questNameRules.rulesStrings>
-  
-  <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must hunt or slaughter [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
+  <!--EN: <li>questDescription->[decreeIntro]\n\nYou must hunt or slaughter [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
     <li>animalToHuntWithCount(countToHunt==1)->[animalToHunt_indefinite]</li>
-    <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt] [animalToHunt_labelPlural]</li>
-  -->
+    <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt] [animalToHunt_labelPlural]</li>-->
+  <!--VI: <li>questDescription->[decreeIntro]\n\nBạn phải săn hoặc giết mổ [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
+    <li>animalToHuntWithCount(countToHunt==1)->[animalToHunt_indefinite]</li>
+    <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt] [animalToHunt_labelPlural]</li>-->
   <Decree_HuntAnimal.questDescriptionRules.rulesStrings>TODO</Decree_HuntAnimal.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->[animalToHunt_label] hunting decree</li>
-  -->
+  <!--EN: <li>questName->[animalToHunt_label] hunting decree</li>-->
+  <!--VI: <li>nhiệm vụTên->[animalToHunt_label] sắc lệnh săn bắn</li>-->
   <Decree_HuntAnimal.questNameRules.rulesStrings>TODO</Decree_HuntAnimal.questNameRules.rulesStrings>
-  
-  <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must produce:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
-  -->
+  <!--EN: <li>questDescription->[decreeIntro]\n\nYou must produce:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>-->
+  <!--VI: <li>questDescription->[decreeIntro]\n\nBạn phải sản xuất:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>-->
   <Decree_ProduceItem.questDescriptionRules.rulesStrings>TODO</Decree_ProduceItem.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->[defToProduce_label] production decree</li>
-  -->
+  <!--EN: <li>questName->[defToProduce_label] production decree</li>-->
+  <!--VI: <li>nhiệm vụTên->[defToProduce_label] nghị định sản xuất</li>-->
   <Decree_ProduceItem.questNameRules.rulesStrings>TODO</Decree_ProduceItem.questNameRules.rulesStrings>
-  
 </LanguageData>

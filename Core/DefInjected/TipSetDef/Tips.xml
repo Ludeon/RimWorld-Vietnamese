@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
   <GameplayTips.DismissLetters>Bạn có thể đánh dấu thư là đã đọc bằng việc nhấp chuột phải vào chúng.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
@@ -153,33 +152,46 @@
   <GameplayTips.AnimalFilth>Một số động vật sẽ sinh ra nhiều rác rưởi. Hãy giữ voi và gia súc của bạn ở bên ngoài.</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>Những thú săn mồi ít có khả năng săn những con vật được bao bọc bởi hàng rào hoặc chướng ngại vật.</GameplayTips.PredatorsAndFences>
-  <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <!--EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony.-->
+  <!--VI: Nó không bao giờ kết thúc trò chơi. Nếu mọi người đã chết hoặc biến mất, bạn có thể tạo ra những kẻ lang thang mới để tiếp quản phần còn lại của thuộc địa của mình.-->
   <GameplayTips.NeverGameOver>TODO</GameplayTips.NeverGameOver>
-  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <!--EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading.-->
+  <!--VI: Lưu trữ sách trong tủ sách. Điều này làm tăng vẻ đẹp của một căn phòng, làm cho các băng ghế nghiên cứu gần đó nhanh hơn, đồng thời tăng XP và giải trí thu được từ việc đọc.-->
   <GameplayTips.StoreBooksInBookcases>TODO</GameplayTips.StoreBooksInBookcases>
-  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window. -->
+  <!--EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window.-->
+  <!--VI: Bạn muốn một món đồ mới chế tạo được đưa đến một kệ cụ thể? Khi một kệ được đặt tên hoặc liên kết với các kệ khác, nó sẽ xuất hiện dưới dạng điểm đến vận chuyển trong "Chi tiết..." cửa sổ.-->
   <GameplayTips.TakeToShelves>TODO</GameplayTips.TakeToShelves>
-  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <!--EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu.-->
+  <!--VI: Bạn có thể thay đổi thành đồng hồ 12 giờ hoặc thay đổi nhiệt độ độ C thành độ F, trong menu tùy chọn.-->
   <GameplayTips.ChangeUnits>TODO</GameplayTips.ChangeUnits>
-  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <!--EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar.-->
+  <!--VI: Khi nhắm mục tiêu một người thuộc địa có khả năng hoặc vật phẩm, bạn cũng có thể nhắm mục tiêu chân dung của họ trong thanh thuộc địa trên cùng.-->
   <GameplayTips.TargetColonistBar>TODO</GameplayTips.TargetColonistBar>
-  <!-- EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory. -->
+  <!--EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory.-->
+  <!--VI: Một số tòa nhà hiệu quả hơn nếu chúng ở trong một phòng chuyên dụng. Bàn làm việc trong phòng riêng của họ tạo thành một xưởng. Băng ghế nghiên cứu trong phòng riêng của họ tạo thành một phòng thí nghiệm.-->
   <GameplayTips.WorkTableRoomRole>TODO</GameplayTips.WorkTableRoomRole>
-  <!-- EN: You can rename bills in the bill details dialog. -->
+  <!--EN: You can rename bills in the bill details dialog.-->
+  <!--VI: Bạn có thể đổi tên hóa đơn trong hộp thoại chi tiết hóa đơn.-->
   <GameplayTips.RenamingBills>TODO</GameplayTips.RenamingBills>
-  <!-- EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists. -->
+  <!--EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists.-->
+  <!--VI: Hỏa lực thân thiện không thể xảy ra nếu tay súng ở gần đồng minh của họ. Bạn có thể an toàn đặt những người thực dân cận chiến trước mặt những người thực dân cầm súng.-->
   <GameplayTips.FriendlyFire>TODO</GameplayTips.FriendlyFire>
-  <!-- EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs. -->
+  <!--EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs.-->
+  <!--VI: Nhấp chuột phải vào một số nút nhất định trong menu đơn đặt hàng để có các tùy chọn bổ sung. Ví dụ: bạn có thể cấm tất cả các mục trên bản đồ hoặc hủy tất cả các công việc săn bắn.-->
   <GameplayTips.RightClickGizmos>TODO</GameplayTips.RightClickGizmos>
-  <!-- EN: Hold the shift key while scrolling the map to scroll faster. -->
+  <!--EN: Hold the shift key while scrolling the map to scroll faster.-->
+  <!--VI: Giữ phím shift trong khi cuộn bản đồ để cuộn nhanh hơn.-->
   <GameplayTips.FastScroll>TODO</GameplayTips.FastScroll>
-  <!-- EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot. -->
+  <!--EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot.-->
+  <!--VI: Kệ không chỉ để trưng bày. Chúng tăng dung lượng lưu trữ của bạn bằng cách giữ nhiều mặt hàng trên cùng một chỗ.-->
   <GameplayTips.Shelves>TODO</GameplayTips.Shelves>
-  <!-- EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight. -->
+  <!--EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight.-->
+  <!--VI: Mechanoid có một số nhạy cảm về tâm linh. Sử dụng một cây thương tâm linh trên một người để xoay chuyển một cuộc chiến.-->
   <GameplayTips.MechanoidPsychicSensitivity>TODO</GameplayTips.MechanoidPsychicSensitivity>
-  <!-- EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery. -->
+  <!--EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery.-->
+  <!--VI: Hầu hết những người thực dân ghét ăn thịt côn trùng. Biến nó thành nhiên liệu hóa học bằng cách sử dụng nhà máy lọc nhiên liệu sinh học.-->
   <GameplayTips.InsectMeat>TODO</GameplayTips.InsectMeat>
-  <!-- EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too. -->
+  <!--EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too.-->
+  <!--VI: Nhấn Z sẽ cho phép bạn tìm kiếm vật phẩm, sinh vật, tòa nhà và hơn thế nữa trên bản đồ. Bạn cũng có thể tìm kiếm bản đồ thế giới.-->
   <GameplayTips.MapSearch>TODO</GameplayTips.MapSearch>
-  
 </LanguageData>

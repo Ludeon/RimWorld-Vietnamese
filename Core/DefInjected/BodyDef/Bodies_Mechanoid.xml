@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: lancer -->
   <Lancer.label>Kỵ Binh Sắt</Lancer.label>
   <!-- EN: left sight sensor -->
@@ -11,19 +10,26 @@
   <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
   <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
-  <!-- EN: left mechanical shoulder -->
+  <!--EN: left mechanical shoulder-->
+  <!--VI: vai cơ trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.customLabel>
-  <!-- EN: left arm -->
+  <!--EN: left arm-->
+  <!--VI: cánh tay trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
-  <!-- EN: left hand -->
+  <!--EN: left hand-->
+  <!--VI: Tay trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
-  <!-- EN: left pinky -->
+  <!--EN: left pinky-->
+  <!--VI: ngón út trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
-  <!-- EN: left middle finger -->
+  <!--EN: left middle finger-->
+  <!--VI: ngón giữa trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
-  <!-- EN: left index finger -->
+  <!--EN: left index finger-->
+  <!--VI: ngón trỏ trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
-  <!-- EN: left thumb -->
+  <!--EN: left thumb-->
+  <!--VI: ngón tay cái trái-->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
   <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>vai máy bên phải</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
@@ -47,7 +53,6 @@
   <Lancer.corePart.parts.right_leg.customLabel>chân phải</Lancer.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
   <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>bàn chân phải</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
-  
   <!-- EN: mechanical centipede -->
   <MechanicalCentipede.label>Rết Máy</MechanicalCentipede.label>
   <!-- EN: left sight sensor -->
@@ -58,7 +63,6 @@
   <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
   <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
-  
   <!-- EN: mechanical termite -->
   <MechanicalTermite.label>Rết Máy</MechanicalTermite.label>
   <!-- EN: left sight sensor -->
@@ -69,7 +73,6 @@
   <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>cảm biến âm thanh trái</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
   <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>cảm biến âm thanh phải</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
-  
   <!-- EN: pikeman -->
   <Pikeman.label>Bọ Máy</Pikeman.label>
   <!-- EN: left sight sensor -->
@@ -96,7 +99,6 @@
   <Pikeman.corePart.parts.rear_right_leg.customLabel>chân phải sau</Pikeman.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
   <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>bàn chân phải sau</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
-  
   <!-- EN: scyther -->
   <Scyther.label>Lưỡi Hái Sắt</Scyther.label>
   <!-- EN: left sight sensor -->
@@ -147,5 +149,4 @@
   <Scyther.corePart.parts.right_leg.customLabel>chân phải</Scyther.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
   <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>bàn chân phải</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
-  
 </LanguageData>

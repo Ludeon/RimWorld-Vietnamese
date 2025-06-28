@@ -1,74 +1,88 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: cataphract armor -->
   <CataphractArmor.label>Áo giáp cataphract</CataphractArmor.label>
   <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
   <CataphractArmor.description>Chế tạo Áo giáp cataphract, áo giáp nặng sẽ làm chậm người sử dụng nhưng có thể hấp thụ tốt các tổn thương nặng nề. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</CataphractArmor.description>
-  <!-- EN:
-    <li>subject->cataphract armor</li>
+  <!--EN: <li>subject->cataphract armor</li>
     <li>subject_story->first developed [ANYPAWN_possessive] cataphract-equivalent armor as a method of exploring active volcanoes</li>
     <li>subject_story->was commissioned to produce custom sets of cataphract armor for Imperial boarding parties</li>
     <li>subject_story->fought with the rebels and studied the armor of a captured cataphract</li>
-    <li>subject_gerund->crafting cataphract armor</li>
-  -->
+    <li>subject_gerund->crafting cataphract armor</li>-->
+  <!--VI: <li>Áo giáp đối tượng->cataphract</li>
+    <li>subject_story-> lần đầu tiên được phát triển [ANYPAWN_possessive] áo giáp tương đương cataphract như một phương pháp khám phá các núi lửa đang hoạt động</li>
+    <li>subject_story-> được ủy quyền sản xuất các bộ áo giáp cataphract tùy chỉnh cho các nhóm lên máy bay của Hoàng gia</li>
+    <li>subject_story-> chiến đấu với quân nổi dậy và nghiên cứu áo giáp của một cataphract bị bắt</li>
+    <li>subject_gerund-> chế tạo áo giáp cataphract</li>-->
   <CataphractArmor.generalRules.rulesStrings>TODO</CataphractArmor.generalRules.rulesStrings>
-  
   <!-- EN: gunlink -->
   <Gunlink.label>liên kết súng</Gunlink.label>
   <!-- EN: Build wearable gunlinks to enhance your soldiers' shooting accuracy. -->
   <Gunlink.description>Tạo liên kết súng có thể đeo được để nâng cao độ chính xác khi bắn của binh lính.</Gunlink.description>
-  <!-- EN:
-    <li>subject->accuracy enhancement</li>
+  <!--EN: <li>subject->accuracy enhancement</li>
     <li>subject_story->converted a glitterworld ocular implant into a more generic targeting computer</li>
     <li>subject_story->was happy at the performance of the factory's gunlinks, though the increased death rate due to helmet loss was troubling</li>
     <li>subject_story->bulk-purchased gunlinks for the snipers in the army, forbidding them to front-line soldiers</li>
-    <li>subject_gerund->enhancing accuracy with gunlinks</li>
-  -->
+    <li>subject_gerund->enhancing accuracy with gunlinks</li>-->
+  <!--VI: <li>Nâng cao độ chính xác > đối tượng</li>
+    <li>subject_story-> chuyển đổi một thiết bị cấy ghép mắt glitterworld thành một máy tính nhắm mục tiêu chung chung hơn</li>
+    <li>subject_story-> hài lòng với hiệu suất của các liên kết súng của nhà máy, mặc dù tỷ lệ tử vong tăng lên do mất mũ bảo hiểm là điều đáng lo ngại</li>
+    <li>subject_story > liên kết súng mua số lượng lớn cho các tay súng bắn tỉa trong quân đội, cấm họ đối với những người lính tiền tuyến</li>
+    <li>subject_gerund-> nâng cao độ chính xác với các liên kết súng</li>-->
   <Gunlink.generalRules.rulesStrings>TODO</Gunlink.generalRules.rulesStrings>
-  
   <!-- EN: jump packs -->
   <JumpPack.label>kén nhảy</JumpPack.label>
   <!-- EN: Build jump packs to perform aerial assaults during combat. -->
   <JumpPack.description>Xây dựng kén nhảy để thực hiện các cuộc tấn công trên không trong chiến đấu.</JumpPack.description>
-  <!-- EN:
-    <li>subject->jump packs</li>
+  <!--EN: <li>subject->jump packs</li>
     <li>subject->short-distance flight</li>
     <li>subject_story->operated an entertainment park focused on extreme experiences, including boomrat petting and jump pack courses</li>
     <li>subject_story->ran mountaineering tours on low-grav planets, where jump packs and oxygen masks were mandatory</li>
     <li>subject_story->bypassed the turret defenses of officer training with a jump pack assault</li>
     <li>subject_gerund->performing aerial assaults</li>
-    <li>subject_gerund->crafting jump packs</li>
-  -->
+    <li>subject_gerund->crafting jump packs</li>-->
+  <!--VI: <li>gói nhảy > đối tượng</li>
+    <li>đối tượng-> chuyến bay đường ngắn</li>
+    <li>subject_story-> điều hành một công viên giải trí tập trung vào những trải nghiệm khắc nghiệt, bao gồm các khóa học vuốt ve boomrat và jump pack</li>
+    <li>Các chuyến tham quan leo núi subject_story-> trên các hành tinh có trọng lực thấp, nơi bắt buộc phải mang gói nhảy và mặt nạ oxy</li>
+    <li>subject_story-> vượt qua hệ thống phòng thủ tháp pháo của huấn luyện sĩ quan bằng một cuộc tấn công nhảy gói</li>
+    <li>subject_gerund > thực hiện các cuộc tấn công trên không</li>
+    <li>Gói nhảy subject_gerund >chế tạo</li>-->
   <JumpPack.generalRules.rulesStrings>TODO</JumpPack.generalRules.rulesStrings>
-  
   <!-- EN: noble apparel -->
   <NobleApparel.label>trang phục quý phái</NobleApparel.label>
   <!-- EN: Tailor noble-specific apparel like formal shirts and top hats. -->
   <NobleApparel.description>May trang phục đặc biệt quý phái như áo ruffle và áo choàng hoàng gia.</NobleApparel.description>
-  <!-- EN:
-    <li>subject->formal apparel</li>
+  <!--EN: <li>subject->formal apparel</li>
     <li>subject->noble apparel</li>
     <li>subject_story->crafted formal corsetry for urbworld student graduations</li>
     <li>subject_story->was employed by a noble house to shape its top hats</li>
     <li>subject_story->invented a new style of beret that was all the rage for an entire season</li>
     <li>subject_gerund->tailoring for the nobility</li>
-    <li>subject_gerund->crafting noble apparel</li>
-  -->
+    <li>subject_gerund->crafting noble apparel</li>-->
+  <!--VI: Trang <li>phục > trang trọng</li>
+    chủ <li>thể-> trang phục quý tộc</li>
+    <li>Áo nịt ngực chính thức subject_story > chế tạo cho sinh viên tốt nghiệp Urbworld</li>
+    <li>subject_story-> được thuê bởi một gia đình quý tộc để tạo hình những chiếc mũ cao nhất của nó</li>
+    <li>subject_story-> phát minh ra một phong cách mũ nồi mới đã trở nên thịnh nộ trong cả mùa</li>
+    <li>subject_gerund-> may cho giới quý tộc</li>
+    <li>subject_gerund > thủ công trang phục quý tộc</li>-->
   <NobleApparel.generalRules.rulesStrings>TODO</NobleApparel.generalRules.rulesStrings>
-  
   <!-- EN: royal apparel -->
   <RoyalApparel.label>trang phục hoàng gia</RoyalApparel.label>
   <!-- EN: Tailor royal apparel of the highest tier, like royal robes and crowns. -->
   <RoyalApparel.description>May trang phục hoàng gia của tầng lớp cai trị cao nhất, như áo choàng hoàng gia và vương miện.</RoyalApparel.description>
-  <!-- EN:
-    <li>subject->royal apparel</li>
+  <!--EN: <li>subject->royal apparel</li>
     <li>subject_story->worked for an entire year to create royal robes for a coronation</li>
     <li>subject_story->studied the heraldric requirements of different noble groups to ensure any outfits were appropriate</li>
     <li>subject_story->was raised to the Imperial nobility and commissioned their own robes and coronet</li>
     <li>subject_gerund->tailoring for monarchs</li>
-    <li>subject_gerund->crafting royal apparel</li>
-  -->
+    <li>subject_gerund->crafting royal apparel</li>-->
+  <!--VI: <li>Đối tượng-> trang phục hoàng gia</li>
+    <li>subject_story-> làm việc trong cả năm để tạo ra áo choàng hoàng gia cho lễ đăng quang</li>
+    <li>subject_story-> nghiên cứu các yêu cầu huy hiệu của các nhóm quý tộc khác nhau để đảm bảo bất kỳ trang phục nào cũng phù hợp</li>
+    <li>subject_story-> được nâng lên thành quý tộc Hoàng gia và đặt hàng áo choàng và vương miện của riêng họ</li>
+    <li>subject_gerund-> may cho vua</li>
+    <li>Trang phục hoàng gia subject_gerund > thủ công</li>-->
   <RoyalApparel.generalRules.rulesStrings>TODO</RoyalApparel.generalRules.rulesStrings>
-  
 </LanguageData>

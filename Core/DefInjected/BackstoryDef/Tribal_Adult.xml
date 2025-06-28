@@ -1,228 +1,227 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
+  <!--EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons.-->
+  <!--VI: [PAWN_nameDef] chiến đấu cho bộ tộc [PAWN_possessive]. [PAWN_pronoun] và chuyên sử dụng cung, pila và các vũ khí tầm xa khác.-->
   <Archer25.description>TODO</Archer25.description>
   <Archer25.baseDesc>[PAWN_nameDef] đã chiến đấu cho bộ lạc [PAWN_possessive]. [PAWN_pronoun] chuyên sử dụng cung tên, giáo và các vũ khí tầm xa khác.</Archer25.baseDesc>
   <!-- EN: archer -->
   <Archer25.title>Người bắn cung</Archer25.title>
   <!-- EN: archer -->
   <Archer25.titleShort>Người bắn cung</Archer25.titleShort>
-  
-  <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
+  <!--EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time.-->
+  <!--VI: Bộ lạc của [PAWN_nameDef] bị trục xuất [PAWN_objective] sau một cuộc tranh chấp đẫm máu. [PAWN_pronoun] sống sót một mình trong vùng hoang dã trong một thời gian dài.-->
   <Banished68.description>TODO</Banished68.description>
   <Banished68.baseDesc>Bộ lạc của [PAWN_nameDef] trục xuất [PAWN_objective] sau một cuộc tranh chấp đẫm máu. [PAWN_pronoun] sống sót một mình trong tự nhiên trong một thời gian dài.</Banished68.baseDesc>
   <!-- EN: banished -->
   <Banished68.title>Người bị đày</Banished68.title>
   <!-- EN: banished -->
   <Banished68.titleShort>Người bị đày</Banished68.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
+  <!--EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe.-->
+  <!--VI: [PAWN_nameDef] sử dụng ikwa, rìu, gậy và các vũ khí tầm gần khác trong các trận chiến giành bộ tộc [PAWN_possessive].-->
   <Brave88.description>TODO</Brave88.description>
   <Brave88.baseDesc>[PAWN_nameDef] đã sử dụng cây lao, rìu, gậy và các vũ khí cận chiến khác trong các trận chiến của bộ tộc [PAWN_possessive].</Brave88.baseDesc>
   <!-- EN: brave -->
   <Brave88.title>Chiến binh dũng cảm</Brave88.title>
   <!-- EN: brave -->
   <Brave88.titleShort>Chiến binh dũng cảm</Brave88.titleShort>
-  
-  <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
+  <!--EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time.-->
+  <!--VI: Công việc chính của [PAWN_nameDef] trong nhóm săn bắn là giết mổ động vật. [PAWN_pronoun] trở thành bậc thầy với con dao, có thể khai thác từng chút giá trị từ xác trong một thời gian ngắn.-->
   <Butcher40.description>TODO</Butcher40.description>
   <Butcher40.baseDesc>Công việc chính của [PAWN_nameDef] trong nhóm săn bắn là giết thịt động vật. [PAWN_pronoun] đã trở thành bậc thầy với con dao, có thể lóc thịt trong thời gian ngắn.</Butcher40.baseDesc>
   <!-- EN: butcher -->
   <Butcher40.title>Đồ tể</Butcher40.title>
   <!-- EN: butcher -->
   <Butcher40.titleShort>Đồ tể</Butcher40.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
+  <!--EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals.-->
+  <!--VI: [PAWN_nameDef] chạm khắc các tác phẩm nghệ thuật cho bộ lạc [PAWN_possessive] từ gỗ, đá và đôi khi, các vật liệu kỳ lạ hơn. Tác phẩm đôi khi được bán, và đôi khi được giữ lại để làm đẹp các khu định cư và cung cấp trọng tâm cho các nghi lễ.-->
   <Carver1.description>TODO</Carver1.description>
   <Carver1.baseDesc>[PAWN_nameDef] đã chạm khắc các tác phẩm nghệ thuật cho bộ tộc của mình từ gỗ, đá và đôi khi, những vật liệu kỳ lạ hơn. Tác phẩm đôi khi được bán, và đôi khi được giữ lại để làm đẹp cho các khu định cư và cung cấp tiêu điểm cho các nghi lễ.</Carver1.baseDesc>
   <!-- EN: carver -->
   <Carver1.title>Thợ điêu khắc</Carver1.title>
   <!-- EN: carver -->
   <Carver1.titleShort>Thợ điêu khắc</Carver1.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
+  <!--EN: [PAWN_nameDef] specialized in cave complex excavation and construction.-->
+  <!--VI: [PAWN_nameDef] chuyên khai quật và xây dựng phức hợp hang động.-->
   <CaveBuilder81.description>TODO</CaveBuilder81.description>
   <CaveBuilder81.baseDesc>[PAWN_nameDef] chuyên về khai quật và xây dựng các hang động phức tạp.</CaveBuilder81.baseDesc>
   <!-- EN: cave builder -->
   <CaveBuilder81.title>Người xây dựng hang động</CaveBuilder81.title>
   <!-- EN: cave builder -->
   <CaveBuilder81.titleShort>Người xây dựng hang động</CaveBuilder81.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
+  <!--EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions.-->
+  <!--VI: [PAWN_nameDef] làm việc trong hầm mỏ và hang động, đào không gian để lưu trữ vật phẩm và ẩn nấp khỏi các mối đe dọa. Công việc [PAWN_possessive] đã cung cấp nơi ẩn náu cho bạn bè [PAWN_possessive] trong nhiều dịp.-->
   <Digger31.description>TODO</Digger31.description>
   <Digger31.baseDesc>[PAWN_nameDef] đã làm việc trong các hầm mỏ và hang động, đào ra các không gian để cất giữ các vật phẩm và ẩn náu khỏi các mối đe dọa. Công việc [PAWN_possessive] đã cung cấp các điểm ẩn náu cho bạn bè [PAWN_possessive] trong nhiều dịp.</Digger31.baseDesc>
   <!-- EN: digger -->
   <Digger31.title>Thợ đào</Digger31.title>
   <!-- EN: digger -->
   <Digger31.titleShort>Thợ đào</Digger31.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <!--EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls.-->
+  <!--VI: [PAWN_nameDef chạm khắc không gian sống và khai thác khoáng sản từ sườn đồi và núi. [PAWN_pronoun] học cách cảm thấy như ở nhà, nhặt qua đá và chống đỡ các bức tường hang động.-->
   <Digger66.description>TODO</Digger66.description>
   <Digger66.baseDesc>[PAWN_nameDef] chạm khắc không gian sống và khai thác khoáng sản từ các sườn đồi và núi. [PAWN_pronoun] học cách cảm thấy như ở nhà khi xuyên qua đá và leo lên các bức tường hang động.</Digger66.baseDesc>
   <!-- EN: digger -->
   <Digger66.title>Thợ đào</Digger66.title>
   <!-- EN: digger -->
   <Digger66.titleShort>Thợ đào</Digger66.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
+  <!--EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools.-->
+  <!--VI: [PAWN_nameDef] làm việc tại các địa điểm khai quật, khai thác các vật phẩm và vật liệu có giá trị từ những tàn tích nén chặt cổ xưa. [PAWN_pronoun] đã học cách phát hiện các vật có giá trị trong lòng đất và sử dụng nhiều công cụ khai quật.-->
   <Excavator55.description>TODO</Excavator55.description>
   <Excavator55.baseDesc>[PAWN_nameDef] đã làm việc tại các điểm đào, khai thác các vật phẩm và vật liệu có giá trị từ những tàn tích nén chặt cổ đại. [PAWN_pronoun] đã học cách phát hiện những vật có giá trị trong lòng đất và sử dụng nhiều công cụ khai quật khác nhau.</Excavator55.baseDesc>
   <!-- EN: excavator -->
   <Excavator55.title>Máy xúc</Excavator55.title>
   <!-- EN: excavator -->
   <Excavator55.titleShort>Máy xúc</Excavator55.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
+  <!--EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job.-->
+  <!--VI: [PAWN_nameDef] chịu trách nhiệm xây dựng các cấu trúc cho [PAWN_possessive] đồng bào bộ lạc sinh sống. Điều này bao gồm cả các cấu trúc tạm thời cho du mục du mục và các khu định cư lâu dài. Thu thập vật liệu xây dựng từ đời sống thực vật địa phương là một phần của công việc.-->
   <Framer37.description>TODO</Framer37.description>
   <Framer37.baseDesc>[PAWN_nameDef] chịu trách nhiệm xây dựng các công trình kiến trúc cho những người đồng bộ lạc của mình sinh sống. Điều này bao gồm cả các công trình kiến trúc tạm thời để du mục và các khu định cư lâu dài. Thu thập vật liệu xây dựng từ đời sống thực vật địa phương là một phần của công việc.</Framer37.baseDesc>
   <!-- EN: framer -->
   <Framer37.title>Kiến trúc sư</Framer37.title>
   <!-- EN: framer -->
   <Framer37.titleShort>Kiến trúc sư</Framer37.titleShort>
-  
-  <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
+  <!--EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals.-->
+  <!--VI: Sử dụng kiến thức PAWN_possessive về thực vật, rễ và quả mọng, [PAWN_nameDef] có thể tìm thấy thức ăn ngay cả trong những cảnh quan cằn cỗi nhất. [PAWN_pronoun] tránh xa động vật.-->
   <Gatherer70.description>TODO</Gatherer70.description>
   <Gatherer70.baseDesc>Sử dụng kiến thức của mình về thực vật, rễ và quả mọng, [PAWN_nameDef] có thể tìm thấy thức ăn ở ngay cả những vùng đất cằn cỗi nhất. [PAWN_pronoun] tránh xa động vật.</Gatherer70.baseDesc>
   <!-- EN: gatherer -->
   <Gatherer70.title>Người hái lượm</Gatherer70.title>
   <!-- EN: gatherer -->
   <Gatherer70.titleShort>Người hái lượm</Gatherer70.titleShort>
-  
-  <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
+  <!--EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies.-->
+  <!--VI: Sau khi [PAWN_possessive] người chữa bệnh lớn tuổi của bộ lạc bị giết trong một cuộc đột kích, [PAWN_nameDef] đảm nhận vai trò này. [PAWN_pronoun] đã dành [PAWN_possessive] ngày để tìm kiếm các loại thảo mộc và hợp chất khoáng chất từ khu vực lân cận để sử dụng trong các biện pháp khắc phục hiệu quả đáng ngạc nhiên.-->
   <Healer46.description>TODO</Healer46.description>
   <Healer46.baseDesc>Sau khi người chữa bệnh lớn tuổi của bộ tộc [PAWN_pronoun] bị giết trong một cuộc đột kích, [PAWN_nameDef] đã đảm nhận vai trò này. [PAWN_pronoun] đã dành cả ngày của mình để tìm kiếm các loại thảo mộc và hợp chất khoáng từ khu vực gần đó để sử dụng trong các bài thuốc hiệu quả đáng ngạc nhiên.</Healer46.baseDesc>
   <!-- EN: healer -->
   <Healer46.title>Thầy thuốc</Healer46.title>
   <!-- EN: healer -->
   <Healer46.titleShort>Thầy thuốc</Healer46.titleShort>
-  
-  <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
+  <!--EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick.-->
+  <!--VI: Trong khi những người khác ra ngoài săn bắn và kiếm ăn, [PAWN_nameDef sẽ ở nhà để nấu ăn và chăm sóc trẻ và bệnh tật.-->
   <HearthTender66.description>TODO</HearthTender66.description>
   <HearthTender66.baseDesc>Trong khi những người khác ra ngoài săn bắn và kiếm ăn, [PAWN_nameDef] sẽ ở nhà nấu ăn và chăm sóc những đứa trẻ ốm yếu.</HearthTender66.baseDesc>
   <!-- EN: hearth tender -->
   <HearthTender66.title>Tấm lòng nhân hậu</HearthTender66.title>
   <!-- EN: tender -->
   <HearthTender66.titleShort>Nhân hậu</HearthTender66.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
+  <!--EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail.-->
+  <!--VI: [PAWN_nameDef] chăn nhiều loại động vật khác nhau để giúp cho bộ lạc [PAWN_possessive] ăn khi đang di chuyển. [PAWN_nameDef] đã học cách trấn an và chỉ đạo những con thú, và cách tự săn [PAWN_possessive] bữa ăn trên đường mòn.-->
   <Herder33.description>TODO</Herder33.description>
   <Herder33.baseDesc>[PAWN_nameDef] chăn nuôi nhiều loại động vật để giúp kiếm ăn và quần áo cho bộ tộc [PAWN_possessive] khi đang di chuyển. [PAWN_nameDef] đã học cách trấn tĩnh và chỉ đạo những con thú, cũng như cách tự săn bắt những bữa ăn của mình trên đường mòn.</Herder33.baseDesc>
   <!-- EN: herder -->
   <Herder33.title>Ngưới chăn gia súc</Herder33.title>
   <!-- EN: herder -->
   <Herder33.titleShort>Ngưới chăn gia súc</Herder33.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
+  <!--EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals.-->
+  <!--VI: [PAWN_nameDef] theo dõi, bẫy và giết động vật để lấy thịt và da của chúng.\n\n[PAWN_nameDef] sử dụng cả vũ khí tầm xa và cận chiến. Đôi khi, [PAWN_pronoun] săn bắn cùng với động vật.-->
   <Hunter74.description>TODO</Hunter74.description>
   <Hunter74.baseDesc>[PAWN_nameDef] đã theo dõi, đánh bẫy và giết động vật để lấy thịt và da của chúng. [PAWN_nameDef] đã sử dụng cả vũ khí tầm xa và cận chiến. Đôi khi, [PAWN_pronoun] đi săn cùng với động vật.</Hunter74.baseDesc>
   <!-- EN: hunter -->
   <Hunter74.title>Thợ săn</Hunter74.title>
   <!-- EN: hunter -->
   <Hunter74.titleShort>Thợ săn</Hunter74.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
+  <!--EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo.-->
+  <!--VI: [PAWN_nameDef] chặt cây và kéo gỗ của họ trở lại bộ lạc. [PAWN_pronoun] cầm rìu [PAWN_possessive với sự khéo léo của một nghệ sĩ và sức mạnh của một chiếc muffalo đang sạc.-->
   <Logger16.description>TODO</Logger16.description>
   <Logger16.baseDesc>[PAWN_nameDef] chặt cây và vận chuyển gỗ trở lại bộ lạc. [PAWN_pronoun] sử dụng chiếc rìu của mình với sự khéo léo như một nghệ sĩ và lực lao tới giống như một con Muffalo.</Logger16.baseDesc>
   <!-- EN: logger -->
   <Logger16.title>Tiều phu</Logger16.title>
   <!-- EN: logger -->
   <Logger16.titleShort>Tiều phu</Logger16.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
+  <!--EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills.-->
+  <!--VI: [PAWN_nameDef không bao giờ thích hội đồng bộ lạc hoặc các lễ hội hàng năm. [PAWN_pronoun] thích đồng bằng rộng mở và tiếng gió thổi qua những tảng đá.\n\n[PAWN_pronoun] thỉnh thoảng đến thăm bộ tộc [PAWN_possessive], nhưng chủ yếu chăm PAWN_objective sóc bản thân bằng cách sử dụng các kỹ năng sinh tồn của chính [PAWN_possessive].-->
   <Loner61.description>TODO</Loner61.description>
   <Loner61.baseDesc>[PAWN_nameDef] không bao giờ thích hội đồng bộ lạc hoặc các lễ hội hàng năm. [PAWN_pronoun] thích vùng đồng bằng rộng mở và tiếng gió thổi qua những tảng đá.\n\n[PAWN_pronoun] thỉnh thoảng đến thăm bộ tộc của mình, nhưng chủ yếu là chăm sóc bản thân bằng cách sử dụng các kỹ năng sinh tồn của chính mình.</Loner61.baseDesc>
   <!-- EN: loner -->
   <Loner61.title>Người cô độc</Loner61.title>
   <!-- EN: loner -->
   <Loner61.titleShort>Người cô độc</Loner61.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
+  <!--EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories.-->
+  <!--VI: [PAWN_nameDef] là một trong những dòng dài những người giữ truyền thuyết trong bộ tộc [PAWN_possessive]. Mỗi đêm xung quanh đống lửa, [PAWN_pronoun] sẽ truyền lại kiến thức cổ xưa và sự khôn ngoan hữu ích thông qua những câu chuyện.-->
   <LoreKeeper51.description>TODO</LoreKeeper51.description>
   <LoreKeeper51.baseDesc>[PAWN_nameDef] là một trong những người lưu giữ truyền thuyết lâu đời trong bộ tộc của mình. Mỗi đêm quanh đống lửa, [PAWN_pronoun] sẽ truyền lại những kiến thức cổ xưa và những thông thái hữu ích qua những câu chuyện.</LoreKeeper51.baseDesc>
   <!-- EN: lore keeper -->
   <LoreKeeper51.title>Người lưu giữ lịch sử</LoreKeeper51.title>
   <!-- EN: keeper -->
   <LoreKeeper51.titleShort>Người lưu giữ</LoreKeeper51.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
+  <!--EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children.-->
+  <!--VI: [PAWN_nameDef] thường giả vờ ốm để trốn tránh trách nhiệm của [PAWN_possessive]. Trong khi nghỉ ngơi trong túp lều bị bệnh, [PAWN_pronoun] kể những câu chuyện cho bọn trẻ.-->
   <Malingerer28.description>TODO</Malingerer28.description>
   <Malingerer28.baseDesc>[PAWN_nameDef] thường giả ốm để trốn tránh trách nhiệm của mình. Vừa nghỉ trong phòng bệnh, [PAWN_pronoun] vừa kể chuyện cho lũ trẻ nghe.</Malingerer28.baseDesc>
   <!-- EN: malingerer -->
   <Malingerer28.title>Ngườì giả ốm</Malingerer28.title>
   <!-- EN: malingerer -->
   <Malingerer28.titleShort>Ngườì giả ốm</Malingerer28.titleShort>
-  
-  <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
+  <!--EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo.-->
+  <!--VI: Nhờ [PAWN_possessive] sự khôn ngoan thầm lặng và sức mạnh vĩ đại, [PAWN_nameDef] đã trở thành người hướng dẫn tâm linh cho [PAWN_possessive] tộc. [PAWN_pronoun] có một mối liên hệ đặc biệt với tinh thần vĩ đại của bánh muffalo.-->
   <MuffaloShaman95.description>TODO</MuffaloShaman95.description>
   <MuffaloShaman95.baseDesc>Nhờ trí tuệ trầm lặng và sức mạnh tuyệt vời của mình, [PAWN_nameDef] đã trở thành người hướng dẫn tinh thần cho bộ tộc của mình. [PAWN_pronoun] có một mối liên hệ đặc biệt với tinh thần vĩ đại của Muffalo.</MuffaloShaman95.baseDesc>
   <!-- EN: muffalo shaman -->
   <MuffaloShaman95.title>Pháp sư Muffalo</MuffaloShaman95.title>
   <!-- EN: shaman -->
   <MuffaloShaman95.titleShort>Pháp sư</MuffaloShaman95.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
+  <!--EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits.-->
+  <!--VI: [PAWN_nameDef] đã giúp bộ lạc [PAWN_possessive] xây dựng các cấu trúc bằng gỗ khổng lồ bằng cách chặt cây thành những tấm ván chắc chắn. [PAWN_nameDef] đã phát triển một sự hiểu biết tốt về cách gỗ phát triển và tách ra.-->
   <PlankCutter72.description>TODO</PlankCutter72.description>
   <PlankCutter72.baseDesc>[PAWN_nameDef] đã giúp bộ tộc của mình xây dựng những công trình kiến trúc bằng gỗ khổng lồ bằng cách chặt cây thành những tấm ván chắc chắn. [PAWN_nameDef] đã phát triển sự hiểu biết sâu sắc về cách gỗ phát triển và phân chia.</PlankCutter72.baseDesc>
   <!-- EN: plank cutter -->
   <PlankCutter72.title>Thợ xẻ</PlankCutter72.title>
   <!-- EN: plank cutter -->
   <PlankCutter72.titleShort>Thợ xẻ</PlankCutter72.titleShort>
-  
-  <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
+  <!--EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines.-->
+  <!--VI: Vì bộ lạc [PAWN_possessive] tiếp xúc với những người ngoại địa địa phương, [PAWN_nameDef] đã ký hợp đồng với các dịch vụ [PAWN_possessive] để hướng dẫn. Tiếp xúc thường xuyên với công nghệ cổ xưa khiến [PAWN_objective] thoải mái với những cỗ máy bị mất.-->
   <Scout59.description>TODO</Scout59.description>
   <Scout59.baseDesc>Kể từ khi bộ lạc [PAWN_possessive] liên lạc với những người ngoại quốc địa phương, [PAWN_nameDef] đã ký hợp đồng dịch vụ [PAWN_possessive] với tư cách là một hướng dẫn viên. Tiếp xúc thường xuyên với công nghệ cổ đại khiến [PAWN_objective] cảm thấy thoải mái với những cỗ máy đã mất.</Scout59.baseDesc>
   <!-- EN: scout -->
   <Scout59.title>Trinh sát</Scout59.title>
   <!-- EN: scout -->
   <Scout59.titleShort>Trinh sát</Scout59.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
+  <!--EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self.-->
+  <!--VI: [PAWN_nameDef] chuẩn bị bữa ăn từ thực vật và động vật do những người hái lượm, nông dân và thợ săn của bộ tộc [PAWN_possessive] mang đến. [PAWN_pronoun] phải đảm bảo rằng nó tiết kiệm calo, lâu dài và tốt cho sức khỏe. [PAWN_pronoun] thường được chế biến và đôi khi tự thu thập PAWN_objective thực vật.-->
   <StewKeeper95.description>TODO</StewKeeper95.description>
   <StewKeeper95.baseDesc>[PAWN_nameDef] đã chuẩn bị bữa ăn từ thực vật và động vật do những người hái lượm, nông dân và thợ săn trong bộ tộc [PAWN_possessive] mang đến. [PAWN_pronoun] phải đảm bảo rằng nó đủ calo, lâu dài và tốt cho sức khỏe. [PAWN_pronoun] thường xử lý và đôi khi tự thu thập cây trồng.</StewKeeper95.baseDesc>
   <!-- EN: stew keeper -->
   <StewKeeper95.title>Người nấu thịt hầm</StewKeeper95.title>
   <!-- EN: stewkeeper -->
   <StewKeeper95.titleShort>Người nấu thịt hầm</StewKeeper95.titleShort>
-  
-  <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
+  <!--EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe.-->
+  <!--VI: Vai trò của [PAWN_nameDef] trong bộ tộc [PAWN_possessive] là kết nối với thế giới tự nhiên xung quanh - đặc biệt là thế giới động vật. Ngoài việc hoàn thành vai trò tâm linh, [PAWN_pronoun] còn thuần hóa thú hoang và chăm sóc chúng khi chúng phục vụ bộ lạc.-->
   <Tamer79.description>TODO</Tamer79.description>
   <Tamer79.baseDesc>Vai trò của [PAWN_nameDef] trong bộ tộc [PAWN_possessive] là kết nối với thế giới tự nhiên xung quanh - đặc biệt là thế giới động vật. Ngoài việc hoàn thành vai trò tâm linh, [PAWN_pronoun] còn thuần hóa thú rừng và chăm sóc chúng khi chúng phục vụ bộ tộc.</Tamer79.baseDesc>
   <!-- EN: tamer -->
   <Tamer79.title>Người thuần hóa</Tamer79.title>
   <!-- EN: tamer -->
   <Tamer79.titleShort>Người thuần hóa</Tamer79.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
+  <!--EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals.-->
+  <!--VI: [PAWN_nameDef] xây dựng những ngôi nhà giữa, và đôi khi treo lơ lửng trong cây, cho mọi người [PAWN_possessive] sử dụng khi đi du lịch hoặc kiếm ăn. [PAWN_nameDef] học cách tìm và sử dụng thực vật hoang dã tốt nhất, và cách chống lại động vật hoang dã.-->
   <TreehouseBuilder86.description>TODO</TreehouseBuilder86.description>
   <TreehouseBuilder86.baseDesc>[PAWN_nameDef] đã xây dựng những ngôi nhà và đôi khi treo lơ lửng trên cây để người dân [PAWN_possessive] sử dụng khi đi du lịch hoặc kiếm ăn. [PAWN_nameDef] đã học cách tìm và sử dụng tốt nhất các loài thực vật hoang dã cũng như cách chống lại động vật hoang dã.</TreehouseBuilder86.baseDesc>
   <!-- EN: treehouse builder -->
   <TreehouseBuilder86.title>Kiến trúc sư nhà trên cây</TreehouseBuilder86.title>
   <!-- EN: treehouse builder -->
   <TreehouseBuilder86.titleShort>Kiến trúc sư</TreehouseBuilder86.titleShort>
-  
-  <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
+  <!--EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt.-->
+  <!--VI: Sau cái chết của một người bạn thân do động vật tấn công, [PAWN_nameDef] đã săn lùng con thú chịu trách nhiệm. [PAWN_pronoun] theo dõi nó đến một ngôi làng gần đó, chỉ để tìm thấy một trong những dân làng mặc da của nó.-->
   <VengefulHunter32.description>TODO</VengefulHunter32.description>
   <VengefulHunter32.baseDesc>Sau cái chết của một người bạn thân bởi sự tấn công của động vật, [PAWN_nameDef] đã săn con thú đó. [PAWN_pronoun] lần theo dấu vết của nó đến một ngôi làng gần đó, chỉ để tìm thấy một trong những người dân trong làng đang đeo chiếc áo choàng làm từ nó.</VengefulHunter32.baseDesc>
   <!-- EN: vengeful hunter -->
   <VengefulHunter32.title>Thợ săn báo thù</VengefulHunter32.title>
   <!-- EN: vengeful -->
   <VengefulHunter32.titleShort>Báo thù</VengefulHunter32.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
+  <!--EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles.-->
+  <!--VI: [PAWN_nameDef] là một chiến binh đáng sợ, thành thạo với nhiều vũ khí. [PAWN_pronoun] tham gia nhiều trận chiến.-->
   <Warrior94.description>TODO</Warrior94.description>
   <Warrior94.baseDesc>[PAWN_nameDef] là một chiến binh đáng sợ, thành thạo nhiều vũ khí. [PAWN_pronoun] đã tham gia vào nhiều trận chiến.</Warrior94.baseDesc>
   <!-- EN: warrior -->
   <Warrior94.title>Chiến binh</Warrior94.title>
   <!-- EN: warrior -->
   <Warrior94.titleShort>Chiến binh</Warrior94.titleShort>
-  
-  <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
+  <!--EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements.-->
+  <!--VI: [PAWN_nameDef] là một chuyên gia trong việc chế biến len, sợi thực vật và thuốc nhuộm tự nhiên thành quần áo đẹp cho [PAWN_possessive] thân. [PAWN_possessive] hàng thủ công mỹ nghệ được buôn bán thường xuyên với các khu định cư khác.-->
   <Weaver63.description>TODO</Weaver63.description>
   <Weaver63.baseDesc>[PAWN_nameDef] là một chuyên gia về làm việc với vải, sợi tơ và thuốc nhuộm tự nhiên để làm thành quần áo đẹp cho họ hàng [PAWN_possessive]. Đồ thủ công mỹ nghệ [PAWN_possessive] được giao dịch thường xuyên với các khu định cư khác.</Weaver63.baseDesc>
   <!-- EN: weaver -->
   <Weaver63.title>Thợ dệt</Weaver63.title>
   <!-- EN: weaver -->
   <Weaver63.titleShort>Thợ dệt</Weaver63.titleShort>
-  
 </LanguageData>

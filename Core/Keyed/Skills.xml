@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- EN: Level -->
   <Level>Cấp độ</Level>
   <!-- EN: skill level -->
@@ -35,9 +34,9 @@
   <LevelCappedAtMax>Cấp giới hạn ở {0}.</LevelCappedAtMax>
   <!-- EN: {GENE_label} gene -->
   <GeneLabelWithDesc>gen {GENE_label}</GeneLabelWithDesc>
-  <!-- EN: {TRAITLABEL} trait -->
+  <!--EN: {TRAITLABEL} trait-->
+  <!--VI: Đặc điểm {TRAITLABEL}-->
   <TraitLabelWithDesc>TODO</TraitLabelWithDesc>
-
   <!-- EN: Barely heard of it -->
   <Skill0>Chưa biết gì</Skill0>
   <!-- EN: Utter beginner -->
@@ -80,5 +79,4 @@
   <Skill19>Đứng đầu thế giới</Skill19>
   <!-- EN: Legendary master -->
   <Skill20>Huyền thoại</Skill20>
-  
 </LanguageData>

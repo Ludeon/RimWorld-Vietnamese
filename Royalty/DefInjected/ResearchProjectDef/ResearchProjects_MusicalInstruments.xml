@@ -1,49 +1,60 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: harp -->
   <Harp.label>đàn hạc</Harp.label>
   <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
   <Harp.description>Chế tạo đàn hạc, một nhạc cụ cố định đơn giản phổ biến trong giới quý tộc ở một số nền văn hóa.</Harp.description>
-  <!-- EN:
-    <li>subject->harps</li>
+  <!--EN: <li>subject->harps</li>
     <li>subject->simple string instruments</li>
     <li>subject_story->trained in the school of music</li>
     <li>subject_story->constructed a harp from common feral world materials</li>
     <li>subject_story->performed a harp solo for the Imperial nobility</li>
     <li>subject_story->practiced glissandos every day</li>
     <li>subject_story->researched the cultural significance of stringed instrument usage</li>
-    <li>subject_gerund->playing the harp</li>
-  -->
+    <li>subject_gerund->playing the harp</li>-->
+  <!--VI: <li>đối tượng-đàn hạc ></li>
+    <li>nhạc cụ dây > đơn giản</li>
+    <li>subject_story-> đào tạo tại trường âm nhạc</li>
+    <li>subject_story-> chế tạo một cây đàn hạc từ các vật liệu thế giới hoang dã thông thường</li>
+    <li>subject_story-> biểu diễn độc tấu đàn hạc cho giới quý tộc Hoàng gia</li>
+    <li>subject_story > thực hành glissando mỗi ngày</li>
+    <li>subject_story-> nghiên cứu ý nghĩa văn hóa của việc sử dụng nhạc cụ dây</li>
+    <li>subject_gerund > chơi đàn hạc</li>-->
   <Harp.generalRules.rulesStrings>TODO</Harp.generalRules.rulesStrings>
-  
   <!-- EN: harpsichord -->
   <Harpsichord.label>đàn harpsichord</Harpsichord.label>
   <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
   <Harpsichord.description>Chế tạo đàn harpsichord, một nhạc cụ văn phòng phẩm phức tạp.</Harpsichord.description>
-  <!-- EN:
-    <li>subject->harpsichord</li>
+  <!--EN: <li>subject->harpsichord</li>
     <li>subject_story->led a renaissance in the harpsichord in the coreworld systems</li>
     <li>subject_story->tuned harpsichords for concert use on Glitterworlds</li>
     <li>subject_story->took up a role as lead harpischordist for the local philharmonic</li>
     <li>subject_story->constructed dual-keyboard harpsichords focused on harmonics</li>
-    <li>subject_gerund->playing the harpsichord</li>
-  -->
+    <li>subject_gerund->playing the harpsichord</li>-->
+  <!--VI: <li>chủ đề->đàn harpsichord</li>
+    <li>subject_story-> dẫn dắt một thời kỳ phục hưng trong đàn harpsichord trong hệ thống Coreworld</li>
+    <li>đàn harpsichord subject_story-> được điều chỉnh để sử dụng buổi hòa nhạc trên Glitterworlds</li>
+    <li>subject_story->đảm nhận vai trò là nghệ sĩ harpischord chính cho dàn nhạc giao hưởng địa phương</li>
+    <li>Harpsichord bàn phím kép > được xây dựng subject_story tập trung vào sóng hài</li>
+    <li>subject_gerund > chơi harpsichord</li>-->
   <Harpsichord.generalRules.rulesStrings>TODO</Harpsichord.generalRules.rulesStrings>
-  
   <!-- EN: piano -->
   <Piano.label>đàn piano</Piano.label>
   <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
   <Piano.description>Chế tạo đàn piano, một nhạc cụ cố định tiên tiến.</Piano.description>
-  <!-- EN:
-    <li>subject->piano</li>
+  <!--EN: <li>subject->piano</li>
     <li>subject_story->was acquainted with the entire corpus of stringed instruments</li>
     <li>subject_story->joined a music academy, where the students learned about composers as much as the piano itself</li>
     <li>subject_story->transported pianos between the coreworlds</li>
     <li>subject_story->recorded the techniques of several master pianists</li>
     <li>subject_story->constructed a strange piano</li>
-    <li>subject_gerund->playing the piano</li>
-  -->
+    <li>subject_gerund->playing the piano</li>-->
+  <!--VI: <li>chủ đề->piano</li>
+    <li>subject_story-> quen thuộc với toàn bộ kho nhạc cụ dây</li>
+    <li>subject_story->tham gia một học viện âm nhạc, nơi các sinh viên tìm hiểu về các nhà soạn nhạc cũng như bản thân cây đàn piano</li>
+    <li>Đàn piano subject_story > vận chuyển giữa các thế giới cốt lõi</li>
+    <li>subject_story-> ghi lại các kỹ thuật của một số nghệ sĩ piano bậc thầy</li>
+    <li>subject_story-> chế tạo một cây đàn piano kỳ lạ</li>
+    <li>subject_gerund > chơi piano</li>-->
   <Piano.generalRules.rulesStrings>TODO</Piano.generalRules.rulesStrings>
-  
 </LanguageData>

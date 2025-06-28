@@ -1,74 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: Armor - Blunt -->
   <ArmorRating_Blunt.label>Giáp - Đập</ArmorRating_Blunt.label>
   <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
   <ArmorRating_Blunt.description>Áo giáp chống lại thiệt hại cùn như nắm đấm, va chạm từ gậy và đá rơi.\n\nĐây là phần trăm khả năng một cuộc tấn công sẽ bị chặn bởi áo giáp. Một khi thiệt hại bị chặn lại, có 50% khả năng nó sẽ bị lệch hoàn toàn, và 50% khả năng nó sẽ được hấp thụ một phần và chuyển thành phân nữa tác động đập gây thiệt hại. Nhiều cuộc tấn công xuyên giáp sẽ hủy bỏ một phần của tác dụng áo giáp này.</ArmorRating_Blunt.description>
   <!-- EN: Armor - Blunt (armor stat) -->
   <ArmorRating_Blunt.labelForFullStatList>Giáp - Đập (chỉ số giáp)</ArmorRating_Blunt.labelForFullStatList>
-  
   <!-- EN: Armor - Heat -->
   <ArmorRating_Heat.label>Giáp - Nhiệt</ArmorRating_Heat.label>
   <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
   <ArmorRating_Heat.description>Giáp chống lại sát thương liên quan đến nhiệt độ như bỏng.\n\nĐây là phần trăm khả năng một cuộc tấn công sẽ bị chặn bởi áo giáp. Một khi thiệt hại bị chặn lại, có 50% khả năng nó sẽ bị lệch hoàn toàn, và 50% khả năng nó sẽ được hấp thụ một phần và chuyển thành phân nữa tác động đập gây thiệt hại. Nhiều cuộc tấn công xuyên giáp sẽ hủy bỏ một phần của tác dụng áo giáp này.</ArmorRating_Heat.description>
   <!-- EN: Armor - Heat (armor stat) -->
   <ArmorRating_Heat.labelForFullStatList>Giáp - Nhiệt (chỉ số giáp)</ArmorRating_Heat.labelForFullStatList>
-  
   <!-- EN: Armor - Sharp -->
   <ArmorRating_Sharp.label>Giáp - Sắc Bén</ArmorRating_Sharp.label>
   <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
   <ArmorRating_Sharp.description>Giáp chống lại sát thương sắc bén như đạn, dao, vụ nổ và động vật cắn.\n\nĐây là phần trăm khả năng một cuộc tấn công sẽ bị chặn bởi áo giáp. Một khi thiệt hại bị chặn lại, có 50% khả năng nó sẽ bị lệch hoàn toàn, và 50% khả năng nó sẽ được hấp thụ một phần và chuyển thành phân nữa tác động đập gây thiệt hại. Nhiều cuộc tấn công xuyên giáp sẽ hủy bỏ một phần của tác dụng áo giáp này.</ArmorRating_Sharp.description>
   <!-- EN: Armor - Sharp (armor stat) -->
-  <ArmorRating_Sharp.labelForFullStatList>>Giáp - Sắc Bén (chỉ số giáp)</ArmorRating_Sharp.labelForFullStatList>
-  
+  <ArmorRating_Sharp.labelForFullStatList>&gt;Giáp - Sắc Bén (chỉ số giáp)</ArmorRating_Sharp.labelForFullStatList>
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>Khiên năng lượng tối đa</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
   <EnergyShieldEnergyMax.description>Năng lượng tối đa mà một vành đai lá chắn có thể có cùng một lúc.\n\nNhiều năng lượng hấp thụ thiệt hại nhiều hơn.</EnergyShieldEnergyMax.description>
-  
   <!-- EN: Shield recharge rate -->
   <EnergyShieldRechargeRate.label>Tốc độ hồi khiên năng lượng</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
   <EnergyShieldRechargeRate.description>Tốc độ mà một lá chắn hồi phục lại năng lượng miễn là nó không bị phá vỡ.</EnergyShieldRechargeRate.description>
   <!-- EN: {0}/s -->
   <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
-  
   <!-- EN: equip delay -->
   <EquipDelay.label>Độ trễ khi mặc</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
   <EquipDelay.description>Thời gian cần thiết để trang bị và tháo gỡ vật phẩm này.</EquipDelay.description>
   <!-- EN: {0} s -->
   <EquipDelay.formatString>{0} giây</EquipDelay.formatString>
-  
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>Cách nhiệt - Lạnh</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
   <Insulation_Cold.description>Bao nhiêu trang phục này cải thiện nhiệt độ thoải mái tối thiểu của người mặc.\n\nGiá trị lớn hơn cho phép sống sót trong nhiệt độ lạnh hơn.</Insulation_Cold.description>
   <!-- EN: Insulation - Cold (armor stat) -->
   <Insulation_Cold.labelForFullStatList>Cách nhiệt - Lạnh (chỉ số giáp)</Insulation_Cold.labelForFullStatList>
-  
   <!-- EN: Insulation - Heat -->
   <Insulation_Heat.label>Cách nhiệt - Nóng</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
   <Insulation_Heat.description>Bao nhiêu trang phục này cải thiện nhiệt độ thoải mái tối đa của người mặc.\n\nGiá trị lớn hơn cho phép sống sót trong nhiệt độ ấm hơn.</Insulation_Heat.description>
   <!-- EN: Insulation - Heat (armor stat) -->
   <Insulation_Heat.labelForFullStatList>Cách nhiệt - Lạnh (chỉ số giáp)</Insulation_Heat.labelForFullStatList>
-  
-  <!-- EN: Effect radius -->
+  <!--EN: Effect radius-->
+  <!--VI: Bán kính hiệu ứng-->
   <PackRadius.label>TODO</PackRadius.label>
-  <!-- EN: The area affected when this pack detonates. -->
+  <!--EN: The area affected when this pack detonates.-->
+  <!--VI: Khu vực bị ảnh hưởng khi bầy này phát nổ.-->
   <PackRadius.description>TODO</PackRadius.description>
-  <!-- EN: {0} c -->
+  <!--EN: {0} c-->
+  <!--VI: {0} c-->
   <PackRadius.formatString>TODO</PackRadius.formatString>
-  
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>Giáp - Hiệu quả tổng hợp</StuffEffectMultiplierArmor.label>
-  
   <!-- EN: Insulation - Cold - Material effect multiplier -->
   <StuffEffectMultiplierInsulation_Cold.label>Cách nhiệt - Lạnh - Hiệu quả tổng hợp</StuffEffectMultiplierInsulation_Cold.label>
-  
   <!-- EN: Insulation - Heat - Material effect multiplier -->
   <StuffEffectMultiplierInsulation_Heat.label>Cách nhiệt - Nhiệt - Hiệu quả tổng hợp</StuffEffectMultiplierInsulation_Heat.label>
-  
 </LanguageData>

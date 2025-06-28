@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- Ideoligions -->
   <!-- EN: Deities -->
   <Deities>Các vị thần</Deities>
@@ -46,7 +45,8 @@
   <Prohibitions>Những điều cấm</Prohibitions>
   <!-- EN: Opinions -->
   <Opinions>Ý kiến</Opinions>
-  <!-- EN: Mental breaks -->
+  <!--EN: Mental breaks-->
+  <!--VI: Nghỉ ngơi tinh thần-->
   <MentalBreaks>TODO</MentalBreaks>
   <!-- EN: Randomize name -->
   <RandomizeName>Tên ngẫu nhiên</RandomizeName>
@@ -118,7 +118,8 @@
   <IdeoCharityQuestInfo>Đây là nhiệm vụ từ thiện. Nếu bạn không thực hiện nó, những người tin tưởng vào {0} sẽ không hài lòng vì niềm tin từ thiện của họ. Nếu bạn làm như vậy, những người tin tưởng vào {0} sẽ rất vui ({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>Nô lệ sẽ không làm việc này</WorkDisabledSlave>
-  <!-- EN: Disabled by health condition -->
+  <!--EN: Disabled by health condition-->
+  <!--VI: Bị tàn tật do tình trạng sức khỏe-->
   <WorkDisabledHealth>TODO</WorkDisabledHealth>
   <!-- EN: Disabled by {0} role -->
   <WorkDisabledRole>Bị vô hiệu hóa bởi vai trò {0}</WorkDisabledRole>
@@ -190,21 +191,16 @@
   <IdeoImpactLabel_9>cực kỳ</IdeoImpactLabel_9>
   <!-- EN: This was your colony's starting ideoligion. -->
   <InitialPlayerIdeo>Đây là tư tưởng khởi đầu của thuộc địa của bạn.</InitialPlayerIdeo>
-  
-  
   <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
   <FluidIdeoTip>Vì hệ tư tưởng này quá mới và có quá ít người theo dõi trên hành tinh này nên nó rất dễ thay đổi. Điều này có nghĩa là nó có thể phát triển theo thời gian.\n\nViệc phát triển hệ tư tưởng sẽ tiêu tốn điểm phát triển. Bạn có thể kiếm điểm phát triển bằng cách hoàn thành các nghi lễ và nhiệm vụ liên quan đến hệ tư tưởng này.\n\nKhi có đủ điểm phát triển, bạn có thể cải tổ hệ tư tưởng bằng meme, giới luật, phong cách mới, v.v.</FluidIdeoTip>
   <!-- EN: How to get development points -->
   <FluidIdeoTipGetPoints>Cách nhận điểm phát triển</FluidIdeoTipGetPoints>
   <!-- EN: Convert someone to your ideoligion -->
   <FluidIdeoTipGetPoinsByConversion>Chuyển ai đó sang hệ tư tưởng của bạn</FluidIdeoTipGetPoinsByConversion>
-
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>{0} mở khóa những thứ mà bạn không thể xây dựng vì chúng yêu cầu mêm mà không ai trong số những người của bạn tin tưởng</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
   <SelectedWorkTypeOpposedByIdeo>Cảnh cáo: Loại công việc này bị {0_possessive} tín ngưỡng phản đối, vì vậy nó có thể khiến người này không hài lòng.</SelectedWorkTypeOpposedByIdeo>
-
   <!-- EN: Development points -->
   <DevelopmentPoints>Điểm phát triển</DevelopmentPoints>
-
 </LanguageData>

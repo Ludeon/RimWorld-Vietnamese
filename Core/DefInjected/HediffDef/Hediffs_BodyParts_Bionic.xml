@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: bionic arm -->
   <BionicArm.label>cánh tay sinh học</BionicArm.label>
   <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
@@ -9,68 +8,61 @@
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>nắm tay</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>một cánh tay sinh học</BionicArm.labelNoun>
-  
   <!-- EN: bionic ear -->
   <BionicEar.label>tai sinh học</BionicEar.label>
   <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
   <BionicEar.description>Một tai sinh học được lắp đặt.</BionicEar.description>
   <!-- EN: a bionic ear -->
   <BionicEar.labelNoun>một cái tai sinh học</BionicEar.labelNoun>
-  
   <!-- EN: bionic eye -->
   <BionicEye.label>mắt sinh học</BionicEye.label>
   <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
   <BionicEye.description>Một mắt sinh học được lắp đặt.</BionicEye.description>
   <!-- EN: a bionic eye -->
   <BionicEye.labelNoun>một con mắt sinh học</BionicEye.labelNoun>
-  
   <!-- EN: bionic heart -->
   <BionicHeart.label>tim sinh học</BionicHeart.label>
   <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>Một trái tim sinh học được lắp đặt.</BionicHeart.description>
   <!-- EN: a bionic heart -->
   <BionicHeart.labelNoun>một trái tim sinh học</BionicHeart.labelNoun>
-  
-  <!-- EN: bionic jaw -->
+  <!--EN: bionic jaw-->
+  <!--VI: hàm sinh học-->
   <BionicJaw.label>TODO</BionicJaw.label>
-  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <!--EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion.-->
+  <!--VI: Một hàm sinh học được cài đặt. Được làm từ xương sinh tổng hợp, với các thay thế răng plasteel và một bộ động cơ servo siêu nhỏ cho toàn bộ phạm vi chuyển động.-->
   <BionicJaw.description>TODO</BionicJaw.description>
-  <!-- EN: a bionic jaw -->
+  <!--EN: a bionic jaw-->
+  <!--VI: một hàm sinh học-->
   <BionicJaw.labelNoun>TODO</BionicJaw.labelNoun>
-  
   <!-- EN: bionic leg -->
   <BionicLeg.label>chân sinh học</BionicLeg.label>
   <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
   <BionicLeg.description>Một chân sinh học được lắp đặt.</BionicLeg.description>
   <!-- EN: a bionic leg -->
   <BionicLeg.labelNoun>một cái chân sinh học</BionicLeg.labelNoun>
-  
   <!-- EN: bionic spine -->
   <BionicSpine.label>cột sống sinh học</BionicSpine.label>
   <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
   <BionicSpine.description>Một cột sống sinh học được lắp đặt.</BionicSpine.description>
   <!-- EN: a bionic spine -->
   <BionicSpine.labelNoun>một cái cột sống sinh học</BionicSpine.labelNoun>
-  
   <!-- EN: bionic stomach -->
   <BionicStomach.label>dạ dày sinh học</BionicStomach.label>
   <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>Một dạ dày sinh học được lắp đặt.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>một cái dạ dày sinh học</BionicStomach.labelNoun>
-  
   <!-- EN: bionic tongue -->
   <BionicTongue.label>lưỡi sinh học</BionicTongue.label>
   <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
   <BionicTongue.description>Một lưỡi sinh học được cài đặt.</BionicTongue.description>
   <!-- EN: a bionic tongue -->
   <BionicTongue.labelNoun>một cái lưỡi sinh học</BionicTongue.labelNoun>
-  
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>lắp a-xít hủy xác</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Một a-xít hủy xác được lắp đặt đặt bên trong.</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
   <DeathAcidifier.labelNoun>một a-xít huỷ xác</DeathAcidifier.labelNoun>
-  
 </LanguageData>

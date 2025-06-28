@@ -1,13 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>questDescription->[faction_name] is ready to grant [pawn_definite] the title of [newTitle] and the power of a level [psylinkLevel] psylink in a bestowing ceremony.\n\nThe bestower will arrive by shuttle and perform the ceremony.\n\nThe bestower will only give a title if any throneroom requirements are satisfied. There's a chance of gaining extra honor, depending on how many viewers attend the ceremony. Additionally, every viewer gains a mood bonus.\n\nYou can betray the bestower to steal psylink neuroformers, but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the bestower or guards are harmed for any reason, there will be diplomatic consequences.</li>
-  -->
+  <!--EN: <li>questDescription->[faction_name] is ready to grant [pawn_definite] the title of [newTitle] and the power of a level [psylinkLevel] psylink in a bestowing ceremony.\n\nThe bestower will arrive by shuttle and perform the ceremony.\n\nThe bestower will only give a title if any throneroom requirements are satisfied. There's a chance of gaining extra honor, depending on how many viewers attend the ceremony. Additionally, every viewer gains a mood bonus.\n\nYou can betray the bestower to steal psylink neuroformers, but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the bestower or guards are harmed for any reason, there will be diplomatic consequences.</li>-->
+  <!--VI: <li>questDescription->[faction_name] sẵn sàng cấp cho [pawn_definite] danh hiệu [danh hiệu mới] và sức mạnh của một cấp độ [psylinkLevel] psylink trong một buổi lễ ban tặng.\n\nNgười ban tặng sẽ đến bằng tàu con thoi và thực hiện nghi lễ.\n\nNgười ban tặng sẽ chỉ trao danh hiệu nếu thỏa mãn bất kỳ yêu cầu nào trong phòng ngai vàng. Có cơ hội đạt được thêm danh dự, tùy thuộc vào số lượng khán giả tham dự buổi lễ. Ngoài ra, mọi người xem đều nhận được một phần thưởng tâm trạng.\n\nBạn có thể phản bội người ban tặng để đánh cắp những người tạo thần kinh psylink, nhưng điều này sẽ khiến [faction_name] trở thành kẻ thù của bạn.\n\nNếu bạn bỏ lỡ hoặc thất bại trong buổi lễ này, sẽ có một cơ hội khác sau này. Nếu người ban tặng hoặc lính canh bị tổn hại vì bất kỳ lý do gì, sẽ có hậu quả ngoại giao.</li>-->
   <BestowingCeremony.questDescriptionRules.rulesStrings>TODO</BestowingCeremony.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->[pawn_definite]'s [newTitle] ceremony</li>
-  -->
+  <!--EN: <li>questName->[pawn_definite]'s [newTitle] ceremony</li>-->
+  <!--VI: <li>Nhiệm vụTên->[pawn_definite]'s [newTitle]</li> ceremony-->
   <BestowingCeremony.questNameRules.rulesStrings>TODO</BestowingCeremony.questNameRules.rulesStrings>
-  
 </LanguageData>

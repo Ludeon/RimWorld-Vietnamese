@@ -1,31 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: mini-slug -->
   <Bullet_MiniSlug.label>sên nhỏ</Bullet_MiniSlug.label>
-  
   <!-- EN: burning power cell -->
   <BurningPowerCell.label>pin năng lượng đang cháy</BurningPowerCell.label>
   <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
   <BurningPowerCell.description>Một bộ phát điện cơ học bị hỏng. Tế bào đã bị mất ổn định do cái chết của mechanoid và sẽ bị thiêu rụi trong vài giây. Khi bị hư hại nghiêm trọng, tế bào này sẽ phát nổ.</BurningPowerCell.description>
-  
   <!-- EN: mech node -->
   <Gloomlight.label>nút máy</Gloomlight.label>
   <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
   <Gloomlight.description>Nút cơ khí tự cấp nguồn không rõ chức năng. Các nút cơ khí có thể được giải cấu trúc để mang lại các tài nguyên có giá trị - nhưng chỉ khi chúng được chiếm giữ nguyên vẹn. Pin năng lượng siêu nhỏ bên trong sẽ bùng cháy và làm hỏng vật liệu nếu thiết bị bị hư hại quá nhiều.</Gloomlight.description>
-  <!-- EN: Deconstruct for valuable resources. -->
+  <!--EN: Deconstruct for valuable resources.-->
+  <!--VI: Giải cấu trúc cho các nguồn tài nguyên quý giá.-->
   <Gloomlight.comps.CompInspectString.inspectString>TODO</Gloomlight.comps.CompInspectString.inspectString>
-  
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.label>mini-slugger</Gun_MiniTurretMech.label>
   <!-- EN: An automatic turret-mounted slug-thrower. -->
   <Gun_MiniTurretMech.description>Một súng phóng sên gắn trên tháp pháo tự động.</Gun_MiniTurretMech.description>
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.verbs.Verb_Shoot.label>mini-slugger</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
-  
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>tháp pháo nhỏ</Turret_AutoMiniTurret.label>
   <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
   <Turret_AutoMiniTurret.description>Một tháp pháo phòng thủ tự cung cấp năng lượng được trang bị súng phóng sên yếu nhưng tầm xa. Có thể phát nổ khi bị hư hỏng. -</Turret_AutoMiniTurret.description>
-  
 </LanguageData>

@@ -1,13 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>lodgersLabel->[lodgersPawnKind_label]</li>
-    <li>lodgersLabelPlural->[lodgersPawnKind_labelPlural]</li>
-  -->
+  <!--EN: <li>lodgersLabel->[lodgersPawnKind_label]</li>
+    <li>lodgersLabelPlural->[lodgersPawnKind_labelPlural]</li>-->
+  <!--VI: lưu <li>trúNhãn->[lodgersPawnKind_label]</li>
+    <li>lodgersLabelPlural->[lodgersPawnKind_labelPlural]</li>-->
   <Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
-  <!-- EN:
-    <li>threatsInfoMechClustersSingleAnimal->For unknown reasons, the [lodgersLabel] has been targeted by an orbiting mechanoid swarm.</li>
+  <!--EN: <li>threatsInfoMechClustersSingleAnimal->For unknown reasons, the [lodgersLabel] has been targeted by an orbiting mechanoid swarm.</li>
     <li>threatsInfoMechClustersMultiAnimal->For unknown reasons, the [lodgersLabelPlural] have been targeted by an orbiting mechanoid swarm.</li>
     <li>threatsInfoMechRaidsSingleAnimal->For unknown reasons, the [lodgersLabel] has been targeted by a mechanoid hive.</li>
     <li>threatsInfoMechRaidsMultiAnimal->For unknown reasons, the [lodgersLabelPlural] have been targeted by a mechanoid hive.</li>
@@ -46,11 +44,49 @@
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
-    <li>letterSubject(priority=1)->{SUBJECT_definite} the [lodgersLabel]</li>
-  -->
+    <li>letterSubject(priority=1)->{SUBJECT_definite} the [lodgersLabel]</li>-->
+  <!--VI: <li>threatsInfoMechClustersSingleAnimal->Vì lý do không rõ, [lodgersLabel] đã trở thành mục tiêu của một bầy cơ khí quay quanh quỹ đạo.</li>
+    <li>threatsInfoMechClustersMultiAnimal->Vì những lý do không rõ, [lodgersLabelPlural] đã trở thành mục tiêu của một bầy cơ khí quay quanh quỹ đạo.</li>
+    <li>threatsInfoMechRaidsSingleAnimal->Vì lý do không rõ, [lodgersLabel] đã trở thành mục tiêu của một tổ máy cơ học.</li>
+    <li>threatsInfoMechRaidsMultiAnimal->Vì lý do không rõ, [lodgersLabelPlural] đã trở thành mục tiêu của một tổ máy móc.</li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->Một tổ chức cứu hộ động vật muốn bạn chăm sóc một [lodgersLabel] có tên [lodgers0_nameDef] tại [map_definite] cho [shuttleDelayTicks_duration]. [thông tin sức khỏe][thông tin đe dọa1][kết thúc mô tả chung]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nCác nhà hoạt động giải cứu động vật đã đánh cắp [lodgers0_nameDef] từ một buổi lễ giết mổ do [enemyFaction_name] tổ chức. Bây giờ [enemyFaction_pawnsPlural] đang đến để trả thù. Nếu bạn chấp nhận [lodgers0_nameDef], [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Một tổ chức cứu hộ động vật muốn bạn chăm sóc [lodgersCount] [lodgersLabelPlural] tại [map_definite] cho [shuttleDelayTicks_duration]. [thông tin sức khỏe][thông tin đe dọa2][kết thúc mô tả chung]</li>
+    <li>nạn nhân->trẻ em</li>
+    <li>nạn nhân-> phụ nữ</li>
+    <li>nạn nhân-> người đàn ông</li>
+    <li>nạn nhân->[PersonJob]</li>
+    <li>victim(generateThreats==true,threatType==Raids)->bạn của [enemyFaction_leaderTitle] của [enemyFaction_name]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThật không may, những [lodgersLabelPlural] này gần đây có liên quan đến cái chết của một [nạn nhân]. Bây giờ, [enemyFaction_pawnsPlural] từ [enemyFaction_name] đang săn lùng chúng để trả thù theo nghi lễ. Nếu bạn chấp nhận [lodgersLabelPlural], [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name] đang tìm kiếm một khu định cư an toàn để chăm sóc [asker_possessive] thú cưng [lodgersLabel] [lodgers0_nameDef] cho [shuttleDelayTicks_duration]. [thông tin sức khỏe][thông tin đe dọa3][kết thúc mô tả chung]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[enemyFaction_pawnsPlural] từ [enemyFaction_name] đang cố gắng giết [lodgers0_nameDef] nhỏ bé tội nghiệp để đạt được [asker_nameDef]. Nếu bạn chấp nhận [lodgers0_nameDef], [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name], đang đưa ra yêu cầu. [asker_pronoun] muốn bạn chăm sóc [lodgersCount] [lodgersLabelPlural] tại [map_definite] cho [shuttleDelayTicks_duration]. [thông tin sức khỏe][thông tin đe dọa4][kết thúc mô tả chung]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgersLabelPlural] là cần thiết để [asker_nameDef] thực hiện một lời hứa thương mại quan trọng. Để kích động xung đột, [enemyFaction_name] đang gửi [enemyFaction_pawnsPlural] theo đuổi họ. Nếu bạn chấp nhận [lodgersLabelPlural], [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1,priority=1)->[asker_nameFull], [asker_royalTitleInCurrentFaction] của [asker_faction_name], đang đưa ra yêu cầu. [asker_pronoun] muốn bạn chăm sóc [asker_possessive] thú cưng yêu thích, [lodgersLabel] [lodgers0_nameDef], tại [map_definite] cho [shuttleDelayTicks_duration]. [thông tin sức khỏe][thông tin đe dọa5][kết thúc mô tả chung]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] là một món quà được hứa hẹn cho con của [asker_nameDef] trong một lễ cưới. Để cố gắng ngăn chặn hôn nhân, [enemyFaction_name] đang gửi [enemyFaction_pawnsPlural] sau [lodgers0_objective]. Nếu bạn chấp nhận [lodgers0_nameDef], [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2,priority=1)->[asker_nameFull], [asker_royalTitleInCurrentFaction] của [asker_faction_name], đang đưa ra yêu cầu. [asker_pronoun] muốn bạn chăm sóc [lodgersCount] [lodgersLabelPlural] tại [map_definite] cho [shuttleDelayTicks_duration]. [lodgersLabelPlural] là thú cưng yêu thích của [asker_nameDef] và [asker_pronoun] muốn chúng nhìn thấy thế giới bên ngoài [asker_possessive] triều đình. [thông tin sức khỏe][mối đe dọaInfo6][kết thúc mô tả chung]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThật không may, [enemyFaction_name] đang săn lùng [lodgersLabelPlural] để cố gắng làm tổn thương cá nhân [asker_nameDef]. Nếu bạn chấp nhận [lodgersLabelPlural], [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+    <li>letterSubject(priority=1)->{SUBJECT_definite} [lodgersLabel]</li>-->
   <Hospitality_Animals.questDescriptionRules.rulesStrings>TODO</Hospitality_Animals.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName(lodgersCount==1)->the [animalAdj] [lodgersLabel]</li>
+  <!--EN: <li>questName(lodgersCount==1)->the [animalAdj] [lodgersLabel]</li>
     <li>questName(lodgersCount==1)->a [animalAdj] [lodgersLabel]</li>
     <li>questName(lodgersCount==1)->[animalAdj] [lodgersLabel]</li>
     <li>questName(lodgersCount==1)->[lodgersLabel]-sitting</li>
@@ -69,8 +105,26 @@
     <li>animalAdj->gentle</li>
     <li>animalAdj->proud</li>
     <li>animalAdj(generateThreats==true)->hunted</li>
-    <li>animalAdj(generateThreats==true)->frightened</li>
-  -->
+    <li>animalAdj(generateThreats==true)->frightened</li>-->
+  <!--VI: <li>questName(lodgersCount==1)->the [animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->a [animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->[animalAdj] [lodgersLabel]</li>
+    <li>questName(lodgersCount==1)->[lodgersLabel]-sitting</li>
+    <li>questName(lodgersCount==1)->giữ [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->tội nghiệp nhỏ [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount>=2)->the [animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[lodgersLabel]-ngồi</li>
+    <li>questName(lodgersCount==2)->giữ [lodgersLabelPlural]</li>
+    <li>animalAdj->đáng yêu</li>
+    <li>animalAdj->doe-eyed</li>
+    <li>animalAdj->loyal</li>
+    <li>animalAdj->yêu thích</li>
+    <li>animalAdj->yên tĩnh</li>
+    <li>animalAdj->nhẹ nhàng</li>
+    <li>animalAdj->tự hào</li>
+    <li>animalAdj(generateThreats==true)->săn</li>
+    <li>animalAdj(generateThreats==true)->sợ hãi</li>-->
   <Hospitality_Animals.questNameRules.rulesStrings>TODO</Hospitality_Animals.questNameRules.rulesStrings>
-  
 </LanguageData>

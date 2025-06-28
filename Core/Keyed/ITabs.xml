@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- ITab titles -->
   <!-- EN: Bills -->
   <TabBills>Công việc</TabBills>
@@ -48,17 +47,19 @@
   <TabFormingCaravan>Đoàn lữ hành</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>Nội dung</TabTransporterContents>
-  <!-- EN: Travel -->
+  <!--EN: Travel-->
+  <!--VI: Du lịch-->
   <TabMapPortalContents>TODO</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>Nội dung</TabCasketContents>
-  <!-- EN: Details -->
+  <!--EN: Details-->
+  <!--VI: Chi tiết-->
   <TabBookContents>TODO</TabBookContents>
-  <!-- EN: Study -->
+  <!--EN: Study-->
+  <!--VI: Học-->
   <TabStudyNotesContents>TODO</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>Tự động cắt</TabWindTurbineAutoCut>
-  
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
   <AddBill>Thêm việc</AddBill>
@@ -90,7 +91,6 @@
   <PasteBillTip_LimitReached>không thể thêm nữa</PasteBillTip_LimitReached>
   <!-- EN: Finishes in -->
   <FinishesIn>kết thúc ở</FinishesIn>
-
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
   <RecruitmentResistance>Độ kháng cự còn lại</RecruitmentResistance>
@@ -144,12 +144,9 @@
   <NonRecruitable>Lòng trung thành kiên định</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
   <NonRecruitableTip>Tù nhân này trung thành với chủ của họ đến mức họ từ chối hoàn toàn việc chiêu hàng.</NonRecruitableTip>
-  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <!--EN: What type of medicine can be given to this prisoner.-->
+  <!--VI: Loại thuốc nào có thể được cung cấp cho tù nhân này.-->
   <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
-
-
-
-
   <!-- Medical - general -->
   <!-- EN: Move speed -->
   <MoveSpeed>Tốc độ di chuyển</MoveSpeed>
@@ -221,19 +218,23 @@
   <PainFactor>Đau đớn</PainFactor>
   <!-- EN: Prevents infection -->
   <PreventsInfection>Ngăn ngừa nhiễm trùng</PreventsInfection>
-  <!-- EN: Allow self-tend -->
+  <!--EN: Allow self-tend-->
+  <!--VI: Cho phép tự xu hướng-->
   <AllowSelfTend>TODO</AllowSelfTend>
-  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <!--EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.-->
+  <!--VI: {0} khi bật tính năng tự xu hướng sẽ tự động tự làm việc tại chỗ {1} hiệu quả bình thường.-->
   <AllowSelfTendTip>TODO</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>chết lúc {0}</DeathIn>
-  <!-- EN: Allow medicine -->
+  <!--EN: Allow medicine-->
+  <!--VI: Cho phép dùng thuốc-->
   <AllowMedicine>TODO</AllowMedicine>
-  <!-- EN: What type of medicine can be given to this person. -->
+  <!--EN: What type of medicine can be given to this person.-->
+  <!--VI: Loại thuốc nào có thể được cung cấp cho người này.-->
   <MedicineQualityDescription>TODO</MedicineQualityDescription>
-  <!-- EN: What type of food can be given to this person. -->
+  <!--EN: What type of food can be given to this person.-->
+  <!--VI: Loại thức ăn nào có thể được cung cấp cho người này.-->
   <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
-
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Không</None>
@@ -263,7 +264,6 @@
   <SeverePain>Nặng</SeverePain>
   <!-- EN: Extreme -->
   <ExtremePain>Rất nặng</ExtremePain>
-
   <!-- Training tab -->
   <!-- EN: Trainability -->
   <Trainability>Khả năng huấn luyện</Trainability>
@@ -271,10 +271,8 @@
   <CannotTrainNotSmartEnough>Yêu cầu khả năng huấn luyện {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {0} is too small to train this. -->
   <CannotTrainTooSmall>{0} quá thấp để đào tạo điều này.</CannotTrainTooSmall>
-
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Điều kiện yêu cầu cần thiết: {0}</TrainingNeedsPrerequisite>
-  
   <!-- Social tab -->
   <!-- EN: Kidnapped -->
   <Kidnapped>Bị bắt cóc</Kidnapped>
@@ -294,7 +292,6 @@
   <IAmDead>Tôi đã chết rồi ông giáo ạ</IAmDead>
   <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Tôi là kẻ thần kinh</IAmPsychopath>
-  
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
   <OverallArmor>Giáp tổng thể</OverallArmor>
@@ -308,7 +305,6 @@
   <ArmorSharp>Kháng sắc bén</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>Kháng nhiệt</ArmorHeat>
-  
   <!-- Log tab -->
   <!-- EN: Show all -->
   <ShowAll>Hiện tất cả</ShowAll>
@@ -320,7 +316,6 @@
   <NoRecentEntries>không có mục gần đây</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
   <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
-
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
   <FormingCaravanStatus_GatheringAnimals>Thu thập động vật</FormingCaravanStatus_GatheringAnimals>
@@ -352,7 +347,6 @@
   <PackAnimalsCountLower>gói động vật</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>suy sụp tinh thần</InMentalStateCountLower>
-
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Loại bỏ {{0}}x {0}</RemoveSliderText>
@@ -360,7 +354,6 @@
   <ContainedItems>Vật phẩm chứa</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Bạn có thực sự muốn loại bỏ {0}?</ConfirmRemoveItemDialog>
-  
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't receive notifications about dismissed quests. -->
   <DismissQuest>Loại bỏ nhiệm vụ này và chuyển nó vào tab lịch sử. \n\nNhiệm vụ có thể bị hủy bỏ bất cứ lúc nào. Tác dụng và thời gian hết hạn của nó sẽ diễn ra như bình thường. Bạn sẽ không nhận được thông báo về các nhiệm vụ bị loại bỏ.</DismissQuest>
@@ -370,11 +363,9 @@
   <QuestDismissed>Nhiệm vụ này ở đây vì nó đã bị loại bỏ.\n\nBạn có thể hủy bỏ nó cho đến khi hết hạn.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>Xóa vĩnh viễn nhiệm vụ này khỏi danh sách nhiệm vụ.</DeleteQuest>
-
   <!-- Animal pen food tab -->
   <!-- EN: enclose the pen marker to calculate food information -->
   <PenFoodTab_NotEnclosed>bao quanh chuồng đánh dấu để tính toán thông tin thực phẩm</PenFoodTab_NotEnclosed>
-
   <!-- EN: Nutrition stockpiled -->
   <PenFoodTab_StockpileTotal>Dự trữ dinh dưỡng</PenFoodTab_StockpileTotal>
   <!-- EN: The total nutrition of stockpiled food in the pen. -->
@@ -383,7 +374,6 @@
   <PenFoodTab_StockpileEmptyDays>Ngày dự trữ cạn kiệt</PenFoodTab_StockpileEmptyDays>
   <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
   <PenFoodTab_StockpileEmptyDaysDescription>Mức tiêu thụ dinh dưỡng vượt quá tốc độ tăng trưởng dinh dưỡng trong chuồng này. Những con vật cuối cùng sẽ ăn hết thức ăn dự trữ và chết đói.</PenFoodTab_StockpileEmptyDaysDescription>
-
   <!-- EN: Animal type -->
   <PenFoodTab_AnimalType>Loại động vật</PenFoodTab_AnimalType>
   <!-- EN: Count -->
@@ -396,7 +386,6 @@
   <PenFoodTab_NutritionPerDay_Unit>mỗi ngày</PenFoodTab_NutritionPerDay_Unit>
   <!-- EN: Force display animal... -->
   <PenFoodTab_AddAnimal>Hiển thị động vật...</PenFoodTab_AddAnimal>
-
   <!-- EN: Nutrition growth -->
   <PenFoodTab_NaturalNutritionGrowthRate>Tăng trưởng dinh dưỡng</PenFoodTab_NaturalNutritionGrowthRate>
   <!-- EN: Growth per season -->
@@ -409,7 +398,6 @@
   <PenFoodTab_NutritionConsumptionDescription>Dinh dưỡng cần thiết cho động vật hiện đang ở trong chuồng này.\n\nĐể có nhiều thức ăn hơn, hãy mở rộng chuồng để có nhiều thực vật hoang dã phát triển hơn hoặc cung cấp thức ăn dự trữ như cỏ khô đến chuồng.</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
   <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Tốc độ phát triển của thực vật thay đổi tùy theo mùa, thời tiết, sự trộm cắp của động vật hoang dã và các yếu tố khác. Những tính toán này là gần đúng.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
-
   <!-- EN: Total consumption -->
   <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Tổng mức tiêu thụ</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
   <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
@@ -420,33 +408,32 @@
   <PenFoodTab_NutritionConsumedEachAnimalLabel>mỗi {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
   <!-- EN: Count that could be supported with no other animals in the pen -->
   <PenFoodTab_AnimalTypeAnimalCapacity>Số lượng động vật có thể được nuôi mà không có gia súc khác trong chuồng</PenFoodTab_AnimalTypeAnimalCapacity>
-
   <!-- EN: Edible now -->
   <PenFoodTab_EdibleNow>Bây giờ có thể ăn được</PenFoodTab_EdibleNow>
-
   <!-- EN: Auto-cut plants in pen -->
   <PenAutoCut_EnabledCheckbox>Tự động cắt cây trong chuồng</PenAutoCut_EnabledCheckbox>
   <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
   <PenAutoCut_EnabledCheckboxTip>Tự động đánh dấu một số cây không ăn được để cắt. Điều này tạo chỗ cho các loại thực vật ăn được phát triển và sau đó động vật của bạn có thể ăn.\n\nTự chỉ định này diễn ra theo định kỳ và chỉ áp dụng cho một số loại cây nhất định.\n\nChỉ áp dụng khi chuồng được gắn kèm.</PenAutoCut_EnabledCheckboxTip>
-
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>Chuồng không kèm theo</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>Chuồng hiện không được kèm theo nên sẽ không xảy ra hiện tượng tự động cắt.</AutocutUnenclosedPenTip>
-
   <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>Tự động chặt cây</WindTurbineAutoCut_EnabledCheckbox>
-  
   <!-- Study tab  -->
-  <!-- EN: Study progress -->
+  <!--EN: Study progress-->
+  <!--VI: Tiến độ học tập-->
   <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
-  <!-- EN: Ongoing -->
+  <!--EN: Ongoing-->
+  <!--VI: Liên tục-->
   <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
-  <!-- EN: Completed -->
+  <!--EN: Completed-->
+  <!--VI: Hoàn thành-->
   <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
-  <!-- EN: Toggle study -->
+  <!--EN: Toggle study-->
+  <!--VI: Chuyển đổi nghiên cứu-->
   <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
-  <!-- EN: No discoveries yet -->
+  <!--EN: No discoveries yet-->
+  <!--VI: Chưa có khám phá nào-->
   <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
-
 </LanguageData>

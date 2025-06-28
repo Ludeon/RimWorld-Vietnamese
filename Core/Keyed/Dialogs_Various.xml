@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- EN: Confirm -->
   <Confirm>Xác nhận</Confirm>
   <!-- EN: Go back -->
@@ -29,7 +28,6 @@
   <Add>thêm</Add>
   <!-- EN: Cannot shoot -->
   <CannotShoot>Không thể bắn</CannotShoot>
-  
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld đã được cập nhật từ phiên bản {0} lên phiên bản {1}.</GameUpdatedToNewVersionInitial>
@@ -43,13 +41,11 @@
   <GameUpdatedToNewVersionSteam>Nếu bạn muốn tiếp tục chơi phiên bản cũ, bạn có thể sử dụng tính năng "Beta" của Steam.\n\n  1. Tại thư viện trò chơi Steam, click chuột phải vào RimWorld.\n  2. Click "" (Properties).\n  3. Click vào thẻ "Beta".\n  4. Chọn phiên bản mà bạn muốn choi từ thanh cuộn.\n\nPhiên bản cũ có thể sẽ bị gỡ ra khỏi Steam - chúng tôi chỉ không muốn bỏ quá trình phát triển của trò chơi thôi.\n\nLưu ý răng nếu chủ mod cập nhật mod của họ cho phiên bản mới, họ có lẽ đã dừng hỗ trợ phiên bản cũ rôi. Bạn có thể tắt tính năng tự động cập nhật để có thể chơi được phiên bản cũ hơn.</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
   <GameUpdatedToNewVersionSteamController>Nếu bạn muốn tiếp tục chơi phiên bản cũ, bạn có thể sử dụng tính năng "Beta" của Steam.</GameUpdatedToNewVersionSteamController>
-  
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Đã phục hồi lại từ mod lỗi hoặc không hợp phiên bản.</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
   <RecoveredFromErrorsText>Có vài mod đang hoạt động đã gây ra lỗi.\n\nCó thể là nó không tương thích với các mod khác hoặc chạy trên phiên bản khác của trò chơi hoặc đã bị lỗi.\n\nTất cả các mod đã được tắt và bạn có thể kích hoạt lại chúng trong bảng điều khiển mod.</RecoveredFromErrorsText>
-  
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>Có lỗi khi đang tải tài nguyên</ErrorWhileLoadingAssetsTitle>
@@ -65,7 +61,6 @@
   <ErrorWhileLoadingMapTitle>Có lỗi khi đang tải bản đồ.</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
   <ErrorWhileLoadingMap>Có lỗi khi đang tải bản đồ. Xem nhật kí lỗi để biết thêm chi tiết.</ErrorWhileLoadingMap>
-  
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
   <ModsChanged>Danh sách mod đã thay đổi. Trò chơi sẽ được khởi động lại ngay.</ModsChanged>
@@ -73,11 +68,9 @@
   <FailedToRestart>Có điều bất thường khi đang khởi động lại trò chơi. Trò chơi không thể tải đầy đủ tất cả các mod nên có thể một vài mod vẫn chưa tải xong.\n\nĐề nghị đồng chí thoát ra rồi mở lại để trò chơi có thể tải tất cả các mod đầy đủ.</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>Đang khởi động lại</Restarting>
-  
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
   <SteamClientMissing>Không thể khởi động Steam API. Có thể là do:\n\n-Steam chưa chạy.\n-Mở RimWorld khi Steam chưa chạy khiến steam_appid.txt không được nạp lên.\n- Chạy ở quyền khác Steam client (VD: "Run as admisnistrator").\n\nĐa số trường hợp có thể sửa bằng cách khởi động lại máy tính của bạn.\n\nBạn có thể chơi không cần Steam nhưng mọi dữ liệu bạn chơi sẽ không được ghi lại trên tài khoản Steam của bạn và các tính năng của Steam sẽ không thể sử dụng được.</SteamClientMissing>
-  
   <!-- Long events -->
   <!-- EN: Initializing interface -->
   <InitializingInterface>Khởi động thanh tương tác...</InitializingInterface>
@@ -101,7 +94,6 @@
   <SpawningAllThings>Đang tạo vật thể</SpawningAllThings>
   <!-- EN: Spawning colonists -->
   <SpawningColonists>Đang tạo cư dân</SpawningColonists>
-  
   <!-- Save/load -->
   <!-- EN: Save -->
   <SaveGameButton>Lưu</SaveGameButton>
@@ -147,7 +139,6 @@
   <ContentInstalledButNotActive>Đã cài đặt, nhưng không hoạt động</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
   <ContentNotInstalled>Chưa cài đặt</ContentNotInstalled>
-  
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>{0} nghĩ rằng bạn nên đặt tên cho băng nhóm của bạn đi. Bạn muốn đặt băng của mình là gì?</NamePlayerFactionMessage>
@@ -155,7 +146,6 @@
   <PlayerFactionGainsName>Băng của bạn từ giờ sẽ là {0}.</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerFactionNameIsInvalid>Tên đó không hợp lệ.</PlayerFactionNameIsInvalid>
-
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
   <NamePlayerFactionBaseMessage>{0} nghĩ rằng bạn đã định cư ở đây đã lâu nên cũng cần cho cộng đồng của bạn một cái tên chứ hả. Bạn muốn gọi cộng đồng của mình là gì?</NamePlayerFactionBaseMessage>
@@ -163,13 +153,11 @@
   <PlayerFactionBaseGainsName>Cộng động của bạn giờ là {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerFactionBaseNameIsInvalid>Tên không hợp lệ.</PlayerFactionBaseNameIsInvalid>
-  
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Vì mọi người sẽ ở đây một thời gian nên {0} đề nghị bạn nên đặt tên cho cộng đồng này. Bạn muốn cộng đồng của mình tên gì?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>Băng nhóm của bạn giờ là {0}, và cộng đồng này sẽ là {1}.</PlayerFactionAndBaseGainsName>
-  
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
   <NameIsInvalid>Chọn tên khác đi người ơi.</NameIsInvalid>
@@ -177,7 +165,6 @@
   <NameIsInUse>Tên đã được sử dụng.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>Khu vực này giờ sẽ là {0}.</ZoneGainsName>
-  
   <!-- Pawn naming -->
   <!-- EN: Chosen name is invalid. -->
   <NameInvalid>Tên đã chọn không hợp lệ.</NameInvalid>
@@ -201,11 +188,10 @@
   <LastName>tên</LastName>
   <!-- EN: suggested -->
   <Suggested>đề xuất</Suggested>
-  
   <!-- Choose new wanderers -->
-  <!-- EN: Choose new wanderers -->
+  <!--EN: Choose new wanderers-->
+  <!--VI: Chọn những kẻ lang thang mới-->
   <ChooseNewWanderers>TODO</ChooseNewWanderers>
-
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Sai phiên bản</VersionMismatch>
@@ -223,7 +209,6 @@
   <ModsMismatchOrderChanged>Không có mod nào được thêm hoặc xóa, nhưng thứ tự trong danh sách mod của bạn đã thay đổi.</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
   <ConfirmLoadSaveList>Bạn có chắc muốn tải danh sách mod từ tệp lưu này không?</ConfirmLoadSaveList>
-
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>Bạn đã thay đổi độ phân giải của màn hình. Thay đổi mới chạy tốt không?\n\nTự động quay lại thiết lập cũ sau {0}...</ConfirmResolutionChange>
@@ -231,25 +216,21 @@
   <ResolutionKeep>Giữ nguyên</ResolutionKeep>
   <!-- EN: Revert -->
   <ResolutionRevert>Đổi lại</ResolutionRevert>
-
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Bạn chắc rằng muốn tắt vĩnh viễn chế độ nhà phát triển trên máy tính này?</ConfirmPermanentlyDisableDevMode>
-
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
   <ConfirmResetLearningHelper>Bạn có chắc chắn muốn đặt lại trình trợ giúp học tập không?\n\nTất cả bản ghi về các khái niệm đã được học sẽ bị xóa và hệ thống sẽ dạy mọi thứ từ đầu.</ConfirmResetLearningHelper>
-
   <!-- Backstory translation restart dialog -->
   <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
   <RestartAfterImportingLegacyBackstoryTanslations>Các câu chuyện gốc hiện được triển khai dưới dạng bản dịch chính xác và tất cả các bản dịch câu chuyện gốc kế thừa đã được nhập vào bản dịch chính xác. Tệp {0} đã được nhập và chuyển sang {1}. Nó hiện có thể bị xóa.\n\nHãy khởi động lại trò chơi để các thay đổi có hiệu lực.</RestartAfterImportingLegacyBackstoryTanslations>
-
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
   <SelectedCharactersMustInclude>Phải bao gồm chính xác {SUMMARY}</SelectedCharactersMustInclude>
-
   <!-- Advanced game start options -->
-  <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
+  <!--EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season.-->
+  <!--VI: Cảnh báo: Bạn sẽ hạ cánh vào mùa đông. Có thể khó hoặc gần như không thể sống sót. Nếu bạn không có ý định đối mặt với một thử thách khắc nghiệt, hãy chọn một mùa khác.-->
   <MapWinterWarning>TODO</MapWinterWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Trò chơi được thiết kế để chơi ở bản đồ trung bình và bao nhiêu đó là đủ chỗ để xây nhà rồi. Bản đồ lớn cũng không có gì tốt hơn ngoài trừ việc mở ra hằng hà sa số lỗi mà than trời không thấu như ngốn RAM, gây tình trạng giật lag, bot hoạt động không bình thường, v.v. Cỡ bản đồ này chỉ giành cho việc kiểm nghiệm, nếu đang yêu đời và cảm thấy máy bản thân dư sức "cân cả thế giới" thì cứ chơi thoải mái.</MapSizePerformanceWarning>
@@ -271,7 +252,6 @@
   <MapStartSeasonDefault>Tự động</MapStartSeasonDefault>
   <!-- EN: Notice -->
   <Notice>Chú ý</Notice>
-
   <!-- Bill config -->
   <!-- EN: Suspended -->
   <Suspended>Tạm dừng</Suspended>
@@ -301,7 +281,6 @@
   <AnyWorker>Bất kì ai</AnyWorker>
   <!-- EN: Unlimited -->
   <Unlimited>Không giới hạn</Unlimited>
-  
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(Công việc này không thể đếm được vì sản phẩm làm ra quá nhiều hoặc không thể đoán trước được sản phẩm.)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
@@ -320,7 +299,6 @@
   <UsableIngredients>vật liệu</UsableIngredients>
   <!-- EN: To {0} -->
   <BillRepeatTargetCountShort>Đủ {0}</BillRepeatTargetCountShort>
-
   <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>Dừng khi thỏa yêu cầu</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
@@ -329,7 +307,6 @@
   <Paused>Tạm dừng</Paused>
   <!-- EN: Unpause -->
   <Unpause>Tiếp tục</Unpause>
-
   <!-- EN: Count equipped -->
   <IncludeEquipped>Kể cả trang bị</IncludeEquipped>
   <!-- EN: Count tainted -->
@@ -340,13 +317,15 @@
   <IncludeFromAll>Tìm khắp nơi</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Chỉ tìm trong {0}</IncludeSpecific>
-  <!-- EN: Stockpiles -->
+  <!--EN: Stockpiles-->
+  <!--VI: Kho dự trữ-->
   <StockpilePlural>TODO</StockpilePlural>
-  <!-- EN: Shelves -->
+  <!--EN: Shelves-->
+  <!--VI: Kệ-->
   <ShelfPlural>TODO</ShelfPlural>
-  <!-- EN: Groups -->
+  <!--EN: Groups-->
+  <!--VI: Nhóm-->
   <GroupPlural>TODO</GroupPlural>
-  
   <!-- Info card -->
   <!-- EN: Damage -->
   <Damage>Sát thương</Damage>
@@ -526,7 +505,8 @@
   <PerDay>{0} / ngày</PerDay>
   <!-- EN: {0} / hour -->
   <PerHour>{0} / giờ</PerHour>
-  <!-- EN: {0} XP / hour -->
+  <!--EN: {0} XP / hour-->
+  <!--VI: {0} XP / giờ-->
   <XpPerHour>TODO</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Tải đồ</PackAnimal>
@@ -610,13 +590,13 @@
   <MeditationFocusEnabledByAdulthood>có tuổi trưởng thành</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>có đặc điểm</MeditationFocusEnabledByTrait>
-  <!-- EN: has health condition -->
-  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
+  <!--EN: has health condition-->
+  <!--VI: có tình trạng sức khỏe-->
+  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff>
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>không có đặc điểm</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
   <EnablesMeditationFocusType>Cho phép các loại tập trung thiền</EnablesMeditationFocusType>
-  
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Số dương là mua.\nSố âm là bán.</PositiveBuysNegativeSells>
@@ -685,7 +665,8 @@
   <!-- EN: Joins as colonist -->
   <JoinsAsColonist>Tham gia với tư cách là cư dân</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>Nếu được mua, người này sẽ gia nhập thuộc địa của bạn với tư cách là nô lệ.</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Nếu được mua, người này sẽ gia nhập thuộc địa của bạn với tư cách là nô lệ.</JoinsAsSlaveDesc>
+  <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
   <JoinsAsColonistDesc>Nếu được mua, người này sẽ tham gia thuộc địa của bạn với tư cách là người thuộc địa.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
@@ -700,9 +681,9 @@
   <TradeModeTip>Trở về chế độ trao thương.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
   <TradeCaravanRequestDeniedDueTitle>Chưa thể yêu cầu {FACTION_name} cử đoàn giao thương bởi {NEGOTIATOR_nameDef} chưa đạt được danh hiệu {TITLE}.</TradeCaravanRequestDeniedDueTitle>
-  <!-- EN: {FACTION_name} is not willing to send an orbital trader because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <!--EN: {FACTION_name} is not willing to send an orbital trader because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}.-->
+  <!--VI: {FACTION_name} không sẵn sàng gửi một nhà giao dịch quỹ đạo vì {NEGOTIATOR_nameDef} thiếu tiêu đề yêu cầu là {TITLE}.-->
   <OrbitalTradeRequestDeniedDueTitle>TODO</OrbitalTradeRequestDeniedDueTitle>
-
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
   <SellableItemsTitle>Vật phẩm mà thương nhân này sẽ mua</SellableItemsTitle>
@@ -714,15 +695,16 @@
   <NextTraderRestock>Bổ sung tiếp theo: {0} ngày</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Sinh vật</PawnsTabShort>
-  
   <!-- Select caravan settlement -->
-  <!-- EN: Select colony to send caravan -->
-  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
-  <!-- EN: Send a caravan from {0}. -->
-  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
-  <!-- EN: Colonists -->
+  <!--EN: Select colony to send caravan-->
+  <!--VI: Chọn thuộc địa để gửi đoàn lữ hành-->
+  <SelectCaravanOrigin>TODO</SelectCaravanOrigin>
+  <!--EN: Send a caravan from {0}.-->
+  <!--VI: Gửi một đoàn lữ hành từ {0}.-->
+  <SelectCaravanDesc>TODO</SelectCaravanDesc>
+  <!--EN: Colonists-->
+  <!--VI: Người thuộc địa-->
   <SelectCaravanColonists>TODO</SelectCaravanColonists>
-  
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Tập hợp đoàn lữ hành</FormCaravan>
@@ -730,10 +712,14 @@
   <Send>Gửi</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Số lượng có thể gửi cùng đoàn lữ hành.</FormCaravanColonyThingCountTip>
-  <!-- EN: Number available to transport. -->
-  <TransporterColonyThingCountTip>TODO</TransporterColonyThingCountTip> <!-- text_todo -->
-  <!-- EN: Number available to transfer. -->
-  <TransferMapPortalColonyThingCountTip>TODO</TransferMapPortalColonyThingCountTip> <!-- text_todo -->
+  <!--EN: Number available to transport.-->
+  <!--VI: Số lượng có sẵn để vận chuyển.-->
+  <TransporterColonyThingCountTip>TODO</TransporterColonyThingCountTip>
+  <!-- text_todo -->
+  <!--EN: Number available to transfer.-->
+  <!--VI: Số có sẵn để chuyển.-->
+  <TransferMapPortalColonyThingCountTip>TODO</TransferMapPortalColonyThingCountTip>
+  <!-- text_todo -->
   <!-- EN: People and animals -->
   <PawnsTab>Người và động vật</PawnsTab>
   <!-- EN: Items -->
@@ -874,7 +860,6 @@
   <AutomaticallySelectTravelSupplies>Tự động chọn đồ dùng du lịch</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
   <CaravanAnimalSick>Con vật này bị bệnh. Nó đang mắc các bệnh sau</CaravanAnimalSick>
-
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
   <SplitCaravan>Tách đoàn lữ hành</SplitCaravan>
@@ -882,11 +867,9 @@
   <SourceCaravanMustHaveAtLeastOneColonist>Ít nhất phải có một thành viên ở đoàn này.</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Bao nhiêu vật dụng mà đoàn mới đem theo.</SplitCaravanThingCountTip>
-  
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
   <ConfirmAttackFriendlyFaction>Bạn có chắc chắn muốn tấn công {0}?\n\nĐiều này sẽ khiến {1} trở nên thù địch với bạn và cuối cùng họ sẽ bắt đầu đột kích thuộc địa của bạn!</ConfirmAttackFriendlyFaction>
-  
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Tải {0}</LoadTransporters>
@@ -912,19 +895,17 @@
   <TransporterSingleItemIsUnreachableMulti>Không có đường đi giữa tàu con thoi và {0} x {1}.</TransporterSingleItemIsUnreachableMulti>
   <!-- EN: Only {0} colonists maximum allowed. -->
   <TransporterSingleTooManyColonists>Chỉ cho phép tối đa {0} cư dân.</TransporterSingleTooManyColonists>
-  
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
   <SocialSkillIs>Kĩ năng Giao tiếp: {0}</SocialSkillIs>
-  
   <!--Research-->
   <!-- EN: Research finished: {0} -->
   <ResearchFinished>Hoàn thành nghiên cứu: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Bảng nghiên cứu</ResearchScreen>
-  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <!--EN: By researching {0} you have discovered the {1} research project.-->
+  <!--VI: Bằng cách nghiên cứu {0} bạn đã khám phá ra dự án nghiên cứu {1}.-->
   <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
-  
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
   <HistoryUploadMessage>Bạn có muôn tải lên dữ liệu ghi lại quá trình chơi lên máy chủ RimWorld để giúp đỡ trò chơi hoàn thiện hơn không? Nếu bạn đồng ý, dữ liệu của bạn sẽ được định kì gửi lên máy chủ mỗi {0} ngày trong trò chơi (và ở một số thời điểm khác như kết thúc trò chơi). Quyền riêng tư này có thể thay đồi ở Tùy chọn.</HistoryUploadMessage>
@@ -938,45 +919,58 @@
   <HistoryUploadYesOnce>Chỉ cho phép tải dữ liệu lần này</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Không cho phép tải lên bây giờ, hãy hỏi lại sau.</HistoryUploadNoOnce>
-  
   <!-- Policies -->
-  <!-- EN: Available policies -->
+  <!--EN: Available policies-->
+  <!--VI: Các chính sách có sẵn-->
   <AvailablePolicies>TODO</AvailablePolicies>
-  <!-- EN: Unnamed -->
+  <!--EN: Unnamed-->
+  <!--VI: Vô danh-->
   <UnnamedPolicy>TODO</UnnamedPolicy>
-  <!-- EN: New... -->
+  <!--EN: New...-->
+  <!--VI: Mới...-->
   <NewPolicy>TODO</NewPolicy>
-  <!-- EN: Invalid policy name -->
+  <!--EN: Invalid policy name-->
+  <!--VI: Tên chính sách không hợp lệ-->
   <InvalidName>TODO</InvalidName>
-  <!-- EN: Delete the selected policy. -->
+  <!--EN: Delete the selected policy.-->
+  <!--VI: Xóa chính sách đã chọn.-->
   <DeletePolicyTip>TODO</DeletePolicyTip>
-  <!-- EN: Create a duplicate of the selected policy. -->
+  <!--EN: Create a duplicate of the selected policy.-->
+  <!--VI: Tạo một bản sao của chính sách đã chọn.-->
   <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
-  <!-- EN: Rename this policy. -->
+  <!--EN: Rename this policy.-->
+  <!--VI: Đổi tên chính sách này.-->
   <RenamePolicyTip>TODO</RenamePolicyTip>
-  <!-- EN: Make this policy the default policy given to new colonists. -->
+  <!--EN: Make this policy the default policy given to new colonists.-->
+  <!--VI: Biến chính sách này thành chính sách mặc định dành cho những người thuộc địa mới.-->
   <DefaultPolicyTip>TODO</DefaultPolicyTip>
-  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <!--EN: Are you sure you want to delete the policy: {0}?-->
+  <!--VI: Bạn có chắc chắn muốn xóa chính sách: {0} không?-->
   <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
-  <!-- EN: Delete -->
+  <!--EN: Delete-->
+  <!--VI: Xóa-->
   <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
-  <!-- EN: No policy selected -->
+  <!--EN: No policy selected-->
+  <!--VI: Không có chính sách nào được chọn-->
   <NoPolicySelected>TODO</NoPolicySelected>
-  
   <!-- Outfit management -->
-  <!-- EN: Apparel policies -->
+  <!--EN: Apparel policies-->
+  <!--VI: Chính sách về hàng may mặc-->
   <ApparelPolicyTitle>TODO</ApparelPolicyTitle>
-  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <!--EN: Create and manage templates for controlling what apparel items colony members can wear.-->
+  <!--VI: Tạo và quản lý các mẫu để kiểm soát những mặt hàng may mặc mà các thành viên thuộc địa có thể mặc.-->
   <ApparelPolicyTip>TODO</ApparelPolicyTip>
-  <!-- EN: Apparel policy -->
+  <!--EN: Apparel policy-->
+  <!--VI: Chính sách may mặc-->
   <ApparelPolicy>TODO</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
   <OutfitInUse>Trang phục đang được dùng bởi {0}.</OutfitInUse>
-  
   <!-- Drug policy management -->
-  <!-- EN: Drug policies -->
+  <!--EN: Drug policies-->
+  <!--VI: Chính sách thuốc-->
   <DrugPolicyTitle>TODO</DrugPolicyTitle>
-  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <!--EN: Create and manage templates for controlling which drugs your colonists are allowed to consume.-->
+  <!--VI: Tạo và quản lý các mẫu để kiểm soát những loại thuốc mà thực dân của bạn được phép tiêu thụ.-->
   <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>Quy định dùng đồ kích thích</DrugPolicy>
@@ -1024,15 +1018,18 @@
   <DrugUsageTipForJoy>Thỏa mãn giải trí\n\nChỉ dùng chất này cho giải trí và xã giao.\n\nKể cả có cấm, vài người có tính cách đặc biệt, hoặc đang trong cơn điên cũng sẽ tự ý sử dụng thôi.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Theo lịch\n\nDùng chất này theo định kì, khi đủ điều kiện nhất định.</DrugUsageTipScheduled>
-
   <!-- Food restriction management -->
-  <!-- EN: Food policies -->
+  <!--EN: Food policies-->
+  <!--VI: Chính sách thực phẩm-->
   <FoodPolicyTitle>TODO</FoodPolicyTitle>
-  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <!--EN: Create and manage templates for controlling what food items colony members can eat.-->
+  <!--VI: Tạo và quản lý các mẫu để kiểm soát những mặt hàng thực phẩm mà các thành viên thuộc địa có thể ăn.-->
   <FoodPolicyTip>TODO</FoodPolicyTip>
-  <!-- EN: Food policy -->
+  <!--EN: Food policy-->
+  <!--VI: Chính sách thực phẩm-->
   <FoodPolicy>TODO</FoodPolicy>
-  <!-- EN: Allow food -->
+  <!--EN: Allow food-->
+  <!--VI: Cho phép thức ăn-->
   <AllowFood>TODO</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Xa hoa</FoodRestrictionLavish>
@@ -1046,83 +1043,94 @@
   <FoodRestrictionRaw>Tươi sống</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nhịn đói</FoodRestrictionNothing>
-  
   <!-- Reading management -->
-  <!-- EN: Reading policies -->
+  <!--EN: Reading policies-->
+  <!--VI: Chính sách đọc-->
   <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
-  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <!--EN: Create and manage templates for controlling which books colony members are allowed to read.-->
+  <!--VI: Tạo và quản lý các mẫu để kiểm soát những cuốn sách mà các thành viên thuộc địa được phép đọc.-->
   <ReadingPolicyTip>TODO</ReadingPolicyTip>
-  <!-- EN: Reading policy -->
+  <!--EN: Reading policy-->
+  <!--VI: Chính sách đọc-->
   <ReadingPolicy>TODO</ReadingPolicy>
-  <!-- EN: Reading policy is in use. -->
+  <!--EN: Reading policy is in use.-->
+  <!--VI: Chính sách đọc đang được sử dụng.-->
   <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
-
-  <!-- EN: Anything -->
+  <!--EN: Anything-->
+  <!--VI: Bất cứ điều gì-->
   <AllReadingPolicy>TODO</AllReadingPolicy>
-  <!-- EN: None -->
+  <!--EN: None-->
+  <!--VI: Không ai-->
   <NoneReadingPolicy>TODO</NoneReadingPolicy>
-  <!-- EN: Textbooks -->
+  <!--EN: Textbooks-->
+  <!--VI: Sách-->
   <TextbookPolicy>TODO</TextbookPolicy>
-  <!-- EN: Schematics -->
+  <!--EN: Schematics-->
+  <!--VI: Sơ đồ-->
   <SchematicPolicy>TODO</SchematicPolicy>
-  <!-- EN: Novels -->
+  <!--EN: Novels-->
+  <!--VI: Tiểu thuyết-->
   <NovelPolicy>TODO</NovelPolicy>
-  <!-- EN: Maps -->
+  <!--EN: Maps-->
+  <!--VI: Bản đồ-->
   <MapPolicy>TODO</MapPolicy>
-
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Cài đặt thuốc mặc định</DefaultMedicineSettings>
-  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <!--EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting.-->
+  <!--VI: Các cơ sở y tế này được chỉ định cho các sinh vật khi chúng lần đầu tiên tham gia vào một nhóm nhất định. Bạn có thể gán cài đặt theo cách thủ công cho một cá nhân trong tab sức khỏe của họ.\n\nLưu ý: Nếu sinh vật tham gia một nhóm mới, chúng sẽ luôn thực hiện cài đặt của nhóm đó, ngay cả khi trước đó bạn đã gán cho họ một cài đặt.-->
   <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
-  
   <!-- EN: Defaults -->
   <MedGroupDefaults>Mặc định</MedGroupDefaults>
-  
-  <!-- EN: Colonists -->
+  <!--EN: Colonists-->
+  <!--VI: Người thuộc địa-->
   <MedGroupColonists>TODO</MedGroupColonists>
-  <!-- EN: Free members of your colony -->
+  <!--EN: Free members of your colony-->
+  <!--VI: Giải phóng các thành viên thuộc địa của bạn-->
   <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
-  
-  <!-- EN: Prisoners -->
+  <!--EN: Prisoners-->
+  <!--VI: Tù nhân-->
   <MedGroupPrisoners>TODO</MedGroupPrisoners>
-  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <!--EN: Prisoners in your colony, regardless of faction.-->
+  <!--VI: Tù nhân trong thuộc địa của bạn, bất kể phe phái nào.-->
   <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
-
-  <!-- EN: Tamed animals -->
+  <!--EN: Tamed animals-->
+  <!--VI: Động vật được thuần hóa-->
   <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
-  <!-- EN: Animals which have been tamed by your colony. -->
+  <!--EN: Animals which have been tamed by your colony.-->
+  <!--VI: Động vật đã được thuần hóa bởi thuộc địa của bạn.-->
   <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
-
-  <!-- EN: Friendly faction members -->
+  <!--EN: Friendly faction members-->
+  <!--VI: Các thành viên phe thân thiện-->
   <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
-  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <!--EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75).-->
+  <!--VI: Con người hoặc động vật là thành viên của phe thân thiện với phe của bạn (thiện chí trên 75).-->
   <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
-  
   <!-- EN: Neutral faction members -->
   <MedGroupNeutralFaction>Băng nhóm trung lập</MedGroupNeutralFaction>
-  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <!--EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill).-->
+  <!--VI: Con người hoặc động vật là một phần của phe trung lập với phe của bạn (từ -75 đến 75 thiện chí).-->
   <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
-
   <!-- EN: Hostile faction members -->
   <MedGroupHostileFaction>Băng nhóm kẻ thù</MedGroupHostileFaction>
-  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <!--EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75).-->
+  <!--VI: Con người hoặc động vật là một phần của phe thù địch với phe của bạn (thiện chí dưới -75).-->
   <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
-
-  <!-- EN: Other humans -->
+  <!--EN: Other humans-->
+  <!--VI: Những người khác-->
   <MedGroupNoFaction>TODO</MedGroupNoFaction>
-  <!-- EN: Humans who are not members of any faction. -->
+  <!--EN: Humans who are not members of any faction.-->
+  <!--VI: Con người không phải là thành viên của bất kỳ phe phái nào.-->
   <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
-  
-  <!-- EN: Wildlife -->
+  <!--EN: Wildlife-->
+  <!--VI: Wildlife-->
   <MedGroupWildlife>TODO</MedGroupWildlife>
-  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <!--EN: Animals and other creatures which are not members of any faction.-->
+  <!--VI: Động vật và các sinh vật khác không phải là thành viên của bất kỳ phe phái nào.-->
   <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
-
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>{0} yêu cầu cấp {1} ở kĩ năng Trồng trọt.\n\nKhông có cư dân nào của bạn đủ trình để trồng được loại cây này.</NoGrowerCanPlant>
-
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
   <ConfirmAbandonHomeWithColonyPawns>Vài cư dân/vật nuôi của bạn vẫn còn ở khu vực này. Bạn có chắc là từ bỏ nơi này không?\n\nNhững người và vật nuôi sau sẽ bị bỏ rơi:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
@@ -1130,11 +1138,9 @@
   <ConfirmAbandonHomeNegativeThoughts>Bỏ rơi {0} sẽ khiến những người sau nhận những suy nghĩ sau:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Mọi người:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-  
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
   <ConfirmMoveAutoJoinableCaravan>Vài con vật hoặc tù nhân đang muốn gia nhập vào đoàn lữ hành này. Nếu đoàn lữ hành này di chuyển, họ sẽ không còn nữa.\n\nĐộng vật, tù nhân và những thành viên không thể cử động bị bỏ lại mà không có thành viên khỏe mạnh ở cùng sẽ bị coi là bỏ rơi và có thể bị bắt bởi kẻ thù.\n\nBạn có chắc muốn di chuyển đoàn lữ hành này?</ConfirmMoveAutoJoinableCaravan>
-  
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
   <ConfirmBanishPawnDialog>Bạn chắc chắn muốn đuổi {1_label}?</ConfirmBanishPawnDialog>
@@ -1146,31 +1152,27 @@
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Mọi người sẽ nghĩ như sau:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
   <ConfirmBanishPawnDialog_IndividualThoughts>Đuổi {1_labelShort} đi sẽ khiến những người sau bị ảnh hưởng tâm lý:</ConfirmBanishPawnDialog_IndividualThoughts>
-
   <!-- Send transport pods which are not completely loaded -->
-  <!-- EN: The following still need to be loaded -->
+  <!--EN: The following still need to be loaded-->
+  <!--VI: Những điều sau đây vẫn cần được tải-->
   <ConfirmSendNotCompletelyLoadedLaunchable>TODO</ConfirmSendNotCompletelyLoadedLaunchable>
-  <!-- EN: Launch anyway? -->
+  <!--EN: Launch anyway?-->
+  <!--VI: Dù sao thì cũng vậy?-->
   <ConfirmSendLaunchAnyway>TODO</ConfirmSendLaunchAnyway>
-
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
   <ConfirmSettleNearFactionBase>Vì vị trí này chỉ cách {0} ô so với thị trấn của băng nhóm khác, họ sẽ nghĩ rằng bạn đang xâm chiếm vùng đất của họ và giao hảo với những băng nhóm đo sẽ giảm {1} mỗi ngày.\n\nChắc chắn định cư ở đây chứ?</ConfirmSettleNearFactionBase>
-  
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
   <ConfirmCleanupTranslationFiles>Bạn có chắc chắn muốn dọn sạch tất cả các tệp dịch cho ngôn ngữ {0}?\n\nĐiều này sẽ:\n - Thêm trình giữ chỗ cho các bản dịch bị thiếu, bản dịch bị chèn và backstories\n - Thêm hoặc cập nhật nhận xét có chứa bản gốc, văn bản chưa được dịch\n - Di chuyển tất cả các bản dịch được khóa và được chèn vào các tệp XML thích hợp\n - Áp dụng định dạng tự động cho tất cả các tệp XML\n - Cập nhật tên def tương thích ngược\n - Xóa tất cả các nhận xét XML hiện có (ngoại trừ toàn bộ- liệt kê các lệnh tiêm)\n\nCác tệp XML sẽ không bị xóa hoặc sửa đổi.\n\nNhớ để khởi động lại trò chơi sau khi sửa đổi các tệp ngôn ngữ trước khi chạy công cụ này để tải lại tất cả dữ liệu.\n\nHãy chắc chắn sao lưu tất cả dữ liệu. dịch tập tin trước khi sử dụng công cụ này.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>Vâng, tôi có một bản sao lưu</ConfirmCleanupTranslationFiles_Confirm>
-
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>Các đoàn lữ hành sẽ không di chuyển nếu bạn gửi các nhóm đến một ô trống. Vẫn tiếp tục?</TransportersCaravanWillBeImmobile>
-
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
   <ConfirmCancelMonumentMarker>Bạn có chắc muốn xóa đánh dấu điểm này?</ConfirmCancelMonumentMarker>
-
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
   <CannotUseAbility>Không thể sử dụng {0}</CannotUseAbility>
@@ -1216,7 +1218,8 @@
   <AbilityCantApplyDowned>{0_labelShort} đã bị đánh ngã.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Không thể sử dụng: {0} là vô tính.</AbilityCantApplyOnAsexual>
-  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <!--EN: {PAWN_labelShort} has no healable injuries.-->
+  <!--VI: {PAWN_labelShort} không có vết thương nào có thể chữa lành.-->
   <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} là giới tính sai cho {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
@@ -1266,14 +1269,12 @@
   <PsychicLoveFor>Tình yêu tâm linh dành cho</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
   <FarskipConfirmTeleportingLodger>Nếu bạn bỏ qua {PAWN_labelShort} để đến một bản đồ hoặc một đoàn lữ hành khác, nhiệm vụ liên quan sẽ không thành công và {PAWN_pronoun} sẽ rời đi ngay lập tức.\n\nBạn có thực sự muốn bỏ qua {PAWN_labelShort} không?</FarskipConfirmTeleportingLodger>
-  
   <!-- EN: minor -->
   <MentalBreakIntensityMinor>nhỏ</MentalBreakIntensityMinor>
   <!-- EN: major -->
   <MentalBreakIntensityMajor>chính</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
   <MentalBreakIntensityExtreme>cực</MentalBreakIntensityExtreme>
-
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
   <AutoSlaugtherHeaderColLabel>Động vật</AutoSlaugtherHeaderColLabel>
@@ -1284,7 +1285,8 @@
   <!-- EN: Total -->
   <AutoSlaugtherHeaderColTotal>Toàn bộ</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>Khác</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>Khác</AutoSlaugtherHeaderColOther>
+  <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
   <AutoSlaugtherTip>Đầu tiên những người chăn nuôi giết mổ động vật không mang thai theo thứ tự từ lớn nhất đến trẻ nhất, sau đó là động vật mang thai từ lần mang thai gần đây nhất đến ít nhất.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
@@ -1301,7 +1303,6 @@
   <AnimalBonded>Đàn</AnimalBonded>
   <!-- EN: Slaughter -->
   <AllowSlaughter>Giết mổ</AllowSlaughter>
-
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Động vật được giết mổ tự động.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
@@ -1332,10 +1333,8 @@
   <AutoSlaughterHeaderTooltipCurrentBonded>Số lượng động vật trong đàn hiện tại ở thuộc địa.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Cho phép giết mổ động vật ngoại quan.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
-
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>Nhấp để đặt giới hạn số lượng động vật.</AutoSlaughterTooltipSetLimit>
-
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
   <RoomRequirementNoBeds>không được kê giường</RoomRequirementNoBeds>
@@ -1353,21 +1352,16 @@
   <RoomRequirementNoProductionFacilities>không có cơ sở làm việc được phép</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>không có bệ thờ được phép</RoomRequirementNoAltars>
-
   <!-- EN: Lifestage max food factor -->
   <LifeStageMaxFood>Hệ số thức ăn tối đa trong giai đoạn sống</LifeStageMaxFood>
-
   <!-- EN: Expand all -->
   <ExpandAllCategories>Mở rộng tất cả</ExpandAllCategories>
   <!-- EN: Collapse all -->
   <CollapseAllCategories>Thu gọn tất cả</CollapseAllCategories>
-
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
   <TooltipDyeExplanation>Thuốc nhuộm có thể được tìm thấy từ tinctoria hoặc mua từ thương nhân.</TooltipDyeExplanation>
-
   <!-- EN: Zoom range {0} -->
   <ZoomRange>Phạm vi thu phóng {0}</ZoomRange>
-
   <!-- Color picker -->
   <!-- EN: color temperature -->
   <ColorTemperature>bảng màu</ColorTemperature>
@@ -1417,27 +1411,31 @@
   <ToggleDarklightOnDesc>Thay đổi màu sáng thành màu tối.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>Chọn một màu bằng cách đặt bảng màu. Lưu ý: Điều này chỉ ảnh hưởng đến màu sắc trực quan, không ảnh hưởng đến lượng nhiệt tỏa ra.</ColorTemperatureTooltip>
-
-  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <!--EN: {0_labelShort} is psychically deaf.-->
+  <!--VI: {0_labelShort} bị điếc về mặt tâm linh.-->
   <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
-
-  <!-- EN: Search the current map. -->
+  <!--EN: Search the current map.-->
+  <!--VI: Tìm kiếm bản đồ hiện tại.-->
   <SearchTheMap>TODO</SearchTheMap>
-  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <!--EN: Search the current map for items, buildings, people, animals, plants, and more.-->
+  <!--VI: Tìm kiếm trên bản đồ hiện tại để tìm các vật phẩm, tòa nhà, con người, động vật, thực vật, v.v.-->
   <SearchTheMapDesc>TODO</SearchTheMapDesc>
-  <!-- EN: Search the world -->
+  <!--EN: Search the world-->
+  <!--VI: Tìm kiếm thế giới-->
   <SearchTheWorld>TODO</SearchTheWorld>
-  <!-- EN: Search the world for specific features, landmarks, quests, or settlements. -->
+  <!--EN: Search the world for specific features, landmarks, quests, or settlements.-->
+  <!--VI: Tìm kiếm thế giới để tìm các tính năng, địa danh, nhiệm vụ hoặc khu định cư cụ thể.-->
   <SearchTheWorldDesc>TODO</SearchTheWorldDesc>
-  <!-- EN: {0} results found -->
+  <!--EN: {0} results found-->
+  <!--VI: {0} kết quả được tìm thấy-->
   <MapSearchResults>TODO</MapSearchResults>
-  <!-- EN: 1 result found -->
+  <!--EN: 1 result found-->
+  <!--VI: 1 kết quả được tìm thấy-->
   <MapSearchResultSingular>TODO</MapSearchResultSingular>
-  <!-- EN: Searching -->
+  <!--EN: Searching-->
+  <!--VI: Tìm kiếm-->
   <Searching>TODO</Searching>
-
   <!-- UNUSED -->
   <MapTemperatureDangerWarning>CẢNH BÁO: Bạn sẽ đáp ở môi trường băng giá. cư dân của bạn có gần như khó qua tuần trăng đầu. Nếu bạn không muốn "ngập trong hành" ngay từ đầu, chịu khó chọn chỗ khác giùm hoặc đổi mùa bắt đầu đi.</MapTemperatureDangerWarning>
   <ConfirmSendNotCompletelyLoadedPods>Nhóm phóng chưa tải xong. Thiếu mất {1_labelShort}. Bạn vẫn muốn phóng chứ?</ConfirmSendNotCompletelyLoadedPods>
-
 </LanguageData>

@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- EN: Create or select an ideoligion for your faction. -->
   <MessageMustChooseIdeo>Tạo hoặc chọn một biểu tượng cho tín ngưỡng của bạn.</MessageMustChooseIdeo>
   <!-- EN: The ideoligion name can't be empty. -->
@@ -39,7 +38,6 @@
   <MessageNeedAssignedRoleToBeginRitual>Trước khi bắt đầu {1}, bạn phải chỉ định ai đó vai trò của {0}.</MessageNeedAssignedRoleToBeginRitual>
   <!-- EN: Need at least one {0} participating. -->
   <MessageNeedAtLeastOneParticipantOfIdeo>Cần ít nhất một {0} tham gia.</MessageNeedAtLeastOneParticipantOfIdeo>
-  
   <!-- EN: {0_labelShort} now holds the role of {1}. -->
   <MessageRoleAssigned>{0_labelShort} hiện giữ vai trò của {1}.</MessageRoleAssigned>
   <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
@@ -50,7 +48,6 @@
   <MessageWarningPlayerDesignatedMining>Cảnh báo: {0} sẽ khó chịu nếu quá trình khai thác xảy ra.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
   <MessageConnectedPawnDied>{TREE_label} đã bị đứt liên kết với {PAWN_nameDef}. Nó phải khôi phục trong {DURATION} trước khi có thể liên kết lại.</MessageConnectedPawnDied>
-
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
   <MessageSlaveEmancipated>{0_nameDef} đã được giải phóng bởi {1_nameDef}.</MessageSlaveEmancipated>
@@ -60,17 +57,14 @@
   <MessagePrisonerWillBroken>Di chúc của tù nhân {1_nameDef} đã bị {0_nameDef} phá vỡ.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
   <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Sự nô lệ sẽ tuân theo.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
-
   <!-- Prisoner interactions -->
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>Không có quảng ngục nào có thể nô lệ hóa người này.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
   <MessageNoWardenOfIdeo>Bạn không có người quản lý {MEMBERNAME} nào để chuyển đổi {PRISONER_nameDef}. Chế độ tương tác của {PRISONER_possessive} đã trở về "Không tương tác".</MessageNoWardenOfIdeo>
-
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
   <MessageCampDetected>Bạn đã phát hiện thấy một {CAMP_label} gần đó do {FACTION_name} kiểm soát.</MessageCampDetected>
-
   <!-- Charity -->
   <!-- EN: Charity refused -->
   <MessageCharityEventRefused>Từ thiện từ chối</MessageCharityEventRefused>
@@ -78,13 +72,16 @@
   <MessageCharityEventFulfilled>Từ thiện hoàn thành</MessageCharityEventFulfilled>
   <!-- EN: {0} are leaving empty-handed. -->
   <MessageBeggarsLeavingWithNoItems>{0} để lại trắng tay.</MessageBeggarsLeavingWithNoItems>
-  <!-- EN: The {0} has accepted the requested items and is leaving. -->
+  <!--EN: The {0} has accepted the requested items and is leaving.-->
+  <!--VI: {0} đã chấp nhận các mặt hàng được yêu cầu và đang rời đi.-->
   <MessageBeggarsLeavingWithItemsSingular>TODO</MessageBeggarsLeavingWithItemsSingular>
-  <!-- EN: {0} have accepted the requested items and are leaving. -->
+  <!--EN: {0} have accepted the requested items and are leaving.-->
+  <!--VI: {0} đã chấp nhận các mặt hàng được yêu cầu và sẽ rời đi.-->
   <MessageBeggarsLeavingWithItemsPlural>TODO</MessageBeggarsLeavingWithItemsPlural>
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef} đã chết mà không có bất kỳ biện pháp điều trị nào.</MessageWandererLeftToDie>
-  <!-- EN: {0_nameDef} was left to die. -->
+  <!--EN: {0_nameDef} was left to die.-->
+  <!--VI: {0_nameDef} đã bị bỏ mặc để chết.-->
   <MessageWandererLeftBehind>TODO</MessageWandererLeftBehind>
   <!-- EN: {0_nameDef} was recruited. -->
   <MessageWandererRecruited>{0_nameDef} đã được tuyển dụng.</MessageWandererRecruited>
@@ -94,7 +91,6 @@
   <MessageCharityQuestEndedFailed>{0} không thành công.</MessageCharityQuestEndedFailed>
   <!-- EN: {0} has been successfully completed. -->
   <MessageCharityQuestEndedSuccess>{0} đã hoàn tất thành công.</MessageCharityQuestEndedSuccess>
-
   <!-- Ideo UI -->
   <!-- EN: Cannot remove -->
   <CannotRemove>Không thể loại bỏ</CannotRemove>
@@ -106,12 +102,10 @@
   <RequiredByFaction>Yêu cầu bởi {FACTION_name}.</RequiredByFaction>
   <!-- EN: Roles cannot have overlapping apparel requirements. -->
   <OverlappingRoleApparel>Các vai trò không được có yêu cầu về trang phục trùng nhau.</OverlappingRoleApparel>
-  
   <!-- EN: {0} will self-destruct in {1}. -->
   <SelfDestructCountdown>{0_label} sẽ tự hủy sau {1}.</SelfDestructCountdown>
   <!-- EN: Precept name is too long (maximum {0} letters) -->
   <PreceptNameTooLong>Tên châm ngôn quá dài (tối đa {0} chữ cái)</PreceptNameTooLong>
-
   <!-- Ancient complex -->
   <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
   <MessageAncientTerminalDiscovered>Bạn đã khám phá ra một thiết bị với thông tin về {0}!</MessageAncientTerminalDiscovered>
@@ -121,39 +115,33 @@
   <MessageAncientSignalActivated>Một vệ tinh cung cấp cổ xưa đã được kích hoạt. Nguồn cung cấp sẽ rơi gần đó.</MessageAncientSignalActivated>
   <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
   <MessageAncientSignalHostileDetected>{0} từ {1} đã phát hiện ra tín hiệu cung cấp và đang tấn công.</MessageAncientSignalHostileDetected>
-
   <!-- Ancient altar -->
   <!-- EN: All security systems are waking up! -->
   <MessageAncientAltarThreatsWokenUp>Tất cả các hệ thống an ninh đang hoạt động!</MessageAncientAltarThreatsWokenUp>
   <!-- EN: All security systems are alerted to your presence. -->
   <MessageAncientAltarThreatsAlerted>Tất cả các hệ thống an ninh được cảnh báo về sự hiện diện của bạn.</MessageAncientAltarThreatsAlerted>
-
   <!-- Animals -->
   <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
   <MessageAnimalIsVeneratedForAllColonists>Cảnh báo: {PAWNKINDLABELPLURAL} được tất cả {PAWNS} tôn trọng và sẽ không bị tổn hại.</MessageAnimalIsVeneratedForAllColonists>
-
   <!-- Archonexus -->
   <!-- EN: Select at most {0} {1} to bring to the new colony. -->
   <MessageNewColonyMax>Chọn nhiều nhất {0} {1} để chuyển đến thuộc địa mới.</MessageNewColonyMax>
   <!-- EN: You must select at least 1 colonist. -->
   <MessageNewColoyRequiresOneColonist>Bạn phải chọn ít nhất 1 cư dân.</MessageNewColoyRequiresOneColonist>
-
   <!-- Fuel node -->
   <!-- EN: A {0} has been ignited and is going to explode! -->
   <MessageFuelNodeTriggered>Một {0} đã được đánh lửa và sắp phát nổ!</MessageFuelNodeTriggered>
-
   <!-- Ancient complex -->
   <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
   <MessageSleepingThreatDelayActivated>{0_pawnsPlural} sẽ thức dậy sau {1}.</MessageSleepingThreatDelayActivated>
   <!-- EN: Infestation arriving. -->
   <MessageInfestationDelayActivated>Sự lây nhiễm đến.</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
-  <MessageFuelNodeDelayActivated>{0} đã bị quấy rầy và có thể sớm phát nổ!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
-
+  <MessageFuelNodeDelayActivated>{0} đã bị quấy rầy và có thể sớm phát nổ!</MessageFuelNodeDelayActivated>
+  <!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
   <!-- Fluid ideo messages -->
   <!-- EN: Development points changed from {0} to {1} ({2}). -->
   <MessageDevelopmentPointsEarned>Điểm phát triển đã thay đổi từ {0} thành {1} ({2}).</MessageDevelopmentPointsEarned>
   <!-- EN: Only one change to structures, memes and styles is allowed. -->
   <MessageFluidIdeoOneChangeAllowed>Chỉ cho phép một thay đổi đối với cấu trúc, meme và phong cách.</MessageFluidIdeoOneChangeAllowed>
-
 </LanguageData>

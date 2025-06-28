@@ -1,50 +1,62 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: bioregeneration -->
   <Bioregeneration.label>tái tạo sinh học</Bioregeneration.label>
   <!-- EN: Unlock the biosculpter pod's bioregeneration cycle. This cycle heals old scars, regenerates small lost body parts like fingers and toes, and cures many of the physical maladies that come with old age. -->
   <Bioregeneration.description>Mở khóa chu kỳ tái tạo sinh học của vỏ máy hủy sinh học. Chu kỳ này chữa lành các vết sẹo cũ, tái tạo các bộ phận cơ thể nhỏ bị mất như ngón tay và ngón chân, đồng thời chữa khỏi nhiều bệnh tật về thể chất do tuổi già.</Bioregeneration.description>
-  <!-- EN:
-    <li>subject->bioregeneration</li>
+  <!--EN: <li>subject->bioregeneration</li>
     <li>subject_story->studied Boomalope antler regrowth for parallels with human regeneration</li>
     <li>subject_story->spliced salamander genetic data into [ANYPAWN_possessive] own body</li>
     <li>subject_story->trained in a Glitterworld hospital</li>
     <li>subject_story->completed a correspondence course in Glitterworld aesthetics</li>
     <li>subject_gerund->regenerating the human form</li>
-    <li>subject_gerund->activating regeneration with biosculpters</li>
-  -->
+    <li>subject_gerund->activating regeneration with biosculpters</li>-->
+  <!--VI: <li>đối tượng->tái tạo sinh học</li>
+    <li>Nghiên cứu subject_story > mọc lại gạc Boomalope để tìm sự tương đồng với tái tạo con người</li>
+    Dữ <li>liệu di truyền kỳ nhông subject_story > ghép vào cơ thể của chính [ANYPAWN_possessive]</li>
+    <li>subject_story > được đào tạo tại bệnh viện Glitterworld</li>
+    <li>subject_story->đã hoàn thành khóa học thư tín về thẩm mỹ Glitterworld</li>
+    <li>subject_gerund->tái tạo hình dạng con người</li>
+    <li>subject_gerund-> kích hoạt tái tạo với các nhà điêu khắc sinh học</li>-->
   <Bioregeneration.generalRules.rulesStrings>TODO</Bioregeneration.generalRules.rulesStrings>
-  
   <!-- EN: biosculpting -->
   <Biosculpting.label>chế phẩm sinh học</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
   <Biosculpting.description>Xây dựng kén sinh học đa năng có thể thực hiện các thay đổi sinh học khác nhau đối với cư dân. Những điều này đặc biệt quan trọng đối với những người tin theo thuyết xuyên nhân loại</Biosculpting.description>
-  <!-- EN:
-    <li>subject->biosculpting</li>
+  <!--EN: <li>subject->biosculpting</li>
     <li>subject_story->constructed biosculpter pods on contract for various colonies</li>
     <li>subject_story->studied transhumanist precepts, including the necessity of biosculpture</li>
     <li>subject_story->researched which biological alterations could be made safely</li>
     <li>subject_story->escaped a glitterworld support farm with these plans</li>
     <li>subject_story->was welcomed into a transhumanist colony</li>
     <li>subject_gerund->constructing biosculpter pods</li>
-    <li>subject_gerund->sculpting the human form</li>
-  -->
+    <li>subject_gerund->sculpting the human form</li>-->
+  <!--VI: chủ <li>đề->điêu khắc sinh học</li>
+    <li>subject_story-> vỏ điêu khắc sinh học được xây dựng theo hợp đồng cho các thuộc địa khác nhau</li>
+    <li>subject_story-> nghiên cứu các giới luật siêu nhân, bao gồm cả sự cần thiết của điêu khắc sinh học</li>
+    <li>subject_story > nghiên cứu những thay đổi sinh học nào có thể được thực hiện một cách an toàn</li>
+    <li>subject_story->trốn thoát khỏi trang trại hỗ trợ glitterworld với những kế hoạch này</li>
+    <li>subject_story-> được chào đón vào một thuộc địa siêu nhân</li>
+    <li>subject_gerund->xây dựng vỏ điêu khắc sinh học</li>
+    <li>subject_gerund > điêu khắc hình dạng con người</li>-->
   <Biosculpting.generalRules.rulesStrings>TODO</Biosculpting.generalRules.rulesStrings>
-  
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>bộ tăng dây thần kinh</NeuralSupercharger.label>
   <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
   <NeuralSupercharger.description>Cấu tạo thiết bị tăng dây thần kinh. Tăng áp thần kinh cải thiện ý thức và tốc độ học tập, nhưng chúng cũng làm tăng cảm giác đói và hiệu ứng phải được làm mới hàng ngày. Những người xuyên nhân loại thường coi việc tăng áp thần kinh là một việc cực kỳ quan trọng.</NeuralSupercharger.description>
-  <!-- EN:
-    <li>subject->neural superchargers</li>
+  <!--EN: <li>subject->neural superchargers</li>
     <li>subject_story->implemented neural superchargers in [ANYPAWN_possessive] boarding school</li>
     <li>subject_story->supercharged the neurons of farmed clones to massively accelerate their development</li>
     <li>subject_story->attempted to ban neural supercharging in the university course [ANYPAWN_pronoun] taught</li>
     <li>subject_story->joined a transhumanist sect where neural supercharging was mandatory</li>
     <li>subject_gerund->supercharging a human's intellect</li>
-    <li>subject_gerund->constructing neural superchargers</li>
-  -->
+    <li>subject_gerund->constructing neural superchargers</li>-->
+  <!--VI: <li>bộ tăng áp thần kinh > đối tượng</li>
+    Bộ <li>tăng áp thần kinh subject_story > triển khai trong trường nội trú [ANYPAWN_possessive]</li>
+    <li>subject_story-> tăng cường các tế bào thần kinh của các bản sao nuôi để đẩy nhanh sự phát triển của chúng</li>
+    <li>subject_story-> cố gắng cấm tăng cường thần kinh trong khóa học đại học [ANYPAWN_pronoun] được giảng dạy</li>
+    <li>subject_story->gia nhập một giáo phái siêu nhân mà việc tăng cường thần kinh là bắt buộc</li>
+    <li>subject_gerund-> tăng cường trí tuệ của con người</li>
+    <li>subject_gerund > xây dựng bộ tăng áp thần kinh</li>-->
   <NeuralSupercharger.generalRules.rulesStrings>TODO</NeuralSupercharger.generalRules.rulesStrings>
-  
 </LanguageData>

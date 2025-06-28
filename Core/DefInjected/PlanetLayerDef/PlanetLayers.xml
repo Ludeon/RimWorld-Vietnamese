@@ -1,13 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
-  <!-- EN: planet -->
+  <!--EN: planet-->
+  <!--VI: hành tinh-->
   <Surface.label>TODO</Surface.label>
-  <!-- EN: {0}m -->
+  <!--EN: {0}m-->
+  <!--VI: {0}-->
   <Surface.elevationString>TODO</Surface.elevationString>
-  <!-- EN: on the -->
+  <!--EN: on the-->
+  <!--VI: trên-->
   <Surface.gerundLabel>TODO</Surface.gerundLabel>
-  <!-- EN: View locations that are on the surface. -->
+  <!--EN: View locations that are on the surface.-->
+  <!--VI: Xem các vị trí trên bề mặt.-->
   <Surface.viewGizmoTooltip>TODO</Surface.viewGizmoTooltip>
-  
 </LanguageData>

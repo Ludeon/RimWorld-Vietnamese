@@ -1,13 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- ======================== Non-grouped ========================-->
-
-  <!-- EN: Title -->
+  <!--EN: Title-->
+  <!--VI: Tiêu đề-->
   <ScenarioTitle>TODO</ScenarioTitle>
   <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>Phe của bạn sẽ là một {0}.</ScenPart_PlayerFaction>
-
   <!-- EN: Start with 1 person. -->
   <ScenPart_StartWithPawn>Bắt đầu với 1 người.</ScenPart_StartWithPawn>
   <!-- EN: Start with {0} people. -->
@@ -16,37 +14,30 @@
   <ScenPart_StartWithPawns_OutOf>chọn từ</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
   <RandomPet>thú nuôi ngẫu nhiên</RandomPet>
-
   <!-- EN: Start with research: {0} -->
   <ScenPart_StartingResearchFinished>Bắt đầu với công nghệ: {0}</ScenPart_StartingResearchFinished>
-  
   <!-- EN: Arrive in drop pods. -->
   <ScenPart_ArriveInDropPods>Đến nơi thả kén.</ScenPart_ArriveInDropPods>
-
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
   <ScenPart_StatFactor>Chỉ số "{0}" sẽ được nhân với {1}.</ScenPart_StatFactor>
-  
-  <!-- EN: Select -->
+  <!--EN: Select-->
+  <!--VI: Lựa-->
   <ScenPart_SelectQuestDef>TODO</ScenPart_SelectQuestDef>
-
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
   <ScenPart_PawnsHaveHediff>{0} có cơ hội {1} để bắt đầu với {2}.</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
   <ConfigurableSeverity>mức độ nghiêm trọng: {0}</ConfigurableSeverity>
-
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
   <ScenPart_SetNeed>{0} có cơ hội {1} để đặt {2} giữa {3} và {4}.</ScenPart_SetNeed>
   <!-- EN: level: {0} -->
   <ConfigurableLevel>cấp độ: {0}</ConfigurableLevel>
-
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
   <ScenPart_PawnsHaveTrait>{0} có cơ hội {1} để bắt đầu với đặc điểm: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>Nhân vật và sinh vật phát nổ khi chết ({0}, bán kính {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} have a {1} chance to start naked. -->
   <ScenPart_PawnsAreNaked>{0} có {1} cơ hội để bắt đầu khỏa thân. </ScenPart_PawnsAreNaked>
-  
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
   <ScenPart_StartingPawnAgeMin>Người của bạn sẽ ít nhất {0} tuổi.</ScenPart_StartingPawnAgeMin>
@@ -54,17 +45,14 @@
   <ScenPart_StartingPawnAgeMax>Người của bạn sẽ có nhiều nhất {0} tuổi.</ScenPart_StartingPawnAgeMax>
   <!-- EN: Your people will be between {0} and {1} years old. -->
   <ScenPart_StartingPawnAgeRange>Người của bạn sẽ trong khoảng từ {0} đến {1} tuổi.</ScenPart_StartingPawnAgeRange>
-
   <!-- EN: Start with {0}. -->
   <ScenPart_StartWithSpecificColonists>Bắt đầu với {0}.</ScenPart_StartWithSpecificColonists>
   <!-- EN: {COUNT} {KINDLABEL} -->
   <PawnCount>{COUNT} {KINDLABEL}</PawnCount>
-  
-  <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
+  <!--EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts.-->
+  <!--VI: Một hoặc nhiều phần trong kịch bản này không thể tải được do thiếu nội dung đã sửa đổi.\n\nBạn có thể tải kịch bản với tất cả các mod cần thiết của nó, hoặc tải nó mà không có các phần kịch bản bị thiếu.-->
   <ScenPart_Error>TODO</ScenPart_Error>
-
   <!-- ======================== Grouped ========================-->
-
   <!-- EN: Start with -->
   <ScenPart_StartWith>Bắt đầu với</ScenPart_StartWith>
   <!-- EN: Map is scattered with -->
@@ -77,51 +65,65 @@
   <ScenPart_CreateIncident>Sự cố được tạo ra</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>Không bao giờ có thể xây dựng</ScenPart_DisallowBuilding>
-
   <!-- ======================== Layers ========================-->
-  
-  <!-- EN: Tag -->
+  <!--EN: Tag-->
+  <!--VI: Thẻ-->
   <ScenPart_PlanetLayerTag>TODO</ScenPart_PlanetLayerTag>
-  <!-- EN: Must have a unique tag -->
+  <!--EN: Must have a unique tag-->
+  <!--VI: Phải có thẻ duy nhất-->
   <ScenPart_PlanetLayerTag_Error>TODO</ScenPart_PlanetLayerTag_Error>
-  
-  <!-- EN: Settings -->
+  <!--EN: Settings-->
+  <!--VI: Cài đặt-->
   <ScenPart_PlanetLayerSettings>TODO</ScenPart_PlanetLayerSettings>
-  <!-- EN: Use settings def -->
+  <!--EN: Use settings def-->
+  <!--VI: Sử dụng thiết lập def-->
   <ScenPart_PlanetLayerSettings_UseDef>TODO</ScenPart_PlanetLayerSettings_UseDef>
-  <!-- EN: Select -->
+  <!--EN: Select-->
+  <!--VI: Lựa-->
   <ScenPart_PlanetLayerSettings_SelectDef>TODO</ScenPart_PlanetLayerSettings_SelectDef>
-  <!-- EN: Position -->
+  <!--EN: Position-->
+  <!--VI: Vị trí-->
   <ScenPart_PlanetLayerSettings_Position>TODO</ScenPart_PlanetLayerSettings_Position>
-  <!-- EN: Radius -->
+  <!--EN: Radius-->
+  <!--VI: Bán kính-->
   <ScenPart_PlanetLayerSettings_Radius>TODO</ScenPart_PlanetLayerSettings_Radius>
-  <!-- EN: Use surface view angle -->
+  <!--EN: Use surface view angle-->
+  <!--VI: Sử dụng góc nhìn bề mặt-->
   <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>TODO</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
-  <!-- EN: View angle -->
+  <!--EN: View angle-->
+  <!--VI: Góc nhìn-->
   <ScenPart_PlanetLayerSettings_ViewAngle>TODO</ScenPart_PlanetLayerSettings_ViewAngle>
-  <!-- EN: Extra camera height -->
+  <!--EN: Extra camera height-->
+  <!--VI: Chiều cao camera bổ sung-->
   <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>TODO</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
-  <!-- EN: Subdivisions -->
+  <!--EN: Subdivisions-->
+  <!--VI: Đơn vị-->
   <ScenPart_PlanetLayerSettings_Subdivisions>TODO</ScenPart_PlanetLayerSettings_Subdivisions>
-  <!-- EN: Background camera offset -->
+  <!--EN: Background camera offset-->
+  <!--VI: Bù đắp máy ảnh nền-->
   <ScenPart_PlanetLayerSettings_BackgroundOffset>TODO</ScenPart_PlanetLayerSettings_BackgroundOffset>
-  <!-- EN: Background parallax per 100 cells -->
+  <!--EN: Background parallax per 100 cells-->
+  <!--VI: Thị sai nền trên 100 ô-->
   <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>TODO</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
-  
-  <!-- EN: Connections -->
+  <!--EN: Connections-->
+  <!--VI: Kết nối-->
   <ScenPart_PlanetLayerConnections>TODO</ScenPart_PlanetLayerConnections>
-  <!-- EN: Add connection -->
+  <!--EN: Add connection-->
+  <!--VI: Thêm kết nối-->
   <ScenPart_PlanetLayerConnections_Add>TODO</ScenPart_PlanetLayerConnections_Add>
-  <!-- EN: No zoom -->
+  <!--EN: No zoom-->
+  <!--VI: Không thu phóng-->
   <ScenPart_PlanetLayerConnections_Zoom>TODO</ScenPart_PlanetLayerConnections_Zoom>
-  <!-- EN: Zoom in -->
+  <!--EN: Zoom in-->
+  <!--VI: Phóng to-->
   <ScenPart_PlanetLayerConnections_ZoomIn>TODO</ScenPart_PlanetLayerConnections_ZoomIn>
-  <!-- EN: Zoom out -->
+  <!--EN: Zoom out-->
+  <!--VI: Thu nhỏ-->
   <ScenPart_PlanetLayerConnections_ZoomOut>TODO</ScenPart_PlanetLayerConnections_ZoomOut>
-  <!-- EN: Fuel cost -->
+  <!--EN: Fuel cost-->
+  <!--VI: Chi phí nhiên liệu-->
   <ScenPart_PlanetLayerConnections_Fuel>TODO</ScenPart_PlanetLayerConnections_Fuel>
-  
-  <!-- EN: Planet layer -->
+  <!--EN: Planet layer-->
+  <!--VI: Lớp hành tinh-->
   <ScenPart_ForcedMapPlanetLayer>TODO</ScenPart_ForcedMapPlanetLayer>
-
 </LanguageData>

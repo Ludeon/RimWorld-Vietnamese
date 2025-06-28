@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
   <!-- Misc -->
   <!-- EN: Trading animal products bonus -->
   <TradingAnimalProduceBonus>Thưởng giao dịch sản phẩm động vật</TradingAnimalProduceBonus>
@@ -16,7 +15,6 @@
   <UseGlobalStyle>Sử dụng kiểu chung</UseGlobalStyle>
   <!-- EN: No style variations available -->
   <NoStylesAvailable>Không có biến thể phong cách nào</NoStylesAvailable>
-
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>Chọn cấu trúc biểu tượng cho tín ngưỡng của bạn. Điều này ảnh hưởng đến các biểu tượng - nó không ảnh hưởng đến lối chơi.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
@@ -39,12 +37,10 @@
   <ReformIdeoResetChanges>Đặt lại thay đổi</ReformIdeoResetChanges>
   <!-- EN: Choose {0} meme. -->
   <NotEnoughMemesFluidIdeo>Chọn biểu tượng {0}.</NotEnoughMemesFluidIdeo>
-
   <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
   <ChangesRandomizePrecepts>{0} sẽ sắp xếp lại ngẫu nhiên mọi giới luật bạn đã chỉnh sửa.\n\nBạn có muốn tiếp tục không?</ChangesRandomizePrecepts>
   <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
   <ChangesRemovePrecepts>Các giới luật sau không tương thích với lựa chọn biểu tượng mới này và sẽ bị xóa:\n\n{0}\n\nBạn có muốn tiếp tục không?</ChangesRemovePrecepts>
-  
   <!-- EN: Room requirements -->
   <RoomRequirements>Yêu cầu về phòng</RoomRequirements>
   <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
@@ -53,7 +49,6 @@
   <ConfirmIncompatibleMemes>Các biểu tượng sau không tương thích</ConfirmIncompatibleMemes>
   <!-- EN: Would you like to continue? -->
   <ConfirmChangeMemesForFluidIdeoContinue>Bạn có muốn tiếp tục không?</ConfirmChangeMemesForFluidIdeoContinue>
-
   <!-- EN: role -->
   <Role>vai trò</Role>
   <!-- EN: Assign role -->
@@ -88,7 +83,8 @@
   <ChooseRoleHint>Đôi khi sẽ tốt hơn nếu chỉ định vai trò sau khi thuộc địa tốt hơn.</ChooseRoleHint>
   <!-- EN: Unlocked by -->
   <UnlockedByMeme>Mở khóa bởi</UnlockedByMeme>
-  <!-- EN: Origin -->
+  <!--EN: Origin-->
+  <!--VI: Nguồn gốc-->
   <Origin>TODO</Origin>
   <!-- EN: Unlocked roles -->
   <MemeUnlocksRoles>Mở khóa vai trò</MemeUnlocksRoles>
@@ -102,7 +98,6 @@
   <CannotNotAddRoleApparelDueToMeme>Biểu tượng {MEME} ngăn cản việc thêm các yêu cầu về trang phục vào các vai trò.</CannotNotAddRoleApparelDueToMeme>
   <!-- EN: cannot be worn with {0_label} -->
   <CannotBeWornWith>không thể mặc với {0_label}</CannotBeWornWith>
-
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>Giảm độ bền</AbilityIdeoConvertBreakdownLabel>
   <!-- EN: Using {ABILITY} ability -->
@@ -115,7 +110,8 @@
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} là {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>Nét tiêu biểu {TRAIT}</AbilityIdeoConvertBreakdownTrait>
-  <!-- EN: Precept {PRECEPT} -->
+  <!--EN: Precept {PRECEPT}-->
+  <!--VI: Giới luật {PRECEPT}-->
   <AbilityIdeoConvertBreakdownPercept>TODO</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} di tích được cài đặt trên bản đồ</AbilityIdeoConvertBreakdownRelic>
@@ -127,10 +123,8 @@
   <AbilityIdeoConvertBreakdownPawnIdeo>Tín ngưỡng của {PAWN_labelDef}</AbilityIdeoConvertBreakdownPawnIdeo>
   <!-- EN: {MEME} vs {TRAIT} trait -->
   <AbilityIdeoConvertBreakdownMemeVsTrait>Đặc điểm {MEME} với {TRAIT}</AbilityIdeoConvertBreakdownMemeVsTrait>
-
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
   <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} đã được tư vấn gần đây.</AbilityCantApplyAlreadyCounselled>
-
   <!-- EN: Reform... -->
   <ReformIdeo>Cải cách...</ReformIdeo>
   <!-- EN: Reform ideoligion -->
@@ -155,7 +149,6 @@
   <ReformIdeoCancelRituals>Nghi thức {0} đang diễn ra và sẽ bị hủy.</ReformIdeoCancelRituals>
   <!-- EN: Do you wish to continue? -->
   <ReformIdeoContinue>Bạn có muốn tiếp tục không?</ReformIdeoContinue>
-
   <!-- Slavery -->
   <!-- EN: Slave -->
   <CannotAssignBedToSlave>Nô lệ</CannotAssignBedToSlave>
@@ -167,20 +160,16 @@
   <NegotiatorWillNotTradeSlaves>{0_nameDef} từ chối bán mọi người làm nô lệ theo niềm tin của {0_possessive}.</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
   <NegotiatorWillNotTradeSlavesTip>Người đàm phán, {0_nameDef}, sẽ không đưa mọi người trở thành nô lệ do {0_possessive} tin vào {1}.\n\nChú ý rằng {0_nameDef} sẵn sàng chuộc một người nào đó về phe của họ, nhưng không sẵn sàng bán ai đó đến một phe khác.</NegotiatorWillNotTradeSlavesTip>
-
   <!-- EN: Last human meat -->
   <LastHumanMeat>Thịt người cuối cùng</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
   <LastHumanMeatDesc>Vì {PAWN_possessive} tin vào {IDEO_name}, {PAWN_nameDef} sẽ trở nên không vui nếu {PAWN_pronoun} đã hơn {DURATION} ngày mà không ăn thịt người.</LastHumanMeatDesc>
-
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>Việc thực thi {PAWN_labelShort} sẽ ảnh hưởng tiêu cực đến quan hệ với {FACTION_name}.</ExectueNeutralFactionSlave>
-
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
   <CaravanMustHaveAtLeastOneNonSlaveColonist>Bạn phỉa chỉ định ít nhất một người dân không phải là nô lệ có thể đi lại.</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
   <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Bạn phải để lại ít nhất một người không là nô lệ có thể đi lại.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
-
   <!-- Style -->
   <!-- EN: Style -->
   <StylePawn>Phong cách</StylePawn>
@@ -217,7 +206,7 @@
   <!-- EN: New buildables -->
   <IdeoMakesBuildingBuildable>Vật liệu xây dựng mới</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>không sử dụng cho {PAWN_nameDef}</NoneUsableForPawn> 
+  <NoneUsableForPawn>không sử dụng cho {PAWN_nameDef}</NoneUsableForPawn>
   <!-- EN: Hair and beards -->
   <HairAndBeards>Tóc và râu</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
@@ -244,19 +233,18 @@
   <NumAvailable>{0} đang dùng</NumAvailable>
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>Đặt lại tất cả các mục về mặc định.</ResetButtonDesc>
-
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
   <SendShuttleAnyway>Gửi tàu con thoi đi đón</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
   <ReLoadShuttle>Tải lại tàu con thoi</ReLoadShuttle>
-
   <!-- Medical settings -->
-  <!-- EN: Slaves -->
+  <!--EN: Slaves-->
+  <!--VI: Nô lệ-->
   <MedGroupSlaves>TODO</MedGroupSlaves>
-  <!-- EN: Enslaved members of your colony. -->
+  <!--EN: Enslaved members of your colony.-->
+  <!--VI: Các thành viên nô lệ của thuộc địa của bạn.-->
   <MedGroupSlavesDesc>TODO</MedGroupSlavesDesc>
-
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
   <ChangeMode>Chọn loại tinh linh</ChangeMode>
@@ -272,7 +260,6 @@
   <AlreadySelected>Đã được chọn</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
   <ChooseProductionModeInitialDesc>Tại đây bạn có thể chọn loại tinh linh mà {TREE_label} tạo ra.\n\nTinh linh sẽ chui ra từ các quả mọc ở gốc cây. Số lượng tối đa của nữ thần được dựa trên độ liên kết giữa {TREE_definite} và người được liên kết.</ChooseProductionModeInitialDesc>
-
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
   <ChooseColonistsForIdeoTitle>Chọn người để đổi sang tín ngưỡng của bạn</ChooseColonistsForIdeoTitle>
@@ -312,13 +299,11 @@
   <ItemQuantityTooltip>{0} số lượng có thể được mang đến thuộc địa mới.\n\nSố lượng tối đa cho phép là: {1}</ItemQuantityTooltip>
   <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
   <SoldColonyDescription>Thuộc địa của bạn đã được bán. Người mua của nó đã sẵn sàng để bạn chọn nơi hạ cánh tiếp theo.</SoldColonyDescription>
-
-  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
+  <!--EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}?-->
+  <!--VI: Hack {0} này sẽ cảnh báo kẻ thù và khiến chúng tấn công. Bạn có thực sự muốn hack {0}?-->
   <ConfirmHackEnemyTerminal>TODO</ConfirmHackEnemyTerminal>
-
   <!-- EN: Relics -->
   <RelicsSection>Di tích</RelicsSection>
-
   <!-- Food restrictions -->
   <!-- EN: Vegetarian -->
   <FoodRestrictionVegetarian>Đồ chay</FoodRestrictionVegetarian>
@@ -328,7 +313,6 @@
   <FoodRestrictionCannibal>Ăn thịt người</FoodRestrictionCannibal>
   <!-- EN: Insect meat -->
   <FoodRestrictionInsectMeat>Thịt côn trùng</FoodRestrictionInsectMeat>
-
   <!-- EN: Styles in use -->
   <StylesInUse>Phong cách sử dụng</StylesInUse>
   <!-- EN: Add a style. -->

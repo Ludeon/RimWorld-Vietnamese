@@ -1,30 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  
   <!-- EN: New Arrivals -->
   <PlayerColony.label>Thuộc Địa Mới </PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Một thuộc địa mới của những người ngoài thế giới đã đến gần đây.</PlayerColony.description>
   <!-- EN: leader -->
   <PlayerColony.leaderTitle>lãnh tụ</PlayerColony.leaderTitle>
-  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <!--EN: {0} from {1} are attacking your {2}.-->
+  <!--VI: {0} từ {1} đang tấn công {2} của bạn.-->
   <PlayerColony.messageDefendersAttacking>TODO</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>cư dân</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>những cư dân</PlayerColony.pawnsPlural>
-  
   <!-- EN: New Tribe -->
   <PlayerTribe.label>Bộ Lạc Mới</PlayerTribe.label>
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Một bộ lạc nhỏ.</PlayerTribe.description>
   <!-- EN: leader -->
   <PlayerTribe.leaderTitle>tù trưởng</PlayerTribe.leaderTitle>
-  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <!--EN: {0} from {1} are attacking your {2}.-->
+  <!--VI: {0} từ {1} đang tấn công {2} của bạn.-->
   <PlayerTribe.messageDefendersAttacking>TODO</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>người bộ lạc</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>bộ lạc</PlayerTribe.pawnsPlural>
-  
 </LanguageData>
