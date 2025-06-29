@@ -7,9 +7,7 @@
 This is Vietnamese translation data for RimWorld.
 
 ### 1. Cài đặt việt hoá
-Hi vọng rằng nó sẽ được tích hợp vào game
-Bản dịch này nhằm mục đích tích hợp vào game nếu bạn muốn dùng dạng mod thì truy cập đường link:
-https://steamcommunity.com/sharedfiles/filedetails/?id=3491880774
+<h1></h1> Nó đã được tích hợp vào game </h1>
 
 ### 2. Phản hồi về lỗi
 Chỉ nhận phản hồi tại server discord
