@@ -12,14 +12,14 @@
   <CapturingEntities.helpText>Khi một thực thể bị hạ gục nhưng còn sống, bạn có thể BẮT GIỮ nó. Để bắt giữ, chọn một thực dân, click chuột phải vào thực thể, và chọn 'Bắt giữ'. Bạn cần một bệ giam hoặc một vị trí trống.\n\nMột khi thực thể đã được đưa về bệ giam, bạn có thể nghiên cứu nó để thu về điểm nghiên cứu Dị thường.\n\nHãy điều trị các vết thương cho thực thể để đảm bảo nó sống sót.</CapturingEntities.helpText>
   
   <!-- EN: ghouls -->
-  <ColonyGhouls.label>Ngạ quỷ trong thuộc địa</ColonyGhouls.label>
+  <ColonyGhouls.label>Ngạ quỷ</ColonyGhouls.label>
   <!-- EN: Ghouls are humans twisted by bioferrite. They can quickly regenerate injuries, making them useful as melee fighters. However, they are incapable of work.\n\nGhouls only eat corpses and raw meat. If they go hungry, they can turn hostile. -->
-  <ColonyGhouls.helpText>Ngạ quỷ là những người bị biến đổi bởi sinh vật ferit. Chúng có thể tự chữa lành một cách nhanh chóng, khiến chúng trở nên hữu ích trong cận chiến. Tuy nhiên, Ngạ quỷ không thể làm việc.\n\nNgạ quỷ chỉ ăn xác chết và thịt sống. Nếu chúng đói, chúng có thể trở nên hung hãn.</ColonyGhouls.helpText>
+  <ColonyGhouls.helpText>Ngạ quỷ là những người bị biến đổi bởi bioferrite. Chúng có thể tự chữa lành một cách nhanh chóng, khiến chúng trở nên hữu ích trong cận chiến. Tuy nhiên, Ngạ quỷ không thể làm việc.\n\nNgạ quỷ chỉ ăn xác chết và thịt sống. Nếu chúng đói, chúng có thể trở nên hung hãn.</ColonyGhouls.helpText>
   
   <!-- EN: containing entities -->
   <ContainingEntities.label>Giam giữ thực thể</ContainingEntities.label>
   <!-- EN: It's best to hold entities in secure chambers with high CONTAINMENT STRENGTH or they'll soon escape. Containment strength is increased by:\n\n - Strong walls and doors\n - Good lighting\n - Electric inhibitors (needs research)\n - Bioferrite plate floors (needs research)\n\nOpen the entity's 'Entity' tab to configure how your colonists will interact with it. -->
-  <ContainingEntities.helpText>Tốt nhất là giam giữ các thực thể trong phòng giam cứng cáp với ĐỘ AN TOÀN cao, bằng không chúng sẽ nhanh chóng trốn thoát. Độ an toàn được gia tăng bởi:\n\n - Tường và cửa vững chắc\n - Ánh sáng tốt\n - Điện trường ức chế (cần nghiên cứu)\n - Sàn lót tấm sinh vật ferit (cần nghiên cứu)\n\nMở thẻ 'Thực thể' của mục tiêu để định hình cách các thực dân của bạn sẽ tương tác với nó.</ContainingEntities.helpText>
+  <ContainingEntities.helpText>Tốt nhất nên giam giữ các thực thể trong các phòng an toàn với LỰC KIỀM CHẾ cao, nếu không chúng sẽ sớm trốn thoát. Lực kiềm chế được tăng cường bởi:\n\n - Tường và cửa chắc chắn\n - Ánh sáng tốt\n - Thiết bị ức chế điện (cần nghiên cứu)\n - Sàn tấm bioferrite (cần nghiên cứu)\n\nMở tab 'Thực thể' của đối tượng để cấu hình cách cư dân của bạn tương tác với nó.</ContainingEntities.helpText>
   
   <!-- EN: entity codex -->
   <EntityCodex.label>Sổ tay Thực thể</EntityCodex.label>
