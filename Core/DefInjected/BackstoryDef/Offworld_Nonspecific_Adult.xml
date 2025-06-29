@@ -1,73 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given.-->
-  <!--VI: [PAWN_nameDef] đi du lịch với một đoàn diễn viên, biểu diễn trước các rạp chiếu phim chật cứng và yêu mến khán giả ở khắp mọi nơi. [PAWN_pronoun] là một người cầu toàn, và tự làm PAWN_possessive đạo cụ và trang phục thay vì sử dụng những đạo cụ và trang phục mà [PAWN_pronoun] được cho.-->
-  <Actor72.description>TODO</Actor72.description>
-  <Actor72.baseDesc>[PAWN_nameDef] đã đi du lịch cùng một nhóm diễn viên, làm sôi động các rạp hát đông đúc và thu hút khán giả ở mọi nơi [PAWN_objective] đến. [PAWN_pronoun] là người cầu toàn, và đạo cụ và trang phục [PAWN_possessive] đã tự làm riêng thay vì sử dụng những thứ đã được chuẩn bị cho [PAWN_pronoun].</Actor72.baseDesc>
+  <Actor72.description>đã đi lưu diễn cùng một đoàn diễn viên, biểu diễn tại các nhà hát chật kín khán giả và được yêu mến khắp nơi. [PAWN_pronoun] là một người cầu toàn, và tự làm đạo cụ cũng như trang phục của [PAWN_possessive] thay vì sử dụng những thứ được cung cấp.</Actor72.description>
+  <Actor72.baseDesc>đã đi lưu diễn cùng một đoàn diễn viên, biểu diễn tại các nhà hát chật kín khán giả và được yêu mến khắp nơi. [PAWN_pronoun] là một người cầu toàn, và tự làm đạo cụ cũng như trang phục của [PAWN_possessive] thay vì sử dụng những thứ được cung cấp.</Actor72.baseDesc>
   <!-- EN: actor -->
   <Actor72.title>Diễn viên</Actor72.title>
   <!-- EN: actor -->
   <Actor72.titleShort>Diễn viên</Actor72.titleShort>
   <!--EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather.-->
-  <!--VI: [PAWN_nameDef] nuôi nhiều loại động vật để cung cấp thịt, sữa, trứng và da.-->
-  <AnimalFarmer21.description>TODO</AnimalFarmer21.description>
-  <AnimalFarmer21.baseDesc>[PAWN_nameDef] đã chăn nuôi nhiều loại gia súc để cung cấp thịt, sữa, trứng và da.</AnimalFarmer21.baseDesc>
+  <AnimalFarmer21.description>[PAWN_nameDef] nuôi nhiều loại động vật để có thịt, sữa, trứng và da.</AnimalFarmer21.description>
+  <AnimalFarmer21.baseDesc>[PAWN_nameDef] nuôi nhiều loại động vật để có thịt, sữa, trứng và da.</AnimalFarmer21.baseDesc>
   <!-- EN: animal farmer -->
   <AnimalFarmer21.title>Người chăn nuôi</AnimalFarmer21.title>
   <!-- EN: animal farmer -->
   <AnimalFarmer21.titleShort>Người chăn nuôi</AnimalFarmer21.titleShort>
   <!--EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars.-->
-  <!--VI: Sau khi thề im lặng, [PAWN_nameDef] gia nhập một tu viện để dành [PAWN_possessive] ngày trong thiền định lặng lẽ.\n\n[PAWN_pronoun] tìm thấy hạnh phúc khi trồng rau trong vườn và làm pho mát trong hầm của tu viện.-->
-  <AsceticPriest84.description>TODO</AsceticPriest84.description>
-  <AsceticPriest84.baseDesc>Sau khi thề im lặng, [PAWN_nameDef] đã tham gia một tu viện để dành những ngày [PAWN_possessive] trong sự suy ngẫm yên tĩnh.\n\n[PAWN_pronoun] tìm thấy hạnh phúc khi trồng rau trong vườn và làm phô mai trong hầm.</AsceticPriest84.baseDesc>
+  <AsceticPriest84.description>Sau khi thề giữ im lặng, [PAWN_nameDef] gia nhập tu viện để dành những ngày của [PAWN_possessive] trong sự chiêm niệm tĩnh lặng.\n\n[PAWN_pronoun] tìm thấy hạnh phúc khi trồng rau trong vườn và làm phô mai ở hầm tu viện.</AsceticPriest84.description>
+  <AsceticPriest84.baseDesc>Sau khi thề giữ im lặng, [PAWN_nameDef] gia nhập tu viện để dành những ngày của [PAWN_possessive] trong sự chiêm niệm tĩnh lặng.\n\n[PAWN_pronoun] tìm thấy hạnh phúc khi trồng rau trong vườn và làm phô mai ở hầm tu viện.</AsceticPriest84.baseDesc>
   <!-- EN: ascetic priest -->
   <AsceticPriest84.title>Linh mục khổ hạnh</AsceticPriest84.title>
   <!-- EN: priest -->
   <AsceticPriest84.titleShort>Linh mục</AsceticPriest84.titleShort>
   <!--EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing.-->
-  <!--VI: [PAWN_nameDef] làm nhân viên pha chế trong một cơ sở tồi tàn. Công việc là một phần pha chế đồ uống, một phần ngoại giao và một phần đập đầu.-->
-  <Bartender62.description>TODO</Bartender62.description>
-  <Bartender62.baseDesc>[PAWN_nameDef] làm nhân viên pha chế trong một cơ sở kinh doanh lâu đời. Công việc chủ yếu là pha chế đồ uống, lễ phép, bưng bê.</Bartender62.baseDesc>
+  <Bartender62.description>[PAWN_nameDef] làm việc như một người pha chế tại một cơ sở tồi tàn. Công việc này một phần là pha chế đồ uống, một phần là ngoại giao, và một phần là đập đầu.</Bartender62.description>
+  <Bartender62.baseDesc>[PAWN_nameDef] làm việc như một người pha chế tại một cơ sở tồi tàn. Công việc này một phần là pha chế đồ uống, một phần là ngoại giao, và một phần là đập đầu.</Bartender62.baseDesc>
   <!-- EN: bartender -->
   <Bartender62.title>Nhân viên pha chế</Bartender62.title>
   <!-- EN: barkeep -->
-  <Bartender62.titleShort>Nhân viên phục vụ</Bartender62.titleShort>
+  <Bartender62.titleShort>  </Bartender62.titleShort>
   <!--EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective].-->
-  <!--VI: [PAWN_nameDef] bảo vệ bất cứ ai trả [PAWN_objective]. [PAWN_pronoun] đã thành thạo nhiều hình thức chiến đấu khác nhau, và được biết đến với sự tàn nhẫn PAWN_possessive đối với những người vượt qua [PAWN_objective].-->
-  <Bodyguard58.description>TODO</Bodyguard58.description>
-  <Bodyguard58.baseDesc>[PAWN_nameDef] bảo vệ bất cứ ai trả tiền [PAWN_objective]. [PAWN_pronoun] đạt được sự thành thạo trong nhiều hình thức chiến đấu khác nhau, và được biết đến với sự tàn nhẫn và không khoan nhượng với kể thù.</Bodyguard58.baseDesc>
+  <Bodyguard58.description>[PAWN_nameDef] bảo vệ bất kỳ ai trả tiền cho [PAWN_objective]. [PAWN_pronoun] trở nên thành thạo nhiều hình thức chiến đấu khác nhau, và nổi tiếng vì sự tàn nhẫn của [PAWN_possessive] đối với những kẻ chống lại [PAWN_objective]</Bodyguard58.description>
+  <Bodyguard58.baseDesc>[PAWN_nameDef] bảo vệ bất kỳ ai trả tiền cho [PAWN_objective]. [PAWN_pronoun] trở nên thành thạo nhiều hình thức chiến đấu khác nhau, và nổi tiếng vì sự tàn nhẫn của [PAWN_possessive] đối với những kẻ chống lại [PAWN_objective]</Bodyguard58.baseDesc>
   <!-- EN: bodyguard -->
   <Bodyguard58.title>Vệ sĩ</Bodyguard58.title>
   <!-- EN: bodyguard -->
   <Bodyguard58.titleShort>Vệ sĩ</Bodyguard58.titleShort>
   <!--EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good.-->
-  <!--VI: [PAWN_nameDef] kiếm sống bằng cách lập bản đồ các đường hầm tối tăm và các kẽ hở gần như không thể tiếp cận để tìm kiếm các khoáng sản có giá trị. [PAWN_possessive] công việc rất nguy hiểm, nhưng được trả lương tốt.-->
-  <CaveExplorer45.description>TODO</CaveExplorer45.description>
-  <CaveExplorer45.baseDesc>[PAWN_nameDef] đã sống bằng việc lập bản đồ các đường hầm tối tăm và các đường nứt gần như không thể tiếp cận để tìm kiếm các khoáng chất có giá trị. Công việc [PAWN_possessive] rất nguy hiểm nhưng được trả công cao.</CaveExplorer45.baseDesc>
+  <CaveExplorer45.description>[PAWN_nameDef] kiếm sống bằng việc lập bản đồ các đường hầm tối tăm và những khe núi gần như không thể tiếp cận để tìm kiếm khoáng chất có giá trị. Công việc của [PAWN_possessive] rất nguy hiểm, nhưng thu nhập lại tốt.</CaveExplorer45.description>
+  <CaveExplorer45.baseDesc>[PAWN_nameDef] kiếm sống bằng việc lập bản đồ các đường hầm tối tăm và những khe núi gần như không thể tiếp cận để tìm kiếm khoáng chất có giá trị. Công việc của [PAWN_possessive] rất nguy hiểm, nhưng thu nhập lại tốt.</CaveExplorer45.baseDesc>
   <!-- EN: cave explorer -->
   <CaveExplorer45.title>Nhà thám hiểm</CaveExplorer45.title>
   <!-- EN: cave explorer -->
   <CaveExplorer45.titleShort>Nhà thám hiểm</CaveExplorer45.titleShort>
   <!--EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work.-->
-  <!--VI: [PAWN_nameDef] là đầu bếp ngôi sao tại một nhà hàng Coreworld cao cấp. [PAWN_pronoun] nổi tiếng trong số những khách hàng quen với [PAWN_possessive] đặc sản ẩm thực sáng tạo, và khét tiếng trong nhân viên nhà bếp vì [PAWN_possessive] khinh thường công việc càu nhàu.-->
-  <Chef52.description>TODO</Chef52.description>
+  <Chef52.description>[PAWN_nameDef] điều hành một nhà hàng cao cấp. [PAWN_pronoun] nổi tiếng trong giới khách quen vì những đặc sản ẩm thực sáng tạo, và nổi tiếng trong giới nhân viên nhà bếp vì thái độ khinh thường công việc cục cằn.</Chef52.description>
   <Chef52.baseDesc>[PAWN_nameDef] điều hành một nhà hàng cao cấp. [PAWN_pronoun] nổi tiếng trong giới khách quen vì những đặc sản ẩm thực sáng tạo, và nổi tiếng trong giới nhân viên nhà bếp vì thái độ khinh thường công việc cục cằn.</Chef52.baseDesc>
   <!-- EN: chef -->
   <Chef52.title>Bếp trưởng</Chef52.title>
   <!-- EN: chef -->
   <Chef52.titleShort>Bếp trưởng</Chef52.titleShort>
   <!--EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics.-->
-  <!--VI: [PAWN_nameDef] làm quản trị viên cấp thấp cho một bộ máy quan liêu chính phủ đang hấp hối. [PAWN_pronoun] ở nhà nhiều nhất để điền vào các thủ tục giấy tờ phức tạp và chơi chính trị văn phòng.-->
-  <CivilServant2.description>TODO</CivilServant2.description>
-  <CivilServant2.baseDesc>[PAWN_nameDef] từng là quản trị viên cấp thấp cho một bộ máy quan liêu của chính phủ. [PAWN_pronoun] hầu hết ở nhà điền vào các thủ tục giấy tờ phức tạp và chơi trò chơi chính trị.</CivilServant2.baseDesc>
+  <CivilServant2.description>[PAWN_nameDef] làm việc như một quản lý cấp thấp cho một bộ máy quan liêu chính phủ đang hấp hối. [PAWN_pronoun] cảm thấy thoải mái nhất khi điền vào các giấy tờ phức tạp và chơi chính trị văn phòng.</CivilServant2.description>
+  <CivilServant2.baseDesc>[PAWN_nameDef] làm việc như một quản lý cấp thấp cho một bộ máy quan liêu chính phủ đang hấp hối. [PAWN_pronoun] cảm thấy thoải mái nhất khi điền vào các giấy tờ phức tạp và chơi chính trị văn phòng.</CivilServant2.baseDesc>
   <!-- EN: civil servant -->
   <CivilServant2.title>Công chức</CivilServant2.title>
   <!-- EN: bureaucrat -->
   <CivilServant2.titleShort>Nhân viên văn phòng</CivilServant2.titleShort>
   <!--EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created.-->
-  <!--VI: [PAWN_nameDef] không bao giờ tạo ra bất cứ điều gì trong cuộc sống [PAWN_possessive]. Tuy nhiên, [PAWN_pronoun] đã chứng tỏ là một điều tự nhiên trong việc khiến người khác cho [PAWN_objective] những gì họ đã tạo ra.-->
-  <ConArtist80.description>TODO</ConArtist80.description>
-  <ConArtist80.baseDesc>[PAWN_nameDef] chưa bao giờ tạo ra bất cứ điều gì trong cuộc đời mình. Tuy nhiên, [PAWN_pronoun] đã dùng những lời có cánh để khiến người khác tự nguyện cung cấp cho [PAWN_objective] những gì mà họ đã tạo ra.</ConArtist80.baseDesc>
+  <ConArtist80.description>[PAWN_nameDef] chưa bao giờ tạo ra bất cứ thứ gì trong cuộc đời của [PAWN_possessive]. Tuy nhiên, [PAWN_pronoun] đã chứng tỏ có năng khiếu tự nhiên trong việc khiến người khác đưa cho [PAWN_objective] những gì họ đã tạo ra.</ConArtist80.description>
+  <ConArtist80.baseDesc>[PAWN_nameDef] chưa bao giờ tạo ra bất cứ thứ gì trong cuộc đời của [PAWN_possessive]. Tuy nhiên, [PAWN_pronoun] đã chứng tỏ có năng khiếu tự nhiên trong việc khiến người khác đưa cho [PAWN_objective] những gì họ đã tạo ra.</ConArtist80.baseDesc>
   <!-- EN: con artist -->
   <ConArtist80.title>Kẻ hoạt ngôn</ConArtist80.title>
   <!-- EN: con artist -->

@@ -27,14 +27,12 @@
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{BOSS} với {APPAREL}</BossWithApparel>
   <!--EN: Resulting from gene-->
-  <!--VI: Kết quả của gen-->
-  <ComesFromGene>TODO</ComesFromGene>
+  <ComesFromGene>Do gen</ComesFromGene>
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>loại bỏ {0}.</ReportRemovingMechlink>
   <!--EN: from {TEACHER_labelShort}-->
-  <!--VI: từ {TEACHER_labelShort}-->
-  <ReportTakingLessonFrom>TODO</ReportTakingLessonFrom>
+  <ReportTakingLessonFrom>từ {TEACHER_labelShort}</ReportTakingLessonFrom>
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Giải phóng ô nhiễm</PollutionClear>
@@ -102,8 +100,7 @@
   <!-- EN: Summon {0} threat -->
   <Summon>Triệu hồi Đe dọa {0}</Summon>
   <!--EN: Mechanoids disabled-->
-  <!--VI: Mechanoids bị vô hiệu hóa-->
-  <MechsDisabled>TODO</MechsDisabled>
+  <MechsDisabled>Mechanoids bị vô hiệu hóa</MechsDisabled>
   <!-- text_todo -->
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>{0} không thể truy cập được</NoReachableBossgroupCaller>
@@ -273,11 +270,9 @@
   <!-- EN: Genepacks stored -->
   <GenepacksStored>Bộ gen được lưu trữ</GenepacksStored>
   <!--EN: Auto-load-->
-  <!--VI: Tự động tải-->
-  <GenepackAutoLoad>TODO</GenepackAutoLoad>
+  <GenepackAutoLoad>Tự động nạp</GenepackAutoLoad>
   <!--EN: If active, haulers will automatically store this genepack in a gene bank.-->
-  <!--VI: Nếu hoạt động, người vận chuyển sẽ tự động lưu trữ bộ gen này trong ngân hàng gen.-->
-  <GenepackAutoLoadDesc>TODO</GenepackAutoLoadDesc>
+  <GenepackAutoLoadDesc>Nếu bật, người vận chuyển sẽ tự động lưu trữ gói gen này trong ngân hàng gen.</GenepackAutoLoadDesc>
   <!-- EN: Forced traits -->
   <ForcedTraits>Đặc điểm cưỡng bức</ForcedTraits>
   <!-- EN: Suppressed traits -->
@@ -474,8 +469,7 @@
   <!-- EN: Gestated {0} -->
   <GestatedMech>Gestated {0}</GestatedMech>
   <!--EN: Requires {PAWN_nameDef} to continue gestating-->
-  <!--VI: Yêu cầu {PAWN_nameDef} để tiếp tục mang thai-->
-  <GestatingMechRequiresMechanitor>TODO</GestatingMechRequiresMechanitor>
+  <GestatingMechRequiresMechanitor>Cần {PAWN_nameDef} để tiếp tục thai nghén</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
   <GestatedMechRequiresMechanitor>Yêu cầu {PAWN_nameDef} hoàn thành</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
