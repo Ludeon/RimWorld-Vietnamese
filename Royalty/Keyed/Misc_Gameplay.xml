@@ -99,8 +99,7 @@
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Lễ trao tặng</RitualBestowingCeremony>
   <!--EN: No suitable location near bestower-->
-  <!--VI: Không có vị trí thích hợp gần bestower-->
-  <BestowingSpotUnavailable>TODO</BestowingSpotUnavailable>
+  <BestowingSpotUnavailable>Không tìm thấy vị trí phù hợp gần người ban ân</BestowingSpotUnavailable>
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Tổng số thiền hôm nay: {0} (hệ số tiến trình {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
@@ -130,7 +129,7 @@
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Người ban tặng cảm thấy khó chịu vì phòng ngai vàng của {PAWN_definite} không đáp ứng các yêu cầu của danh hiệu {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Người ban tặng cảm thấy khó chịu vì phòng ngai vàng của {PAWN_definite} không đáp ứng các yêu cầu của danh hiệu {TITLE}. Lễ trao tặng đã bị hủy bỏ.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Người ban ân cảm thấy khó chịu vì phòng ngai vàng của {PAWN_definite} không đáp ứng các yêu cầu của danh hiệu {TITLE}. Lễ trao tặng đã bị hủy bỏ.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
   <BestowingCeremonyLabel>lễ ban tặng</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
