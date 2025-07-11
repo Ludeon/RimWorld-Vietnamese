@@ -1,27 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: d -->
-  <LetterDay> ngày</LetterDay>
+  <LetterDay>d</LetterDay>
   <!-- EN: h -->
-  <LetterHour> giờ</LetterHour>
+  <LetterHour>h</LetterHour>
   <!-- EN: m -->
-  <LetterMinute> phút</LetterMinute>
+  <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond> giây</LetterSecond>
+  <LetterSecond>s</LetterSecond>
   <!-- EN: y -->
-  <LetterYear> năm</LetterYear>
-  <!--EN: AM-->
-  <!--VI: SÁNG-->
-  <AM>TODO</AM>
-  <!--EN: PM-->
-  <!--VI: AM-->
-  <PM>TODO</PM>
+  <LetterYear>y</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>SA</AM>
+  <!-- EN: PM -->
+  <PM>CH</PM>
+
   <!-- EN: days -->
   <DaysLower> ngày</DaysLower>
   <!-- EN: hours -->
   <HoursLower> giờ</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower> giây</SecondsLower>
+
   <!-- EN: spring -->
   <SeasonSpring>mùa xuân</SeasonSpring>
   <!-- EN: summer -->
@@ -34,6 +36,7 @@
   <SeasonPermanentSummer>mùa hạ vĩnh cữu</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
   <SeasonPermanentWinter>mùa đông vĩnh cữu</SeasonPermanentWinter>
+
   <!-- EN: Aprimay -->
   <QuadrumAprimay>Quý I</QuadrumAprimay>
   <!-- EN: Jugust -->
@@ -42,6 +45,7 @@
   <QuadrumSeptober>Quý III</QuadrumSeptober>
   <!-- EN: Decembary -->
   <QuadrumDecembary>Quý IV</QuadrumDecembary>
+
   <!-- EN: Apr -->
   <QuadrumAprimay_Short>Q1</QuadrumAprimay_Short>
   <!-- EN: Jug -->
@@ -50,12 +54,14 @@
   <QuadrumSeptober_Short>Q3</QuadrumSeptober_Short>
   <!-- EN: Dec -->
   <QuadrumDecembary_Short>Q4</QuadrumDecembary_Short>
+  
   <!-- EN: Born: {0} -->
   <Born>Sinh: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Tuổi niên đại: {0} năm, {1} quý, {2} ngày</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Tuổi sinh lý: {0} năm, {1} quý, {2} ngày</AgeBiological>
+
   <!-- Date periods -->
   <!-- EN: 1 year -->
   <Period1Year>1 năm</Period1Year>
@@ -77,6 +83,7 @@
   <Period1Second>1 giây</Period1Second>
   <!-- EN: {0} seconds -->
   <PeriodSeconds>{0} giây</PeriodSeconds>
+
   <!-- Misc -->
   <!-- EN: Started -->
   <Started>Bắt đầu</Started>
@@ -86,4 +93,5 @@
   <OccurredTimeAgo>xảy ra {0} trước</OccurredTimeAgo>
   <!-- EN: {0} ago -->
   <TimeAgo>{0} trước</TimeAgo>
+  
 </LanguageData>
