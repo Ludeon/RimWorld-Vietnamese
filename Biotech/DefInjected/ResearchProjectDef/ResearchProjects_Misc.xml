@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: archogenetics -->
   <Archogenetics.label>gen phi thường</Archogenetics.label>
   <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
@@ -13,13 +14,14 @@
     <li>subject_gerund->creating seemingly impossible genes</li>
   -->
   <Archogenetics.generalRules.rulesStrings>
-    <li>subject-&gt;di truyền học Archite</li>
-    <li>subject_story-&gt;khai thác gen Archite từ mặt trăng siêu việt Ix</li>
-    <li>subject_story-&gt;kiếm sống tốt với vai trò là thương nhân gen Archite</li>
-    <li>subject_story-&gt;dẫn đầu một cuộc thám hiểm nghiên cứu đến một monolith cổ đại và trở về với sự thay đổi</li>
-    <li>subject_gerund-&gt;lắp ráp các gen Archite</li>
-    <li>subject_gerund-&gt;tạo ra các gen dường như không thể</li>
+    <li>subject->di truyền học Archite</li>
+    <li>subject_story->khai thác gen Archite từ mặt trăng siêu việt Ix</li>
+    <li>subject_story->kiếm sống tốt với vai trò là thương nhân gen Archite</li>
+    <li>subject_story->dẫn đầu một cuộc thám hiểm nghiên cứu đến một monolith cổ đại và trở về với sự thay đổi</li>
+    <li>subject_gerund->lắp ráp các gen Archite</li>
+    <li>subject_gerund->tạo ra các gen dường như không thể</li>
   </Archogenetics.generalRules.rulesStrings>
+  
   <!-- EN: deathrest -->
   <Deathrest.label>deathrest</Deathrest.label>
   <!-- EN: Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple. -->
@@ -33,18 +35,20 @@
     <li>subject_gerund->improving deathrest</li>
   -->
   <Deathrest.generalRules.rulesStrings>
-    <li>subject-&gt;deathrest</li>
-    <li>subject_story-&gt;mổ xẻ xác chết từ một ngôi đền deathrest, cuối cùng hiểu được cách nó hoạt động</li>
-    <li>subject_story-&gt;phỏng vấn một người nổi tiếng dường như không bao giờ già đi, cuối cùng học được bí mật của cô ấy</li>
-    <li>subject_story-&gt;cố gắng tái tạo công nghệ và rơi vào hôn mê, chỉ để tỉnh lại sau vài tuần</li>
-    <li>subject_gerund-&gt;xây dựng cơ sở deathrest</li>
-    <li>subject_gerund-&gt;cải thiện deathrest</li>
+    <li>subject->deathrest</li>
+    <li>subject_story->mổ xẻ xác chết từ một ngôi đền deathrest, cuối cùng hiểu được cách nó hoạt động</li>
+    <li>subject_story->phỏng vấn một người nổi tiếng dường như không bao giờ già đi, cuối cùng học được bí mật của cô ấy</li>
+    <li>subject_story->cố gắng tái tạo công nghệ và rơi vào hôn mê, chỉ để tỉnh lại sau vài tuần</li>
+    <li>subject_gerund->xây dựng cơ sở deathrest</li>
+    <li>subject_gerund->cải thiện deathrest</li>
   </Deathrest.generalRules.rulesStrings>
+  
   <!-- EN: fertility procedures -->
   <FertilityProcedures.label>định mức sinh</FertilityProcedures.label>
   <!-- EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
   <FertilityProcedures.description>Thực hiện các ca phẫu thuật cần thiết để tạo phôi trong ống nghiệm từ một người đàn ông và phụ nữ có khả năng sinh sản, sau đó cấy phôi vào một người mẹ thay thế hoặc nhân giống. Ngoài ra, thực hiện phẫu thuật triệt sản trên nam và nữ.</FertilityProcedures.description>
-  <!--EN: <li>subject->fertility procedures</li>
+  <!-- EN:
+    <li>subject->fertility procedures</li>
     <li>subject_story->helped families in the coreworlds achieve their dream of parenthood with test-tube embryos</li>
     <li>subject_story->saved the rare Callopian boomrat from extinction with dangerous hand-fertilization techniques</li>
     <li>subject_story->solved the population crisis on an urbworld with fertility interventions and growth vats</li>
@@ -57,11 +61,13 @@
     <li>subject_gerund > làm thay đổi khả năng sinh sản của con người</li>
     <li>subject_gerund-> cải thiện hoặc ngăn chặn khả năng sinh sản của con người</li>-->
   <FertilityProcedures.generalRules.rulesStrings>TODO</FertilityProcedures.generalRules.rulesStrings>
+  
   <!-- EN: gene processor -->
   <GeneProcessor.label>bộ xử lý gen</GeneProcessor.label>
   <!-- EN: Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity. -->
   <GeneProcessor.description>Mở khóa cấu trúc của Bộ xử lý gen, cho phép bộ lắp ráp gen tạo Xenogerm phức tạp hơn.</GeneProcessor.description>
-  <!--EN: <li>subject->gene processors</li>
+  <!-- EN:
+    <li>subject->gene processors</li>
     <li>subject_story->extracted Glitterworld genes from a drifting derelict</li>
     <li>subject_story->processed an entire village to create one set of higher genes</li>
     <li>subject_story->began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
@@ -74,11 +80,13 @@
     <li>subject_gerund-> xây dựng bộ xử lý gen</li>
     <li>Gen > subject_gerund</li>-->
   <GeneProcessor.generalRules.rulesStrings>TODO</GeneProcessor.generalRules.rulesStrings>
+  
   <!-- EN: growth vats -->
   <GrowthVats.label>cabin ấp trứng</GrowthVats.label>
   <!-- EN: Construct growth vats which can gestate an embryo or accelerate a child's growth. -->
   <GrowthVats.description>Xây dựng các bể ấp có thể sinh ra phôi hoặc thúc đẩy sự phát triển của một đứa trẻ.</GrowthVats.description>
-  <!--EN: <li>subject->advanced gestation</li>
+  <!-- EN:
+    <li>subject->advanced gestation</li>
     <li>subject->artificial wombs</li>
     <li>subject_story->ran a cloning facility to supply servants for the coreworlds</li>
     <li>subject_story->created a new army for a warworld junta</li>
@@ -95,11 +103,13 @@
     <li>subject_gerund > tăng tốc con người</li>
     <li>subject_gerund > xây dựng thùng tăng trưởng</li>-->
   <GrowthVats.generalRules.rulesStrings>TODO</GrowthVats.generalRules.rulesStrings>
+  
   <!-- EN: toxin filtration -->
   <ToxFiltration.label>lọc chất độc</ToxFiltration.label>
   <!-- EN: Craft and install bionic organs that can filter out toxins from the environment and from enemy attacks. -->
   <ToxFiltration.description>Chế tạo và lắp đặt các cơ quan sinh học có thể lọc chất độc từ môi trường và khỏi các cuộc tấn công của kẻ thù.</ToxFiltration.description>
-  <!--EN: <li>subject->toxin filtration</li>
+  <!-- EN:
+    <li>subject->toxin filtration</li>
     <li>subject->toxin metabolisation</li>
     <li>subject_story->helped milworld combat survivors breathe again</li>
     <li>subject_story->skipped chemistry practicals for extra ethics classes</li>
@@ -114,11 +124,13 @@
     <li>subject_gerund-> chuyển hóa độc tố</li>
     <li>subject_gerund > chế tạo nội tạng kháng độc tố</li>-->
   <ToxFiltration.generalRules.rulesStrings>TODO</ToxFiltration.generalRules.rulesStrings>
+  
   <!-- EN: tox gas -->
   <ToxGas.label>khí độc</ToxGas.label>
   <!-- EN: Produce weapons that utilize caustic tox gas. -->
   <ToxGas.description>Mở khóa chế tạo vũ khí làm từ khí ăn mòn hóa học.</ToxGas.description>
-  <!--EN: <li>subject->gas weaponry</li>
+  <!-- EN:
+    <li>subject->gas weaponry</li>
     <li>subject->chemical warfare</li>
     <li>subject_story->dreamed of a weapon to end all wars</li>
     <li>subject_story->skipped ethics classes for extra chemistry practice</li>
@@ -131,11 +143,13 @@
     Công <li>nghệ điều khiển đám mây > nghiên cứu subject_story cho chế độ chuyên chế của thế giới tử thần</li>
     <li>subject_gerund chế tạo > vũ khí độc</li>-->
   <ToxGas.generalRules.rulesStrings>TODO</ToxGas.generalRules.rulesStrings>
+  
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>phát điện gây ô nhiễm</ToxifierGenerator.label>
   <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
   <ToxifierGenerator.description>Mở khóa xây dựng các máy phát điện gây ô nhiễm môi trường xung quanh.</ToxifierGenerator.description>
-  <!--EN: <li>subject->toxifier generator</li>
+  <!-- EN:
+    <li>subject->toxifier generator</li>
     <li>subject_story->led a clean-up crew to a toxic planetoid</li>
     <li>subject_story->learned about toxifiers in the deep sump of a skyripper</li>
     <li>subject_story->researched cheap and dirty power sources for an urbcorp</li>
@@ -146,11 +160,13 @@
     <li>subject_story > đã nghiên cứu các nguồn điện rẻ tiền và bẩn thỉu cho một urbcorp</li>
     <li>subject_gerund-> xây dựng máy tạo độc tố</li>-->
   <ToxifierGenerator.generalRules.rulesStrings>TODO</ToxifierGenerator.generalRules.rulesStrings>
+  
   <!-- EN: xenogenetics -->
   <Xenogermination.label>xenogenetic</Xenogermination.label>
   <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
   <Xenogermination.description>Mở khóa chế tạo Xenogerm có thể biến đổi gen bằng cách cấy vào người. Sử dụng công cụ trích xuất gen để trích xuất bộ gen từ người sống để bạn có thể cấy ghép gen của họ cho người khác..</Xenogermination.description>
-  <!--EN: <li>subject->xenogermination</li>
+  <!-- EN:
+    <li>subject->xenogermination</li>
     <li>subject->genetic implantation</li>
     <li>subject_story->was uplifted by a glitterworld charity that focused on the genetically disadvantaged</li>
     <li>subject_story->had [ANYPAWN_possessive] genes stolen by a rogue biologist</li>
@@ -163,4 +179,5 @@
     <li>subject_story-> điều hành một phòng khám chuyển gen cho giới thượng lưu Glitterworld</li>
     <li>subject_gerund >chế tạo xenogerms</li>-->
   <Xenogermination.generalRules.rulesStrings>TODO</Xenogermination.generalRules.rulesStrings>
+  
 </LanguageData>
