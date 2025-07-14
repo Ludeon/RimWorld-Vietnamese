@@ -2,93 +2,93 @@
 <LanguageData>
   
   <!-- EN: small chemfuel tank -->
-  <ChemfuelTank.label>TODO</ChemfuelTank.label>
+  <ChemfuelTank.label>bình nhiên liệu hóa học nhỏ</ChemfuelTank.label>
   <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
-  <ChemfuelTank.description>TODO</ChemfuelTank.description>
+  <ChemfuelTank.description>Một bể chứa nhiên liệu hóa học cung cấp nhiên liệu cho các động cơ đẩy trên tàu trọng lực.</ChemfuelTank.description>
   <!-- EN: Chemfuel -->
-  <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>TODO</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Nhiên liệu hóa học</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Chemfuel -->
-  <ChemfuelTank.comps.CompRefuelable.fuelLabel>TODO</ChemfuelTank.comps.CompRefuelable.fuelLabel>
+  <ChemfuelTank.comps.CompRefuelable.fuelLabel>Nhiên liệu hóa học</ChemfuelTank.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: fuel optimizer -->
-  <FuelOptimizer.label>TODO</FuelOptimizer.label>
+  <FuelOptimizer.label>Tối ưu hóa nhiên liệu</FuelOptimizer.label>
   <!-- EN: A gravtech unit that allows grav engine lift to coordinate more efficiently with traditional thrusters. It reduces the fuel needed for gravship flight.\n\nA gravship can support two fuel optimizers. -->
-  <FuelOptimizer.description>TODO</FuelOptimizer.description>
+  <FuelOptimizer.description>Một đơn vị gravtech cho phép thang máy động cơ grav phối hợp hiệu quả hơn với các bộ đẩy truyền thống. Nó làm giảm nhiên liệu cần thiết cho chuyến bay của tàu hấp dẫn.\n\nMột tàu hấp dẫn có thể hỗ trợ hai bộ tối ưu hóa nhiên liệu.</FuelOptimizer.description>
   
   <!-- EN: grav anchor -->
-  <GravAnchor.label>TODO</GravAnchor.label>
+  <GravAnchor.label>neo trọng lực</GravAnchor.label>
   <!-- EN: Prevents the local map from being destroyed during a gravship launch.\n\nGrav anchors passively reduce unstable gravitation shear in a large area, which prevents the damaging effects of a gravship launch. It can't be constructed on the gravship itself because it would prevent flight entirely. -->
-  <GravAnchor.description>TODO</GravAnchor.description>
+  <GravAnchor.description>Ngăn bản đồ cục bộ bị phá hủy trong quá trình phóng tàu trọng lực.\n\nNeo trọng lực làm giảm lực cắt hấp dẫn không ổn định một cách thụ động trong một khu vực rộng lớn, ngăn chặn các tác động gây hại của phóng tàu trọng lực. Nó không thể được xây dựng trên chính tàu hấp dẫn vì nó sẽ ngăn chặn hoàn toàn chuyến bay.</GravAnchor.description>
   
   <!-- EN: gravcore power cell -->
-  <GravcorePowerCell.label>TODO</GravcorePowerCell.label>
+  <GravcorePowerCell.label>Tế bào năng lượng Gravcore</GravcorePowerCell.label>
   <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->
-  <GravcorePowerCell.description>TODO</GravcorePowerCell.description>
+  <GravcorePowerCell.description>Một máy phát điện lấy một lượng nhỏ năng lượng thụ động từ sóng hấp dẫn đi qua tàu hấp dẫn.</GravcorePowerCell.description>
   
   <!-- EN: grav engine -->
-  <GravEngine.label>TODO</GravEngine.label>
+  <GravEngine.label>động cơ grav</GravEngine.label>
   <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nWhen launched, anything on substructure that's connected to the grav engine will be transported to a new map. Without a grav anchor, launching a gravship will abandon your current map.\n\nGlitterworld engineers use gravships to launch orbital platforms and build skyrippers. They require massive and hyper-specialized facilities to produce, making them a rare sight outside of glitterworlds. -->
-  <GravEngine.description>TODO</GravEngine.description>
+  <GravEngine.description>Trái tim siêu công nghệ của một con tàu trọng lực. Động cơ trọng lực tạo ra lực nâng bằng cách đảo ngược và tăng cường tác động của trọng lực trong một trường xung quanh nó. Động cơ này có thể nâng lên trên, nhưng không tạo ra lực đẩy về phía trước. Nó không thể hoạt động xa một giếng trọng lực lớn như một hành tinh, vì vậy nó vô dụng cho việc di chuyển giữa các hành tinh.\n\nKhi được phóng, bất cứ thứ gì trên cấu trúc phụ được kết nối với động cơ trọng lực sẽ được vận chuyển đến một bản đồ mới. Nếu không có neo trọng lực, phóng tàu trọng lực sẽ từ bỏ bản đồ hiện tại của bạn.\n\nCác kỹ sư của Glitterworld sử dụng tàu trọng lực để phóng các nền tảng quỹ đạo và chế tạo skyrippers. Chúng đòi hỏi các cơ sở vật chất khổng lồ và siêu chuyên dụng để sản xuất, khiến chúng trở thành một cảnh tượng hiếm hoi bên ngoài các thế giới lấp lánh.</GravEngine.description>
   
   <!-- EN: grav field extender -->
-  <GravFieldExtender.label>TODO</GravFieldExtender.label>
+  <GravFieldExtender.label>Bộ mở rộng trường trọng lực</GravFieldExtender.label>
   <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to six grav field extenders. -->
-  <GravFieldExtender.description>TODO</GravFieldExtender.description>
+  <GravFieldExtender.description>Một thiết bị siêu công nghệ được sử dụng để tăng kích thước của một tàu trọng lực. Nó mở rộng khu vực mà cấu trúc phụ có thể được xây dựng và tăng số lượng cấu trúc phụ mà một tàu trọng lực có thể hỗ trợ. Phải được chế tạo gần một động cơ trọng lực.\n\nMột tàu trọng lực có thể hỗ trợ tối đa sáu bộ mở rộng trường trọng lực.</GravFieldExtender.description>
   
   <!-- EN: gravship hull -->
-  <GravshipHull.label>TODO</GravshipHull.label>
+  <GravshipHull.label>Thân tàu trọng lực</GravshipHull.label>
   <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
-  <GravshipHull.description>TODO</GravshipHull.description>
+  <GravshipHull.description>Một bức tường kín khí chắc chắn ngăn rò rỉ oxy trong chân không của không gian. Bức tường kết nối trực tiếp với cấu trúc phụ bên dưới, có nghĩa là nó chỉ có thể được xây dựng trên một tàu hấp dẫn.</GravshipHull.description>
   
   <!-- EN: gravship shield generator -->
-  <GravshipShieldGenerator.label>TODO</GravshipShieldGenerator.label>
+  <GravshipShieldGenerator.label>Máy phát điện lá chắn trọng lực</GravshipShieldGenerator.label>
   <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
-  <GravshipShieldGenerator.description>TODO</GravshipShieldGenerator.description>
+  <GravshipShieldGenerator.description>Một thiết bị che chắn có thể bảo vệ một tàu trọng thẩm. Nó điều chỉnh trường trọng lực để tạo ra một bề mặt đẩy động lượng tồn tại ngắn hạn ngăn chặn đạn. Nó hoạt động chống lại các phát đạn và súng cối bình thường. Những người bên trong vẫn có thể bắn ra ngoài.\n\nNó phải được sạc trước khi sử dụng. Một tàu trọng lực có thể hỗ trợ hai máy tạo lá chắn tàu trọng lực.</GravshipShieldGenerator.description>
   <!-- EN: activate -->
-  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>TODO</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>kích hoạt</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
   
   <!-- EN: large chemfuel tank -->
-  <LargeChemfuelTank.label>TODO</LargeChemfuelTank.label>
+  <LargeChemfuelTank.label>Thùng nhiên liệu hóa học lớn</LargeChemfuelTank.label>
   <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
-  <LargeChemfuelTank.description>TODO</LargeChemfuelTank.description>
+  <LargeChemfuelTank.description>Một bể chứa nhiên liệu hóa học khổng lồ cung cấp nhiên liệu cho các động cơ đẩy trên tàu trọng lực.</LargeChemfuelTank.description>
   <!-- EN: Chemfuel -->
-  <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>TODO</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Nhiên liệu hóa học</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Chemfuel -->
-  <LargeChemfuelTank.comps.CompRefuelable.fuelLabel>TODO</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+  <LargeChemfuelTank.comps.CompRefuelable.fuelLabel>Nhiên liệu hóa học</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: large thruster -->
-  <LargeThruster.label>TODO</LargeThruster.label>
+  <LargeThruster.label>máy đẩy lớn</LargeThruster.label>
   <!-- EN: An advanced chemfuel thruster with a heat-resistant vacstone liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
-  <LargeThruster.description>TODO</LargeThruster.description>
+  <LargeThruster.description>Một động cơ đẩy nhiên liệu hóa học tiên tiến với lớp lót vacstone chịu nhiệt. Nó làm tăng đáng kể phạm vi của một tàu trọng lực. Máy đẩy yêu cầu một khu vực không bị cản trở, không có các tòa nhà lớn và cấu trúc phụ của tàu trọng lực.\n\nYêu cầu các khối đá chân không, có thể thu được từ các tiểu hành tinh trên quỹ đạo.\n\nMột tàu trọng lực có thể hỗ trợ tối đa sáu động cơ đẩy lớn.</LargeThruster.description>
   
   <!-- EN: minified thing -->
-  <MinifiedGravEngine.label>TODO</MinifiedGravEngine.label>
+  <MinifiedGravEngine.label>điều thu nhỏ</MinifiedGravEngine.label>
   
   <!-- EN: pilot console -->
-  <PilotConsole.label>TODO</PilotConsole.label>
+  <PilotConsole.label>Bảng điều khiển phi công</PilotConsole.label>
   <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
-  <PilotConsole.description>TODO</PilotConsole.description>
+  <PilotConsole.description>Một giao diện cho phép phóng và điều khiển một tàu trọng lực. Nó lấy năng lượng trực tiếp từ động cơ grav.</PilotConsole.description>
   
   <!-- EN: pilot subpersona core -->
-  <PilotSubpersonaCore.label>TODO</PilotSubpersonaCore.label>
+  <PilotSubpersonaCore.label>Phi công Subpersona Core</PilotSubpersonaCore.label>
   <!-- EN: A low-grade subpersona specialized in gravship flight. It reduces the chance of an accident when flying a gravship, though it can't fully account for human error.\n\nA gravship can support up to two pilot subpersona cores. -->
-  <PilotSubpersonaCore.description>TODO</PilotSubpersonaCore.description>
+  <PilotSubpersonaCore.description>Một nhân vật phụ cấp thấp chuyên về chuyến bay hấp dẫn. Nó làm giảm khả năng xảy ra tai nạn khi lái tàu trọng lực, mặc dù nó không thể giải thích đầy đủ lỗi của con người.\n\nMột tàu trọng lực có thể hỗ trợ tối đa hai lõi phi công.</PilotSubpersonaCore.description>
   
   <!-- EN: mechanoid ship chunk -->
-  <ShipChunk_Mech.label>TODO</ShipChunk_Mech.label>
+  <ShipChunk_Mech.label>Khối tàu cơ học</ShipChunk_Mech.label>
   <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
-  <ShipChunk_Mech.description>TODO</ShipChunk_Mech.description>
+  <ShipChunk_Mech.description>Một khối tàu vũ trụ cơ học làm bằng thép và các tấm gravlite. Nó dường như đã bị xé toạc bởi lực lượng tái nhập không kiểm soát hoặc một loại vũ khí nào đó.\n\nPhá hủy nó để có được tài nguyên quý giá.</ShipChunk_Mech.description>
   <!-- EN: Deconstruct for valuable resources. -->
-  <ShipChunk_Mech.comps.CompInspectString.inspectString>TODO</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>Giải cấu trúc cho các nguồn tài nguyên quý giá.</ShipChunk_Mech.comps.CompInspectString.inspectString>
   
   <!-- EN: signal jammer -->
-  <SignalJammer.label>TODO</SignalJammer.label>
+  <SignalJammer.label>thiết bị gây nhiễu tín hiệu</SignalJammer.label>
   <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship, allowing it to approach heavily-defended landing sites. -->
-  <SignalJammer.description>TODO</SignalJammer.description>
+  <SignalJammer.description>Một bộ phát tín hiệu ngụy trang dấu hiệu điện từ của tàu trọng lực của bạn, cho phép nó tiếp cận các địa điểm hạ cánh được bảo vệ nghiêm ngặt.</SignalJammer.description>
   
   <!-- EN: small thruster -->
-  <SmallThruster.label>TODO</SmallThruster.label>
+  <SmallThruster.label>máy đẩy nhỏ</SmallThruster.label>
   <!-- EN: A chemfuel thruster that increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nA gravship can support up to four small thrusters. -->
-  <SmallThruster.description>TODO</SmallThruster.description>
+  <SmallThruster.description>Một động cơ đẩy nhiên liệu hóa học giúp tăng phạm vi hoạt động của tàu trọng lực. Máy đẩy yêu cầu một khu vực không bị cản trở, không có các tòa nhà lớn và cấu trúc phụ của tàu trọng lực.\n\nMột tàu trọng lực có thể hỗ trợ tối đa bốn máy đẩy nhỏ.</SmallThruster.description>
   
 </LanguageData>

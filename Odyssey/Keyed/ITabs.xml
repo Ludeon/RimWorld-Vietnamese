@@ -3,22 +3,22 @@
 
   <!-- Fishing -->
   <!-- EN: do X times -->
-  <FishRepeatMode_RepeatCount>TODO</FishRepeatMode_RepeatCount>
+  <FishRepeatMode_RepeatCount>làm X lần</FishRepeatMode_RepeatCount>
   <!-- EN: do until you have X -->
-  <FishRepeatMode_TargetCount>TODO</FishRepeatMode_TargetCount>
+  <FishRepeatMode_TargetCount>làm cho đến khi bạn có X</FishRepeatMode_TargetCount>
   <!-- EN: do forever -->
-  <FishRepeatMode_Forever>TODO</FishRepeatMode_Forever>
+  <FishRepeatMode_Forever>làm mãi mãi</FishRepeatMode_Forever>
   <!-- EN: Fish population -->
-  <FishPopulation>TODO</FishPopulation>
+  <FishPopulation>Quần thể cá</FishPopulation>
   <!-- EN: How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster. -->
-  <FishPopulationDesc>TODO</FishPopulationDesc>
+  <FishPopulationDesc>Có bao nhiêu cá trong vùng nước này. Các vùng nước lớn hơn có nhiều cá hơn và sẽ phục hồi quần thể cá nhanh hơn.</FishPopulationDesc>
   <!-- EN: Minimum population -->
-  <MinimumPopulation>TODO</MinimumPopulation>
+  <MinimumPopulation>Dân số tối thiểu</MinimumPopulation>
   <!-- EN: Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish. -->
-  <MinimumPopulationDesc>TODO</MinimumPopulationDesc>
+  <MinimumPopulationDesc>Những người thực dân sẽ không câu cá nếu số lượng cá nằm dưới giới hạn này. Năng suất đánh bắt thấp hơn nếu có ít hơn 300 con.</MinimumPopulationDesc>
   <!-- EN: uncommon -->
-  <Uncommon>TODO</Uncommon>
+  <Uncommon>hiếm</Uncommon>
   <!-- EN: When toggled off, colonists will avoid catching this fish. -->
-  <ToggleFishAvoid>TODO</ToggleFishAvoid>
+  <ToggleFishAvoid>Khi tắt, những người thuộc địa sẽ tránh bắt được loài cá này.</ToggleFishAvoid>
   
 </LanguageData>

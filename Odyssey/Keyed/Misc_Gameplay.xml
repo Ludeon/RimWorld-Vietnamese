@@ -3,343 +3,343 @@
 
   <!-- Gravship -->
   <!-- EN: Gravship -->
-  <Gravship>TODO</Gravship>
+  <Gravship>Tàu hấp dẫn</Gravship>
   <!-- EN: no grav engine -->
-  <CannotLaunchNoEngine>TODO</CannotLaunchNoEngine>
+  <CannotLaunchNoEngine>Không có động cơ grav</CannotLaunchNoEngine>
   <!-- EN: not enough fuel -->
-  <CannotLaunchNotEnoughFuel>TODO</CannotLaunchNotEnoughFuel>
+  <CannotLaunchNotEnoughFuel>không đủ nhiên liệu</CannotLaunchNotEnoughFuel>
   <!-- EN: Cannot reach this destination -->
-  <CannotLaunchDestination>TODO</CannotLaunchDestination>
+  <CannotLaunchDestination>Không thể đến điểm đến này</CannotLaunchDestination>
   <!-- EN: Cannot land on the same tile -->
-  <CannotLandOnSameTile>TODO</CannotLandOnSameTile>
+  <CannotLandOnSameTile>Không thể hạ cánh trên cùng một ô</CannotLandOnSameTile>
   <!-- EN: Connected substructure -->
-  <ConnectedSubstructure>TODO</ConnectedSubstructure>
+  <ConnectedSubstructure>Cấu trúc phụ được kết nối</ConnectedSubstructure>
   <!-- EN: Substructure blueprints placed -->
-  <SubstructureBlueprintsCount>TODO</SubstructureBlueprintsCount>
+  <SubstructureBlueprintsCount>Bản thiết kế cấu trúc phụ được đặt</SubstructureBlueprintsCount>
   <!-- EN: not connected to grav engine -->
-  <CannotLaunchDisconnected>TODO</CannotLaunchDisconnected>
+  <CannotLaunchDisconnected>Không được kết nối với động cơ Grav</CannotLaunchDisconnected>
   <!-- EN: no substructure -->
-  <CannotLaunchNoSubstructure>TODO</CannotLaunchNoSubstructure>
+  <CannotLaunchNoSubstructure>không có cấu trúc phụ</CannotLaunchNoSubstructure>
   <!-- EN: no unblocked functioning thrusters -->
-  <CannotLaunchNoThrusters>TODO</CannotLaunchNoThrusters>
+  <CannotLaunchNoThrusters>Không có bộ đẩy hoạt động không bị chặn</CannotLaunchNoThrusters>
   <!-- EN: engine cooldown: {0} -->
-  <CannotLaunchOnCooldown>TODO</CannotLaunchOnCooldown>
+  <CannotLaunchOnCooldown>Thời gian hồi chiêu động cơ: {0}</CannotLaunchOnCooldown>
   <!-- EN: Choose where to land -->
-  <ChooseWhereToLand>TODO</ChooseWhereToLand>
+  <ChooseWhereToLand>Chọn nơi hạ cánh</ChooseWhereToLand>
   <!-- EN: Send a colonist to inspect this. -->
-  <GravEngineNotInspected>TODO</GravEngineNotInspected>
+  <GravEngineNotInspected>Cử một người thực dân đến kiểm tra điều này.</GravEngineNotInspected>
   <!-- EN: Choose who should inspect {0_definite} -->
-  <ChooseWhoShouldInspect>TODO</ChooseWhoShouldInspect>
+  <ChooseWhoShouldInspect>Chọn ai nên kiểm tra {0_definite}</ChooseWhoShouldInspect>
   <!-- EN: Cannot launch gravship -->
-  <CannotPilotGravship>TODO</CannotPilotGravship>
+  <CannotPilotGravship>Không thể khởi động tàu trọng lực</CannotPilotGravship>
   <!-- EN: Launch gravship -->
-  <PilotGravship>TODO</PilotGravship>
+  <PilotGravship>Phóng tàu hấp dẫn</PilotGravship>
   <!-- EN: {0} {1_label} -->
-  <FuelAmount>TODO</FuelAmount>
+  <FuelAmount>{0} {1_label}</FuelAmount>
   <!-- EN: gravship name -->
-  <GravshipName>TODO</GravshipName>
+  <GravshipName>Tên tàu hấp dẫn</GravshipName>
   <!-- EN: gravship range -->
-  <GravshipRange>TODO</GravshipRange>
+  <GravshipRange>Phạm vi gravship</GravshipRange>
   <!-- EN: stored chemfuel -->
-  <StoredChemfuel>TODO</StoredChemfuel>
+  <StoredChemfuel>Nhiên liệu hóa học được lưu trữ</StoredChemfuel>
   <!-- EN: thruster blocked -->
-  <ThrusterBlocked>TODO</ThrusterBlocked>
+  <ThrusterBlocked>bộ đẩy bị chặn</ThrusterBlocked>
   <!-- EN: fuel consumption -->
-  <FuelConsumption>TODO</FuelConsumption>
+  <FuelConsumption>Tiêu thụ nhiên liệu</FuelConsumption>
   <!-- EN: {0} chemfuel per tile -->
-  <FuelPerTile>TODO</FuelPerTile>
+  <FuelPerTile>{0} chemfuel trên mỗi ô</FuelPerTile>
   <!-- EN: Heavy weapons systems: Requires signal jammer to approach -->
-  <RequiresSignalJammer>TODO</RequiresSignalJammer>
+  <RequiresSignalJammer>Hệ thống vũ khí hạng nặng: Yêu cầu thiết bị gây nhiễu tín hiệu để tiếp cận</RequiresSignalJammer>
   <!-- EN: {0} landing site -->
-  <GravshipLandingSite>TODO</GravshipLandingSite>
+  <GravshipLandingSite>{0} địa điểm hạ cánh</GravshipLandingSite>
   <!-- EN: Confirm landing area -->
-  <ConfirmLandingArea>TODO</ConfirmLandingArea>
+  <ConfirmLandingArea>Xác nhận khu vực hạ cánh</ConfirmLandingArea>
   <!-- EN: Blocked by {0_label} -->
-  <GravshipBlockedBy>TODO</GravshipBlockedBy>
+  <GravshipBlockedBy>Bị chặn bởi {0_label}</GravshipBlockedBy>
   <!-- EN: Can't place in undiscovered area -->
-  <GravshipBlockedByFog>TODO</GravshipBlockedByFog>
+  <GravshipBlockedByFog>Không thể đặt trong khu vực chưa được khám phá</GravshipBlockedByFog>
   <!-- EN: Blocked by roof -->
-  <GravshipBlockedByRoof>TODO</GravshipBlockedByRoof>
+  <GravshipBlockedByRoof>Bị chặn bởi mái nhà</GravshipBlockedByRoof>
   <!-- EN: Can't place outside map bounds -->
-  <GravshipOutOfBounds>TODO</GravshipOutOfBounds>
+  <GravshipOutOfBounds>Không thể đặt bên ngoài ranh giới bản đồ</GravshipOutOfBounds>
   <!-- EN: Can't place close to the map edge -->
-  <GravshipInNoBuildArea>TODO</GravshipInNoBuildArea>
+  <GravshipInNoBuildArea>Không thể đặt gần cạnh bản đồ</GravshipInNoBuildArea>
   <!-- EN: Can't place in blocked area -->
-  <GravshipInBlockedArea>TODO</GravshipInBlockedArea>
+  <GravshipInBlockedArea>Không thể đặt trong khu vực bị chặn</GravshipInBlockedArea>
   <!-- EN: Can't place on {0_label} -->
-  <GravshipBlockedByTerrain>TODO</GravshipBlockedByTerrain>
+  <GravshipBlockedByTerrain>Không thể đặt trên {0_label}</GravshipBlockedByTerrain>
   <!-- EN: Must be connected to solid ground -->
-  <GravshipMustBeConnectedToLand>TODO</GravshipMustBeConnectedToLand>
+  <GravshipMustBeConnectedToLand>Phải được kết nối với mặt đất vững chắc</GravshipMustBeConnectedToLand>
   <!-- EN: Confirm landing zone to continue -->
-  <ConfirmLandingToContinue>TODO</ConfirmLandingToContinue>
+  <ConfirmLandingToContinue>Xác nhận vùng hạ cánh để tiếp tục</ConfirmLandingToContinue>
   <!-- EN: a valid pilot console -->
-  <RitualTargetPilotConsole>TODO</RitualTargetPilotConsole>
+  <RitualTargetPilotConsole>Bảng điều khiển thí điểm hợp lệ</RitualTargetPilotConsole>
   <!-- EN: Based on the gravship's launch, there was a {0_percentage} chance of a negative outcome. -->
-  <GravshipOutcomeChanceLetterExtra>TODO</GravshipOutcomeChanceLetterExtra>
+  <GravshipOutcomeChanceLetterExtra>Dựa trên vụ phóng của tàu hấp dẫn, có một {0_percentage} khả năng xảy ra kết quả tiêu cực.</GravshipOutcomeChanceLetterExtra>
   <!-- EN: The following thrusters were affected -->
-  <ThrustersBrokeDown>TODO</ThrustersBrokeDown>
+  <ThrustersBrokeDown>Các động cơ đẩy sau đây bị ảnh hưởng</ThrustersBrokeDown>
   <!-- EN: No path to gravship -->
-  <NoPathToGravship>TODO</NoPathToGravship>
+  <NoPathToGravship>Không có con đường dẫn đến tàu hấp dẫn</NoPathToGravship>
   <!-- EN: No path to pilot console -->
-  <NoPathToPilotConsole>TODO</NoPathToPilotConsole>
+  <NoPathToPilotConsole>Không có đường dẫn đến bảng điều khiển thí điểm</NoPathToPilotConsole>
   <!-- EN: Pilot console is not accessible from gravship -->
-  <PilotConsoleInaccessible>TODO</PilotConsoleInaccessible>
+  <PilotConsoleInaccessible>Bảng điều khiển phi công không thể truy cập được từ tàu hấp dẫn</PilotConsoleInaccessible>
   <!-- EN: Launch date -->
-  <LaunchDate>TODO</LaunchDate>
+  <LaunchDate>Ngày ra mắt</LaunchDate>
   <!-- EN: Warning: {0} will be blocked by {1}. -->
-  <WarningThrusterBlocked>TODO</WarningThrusterBlocked>
+  <WarningThrusterBlocked>Cảnh báo: {0} sẽ bị chặn bởi {1}.</WarningThrusterBlocked>
   <!-- EN: Warning: {0} will be blocked due to being indoors. -->
-  <WarningThrusterInside>TODO</WarningThrusterInside>
+  <WarningThrusterInside>Cảnh báo: {0} sẽ bị chặn do ở trong nhà.</WarningThrusterInside>
   <!-- EN: Max per gravship -->
-  <GravFacilityMaxSimultaneousConnections>TODO</GravFacilityMaxSimultaneousConnections>
+  <GravFacilityMaxSimultaneousConnections>Tối đa cho mỗi tàu trọng lực</GravFacilityMaxSimultaneousConnections>
   <!-- EN: Not connected to gravship -->
-  <ShieldNotConnectedToGravship>TODO</ShieldNotConnectedToGravship>
+  <ShieldNotConnectedToGravship>Không kết nối với tàu hấp dẫn</ShieldNotConnectedToGravship>
   <!-- EN: Gravship launch called off -->
-  <GravshipLaunchInterrupted>TODO</GravshipLaunchInterrupted>
+  <GravshipLaunchInterrupted>Vụ phóng Gravship bị hủy bỏ</GravshipLaunchInterrupted>
   <!-- EN: Not connected to grav engine. -->
-  <NotConnectedToGravEngine>TODO</NotConnectedToGravEngine>
+  <NotConnectedToGravEngine>Không kết nối với động cơ grav.</NotConnectedToGravEngine>
   <!-- EN: Not functional -->
-  <ThrusterNotFunctional>TODO</ThrusterNotFunctional>
+  <ThrusterNotFunctional>Không hoạt động</ThrusterNotFunctional>
   <!-- EN: not connected to grav engine -->
-  <ThrusterNotConnected>TODO</ThrusterNotConnected>
+  <ThrusterNotConnected>Không được kết nối với động cơ Grav</ThrusterNotConnected>
   <!-- EN: blocked by {0_label} -->
-  <ThrusterBlockedBy>TODO</ThrusterBlockedBy>
+  <ThrusterBlockedBy>bị chặn bởi {0_label}</ThrusterBlockedBy>
   <!-- EN: must be outside -->
-  <MustBeOutside>TODO</MustBeOutside>
+  <MustBeOutside>phải ở bên ngoài</MustBeOutside>
   <!-- EN: blocked by substructure -->
-  <BlockedBySubstructure>TODO</BlockedBySubstructure>
+  <BlockedBySubstructure>bị chặn bởi cấu trúc phụ</BlockedBySubstructure>
 
   <!-- Map generation -->
   <!-- EN: Landmark -->
-  <Landmark>TODO</Landmark>
+  <Landmark>Mốc</Landmark>
   <!-- EN: {ANIMALKIND_label} habitat -->
-  <AnimalHabitat>TODO</AnimalHabitat>
+  <AnimalHabitat>{ANIMALKIND_label} môi trường sống</AnimalHabitat>
   <!-- EN: {0} grove -->
-  <PlantGrove>TODO</PlantGrove>
+  <PlantGrove>Khu rừng {0}</PlantGrove>
   <!-- EN: {0} -->
-  <WildPlants>TODO</WildPlants>
+  <WildPlants>{0}</WildPlants>
   <!-- EN: {MINERAL_label} rich -->
-  <MineralRich>TODO</MineralRich>
+  <MineralRich>{MINERAL_label} giàu</MineralRich>
   <!-- EN: This area has more {MINERAL_label} deposits than normal. -->
-  <MineralRichDescription>TODO</MineralRichDescription>
+  <MineralRichDescription>Khu vực này có nhiều {MINERAL_label} tiền gửi hơn bình thường.</MineralRichDescription>
 
   <!-- Insect Lair -->
   <!-- EN: Cave entrance -->
-  <CaveEntranceLetter>TODO</CaveEntranceLetter>
+  <CaveEntranceLetter>Lối vào hang động</CaveEntranceLetter>
   <!-- EN: The gravcore energy signature is coming from a nearby cave network. The entrance is guarded by insect hives.\n\nExplore the cave network to find the gravcore. -->
-  <CaveEntranceLetterText>TODO</CaveEntranceLetterText>
+  <CaveEntranceLetterText>Dấu hiệu năng lượng gravcore đến từ một mạng lưới hang động gần đó. Lối vào được bảo vệ bởi tổ côn trùng.\n\nKhám phá mạng lưới hang động để tìm gravcore.</CaveEntranceLetterText>
   <!-- EN: Insect ambush -->
-  <InsectAmbushLetter>TODO</InsectAmbushLetter>
+  <InsectAmbushLetter>Côn trùng phục kích</InsectAmbushLetter>
   <!-- EN: Insects are tunneling up from underneath the ground. Be prepared! -->
-  <InsectAmbushLetterText>TODO</InsectAmbushLetterText>
+  <InsectAmbushLetterText>Côn trùng đang đào hầm từ dưới mặt đất. Hãy chuẩn bị!</InsectAmbushLetterText>
   <!-- EN: Muffled chittering -->
-  <LetterLabelInsectQueenWarning>TODO</LetterLabelInsectQueenWarning>
+  <LetterLabelInsectQueenWarning>Tiếng kêu bóp nghẹt</LetterLabelInsectQueenWarning>
   <!-- EN: Behind a nearby wall, {PAWN_nameDef} can hear muffled pulsations accompanied by a low chittering noise. Something massive lies behind the wall. -->
-  <LetterInsectQueenWarning>TODO</LetterInsectQueenWarning>
+  <LetterInsectQueenWarning>Đằng sau một bức tường gần đó, {PAWN_nameDef} có thể nghe thấy những nhịp đập bị bóp nghẹt kèm theo tiếng kêu nhỏ. Một cái gì đó khổng lồ nằm đằng sau bức tường.</LetterInsectQueenWarning>
   
   <!-- Overlay -->
   <!-- EN: Toggle vacuum overlay. This displays which areas have vacuum and identifies leaks.\n\nWithout the right equipment, exposure to vacuum can be deadly. -->
-  <ShowVacuumOverlayToggleButton>TODO</ShowVacuumOverlayToggleButton>
+  <ShowVacuumOverlayToggleButton>Chuyển đổi lớp phủ chân không. Điều này hiển thị khu vực nào có chân không và xác định rò rỉ.\n\nNếu không có thiết bị phù hợp, việc tiếp xúc với chân không có thể gây tử vong.</ShowVacuumOverlayToggleButton>
   <!-- EN: vacuum -->
-  <Vacuum>TODO</Vacuum>
+  <Vacuum>chân không</Vacuum>
   
   <!-- World -->
   <!-- EN: No discovered orbital locations. -->
-  <CannotSelectOrbitReason>TODO</CannotSelectOrbitReason>
+  <CannotSelectOrbitReason>Không có vị trí quỹ đạo nào được phát hiện.</CannotSelectOrbitReason>
   <!-- EN: Dying from vacuum exposure -->
-  <DyingBecauseExposedToVacuum>TODO</DyingBecauseExposedToVacuum>
+  <DyingBecauseExposedToVacuum>Chết vì tiếp xúc với chân không</DyingBecauseExposedToVacuum>
   <!-- EN: Vacstone with traces of {RESOURCE_label} -->
-  <TracesOfPreciousResource>TODO</TracesOfPreciousResource>
+  <TracesOfPreciousResource>Vacstone với dấu vết của {RESOURCE_label}</TracesOfPreciousResource>
   <!-- EN: Requires signal jammer -->
-  <TransportPodDestinationRequiresSignalJammer>TODO</TransportPodDestinationRequiresSignalJammer>
+  <TransportPodDestinationRequiresSignalJammer>Yêu cầu thiết bị gây nhiễu tín hiệu</TransportPodDestinationRequiresSignalJammer>
   <!-- EN: cannot function in vacuum. -->
-  <CannotFunctionInVacuum>TODO</CannotFunctionInVacuum>
+  <CannotFunctionInVacuum>không thể hoạt động trong chân không.</CannotFunctionInVacuum>
   <!-- EN: Gravship -->
-  <GravshipOnTileInspectString>TODO</GravshipOnTileInspectString>
+  <GravshipOnTileInspectString>Tàu hấp dẫn</GravshipOnTileInspectString>
   
   <!-- Ruins -->
   <!-- EN: Hack to open. -->
-  <HackableDoorLocked>TODO</HackableDoorLocked>
+  <HackableDoorLocked>Hack để mở.</HackableDoorLocked>
   
   <!-- Fishing -->
   <!-- EN: Fish -->
-  <Fish>TODO</Fish>
+  <Fish>Cá</Fish>
   <!-- EN: fishing -->
-  <Fishing>TODO</Fishing>
+  <Fishing>câu cá</Fishing>
   <!-- EN: Cannot fish -->
-  <CannotFish>TODO</CannotFish>
+  <CannotFish>Không thể câu cá</CannotFish>
   <!-- EN: blocked -->
-  <FishingSpotBlocked>TODO</FishingSpotBlocked>
+  <FishingSpotBlocked>Bị chặn</FishingSpotBlocked>
   <!-- EN: frozen -->
-  <FishingSpotFrozen>TODO</FishingSpotFrozen>
+  <FishingSpotFrozen>đông lạnh</FishingSpotFrozen>
   <!-- EN: below minimum fish population -->
-  <FishingSpotUnderTargetPopulation>TODO</FishingSpotUnderTargetPopulation>
+  <FishingSpotUnderTargetPopulation>dưới số lượng cá tối thiểu</FishingSpotUnderTargetPopulation>
   <!-- EN: stored fish exceed fishing zone settings -->
-  <FishingSpotOverTargetResourceCount>TODO</FishingSpotOverTargetResourceCount>
+  <FishingSpotOverTargetResourceCount>Cá được lưu trữ vượt quá cài đặt vùng câu cá</FishingSpotOverTargetResourceCount>
   <!-- EN: Fishing -->
-  <TabFishing>TODO</TabFishing>
+  <TabFishing>Câu cá</TabFishing>
   <!-- EN: Fish population -->
-  <FishPopulation>TODO</FishPopulation>
+  <FishPopulation>Quần thể cá</FishPopulation>
   <!-- EN: Population declining -->
-  <FishPopulationDecline>TODO</FishPopulationDecline>
+  <FishPopulationDecline>Dân số giảm</FishPopulationDecline>
   <!-- EN: very low -->
-  <FishPopulation_VeryLow>TODO</FishPopulation_VeryLow>
+  <FishPopulation_VeryLow>rất thấp</FishPopulation_VeryLow>
   <!-- EN: low -->
-  <FishPopulation_Low>TODO</FishPopulation_Low> 
+  <FishPopulation_Low>thấp</FishPopulation_Low> 
   <!-- EN: moderate -->
-  <FishPopulation_Moderate>TODO</FishPopulation_Moderate>
+  <FishPopulation_Moderate>ôn hoà</FishPopulation_Moderate>
   <!-- EN: healthy -->
-  <FishPopulation_Healthy>TODO</FishPopulation_Healthy>
+  <FishPopulation_Healthy>khỏe mạnh</FishPopulation_Healthy>
 
   <!-- Sand -->
   <!-- EN: Windswept sand -->
-  <Sand>TODO</Sand>
+  <Sand>Cát lộng gió</Sand>
   <!-- EN: No sand -->
-  <SandNone>TODO</SandNone>
+  <SandNone>Không cát</SandNone>
   <!-- EN: dusting -->
-  <SandDusting>TODO</SandDusting>
+  <SandDusting>Dusting</SandDusting>
   <!-- EN: thin -->
-  <SandThin>TODO</SandThin>
+  <SandThin>mỏng</SandThin>
   <!-- EN: medium -->
-  <SandMedium>TODO</SandMedium>
+  <SandMedium>Đau vừa</SandMedium>
   <!-- EN: thick -->
-  <SandThick>TODO</SandThick>
+  <SandThick>dày</SandThick>
   <!-- EN: Windswept sand -->
-  <Sand_Label>TODO</Sand_Label>
+  <Sand_Label>Cát lộng gió</Sand_Label>
   <!-- EN: clearing sand. -->
-  <JobClearingSand>TODO</JobClearingSand>
+  <JobClearingSand>dọn dẹp cát.</JobClearingSand>
   <!-- EN: clearing sand -->
-  <ClearingSandGerund>TODO</ClearingSandGerund>
+  <ClearingSandGerund>dọn cát</ClearingSandGerund>
 
   <!-- Stockpile -->
   <!-- EN: medicine stockpile -->
-  <StockpileMedicine>TODO</StockpileMedicine>
+  <StockpileMedicine>kho dự trữ thuốc</StockpileMedicine>
   <!-- EN: chemfuel stockpile -->
-  <StockpileChemfuel>TODO</StockpileChemfuel>
+  <StockpileChemfuel>kho dự trữ chemfuel</StockpileChemfuel>
   <!-- EN: component stockpile -->
-  <StockpileComponent>TODO</StockpileComponent>
+  <StockpileComponent>dự trữ linh kiện</StockpileComponent>
   <!-- EN: weapons stockpile -->
-  <StockpileWeapons>TODO</StockpileWeapons>
+  <StockpileWeapons>kho vũ khí</StockpileWeapons>
   <!-- EN: drug stockpile -->
-  <StockpileDrugs>TODO</StockpileDrugs>
+  <StockpileDrugs>kho dự trữ ma túy</StockpileDrugs>
   
   <!-- Outfit Stand -->
   <!-- EN: equip outfit -->
-  <SwapOutfit>TODO</SwapOutfit>
+  <SwapOutfit>Trang bị trang phục</SwapOutfit>
   <!-- EN: equip outfit... -->
-  <SwapOutfitGizmo>TODO</SwapOutfitGizmo>
+  <SwapOutfitGizmo>trang bị trang phục...</SwapOutfitGizmo>
   <!-- EN: Order a colonist to wear all apparel on the stand. The colonist will place any unequipped clothing back on the stand. -->
-  <SwapOutfitDesc>TODO</SwapOutfitDesc>
+  <SwapOutfitDesc>Ra lệnh cho một người thực dân mặc tất cả các trang phục trên khán đài. Người thực dân sẽ đặt bất kỳ quần áo không được trang bị nào trở lại giá đỡ.</SwapOutfitDesc>
   <!-- EN: cannot equip outfit -->
-  <CannotSwapOutfit>TODO</CannotSwapOutfit>
+  <CannotSwapOutfit>Không thể trang bị trang phục</CannotSwapOutfit>
   <!-- EN: outfit stand is empty -->
-  <OutfitStandEmpty>TODO</OutfitStandEmpty>
+  <OutfitStandEmpty>giá đỡ trang phục trống rỗng</OutfitStandEmpty>
   <!-- EN: Remove this from the outfit stand. -->
-  <EjectApparelTooltip>TODO</EjectApparelTooltip>
+  <EjectApparelTooltip>Loại bỏ cái này khỏi giá đỡ trang phục.</EjectApparelTooltip>
   
   <!-- Orbital mechanoid platform -->
   <!-- EN: Ancient grav engine -->
-  <LetterAncientGravEngineDiscoveredLabel>TODO</LetterAncientGravEngineDiscoveredLabel>
+  <LetterAncientGravEngineDiscoveredLabel>Động cơ grav cổ đại</LetterAncientGravEngineDiscoveredLabel>
   <!-- EN: You've discovered an ancient grav engine. Destroy it to obtain a gravcore. -->
-  <LetterAncientGravEngineDiscovered>TODO</LetterAncientGravEngineDiscovered>
+  <LetterAncientGravEngineDiscovered>Bạn đã phát hiện ra một động cơ grav cổ đại. Phá hủy nó để có được một gravcore.</LetterAncientGravEngineDiscovered>
 
   <!-- EN: Gravship -->
-  <PlayerPawnsArriveMethod_Gravship>TODO</PlayerPawnsArriveMethod_Gravship>
+  <PlayerPawnsArriveMethod_Gravship>Tàu hấp dẫn</PlayerPawnsArriveMethod_Gravship>
 
   <!-- Misc -->
   <!-- EN: Toggle displaying expanding icons for landmarks. -->
-  <ShowExpandingLandmarksToggleButton>TODO</ShowExpandingLandmarksToggleButton>
+  <ShowExpandingLandmarksToggleButton>Chuyển đổi hiển thị các biểu tượng mở rộng cho các địa danh.</ShowExpandingLandmarksToggleButton>
 
   <!-- Mechive -->
   <!-- EN: Before {PAWN_nameDef} stands the cerebrex core - a massive brain-like neural mesh that commands mechanoids across the planet.\n\nWith its stabilizers destroyed, {PAWN_nameDef} can now access it directly... but what should {PAWN_pronoun} do with that power? -->
-  <CerebrexCoreDialog>TODO</CerebrexCoreDialog>
+  <CerebrexCoreDialog>Trước {PAWN_nameDef} là lõi não - một lưới thần kinh khổng lồ giống như não chỉ huy các cơ khí trên khắp hành tinh.\n\nVới các chất ổn định của nó bị phá hủy, {PAWN_nameDef} giờ đây có thể truy cập trực tiếp vào nó... nhưng {PAWN_pronoun} nên làm gì với quyền năng đó?</CerebrexCoreDialog>
   <!-- EN: Destroy the core -->
-  <CerebrexCoreOption_Destroy>TODO</CerebrexCoreOption_Destroy>
+  <CerebrexCoreOption_Destroy>Phá hủy lõi</CerebrexCoreOption_Destroy>
   <!-- EN: Scavenge technology -->
-  <CerebrexCoreOption_Scavenge>TODO</CerebrexCoreOption_Scavenge>
+  <CerebrexCoreOption_Scavenge>Công nghệ nhặt rác</CerebrexCoreOption_Scavenge>
   <!-- EN: Postpone -->
-  <CerebrexCoreOption_Postpone>TODO</CerebrexCoreOption_Postpone>
+  <CerebrexCoreOption_Postpone>Hoãn</CerebrexCoreOption_Postpone>
   <!-- EN: Stabilizers remaining -->
-  <StabilizersRemaining>TODO</StabilizersRemaining>
+  <StabilizersRemaining>Chất ổn định còn lại</StabilizersRemaining>
   <!-- EN: Gestating mechanoids. -->
-  <ProducingMechanoids>TODO</ProducingMechanoids>
+  <ProducingMechanoids>Cơ khí mang thai.</ProducingMechanoids>
 
   <!-- EN: {PAWN_nameDef} begins to tear apart the hair-thin cerebral mesh inside the cerebrex core. The mesh twists and groans, as if alive. Electricity arcs among the latticework frame - then in an instant, all goes dark and lifeless.\n\nThe mechanoid whirring stops. Here, and all across the planet, mechanoids begin to permanently deactivate, no longer under the control of the mechhive.\n\nThe mechanoid threat is over. But your story continues... -->
-  <OdysseyDestroyedCredits>TODO</OdysseyDestroyedCredits>
+  <OdysseyDestroyedCredits>{PAWN_nameDef} bắt đầu xé toạc lưới não mỏng như tóc bên trong lõi não. Lưới xoắn và rên rỉ, như thể còn sống. Vòng cung điện giữa khung lưới - sau đó trong tích tắc, tất cả trở nên tối tăm và vô hồn.\n\nTiếng rít máy móc dừng lại. Tại đây, và trên khắp hành tinh, các cơ khí bắt đầu ngừng hoạt động vĩnh viễn, không còn nằm dưới sự kiểm soát của cơ khí.\n\nMối đe dọa cơ khí đã kết thúc. Nhưng câu chuyện của bạn vẫn tiếp tục...</OdysseyDestroyedCredits>
   <!-- EN: {PAWN_nameDef} begins working to free a processing node buried within the core. The latticework frame convulses as if in agony. As {PAWN_nameDef} pulls the node free, the mesh begins to mend, repairing the damage. The core rebuilds its defences and closes.\n\nTurning the node over, {PAWN_nameDef} recoils as it sparks to life, pulsing in time with the core. In {PAWN_possessive} hand, {PAWN_nameDef} holds a weapon of untold power.\n\nThe story continues... -->
-  <OdysseyScavengedCredits>TODO</OdysseyScavengedCredits>
+  <OdysseyScavengedCredits>{PAWN_nameDef} bắt đầu làm việc để giải phóng một nút xử lý bị chôn vùi trong lõi. Khung lưới co giật như thể đang đau đớn. Khi {PAWN_nameDef} kéo nút tự do, lưới bắt đầu sửa chữa, sửa chữa thiệt hại. Lõi xây dựng lại hệ thống phòng thủ của nó và đóng lại.\n\nLật nút lại, {PAWN_nameDef} giật lại khi nó phát ra sự sống, xung nhịp theo thời gian với lõi. Trong tay {PAWN_possessive}, {PAWN_nameDef} nắm giữ một vũ khí có sức mạnh không kể xiết.\n\nCâu chuyện vẫn tiếp tục...</OdysseyScavengedCredits>
 
   <!-- EN: {0} stabilizers remaining -->
-  <CoreNotInteractableStabilizersRemaining>TODO</CoreNotInteractableStabilizersRemaining>
+  <CoreNotInteractableStabilizersRemaining>{0} chất ổn định còn lại</CoreNotInteractableStabilizersRemaining>
   <!-- EN: Deactivated -->
-  <CoreNotInteractableDeactivated>TODO</CoreNotInteractableDeactivated>
+  <CoreNotInteractableDeactivated>Tắt</CoreNotInteractableDeactivated>
 
   <!-- EN: Shuttle fuel -->
-  <CaravanShuttleFuel>TODO</CaravanShuttleFuel>
+  <CaravanShuttleFuel>Nhiên liệu đưa đón</CaravanShuttleFuel>
 
   <!-- EN: Passively scanning for orbital signals. -->
-  <OrbitalScannerScanning>TODO</OrbitalScannerScanning>
+  <OrbitalScannerScanning>Quét thụ động để tìm tín hiệu quỹ đạo.</OrbitalScannerScanning>
   <!-- EN: Locating orbital signal -->
-  <OrbitalScannerLocating>TODO</OrbitalScannerLocating>
+  <OrbitalScannerLocating>Định vị tín hiệu quỹ đạo</OrbitalScannerLocating>
 
   <!-- EN: Traits -->
-  <WeaponTraits>TODO</WeaponTraits>
+  <WeaponTraits>Traits</WeaponTraits>
   <!-- EN: Unique weapon -->
-  <UniqueWeapon>TODO</UniqueWeapon>
+  <UniqueWeapon>Vũ khí độc đáo</UniqueWeapon>
 
   <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
-  <ConfirmLoseShuttle>TODO</ConfirmLoseShuttle>
+  <ConfirmLoseShuttle>Cải cách một đoàn lữ hành sẽ từ bỏ con thoi của bạn. Bạn có chắc chắn muốn tiếp tục không?\n\nĐể rời đi với con thoi của bạn, hãy chọn con thoi, sau đó chọn 'khởi động'.</ConfirmLoseShuttle>
 
   <!-- EN: Discover a quest -->
-  <BookHasQuest>TODO</BookHasQuest>
+  <BookHasQuest>Khám phá một nhiệm vụ</BookHasQuest>
   <!-- EN: discovered -->
-  <DiscoveredQuest>TODO</DiscoveredQuest>
+  <DiscoveredQuest>Khám phá</DiscoveredQuest>
 
   <!-- EN: Your orbital scanner has detected -->
-  <QuestDiscoveredFromOrbitalScanner>TODO</QuestDiscoveredFromOrbitalScanner>
+  <QuestDiscoveredFromOrbitalScanner>Máy quét quỹ đạo của bạn đã phát hiện</QuestDiscoveredFromOrbitalScanner>
   <!-- EN: {HACKER_nameDef} hacked an uplink and discovered -->
-  <QuestDiscoveredFromUplink>TODO</QuestDiscoveredFromUplink>
+  <QuestDiscoveredFromUplink>{HACKER_nameDef} hack một đường lên và phát hiện ra</QuestDiscoveredFromUplink>
 
   <!-- Special Trainables -->
   <!-- EN: Attack -->
-  <AnimalAttackTarget>TODO</AnimalAttackTarget>
+  <AnimalAttackTarget>Tấn công</AnimalAttackTarget>
   <!-- EN: Command this animal to attack a specific target that its master can see. -->
-  <AnimalAttackTargetDesc>TODO</AnimalAttackTargetDesc>
+  <AnimalAttackTargetDesc>Ra lệnh cho con vật này tấn công một mục tiêu cụ thể mà chủ nhân của nó có thể nhìn thấy.</AnimalAttackTargetDesc>
   <!-- EN: Animals attack target -->
-  <AnimalsAttackTarget>TODO</AnimalsAttackTarget>
+  <AnimalsAttackTarget>Động vật tấn công mục tiêu</AnimalsAttackTarget>
   <!-- EN: Direct all mastered animals to attack a specific target. -->
-  <AnimalsAttackTargetDesc>TODO</AnimalsAttackTargetDesc>
+  <AnimalsAttackTargetDesc>Chỉ đạo tất cả các loài động vật thành thạo tấn công một mục tiêu cụ thể.</AnimalsAttackTargetDesc>
   <!-- EN: Cancel attack -->
-  <CancelAttack>TODO</CancelAttack>
+  <CancelAttack>Hủy tấn công</CancelAttack>
   <!-- EN: Clear this animal's current target. -->
-  <CancelAttackDesc>TODO</CancelAttackDesc>
+  <CancelAttackDesc>Xóa mục tiêu hiện tại của con vật này.</CancelAttackDesc>
   <!-- EN: This animal does not have a master -->
-  <NoMaster>TODO</NoMaster>
+  <NoMaster>Con vật này không có chủ nhân</NoMaster>
   <!-- EN: This animal's master is not on this map -->
-  <MasterNotSpawned>TODO</MasterNotSpawned>
+  <MasterNotSpawned>Chủ nhân của con vật này không có trên bản đồ này</MasterNotSpawned>
   <!-- EN: Not in range of master. -->
-  <MessageNotInRangeOfMaster>TODO</MessageNotInRangeOfMaster>
+  <MessageNotInRangeOfMaster>Không nằm trong phạm vi của bậc thầy.</MessageNotInRangeOfMaster>
   <!-- EN: {ANIMAL_nameDef} found {FOOD_label} while foraging. -->
-  <MessageAnimalForagedFood>TODO</MessageAnimalForagedFood>
+  <MessageAnimalForagedFood>{ANIMAL_nameDef} tìm thấy {FOOD_label} trong khi kiếm ăn.</MessageAnimalForagedFood>
   <!-- EN: Forage trained -->
-  <ForageTrained>TODO</ForageTrained>
+  <ForageTrained>Thức ăn gia súc được đào tạo</ForageTrained>
   <!-- EN: Allow foraging -->
-  <ForageEnabled>TODO</ForageEnabled>
+  <ForageEnabled>Cho phép kiếm ăn</ForageEnabled>
   <!-- EN: Allow digging -->
-  <DigEnabled>TODO</DigEnabled>
+  <DigEnabled>Cho phép đào</DigEnabled>
 
   <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <ConfirmSealHatch>TODO</ConfirmSealHatch>
+  <ConfirmSealHatch>Việc bịt kín lối vào kho dự trữ cổ xưa là vĩnh viễn. Bất cứ thứ gì hoặc bất cứ ai còn sót lại bên dưới sẽ bị mất mãi mãi. {0}\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmSealHatch>
   <!-- EN: Cannot seal -->
-  <CannotChooseSealer>TODO</CannotChooseSealer>
+  <CannotChooseSealer>Không thể niêm phong</CannotChooseSealer>
   <!-- EN: Sealed -->
-  <Sealed>TODO</Sealed>
+  <Sealed>Kín</Sealed>
   <!-- EN: Permanently sealed. -->
-  <HatchSealed>TODO</HatchSealed>
+  <HatchSealed>Niêm phong vĩnh viễn.</HatchSealed>
   <!-- EN: Unlocked. -->
-  <HatchUnlocked>TODO</HatchUnlocked>
+  <HatchUnlocked>Mở khóa.</HatchUnlocked>
 
   <!-- EN: A short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. It shuts down instantly if hit by an EMP. -->
-  <GravshipShieldTip>TODO</GravshipShieldTip>
+  <GravshipShieldTip>Một bề mặt đẩy động lượng tồn tại trong thời gian ngắn ngăn chặn đường đạn. Nó hoạt động chống lại các phát đạn và súng cối bình thường. Nó sẽ tắt ngay lập tức nếu bị trúng EMP.</GravshipShieldTip>
 
 </LanguageData>
