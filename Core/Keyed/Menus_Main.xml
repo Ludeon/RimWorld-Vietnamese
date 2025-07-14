@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- Main menu -->
   <!-- EN: Tutorial -->
   <Tutorial>Hướng dẫn</Tutorial>
@@ -59,6 +60,7 @@
   <BuySoundtrack>Mua Soundtrack</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>Tạo thế giới</CreateWorld>
+
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>Tất cả bản dịch của rimworld đều được làm bởi người hâm mộ. Bản dịch do người hâm mộ tạo ra này được tạo bởi những tình nguyện viên xuất sắc sau đây:\n{0}</TranslationThanks>
@@ -66,9 +68,11 @@
   <TranslationHowToContribute>Bạn cũng có thể đóng góp cho bản dịch tốt hơn hoặc tải bản dịch mới nhất tại discord rimworld việt nam https://discord.gg/rimworldvn </TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>Tìm hiểu thêm</LearnMore>
+
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
   <DevBuildWarning>Warning: Đây là một phiên bản phát triển không ổn định. Điều này có nghĩa là chúng tôi đang chạy thử nghiệm thiết kế và phát triển kỹ thuật.\n\nMột số thứ sẽ tạm thời ko như dự định. Đây là một phương pháp thiết kế trò chơi cổ điển mà chúng tôi cố tình triển khai để hiểu rõ hơn về ranh giới ổn định. Sau đó chúng ta có thể sử dụng thông tin đó để quyết định điểm ổn định cuối cùng.\n\nCũng sẽ có lỗi, bao gồm cả những người kiểm định game. Bản Lưu có khả năng không tương thích và có thể bị hỏng bất cứ lúc nào.\n\nNếu bạn ổn với tất cả những điều này, cảm ơn bạn đã tham gia thử nghiệm! Nếu bạn không muốn chịu sự thử nghiệm của chúng tôi, vui lòng chơi phiên bản ổn định mới nhất.</DevBuildWarning>
+
   <!-- Create/review world -->
   <!-- EN: Review world -->
   <ReviewWorld>Đánh giá thế giới</ReviewWorld>
@@ -112,9 +116,9 @@
   <PlanetCoverageTip>Hành tinh này luôn luôn có cùng một đường kính, nhưng vì nó lớn hơn nhiều so với cần thiết để chơi, chúng ta không nên tạo ra toàn bộ bề mặt bởi vì nó có thể mất rất nhiều thời gian. Đây là phần trăm bề mặt bạn muốn tạo.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Các phe phái</WorldFactionsTab>
-  <!--EN: Advanced settings-->
-  <!--VI: Cài đặt nâng cao-->
+  <!-- EN: Advanced settings -->
   <AdvancedSettings>TODO</AdvancedSettings>
+
   <!-- Select world -->
   <!-- EN: Select world -->
   <SelectWorld>Chọn thế giới</SelectWorld>
@@ -122,6 +126,7 @@
   <WorldChooseButton>Chọn</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Không tìm thấy thế giới nào. Hãy tạo một thế giới trước đã.</NoWorldsFilesFound>
+  
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Phiên bản {0} đã ra mắt. Truy cập ludeon.com để biết thêm thông tin.</BuildNowAvailable>
@@ -131,9 +136,11 @@
   <ErrorGettingVersionInfo>Lỗi khi tải thông tin phiên bản: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Đang tải thông tin phiên bản ...</LoadingVersionInfo>
+
   <!-- World generator -->
   <!-- EN: Generate world -->
   <GenerateWorld>Tạo thế giới</GenerateWorld>
+
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Mở steam workshop</OpenSteamWorkshop>
@@ -287,6 +294,7 @@
   <ModLoadFolderDefinesUnsupportedGameVersion>Phiên bản {0} được xác định trong các thư mục tải, nhưng không được liệt kê trong 'ManagedVersions' của mod 'About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Kéo để sắp xếp lại</DragToReorder>
+
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>Chọn kịch bản</ChooseScenario>
@@ -298,6 +306,7 @@
   <ScenarioEditor>Soạn thảo kịch bản</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Xóa</Delete>
+  
   <!-- Scenario editor -->
   <!-- EN: seed -->
   <Seed>mã kiến tạo</Seed>
@@ -325,6 +334,7 @@
   <CanBeUpdatedOnWorkshop>Có thể cập nhật lên workshop, vì bạn là tác giả.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>Tình huống này đã được chỉnh sửa.\n\nBạn có muốn lưu nó trước khi tiếp tục không?</ScenarioChangedSavePrompt>
+  
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Chọn người kể chuyện</ChooseAIStoryteller>
@@ -346,11 +356,13 @@
   <PermadeathModeInfo>Bạn chỉ có thể lưu khi thoát game.\n\nVì RimWorld tạo ra các câu chuyện, thậm chí mất tất cả nhưng còn một người không phải là kết thúc của trò chơi - đó là một phần của câu chuyện. Trò chơi được thiết kế để cho phép phục hồi sau khi mất mác.\n\nXuất hiện những tình huống khủng khiếp này tạo nên một câu chuyện với cả bi kịch và chiến thắng. Đó là cách RimWorld được thiết kế để chơi.\n\nCó lý do Luke Skywalker không bỏ cuộc và tải lại khi gia đình anh ta bị giết - mất mát và hồi phục là rất lớn.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>Người kể chuyện và độ khó khăn có thể thay đổi bất cứ lúc nào.</CanChangeStorytellerSettingsDuringPlay>
+
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
   <DifficultyCustomSectionLabel>Cài đặt kiểu chơi tùy chỉnh</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
   <DifficultyReset>Đặt thành kiểu chơi tiêu chuẩn...</DifficultyReset>
+  
   <!-- EN: Threats -->
   <DifficultyThreatSection>Các mối đe dọa</DifficultyThreatSection>
   <!-- EN: Threat scale -->
@@ -377,6 +389,7 @@
   <Difficulty_AllowExtremeWeatherIncidents_Label>Thời tiết khác nghiệt</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
   <Difficulty_AllowExtremeWeatherIncidents_Info>Phòng tránh các sự cố thời tiết khắc nghiệt như bụi phóng xạ độc hại, mùa đông núi lửa và bão chớp.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
   <!-- EN: Economy -->
   <DifficultyEconomySection>Kinh tế</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
@@ -419,6 +432,7 @@
   <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Kẻ thù chết khi bị bắn hạ</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Điều chỉnh cơ hội tăng thêm khiến kẻ địch sẽ chết ngay lập tức khi bị hạ gục. Điều này ảnh hưởng đến cơ hội bắt tù nhân, và do đó tỷ lệ tăng dân số thuộc địa.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
   <!-- EN: General -->
   <DifficultyGeneralSection>Tổng quan</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
@@ -469,12 +483,11 @@
   <Difficulty_UnwaveringPrisoners_Label>Thêm tù nhân kiên định</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>Tùy chọn này bổ sung thêm các tù nhân có thể bắt được vào trò chơi, những người không thể được chiêu mộ do có lòng trung thành vững chắc.\n\nCác tù nhân kiên định được thêm vào bên trên các tù nhân bình thường, vì vậy, việc tắt tùy chọn này sẽ không mang lại nhiều tù nhân có thể tuyển dụng hơn - tùy chọn này chỉ loại bỏ những tù nhân kiên định. \n\nNhững tù nhân kiên định vẫn có thể được phóng thích vì lợi ích ngoại giao, bị bán, bị bắt làm nô lệ, bị thu hoạch nội tạng hoặc bị sử dụng theo cách khác. Nói chung, chúng cung cấp nhiều tùy chọn và tài nguyên hơn, đồng thời làm cho trò chơi trở nên phong phú và dễ dàng hơn một chút.</Difficulty_UnwaveringPrisoners_Info>
-  <!--EN: Nomadic mineable resources-->
-  <!--VI: Tài nguyên du mục có thể khai thác được-->
+  <!-- EN: Nomadic mineable resources -->
   <Difficulty_NomadicMineableResourcesFactor_Label>TODO</Difficulty_NomadicMineableResourcesFactor_Label>
-  <!--EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources.-->
-  <!--VI: Điều chỉnh số lượng tài nguyên có thể khai thác được tạo ra trên bản đồ sau bản đồ đầu tiên của bạn.\n\nLưu ý: Bản đồ thuộc địa đầu tiên của bạn sẽ luôn được tạo ra với lượng tài nguyên tiêu chuẩn.-->
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
   <Difficulty_NomadicMineableResourcesFactor_Info>TODO</Difficulty_NomadicMineableResourcesFactor_Info>
+
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Công cụ người chơi</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
@@ -493,6 +506,7 @@
   <Difficulty_ClassicMortars_Label>Cối cổ điển</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
   <Difficulty_ClassicMortars_Info>Súng cối sẽ không yêu cầu thùng gia cố để xây dựng hoặc nạp đạn, và được cân bằng để dễ dàng tiếp cận.</Difficulty_ClassicMortars_Info>
+  
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>Sự thích ứng</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
@@ -511,12 +525,14 @@
   <Difficulty_FixedWealthTimeFactor_Label>Nhiều năm cho đến khi mối đe dọa tối đa</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
   <Difficulty_FixedWealthTimeFactor_Info>Số năm trò chơi cho đến khi chế độ không phụ thuộc vào sự giàu có đạt đến mức độ đe dọa tối đa.\n\nLưu ý rằng người kể chuyện sẽ vẫn chia tỷ lệ các mối đe dọa theo số lượng thực dân và nhiều yếu tố khác.</Difficulty_FixedWealthTimeFactor_Info>
+
   <!-- EN: Ideology -->
   <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>Tăng chuyển đổi pop thấp</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
   <Difficulty_LowPopConversionBoost_Info>Với một cư dân duy nhất của hệ tín ngưỡng ban đầu của người chơi, cơ hội chuyển đổi hệ tư tưởng của anh ta được nhân lên với số này. Các nỗ lực chuyển đổi chống lại chúng sẽ có tác động chia cho số đó.\n\nVới hai thuộc địa của hệ tư tưởng ban đầu của người chơi, hiệu ứng sẽ giảm một nửa.\n\nVới ba hoặc nhiều hơn thuộc địa của hệ tư tưởng ban đầu của người chơi, điều này không ảnh hưởng gì.</Difficulty_LowPopConversionBoost_Info>
+
   <!-- Site select -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>Chọn nơi bắt đầu</SelectStartingSite>
@@ -550,8 +566,7 @@
   <River>Sông</River>
   <!-- EN: Elevation -->
   <Elevation>Độ cao</Elevation>
-  <!--EN: Features-->
-  <!--VI: Tính năng-->
+  <!-- EN: Features -->
   <TileMutators>TODO</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>Khả năng sinh sản</Fertility>
@@ -595,6 +610,7 @@
   <TemperatureLower>nhiệt độ</TemperatureLower>
   <!-- EN: light -->
   <LightLower>sáng</LightLower>
+
   <!-- Character chooser -->
   <!-- EN: Create characters -->
   <CreateCharacters>Tạo nhân vật</CreateCharacters>
@@ -634,8 +650,7 @@
   <IncapableOfTooltipRole>Do vai trò gây ra</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>do gen gây ra</IncapableOfTooltipGene>
-  <!--EN: Caused by-->
-  <!--VI: Do-->
+  <!-- EN: Caused by -->
   <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>Đặc điểm</Traits>
@@ -675,6 +690,7 @@
   <StartingPawnsLeftBehind>Bị bỏ lại</StartingPawnsLeftBehind>
   <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>Người thực dân này bị coi là có tội. Bạn có thể trục xuất, hành quyết hoặc bắt giữ họ một cách tự do và những người khác sẽ không bị làm phiền.\n\nTội lỗi hết hạn trong</GuiltyDesc>
+  
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Bắt đầu</Start>
@@ -698,6 +714,7 @@
   <Quit>Thoát</Quit>
   <!-- EN: Ignore -->
   <Ignore>Bỏ qua</Ignore>
+  
   <!-- Progress bar -->
   <!-- EN: Generating world -->
   <GeneratingWorld>Đang tạo thế giới</GeneratingWorld>
@@ -707,16 +724,18 @@
   <GeneratingMap>Đang tạo bản đồ</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Tạo bản đồ cho lần chơi mới</GeneratingMapForNewEncounter>
+
   <!-- EN: Click for more info. -->
   <ClickForMoreInfo>Nhấn vào đây để biết thêm thông tin</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Không có thêm thông tin có sẵn.</NoMoreInfoAvailable>
-  <!--EN: Best skill-->
-  <!--VI: Kỹ năng tốt nhất-->
+  <!-- EN: Best skill -->
   <BestSkillLabel>TODO</BestSkillLabel>
-  <!--EN: skill level {0}-->
-  <!--VI: trình độ kỹ năng {0}-->
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>TODO</BestSkillLetterLabel>
+  <!-- EN: skill level {0} -->
   <BestSkillInfoLevel>TODO</BestSkillInfoLevel>
+
   <!-- Factions -->
   <!-- EN: Factions -->
   <Factions>Khuôn mặt</Factions>
@@ -734,7 +753,7 @@
   <MechanoidsDisabledContentWarning>Việc vô hiệu hóa {0} có nghĩa là ít nhiệm vụ hơn và có nhiều mối đe dọa tự phát hơn.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Nếu không có các phe phái khác, các cuộc đột kích, giao dịch và nhiệm vụ sẽ không diễn ra như bình thường.</FactionsDisabledWarning>
-  <!--EN: Cannot be removed for this scenario.-->
-  <!--VI: Không thể xóa cho trường hợp này.-->
+  <!-- EN: Cannot be removed for this scenario. -->
   <FactionRemovalDisabled>TODO</FactionRemovalDisabled>
+
 </LanguageData>

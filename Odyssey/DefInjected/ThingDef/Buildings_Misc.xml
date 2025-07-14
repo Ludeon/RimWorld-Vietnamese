@@ -2,242 +2,242 @@
 <LanguageData>
   
   <!-- EN: ancient blast door -->
-  <AncientBlastDoor.label>TODO</AncientBlastDoor.label>
+  <AncientBlastDoor.label>Cửa nổ cổ đại</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
-  <AncientBlastDoor.description>TODO</AncientBlastDoor.description>
+  <AncientBlastDoor.description>Một cánh cửa được gia cố nặng làm bằng polyme siêu công nghệ. Hack cửa để mở nó.</AncientBlastDoor.description>
   <!-- EN: Unlocked. -->
-  <AncientBlastDoor.comps.CompHackable.hackedInspectString>TODO</AncientBlastDoor.comps.CompHackable.hackedInspectString>
+  <AncientBlastDoor.comps.CompHackable.hackedInspectString>Mở khóa.</AncientBlastDoor.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <AncientBlastDoor.comps.CompHackable.hackedMessage>TODO</AncientBlastDoor.comps.CompHackable.hackedMessage>
+  <AncientBlastDoor.comps.CompHackable.hackedMessage>{HACKER_labelShort} đã hoàn thành hack {SUBJECT_labelNoParenthesisDef}.</AncientBlastDoor.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
-  <AncientBlastDoor.comps.CompHackable.notHackedInspectString>TODO</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
+  <AncientBlastDoor.comps.CompHackable.notHackedInspectString>Hack để mở.</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient explosives crate -->
-  <AncientExplosivesCrate.label>TODO</AncientExplosivesCrate.label>
+  <AncientExplosivesCrate.label>thùng thuốc nổ cổ đại</AncientExplosivesCrate.label>
   <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientExplosivesCrate.description>TODO</AncientExplosivesCrate.description>
+  <AncientExplosivesCrate.description>Một thùng chứa phí khai thác cổ đại. Nó sẽ phát nổ nếu bị hư hại.\n\nVụ nổ đủ mạnh để xuyên qua các bức tường.</AncientExplosivesCrate.description>
   
   <!-- EN: fortified wall -->
-  <AncientFortifiedWall.label>TODO</AncientFortifiedWall.label>
+  <AncientFortifiedWall.label>Bức tường kiên cố</AncientFortifiedWall.label>
   <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
-  <AncientFortifiedWall.description>TODO</AncientFortifiedWall.description>
+  <AncientFortifiedWall.description>Một bức tường được gia cố nặng làm bằng polyme siêu công nghệ.</AncientFortifiedWall.description>
   
   <!-- EN: ancient grav engine -->
-  <AncientGravEngine.label>TODO</AncientGravEngine.label>
+  <AncientGravEngine.label>động cơ grav cổ đại</AncientGravEngine.label>
   <!-- EN: An ultratech engine used to bring large structures and ships into orbit. While it has been nonfunctional for many years, it contains a functional gravcore. -->
-  <AncientGravEngine.description>TODO</AncientGravEngine.description>
+  <AncientGravEngine.description>Một động cơ siêu công nghệ được sử dụng để đưa các cấu trúc và tàu lớn vào quỹ đạo. Mặc dù nó đã không hoạt động trong nhiều năm, nhưng nó chứa một gravcore chức năng.</AncientGravEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <AncientGravEngine.comps.CompInspectString.inspectString>TODO</AncientGravEngine.comps.CompInspectString.inspectString>
+  <AncientGravEngine.comps.CompInspectString.inspectString>Chứa: Gravcore</AncientGravEngine.comps.CompInspectString.inspectString>
   
   <!-- EN: ancient grav reactor -->
-  <AncientGravReactor.label>TODO</AncientGravReactor.label>
+  <AncientGravReactor.label>lò phản ứng grav cổ đại</AncientGravReactor.label>
   <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged. -->
-  <AncientGravReactor.description>TODO</AncientGravReactor.description>
+  <AncientGravReactor.description>Một máy phát điện cổ xưa chạy bằng gravcore. Từng có khả năng tạo ra một lượng lớn năng lượng, giờ đây nó đã rơi vào tình trạng hư hỏng. Tấm chắn ngăn chặn lò phản ứng bị rò rỉ, gây ra bụi phóng xạ độc hại bao phủ toàn bộ khu vực.\n\nHack hoặc phá hủy lò phản ứng để lấy lõi hấp dẫn. Được cảnh báo, nó có thể phát nổ nếu bị hỏng.</AncientGravReactor.description>
   <!-- EN: Gravcore obtained -->
-  <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>TODO</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
+  <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>Gravcore thu được</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
   <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
-  <AncientGravReactor.comps.CompHackable.destroyedLetterText>TODO</AncientGravReactor.comps.CompHackable.destroyedLetterText>
+  <AncientGravReactor.comps.CompHackable.destroyedLetterText>Bạn đã lấy được một lõi hấp dẫn từ lò phản ứng cổ đại.\n\nLò phản ứng đang ngừng hoạt động và bụi phóng xạ độc hại đã bắt đầu được loại bỏ.</AncientGravReactor.comps.CompHackable.destroyedLetterText>
   <!-- EN: Gravcore obtained -->
-  <AncientGravReactor.comps.CompHackable.hackedLetterLabel>TODO</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
+  <AncientGravReactor.comps.CompHackable.hackedLetterLabel>Gravcore thu được</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
   <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
-  <AncientGravReactor.comps.CompHackable.hackedLetterText>TODO</AncientGravReactor.comps.CompHackable.hackedLetterText>
+  <AncientGravReactor.comps.CompHackable.hackedLetterText>Bạn đã lấy được một lõi hấp dẫn từ lò phản ứng cổ đại.\n\nLò phản ứng đang ngừng hoạt động và bụi phóng xạ độc hại đã bắt đầu được loại bỏ.</AncientGravReactor.comps.CompHackable.hackedLetterText>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_definite}. -->
-  <AncientGravReactor.comps.CompHackable.hackedMessage>TODO</AncientGravReactor.comps.CompHackable.hackedMessage>
+  <AncientGravReactor.comps.CompHackable.hackedMessage>{HACKER_labelShort} đã hoàn thành hack {SUBJECT_definite}.</AncientGravReactor.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to obtain gravcore. -->
-  <AncientGravReactor.comps.CompHackable.notHackedInspectString>TODO</AncientGravReactor.comps.CompHackable.notHackedInspectString>
+  <AncientGravReactor.comps.CompHackable.notHackedInspectString>Hack để có được gravcore.</AncientGravReactor.comps.CompHackable.notHackedInspectString>
   <!-- EN: Ancient reactor -->
-  <AncientGravReactor.comps.CompLetterOnRevealed.label>TODO</AncientGravReactor.comps.CompLetterOnRevealed.label>
+  <AncientGravReactor.comps.CompLetterOnRevealed.label>Lò phản ứng cổ</AncientGravReactor.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the ancient grav reactor. Hack it or destroy it to obtain a gravcore and end the toxic fallout.\n\nBe warned, it may explode if damaged. -->
-  <AncientGravReactor.comps.CompLetterOnRevealed.text>TODO</AncientGravReactor.comps.CompLetterOnRevealed.text>
+  <AncientGravReactor.comps.CompLetterOnRevealed.text>Bạn đã phát hiện ra lò phản ứng trọng lực cổ đại. Hack nó hoặc phá hủy nó để lấy một lõi hấp dẫn và chấm dứt bụi phóng xạ độc hại.\n\nHãy cảnh báo, nó có thể phát nổ nếu bị hư hại.</AncientGravReactor.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient stockpile entrance -->
-  <AncientHatch.label>TODO</AncientHatch.label>
+  <AncientHatch.label>lối vào kho dự trữ cổ xưa</AncientHatch.label>
   <!-- EN: The entrance to a long-abandoned subterranean facility. Hack it to open the hatch. -->
-  <AncientHatch.description>TODO</AncientHatch.description>
+  <AncientHatch.description>Lối vào một cơ sở ngầm bị bỏ hoang từ lâu. Hack nó để mở cửa sập.</AncientHatch.description>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <AncientHatch.comps.CompHackable.hackedMessage>TODO</AncientHatch.comps.CompHackable.hackedMessage>
+  <AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} đã hoàn thành hack {SUBJECT_labelNoParenthesisDef}.</AncientHatch.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
-  <AncientHatch.comps.CompHackable.notHackedInspectString>TODO</AncientHatch.comps.CompHackable.notHackedInspectString>
+  <AncientHatch.comps.CompHackable.notHackedInspectString>Hack để mở.</AncientHatch.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient stockpile exit -->
-  <AncientHatchExit.label>TODO</AncientHatchExit.label>
+  <AncientHatchExit.label>Lối ra của kho dự trữ cổ đại</AncientHatchExit.label>
   <!-- EN: A ladder which links to the surface hatch above. -->
-  <AncientHatchExit.description>TODO</AncientHatchExit.description>
+  <AncientHatchExit.description>Một chiếc thang liên kết với bề mặt nở trên.</AncientHatchExit.description>
   
   <!-- EN: ancient mining charge -->
-  <AncientMiningCharge.label>TODO</AncientMiningCharge.label>
+  <AncientMiningCharge.label>Phí khai thác cổ đại</AncientMiningCharge.label>
   <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientMiningCharge.description>TODO</AncientMiningCharge.description>
+  <AncientMiningCharge.description>Một thiết bị nổ được sử dụng để nhanh chóng nổ tung đá. Nó được làm từ nhiên liệu hóa học tinh chế. Chất nổ đã cũ, nhưng vẫn sẵn sàng phát nổ.\n\nVụ nổ đủ mạnh để xuyên qua các bức tường.</AncientMiningCharge.description>
   
   <!-- EN: ancient security terminal -->
-  <AncientSecurityTerminal.label>TODO</AncientSecurityTerminal.label>
+  <AncientSecurityTerminal.label>Thiết bị đầu cuối an ninh cổ xưa</AncientSecurityTerminal.label>
   <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->
-  <AncientSecurityTerminal.description>TODO</AncientSecurityTerminal.description>
+  <AncientSecurityTerminal.description>Một nhà ga cổ. Hack nó để vô hiệu hóa các hệ thống bảo mật gần đó.</AncientSecurityTerminal.description>
   <!-- EN: Blast door opened -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>Cửa nổ mở</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to open a blast door. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>{HACKER_nameDef} sử dụng thiết bị đầu cuối an ninh cổ đại để mở một cánh cửa nổ.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
   <!-- EN: Turret disabled -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>Tháp pháo bị vô hiệu hóa</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to disable a turret. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>{HACKER_nameDef} sử dụng thiết bị đầu cuối an ninh cổ đại để vô hiệu hóa tháp pháo.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
   <!-- EN: Turret reprogrammed -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>Tháp pháo được lập trình lại</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>{HACKER_nameDef} sử dụng thiết bị đầu cuối an ninh cổ đại để lập trình lại một tháp pháo. Tháp pháo bây giờ sẽ chỉ nhắm mục tiêu vào kẻ thù.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
   <!-- EN: {HACKER_nameDef} couldn't find any security systems using the ancient security terminal. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>{HACKER_nameDef} không thể tìm thấy bất kỳ hệ thống an ninh nào sử dụng thiết bị đầu cuối an ninh cổ đại.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
   
   <!-- EN: ancient terraformer -->
-  <AncientTerraformer.label>TODO</AncientTerraformer.label>
+  <AncientTerraformer.label>Terraformer cổ đại</AncientTerraformer.label>
   <!-- EN: An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore. -->
-  <AncientTerraformer.description>TODO</AncientTerraformer.description>
+  <AncientTerraformer.description>Một thiết bị tạo hình địa hình cổ xưa được cung cấp bởi một gravcore. Nó đã bắt đầu trục trặc, khiến nhiệt độ giảm mạnh.\n\nPhá hủy terraformer để lấy một gravcore.</AncientTerraformer.description>
   <!-- EN: Contains: Gravcore -->
-  <AncientTerraformer.comps.CompInspectString.inspectString>TODO</AncientTerraformer.comps.CompInspectString.inspectString>
+  <AncientTerraformer.comps.CompInspectString.inspectString>Chứa: Gravcore</AncientTerraformer.comps.CompInspectString.inspectString>
   <!-- EN: Ancient terraformer -->
-  <AncientTerraformer.comps.CompLetterOnRevealed.label>TODO</AncientTerraformer.comps.CompLetterOnRevealed.label>
+  <AncientTerraformer.comps.CompLetterOnRevealed.label>Nhà địa hình cổ đại</AncientTerraformer.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the malfunctioning terraformer. Destroy it to obtain a gravcore and end the deep freeze. -->
-  <AncientTerraformer.comps.CompLetterOnRevealed.text>TODO</AncientTerraformer.comps.CompLetterOnRevealed.text>
+  <AncientTerraformer.comps.CompLetterOnRevealed.text>Bạn đã phát hiện ra terraformer bị trục trặc. Phá hủy nó để có được một gravcore và kết thúc quá trình đóng băng sâu.</AncientTerraformer.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient transport pod -->
-  <AncientTransportPod.label>TODO</AncientTransportPod.label>
+  <AncientTransportPod.label>Pod vận chuyển cổ đại</AncientTransportPod.label>
   <!-- EN: An ancient cargo pod capable of carrying people, animals, and items. It's still in working condition. -->
-  <AncientTransportPod.description>TODO</AncientTransportPod.description>
+  <AncientTransportPod.description>Một khoang chở hàng cổ xưa có khả năng chở người, động vật và vật phẩm. Nó vẫn đang trong tình trạng hoạt động.</AncientTransportPod.description>
   
   <!-- EN: ancient uplink -->
-  <AncientUplink.label>TODO</AncientUplink.label>
+  <AncientUplink.label>đường lên cổ đại</AncientUplink.label>
   <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
-  <AncientUplink.description>TODO</AncientUplink.description>
+  <AncientUplink.description>Một máy phát cổ được sử dụng để liên lạc an toàn giữa bề mặt và quỹ đạo. Hack nó để xác định vị trí cuối cùng mà nó truyền đến.</AncientUplink.description>
   <!-- EN: Hacked. -->
-  <AncientUplink.comps.CompHackable.hackedInspectString>TODO</AncientUplink.comps.CompHackable.hackedInspectString>
+  <AncientUplink.comps.CompHackable.hackedInspectString>Hacked.</AncientUplink.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <AncientUplink.comps.CompHackable.hackedMessage>TODO</AncientUplink.comps.CompHackable.hackedMessage>
+  <AncientUplink.comps.CompHackable.hackedMessage>{HACKER_labelShort} đã hoàn thành hack {SUBJECT_labelNoParenthesisDef}.</AncientUplink.comps.CompHackable.hackedMessage>
   <!-- EN: Hack for information. -->
-  <AncientUplink.comps.CompHackable.notHackedInspectString>TODO</AncientUplink.comps.CompHackable.notHackedInspectString>
+  <AncientUplink.comps.CompHackable.notHackedInspectString>Hack để tìm thông tin.</AncientUplink.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: anticraft beam -->
-  <AnticraftBeam.label>TODO</AnticraftBeam.label>
+  <AnticraftBeam.label>chùm phản thủ công</AnticraftBeam.label>
   <!-- EN: A massive anti-ship beam weapon. This weapon is intended to destroy flying craft, so it can't aim low enough to hit ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
-  <AnticraftBeam.description>TODO</AnticraftBeam.description>
+  <AnticraftBeam.description>Một vũ khí chùm tia chống hạm khổng lồ. Vũ khí này được thiết kế để phá hủy tàu bay, vì vậy nó không thể nhắm đủ thấp để bắn trúng các mục tiêu trên mặt đất.\n\nCác tàu sử dụng thiết bị gây nhiễu tín hiệu siêu công nghệ có khả năng né tránh những vũ khí này.</AnticraftBeam.description>
   
   <!-- EN: cerebrex core -->
-  <CerebrexCore.label>TODO</CerebrexCore.label>
+  <CerebrexCore.label>lõi Cerebrex</CerebrexCore.label>
   <!-- EN: The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it. -->
-  <CerebrexCore.description>TODO</CerebrexCore.description>
+  <CerebrexCore.description>Tâm trí suy nghĩ của bầy máy móc. Lõi cerebrex chỉ huy các cơ khí trên toàn bộ hành tinh.\n\nTrọng tâm của nó là lõi nhân vật AI biết, suy nghĩ và tin rằng nó phải giết mọi người trên hành tinh này. Theo một nghĩa nào đó, sự thôi thúc này là một mệnh lệnh được lập trình bởi một nhà lãnh đạo quân sự con người cách đây hàng ngàn năm. Theo một nghĩa khác, đó là sự thù hận sôi sục lạnh lùng. Dù bằng cách nào, nếu bạn giải phóng nhân vật AI, bạn có thể thiết lập lại mong muốn của nó và sử dụng nó cho các mục đích khác.\n\nCấu trúc được bảo vệ bởi các bộ ổn định gần đó. Phá hủy tất cả các bộ ổn định não để truy cập vào nó.</CerebrexCore.description>
   <!-- EN: Inspect the core. -->
-  <CerebrexCore.comps.CompCerebrexCore.activateDescString>TODO</CerebrexCore.comps.CompCerebrexCore.activateDescString>
+  <CerebrexCore.comps.CompCerebrexCore.activateDescString>Kiểm tra lõi.</CerebrexCore.comps.CompCerebrexCore.activateDescString>
   <!-- EN: Inspect... -->
-  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>TODO</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>Kiểm tra...</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
   <!-- EN: inspecting core: {1}s -->
-  <CerebrexCore.comps.CompCerebrexCore.activatingString>TODO</CerebrexCore.comps.CompCerebrexCore.activatingString>
+  <CerebrexCore.comps.CompCerebrexCore.activatingString>Kiểm tra lõi: {1}</CerebrexCore.comps.CompCerebrexCore.activatingString>
   <!-- EN: inspecting core -->
-  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>TODO</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
+  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>Kiểm tra lõi</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
   <!-- EN: Choose who should do this -->
-  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>TODO</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>Chọn ai nên làm điều này</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
   <!-- EN: inspect core -->
-  <CerebrexCore.comps.CompCerebrexCore.jobString>TODO</CerebrexCore.comps.CompCerebrexCore.jobString>
+  <CerebrexCore.comps.CompCerebrexCore.jobString>Kiểm tra lõi</CerebrexCore.comps.CompCerebrexCore.jobString>
   
   <!-- EN: destroyed cerebrex core -->
-  <CerebrexCore_Destroyed.label>TODO</CerebrexCore_Destroyed.label>
+  <CerebrexCore_Destroyed.label>Lõi Cerebrex bị phá hủy</CerebrexCore_Destroyed.label>
   <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
-  <CerebrexCore_Destroyed.description>TODO</CerebrexCore_Destroyed.description>
+  <CerebrexCore_Destroyed.description>Mối quan hệ thần kinh bị đập vỡ của bầy cơ khí từng chỉ huy các cơ giới trên khắp hành tinh.</CerebrexCore_Destroyed.description>
   <!-- EN: Destroy for valuable resources. -->
-  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>TODO</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
+  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>Tiêu diệt để lấy tài nguyên quý giá.</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
   
   <!-- EN: cerebrex stabilizer -->
-  <CerebrexStabilizer.label>TODO</CerebrexStabilizer.label>
+  <CerebrexStabilizer.label>Bộ ổn định Cerebrex</CerebrexStabilizer.label>
   <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response. -->
-  <CerebrexStabilizer.description>TODO</CerebrexStabilizer.description>
+  <CerebrexStabilizer.description>Một máy phát điện lá chắn từ xa làm cho lõi cerebrex gần đó gần như bất khả chiến bại. Phá hủy tất cả các bộ ổn định sẽ cho phép tiếp cận trực tiếp vào lõi não bộ.\n\nHãy cẩn thận, phá hủy bộ ổn định sẽ thúc đẩy phản ứng phòng thủ.</CerebrexStabilizer.description>
   
   <!-- EN: locust cocoon -->
-  <CocoonLocust.label>TODO</CocoonLocust.label>
+  <CocoonLocust.label>kén châu chấu</CocoonLocust.label>
   <!-- EN: A stasis cocoon containing a locust.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
-  <CocoonLocust.description>TODO</CocoonLocust.description>
+  <CocoonLocust.description>Một cái kén ứ đọng chứa một con châu chấu.\n\nKhi điều kiện khắc nghiệt, côn trùng đôi khi tạo thành kén ứ đọng và đào hang dưới lòng đất. Những cái kén này giữ cho côn trùng an toàn khỏi lửa, nhiệt độ khắc nghiệt và các mối đe dọa khác trong nhiều năm.\n\nCác chất ô nhiễm có thể kích thích kén và khiến chúng nổi lên, và các chất ô nhiễm mạnh có thể thu hút kén từ khoảng cách rất xa.\n\nKén không làm gì nếu chúng không bị quấy rầy. Nếu một cái kén bị xáo trộn hoặc bị phá hủy, côn trùng bên trong sẽ thức tỉnh và tấn công, kích hoạt những cái kén khác gần đó trong quá trình này.</CocoonLocust.description>
   
   <!-- EN: egg sac -->
-  <EggSac.label>TODO</EggSac.label>
+  <EggSac.label>túi trứng</EggSac.label>
   <!-- EN: A slimy sac containing an insect larva. The larval gestation process generates a faint bioluminescent glow. -->
-  <EggSac.description>TODO</EggSac.description>
+  <EggSac.description>Một túi nhầy nhụa chứa ấu trùng côn trùng. Quá trình mang thai ấu trùng tạo ra ánh sáng phát quang sinh học mờ nhạt.</EggSac.description>
   
   <!-- EN: gauss cannon -->
-  <GaussCannon.label>TODO</GaussCannon.label>
+  <GaussCannon.label>Pháo Gauss</GaussCannon.label>
   <!-- EN: A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. The cannon is intended to destroy incoming ships or shuttles, so it can't aim at ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
-  <GaussCannon.description>TODO</GaussCannon.description>
+  <GaussCannon.description>Một khẩu pháo chống hạm khổng lồ sử dụng nam châm điện để phóng phi tiêu kim loại lớn với tốc độ cực cao. Khẩu pháo được thiết kế để phá hủy các tàu hoặc tàu con thoi đang bay tới, vì vậy nó không thể nhắm vào các mục tiêu mặt đất.\n\nCác tàu sử dụng thiết bị gây nhiễu tín hiệu siêu công nghệ có khả năng né tránh những vũ khí này.</GaussCannon.description>
   
   <!-- EN: mechanoid drop pod -->
-  <MechanoidDropPod.label>TODO</MechanoidDropPod.label>
+  <MechanoidDropPod.label>Cơ khí thả vỏ</MechanoidDropPod.label>
   <!-- EN: A launchable cargo pod intended to carry mechanoids. It is also usable for people, animals, and items. -->
-  <MechanoidDropPod.description>TODO</MechanoidDropPod.description>
+  <MechanoidDropPod.description>Một khoang chở hàng có thể phóng được thiết kế để chở cơ khí. Nó cũng có thể sử dụng cho người, động vật và vật dụng.</MechanoidDropPod.description>
   
   <!-- EN: mechanoid processor -->
-  <MechanoidProcessor.label>TODO</MechanoidProcessor.label>
+  <MechanoidProcessor.label>Bộ xử lý cơ học</MechanoidProcessor.label>
   <!-- EN: A powerful mechanoid computer. -->
-  <MechanoidProcessor.description>TODO</MechanoidProcessor.description>
+  <MechanoidProcessor.description>Một máy tính cơ học mạnh mẽ.</MechanoidProcessor.description>
   
   <!-- EN: mechhive birther -->
-  <MechhiveAssembler.label>TODO</MechhiveAssembler.label>
+  <MechhiveAssembler.label>người sinh ra Mechhive</MechhiveAssembler.label>
   <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
-  <MechhiveAssembler.description>TODO</MechhiveAssembler.description>
+  <MechhiveAssembler.description>Một nhà máy cơ khí tự động. Nó định kỳ sinh ra các cơ khí mới.</MechhiveAssembler.description>
   
   <!-- EN: mech pylon -->
-  <MechPylon.label>TODO</MechPylon.label>
+  <MechPylon.label>Trụ mech</MechPylon.label>
   <!-- EN: A node in a distributed mechanoid computation network. -->
-  <MechPylon.description>TODO</MechPylon.description>
+  <MechPylon.description>Một nút trong mạng tính toán cơ học phân tán.</MechPylon.description>
   
   <!-- EN: mechanoid relay -->
-  <MechRelay.label>TODO</MechRelay.label>
+  <MechRelay.label>rơ le cơ học</MechRelay.label>
   <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
-  <MechRelay.description>TODO</MechRelay.description>
+  <MechRelay.description>Một nút điều phối tín hiệu trên mạng truyền thông cơ học trên toàn hành tinh. Các tín hiệu chỉ huy bắt nguồn từ mechhive - trung tâm của trí thông minh cơ học.</MechRelay.description>
   <!-- EN: Hack or destroy relay stabilizers to obtain gravcore. -->
-  <MechRelay.comps.CompMechRelay.activeInspectString>TODO</MechRelay.comps.CompMechRelay.activeInspectString>
+  <MechRelay.comps.CompMechRelay.activeInspectString>Hack hoặc phá hủy bộ ổn định rơ le để lấy gravcore.</MechRelay.comps.CompMechRelay.activeInspectString>
   <!-- EN: Relay crash -->
-  <MechRelay.comps.CompMechRelay.crashedLetterLabel>TODO</MechRelay.comps.CompMechRelay.crashedLetterLabel>
+  <MechRelay.comps.CompMechRelay.crashedLetterLabel>Sự cố rơ le</MechRelay.comps.CompMechRelay.crashedLetterLabel>
   <!-- EN: The mechanoid relay has crashed to the ground. Destroy it to obtain a gravcore.\n\nBe warned, hostile mechanoids will soon arrive in response to the relay going offline. -->
-  <MechRelay.comps.CompMechRelay.crashedLetterText>TODO</MechRelay.comps.CompMechRelay.crashedLetterText>
+  <MechRelay.comps.CompMechRelay.crashedLetterText>Rơ le cơ khí đã rơi xuống đất. Phá hủy nó để có được một chiếc gravcore.\n\nHãy cảnh báo, các cơ chế thù địch sẽ sớm đến để đáp lại việc chuyển tiếp ngoại tuyến.</MechRelay.comps.CompMechRelay.crashedLetterText>
   <!-- EN: Destabilizing -->
-  <MechRelay.comps.CompMechRelay.destabilizationInspectString>TODO</MechRelay.comps.CompMechRelay.destabilizationInspectString>
+  <MechRelay.comps.CompMechRelay.destabilizationInspectString>Gây mất ổn định</MechRelay.comps.CompMechRelay.destabilizationInspectString>
   <!-- EN: The mechanoid relay has begun to destabilize. -->
-  <MechRelay.comps.CompMechRelay.destabilizationMessage>TODO</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  <MechRelay.comps.CompMechRelay.destabilizationMessage>Rơ le cơ học đã bắt đầu mất ổn định.</MechRelay.comps.CompMechRelay.destabilizationMessage>
   
   <!-- EN: crashed mechanoid relay -->
-  <MechRelay_Crashed.label>TODO</MechRelay_Crashed.label>
+  <MechRelay_Crashed.label>Rơ le cơ học bị va chạm</MechRelay_Crashed.label>
   <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
-  <MechRelay_Crashed.description>TODO</MechRelay_Crashed.description>
+  <MechRelay_Crashed.description>Một nút điều phối tín hiệu trên mạng truyền thông cơ học trên toàn hành tinh. Các tín hiệu chỉ huy bắt nguồn từ mechhive - trung tâm của trí thông minh cơ học.</MechRelay_Crashed.description>
   <!-- EN: Contains: Gravcore -->
-  <MechRelay_Crashed.comps.CompInspectString.inspectString>TODO</MechRelay_Crashed.comps.CompInspectString.inspectString>
+  <MechRelay_Crashed.comps.CompInspectString.inspectString>Chứa: Gravcore</MechRelay_Crashed.comps.CompInspectString.inspectString>
   
   <!-- EN: relay stabilizer -->
-  <MechStabilizer.label>TODO</MechStabilizer.label>
+  <MechStabilizer.label>bộ ổn định rơ le</MechStabilizer.label>
   <!-- EN: A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option. -->
-  <MechStabilizer.description>TODO</MechStabilizer.description>
+  <MechStabilizer.description>Một máy chiếu lá chắn bảo vệ một rơ le cơ khí gần đó. Tất cả các bộ ổn định phải được tấn công hoặc phá hủy để vô hiệu hóa lá chắn.\n\nPhá hủy bộ ổn định sẽ thúc đẩy phản ứng phòng thủ. Hack là một lựa chọn chậm hơn nhưng an toàn hơn.</MechStabilizer.description>
   <!-- EN: Deactivated. -->
-  <MechStabilizer.comps.CompHackable.hackedInspectString>TODO</MechStabilizer.comps.CompHackable.hackedInspectString>
+  <MechStabilizer.comps.CompHackable.hackedInspectString>Tắt.</MechStabilizer.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <MechStabilizer.comps.CompHackable.hackedMessage>TODO</MechStabilizer.comps.CompHackable.hackedMessage>
+  <MechStabilizer.comps.CompHackable.hackedMessage>{HACKER_labelShort} đã hoàn thành hack {SUBJECT_labelNoParenthesisDef}.</MechStabilizer.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to disable stabilizer. -->
-  <MechStabilizer.comps.CompHackable.notHackedInspectString>TODO</MechStabilizer.comps.CompHackable.notHackedInspectString>
+  <MechStabilizer.comps.CompHackable.notHackedInspectString>Hack để vô hiệu hóa bộ ổn định.</MechStabilizer.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: fortified wall -->
-  <OrbitalAncientFortifiedWall.label>TODO</OrbitalAncientFortifiedWall.label>
+  <OrbitalAncientFortifiedWall.label>Bức tường kiên cố</OrbitalAncientFortifiedWall.label>
   <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
-  <OrbitalAncientFortifiedWall.description>TODO</OrbitalAncientFortifiedWall.description>
+  <OrbitalAncientFortifiedWall.description>Một bức tường được gia cố nặng làm bằng polyme siêu công nghệ.</OrbitalAncientFortifiedWall.description>
   
   <!-- EN: passenger shuttle -->
-  <PassengerShuttle.label>TODO</PassengerShuttle.label>
+  <PassengerShuttle.label>Xe đưa đón hành khách</PassengerShuttle.label>
   <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. It is capable of reaching orbital locations. -->
-  <PassengerShuttle.description>TODO</PassengerShuttle.description>
+  <PassengerShuttle.description>Một tàu con thoi chạy bằng nhiên liệu hóa học được thiết kế để di chuyển đường dài. Nó có khả năng tiếp cận các vị trí quỹ đạo.</PassengerShuttle.description>
   <!-- EN: {0} is ready to launch again. -->
-  <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>TODO</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
+  <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} đã sẵn sàng để ra mắt trở lại.</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: Chemfuel -->
-  <PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>TODO</PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>
+  <PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>Nhiên liệu hóa học</PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Chemfuel -->
-  <PassengerShuttle.comps.CompRefuelable.fuelLabel>TODO</PassengerShuttle.comps.CompRefuelable.fuelLabel>
+  <PassengerShuttle.comps.CompRefuelable.fuelLabel>Nhiên liệu hóa học</PassengerShuttle.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: surveying scanner -->
-  <SurveyScanner.label>TODO</SurveyScanner.label>
+  <SurveyScanner.label>Máy quét khảo sát</SurveyScanner.label>
   <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
-  <SurveyScanner.description>TODO</SurveyScanner.description>
+  <SurveyScanner.description>Một đơn vị cảm biến băng rộng có thể phát hiện và lập bản đồ các tính năng khác nhau trong một khu vực cục bộ.</SurveyScanner.description>
   <!-- EN: Scanning local area: {DURATION} -->
-  <SurveyScanner.comps.CompCountdown.label>TODO</SurveyScanner.comps.CompCountdown.label>
+  <SurveyScanner.comps.CompCountdown.label>Quét khu vực cục bộ: {DURATION}</SurveyScanner.comps.CompCountdown.label>
   
 </LanguageData>

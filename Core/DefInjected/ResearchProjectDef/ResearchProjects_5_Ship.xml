@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: starflight basics -->
   <ShipBasics.label>cơ bản cho chuyến bay</ShipBasics.label>
   <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
@@ -8,100 +9,83 @@
   <ShipBasics.discoveredLetterText>Thoát khỏi hành tinh này - cuối cùng sẽ là tự do và có thể là trở về nhà.\n\nNhưng cũng cực kỳ nguy hiểm.\n\nNhiều linh hồn tuyệt vọng muốn rời khỏi hành tinh này. Lò phản ứng tàu mất 15 ngày để sạc lên. Khi bạn bắt đầu quá trình đó, lò phản ứng của tàu sẽ phát ra một chữ ký năng lượng có thể phát hiện được từ cách xa hàng ngàn km. Raiders sẽ đổ xô tấn công bạn theo từng đợt, với cường độ bạn chưa từng thấy. Các cỗ máy chiến đấu cơ cũng được biết là bị thu hút bởi những tín hiệu năng lượng như vậy vì những lý do bí ẩn của riêng họ.\n\nNó sẽ không bắt đầu cho đến khi bạn kích hoạt lò phản ứng của tàu, nhưng khi đó, nó sẽ trở nên hung dữ. Bạn sẽ cần dự trữ tài nguyên, vũ khí và phòng thủ cho cuộc tấn công dữ dội nếu bạn hy vọng thoát chết.</ShipBasics.discoveredLetterText>
   <!-- EN: About: Launching the ship -->
   <ShipBasics.discoveredLetterTitle>Giới thiệu: Phóng tàu</ShipBasics.discoveredLetterTitle>
-  <!--EN: <li>subject->starship structural engineering</li>
+  <!-- EN:
+    <li>subject->starship structural engineering</li>
     <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
     <li>subject_story->was a structural designer in an urbworld skyripper district</li>
     <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
-    <li>subject_gerund->constructing starship structures</li>-->
-  <!--VI: <li>chủ đề-> kỹ thuật kết cấu tàu vũ trụ</li>
-    <li>subject_story-> kỹ sư phi thuyền được tuyển dụng cho một hạm đội Glitterworld</li>
-    <li>subject_story-> là một nhà thiết kế kết cấu ở một quận urbworld skyripper</li>
-    Những <li>con tàu đắm subject_story > thu hoạch trong vành đai đổ nát của một thế giới chết</li>
-    <li>subject_gerund-> xây dựng cấu trúc tàu vũ trụ</li>-->
+    <li>subject_gerund->constructing starship structures</li>
+  -->
   <ShipBasics.generalRules.rulesStrings>TODO</ShipBasics.generalRules.rulesStrings>
+  
   <!-- EN: machine persuasion -->
   <ShipComputerCore.label>Lõi trí tuệ nhân tạo</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
   <ShipComputerCore.description>Xây dựng một hệ thống tín hiệu phản hồi để buộc một lõi AI hiện có đóng vai trò là thuyền trưởng AI của một con tàu. Vì mọi người ngủ trong khi di chuyển giữa các vì sao, nên một lõi AI là cần thiết để xử lý các quyết định phức tạp của một ngôi sao dài hàng năm.</ShipComputerCore.description>
-  <!--EN: <li>subject->persona core incentivization</li>
+  <!-- EN:
+    <li>subject->persona core incentivization</li>
     <li>subject->starship AI sanity maintenance</li>
     <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
     <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
     <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
     <li>subject_gerund->incentivizing persona cores</li>
     <li>subject_gerund->maintaining starship AI sanity</li>
-    <li>subject_gerund->constructing reward-signal systems</li>-->
-  <!--VI: <li>Khuyến khích cốt lõi chủ đề>persona</li>
-    chủ <li>đề->starship duy trì sự tỉnh táo AI</li>
-    <li>subject_story-> giành lại quyền kiểm soát lõi của một con tàu bất thường bằng cách được trang bị lại cẩn thận</li>
-    <li>subject_story->thiết lập các mô phỏng quản lý thuộc địa để chiếm lõi của con tàu trong nhiều năm du hành giữa các vì sao</li>
-    <li>subject_story->giữ công ty cốt lõi của một con tàu trong một chuyến đi giữa các vì sao 'ngắn', tìm hiểu nhiều về lõi trong quá trình này</li>
-    <li>subject_gerund-> lõi nhân vật khuyến khích</li>
-    <li>subject_gerund-> duy trì sự tỉnh táo của AI tàu vũ trụ</li>
-    <li>subject_gerund > xây dựng hệ thống tín hiệu phần thưởng</li>-->
+    <li>subject_gerund->constructing reward-signal systems</li>
+  -->
   <ShipComputerCore.generalRules.rulesStrings>TODO</ShipComputerCore.generalRules.rulesStrings>
+  
   <!-- EN: vacuum cryptosleep casket -->
   <ShipCryptosleep.label>quan tài ngủ đông chân không</ShipCryptosleep.label>
   <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
   <ShipCryptosleep.description>Xây dựng các quan tài ngủ đông đủ cứng để tiếp xúc với chân không, để vận chuyển con người trên hành trình dài hàng năm giữa các vì sao.</ShipCryptosleep.description>
-  <!--EN: <li>subject->starship-grade cryptosleep caskets</li>
+  <!-- EN:
+    <li>subject->starship-grade cryptosleep caskets</li>
     <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
     <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
     <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
-    <li>subject_gerund->constructing hardened cryptosleep caskets</li>-->
-  <!--VI: quan <li>tài cryptosleep cấp chủ đề > tàu vũ trụ</li>
-    <li>subject_story-> thay thế các quan tài cryptosleep bị hỏng trên CMC Celeste, vì vậy con tàu thế hệ cũ có thể được sử dụng trở lại</li>
-    <li>subject_story-> vô tình bị đẩy vào không gian sâu thẳm, sống sót trong một chiếc quan tài tự thiết kế trong hai tháng</li>
-    <li>subject_story-> bài giảng về sự khác biệt giữa thiết bị cấp hành tinh và phi thuyền</li>
-    <li>subject_gerund-> xây dựng quan tài ngủ mật mã cứng</li>-->
+    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+  -->
   <ShipCryptosleep.generalRules.rulesStrings>TODO</ShipCryptosleep.generalRules.rulesStrings>
+  
   <!-- EN: Johnson-Tanaka drive -->
   <ShipEngine.label>Thiết bị điều khiển Johnson-Tanaka</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
   <ShipEngine.description>Xây dựng thiết bị điều khiển Johnson-Tanaka cho một con tàu. Thiết bị điều khiển JT có thể đẩy bạn đến các ngôi sao khác bằng cách tận dụng các hiệu ứng quy mô lượng tử để truyền động lượng tới các ngôi sao ở xa. Tất nhiên, như với tất cả các tàu không gian, vẫn phải mất nhiều năm để đến bất cứ nơi nào.</ShipEngine.description>
-  <!--EN: <li>subject->Johnson-Tanaka theory</li>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
     <li>subject->exotic momentum transfer</li>
     <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
     <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
     <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
-    <li>subject_gerund->constructing starship drives</li>-->
-  <!--VI: <li>chủ đề-> lý thuyết Johnson-Tanaka</li>
-    <li>chuyển động lượng đối tượng > kỳ lạ</li>
-    <li>subject_story-> giảng dạy tại trường đại học về Johnson, Tanaka và hiệu ứng quy mô lượng tử</li>
-    <li>subject_story->xây dựng một động lực Johnson-Tanaka từ các nguyên tắc đầu tiên cho một luận án</li>
-    <li>subject_story-> duy trì chuyến bay Johnson-Tanaka trong hai thập kỷ, khi con tàu di chuyển giữa các vì sao</li>
-    <li>subject_gerund-> xây dựng các ổ đĩa tàu vũ trụ</li>-->
+    <li>subject_gerund->constructing starship drives</li>
+  -->
   <ShipEngine.generalRules.rulesStrings>TODO</ShipEngine.generalRules.rulesStrings>
+  
   <!-- EN: starship reactor -->
   <ShipReactor.label>lò phản ứng phi thuyền</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
   <ShipReactor.description>Xây dựng một lò phản ứng hạt nhân trong thời gian dài để cung cấp năng lượng cho một con tàu. Lưu ý rằng các lò phản ứng có một quá trình khởi động dài sẽ thu hút bọn cướp.</ShipReactor.description>
-  <!--EN: <li>subject->starship nuclear reactor</li>
+  <!-- EN:
+    <li>subject->starship nuclear reactor</li>
     <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
     <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
     <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
-    <li>subject_gerund->constructing starship reactors</li>-->
-  <!--VI: <li>đối tượng-> lò phản ứng hạt nhân Starship</li>
-    <li>subject_story-> đã xây dựng một lò phản ứng mới cho một tàu thuộc địa, nhưng chưa bao giờ sống để chứng kiến nó cất cánh</li>
-    <li>subject_story-> bảo vệ con tàu trong khi lò phản ứng kéo dài, chống lại những kẻ cướp bóc tuyệt vọng để thoát khỏi thế giới</li>
-    <li>subject_story->sử dụng một lò phản ứng tàu vũ trụ làm nguồn điện dự phòng cho một ngân hàng gen được chôn vùi bên dưới chỏm băng của hành tinh</li>
-    <li>subject_gerund > xây dựng lò phản ứng tàu vũ trụ</li>-->
+    <li>subject_gerund->constructing starship reactors</li>
+  -->
   <ShipReactor.generalRules.rulesStrings>TODO</ShipReactor.generalRules.rulesStrings>
+  
   <!-- EN: starflight sensors -->
   <ShipSensorCluster.label>cảm biến cho chuyến bay</ShipSensorCluster.label>
   <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
   <ShipSensorCluster.description>Xây dựng các cảm biến tầm xa cho một phi thuyền. Những cảm biến này rất cần thiết cho việc điều hướng, liên lạc và tránh mối đe dọa.</ShipSensorCluster.description>
-  <!--EN: <li>subject->interstellar navigation</li>
+  <!-- EN:
+    <li>subject->interstellar navigation</li>
     <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
     <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
     <li>subject_story->refined the design of long-range sensors, improving their utility</li>
     <li>subject_gerund->navigating interstellar space</li>
-    <li>subject_gerund->constructing starship sensors</li>-->
-  <!--VI: <li>Điều hướng đối tượng > giữa các vì sao</li>
-    <li>subject_story > cảm biến tàu vũ trụ nguyên mẫu được sử dụng để phát hiện một tiểu hành tinh cấp độ tuyệt chủng đang đến và sơ tán hành tinh</li>
-    <li>subject_story-> được tuyển dụng làm hoa tiêu và đầu bếp trên một du thuyền sao Glitterworld</li>
-    <li>subject_story-> tinh chỉnh thiết kế của cảm biến tầm xa, cải thiện tiện ích của chúng</li>
-    <li>subject_gerund-> điều hướng không gian giữa các vì sao</li>
-    <li>subject_gerund > chế tạo cảm biến tàu vũ trụ</li>-->
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
   <ShipSensorCluster.generalRules.rulesStrings>TODO</ShipSensorCluster.generalRules.rulesStrings>
+  
 </LanguageData>

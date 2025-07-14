@@ -1,125 +1,181 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: accept -->
   <Accept.label>chấp nhận</Accept.label>
+  
   <!-- EN: cancel -->
   <Cancel.label>hủy bỏ</Cancel.label>
+  
   <!-- EN: draft -->
   <Command_ColonistDraft.label>bản nháp</Command_ColonistDraft.label>
+  
   <!-- EN: toggle forbidden -->
   <Command_ItemForbid.label>chuyển chế độ cấm</Command_ItemForbid.label>
+  
   <!-- EN: toggle power -->
   <Command_TogglePower.label>chuyển chế độ quyền lực</Command_TogglePower.label>
+  
   <!-- EN: cancel -->
   <Designator_Cancel.label>hủy bỏ</Designator_Cancel.label>
+  
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>giải cấu trúc</Designator_Deconstruct.label>
-  <!--EN: next draw style-->
-  <!--VI: Phong cách vẽ tiếp theo-->
+  
+  <!-- EN: next draw style -->
   <Designator_NextDrawStyle.label>TODO</Designator_NextDrawStyle.label>
-  <!--EN: previous draw style-->
-  <!--VI: Kiểu vẽ trước-->
+  
+  <!-- EN: previous draw style -->
   <Designator_PreviousDrawStyle.label>TODO</Designator_PreviousDrawStyle.label>
+  
   <!-- EN: rotate left -->
   <Designator_RotateLeft.label>xoay trái</Designator_RotateLeft.label>
+  
   <!-- EN: rotate right -->
   <Designator_RotateRight.label>xoay phải</Designator_RotateRight.label>
-  <!--EN: force square dimensions-->
-  <!--VI: Kích thước hình vuông lực-->
+  
+  <!-- EN: force square dimensions -->
   <Designator_ShapeSnap.label>TODO</Designator_ShapeSnap.label>
+  
   <!-- EN: change selected debug action -->
   <Dev_ChangeSelectedDebugAction.label>thay đổi hành động gỡ lỗi đã chọn</Dev_ChangeSelectedDebugAction.label>
+  
   <!-- EN: tick once -->
   <Dev_TickOnce.label>đánh dấu một lần</Dev_TickOnce.label>
+  
   <!-- EN: toggle debug actions menu -->
   <Dev_ToggleDebugActionsMenu.label>chuyển chế độ menu hành động gỡ lỗi</Dev_ToggleDebugActionsMenu.label>
+  
   <!-- EN: toggle debug inspector -->
   <Dev_ToggleDebugInspector.label>chuyển chế độ kiểm tra gỡ lỗi</Dev_ToggleDebugInspector.label>
+  
   <!-- EN: toggle debug log -->
   <Dev_ToggleDebugLog.label>chuyển chế độ nhật ký gỡ lỗi</Dev_ToggleDebugLog.label>
+  
   <!-- EN: toggle debug log menu -->
   <Dev_ToggleDebugLogMenu.label>chuyển chế độ menu nhật ký gỡ lỗi</Dev_ToggleDebugLogMenu.label>
+  
   <!-- EN: toggle debug settings menu -->
   <Dev_ToggleDebugSettingsMenu.label>chuyển chế độ menu cài đặt gỡ lỗi</Dev_ToggleDebugSettingsMenu.label>
+  
   <!-- EN: toggle dev palette -->
   <Dev_ToggleDevPalette.label>chuyển đổi bảng dev</Dev_ToggleDevPalette.label>
+  
   <!-- EN: toggle god mode -->
   <Dev_ToggleGodMode.label>chuyển chế độ thần thánh</Dev_ToggleGodMode.label>
+  
   <!-- EN: dolly down -->
   <MapDolly_Down.label>dolly down</MapDolly_Down.label>
+  
   <!-- EN: dolly left -->
   <MapDolly_Left.label>dolly left</MapDolly_Left.label>
+  
   <!-- EN: dolly right -->
   <MapDolly_Right.label>dolly right</MapDolly_Right.label>
+  
   <!-- EN: dolly up -->
   <MapDolly_Up.label>dolly up</MapDolly_Up.label>
+  
   <!-- EN: zoom in -->
   <MapZoom_In.label>phóng to</MapZoom_In.label>
+  
   <!-- EN: zoom out -->
   <MapZoom_Out.label>thu nhỏ</MapZoom_Out.label>
+  
   <!-- EN: Misc 1 -->
   <Misc1.label>Linh tinh 1</Misc1.label>
+  
   <!-- EN: Misc 10 -->
   <Misc10.label>Linh tinh 10</Misc10.label>
+  
   <!-- EN: Misc 11 -->
   <Misc11.label>Linh tinh 11</Misc11.label>
+  
   <!-- EN: Misc 12 -->
   <Misc12.label>Linh tinh 12</Misc12.label>
+  
   <!-- EN: Misc 2 -->
   <Misc2.label>Linh tinh 2</Misc2.label>
+  
   <!-- EN: Misc 3 -->
   <Misc3.label>Linh tinh 3</Misc3.label>
+  
   <!-- EN: Misc 4 -->
   <Misc4.label>Linh tinh 4</Misc4.label>
+  
   <!-- EN: Misc 5 -->
   <Misc5.label>Linh tinh 5</Misc5.label>
+  
   <!-- EN: Misc 6 -->
   <Misc6.label>Linh tinh 6</Misc6.label>
+  
   <!-- EN: Misc 7 -->
   <Misc7.label>Linh tinh 7</Misc7.label>
+  
   <!-- EN: Misc 8 -->
   <Misc8.label>Linh tinh 8</Misc8.label>
+  
   <!-- EN: Misc 9 -->
   <Misc9.label>Linh tinh 9</Misc9.label>
+  
   <!-- EN: increment 100x -->
   <ModifierIncrement_100x.label>tăng 100x</ModifierIncrement_100x.label>
+  
   <!-- EN: increment 10x -->
   <ModifierIncrement_10x.label>tăng 10x</ModifierIncrement_10x.label>
+  
   <!-- EN: next colonist -->
   <NextColonist.label>cư dân tiếp theo</NextColonist.label>
-  <!--EN: open search window-->
-  <!--VI: Mở cửa sổ tìm kiếm-->
+  
+  <!-- EN: open search window -->
   <OpenMapSearch.label>TODO</OpenMapSearch.label>
+  
   <!-- EN: previous colonist -->
   <PreviousColonist.label>cư dân trước</PreviousColonist.label>
+  
   <!-- EN: queue order -->
   <QueueOrder.label>thứ tự đặt hàng</QueueOrder.label>
+  
   <!-- EN: select next in cell -->
   <SelectNextInCell.label>chọn tiếp theo trong ô</SelectNextInCell.label>
+  
   <!-- EN: show cell inspector -->
   <ShowCellInspector.label>hiển thị thanh tra tế bào</ShowCellInspector.label>
+  
   <!-- EN: show eyedropper -->
   <ShowEyedropper.label>hiển thị eyedropper</ShowEyedropper.label>
+  
   <!-- EN: take screenshot -->
   <TakeScreenshot.label>chụp màn hình</TakeScreenshot.label>
+  
   <!-- EN: game speed: Fast -->
   <TimeSpeed_Fast.label>tốc độ trò chơi: nhanh</TimeSpeed_Fast.label>
+  
   <!-- EN: game speed: Faster -->
   <TimeSpeed_Faster.label>tốc độ trò chơi: Nhanh hơn</TimeSpeed_Faster.label>
+  
   <!-- EN: game speed: Normal -->
   <TimeSpeed_Normal.label>tốc độ trò chơi: Bình thường</TimeSpeed_Normal.label>
+  
   <!-- EN: game speed: Slower -->
   <TimeSpeed_Slower.label>tốc độ trò chơi: Chậm hơn</TimeSpeed_Slower.label>
+  
   <!-- EN: game speed: Super fast -->
   <TimeSpeed_Superfast.label>tốc độ trò chơi: siêu nhanh</TimeSpeed_Superfast.label>
+  
   <!-- EN: game speed: Ultra fast (debug) -->
   <TimeSpeed_Ultrafast.label>tốc độ trò chơi: Siêu nhanh (gỡ lỗi)</TimeSpeed_Ultrafast.label>
+  
   <!-- EN: toggle beauty display -->
   <ToggleBeautyDisplay.label>chuyển chế độ trưng bày vẻ đẹp</ToggleBeautyDisplay.label>
+  
   <!-- EN: pause/resume game -->
   <TogglePause.label>tạm dừng / tiếp tục trò chơi</TogglePause.label>
+  
   <!-- EN: toggle room stats display -->
   <ToggleRoomStatsDisplay.label>chuyển chế độ hiển thị số liệu thống kê phòng</ToggleRoomStatsDisplay.label>
+  
   <!-- EN: toggle screenshot mode -->
   <ToggleScreenshotMode.label>chuyển chế độ ảnh chụp màn hình</ToggleScreenshotMode.label>
+  
 </LanguageData>

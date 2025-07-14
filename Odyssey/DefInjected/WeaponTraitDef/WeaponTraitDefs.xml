@@ -2,503 +2,486 @@
 <LanguageData>
   
   <!-- EN: aim assistance -->
-  <AimAssistance.label>TODO</AimAssistance.label>
+  <AimAssistance.label>Hỗ trợ mục tiêu</AimAssistance.label>
   <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
-  <AimAssistance.description>TODO</AimAssistance.description>
+  <AimAssistance.description>Vũ khí này chứa một máy tính hỗ trợ mục tiêu thô sơ giúp theo dõi mục tiêu, tăng độ chính xác ở mọi phạm vi. Thiết bị có thể tính đến những thách thức về môi trường, cho phép vũ khí bỏ qua hình phạt độ chính xác do thời tiết xấu và khói.</AimAssistance.description>
   <!-- EN: seeking -->
-  <AimAssistance.traitAdjectives.0>TODO</AimAssistance.traitAdjectives.0>
+  <AimAssistance.traitAdjectives.0>Tìm kiếm</AimAssistance.traitAdjectives.0>
   <!-- EN: accurate -->
-  <AimAssistance.traitAdjectives.1>TODO</AimAssistance.traitAdjectives.1>
+  <AimAssistance.traitAdjectives.1>chính xác</AimAssistance.traitAdjectives.1>
   <!-- EN: precise -->
-  <AimAssistance.traitAdjectives.2>TODO</AimAssistance.traitAdjectives.2>
+  <AimAssistance.traitAdjectives.2>tỉ mỉ</AimAssistance.traitAdjectives.2>
   <!-- EN: auto-aim -->
-  <AimAssistance.traitAdjectives.3>TODO</AimAssistance.traitAdjectives.3>
+  <AimAssistance.traitAdjectives.3>Tự động nhắm mục tiêu</AimAssistance.traitAdjectives.3>
   <!-- EN: self-aim -->
-  <AimAssistance.traitAdjectives.4>TODO</AimAssistance.traitAdjectives.4>
-  
-  <!-- EN: bioferrite burner -->
-  <BioferriteBurner.label>TODO</BioferriteBurner.label>
-  <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
-  <BioferriteBurner.description>TODO</BioferriteBurner.description>
-  <!-- EN: burner charge -->
-  <BioferriteBurner.abilityProps.chargeNoun>TODO</BioferriteBurner.abilityProps.chargeNoun>
-  <!-- EN: on cooldown -->
-  <BioferriteBurner.abilityProps.cooldownGerund>TODO</BioferriteBurner.abilityProps.cooldownGerund>
-  <!-- EN: fiery -->
-  <BioferriteBurner.traitAdjectives.0>TODO</BioferriteBurner.traitAdjectives.0>
-  <!-- EN: flame -->
-  <BioferriteBurner.traitAdjectives.1>TODO</BioferriteBurner.traitAdjectives.1>
-  <!-- EN: flaming -->
-  <BioferriteBurner.traitAdjectives.2>TODO</BioferriteBurner.traitAdjectives.2>
-  <!-- EN: burning -->
-  <BioferriteBurner.traitAdjectives.3>TODO</BioferriteBurner.traitAdjectives.3>
+  <AimAssistance.traitAdjectives.4>tự nhắm mục tiêu</AimAssistance.traitAdjectives.4>
   
   <!-- EN: birdshot pellets -->
-  <BirdshotPellets.label>TODO</BirdshotPellets.label>
+  <BirdshotPellets.label>Birdshot Pellets</BirdshotPellets.label>
   <!-- EN: This weapon fires shells containing smaller pellets than normal. It's much more accurate at close range, but less effective at long range. -->
-  <BirdshotPellets.description>TODO</BirdshotPellets.description>
+  <BirdshotPellets.description>Vũ khí này bắn đạn có chứa viên nhỏ hơn bình thường. Nó chính xác hơn nhiều ở cự ly gần, nhưng kém hiệu quả hơn ở tầm xa.</BirdshotPellets.description>
   <!-- EN: birdshot -->
-  <BirdshotPellets.traitAdjectives.0>TODO</BirdshotPellets.traitAdjectives.0>
+  <BirdshotPellets.traitAdjectives.0>Chim bắn</BirdshotPellets.traitAdjectives.0>
   <!-- EN: nearshot -->
-  <BirdshotPellets.traitAdjectives.1>TODO</BirdshotPellets.traitAdjectives.1>
+  <BirdshotPellets.traitAdjectives.1>Chụp gần</BirdshotPellets.traitAdjectives.1>
   
   <!-- EN: broadhead arrows -->
-  <BroadheadArrows.label>TODO</BroadheadArrows.label>
+  <BroadheadArrows.label>mũi tên đầu rộng</BroadheadArrows.label>
   <!-- EN: This bow shoots arrows tipped with sharp blades, increasing its damage. -->
-  <BroadheadArrows.description>TODO</BroadheadArrows.description>
+  <BroadheadArrows.description>Cung này bắn những mũi tên có đầu lưỡi sắc bén, tăng sát thương của nó.</BroadheadArrows.description>
   <!-- EN: strong -->
-  <BroadheadArrows.traitAdjectives.0>TODO</BroadheadArrows.traitAdjectives.0>
+  <BroadheadArrows.traitAdjectives.0>mạnh</BroadheadArrows.traitAdjectives.0>
   <!-- EN: broadhead -->
-  <BroadheadArrows.traitAdjectives.1>TODO</BroadheadArrows.traitAdjectives.1>
+  <BroadheadArrows.traitAdjectives.1>đầu rộng</BroadheadArrows.traitAdjectives.1>
   
   <!-- EN: charge capacitor -->
-  <ChargeCapacitor.label>TODO</ChargeCapacitor.label>
+  <ChargeCapacitor.label>tụ điện sạc</ChargeCapacitor.label>
   <!-- EN: This weapon amplifies pulse-charge technology with a massive capacitor, increasing damage and armor penetration. -->
-  <ChargeCapacitor.description>TODO</ChargeCapacitor.description>
+  <ChargeCapacitor.description>Vũ khí này khuếch đại công nghệ sạc xung với một tụ điện lớn, tăng sát thương và khả năng xuyên giáp</ChargeCapacitor.description>
   <!-- EN: overcharged -->
-  <ChargeCapacitor.traitAdjectives.0>TODO</ChargeCapacitor.traitAdjectives.0>
+  <ChargeCapacitor.traitAdjectives.0>tính quá mức</ChargeCapacitor.traitAdjectives.0>
   
   <!-- EN: cumbersome -->
-  <Cumbersome.label>TODO</Cumbersome.label>
+  <Cumbersome.label>cồng kềnh</Cumbersome.label>
   <!-- EN: This weapon is unwieldy to use, making it slower to aim. -->
-  <Cumbersome.description>TODO</Cumbersome.description>
+  <Cumbersome.description>Vũ khí này rất khó sử dụng, khiến việc nhắm mục tiêu chậm hơn.</Cumbersome.description>
   <!-- EN: cumbersome -->
-  <Cumbersome.traitAdjectives.0>TODO</Cumbersome.traitAdjectives.0>
+  <Cumbersome.traitAdjectives.0>cồng kềnh</Cumbersome.traitAdjectives.0>
   <!-- EN: bulky -->
-  <Cumbersome.traitAdjectives.1>TODO</Cumbersome.traitAdjectives.1>
+  <Cumbersome.traitAdjectives.1>cồng kềnh</Cumbersome.traitAdjectives.1>
   <!-- EN: awkward -->
-  <Cumbersome.traitAdjectives.2>TODO</Cumbersome.traitAdjectives.2>
+  <Cumbersome.traitAdjectives.2>vụng</Cumbersome.traitAdjectives.2>
   
   <!-- EN: custom grip -->
-  <CustomGrip.label>TODO</CustomGrip.label>
+  <CustomGrip.label>Tay cầm tùy chỉnh</CustomGrip.label>
   <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
-  <CustomGrip.description>TODO</CustomGrip.description>
+  <CustomGrip.description>Vũ khí này chứa một báng cầm tùy chỉnh giúp xử lý độ giật tốt hơn, cải thiện độ chính xác ở cự ly ngắn. Nó trông cũng rất tuyệt.</CustomGrip.description>
   <!-- EN: custom -->
-  <CustomGrip.traitAdjectives.0>TODO</CustomGrip.traitAdjectives.0>
+  <CustomGrip.traitAdjectives.0>phong tục</CustomGrip.traitAdjectives.0>
   <!-- EN: customized -->
-  <CustomGrip.traitAdjectives.1>TODO</CustomGrip.traitAdjectives.1>
+  <CustomGrip.traitAdjectives.1>Tùy chỉnh</CustomGrip.traitAdjectives.1>
   <!-- EN: gripped -->
-  <CustomGrip.traitAdjectives.2>TODO</CustomGrip.traitAdjectives.2>
+  <CustomGrip.traitAdjectives.2>Gripped</CustomGrip.traitAdjectives.2>
   <!-- EN: hi-grip -->
-  <CustomGrip.traitAdjectives.3>TODO</CustomGrip.traitAdjectives.3>
+  <CustomGrip.traitAdjectives.3>Tay cầm cao</CustomGrip.traitAdjectives.3>
   
   <!-- EN: EMP cannon -->
-  <EMPLauncher.label>TODO</EMPLauncher.label>
+  <EMPLauncher.label>Pháo EMP</EMPLauncher.label>
   <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
-  <EMPLauncher.description>TODO</EMPLauncher.description>
+  <EMPLauncher.description>Vũ khí này có một bệ phóng đạn EMP đi kèm. Vỏ phát ra một vụ nổ năng lượng điện từ làm choáng các mục tiêu điện tử như tháp pháo và cơ khí. Sau khi bắn, nó phải được nạp lại bằng thép.</EMPLauncher.description>
   <!-- EN: shell -->
-  <EMPLauncher.abilityProps.chargeNoun>TODO</EMPLauncher.abilityProps.chargeNoun>
+  <EMPLauncher.abilityProps.chargeNoun>vỏ</EMPLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <EMPLauncher.abilityProps.cooldownGerund>TODO</EMPLauncher.abilityProps.cooldownGerund>
+  <EMPLauncher.abilityProps.cooldownGerund>khi hồi chiêu</EMPLauncher.abilityProps.cooldownGerund>
   <!-- EN: EMP -->
-  <EMPLauncher.traitAdjectives.0>TODO</EMPLauncher.traitAdjectives.0>
+  <EMPLauncher.traitAdjectives.0>EMP</EMPLauncher.traitAdjectives.0>
   <!-- EN: disabling -->
-  <EMPLauncher.traitAdjectives.1>TODO</EMPLauncher.traitAdjectives.1>
+  <EMPLauncher.traitAdjectives.1>Vô hiệu hóa</EMPLauncher.traitAdjectives.1>
   <!-- EN: stunning -->
-  <EMPLauncher.traitAdjectives.2>TODO</EMPLauncher.traitAdjectives.2>
+  <EMPLauncher.traitAdjectives.2>Tuyệt vời</EMPLauncher.traitAdjectives.2>
   
   <!-- EN: EMP pulser -->
-  <EMPPulser.label>TODO</EMPPulser.label>
+  <EMPPulser.label>Bộ xung EMP</EMPPulser.label>
   <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
-  <EMPPulser.description>TODO</EMPPulser.description>
+  <EMPPulser.description>Vũ khí này có thể phát ra một vụ nổ năng lượng tập trung vào người dùng. Vụ nổ sẽ làm choáng các mục tiêu điện tử gần đó như cơ khí hoặc tháp pháo. Sau khi sử dụng, bộ xung mất một thời gian để sạc lại.</EMPPulser.description>
   <!-- EN: charge -->
-  <EMPPulser.abilityProps.chargeNoun>TODO</EMPPulser.abilityProps.chargeNoun>
+  <EMPPulser.abilityProps.chargeNoun>điện tích</EMPPulser.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <EMPPulser.abilityProps.cooldownGerund>TODO</EMPPulser.abilityProps.cooldownGerund>
+  <EMPPulser.abilityProps.cooldownGerund>khi hồi chiêu</EMPPulser.abilityProps.cooldownGerund>
   <!-- EN: pulse -->
-  <EMPPulser.traitAdjectives.0>TODO</EMPPulser.traitAdjectives.0>
+  <EMPPulser.traitAdjectives.0>mạch</EMPPulser.traitAdjectives.0>
   <!-- EN: EMP -->
-  <EMPPulser.traitAdjectives.1>TODO</EMPPulser.traitAdjectives.1>
+  <EMPPulser.traitAdjectives.1>EMP</EMPPulser.traitAdjectives.1>
   
   <!-- EN: EMP rounds -->
-  <EMPRounds.label>TODO</EMPRounds.label>
+  <EMPRounds.label>Vòng EMP</EMPRounds.label>
   <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
-  <EMPRounds.description>TODO</EMPRounds.description>
+  <EMPRounds.description>Vũ khí này bắn đạn có tụ điện EMP nhúng, sẽ tạm thời vô hiệu hóa thiết bị điện tử và cơ khí.</EMPRounds.description>
   <!-- EN: EMP -->
-  <EMPRounds.traitAdjectives.0>TODO</EMPRounds.traitAdjectives.0>
+  <EMPRounds.traitAdjectives.0>EMP</EMPRounds.traitAdjectives.0>
   <!-- EN: electric -->
-  <EMPRounds.traitAdjectives.1>TODO</EMPRounds.traitAdjectives.1>
+  <EMPRounds.traitAdjectives.1>Điện</EMPRounds.traitAdjectives.1>
   <!-- EN: shocking -->
-  <EMPRounds.traitAdjectives.2>TODO</EMPRounds.traitAdjectives.2>
+  <EMPRounds.traitAdjectives.2>Shocking</EMPRounds.traitAdjectives.2>
   <!-- EN: sparky -->
-  <EMPRounds.traitAdjectives.3>TODO</EMPRounds.traitAdjectives.3>
+  <EMPRounds.traitAdjectives.3>Sparky</EMPRounds.traitAdjectives.3>
   <!-- EN: zapping -->
-  <EMPRounds.traitAdjectives.4>TODO</EMPRounds.traitAdjectives.4>
+  <EMPRounds.traitAdjectives.4>Zapping</EMPRounds.traitAdjectives.4>
   
   <!-- EN: extended barrel -->
-  <ExtendedBarrel.label>TODO</ExtendedBarrel.label>
+  <ExtendedBarrel.label>thùng mở rộng</ExtendedBarrel.label>
   <!-- EN: This weapon has a longer range than normal. -->
-  <ExtendedBarrel.description>TODO</ExtendedBarrel.description>
+  <ExtendedBarrel.description>Vũ khí này có tầm bắn xa hơn bình thường.</ExtendedBarrel.description>
   <!-- EN: long -->
-  <ExtendedBarrel.traitAdjectives.0>TODO</ExtendedBarrel.traitAdjectives.0>
+  <ExtendedBarrel.traitAdjectives.0>dài</ExtendedBarrel.traitAdjectives.0>
   <!-- EN: extended -->
-  <ExtendedBarrel.traitAdjectives.1>TODO</ExtendedBarrel.traitAdjectives.1>
+  <ExtendedBarrel.traitAdjectives.1>Mở rộng</ExtendedBarrel.traitAdjectives.1>
   
   <!-- EN: extended magazine -->
-  <ExtendedMagazine.label>TODO</ExtendedMagazine.label>
+  <ExtendedMagazine.label>Tạp chí mở rộng</ExtendedMagazine.label>
   <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
-  <ExtendedMagazine.description>TODO</ExtendedMagazine.description>
+  <ExtendedMagazine.description>Vũ khí này bắn nhiều hơn 50% trong một lần phát so với bình thường.</ExtendedMagazine.description>
   <!-- EN: high-capacity -->
-  <ExtendedMagazine.traitAdjectives.0>TODO</ExtendedMagazine.traitAdjectives.0>
+  <ExtendedMagazine.traitAdjectives.0>công suất cao</ExtendedMagazine.traitAdjectives.0>
   <!-- EN: extendo-clip -->
-  <ExtendedMagazine.traitAdjectives.1>TODO</ExtendedMagazine.traitAdjectives.1>
+  <ExtendedMagazine.traitAdjectives.1>Kẹp mở rộng</ExtendedMagazine.traitAdjectives.1>
   
   <!-- EN: frequency amplifier -->
-  <FrequencyAmplifier.label>TODO</FrequencyAmplifier.label>
+  <FrequencyAmplifier.label>Bộ khuếch đại tần số</FrequencyAmplifier.label>
   <!-- EN: This weapon passes the beam through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
-  <FrequencyAmplifier.description>TODO</FrequencyAmplifier.description>
+  <FrequencyAmplifier.description>Vũ khí này truyền chùm tia qua bộ khuếch đại pha lê, tăng đáng kể sát thương và tầm bắn của vũ khí. Vũ khí cần được hạ nhiệt giữa các lần sử dụng.</FrequencyAmplifier.description>
   <!-- EN: amplified -->
-  <FrequencyAmplifier.traitAdjectives.0>TODO</FrequencyAmplifier.traitAdjectives.0>
+  <FrequencyAmplifier.traitAdjectives.0>khuếch đại</FrequencyAmplifier.traitAdjectives.0>
   
   <!-- EN: gold inlay -->
-  <GoldInlay.label>TODO</GoldInlay.label>
+  <GoldInlay.label>khảm vàng</GoldInlay.label>
   <!-- EN: This weapon is inlaid with gold. Traders will pay more for it. -->
-  <GoldInlay.description>TODO</GoldInlay.description>
+  <GoldInlay.description>Vũ khí này được khảm vàng. Các nhà giao dịch sẽ trả nhiều tiền hơn cho nó.</GoldInlay.description>
   <!-- EN: gold -->
-  <GoldInlay.traitAdjectives.0>TODO</GoldInlay.traitAdjectives.0>
+  <GoldInlay.traitAdjectives.0>vàng</GoldInlay.traitAdjectives.0>
   <!-- EN: golden -->
-  <GoldInlay.traitAdjectives.1>TODO</GoldInlay.traitAdjectives.1>
+  <GoldInlay.traitAdjectives.1>Vàng</GoldInlay.traitAdjectives.1>
   
   <!-- EN: grenade launcher -->
-  <GrenadeLauncher.label>TODO</GrenadeLauncher.label>
+  <GrenadeLauncher.label>súng phóng lựu</GrenadeLauncher.label>
   <!-- EN: This weapon has an attached frag grenade launcher. Once fired, it must be reloaded using steel. -->
-  <GrenadeLauncher.description>TODO</GrenadeLauncher.description>
+  <GrenadeLauncher.description>Vũ khí này có một súng phóng lựu mảnh đính kèm. Sau khi bắn, nó phải được nạp lại bằng thép.</GrenadeLauncher.description>
   <!-- EN: grenade -->
-  <GrenadeLauncher.abilityProps.chargeNoun>TODO</GrenadeLauncher.abilityProps.chargeNoun>
+  <GrenadeLauncher.abilityProps.chargeNoun>lựu đạn</GrenadeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <GrenadeLauncher.abilityProps.cooldownGerund>TODO</GrenadeLauncher.abilityProps.cooldownGerund>
+  <GrenadeLauncher.abilityProps.cooldownGerund>khi hồi chiêu</GrenadeLauncher.abilityProps.cooldownGerund>
   <!-- EN: explosive -->
-  <GrenadeLauncher.traitAdjectives.0>TODO</GrenadeLauncher.traitAdjectives.0>
+  <GrenadeLauncher.traitAdjectives.0>thuốc nổ</GrenadeLauncher.traitAdjectives.0>
   
   <!-- EN: high-power rounds -->
-  <HighPowerRounds.label>TODO</HighPowerRounds.label>
+  <HighPowerRounds.label>viên đạn công suất cao</HighPowerRounds.label>
   <!-- EN: Special ammunition makes this weapon more powerful than normal. The heavy recoil makes it less accurate. -->
-  <HighPowerRounds.description>TODO</HighPowerRounds.description>
+  <HighPowerRounds.description>Đạn dược đặc biệt làm cho vũ khí này mạnh hơn bình thường. Độ giật nặng làm cho nó kém chính xác hơn.</HighPowerRounds.description>
   <!-- EN: atlas -->
-  <HighPowerRounds.traitAdjectives.0>TODO</HighPowerRounds.traitAdjectives.0>
+  <HighPowerRounds.traitAdjectives.0>tập bản đồ</HighPowerRounds.traitAdjectives.0>
   <!-- EN: hi-power -->
-  <HighPowerRounds.traitAdjectives.1>TODO</HighPowerRounds.traitAdjectives.1>
+  <HighPowerRounds.traitAdjectives.1>Công suất cao</HighPowerRounds.traitAdjectives.1>
   <!-- EN: heavy-shot -->
-  <HighPowerRounds.traitAdjectives.2>TODO</HighPowerRounds.traitAdjectives.2>
+  <HighPowerRounds.traitAdjectives.2>bắn nặng</HighPowerRounds.traitAdjectives.2>
   <!-- EN: hardpunch -->
-  <HighPowerRounds.traitAdjectives.3>TODO</HighPowerRounds.traitAdjectives.3>
+  <HighPowerRounds.traitAdjectives.3>Cú đấm cứng</HighPowerRounds.traitAdjectives.3>
   <!-- EN: heavy-hit -->
-  <HighPowerRounds.traitAdjectives.4>TODO</HighPowerRounds.traitAdjectives.4>
+  <HighPowerRounds.traitAdjectives.4>Hit nặng</HighPowerRounds.traitAdjectives.4>
   
   <!-- EN: hollow-point rounds -->
-  <HollowPointRounds.label>TODO</HollowPointRounds.label>
+  <HollowPointRounds.label>vòng rỗng</HollowPointRounds.label>
   <!-- EN: This weapon fires bullets that expand on impact, dealing more damage than normal. -->
-  <HollowPointRounds.description>TODO</HollowPointRounds.description>
+  <HollowPointRounds.description>Vũ khí này bắn ra những viên đạn mở rộng khi va chạm, gây sát thương nhiều hơn bình thường.</HollowPointRounds.description>
   <!-- EN: shredding -->
-  <HollowPointRounds.traitAdjectives.0>TODO</HollowPointRounds.traitAdjectives.0>
+  <HollowPointRounds.traitAdjectives.0>Shredding</HollowPointRounds.traitAdjectives.0>
   <!-- EN: hollowpoint -->
-  <HollowPointRounds.traitAdjectives.1>TODO</HollowPointRounds.traitAdjectives.1>
+  <HollowPointRounds.traitAdjectives.1>Điểm rỗng</HollowPointRounds.traitAdjectives.1>
   <!-- EN: hardpunch -->
-  <HollowPointRounds.traitAdjectives.2>TODO</HollowPointRounds.traitAdjectives.2>
+  <HollowPointRounds.traitAdjectives.2>Cú đấm cứng</HollowPointRounds.traitAdjectives.2>
   <!-- EN: meatrip -->
-  <HollowPointRounds.traitAdjectives.3>TODO</HollowPointRounds.traitAdjectives.3>
+  <HollowPointRounds.traitAdjectives.3>Thịt</HollowPointRounds.traitAdjectives.3>
   <!-- EN: grinder -->
-  <HollowPointRounds.traitAdjectives.4>TODO</HollowPointRounds.traitAdjectives.4>
+  <HollowPointRounds.traitAdjectives.4>răng hàm</HollowPointRounds.traitAdjectives.4>
   
   <!-- EN: tactical sight -->
-  <ImprovedSights.label>TODO</ImprovedSights.label>
+  <ImprovedSights.label>tầm nhìn chiến thuật</ImprovedSights.label>
   <!-- EN: This weapon has a custom sight, increasing its accuracy at long range. -->
-  <ImprovedSights.description>TODO</ImprovedSights.description>
+  <ImprovedSights.description>Vũ khí này có kính ngắm tùy chỉnh, tăng độ chính xác ở tầm xa.</ImprovedSights.description>
   <!-- EN: accurate -->
-  <ImprovedSights.traitAdjectives.0>TODO</ImprovedSights.traitAdjectives.0>
+  <ImprovedSights.traitAdjectives.0>chính xác</ImprovedSights.traitAdjectives.0>
   <!-- EN: precise -->
-  <ImprovedSights.traitAdjectives.1>TODO</ImprovedSights.traitAdjectives.1>
+  <ImprovedSights.traitAdjectives.1>tỉ mỉ</ImprovedSights.traitAdjectives.1>
   <!-- EN: sniper -->
-  <ImprovedSights.traitAdjectives.2>TODO</ImprovedSights.traitAdjectives.2>
+  <ImprovedSights.traitAdjectives.2>bắn tỉa</ImprovedSights.traitAdjectives.2>
   
   <!-- EN: incendiary launcher -->
-  <IncendiaryLauncher.label>TODO</IncendiaryLauncher.label>
+  <IncendiaryLauncher.label>bệ phóng gây cháy</IncendiaryLauncher.label>
   <!-- EN: This weapon has an attached incendiary shell launcher. The shell creates a small flame explosion that ignites everything nearby. Once fired, it must be reloaded using chemfuel. -->
-  <IncendiaryLauncher.description>TODO</IncendiaryLauncher.description>
+  <IncendiaryLauncher.description>Vũ khí này có một bệ phóng đạn cháy đi kèm. Vỏ tạo ra một vụ nổ ngọn lửa nhỏ đốt cháy mọi thứ xung quanh. Sau khi bắn, nó phải được nạp lại bằng nhiên liệu hóa học.</IncendiaryLauncher.description>
   <!-- EN: shell -->
-  <IncendiaryLauncher.abilityProps.chargeNoun>TODO</IncendiaryLauncher.abilityProps.chargeNoun>
+  <IncendiaryLauncher.abilityProps.chargeNoun>vỏ</IncendiaryLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <IncendiaryLauncher.abilityProps.cooldownGerund>TODO</IncendiaryLauncher.abilityProps.cooldownGerund>
+  <IncendiaryLauncher.abilityProps.cooldownGerund>khi hồi chiêu</IncendiaryLauncher.abilityProps.cooldownGerund>
   <!-- EN: fiery -->
-  <IncendiaryLauncher.traitAdjectives.0>TODO</IncendiaryLauncher.traitAdjectives.0>
+  <IncendiaryLauncher.traitAdjectives.0>Fiery</IncendiaryLauncher.traitAdjectives.0>
   <!-- EN: flame -->
-  <IncendiaryLauncher.traitAdjectives.1>TODO</IncendiaryLauncher.traitAdjectives.1>
+  <IncendiaryLauncher.traitAdjectives.1>ngọn lửa</IncendiaryLauncher.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryLauncher.traitAdjectives.2>TODO</IncendiaryLauncher.traitAdjectives.2>
+  <IncendiaryLauncher.traitAdjectives.2>Rực</IncendiaryLauncher.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryLauncher.traitAdjectives.3>TODO</IncendiaryLauncher.traitAdjectives.3>
+  <IncendiaryLauncher.traitAdjectives.3>Đau rát</IncendiaryLauncher.traitAdjectives.3>
   
   <!-- EN: incendiary pellets -->
-  <IncendiaryPellets.label>TODO</IncendiaryPellets.label>
+  <IncendiaryPellets.label>Viên gây cháy</IncendiaryPellets.label>
   <!-- EN: This weapon fires phosphorus pellets that have a chance to ignite targets. -->
-  <IncendiaryPellets.description>TODO</IncendiaryPellets.description>
+  <IncendiaryPellets.description>Vũ khí này bắn các viên phốt pho có cơ hội đốt cháy mục tiêu.</IncendiaryPellets.description>
   <!-- EN: red -->
-  <IncendiaryPellets.traitAdjectives.0>TODO</IncendiaryPellets.traitAdjectives.0>
+  <IncendiaryPellets.traitAdjectives.0>đỏ</IncendiaryPellets.traitAdjectives.0>
   <!-- EN: fiery -->
-  <IncendiaryPellets.traitAdjectives.1>TODO</IncendiaryPellets.traitAdjectives.1>
+  <IncendiaryPellets.traitAdjectives.1>Fiery</IncendiaryPellets.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryPellets.traitAdjectives.2>TODO</IncendiaryPellets.traitAdjectives.2>
+  <IncendiaryPellets.traitAdjectives.2>Rực</IncendiaryPellets.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryPellets.traitAdjectives.3>TODO</IncendiaryPellets.traitAdjectives.3>
+  <IncendiaryPellets.traitAdjectives.3>Đau rát</IncendiaryPellets.traitAdjectives.3>
   <!-- EN: hot -->
-  <IncendiaryPellets.traitAdjectives.4>TODO</IncendiaryPellets.traitAdjectives.4>
+  <IncendiaryPellets.traitAdjectives.4>nóng</IncendiaryPellets.traitAdjectives.4>
   <!-- EN: volcanic -->
-  <IncendiaryPellets.traitAdjectives.5>TODO</IncendiaryPellets.traitAdjectives.5>
+  <IncendiaryPellets.traitAdjectives.5>Núi lửa</IncendiaryPellets.traitAdjectives.5>
   <!-- EN: promethean -->
-  <IncendiaryPellets.traitAdjectives.6>TODO</IncendiaryPellets.traitAdjectives.6>
+  <IncendiaryPellets.traitAdjectives.6>Promethean</IncendiaryPellets.traitAdjectives.6>
   
   <!-- EN: incendiary rounds -->
-  <IncendiaryRounds.label>TODO</IncendiaryRounds.label>
+  <IncendiaryRounds.label>Đạn gây cháy</IncendiaryRounds.label>
   <!-- EN: This weapon fires ammunition that contains a flammable chemical. It has a chance to ignite targets. -->
-  <IncendiaryRounds.description>TODO</IncendiaryRounds.description>
+  <IncendiaryRounds.description>Vũ khí này bắn đạn có chứa hóa chất dễ cháy. Nó có cơ hội đốt cháy mục tiêu.</IncendiaryRounds.description>
   <!-- EN: red -->
-  <IncendiaryRounds.traitAdjectives.0>TODO</IncendiaryRounds.traitAdjectives.0>
+  <IncendiaryRounds.traitAdjectives.0>đỏ</IncendiaryRounds.traitAdjectives.0>
   <!-- EN: fiery -->
-  <IncendiaryRounds.traitAdjectives.1>TODO</IncendiaryRounds.traitAdjectives.1>
+  <IncendiaryRounds.traitAdjectives.1>Fiery</IncendiaryRounds.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryRounds.traitAdjectives.2>TODO</IncendiaryRounds.traitAdjectives.2>
+  <IncendiaryRounds.traitAdjectives.2>Rực</IncendiaryRounds.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryRounds.traitAdjectives.3>TODO</IncendiaryRounds.traitAdjectives.3>
+  <IncendiaryRounds.traitAdjectives.3>Đau rát</IncendiaryRounds.traitAdjectives.3>
   <!-- EN: hot -->
-  <IncendiaryRounds.traitAdjectives.4>TODO</IncendiaryRounds.traitAdjectives.4>
+  <IncendiaryRounds.traitAdjectives.4>nóng</IncendiaryRounds.traitAdjectives.4>
   <!-- EN: igniting -->
-  <IncendiaryRounds.traitAdjectives.5>TODO</IncendiaryRounds.traitAdjectives.5>
+  <IncendiaryRounds.traitAdjectives.5>Gây ra</IncendiaryRounds.traitAdjectives.5>
   <!-- EN: napalm -->
-  <IncendiaryRounds.traitAdjectives.6>TODO</IncendiaryRounds.traitAdjectives.6>
+  <IncendiaryRounds.traitAdjectives.6>napan</IncendiaryRounds.traitAdjectives.6>
   
   <!-- EN: jade inlay -->
-  <JadeInlay.label>TODO</JadeInlay.label>
+  <JadeInlay.label>khảm ngọc bích</JadeInlay.label>
   <!-- EN: This weapon is adorned with jade. Traders will pay more for it. -->
-  <JadeInlay.description>TODO</JadeInlay.description>
+  <JadeInlay.description>Vũ khí này được trang trí bằng ngọc bích. Các nhà giao dịch sẽ trả nhiều tiền hơn cho nó.</JadeInlay.description>
   <!-- EN: jade -->
-  <JadeInlay.traitAdjectives.0>TODO</JadeInlay.traitAdjectives.0>
+  <JadeInlay.traitAdjectives.0>Jade</JadeInlay.traitAdjectives.0>
   
   <!-- EN: lightweight -->
-  <Lightweight.label>TODO</Lightweight.label>
+  <Lightweight.label>Nhẹ</Lightweight.label>
   <!-- EN: This weapon is much lighter than normal, lowering its aiming time. -->
-  <Lightweight.description>TODO</Lightweight.description>
+  <Lightweight.description>Vũ khí này nhẹ hơn nhiều so với bình thường, giảm thời gian ngắm của nó.</Lightweight.description>
   <!-- EN: light -->
-  <Lightweight.traitAdjectives.0>TODO</Lightweight.traitAdjectives.0>
+  <Lightweight.traitAdjectives.0>ánh sáng</Lightweight.traitAdjectives.0>
   <!-- EN: quickdraw -->
-  <Lightweight.traitAdjectives.1>TODO</Lightweight.traitAdjectives.1>
+  <Lightweight.traitAdjectives.1>Vẽ nhanh</Lightweight.traitAdjectives.1>
   
   <!-- EN: lightweight arrows -->
-  <LightweightArrows.label>TODO</LightweightArrows.label>
+  <LightweightArrows.label>mũi tên nhẹ</LightweightArrows.label>
   <!-- EN: This bow is adept at firing lightweight arrows. They fly farther but deal less damage. -->
-  <LightweightArrows.description>TODO</LightweightArrows.description>
+  <LightweightArrows.description>Cung này rất thành thạo trong việc bắn những mũi tên nhẹ. Chúng bay xa hơn nhưng gây ít sát thương hơn.</LightweightArrows.description>
   <!-- EN: light -->
-  <LightweightArrows.traitAdjectives.0>TODO</LightweightArrows.traitAdjectives.0>
+  <LightweightArrows.traitAdjectives.0>ánh sáng</LightweightArrows.traitAdjectives.0>
   <!-- EN: longreach -->
-  <LightweightArrows.traitAdjectives.1>TODO</LightweightArrows.traitAdjectives.1>
+  <LightweightArrows.traitAdjectives.1>tầm xa</LightweightArrows.traitAdjectives.1>
   
   <!-- EN: ornamental -->
-  <Ornamental.label>TODO</Ornamental.label>
+  <Ornamental.label>cảnh</Ornamental.label>
   <!-- EN: This weapon was crafted for aesthetics over functionality. It deals less damage but looks great. -->
-  <Ornamental.description>TODO</Ornamental.description>
+  <Ornamental.description>Vũ khí này được chế tạo vì tính thẩm mỹ hơn chức năng. Nó gây ít sát thương hơn nhưng trông rất tuyệt.</Ornamental.description>
   <!-- EN: beautiful -->
-  <Ornamental.traitAdjectives.0>TODO</Ornamental.traitAdjectives.0>
+  <Ornamental.traitAdjectives.0>Đẹp</Ornamental.traitAdjectives.0>
   <!-- EN: elegant -->
-  <Ornamental.traitAdjectives.1>TODO</Ornamental.traitAdjectives.1>
+  <Ornamental.traitAdjectives.1>nhã</Ornamental.traitAdjectives.1>
   <!-- EN: ornamental -->
-  <Ornamental.traitAdjectives.2>TODO</Ornamental.traitAdjectives.2>
+  <Ornamental.traitAdjectives.2>cảnh</Ornamental.traitAdjectives.2>
   
   <!-- EN: heavy rounds -->
-  <OversizedRounds.label>TODO</OversizedRounds.label>
+  <OversizedRounds.label>đạn nặng</OversizedRounds.label>
   <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->
-  <OversizedRounds.description>TODO</OversizedRounds.description>
+  <OversizedRounds.description>Vũ khí này gây sát thương nhiều hơn và có sức dừng cao hơn nhiều so với bình thường.</OversizedRounds.description>
   <!-- EN: hammering -->
-  <OversizedRounds.traitAdjectives.0>TODO</OversizedRounds.traitAdjectives.0>
+  <OversizedRounds.traitAdjectives.0>Hammering</OversizedRounds.traitAdjectives.0>
   <!-- EN: forceful -->
-  <OversizedRounds.traitAdjectives.1>TODO</OversizedRounds.traitAdjectives.1>
+  <OversizedRounds.traitAdjectives.1>Mạnh mẽ</OversizedRounds.traitAdjectives.1>
   <!-- EN: oversized -->
-  <OversizedRounds.traitAdjectives.2>TODO</OversizedRounds.traitAdjectives.2>
+  <OversizedRounds.traitAdjectives.2>quá khổ</OversizedRounds.traitAdjectives.2>
   <!-- EN: knockout -->
-  <OversizedRounds.traitAdjectives.3>TODO</OversizedRounds.traitAdjectives.3>
+  <OversizedRounds.traitAdjectives.3>loại trực tiếp</OversizedRounds.traitAdjectives.3>
   
   <!-- EN: paralytic arrows -->
-  <ParalyticArrows.label>TODO</ParalyticArrows.label>
+  <ParalyticArrows.label>mũi tên tê liệt</ParalyticArrows.label>
   <!-- EN: This bow shoots arrows embedded with a paralytic biotoxin, which briefly stuns targets. -->
-  <ParalyticArrows.description>TODO</ParalyticArrows.description>
+  <ParalyticArrows.description>Cây cung này bắn những mũi tên được nhúng với một chất độc sinh học tê liệt, làm choáng các mục tiêu trong thời gian ngắn.</ParalyticArrows.description>
   <!-- EN: paralyzing -->
-  <ParalyticArrows.traitAdjectives.0>TODO</ParalyticArrows.traitAdjectives.0>
+  <ParalyticArrows.traitAdjectives.0>tê liệt</ParalyticArrows.traitAdjectives.0>
   <!-- EN: paralytic -->
-  <ParalyticArrows.traitAdjectives.1>TODO</ParalyticArrows.traitAdjectives.1>
+  <ParalyticArrows.traitAdjectives.1>tê liệt</ParalyticArrows.traitAdjectives.1>
   <!-- EN: stunning -->
-  <ParalyticArrows.traitAdjectives.2>TODO</ParalyticArrows.traitAdjectives.2>
+  <ParalyticArrows.traitAdjectives.2>Tuyệt vời</ParalyticArrows.traitAdjectives.2>
   
   <!-- EN: piercing arrows -->
-  <PiercingArrows.label>TODO</PiercingArrows.label>
+  <PiercingArrows.label>Mũi tên xuyên</PiercingArrows.label>
   <!-- EN: This bow shoots bodkin-tipped arrows, making it more effective against armored targets. -->
-  <PiercingArrows.description>TODO</PiercingArrows.description>
+  <PiercingArrows.description>Cây cung này bắn những mũi tên có đầu bodkin, giúp nó hiệu quả hơn khi chống lại các mục tiêu bọc thép.</PiercingArrows.description>
   <!-- EN: piercing -->
-  <PiercingArrows.traitAdjectives.0>TODO</PiercingArrows.traitAdjectives.0>
+  <PiercingArrows.traitAdjectives.0>Xuyên</PiercingArrows.traitAdjectives.0>
   <!-- EN: sharp -->
-  <PiercingArrows.traitAdjectives.1>TODO</PiercingArrows.traitAdjectives.1>
+  <PiercingArrows.traitAdjectives.1>sắc</PiercingArrows.traitAdjectives.1>
   <!-- EN: penetrating -->
-  <PiercingArrows.traitAdjectives.2>TODO</PiercingArrows.traitAdjectives.2>
+  <PiercingArrows.traitAdjectives.2>rộng khắp</PiercingArrows.traitAdjectives.2>
   <!-- EN: bodkin -->
-  <PiercingArrows.traitAdjectives.3>TODO</PiercingArrows.traitAdjectives.3>
+  <PiercingArrows.traitAdjectives.3>Bodkin</PiercingArrows.traitAdjectives.3>
   <!-- EN: anti-armor -->
-  <PiercingArrows.traitAdjectives.4>TODO</PiercingArrows.traitAdjectives.4>
+  <PiercingArrows.traitAdjectives.4>Chống giáp</PiercingArrows.traitAdjectives.4>
   
   <!-- EN: piercing rounds -->
-  <PiercingRounds.label>TODO</PiercingRounds.label>
+  <PiercingRounds.label>Đạn xuyên</PiercingRounds.label>
   <!-- EN: This weapon fires rounds designed to penetrate thick armor. -->
-  <PiercingRounds.description>TODO</PiercingRounds.description>
+  <PiercingRounds.description>Vũ khí này bắn đạn được thiết kế để xuyên qua áo giáp dày.</PiercingRounds.description>
   <!-- EN: piercing -->
-  <PiercingRounds.traitAdjectives.0>TODO</PiercingRounds.traitAdjectives.0>
+  <PiercingRounds.traitAdjectives.0>Xuyên</PiercingRounds.traitAdjectives.0>
   <!-- EN: sharp -->
-  <PiercingRounds.traitAdjectives.1>TODO</PiercingRounds.traitAdjectives.1>
+  <PiercingRounds.traitAdjectives.1>sắc</PiercingRounds.traitAdjectives.1>
   <!-- EN: sabot -->
-  <PiercingRounds.traitAdjectives.2>TODO</PiercingRounds.traitAdjectives.2>
+  <PiercingRounds.traitAdjectives.2>Sabot</PiercingRounds.traitAdjectives.2>
   <!-- EN: penetrating -->
-  <PiercingRounds.traitAdjectives.3>TODO</PiercingRounds.traitAdjectives.3>
+  <PiercingRounds.traitAdjectives.3>rộng khắp</PiercingRounds.traitAdjectives.3>
   
   <!-- EN: tracking scope -->
-  <PrecisionScope.label>TODO</PrecisionScope.label>
+  <PrecisionScope.label>Phạm vi theo dõi</PrecisionScope.label>
   <!-- EN: This weapon's scope uses target recognition software to automate target tracking, making it faster to fire. -->
-  <PrecisionScope.description>TODO</PrecisionScope.description>
+  <PrecisionScope.description>Phạm vi của vũ khí này sử dụng phần mềm nhận dạng mục tiêu để tự động hóa theo dõi mục tiêu, giúp bắn nhanh hơn.</PrecisionScope.description>
   <!-- EN: trackscope -->
-  <PrecisionScope.traitAdjectives.0>TODO</PrecisionScope.traitAdjectives.0>
+  <PrecisionScope.traitAdjectives.0>Phạm vi theo dõi</PrecisionScope.traitAdjectives.0>
   <!-- EN: fastfire -->
-  <PrecisionScope.traitAdjectives.1>TODO</PrecisionScope.traitAdjectives.1>
+  <PrecisionScope.traitAdjectives.1>Bắn nhanh</PrecisionScope.traitAdjectives.1>
   
   <!-- EN: pulse charger -->
-  <PulseCharger.label>TODO</PulseCharger.label>
+  <PulseCharger.label>Bộ sạc xung</PulseCharger.label>
   <!-- EN: This weapon is retrofitted with pulse-charge technology, imbuing bullets with unstable energy. The weapon was clearly not designed for this, dramatically lowering its accuracy. -->
-  <PulseCharger.description>TODO</PulseCharger.description>
+  <PulseCharger.description>Vũ khí này được trang bị thêm công nghệ sạc xung, truyền năng lượng không ổn định cho đạn. Vũ khí rõ ràng không được thiết kế cho việc này, làm giảm đáng kể độ chính xác của nó.</PulseCharger.description>
   <!-- EN: charged-shot -->
-  <PulseCharger.traitAdjectives.0>TODO</PulseCharger.traitAdjectives.0>
+  <PulseCharger.traitAdjectives.0>bắn tích điện</PulseCharger.traitAdjectives.0>
   <!-- EN: charged -->
-  <PulseCharger.traitAdjectives.1>TODO</PulseCharger.traitAdjectives.1>
+  <PulseCharger.traitAdjectives.1>Phải trả</PulseCharger.traitAdjectives.1>
   <!-- EN: pulse-charged -->
-  <PulseCharger.traitAdjectives.2>TODO</PulseCharger.traitAdjectives.2>
+  <PulseCharger.traitAdjectives.2>sạc xung</PulseCharger.traitAdjectives.2>
   
   <!-- EN: quick reload -->
-  <QuickReload.label>TODO</QuickReload.label>
+  <QuickReload.label>Tải lại nhanh</QuickReload.label>
   <!-- EN: This weapon has a quick release-and-replace mechanism that makes it faster to reload. -->
-  <QuickReload.description>TODO</QuickReload.description>
+  <QuickReload.description>Vũ khí này có cơ chế nhả và thay thế nhanh chóng giúp nạp đạn nhanh hơn.</QuickReload.description>
   <!-- EN: quick -->
-  <QuickReload.traitAdjectives.0>TODO</QuickReload.traitAdjectives.0>
+  <QuickReload.traitAdjectives.0>nhanh</QuickReload.traitAdjectives.0>
   <!-- EN: nimble -->
-  <QuickReload.traitAdjectives.1>TODO</QuickReload.traitAdjectives.1>
+  <QuickReload.traitAdjectives.1>nhanh nhẹn</QuickReload.traitAdjectives.1>
   <!-- EN: quickload -->
-  <QuickReload.traitAdjectives.2>TODO</QuickReload.traitAdjectives.2>
+  <QuickReload.traitAdjectives.2>Tải nhanh</QuickReload.traitAdjectives.2>
   <!-- EN: quickshot -->
-  <QuickReload.traitAdjectives.3>TODO</QuickReload.traitAdjectives.3>
+  <QuickReload.traitAdjectives.3>Bắn nhanh</QuickReload.traitAdjectives.3>
   <!-- EN: fastload -->
-  <QuickReload.traitAdjectives.4>TODO</QuickReload.traitAdjectives.4>
+  <QuickReload.traitAdjectives.4>Tải nhanh</QuickReload.traitAdjectives.4>
   
   <!-- EN: rangefinder -->
-  <RangefinderScope.label>TODO</RangefinderScope.label>
+  <RangefinderScope.label>máy đo khoảng cách</RangefinderScope.label>
   <!-- EN: This weapon's scope contains an advanced rangefinder, allowing it to fire further. -->
-  <RangefinderScope.description>TODO</RangefinderScope.description>
+  <RangefinderScope.description>Phạm vi của vũ khí này chứa một máy đo khoảng cách tiên tiến, cho phép nó bắn xa hơn.</RangefinderScope.description>
   <!-- EN: eagle -->
-  <RangefinderScope.traitAdjectives.0>TODO</RangefinderScope.traitAdjectives.0>
+  <RangefinderScope.traitAdjectives.0>chim đại bàng</RangefinderScope.traitAdjectives.0>
   <!-- EN: farsight -->
-  <RangefinderScope.traitAdjectives.1>TODO</RangefinderScope.traitAdjectives.1>
+  <RangefinderScope.traitAdjectives.1>tầm nhìn xa</RangefinderScope.traitAdjectives.1>
   
   <!-- EN: rapid fire -->
-  <RapidFire.label>TODO</RapidFire.label>
+  <RapidFire.label>bắn nhanh</RapidFire.label>
   <!-- EN: This weapon contains an improved self-loading mechanism. When firing bursts of multiple rounds, the time between each round is dramatically reduced. -->
-  <RapidFire.description>TODO</RapidFire.description>
+  <RapidFire.description>Vũ khí này chứa một cơ chế tự nạp đạn được cải tiến. Khi bắn nhiều vòng, thời gian giữa mỗi vòng sẽ giảm đáng kể.</RapidFire.description>
   <!-- EN: rapid -->
-  <RapidFire.traitAdjectives.0>TODO</RapidFire.traitAdjectives.0>
+  <RapidFire.traitAdjectives.0>nhanh chóng</RapidFire.traitAdjectives.0>
   <!-- EN: burst -->
-  <RapidFire.traitAdjectives.1>TODO</RapidFire.traitAdjectives.1>
+  <RapidFire.traitAdjectives.1>nổ</RapidFire.traitAdjectives.1>
   <!-- EN: rapid-fire -->
-  <RapidFire.traitAdjectives.2>TODO</RapidFire.traitAdjectives.2>
+  <RapidFire.traitAdjectives.2>bắn nhanh</RapidFire.traitAdjectives.2>
   
   <!-- EN: reinforced bow limbs -->
-  <ReinforcedLimbs.label>TODO</ReinforcedLimbs.label>
+  <ReinforcedLimbs.label>chi cung được gia cố</ReinforcedLimbs.label>
   <!-- EN: The limbs of this bow have been strengthened, allowing it to shoot further. -->
-  <ReinforcedLimbs.description>TODO</ReinforcedLimbs.description>
+  <ReinforcedLimbs.description>Các chi của cây cung này đã được tăng cường, cho phép nó bắn xa hơn.</ReinforcedLimbs.description>
   <!-- EN: reinforced -->
-  <ReinforcedLimbs.traitAdjectives.0>TODO</ReinforcedLimbs.traitAdjectives.0>
+  <ReinforcedLimbs.traitAdjectives.0>Tăng cường</ReinforcedLimbs.traitAdjectives.0>
   
   <!-- EN: shoddy sights -->
-  <ShoddySights.label>TODO</ShoddySights.label>
+  <ShoddySights.label>Điểm tham quan kém chất lượng</ShoddySights.label>
   <!-- EN: Defects in this weapon's sights decrease its accuracy at long ranges. -->
-  <ShoddySights.description>TODO</ShoddySights.description>
+  <ShoddySights.description>Các khiếm khuyết trong tầm ngắm của vũ khí này làm giảm độ chính xác của nó ở tầm xa.</ShoddySights.description>
   <!-- EN: inaccurate -->
-  <ShoddySights.traitAdjectives.0>TODO</ShoddySights.traitAdjectives.0>
+  <ShoddySights.traitAdjectives.0>không đúng</ShoddySights.traitAdjectives.0>
   <!-- EN: imprecise -->
-  <ShoddySights.traitAdjectives.1>TODO</ShoddySights.traitAdjectives.1>
+  <ShoddySights.traitAdjectives.1>không chính xác</ShoddySights.traitAdjectives.1>
   
   <!-- EN: shortened barrel -->
-  <ShortenedBarrel.label>TODO</ShortenedBarrel.label>
+  <ShortenedBarrel.label>thùng ngắn</ShortenedBarrel.label>
   <!-- EN: This weapon's barrel has been sawn off, reducing its range but making it quicker to aim and fire. -->
-  <ShortenedBarrel.description>TODO</ShortenedBarrel.description>
+  <ShortenedBarrel.description>Nòng súng của vũ khí này đã bị cưa đứt, làm giảm tầm bắn của nó nhưng làm cho nó nhanh hơn để nhắm và bắn.</ShortenedBarrel.description>
   <!-- EN: shortened -->
-  <ShortenedBarrel.traitAdjectives.0>TODO</ShortenedBarrel.traitAdjectives.0>
+  <ShortenedBarrel.traitAdjectives.0>Rút ngắn</ShortenedBarrel.traitAdjectives.0>
   <!-- EN: sawn-off -->
-  <ShortenedBarrel.traitAdjectives.1>TODO</ShortenedBarrel.traitAdjectives.1>
+  <ShortenedBarrel.traitAdjectives.1>Cưa</ShortenedBarrel.traitAdjectives.1>
   
   <!-- EN: smoke launcher -->
-  <SmokeLauncher.label>TODO</SmokeLauncher.label>
+  <SmokeLauncher.label>bệ phóng khói</SmokeLauncher.label>
   <!-- EN: This weapon has an attached smoke shell launcher. The shell releases smoke that obscures incoming shots and prevents turrets from locking on. Once fired, it must be reloaded using steel. -->
-  <SmokeLauncher.description>TODO</SmokeLauncher.description>
+  <SmokeLauncher.description>Vũ khí này có một bệ phóng đạn khói đi kèm. Đạn phóng khói che khuất các phát đạn đến và ngăn không cho các tháp pháo khóa. Sau khi bắn, nó phải được nạp lại bằng thép.</SmokeLauncher.description>
   <!-- EN: shell -->
-  <SmokeLauncher.abilityProps.chargeNoun>TODO</SmokeLauncher.abilityProps.chargeNoun>
+  <SmokeLauncher.abilityProps.chargeNoun>vỏ</SmokeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <SmokeLauncher.abilityProps.cooldownGerund>TODO</SmokeLauncher.abilityProps.cooldownGerund>
+  <SmokeLauncher.abilityProps.cooldownGerund>khi hồi chiêu</SmokeLauncher.abilityProps.cooldownGerund>
   <!-- EN: smoke -->
-  <SmokeLauncher.traitAdjectives.0>TODO</SmokeLauncher.traitAdjectives.0>
+  <SmokeLauncher.traitAdjectives.0>khói</SmokeLauncher.traitAdjectives.0>
   <!-- EN: concealing -->
-  <SmokeLauncher.traitAdjectives.1>TODO</SmokeLauncher.traitAdjectives.1>
+  <SmokeLauncher.traitAdjectives.1>Che giấu</SmokeLauncher.traitAdjectives.1>
   <!-- EN: clouding -->
-  <SmokeLauncher.traitAdjectives.2>TODO</SmokeLauncher.traitAdjectives.2>
+  <SmokeLauncher.traitAdjectives.2>Làm mờ</SmokeLauncher.traitAdjectives.2>
   
   <!-- EN: pistol brace -->
-  <StabilizerBrace.label>TODO</StabilizerBrace.label>
+  <StabilizerBrace.label>nẹp súng lục</StabilizerBrace.label>
   <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
-  <StabilizerBrace.description>TODO</StabilizerBrace.description>
+  <StabilizerBrace.description>Vũ khí này có một nẹp ổn định kết nối với cánh tay của người dùng, tăng độ chính xác của nó.</StabilizerBrace.description>
   <!-- EN: stable -->
-  <StabilizerBrace.traitAdjectives.0>TODO</StabilizerBrace.traitAdjectives.0>
+  <StabilizerBrace.traitAdjectives.0>chuồng</StabilizerBrace.traitAdjectives.0>
   <!-- EN: accurate -->
-  <StabilizerBrace.traitAdjectives.1>TODO</StabilizerBrace.traitAdjectives.1>
+  <StabilizerBrace.traitAdjectives.1>chính xác</StabilizerBrace.traitAdjectives.1>
   <!-- EN: precise -->
-  <StabilizerBrace.traitAdjectives.2>TODO</StabilizerBrace.traitAdjectives.2>
+  <StabilizerBrace.traitAdjectives.2>tỉ mỉ</StabilizerBrace.traitAdjectives.2>
   <!-- EN: braced -->
-  <StabilizerBrace.traitAdjectives.3>TODO</StabilizerBrace.traitAdjectives.3>
+  <StabilizerBrace.traitAdjectives.3>Braced</StabilizerBrace.traitAdjectives.3>
   
   <!-- EN: toxic pellets -->
-  <ToxPellets.label>TODO</ToxPellets.label>
+  <ToxPellets.label>Viên độc hại</ToxPellets.label>
   <!-- EN: This weapon fires chemical pellets which cause toxic buildup. -->
-  <ToxPellets.description>TODO</ToxPellets.description>
+  <ToxPellets.description>Vũ khí này bắn các viên hóa học gây tích tụ chất độc.</ToxPellets.description>
   <!-- EN: green -->
-  <ToxPellets.traitAdjectives.0>TODO</ToxPellets.traitAdjectives.0>
+  <ToxPellets.traitAdjectives.0>xanh</ToxPellets.traitAdjectives.0>
   <!-- EN: toxic -->
-  <ToxPellets.traitAdjectives.1>TODO</ToxPellets.traitAdjectives.1>
+  <ToxPellets.traitAdjectives.1>độc</ToxPellets.traitAdjectives.1>
   <!-- EN: poisonous -->
-  <ToxPellets.traitAdjectives.2>TODO</ToxPellets.traitAdjectives.2>
+  <ToxPellets.traitAdjectives.2>độc</ToxPellets.traitAdjectives.2>
   <!-- EN: poison -->
-  <ToxPellets.traitAdjectives.3>TODO</ToxPellets.traitAdjectives.3>
+  <ToxPellets.traitAdjectives.3>chất độc</ToxPellets.traitAdjectives.3>
   
   <!-- EN: tox rounds -->
-  <ToxRounds.label>TODO</ToxRounds.label>
+  <ToxRounds.label>Vòng Tox</ToxRounds.label>
   <!-- EN: This weapon fires rounds coated with toxic chemicals, which sicken wounded targets. -->
-  <ToxRounds.description>TODO</ToxRounds.description>
+  <ToxRounds.description>Vũ khí này bắn đạn phủ hóa chất độc hại, làm cho các mục tiêu bị thương bị thương.</ToxRounds.description>
   <!-- EN: green -->
-  <ToxRounds.traitAdjectives.0>TODO</ToxRounds.traitAdjectives.0>
+  <ToxRounds.traitAdjectives.0>xanh</ToxRounds.traitAdjectives.0>
   <!-- EN: poison -->
-  <ToxRounds.traitAdjectives.1>TODO</ToxRounds.traitAdjectives.1>
+  <ToxRounds.traitAdjectives.1>chất độc</ToxRounds.traitAdjectives.1>
   <!-- EN: venom -->
-  <ToxRounds.traitAdjectives.2>TODO</ToxRounds.traitAdjectives.2>
+  <ToxRounds.traitAdjectives.2>nọc độc</ToxRounds.traitAdjectives.2>
   <!-- EN: venomous -->
-  <ToxRounds.traitAdjectives.3>TODO</ToxRounds.traitAdjectives.3>
+  <ToxRounds.traitAdjectives.3>độc</ToxRounds.traitAdjectives.3>
   <!-- EN: snakebite -->
-  <ToxRounds.traitAdjectives.4>TODO</ToxRounds.traitAdjectives.4>
+  <ToxRounds.traitAdjectives.4>Snakebite</ToxRounds.traitAdjectives.4>
   
   <!-- EN: ugly -->
-  <Ugly.label>TODO</Ugly.label>
+  <Ugly.label>xấu</Ugly.label>
   <!-- EN: This weapon was crafted with no respect for aesthetics. It looks like junk but gets the job done. Traders will pay less for it. -->
-  <Ugly.description>TODO</Ugly.description>
+  <Ugly.description>Vũ khí này được chế tạo không tôn trọng tính thẩm mỹ. Nó trông giống như rác rưởi nhưng hoàn thành công việc. Các nhà giao dịch sẽ trả ít hơn cho nó.</Ugly.description>
   <!-- EN: monstrous -->
-  <Ugly.traitAdjectives.0>TODO</Ugly.traitAdjectives.0>
+  <Ugly.traitAdjectives.0>Khổng lồ</Ugly.traitAdjectives.0>
   <!-- EN: crude -->
-  <Ugly.traitAdjectives.1>TODO</Ugly.traitAdjectives.1>
+  <Ugly.traitAdjectives.1>thô</Ugly.traitAdjectives.1>
   <!-- EN: ugly -->
-  <Ugly.traitAdjectives.2>TODO</Ugly.traitAdjectives.2>
+  <Ugly.traitAdjectives.2>xấu</Ugly.traitAdjectives.2>
   
 </LanguageData>

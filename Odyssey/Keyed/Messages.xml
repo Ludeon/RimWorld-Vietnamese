@@ -3,63 +3,63 @@
 
   <!-- Grav engine/substructrues -->
   <!-- EN: Must be placed on gravship substructure. -->
-  <MessageMustBePlacedOnSubstructure>TODO</MessageMustBePlacedOnSubstructure>
+  <MessageMustBePlacedOnSubstructure>Phải được đặt trên cấu trúc phụ của tàu trọng lực.</MessageMustBePlacedOnSubstructure>
   <!-- EN: Must be placed within the radius of a grav engine or grav field extender. -->
-  <MessageMustBePlacedInRangeOfGravEngineOrExtender>TODO</MessageMustBePlacedInRangeOfGravEngineOrExtender>
+  <MessageMustBePlacedInRangeOfGravEngineOrExtender>Phải được đặt trong bán kính của động cơ trọng lực hoặc bộ mở rộng trường trọng lực.</MessageMustBePlacedInRangeOfGravEngineOrExtender>
   <!-- EN: Cannot be placed under rock or mountain roofs. -->
-  <MessageCannotPlaceUnderRockRoof>TODO</MessageCannotPlaceUnderRockRoof>
+  <MessageCannotPlaceUnderRockRoof>Không thể đặt dưới mái đá hoặc mái núi.</MessageCannotPlaceUnderRockRoof>
   <!-- EN: {ACTIVATOR_labelShort} has finished hacking {SUBJECT_definite}. -->
-  <MessageStabilizerDeactivated>TODO</MessageStabilizerDeactivated>
+  <MessageStabilizerDeactivated>{ACTIVATOR_labelShort} đã hoàn thành hack {SUBJECT_definite}.</MessageStabilizerDeactivated>
   <!-- EN: Can't be placed on gravship substructure. -->
-  <MessageCannotPlaceOverSubstructure>TODO</MessageCannotPlaceOverSubstructure>
+  <MessageCannotPlaceOverSubstructure>Không thể đặt trên cấu trúc phụ của tàu trọng lực.</MessageCannotPlaceOverSubstructure>
   <!-- EN: Gravship substructure is blocked. -->
-  <MessageSubstructureBlocked>TODO</MessageSubstructureBlocked>
+  <MessageSubstructureBlocked>Cấu trúc phụ của tàu hấp dẫn bị chặn.</MessageSubstructureBlocked>
   <!-- EN: Must be placed within range of a grav engine. -->
-  <MessageMustBePlacedInRangeOfGravEngine>TODO</MessageMustBePlacedInRangeOfGravEngine>
+  <MessageMustBePlacedInRangeOfGravEngine>Phải được đặt trong phạm vi của động cơ trọng lực.</MessageMustBePlacedInRangeOfGravEngine>
 
   <!-- Alerts -->
   <!-- EN: {0} has died from vacuum exposure. -->
-  <MessagePlantDiedOfRot_ExposedToVacuum>TODO</MessagePlantDiedOfRot_ExposedToVacuum>
+  <MessagePlantDiedOfRot_ExposedToVacuum>{0} đã chết vì tiếp xúc với chân không.</MessagePlantDiedOfRot_ExposedToVacuum>
 
   <!-- Ancient Vents -->
   <!-- EN: The ancient smoke vents have become active, darkening the sky. -->
-  <AncientSmokeVentStartUp>TODO</AncientSmokeVentStartUp>
+  <AncientSmokeVentStartUp>Các lỗ khói cổ xưa đã trở nên hoạt động, làm tối bầu trời.</AncientSmokeVentStartUp>
   <!-- EN: The ancient smoke vents are stopping. -->
-  <AncientSmokeVentShutdown>TODO</AncientSmokeVentShutdown>
+  <AncientSmokeVentShutdown>Các lỗ khói cổ xưa đang ngừng lại.</AncientSmokeVentShutdown>
   <!-- EN: The ancient toxic vents have become active, causing toxic fallout. -->
-  <AncientToxVentStartUp>TODO</AncientToxVentStartUp>
+  <AncientToxVentStartUp>Các lỗ thông hơi độc hại cổ xưa đã hoạt động, gây ra bụi phóng xạ độc hại.</AncientToxVentStartUp>
   <!-- EN: The ancient toxic vents are stopping. -->
-  <AncientToxVentShutdown>TODO</AncientToxVentShutdown>
+  <AncientToxVentShutdown>Các lỗ thông hơi độc hại cổ xưa đang dừng lại.</AncientToxVentShutdown>
   <!-- EN: The ancient heat vents have become active, raising temperatures. -->
-  <AncientHeatVentStartUp>TODO</AncientHeatVentStartUp>
+  <AncientHeatVentStartUp>Các lỗ thông hơi nhiệt cổ xưa đã hoạt động, làm tăng nhiệt độ.</AncientHeatVentStartUp>
   <!-- EN: The ancient heat vents are stopping. -->
-  <AncientHeatVentShutdown>TODO</AncientHeatVentShutdown>
+  <AncientHeatVentShutdown>Các lỗ thông hơi nhiệt cổ xưa đang ngừng lại.</AncientHeatVentShutdown>
   
   <!-- EN: Must be placed over shallow water containing fish. -->
-  <CannotPlaceFishingZone>TODO</CannotPlaceFishingZone>
+  <CannotPlaceFishingZone>Phải được đặt trên vùng nước nông có chứa cá.</CannotPlaceFishingZone>
   
   <!-- EN: {TRAP_indefinite} was triggered. -->
-  <MessageTrapSprung>TODO</MessageTrapSprung>
+  <MessageTrapSprung>{TRAP_indefinite} đã được kích hoạt.</MessageTrapSprung>
 
   <!-- EN: {0} is ready to launch again. -->
-  <GravshipReadyToLaunch>TODO</GravshipReadyToLaunch>
+  <GravshipReadyToLaunch>{0} đã sẵn sàng để ra mắt trở lại.</GravshipReadyToLaunch>
 
   <!-- EN: An orbital scanner has found a signal and is locating its origin -->
-  <MessageOrbitalSignalDetected>TODO</MessageOrbitalSignalDetected>
+  <MessageOrbitalSignalDetected>Một máy quét quỹ đạo đã tìm thấy tín hiệu và đang xác định nguồn gốc của nó</MessageOrbitalSignalDetected>
   <!-- EN: completes in {0} -->
-  <OrbitalScannerCompletesIn>TODO</OrbitalScannerCompletesIn>
+  <OrbitalScannerCompletesIn>hoàn thành trong {0}</OrbitalScannerCompletesIn>
 
   <!-- EN: While talking with {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of a new quest: {0} -->
-  <MessageTraderGaveQuest>TODO</MessageTraderGaveQuest>
+  <MessageTraderGaveQuest>Trong khi nói chuyện với {TRADER_nameDef}, {NEGOTIATOR_nameDef} biết được một nhiệm vụ mới: {0}</MessageTraderGaveQuest>
   <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered a quest: {0} -->
-  <MessageBookGaveQuest>TODO</MessageBookGaveQuest>
+  <MessageBookGaveQuest>Trong khi đọc {BOOK_labelNoParenthesis}, {READER_nameDef} phát hiện ra một nhiệm vụ: {0}</MessageBookGaveQuest>
 
   <!-- EN: Confirm gravship landing zone to continue. -->
-  <MessageConfirmLandingAreaFirst>TODO</MessageConfirmLandingAreaFirst>
+  <MessageConfirmLandingAreaFirst>Xác nhận vùng hạ cánh tàu hấp dẫn để tiếp tục.</MessageConfirmLandingAreaFirst>
   <!-- EN: Choose a landing site first. -->
-  <MessageNoLandingSiteSelected>TODO</MessageNoLandingSiteSelected>
+  <MessageNoLandingSiteSelected>Chọn một trang đích trước.</MessageNoLandingSiteSelected>
   
   <!-- EN: Cannot store {THING_labelShort} on {TARGET_indefinite} -->
-  <CannotStoreThingOnTarget>TODO</CannotStoreThingOnTarget>
+  <CannotStoreThingOnTarget>Không thể lưu trữ {THING_labelShort} trên {TARGET_indefinite}</CannotStoreThingOnTarget>
 
 </LanguageData>

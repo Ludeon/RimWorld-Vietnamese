@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Âm Thanh - Hình Ảnh</Audiovisuals>
@@ -25,23 +26,19 @@
   <UIVolumeTooltip>Ảnh hưởng đến tất cả âm thanh giao diện, ví dụ: bấm nút, tin nhắn.</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Khử răng cưa</Antialiasing>
+
   <!-- Gameplay -->
-  <!--EN: Remember draw styles-->
-  <!--VI: Ghi nhớ phong cách vẽ-->
+  <!-- EN: Remember draw styles -->
   <RememberDrawStyle>TODO</RememberDrawStyle>
-  <!--EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones.-->
-  <!--VI: Khi được bật, kiểu vẽ sẽ không đặt lại về kiểu vẽ mặc định khi đặt các tòa nhà hoặc khu vực mới.-->
+  <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
   <RememberDrawStyle_Tooltip>TODO</RememberDrawStyle_Tooltip>
-  <!--EN: Zoom switches world map layers-->
-  <!--VI: Thu phóng chuyển đổi các lớp bản đồ thế giới-->
+  <!-- EN: Zoom switches world map layers -->
   <ZoomSwitchLayer>TODO</ZoomSwitchLayer>
-  <!--EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again.-->
-  <!--VI: Khi được bật, thu nhỏ trên bản đồ thế giới sẽ chuyển sang chế độ xem quỹ đạo. Phóng to sẽ hiển thị hành tinh một lần nữa.-->
+  <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
   <ZoomSwitchLayer_Tooltip>TODO</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Cuộn chuột trên màn hình</EdgeScreenScroll>
-  <!--EN: Zoom to mouse-->
-  <!--VI: Thu phóng đến chuột-->
+  <!-- EN: Zoom to mouse -->
   <ZoomToMouse>TODO</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Tạm dừng khi tải</PauseOnLoad>
@@ -75,17 +72,13 @@
   <DevelopmentMode>Chế độ nhà phát triển</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Tự động đặt lại cấu hình mod khi sự cố</ResetModsConfigOnCrash>
-  <!--EN: Quick start has no cryptosleep sickness-->
-  <!--VI: Bắt đầu nhanh không có bệnh ngủ tiền điện tử-->
+  <!-- EN: Quick start has no cryptosleep sickness -->
   <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
-  <!--EN: Start game with dev palette on-->
-  <!--VI: Bắt đầu trò chơi với bảng màu nhà phát triển trên-->
+  <!-- EN: Start game with dev palette on -->
   <StartDevPaletteOn>TODO</StartDevPaletteOn>
-  <!--EN: Open log on warnings-->
-  <!--VI: Mở cảnh báo đăng nhập-->
+  <!-- EN: Open log on warnings -->
   <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
-  <!--EN: Close log by pressing cancel-->
-  <!--VI: Đóng nhật ký bằng cách nhấn hủy-->
+  <!-- EN: Close log by pressing cancel -->
   <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Đăng nhập phức tạp</LogVerbose>
@@ -121,15 +114,13 @@
   <TemperatureMode>Chế độ nhiệt độ</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Hiển thị đồng hồ hệ thống</ShowRealtimeClock>
-  <!--EN: Use 12 hour clock-->
-  <!--VI: Sử dụng đồng hồ 12 giờ-->
+  <!-- EN: Use 12 hour clock -->
   <TwelveHourClockMode>TODO</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Vô hiệu hóa phông chữ nhỏ</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Số lượng thuộc địa tối đa: {0}</MaxNumberOfPlayerSettlements>
-  <!--EN: Autosaves count: {0}-->
-  <!--VI: Số lần lưu tự động: {0}-->
+  <!-- EN: Autosaves count: {0} -->
   <AutosavesCount>TODO</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Độ nhạy chuột khi kéo bản đồ</MapDragSensitivity>
@@ -151,6 +142,7 @@
   <SmoothCameraJumps>Camera nhảy mượt mà</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
   <SmoothCameraJumpsDesc>Khi được bật, máy ảnh sẽ xoay nhanh khi lấy nét ở một vị trí mới. Khi tắt, máy ảnh sẽ nhảy ngay lập tức.</SmoothCameraJumpsDesc>
+
   <!-- Resolution -->
   <!-- EN: Resolution -->
   <Resolution>Độ phân giải</Resolution>
@@ -160,11 +152,13 @@
   <BorderlessFullscreen>Toàn màn hình không viền</BorderlessFullscreen>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
   <BorderlessFullscreenInstructions>Để chạy RimWorld ở chế độ toàn màn hình không viền:\n\n1) Mở Steam\n2) Chuyển đến tab "Thư viện" ở trên cùng\n3) Tìm RimWorld trong danh sách và nhấp chuột phải vào nó\n4) Chọn "Thuộc tính... "\n5) Thêm "-popupwindow" không có dấu ngoặc kép vào "Launch options" trong tab "General"\n6) Khởi động lại trò chơi\n7) Nếu thực hiện đúng, bạn sẽ không thấy cửa sổ này\n\nGợi ý: Sử dụng Windows Key + Shift + Trái/Phải để di chuyển cửa sổ giữa các màn hình của bạn.</BorderlessFullscreenInstructions>
+
   <!-- Mods -->
   <!-- EN: Select mod... -->
   <SelectMod>Chọn mod ...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Không có mod nào được tải.</NoConfigurableMods>
+  
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
   <RestoreToDefaultSettingsLabel>Khôi phục tất cả các cài đặt về mặc định</RestoreToDefaultSettingsLabel>
@@ -176,7 +170,9 @@
   <ResetAndRestartConfirmationDialog>Tất cả các cài đặt của bạn sẽ được đặt lại về mặc định và trò chơi sẽ được khởi động lại. Tất cả tiến độ chưa được lưu sẽ bị mất!\n\nTiếp tục?</ResetAndRestartConfirmationDialog>
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
   <ChangedTextureCompressionRestart>Thay đổi tùy chọn nén họa tiết yêu cầu khởi động lại. Tất cả tiến trình chưa được lưu sẽ bị mất!\n\nTiếp tục?</ChangedTextureCompressionRestart>
+  
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Nền menu</SetBackgroundImage>
+
 </LanguageData>

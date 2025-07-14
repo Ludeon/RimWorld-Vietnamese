@@ -1,71 +1,61 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: advanced fabrication -->
   <AdvancedFabrication.label>chế tạo tiên tiến</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
   <AdvancedFabrication.description>Chế tạo các thành phần tiên tiến từ các thành phần tiêu chuẩn và các vật liệu khác.</AdvancedFabrication.description>
-  <!--EN: <li>subject->advanced component fabrication</li>
+  <!-- EN:
+    <li>subject->advanced component fabrication</li>
     <li>subject_story->traded advanced components to desperate rimworlders</li>
     <li>subject_story->learned the secrets of fabricating advanced components and died without revealing them</li>
     <li>subject_story->balked at the extreme cost of crafting advanced components and chose a simpler lifestyle</li>
-    <li>subject_gerund->fabricating advanced components</li>-->
-  <!--VI: <li>Chế tạo linh kiện > tiên tiến</li>
-    <li>subject_story-> trao đổi các thành phần tiên tiến cho những người lái xe Vành đai tuyệt vọng</li>
-    <li>subject_story-> đã học được bí mật chế tạo các thành phần tiên tiến và chết mà không tiết lộ chúng</li>
-    <li>subject_story > chùn bước với chi phí cực cao để chế tạo các thành phần tiên tiến và chọn một lối sống đơn giản hơn</li>
-    <li>subject_gerund > chế tạo các thành phần tiên tiến</li>-->
+    <li>subject_gerund->fabricating advanced components</li>
+  -->
   <AdvancedFabrication.generalRules.rulesStrings>TODO</AdvancedFabrication.generalRules.rulesStrings>
+  
   <!-- EN: bionic replacements -->
   <Bionics.label>công nghệ sinh học</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
   <Bionics.description>Xây dựng các bộ phận cơ thể sinh học công nghệ cao để thay thế tay chân và mắt bị mất. Yêu cầu một bác sĩ lành nghề kèm theo.</Bionics.description>
-  <!--EN: <li>subject->bionic prosthesis</li>
+  <!-- EN:
+    <li>subject->bionic prosthesis</li>
     <li>subject_story->worked primarily with disfigured soldiers, crafting bespoke bionic facial elements so they could return to their loved ones</li>
     <li>subject_story->studied slowed vids of human motion to better craft bionic prosthetics</li>
     <li>subject_story->was volunteered to have the various prototype bionics  implanted, ending up as more machine than man</li>
     <li>subject_gerund->constructing bionic prosthetics</li>
-    <li>subject_gerund->utilizing bionic body parts</li>-->
-  <!--VI: <li>bộ phận giả > sinh học</li>
-    <li>subject_story->làm việc chủ yếu với những người lính bị biến dạng, tạo ra các yếu tố khuôn mặt sinh học riêng để họ có thể trở về với những người thân yêu của mình</li>
-    <li>subject_story-> nghiên cứu video làm chậm chuyển động của con người để chế tạo bộ phận giả sinh học tốt hơn</li>
-    <li>subject_story-> tình nguyện cấy ghép các nguyên mẫu bionics khác nhau, cuối cùng trở thành máy móc hơn con người</li>
-    <li>subject_gerund > xây dựng bộ phận giả sinh học</li>
-    <li>subject_gerund-> sử dụng các bộ phận cơ thể sinh học</li>-->
+    <li>subject_gerund->utilizing bionic body parts</li>
+  -->
   <Bionics.generalRules.rulesStrings>TODO</Bionics.generalRules.rulesStrings>
+  
   <!-- EN: pulse-charged munitions -->
   <ChargedShot.label>đạn dược tích điện</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
   <ChargedShot.description>Chế tạo vũ khí bắn đạn điện tử để có thêm sát thương. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</ChargedShot.description>
-  <!--EN: <li>subject->pulse munitions</li>
+  <!-- EN:
+    <li>subject->pulse munitions</li>
     <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
     <li>subject_story->killed a mechanical crawler by kiting it with a charge lance</li>
     <li>subject_story->learned how to imbue rifle ammunition with retained charge, heavily increasing its lethality</li>
     <li>subject_gerund->constructing pulse munitions</li>
-    <li>subject_gerund->utilising pulse munitions</li>-->
-  <!--VI: đối <li>tượng-> đạn xung</li>
-    <li>subject_story-> nghiên cứu các monorail Glitterworld và sửa đổi công nghệ cho vũ khí</li>
-    <li>subject_story-> giết chết một chiếc bánh xích cơ khí bằng cách thả diều nó bằng một cây thương nạp</li>
-    <li>subject_story->học cách thấm nhuần đạn súng trường với chất điện tích giữ lại, tăng đáng kể khả năng gây chết người của nó</li>
-    <li>subject_gerund > chế tạo đạn xung</li>
-    <li>subject_gerund > sử dụng đạn xung</li>-->
+    <li>subject_gerund->utilising pulse munitions</li>
+  -->
   <ChargedShot.generalRules.rulesStrings>TODO</ChargedShot.generalRules.rulesStrings>
+  
   <!-- EN: cryptosleep casket -->
   <Cryptosleep.label>quan tài ngủ đông</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
   <Cryptosleep.description>Xây dựng quan tài ngủ đông, có thể đưa sinh vật vào trạng thái ngủ đông không thời hạn</Cryptosleep.description>
-  <!--EN: <li>subject->cryptosleep</li>
+  <!-- EN:
+    <li>subject->cryptosleep</li>
     <li>subject_story->intended to test a prototype cryptosleep casket and woke a generation later, alone</li>
     <li>subject_story->sentenced the system's worst criminal to indefinite cryptosleep rather than death</li>
     <li>subject_story->used a cryptosleep capsule to suspend the terminally ill, so they could see their children once they'd grown up</li>
     <li>subject_gerund->constructing cryptosleep caskets</li>
-    <li>subject_gerund->inducing cryptosleep</li>-->
-  <!--VI: <li>đối tượng->cryptosleep</li>
-    <li>subject_story->dự định thử nghiệm một chiếc quan tài cryptosleep nguyên mẫu và thức dậy một thế hệ sau đó, một mình</li>
-    <li>subject_story-> kết án tội phạm tồi tệ nhất của hệ thống ngủ vô thời hạn thay vì tử hình</li>
-    <li>subject_story->đã sử dụng một viên nang ngủ tiền điện tử để treo bệnh nan y, để họ có thể nhìn thấy con cái của họ khi họ lớn lên</li>
-    <li>subject_gerund->xây dựng quan tài cryptosleep</li>
-    <li>subject_gerund-> gây ngủ tiền điện tử</li>-->
+    <li>subject_gerund->inducing cryptosleep</li>
+  -->
   <Cryptosleep.generalRules.rulesStrings>TODO</Cryptosleep.generalRules.rulesStrings>
+  
   <!-- EN: fabrication -->
   <Fabrication.label>chế tạo</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
@@ -74,115 +64,96 @@
   <Fabrication.discoveredLetterText>Bây giờ bạn có công nghệ để xây dựng một bàn chế tạo - nhưng nó cũng đòi hỏi một số thành phần tiên tiến để bắt đầu. Bạn có thể thu thập các thành phần nâng cao theo nhiều cách:\n\n -Tất cả các khu định cư outlander bán các thành phần nâng cao. Gửi một đoàn lữ hành để mua một số.\n -Một số thương nhân ghé thăm bán các thành phần tiên tiến. Mời hoặc đợi họ.\n -Một số nhiệm vụ được thưởng bằng các thành phần nâng cao.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
   <Fabrication.discoveredLetterTitle>Về: Nhận được các thành phần tiên tiến</Fabrication.discoveredLetterTitle>
-  <!--EN: <li>subject->high-tech fabrication benches</li>
+  <!-- EN:
+    <li>subject->high-tech fabrication benches</li>
     <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
     <li>subject_story->traded everything to build a single fabrication bench</li>
     <li>subject_story->constructed technological marvels which the feral villagers worshipped as magical</li>
     <li>subject_gerund->constructing high-tech projects</li>
-    <li>subject_gerund->building high-tech fabrication stations</li>-->
-  <!--VI: <li>Ghế chế tạo công nghệ cao > đối tượng</li>
-    <li>subject_story-> đã dành nhiều năm để chế tạo các thành phần tiên tiến, để chế tạo băng ghế chế tạo để tạo ra các thành phần tiên tiến hơn</li>
-    <li>subject_story > trao đổi mọi thứ để xây dựng một băng ghế chế tạo duy nhất</li>
-    <li>subject_story > chế tạo những kỳ quan công nghệ mà dân làng hoang dã tôn thờ như một phép thuật</li>
-    <li>subject_gerund-> xây dựng các dự án công nghệ cao</li>
-    <li>subject_gerund > xây dựng trạm chế tạo công nghệ cao</li>-->
+    <li>subject_gerund->building high-tech fabrication stations</li>
+  -->
   <Fabrication.generalRules.rulesStrings>TODO</Fabrication.generalRules.rulesStrings>
+  
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>đa phân tích</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
   <MultiAnalyzer.description>Xây dựng nhiều máy phân tích làm tăng tốc độ nghiên cứu và cho phép các dự án nghiên cứu cấp cao hơn. Yêu cầu các thành phần tiên tiến để xây dựng.</MultiAnalyzer.description>
-  <!--EN: <li>subject->multi-analysis</li>
+  <!-- EN:
+    <li>subject->multi-analysis</li>
     <li>subject_story->automated a research laboratory</li>
     <li>subject_story->unlocked the trans-spectrum secrets of the universe</li>
     <li>subject_story->helped identify new stable isotopes</li>
-    <li>subject_gerund->constructing multi-analyzers</li>-->
-  <!--VI: <li>chủ đề-> đa phân tích</li>
-    <li>subject_story->tự động hóa phòng thí nghiệm nghiên cứu</li>
-    <li>subject_story-> mở khóa những bí mật xuyên quang phổ của vũ trụ</li>
-    <li>subject_story->giúp xác định các đồng vị ổn định mới</li>
-    <li>subject_gerund-> xây dựng đa máy phân tích</li>-->
+    <li>subject_gerund->constructing multi-analyzers</li>
+  -->
   <MultiAnalyzer.generalRules.rulesStrings>TODO</MultiAnalyzer.generalRules.rulesStrings>
+  
   <!-- EN: marine armor -->
   <PoweredArmor.label>áo giáp năng lượng</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
   <PoweredArmor.description>Xây dựng áo giáp năng lượng và mũ giáp năng lượng. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</PoweredArmor.description>
-  <!--EN: <li>subject->marine armor</li>
+  <!-- EN:
+    <li>subject->marine armor</li>
     <li>subject_story->was employed by the shock troops to maintain their armor</li>
     <li>subject_story->tested the armor by walking, unarmed, through a hostile feral village without receiving a scratch</li>
     <li>subject_story->intended the armor as protection against the planet's hostile weather, but it worked well against the pirates too</li>
     <li>subject_gerund->constructing shock troop armor</li>
     <li>subject_gerund->constructing marine armor</li>
-    <li>subject_gerund->constructing general-use advanced armor</li>-->
-  <!--VI: <li>đối tượng-> áo giáp thủy quân lục chiến</li>
-    <li>subject_story-> được sử dụng bởi lực lượng xung kích để duy trì áo giáp của họ</li>
-    <li>subject_story-> kiểm tra áo giáp bằng cách đi bộ, không có vũ khí, qua một ngôi làng hoang dã thù địch mà không bị trầy xước</li>
-    <li>subject_story->dự định áo giáp để bảo vệ chống lại thời tiết thù địch của hành tinh, nhưng nó cũng hoạt động tốt chống lại cướp biển</li>
-    <li>subject_gerund-> xây dựng áo giáp lực lượng xung kích</li>
-    <li>subject_gerund > xây dựng áo giáp hàng hải</li>
-    <li>subject_gerund-> chế tạo áo giáp tiên tiến sử dụng chung</li>-->
+    <li>subject_gerund->constructing general-use advanced armor</li>
+  -->
   <PoweredArmor.generalRules.rulesStrings>TODO</PoweredArmor.generalRules.rulesStrings>
+  
   <!-- EN: recon armor -->
   <ReconArmor.label>áo giáp trinh thám</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
   <ReconArmor.description>Chế tạo áo giáp trinh thám, một bộ áo giáp chạy bằng năng lượng nhẹ được sử dụng bởi các đội trinh sát cần bảo vệ khi di chuyển. Lưu ý rằng những điều này cũng đòi hỏi các thành phần tiên tiến.</ReconArmor.description>
-  <!--EN: <li>subject->recon armor</li>
+  <!-- EN:
+    <li>subject->recon armor</li>
     <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
     <li>subject_story->crafted powered armor light and resilient enough for the hammer-users to close with the enemy</li>
     <li>subject_story->intended recon armor more for hunters than soldiers. It sold well, regardless</li>
     <li>subject_gerund->crafting recon armor</li>
-    <li>subject_gerund->reducing armor weight</li>-->
-  <!--VI: <li>Giáp trinh sát đối tượng ></li>
-    <li>subject_story-> dẫn đầu các trinh sát nổi dậy chống lại lực lượng Đế quốc, cho đến khi bị bắt</li>
-    <li>subject_story-> chế tạo áo giáp được chế tạo nhẹ và đủ đàn hồi để những người sử dụng búa áp sát với kẻ thù</li>
-    <li>subject_story > dự định trinh sát áo giáp cho thợ săn hơn là binh lính. Nó bán chạy, bất kể</li>
-    <li>subject_gerund > chế tạo áo giáp trinh sát</li>
-    <li>subject_gerund-> giảm trọng lượng áo giáp</li>-->
+    <li>subject_gerund->reducing armor weight</li>
+  -->
   <ReconArmor.generalRules.rulesStrings>TODO</ReconArmor.generalRules.rulesStrings>
+  
   <!-- EN: rocketswarm launcher -->
   <RocketswarmLauncher.label>bệ phóng rocket hàng loạt</RocketswarmLauncher.label>
   <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
   <RocketswarmLauncher.description>Sản xuất bệ phóng rocket hàng loạt, tháp pháo nổ một lần có thể tàn phá một khu vực rộng lớn vào thời điểm quan trọng của trận chiến.</RocketswarmLauncher.description>
-  <!--EN: <li>subject->rocket turrets</li>
+  <!-- EN:
+    <li>subject->rocket turrets</li>
     <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
     <li>subject_story->constructed last-ditch defenses, including traps and launchers, in case the settlement was ever threatened</li>
     <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
-    <li>subject_gerund->constructing rocket turrets</li>-->
-  <!--VI: tháp <li>pháo tên lửa > đối tượng</li>
-    <li>subject_story-> làm chứng về việc sử dụng bệ phóng tên lửa chống lại các mục tiêu dân sự</li>
-    <li>subject_story > xây dựng hệ thống phòng thủ cuối cùng, bao gồm bẫy và bệ phóng, trong trường hợp khu định cư bị đe dọa</li>
-    <li>subject_story-> bắt đầu bằng cách chế tạo tên lửa nguyên thủy để vươn tới không gian, nhưng tỷ lệ thất bại cao dẫn đến việc chúng được tái sử dụng làm vũ khí</li>
-    <li>subject_gerund > chế tạo tháp pháo tên lửa</li>-->
+    <li>subject_gerund->constructing rocket turrets</li>
+  -->
   <RocketswarmLauncher.generalRules.rulesStrings>TODO</RocketswarmLauncher.generalRules.rulesStrings>
+  
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>tháp pháo bắn tỉa</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
   <SniperTurret.description>Sản xuất tháp pháo bắn tỉa có tầm bắn cực xa. Nó bắn ra những đạn uranium nhỏ xé rách tấm thép như giấy, nhưng nó kém hiệu quả ở cự ly gần.</SniperTurret.description>
-  <!--EN: <li>subject->sniper turrets</li>
+  <!-- EN:
+    <li>subject->sniper turrets</li>
     <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
     <li>subject_story->saw a turret shoot straight through an assault mechanoid and needed to understand how</li>
     <li>subject_story->researched the effects of ammunition density on armor</li>
-    <li>subject_gerund->constructing sniper turrets</li>-->
-  <!--VI: <li>đối tượng-> tháp pháo bắn tỉa</li>
-    <li>subject_story > dẫn đầu cuộc dọn dẹp sau chiến tranh, thu thập sên uranium phóng xạ đã qua sử dụng từ tiền tuyến</li>
-    <li>subject_story->nhìn thấy một tháp pháo bắn thẳng qua một cơ khí tấn công và cần phải hiểu cách</li>
-    <li>subject_story > nghiên cứu ảnh hưởng của mật độ đạn dược đối với áo giáp</li>
-    <li>subject_gerund-> chế tạo tháp pháo bắn tỉa</li>-->
+    <li>subject_gerund->constructing sniper turrets</li>
+  -->
   <SniperTurret.generalRules.rulesStrings>TODO</SniperTurret.generalRules.rulesStrings>
+  
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>máy điện tâm đồ</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
   <VitalsMonitor.description>Xây dựng máy điện tâm đồ cải thiện kết quả y tế khi đặt cạnh giường bệnh.</VitalsMonitor.description>
-  <!--EN: <li>subject->vital signs monitoring</li>
+  <!-- EN:
+    <li>subject->vital signs monitoring</li>
     <li>subject_story->struggled in an overcrowded hospital and vowed to work for change</li>
     <li>subject_story->nursed a glassworld survivor back to health</li>
     <li>subject_story->monitored the isolation ward remotely, sending mechanoids in for treatments</li>
     <li>subject_gerund->monitoring vital signs</li>
-    <li>subject_gerund->constructing vital signs monitors</li>-->
-  <!--VI: <li>Theo dõi các dấu hiệu > đối tượng sinh tồn</li>
-    <li>subject_story > đấu tranh trong một bệnh viện quá đông đúc và thề sẽ làm việc vì sự thay đổi</li>
-    <li>subject_story-> chăm sóc một người sống sót trong thế giới thủy tinh khỏe mạnh trở lại</li>
-    <li>subject_story-> giám sát khu cách ly từ xa, gửi cơ khí đến để điều trị</li>
-    <li>subject_gerund > theo dõi các dấu hiệu sinh tồn</li>
-    <li>subject_gerund > chế tạo màn hình dấu hiệu sinh tồn</li>-->
+    <li>subject_gerund->constructing vital signs monitors</li>
+  -->
   <VitalsMonitor.generalRules.rulesStrings>TODO</VitalsMonitor.generalRules.rulesStrings>
+  
 </LanguageData>

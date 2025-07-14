@@ -3,65 +3,65 @@
 
   <!-- Grav engine/substructrues -->
   <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. -->
-  <ConfirmGravEngineLaunch>TODO</ConfirmGravEngineLaunch>
+  <ConfirmGravEngineLaunch>Bạn có chắc chắn muốn phóng không?\n\nBản đồ hiện tại của bạn, cũng như bất cứ thứ gì không nằm trong cấu trúc phụ của tàu trọng lực, sẽ bị mất vĩnh viễn. Quá trình khởi chạy mang tính hủy diệt, có nghĩa là bạn sẽ không thể quay lại.</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
-  <GravEngineWarning>TODO</GravEngineWarning>
+  <GravEngineWarning>Cảnh báo</GravEngineWarning>
   <!-- EN: The following people will be left behind -->
-  <PeopleWillBeLeftBehind>TODO</PeopleWillBeLeftBehind>
+  <PeopleWillBeLeftBehind>Những người sau đây sẽ bị bỏ lại phía sau</PeopleWillBeLeftBehind>
   <!-- EN: The following will be left behind -->
-  <AnimalsWillBeLeftBehind>TODO</AnimalsWillBeLeftBehind>
+  <AnimalsWillBeLeftBehind>Những điều sau đây sẽ bị bỏ lại phía sau</AnimalsWillBeLeftBehind>
   <!-- EN: The following people and animals from another faction will be taken with you. This will upset their faction, potentially turning them hostile -->
-  <PawnsKidnappedOnGravship>TODO</PawnsKidnappedOnGravship>
+  <PawnsKidnappedOnGravship>Những người và động vật sau đây từ một phe khác sẽ được đưa theo bạn. Điều này sẽ khiến phe của họ khó chịu, có khả năng khiến họ trở nên thù địch</PawnsKidnappedOnGravship>
   <!-- EN: The following buildings are not fully on the gravship and will be left behind -->
-  <BuildingsWillBeLeftBehind>TODO</BuildingsWillBeLeftBehind>
+  <BuildingsWillBeLeftBehind>Các tòa nhà sau đây không hoàn toàn trên tàu hấp dẫn và sẽ bị bỏ lại phía sau</BuildingsWillBeLeftBehind>
   <!-- EN: Some substructure has invalid placement and will be left behind -->
-  <SubstructureWillBeLeftBehind>TODO</SubstructureWillBeLeftBehind>
+  <SubstructureWillBeLeftBehind>Một số cấu trúc phụ có vị trí không hợp lệ và sẽ bị bỏ lại phía sau</SubstructureWillBeLeftBehind>
   <!-- EN: Disconnected from grav engine -->
-  <DisconnectedSubstructure>TODO</DisconnectedSubstructure>
+  <DisconnectedSubstructure>Đã ngắt kết nối khỏi động cơ grav</DisconnectedSubstructure>
   <!-- EN: Under rock roof -->
-  <SubstructureUnderRockRoof>TODO</SubstructureUnderRockRoof>
+  <SubstructureUnderRockRoof>Dưới mái đá</SubstructureUnderRockRoof>
   <!-- EN: Out of range -->
-  <SubstructureOutsideFootprint>TODO</SubstructureOutsideFootprint>
+  <SubstructureOutsideFootprint>Ngoài phạm vi</SubstructureOutsideFootprint>
 
   <!-- EN: {0} has high hopes for your new gravship and wants to christen it with a good name. What should your gravship be called? -->
-  <NamePlayerGravshipMessage>TODO</NamePlayerGravshipMessage>
+  <NamePlayerGravshipMessage>{0} đặt nhiều hy vọng vào con tàu hấp dẫn mới của mình và muốn đặt tên cho nó một cái tên tốt. Gravship của bạn nên được gọi là gì?</NamePlayerGravshipMessage>
   <!-- EN: The gravship is now known as {0}. -->
-  <PlayerGravshipGainsName>TODO</PlayerGravshipGainsName>
+  <PlayerGravshipGainsName>Tàu hấp dẫn hiện được gọi là {0}.</PlayerGravshipGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerGravshipNameIsInvalid>TODO</PlayerGravshipNameIsInvalid>
+  <PlayerGravshipNameIsInvalid>Tên đó không hợp lệ.</PlayerGravshipNameIsInvalid>
 
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
-  <ConfirmLandOnHostileFactionBase>TODO</ConfirmLandOnHostileFactionBase>
+  <ConfirmLandOnHostileFactionBase>{0} thù địch. Nếu bạn hạ cánh ở đây, chúng sẽ tấn công bạn.</ConfirmLandOnHostileFactionBase>
   <!-- EN: Landing here will be seen as an aggressive act by {0}. They will become hostile and attack. -->
-  <ConfirmLandOnNeutralFactionBase>TODO</ConfirmLandOnNeutralFactionBase>
+  <ConfirmLandOnNeutralFactionBase>Hạ cánh ở đây sẽ được coi là một hành động hung hăng của {0}. Chúng sẽ trở nên thù địch và tấn công.</ConfirmLandOnNeutralFactionBase>
 
   <!-- EN: Land here anyway? -->
-  <ConfirmLand>TODO</ConfirmLand>
+  <ConfirmLand>Dù sao thì cũng hạ cánh ở đây?</ConfirmLand>
 
   <!-- EN: Orbital locations are dangerous. Make sure you're prepared:\n - Equip your colonists with vacsuits or other advanced armors.\n - Plan your return trip. Living in orbit for extended periods is extremely challenging. -->
-  <OrbitalWarning>TODO</OrbitalWarning>
+  <OrbitalWarning>Vị trí quỹ đạo rất nguy hiểm. Hãy chắc chắn rằng bạn đã chuẩn bị:\n - Trang bị cho những người thuộc địa của bạn những bộ quần áo trống hoặc áo giáp tiên tiến khác.\n - Lên kế hoạch cho chuyến trở về của bạn. Sống trên quỹ đạo trong thời gian dài là vô cùng khó khăn.</OrbitalWarning>
   <!-- EN: Prepare your gravship for orbit:\n- Use airtight walls and doors.\n- Ensure rooms are well heated and fully roofed.\n- Construct oxygen pumps. -->
-  <OrbitalWarning_Gravship>TODO</OrbitalWarning_Gravship>
+  <OrbitalWarning_Gravship>Chuẩn bị tàu hấp dẫn của bạn cho quỹ đạo:\n- Sử dụng các bức tường và cửa kín.\n- Đảm bảo các phòng được sưởi ấm tốt và có mái che hoàn toàn.\n- Xây dựng máy bơm oxy.</OrbitalWarning_Gravship>
   <!-- EN: Warning -->
-  <OrbitalWarning_Warning>TODO</OrbitalWarning_Warning>
+  <OrbitalWarning_Warning>Cảnh báo</OrbitalWarning_Warning>
   <!-- EN: Some exterior walls or doors are not airtight. -->
-  <OrbitalWarning_Vacuum>TODO</OrbitalWarning_Vacuum>
+  <OrbitalWarning_Vacuum>Một số bức tường hoặc cửa bên ngoài không kín gió.</OrbitalWarning_Vacuum>
   <!-- EN: No functional heat sources. -->
-  <OrbitalWarning_NoHeatSources>TODO</OrbitalWarning_NoHeatSources>
+  <OrbitalWarning_NoHeatSources>Không có nguồn nhiệt chức năng.</OrbitalWarning_NoHeatSources>
   <!-- EN: Few functional heat sources -->
-  <OrbitalWarning_FewHeatSources>TODO</OrbitalWarning_FewHeatSources>
+  <OrbitalWarning_FewHeatSources>Ít nguồn nhiệt chức năng</OrbitalWarning_FewHeatSources>
   <!-- EN: No functional oxygen pumps. -->
-  <OrbitalWarning_NoOxygenPumps>TODO</OrbitalWarning_NoOxygenPumps>
+  <OrbitalWarning_NoOxygenPumps>Không có máy bơm oxy chức năng.</OrbitalWarning_NoOxygenPumps>
   <!-- EN: Few functional oxygen pumps -->
-  <OrbitalWarning_FewOxygenPumps>TODO</OrbitalWarning_FewOxygenPumps>
+  <OrbitalWarning_FewOxygenPumps>Ít máy bơm oxy chức năng</OrbitalWarning_FewOxygenPumps>
 
   <!-- EN: The shuttle does not have enough fuel to return from this destination. It may be stranded.\n\nYou currently have {0} fuel but need {1} fuel for a return flight.\n\nAre you sure you want to continue? -->
-  <ConfirmShuttleNotEnoughFuelToReturn>TODO</ConfirmShuttleNotEnoughFuelToReturn>
+  <ConfirmShuttleNotEnoughFuelToReturn>Xe đưa đón không có đủ nhiên liệu để trở về từ điểm đến này. Nó có thể bị mắc kẹt.\n\nBạn hiện có {0} nhiên liệu nhưng cần {1} nhiên liệu cho chuyến bay khứ hồi.\n\nBạn có chắc chắn muốn tiếp tục không?</ConfirmShuttleNotEnoughFuelToReturn>
   <!-- EN: Caravan is immobile due to shuttle -->
-  <CaravanMovementSpeedShuttle>TODO</CaravanMovementSpeedShuttle>
+  <CaravanMovementSpeedShuttle>Đoàn lữ hành bất động do xe đưa đón</CaravanMovementSpeedShuttle>
   <!-- EN: Refuel {0}x chemfuel -->
-  <RefuelShuttleCount>TODO</RefuelShuttleCount>
+  <RefuelShuttleCount>Tiếp nhiên liệu {0}x chemfuel</RefuelShuttleCount>
   <!-- EN: Zoom range (gravship) {0} -->
-  <ZoomRangeGravshipCutscene>TODO</ZoomRangeGravshipCutscene>
+  <ZoomRangeGravshipCutscene>Phạm vi thu phóng (tàu trọng lực) {0}</ZoomRangeGravshipCutscene>
 
 </LanguageData>

@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: grav nausea -->
-  <GravNausea.letterLabel>TODO</GravNausea.letterLabel>
+  <GravNausea.letterLabel>buồn nôn grav</GravNausea.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} was forced to do an emergency maneuver, resulting in an intense and prolonged deceleration. The experience has left your colonists feeling extremely nauseous. The effects will quickly fade. -->
-  <GravNausea.letterText>TODO</GravNausea.letterText>
+  <GravNausea.letterText>Trong khi hạ cánh {GRAVSHIP}, {PILOT_nameDef} buộc phải thực hiện một cuộc cơ động khẩn cấp, dẫn đến một đợt giảm tốc dữ dội và kéo dài. Trải nghiệm này đã khiến những người thuộc địa của bạn cảm thấy vô cùng buồn nôn. Các hiệu ứng sẽ nhanh chóng mờ dần.</GravNausea.letterText>
   
   <!-- EN: minor gravship crash -->
-  <MinorGravshipCrash.letterLabel>TODO</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterLabel>Tai nạn trọng lực nhỏ</MinorGravshipCrash.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} accidentally disengaged the grav engine too early, causing the gravship to free-fall for several feet. Some buildings on the gravship have sustained light damage from the crash. -->
-  <MinorGravshipCrash.letterText>TODO</MinorGravshipCrash.letterText>
+  <MinorGravshipCrash.letterText>Trong khi hạ cánh {GRAVSHIP}, {PILOT_nameDef} vô tình ngắt động cơ trọng lực quá sớm, khiến tàu hấp dẫn rơi tự do vài feet. Một số tòa nhà trên tàu gravship đã bị hư hại nhẹ do vụ tai nạn.</MinorGravshipCrash.letterText>
   
   <!-- EN: overheated grav engine -->
-  <OverheatedGravEngine.letterLabel>TODO</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterLabel>Động cơ grav quá nóng</OverheatedGravEngine.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} over-engaged the grav engine, causing it to overheat. The grav engine will take longer than normal to cool down. In the meantime, the gravship can't be launched. -->
-  <OverheatedGravEngine.letterText>TODO</OverheatedGravEngine.letterText>
+  <OverheatedGravEngine.letterText>Trong khi hạ cánh {GRAVSHIP}, {PILOT_nameDef} đã hoạt động quá mức động cơ grav, khiến nó quá nóng. Động cơ grav sẽ mất nhiều thời gian hơn bình thường để nguội. Trong khi chờ đợi, tàu hấp dẫn không thể được phóng lên.</OverheatedGravEngine.letterText>
   
   <!-- EN: thruster breakdown -->
-  <ThrusterBreakdown.letterLabel>TODO</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterLabel>sự cố máy đẩy</ThrusterBreakdown.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} overheated the ship's thrusters, frying valuable components. The thrusters will need to be repaired before they can be used again. -->
-  <ThrusterBreakdown.letterText>TODO</ThrusterBreakdown.letterText>
+  <ThrusterBreakdown.letterText>Trong khi hạ cánh {GRAVSHIP}, {PILOT_nameDef} đã làm quá nóng các động cơ đẩy của con tàu, chiên các bộ phận có giá trị. Các bộ đẩy sẽ cần được sửa chữa trước khi chúng có thể được sử dụng lại.</ThrusterBreakdown.letterText>
   
 </LanguageData>

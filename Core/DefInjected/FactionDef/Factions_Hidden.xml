@@ -1,31 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: neutral ancients -->
   <Ancients.label>người cổ đại trung lập</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>Người cổ đại</Ancients.fixedName>
   <!-- EN: leader -->
   <Ancients.leaderTitle>thủ lĩnh</Ancients.leaderTitle>
-  <!--EN: Ancient soldiers are attacking.-->
-  <!--VI: Những người lính cổ đại đang tấn công.-->
+  <!-- EN: Ancient soldiers are attacking. -->
   <Ancients.messageDefendersAttacking>TODO</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>người cổ đại</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>người cổ đại</Ancients.pawnsPlural>
+  
   <!-- EN: hostile ancients -->
   <AncientsHostile.label>người cổ đại thù địch</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Người cổ đại</AncientsHostile.fixedName>
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>thủ lĩnh</AncientsHostile.leaderTitle>
-  <!--EN: Ancient soldiers are attacking.-->
-  <!--VI: Những người lính cổ đại đang tấn công.-->
+  <!-- EN: Ancient soldiers are attacking. -->
   <AncientsHostile.messageDefendersAttacking>TODO</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>người cổ đại</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>người cổ đại</AncientsHostile.pawnsPlural>
+  
   <!-- EN: insect geneline -->
   <Insect.label>trùng tộc</Insect.label>
   <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
@@ -34,13 +35,13 @@
   <Insect.fixedName>trùng tộc</Insect.fixedName>
   <!-- EN: leader -->
   <Insect.leaderTitle>mẫu trùng</Insect.leaderTitle>
-  <!--EN: {0} from {1} are attacking your {2}.-->
-  <!--VI: {0} từ {1} đang tấn công {2} của bạn.-->
+  <!-- EN: {0} from {1} are attacking your {2}. -->
   <Insect.messageDefendersAttacking>TODO</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>trùng con</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>trùng đoàn</Insect.pawnsPlural>
+  
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>bầy đàn cỗ máy chiến đấu cơ</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
@@ -48,11 +49,11 @@
   <Mechanoid.fixedName>bầy cỗ máy chiến đấu cơ</Mechanoid.fixedName>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>cỗ máy đầu não</Mechanoid.leaderTitle>
-  <!--EN: {0} from {1} are attacking your {2}.-->
-  <!--VI: {0} từ {1} đang tấn công {2} của bạn.-->
+  <!-- EN: {0} from {1} are attacking your {2}. -->
   <Mechanoid.messageDefendersAttacking>TODO</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>cỗ máy chiến đấu cơ</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>bầy cỗ máy chiến đấu cơ</Mechanoid.pawnsPlural>
+  
 </LanguageData>

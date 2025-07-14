@@ -1,23 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>thiệt hại hóa học</ChemicalDamageModerate.label>
   <!-- EN: Chemical damage at the cellular level. -->
   <ChemicalDamageModerate.description>Thiệt hại hóa học ở cấp độ tế bào.</ChemicalDamageModerate.description>
+  
   <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>thiệt hại hóa học</ChemicalDamageSevere.label>
   <!-- EN: Chemical damage at the cellular level. -->
   <ChemicalDamageSevere.description>Thiệt hại hóa học ở cấp độ tế bào.</ChemicalDamageSevere.description>
+  
   <!-- EN: cirrhosis -->
   <Cirrhosis.label>xơ gan</Cirrhosis.label>
   <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
   <Cirrhosis.description>Một bệnh gan thoái hóa do tiêu thụ rượu quá mức.</Cirrhosis.description>
+  
   <!-- EN: resurrection psychosis -->
   <ResurrectionPsychosis.label>loạn thần sau hồi sinh</ResurrectionPsychosis.label>
   <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
   <ResurrectionPsychosis.description>Các kiểu suy nghĩ hỗn loạn gây ra bởi sự rời rạc của các cơ chế hồi sinh. Chứng rối loạn tâm thần khi hồi sinh tiến triển và cuối cùng gây ra chứng rối loạn tâm thần hoàn toàn và tử vong.\n\nNhững người được hồi sinh đòi hỏi các thợ máy để xây dựng lại các chức năng cơ thể của họ ở cấp độ tế bào. Các cơ chế luôn có cơ hội mất đi sự gắn kết, và nếu có, chúng sẽ tàn phá hệ thống thần kinh trung ương. Xác chết càng cũ, hành động cơ học càng được yêu cầu để hồi sinh nó, và cơ hội trang trí cuối cùng càng lớn.</ResurrectionPsychosis.description>
-  <!--EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death.-->
-  <!--VI: {PAWN_nameDef} đang mắc một trường hợp rối loạn tâm thần hồi sinh, một tình trạng gây ra bởi sự tách rời của các cơ chế phục sinh. Tình trạng sẽ từ từ xấu đi, cuối cùng dẫn đến tử vong.-->
+  <!-- EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death. -->
   <ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
   <ResurrectionPsychosis.descriptionShort>Các kiểu suy nghĩ hỗn loạn do hậu quả của việc hồi sinh gây ra. Rối loạn tâm thần hồi sinh tiến triển dần dần và cuối cùng gây ra rối loạn tâm thần và tử vong.</ResurrectionPsychosis.descriptionShort>
@@ -35,29 +38,30 @@
   <ResurrectionPsychosis.stages.total.label>toàn bộ</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->
   <ResurrectionPsychosis.stages.catatonic.label>tâm thần phân liệt</ResurrectionPsychosis.stages.catatonic.label>
+  
   <!-- EN: scaria -->
   <Scaria.label>virus cuồng loạn</Scaria.label>
   <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria can be cured through a special medical operation, but the creature must first be downed in order to make it possible to operate. The disease poisons the flesh, so creatures killed with scaria often appear rotten after death and cannot be butchered for meat or leather. After scaria rage has begun, the creature will last several days before dying from exhaustion. Scaria-infected animals can't be tamed. -->
   <Scaria.description>Một căn bệnh khiến các sinh vật bị ảnh hưởng nổi cơn thịnh nộ điên cuồng. Một sinh vật mắc virus cuồng loạn có thể được chữa khỏi thông qua một ca phẫu thuật y tế đặc biệt, nhưng nó phải bị hạ gục trước. Nếu không được điều trị, virus cuồng loạn sẽ giết chết vật chủ của nó khoảng năm ngày sau khi nhiễm bệnh. Căn bệnh này khiến thịt bị nhiễm độc và da bị thối rữa, vì vậy những sinh vật bị giết bằng virus cuồng loạn có khả năng bị thối rữa khi chết, vì vậy chúng không thể bị xẻ thịt để lấy thịt hoặc da.</Scaria.description>
   <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
   <Scaria.descriptionShort>Một căn bệnh khiến các sinh vật bị ảnh hưởng nổi cơn thịnh nộ điên cuồng. Nếu không được điều trị, virus cuồng loạn sẽ giết chết vật chủ của nó khoảng năm ngày sau khi nhiễm bệnh.</Scaria.descriptionShort>
-  <!--EN: Scaria infected.-->
-  <!--VI: Scaria bị nhiễm bệnh.-->
+  <!-- EN: Scaria infected. -->
   <Scaria.inspectString>TODO</Scaria.inspectString>
-  <!--EN: Scaria sores-->
-  <!--VI: Vết loét scaria-->
+  <!-- EN: Scaria sores -->
   <Scaria.renderNodeProperties.0.debugLabel>TODO</Scaria.renderNodeProperties.0.debugLabel>
-  <!--EN: Scaria sores-->
-  <!--VI: Vết loét scaria-->
+  <!-- EN: Scaria sores -->
   <Scaria.renderNodeProperties.1.debugLabel>TODO</Scaria.renderNodeProperties.1.debugLabel>
+  
   <!-- EN: sterilized -->
   <Sterilized.label>triệt sản</Sterilized.label>
   <!-- EN: This creature's reproductive system has been permanently shut down. -->
   <Sterilized.description>Hệ thống sinh sản của sinh vật này đã bị ngừng hoạt động vĩnh viễn.</Sterilized.description>
+  
   <!-- EN: trauma savant -->
   <TraumaSavant.label>chấn thương</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
   <TraumaSavant.description>Một tình trạng đặc biệt gây ra bởi chấn thương não. Bộ não, khi đối mặt với chấn thương, đã phát triển các khả năng cực đoan trong một số lĩnh vực, trong khi mất khả năng nói.</TraumaSavant.description>
   <!-- EN: trauma -->
   <TraumaSavant.labelNoun>vết thương</TraumaSavant.labelNoun>
+  
 </LanguageData>

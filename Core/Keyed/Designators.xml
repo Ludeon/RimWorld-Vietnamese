@@ -1,91 +1,101 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: Cancel -->
   <DesignatorCancel>Hủy bỏ</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>Hủy bỏ chỉ định xây dựng, khai thác, kéo, thu hoạch, và tất cả các chỉ định khác.</DesignatorCancelDesc>
+
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Chặt cây</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
   <DesignatorCutPlantsDesc>Đánh dấu cây sẽ chặt và phá hủy. Cây cối sẽ được chặt bỏ hoàn toàn, và bất kỳ sản lượng lương thực hoặc tài nguyên sẽ được thu hoạch.</DesignatorCutPlantsDesc>
+
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Tháo dỡ</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Tháo dỡ và nhận lại một phần tài nguyên.</DesignatorDeconstructDesc>
-  <!--EN: Deconstruct conduit-->
-  <!--VI: Giải cấu trúc ống dẫn-->
+
+  <!-- EN: Deconstruct conduit -->
   <DesignatorDeconstructConduit>TODO</DesignatorDeconstructConduit>
-  <!--EN: Deconstruct power conduits and reclaim part of their resources.-->
-  <!--VI: Phá hủy các ống dẫn điện và lấy lại một phần tài nguyên của chúng.-->
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
   <DesignatorDeconstructConduitDesc>TODO</DesignatorDeconstructConduitDesc>
+
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Gỡ cài đặt</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Gỡ cài đặt để có thể di chuyển, bán hoặc lắp đặt ở nơi khác.</DesignatorUninstallDesc>
+
   <!-- EN: Extract tree -->
   <DesignatorExtractTree>Chiết cây</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
   <DesignatorExtractTreeDesc>Hãy nhổ cây này trong khi vẫn giữ cho nó sống để có thể trồng lại ở một nơi khác.</DesignatorExtractTreeDesc>
+
   <!-- EN: Harvest -->
   <DesignatorHarvest>Thu hoạch</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>Đánh dấu các khu vực sẽ thu hoạch thực phẩm hoặc các sản phẩm khác.</DesignatorHarvestDesc>
+
   <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Đốn củi</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>Đánh dấu cây để chặt lấy gỗ.</DesignatorHarvestWoodDesc>
+
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Vận chuyển</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>Đánh dấu khối đá và các vật phẩm khác để được chở đến các khu vực kho chứa. Không cần thiết cho những thứ như thực phẩm hoặc xác chết, nó luôn luôn sẽ được vận chuyển.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
   <MustHaulHaulables>Chỉ có thể chỉ định những thứ có thể kéo được nhưng không phải lúc nào cũng được kéo (như khối đá).</MustHaulHaulables>
+
   <!-- EN: Hunt -->
   <DesignatorHunt>Săn</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
   <DesignatorHuntDesc>Đánh dấu một động vật để thợ săn của bạn săn giết.</DesignatorHuntDesc>
+
   <!-- EN: Mine -->
   <DesignatorMine>Đào</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Chỉ định các khu vực đá sẽ được khai thác.</DesignatorMineDesc>
-  <!--EN: Mine vein-->
-  <!--VI: Tĩnh mạch của tôi-->
+
+  <!-- EN: Mine vein -->
   <DesignatorMineVein>TODO</DesignatorMineVein>
-  <!--EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined.-->
-  <!--VI: Chỉ định một khu vực đá được khai thác. Những người thực dân sẽ tiếp tục khai thác cho đến khi tất cả các loại đá được kết nối cùng loại đã được khai thác.-->
+  <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
   <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>Làm nhẵn</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
   <DesignatorSmoothSurfaceDesc>Chỉ định địa hình và tường đá thô để được làm nhẵn.</DesignatorSmoothSurfaceDesc>
-  <!--EN: Smooth walls-->
-  <!--VI: Tường nhẵn-->
+  <!-- EN: Smooth walls -->
   <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
-  <!--EN: Designate rough stone walls to be smoothed.-->
-  <!--VI: Chỉ định các bức tường đá thô để làm mịn.-->
+  <!-- EN: Designate rough stone walls to be smoothed. -->
   <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
-  <!--EN: Smooth terrain-->
-  <!--VI: Địa hình trơn tru-->
+  <!-- EN: Smooth terrain -->
   <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
-  <!--EN: Designate rough stone terrain to be smoothed.-->
-  <!--VI: Chỉ định địa hình đá gồ ghề cần làm mịn.-->
+  <!-- EN: Designate rough stone terrain to be smoothed. -->
   <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
+
   <!-- EN: Plan -->
   <DesignatorPlan>Lập kế hoạch</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
   <DesignatorPlanDesc>Đặt chỉ định quy hoạch. Những điều này không làm bất cứ điều gì ngoại trừ giúp bạn lập kế hoạch mở rộng trong tương lai.</DesignatorPlanDesc>
+
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Hủy kế hoạch</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>Xóa chỉ định đã kế hoạch.</DesignatorPlanRemoveDesc>
+
   <!-- EN: Forbid -->
   <DesignatorForbid>Ngăn cấm</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>Đánh dấu các mục là bị cấm. cư dân sẽ không thể tương tác với các vật dụng được chỉ định.</DesignatorForbidDesc>
+
   <!-- EN: Allow -->
   <DesignatorUnforbid>Cho phép</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>Đánh dấu các mục là không bị cấm. cư dân sẽ có thể tương tác với các vật phẩm được chỉ định.</DesignatorUnforbidDesc>
+
   <!-- EN: Expand home area -->
   <DesignatorAreaHomeExpand>Mở rộng khu vực nhà</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
@@ -94,18 +104,22 @@
   <DesignatorAreaHomeClear>Xóa khu vực nhà</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
   <DesignatorAreaHomeClearDesc>Loại bỏ một khu vực nhà. cư dân sẽ không còn dọn dẹp, sửa chữa, hoặc dập tắt đám cháy ở đây nữa.</DesignatorAreaHomeClearDesc>
+
   <!-- EN: Build roof area -->
   <DesignatorAreaBuildRoofExpand>Xây mái nhà</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>Cư dân sẽ xây dựng mái nhà trong khu vực này.</DesignatorAreaBuildRoofExpandDesc>
+
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Gỡ mái nhà</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
   <DesignatorAreaNoRoofExpandDesc>Cư dân sẽ loại bỏ mái nhà trong khu vực này (ngoại trừ ở trong núi, không thể gỡ bỏ).</DesignatorAreaNoRoofExpandDesc>
+
   <!-- EN: Ignore roof area -->
   <DesignatorAreaIgnoreRoofExpand>Bỏ qua mái nhà</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Cư dân sẽ bỏ qua mái nhà trong khu vực này.</DesignatorAreaIgnoreRoofExpandDesc>
+
   <!-- EN: Snow removal area -->
   <DesignatorAreaSnowClearExpand>Mở rộng khu vực dọn tuyết</DesignatorAreaSnowClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow. -->
@@ -114,6 +128,7 @@
   <DesignatorAreaSnowClearClear>Xóa khu vực dọn tuyết</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Loại bỏ một khu vực dọn tuyết. Cư dân sẽ không còn cố gắng giữ khu vực này sạch sẽ với tuyết.</DesignatorAreaSnowClearClearDesc>
+
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>Mở rộng khu vực được phép</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
@@ -126,65 +141,78 @@
   <ManageAreas>Quản lý khu vực...</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
   <ManageAutoSlaughter>Quản lý giết mổ tự động ...</ManageAutoSlaughter>
+
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Tạo một khu vực nơi cư dân của bạn sẽ cố gắng phát triển một loại cây nhất định.</DesignatorGrowingZoneDesc>
+
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageResourcesDesc>Tạo kho dự trữ nơi những cư dân của bạn sẽ lưu trữ tài nguyên.\nCông cụ này cũng có thể mở rộng bất kỳ kho dự trữ hiện có.</DesignatorZoneCreateStorageResourcesDesc>
+
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
   <DesignatorZoneCreateStorageDumpingDesc>Tạo kho dự trữ nơi cư dân của bạn sẽ lưu trữ rác.\nCông cụ này cũng có thể mở rộng bất kỳ kho dự trữ hiện có.</DesignatorZoneCreateStorageDumpingDesc>
+
   <!-- EN: Shrink zones -->
   <DesignatorZoneDelete>Xóa khu vực</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
   <DesignatorZoneDeleteSingular>Xóa khu vực</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>Xóa khu vực, như vùng dự trữ hoặc khu vực trồng cây.</DesignatorZoneDeleteDesc>
+
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Vùng mở rộng</DesignatorZoneExpand>
+  
   <!-- EN: Claim -->
   <DesignatorClaim>Thu</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
   <DesignatorClaimDesc>Thu nhận các cấu trúc trung lập cho thuộc địa, bao gồm các di tích cổ và các căn cứ bị bỏ hoang. Cấu trúc được thu nhận có thể được sửa chữa và bảo trì bởi cư dân của bạn.</DesignatorClaimDesc>
+
   <!-- EN: Remove floor -->
   <DesignatorRemoveFloor>Xóa sàn</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
   <DesignatorRemoveFloorDesc>Xóa sàn để lộ địa hình bên dưới.</DesignatorRemoveFloorDesc>
+
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>Xóa cầu</DesignatorRemoveBridge>
   <!-- EN: Deconstruct bridges to reclaim partial resources. -->
   <DesignatorRemoveBridgeDesc>Xóa cầu để lộ địa hình bên dưới.</DesignatorRemoveBridgeDesc>
+
   <!-- EN: Strip -->
   <DesignatorStrip>Lột đồ</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>Lột quần áo từ xác chết và người bị thương.</DesignatorStripDesc>
+
   <!-- EN: Open -->
   <DesignatorOpen>Mở</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Mở vùng chứa.</DesignatorOpenDesc>
-  <!--EN: Eject fuel-->
-  <!--VI: Đẩy nhiên liệu ra-->
+  
+  <!-- EN: Eject fuel -->
   <DesignatorEjectFuel>TODO</DesignatorEjectFuel>
-  <!--EN: Eject all contained fuel onto the ground.-->
-  <!--VI: Đẩy tất cả nhiên liệu chứa xuống đất.-->
+  <!-- EN: Eject all contained fuel onto the ground. -->
   <DesignatorEjectFuelDesc>TODO</DesignatorEjectFuelDesc>
+
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Giết mổ</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
   <DesignatorSlaughterDesc>Giết một động vật đã được thuần hóa.</DesignatorSlaughterDesc>
+
   <!-- EN: Tame -->
   <DesignatorTame>Thuần hóa</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Thuần hóa động vật hoang dã.</DesignatorTameDesc>
-  <!--EN: Scaria infected animals can't be tamed.-->
-  <!--VI: Động vật bị nhiễm Scaria không thể được thuần hóa.-->
+  <!-- EN: Scaria infected animals can't be tamed. -->
   <CantTameScaria>TODO</CantTameScaria>
+
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Thả về tự nhiên</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
   <DesignatorReleaseAnimalToWildDesc>Thả một con vật trở lại tự nhiên.</DesignatorReleaseAnimalToWildDesc>
+
   <!-- EN: Study -->
   <DesignatorStudy>Nghiên cứu</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
   <DesignatorStudyDesc>Nghiên cứu đối tượng này để tìm hiểu thêm về nó.</DesignatorStudyDesc>
+
   <!-- EN: Paint building... -->
   <DesignatorPaintBuilding>Sơn nhà...</DesignatorPaintBuilding>
   <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
@@ -193,18 +221,20 @@
   <DesignatorPaintFloor>Sơn sàn...</DesignatorPaintFloor>
   <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
   <DesignatorPaintFloorDesc>Chỉ định sàn nhà được sơn bằng thuốc nhuộm từ cây tinctoria mà bạn có thể trồng. Chỉ một số tầng có thể được sơn.</DesignatorPaintFloorDesc>
+
   <!-- EN: Remove paint -->
   <DesignatorRemovePaint>Loại bỏ sơn</DesignatorRemovePaint>
   <!-- EN: Remove paint from walls, buildings, and floors. -->
   <DesignatorRemovePaintDesc>Loại bỏ sơn khỏi tường, tòa nhà và sàn nhà.</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>Loại bỏ sơn sàn</DesignatorRemoveFloorPaint>
+  <DesignatorRemoveFloorPaint>Loại bỏ sơn sàn</DesignatorRemoveFloorPaint> 
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>Loại bỏ sơn từ sàn nhà.</DesignatorRemoveFloorPaintDesc>
+  <DesignatorRemoveFloorPaintDesc>Loại bỏ sơn từ sàn nhà.</DesignatorRemoveFloorPaintDesc> 
   <!-- EN: Paint -->
   <Paint>Sơn</Paint>
   <!-- EN: Color -->
   <Color>Màu</Color>
+
   <!-- EN: Color picker -->
   <DesignatorEyedropper>Bộ chọn màu</DesignatorEyedropper>
   <!-- EN: Grab existing color -->
@@ -221,18 +251,17 @@
   <Grab>Lấy</Grab>
   <!-- EN: Grabbed color -->
   <GrabbedColor>Lấy màu</GrabbedColor>
-  <!--EN: Expand plan-->
-  <!--VI: Mở rộng kế hoạch-->
+
+  <!-- EN: Expand plan -->
   <DesignatorExpandPlan>TODO</DesignatorExpandPlan>
-  <!--EN: New plan-->
-  <!--VI: Kế hoạch mới-->
+  <!-- EN: New plan -->
   <NewPlan>TODO</NewPlan>
-  <!--EN: Shrink plan-->
-  <!--VI: Kế hoạch thu nhỏ-->
+  
+  <!-- EN: Shrink plan -->
   <DesignatorPlanShrinkSingular>TODO</DesignatorPlanShrinkSingular>
-  <!--EN: Remove plans.-->
-  <!--VI: Xóa kế hoạch.-->
+  <!-- EN: Remove plans. -->
   <DesignatorPlanShrinkDesc>TODO</DesignatorPlanShrinkDesc>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Chưa chọn nguyên liệu</UnchosenStuff>
@@ -252,11 +281,9 @@
   <WouldBlockInteractionSpot>{0} sẽ chặn điểm tương tác của {1}.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Địa hình ở đây đã sẵn sàng {0}.</TerrainIsAlready>
-  <!--EN: There is already foundation here.-->
-  <!--VI: Đã có nền tảng ở đây.-->
+  <!-- EN: There is already foundation here. -->
   <FoundationAlreadyExists>TODO</FoundationAlreadyExists>
-  <!--EN: The existing terrain here cannot be removed.-->
-  <!--VI: Địa hình hiện có ở đây không thể loại bỏ được.-->
+  <!-- EN: The existing terrain here cannot be removed. -->
   <TerrainUnremovable>TODO</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Bề mặt đã được đánh dấu để làm mịn.</SurfaceBeingSmoothed>
@@ -292,17 +319,18 @@
   <MonumentAdjacentToBuilding>Không thể đặt tượng đài bên cạnh: {0}.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>Không thể trồng ở đây</CannotBePlantedHere>
+  
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Mở rộng {0} hoặc\nTạo mới {1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Tạo mới {0}</CreateNewZone>
-  <!--EN: Expand {0} or\nCreate new plan-->
-  <!--VI: Mở rộng {0} hoặc\nTạo kế hoạch mới-->
+  
+  <!-- EN: Expand {0} or\nCreate new plan -->
   <ExpandOrCreatePlan>TODO</ExpandOrCreatePlan>
-  <!--EN: Create new plan-->
-  <!--VI: Tạo kế hoạch mới-->
+  <!-- EN: Create new plan -->
   <CreateNewPlan>TODO</CreateNewPlan>
+  
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Truyền điện</TransmitsPower>
@@ -316,8 +344,10 @@
   <NoColonistWithAllSkillsForConstructing>Không ai trong số {0} của bạn có tất cả các kỹ năng cần thiết.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>Tất cả {0} của bạn có kỹ năng này không được gán cho {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
   <!-- EN: Extract skull -->
   <DesignatorExtractSkull>Trích xuất họp sọ</DesignatorExtractSkull>
   <!-- EN: Extract the skull from a corpse. -->
   <DesignatorExtractSkullDesc>Trích xuất họp sọ từ xác chết.</DesignatorExtractSkullDesc>
+
 </LanguageData>
