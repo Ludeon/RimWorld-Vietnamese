@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: a -->
   <IndefiniteArticle>một</IndefiniteArticle>
   <!-- EN: the -->
@@ -8,6 +9,7 @@
   <IndefiniteForm>một {0}</IndefiniteForm>
   <!-- EN: the {0} -->
   <DefiniteForm>the {0}</DefiniteForm>
+
   <!-- EN: its -->
   <Proits>của nó</Proits>
   <!-- EN: his -->
@@ -20,6 +22,7 @@
   <ProhisCap>Của anh ấy</ProhisCap>
   <!-- EN: Her -->
   <ProherCap>Của cô ấy</ProherCap>
+
   <!-- EN: it -->
   <ProitObj>nó</ProitObj>
   <!-- EN: him -->
@@ -32,6 +35,7 @@
   <ProhimObjCap>Anh ấy</ProhimObjCap>
   <!-- EN: Her -->
   <ProherObjCap>Cô ấy</ProherObjCap>
+
   <!-- EN: he -->
   <Prohe>anh ta</Prohe>
   <!-- EN: she -->
@@ -44,15 +48,14 @@
   <ProsheCap>Cô ta</ProsheCap>
   <!-- EN: It -->
   <ProitCap>Nó</ProitCap>
-  <!--EN: man-->
-  <!--VI: đàn ông-->
+
+  <!-- EN: man -->
   <ProHeNoun>TODO</ProHeNoun>
-  <!--EN: woman-->
-  <!--VI: đàn bà-->
+  <!-- EN: woman -->
   <ProSheNoun>TODO</ProSheNoun>
-  <!--EN: person-->
-  <!--VI: người-->
+  <!-- EN: person -->
   <ProItNoun>TODO</ProItNoun>
+  
   <!-- EN: {0} and {1}. -->
   <ClauseSequence2>{0} và {1}.</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->
@@ -67,6 +70,8 @@
   <ClauseSequence7>{0} và {1}. {2} và {3}. Ngoài ra, {4} và {5}. Cuối cùng, {6}.</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
   <ClauseSequence8>{0} và {1}. Ngoài ra, {2} và {3}. {4} và {5}. Cuối cùng, {6} và {7}.</ClauseSequence8>
+
   <!-- EN: {0} or {1} -->
   <XorY>{0} hoặc là {1}</XorY>
+
 </LanguageData>

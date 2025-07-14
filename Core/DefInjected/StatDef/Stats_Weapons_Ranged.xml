@@ -1,47 +1,51 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: Accuracy (long) -->
   <AccuracyLong.label>Độ chính xác (xa)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyLong.description>Độ chính xác của vũ khí với khoảng cách từ 40 ô trở lên.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyLong.description>
+  
   <!-- EN: Accuracy (medium) -->
   <AccuracyMedium.label>Độ chính xác (vừa)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyMedium.description>Độ chính xác của vũ khí với khoảng cách 25 ô.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyMedium.description>
+  
   <!-- EN: Accuracy (short) -->
   <AccuracyShort.label>Độ chính xác (gần)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyShort.description>Độ chính xác của vũ khí với khoảng cách 12 ô.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyShort.description>
+  
   <!-- EN: Accuracy (close) -->
   <AccuracyTouch.label>Độ chính xác (cận)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>Độ chính xác của vũ khí với khoảng cách 3 ô trở xuống.\n\nCơ hội bắn trúng thực tế cũng sẽ bị ảnh hưởng bởi các yếu tố khác.</AccuracyTouch.description>
-  <!--EN: armor penetration multiplier-->
-  <!--VI: Hệ số xuyên giáp-->
+  
+  <!-- EN: armor penetration multiplier -->
   <RangedWeapon_ArmorPenetrationMultiplier.label>TODO</RangedWeapon_ArmorPenetrationMultiplier.label>
-  <!--EN: A multiplier applied to armor penetration.-->
-  <!--VI: Một hệ số nhân được áp dụng cho khả năng xuyên giáp.-->
+  <!-- EN: A multiplier applied to armor penetration. -->
   <RangedWeapon_ArmorPenetrationMultiplier.description>TODO</RangedWeapon_ArmorPenetrationMultiplier.description>
+  
   <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>thời gian hồi</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
   <RangedWeapon_Cooldown.description>Mất bao lâu để hồi lại sau khi bắn vũ khí này.</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>{0} giây</RangedWeapon_Cooldown.formatString>
+  
   <!-- EN: damage multiplier -->
   <RangedWeapon_DamageMultiplier.label>hệ số thiệt hại</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A multiplier applied to this weapon's damage. -->
   <RangedWeapon_DamageMultiplier.description>Một hệ số sát thương áp dụng cho các viên đạn được bắn ra từ vũ khí này.</RangedWeapon_DamageMultiplier.description>
-  <!--EN: range multiplier-->
-  <!--VI: Hệ số nhân phạm vi-->
+  
+  <!-- EN: range multiplier -->
   <RangedWeapon_RangeMultiplier.label>TODO</RangedWeapon_RangeMultiplier.label>
-  <!--EN: A multiplier applied to this weapon's range.-->
-  <!--VI: Một hệ số nhân được áp dụng cho phạm vi của vũ khí này.-->
+  <!-- EN: A multiplier applied to this weapon's range. -->
   <RangedWeapon_RangeMultiplier.description>TODO</RangedWeapon_RangeMultiplier.description>
-  <!--EN: aiming time multiplier-->
-  <!--VI: Hệ số thời gian ngắm-->
+  
+  <!-- EN: aiming time multiplier -->
   <RangedWeapon_WarmupMultiplier.label>TODO</RangedWeapon_WarmupMultiplier.label>
-  <!--EN: A multiplier applied to this weapon's aiming time.-->
-  <!--VI: Hệ số nhân được áp dụng cho thời gian ngắm của vũ khí này.-->
+  <!-- EN: A multiplier applied to this weapon's aiming time. -->
   <RangedWeapon_WarmupMultiplier.description>TODO</RangedWeapon_WarmupMultiplier.description>
+  
 </LanguageData>

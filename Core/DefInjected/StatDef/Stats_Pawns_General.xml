@@ -1,164 +1,160 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: animals learning factor -->
   <AnimalsLearningFactor.label>yếu tố động vật học</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
   <AnimalsLearningFactor.description>Một hệ số về tỷ lệ học tập cho kỹ năng động vật.</AnimalsLearningFactor.description>
+  
   <!-- EN: bed hunger rate multiplier -->
   <BedHungerRateFactor.label>hệ số tỷ lệ đói trên giường</BedHungerRateFactor.label>
+  
   <!-- EN: caravan riding speed -->
   <CaravanRidingSpeedFactor.label>tốc độ cưỡi khi di chuyển của đoàn lữ hành</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
   <CaravanRidingSpeedFactor.description>Hệ số áp dụng cho tốc độ di chuyển của một người khi họ cưỡi con vật này như một phần của đoàn lữ hành. Động vật chỉ có thể được cưỡi trong các đoàn lữ hành.</CaravanRidingSpeedFactor.description>
+  
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>khả năng mang vác</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Số lượng thứ mà sinh vật này có thể mang trong tay, miệng hoặc các tay thao tác khác.\n\nĐiều này tách biệt với khả năng vận chuyển hàng hóa trong các chuyến đi xuyên thế giới dài.</CarryingCapacity.description>
+  
   <!-- EN: max comfortable temperature -->
   <ComfyTemperatureMax.label>Nhiệt độ tối đa thoải mái</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Quá nhiệt độ này, nhân vật sẽ không vui.\n\nQuá nhiều nhiệt độ này, chúng sẽ bị say nắng và cuối cùng chết.</ComfyTemperatureMax.description>
+  
   <!-- EN: min comfortable temperature -->
   <ComfyTemperatureMin.label>Nhiệt độ tối thiểu thoải mái</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Dưới nhiệt độ này, nhân vật sẽ không vui.\n\nDưới nhiệt độ này, chúng sẽ bị hạ thân nhiệt và tê cóng và cuối cùng sẽ chết.</ComfyTemperatureMin.description>
-  <!--EN: crawl speed-->
-  <!--VI: Tốc độ thu thập thông tin-->
+  
+  <!-- EN: crawl speed -->
   <CrawlSpeed.label>TODO</CrawlSpeed.label>
-  <!--EN: Speed of crawling in cells per second.-->
-  <!--VI: Tốc độ bò trong ô mỗi giây.-->
+  <!-- EN: Speed of crawling in cells per second. -->
   <CrawlSpeed.description>TODO</CrawlSpeed.description>
-  <!--EN: {0} c/s-->
-  <!--VI: {0} c / s-->
+  <!-- EN: {0} c/s -->
   <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
+  
   <!-- EN: eating speed -->
   <EatingSpeed.label>tốc độ ăn</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>Một hệ số về tốc độ ăn.</EatingSpeed.description>
-  <!-- EN: EMP resistance -->
-  <EMPResistance.label>kháng điện từ</EMPResistance.label>
-  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>Mechanoid này có các sợi tản nhiệt và che chắn đặc biệt giúp giảm tác động của sát thương EMP theo tỷ lệ phần trăm này. Điều này làm giảm thời gian choáng do EMP gây ra.</EMPResistance.description>
+  
   <!-- EN: filth rate -->
   <FilthRate.label>tỷ lệ rác rưởi </FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
   <FilthRate.description>Sinh vật này thải ra bao nhiêu rác rưởi.\n\nTốt nhất là để những động vật tạo ra rác rưởi ở ngoài trời hoặc trên thảm rơm nơi rác của chúng không thành vấn đề.</FilthRate.description>
-  <!--EN: flight cooldown-->
-  <!--VI: Thời gian hồi chiêu chuyến bay-->
+  
+  <!-- EN: flight cooldown -->
   <FlightCooldown.label>TODO</FlightCooldown.label>
-  <!--EN: The rest time needed before this creature can fly again.-->
-  <!--VI: Thời gian nghỉ ngơi cần thiết trước khi sinh vật này có thể bay trở lại.-->
+  <!-- EN: The rest time needed before this creature can fly again. -->
   <FlightCooldown.description>TODO</FlightCooldown.description>
-  <!--EN: {0}s-->
-  <!--VI: {0}-->
+  <!-- EN: {0}s -->
   <FlightCooldown.formatString>TODO</FlightCooldown.formatString>
+  
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>lượng thức ăn tiêu thụ</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
   <ForagedNutritionPerDay.description>Lượng dinh dưỡng mà người này sẽ tiêu thụ thức ăn mỗi ngày khi đi bằng đoàn lữ hành.</ForagedNutritionPerDay.description>
+  
   <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>yếu tố học tập toàn cầu</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>Một hệ số về tỷ lệ học tập cho tất cả các kỹ năng.</GlobalLearningFactor.description>
+  
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>tốc độ tăng miễn dịch</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>Tốc độ mà nhân vật này đạt được miễn dịch với bệnh tật.\n\nNếu điều này quá chậm, nhân vật sẽ chết vì bệnh trước khi phát triển khả năng miễn dịch.</ImmunityGainSpeed.description>
+  
   <!-- EN: injury healing factor -->
   <InjuryHealingFactor.label>yếu tố chữa lành vết thương</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
   <InjuryHealingFactor.description>Hệ số áp dụng cho tỷ lệ chữa lành vết thương của một người.</InjuryHealingFactor.description>
-  <!--EN: recreation fall rate-->
-  <!--VI: Tỷ lệ rơi giải trí-->
+  
+  <!-- EN: recreation fall rate -->
   <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
-  <!--EN: A multiplier on the speed that a person's recreation need falls.-->
-  <!--VI: Một hệ số nhân về tốc độ mà giải trí của một người cần giảm.-->
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
   <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
+  
   <!-- EN: leather amount -->
   <LeatherAmount.label>số lượng da</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <LeatherAmount.description>Số lượng da mang lại khi tàn sát sinh vật này.</LeatherAmount.description>
+  
   <!-- EN: lifespan factor -->
   <LifespanFactor.label>hệ số tuổi thọ</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
   <LifespanFactor.description>Yếu tố tuổi thọ làm thay đổi tuổi thọ hiệu quả của một sinh vật bằng cách rút ngắn hoặc kéo dài thời gian cho đến khi chúng phát triển các bệnh liên quan đến tuổi tác. Hệ số tuổi thọ trên 100% làm chậm quá trình khởi phát bệnh và tăng tuổi thọ tổng thể, trong khi hệ số tuổi thọ dưới 100% sẽ đẩy nhanh quá trình khởi phát bệnh và giảm tuổi thọ.</LifespanFactor.description>
-  <!--EN: max flight time-->
-  <!--VI: Thời gian bay tối đa-->
+  
+  <!-- EN: max flight time -->
   <MaxFlightTime.label>TODO</MaxFlightTime.label>
-  <!--EN: The maximum amount of time this creature can stay in flight before landing.-->
-  <!--VI: Khoảng thời gian tối đa mà sinh vật này có thể bay trước khi hạ cánh.-->
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
   <MaxFlightTime.description>TODO</MaxFlightTime.description>
-  <!--EN: {0}s-->
-  <!--VI: {0}-->
+  <!-- EN: {0}s -->
   <MaxFlightTime.formatString>TODO</MaxFlightTime.formatString>
+  
   <!-- EN: max nutrition -->
   <MaxNutrition.label>dinh dưỡng tối đa</MaxNutrition.label>
   <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
   <MaxNutrition.description>Lượng dinh dưỡng cần thiết để lấp đầy hoàn toàn dạ dày của sinh vật này.</MaxNutrition.description>
+  
   <!-- EN: meat amount -->
   <MeatAmount.label>số lượng thịt</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <MeatAmount.description>Số lượng thịt mang lại khi tàn sát sinh vật này.</MeatAmount.description>
-  <!-- EN: meditation psyfocus gain -->
-  <MeditationFocusGain.label>tinh thần lực khi thiền</MeditationFocusGain.label>
-  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
-  <MeditationFocusGain.description>Lượng tinh thần lực mà một người đạt được mỗi ngày khi thiền định, bỏ qua thưởng từ các đối tượng tập trung.</MeditationFocusGain.description>
-  <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatString>{0} / ngày</MeditationFocusGain.formatString>
-  <!-- EN: {0} / day -->
-  <MeditationFocusGain.formatStringUnfinalized>{0} / ngày</MeditationFocusGain.formatStringUnfinalized>
+  
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>ngưỡng phá vỡ tinh thần</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
   <MentalBreakThreshold.description>Chừng nào tâm trạng của ai đó còn ở dưới mức này, họ có nguy cơ bị suy sụp tinh thần.\n\nMức độ nghiêm trọng của sự phá vỡ tinh thần sẽ phụ thuộc vào mức độ dưới ngưỡng của họ.</MentalBreakThreshold.description>
+  
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>kỹ năng xử lý tối thiểu</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Sinh vật này không thể được thuần hóa, huấn luyện hoặc chỉ huy bởi bất cứ ai có kỹ năng này ở động vật.</MinimumHandlingSkill.description>
+  
   <!-- EN: move speed -->
   <MoveSpeed.label>tốc độ di chuyển</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
   <MoveSpeed.description>Tốc độ di chuyển mỗi ô trên giây.</MoveSpeed.description>
   <!-- EN: {0} c/s -->
   <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  
   <!-- EN: pain shock threshold -->
   <PainShockThreshold.label>ngưỡng sốc</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>Mức độ đau đớn mà sinh vật này bị giảm xuống từ nỗi đau.</PainShockThreshold.description>
-  <!-- EN: neural heat limit -->
-  <PsychicEntropyMax.label>giới hạn nhiệt thần kinh</PsychicEntropyMax.label>
-  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
-  <PsychicEntropyMax.description>Lượng nhiệt thần kinh tối đa mà một cá nhân có thể chịu đựng một cách an toàn.</PsychicEntropyMax.description>
-  <!-- EN: neural heat recovery rate -->
-  <PsychicEntropyRecoveryRate.label>tốc độ giảm nhiệt thần kinh</PsychicEntropyRecoveryRate.label>
-  <!-- EN: The rate at which this person reduces neural heat. -->
-  <PsychicEntropyRecoveryRate.description>Tốc độ mà người này làm giảm nhiệt thần kinh.</PsychicEntropyRecoveryRate.description>
-  <!-- EN: {0}/s -->
-  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+  
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>thần kinh nhạy cảm</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>Hệ số về tác động của các hiện tượng tâm linh ảnh hưởng đến người này. Những người nhạy cảm hơn cả phải chịu đựng nhiều hơn từ các hiệu ứng tâm lý tiêu cực, và được hưởng lợi nhiều hơn từ những người tích cực.</PsychicSensitivity.description>
+  
   <!-- EN: sleep fall rate -->
   <RestFallRateFactor.label>tỷ lệ mệt mỏi</RestFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
   <RestFallRateFactor.description>Hệ số nhân về tốc độ mà giấc ngủ của một người cần giảm xuống.</RestFallRateFactor.description>
+  
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>hệ số nghỉ ngơi</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>Một hệ số về cách một sinh vật nghỉ ngơi nhanh chóng trong khi ngủ.</RestRateMultiplier.description>
+  
   <!-- EN: toxic environment resistance -->
   <ToxicEnvironmentResistance.label>kháng môi trường độc hại</ToxicEnvironmentResistance.label>
-  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
   <ToxicEnvironmentResistance.description>Loài sinh vật này có khả năng chống lại các tác động của độc tố môi trường như thế nào. Điều này bảo vệ chống lại khí độc, mùi hôi thối, bụi phóng xạ độc hại và địa hình bị ô nhiễm, nhưng không chống lại các cuộc tấn công trực tiếp bằng nọc độc hoặc chất độc được tiêm. Khi giá trị này cao hơn, việc tiếp xúc với ô nhiễm sẽ tạo ra sự tích tụ ít độc tố hơn trong cơ thể.</ToxicEnvironmentResistance.description>
+  
   <!-- EN: toxic resistance -->
   <ToxicResistance.label>kháng độc</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
   <ToxicResistance.description>Sinh vật này chống lại sự tích tụ chất độc tốt như thế nào.</ToxicResistance.description>
-  <!--EN: wildness-->
-  <!--VI: hoang dã-->
+  
+  <!-- EN: wildness -->
   <Wildness.label>TODO</Wildness.label>
-  <!--EN: Wilder creatures are naturally more difficult to tame, train, and handle.-->
-  <!--VI: Các sinh vật hoang dã hơn đương nhiên khó thuần hóa, huấn luyện và xử lý hơn.-->
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <Wildness.description>TODO</Wildness.description>
+  
 </LanguageData>

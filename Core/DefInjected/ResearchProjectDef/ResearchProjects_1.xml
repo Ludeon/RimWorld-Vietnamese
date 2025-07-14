@@ -1,332 +1,284 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: beer brewing -->
   <Brewing.label>sản xuất bia</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>Xây dựng một nhà máy bia và lên men thùng bia để biến hoa bia thành ngon,bia ngon.</Brewing.description>
-  <!--EN: <li>subject->brewing</li>
+  <!-- EN:
+    <li>subject->brewing</li>
     <li>subject_story->brewed a unique stout that became famous across the system</li>
     <li>subject_story->retired to run a public house on an animal world</li>
     <li>subject_story->specialized in climate-controlled fermentation techniques</li>
     <li>subject_gerund->constructing breweries</li>
-    <li>subject_gerund->brewing beer</li>-->
-  <!--VI: <li>chủ đề-></li>
-    <li>subject_story->brew một loại bia đen độc đáo trở nên nổi tiếng trên toàn hệ thống</li>
-    <li>subject_story > nghỉ hưu để điều hành một ngôi nhà công cộng trên thế giới động vật</li>
-    <li>subject_story-> chuyên về kỹ thuật lên men kiểm soát khí hậu</li>
-    <li>subject_gerund > xây dựng nhà máy bia</li>
-    <li>Bia subject_gerund ></li>-->
+    <li>subject_gerund->brewing beer</li>
+  -->
   <Brewing.generalRules.rulesStrings>TODO</Brewing.generalRules.rulesStrings>
+  
   <!-- EN: carpet-making -->
   <CarpetMaking.label>làm thảm</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>Dệt thảm đẹp từ vải.</CarpetMaking.description>
-  <!--EN: <li>subject->carpet-making</li>
+  <!-- EN:
+    <li>subject->carpet-making</li>
     <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
     <li>subject_story->left behind an unparalleled collection of carpets and tapestries</li>
     <li>subject_story->settled on a medieval moon, where the carpetweaving craft was truly appreciated</li>
-    <li>subject_gerund->weaving carpets</li>-->
-  <!--VI: <li>đối tượng->thảm-làm thảm</li>
-    <li>subject_story->học cách dệt thảm từ tóc, cho một Hoàng đế xa xôi</li>
-    <li>subject_story-> để lại một bộ sưu tập thảm và thảm thảm vô song</li>
-    <li>subject_story > định cư trên một mặt trăng thời trung cổ, nơi nghề dệt thảm thực sự được đánh giá cao</li>
-    <li>Thảm subject_gerund > dệt</li>-->
+    <li>subject_gerund->weaving carpets</li>
+  -->
   <CarpetMaking.generalRules.rulesStrings>TODO</CarpetMaking.generalRules.rulesStrings>
+  
   <!-- EN: cocoa -->
   <Cocoa.label>cây ca cao</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation and it's a valuable trade good too. -->
   <Cocoa.description>Gieo trồng cây ca cao để tạo ra sô cô la ngon của riêng bạn. Ăn sô cô la đáp ứng nhu cầu giải trí và nó cũng có giá trị trên thị trường.</Cocoa.description>
-  <!--EN: <li>subject->cocoa</li>
+  <!-- EN:
+    <li>subject->cocoa</li>
     <li>subject->chocolate</li>
     <li>subject_story->became obsessed with chocolate and had to be restrained</li>
     <li>subject_story->studied the fermentation process of cocoa for a thesis</li>
     <li>subject_story->set up the best chocolate shop in the sector</li>
     <li>subject_gerund->producing chocolate</li>
-    <li>subject_gerund->cultivating cocoa</li>-->
-  <!--VI: <li>chủ đề-> ca cao</li>
-    <li>chủ đề-> sô cô la</li>
-    <li>subject_story-> bị ám ảnh bởi sô cô la và phải bị kiềm chế</li>
-    <li>subject_story > nghiên cứu quá trình lên men ca cao cho luận án</li>
-    <li>subject_story->thiết lập cửa hàng sô cô la tốt nhất trong lĩnh vực</li>
-    <li>Sô cô la sản xuất > subject_gerund</li>
-    <li>subject_gerund > trồng ca cao</li>-->
+    <li>subject_gerund->cultivating cocoa</li>
+  -->
   <Cocoa.generalRules.rulesStrings>TODO</Cocoa.generalRules.rulesStrings>
+  
   <!-- EN: complex clothing -->
   <ComplexClothing.label>quần áo đa dạng</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
   <ComplexClothing.description>May quần áo đa dạng như quần, áo khoác, và mũ cao bồi.</ComplexClothing.description>
-  <!--EN: <li>subject->complex tailoring</li>
+  <!-- EN:
+    <li>subject->complex tailoring</li>
     <li>subject_story->tailored hard-wearing clothes for urbworld cityfolk</li>
     <li>subject_story->would relax by sewing and telling stories to the village children</li>
     <li>subject_story->learned to craft clothing to be worn at [ANYPAWN_possessive] troupe's grand performances</li>
-    <li>subject_gerund->tailoring complex clothes</li>-->
-  <!--VI: <li>MAY ĐO ĐỐI TƯỢNG > PHỨC TẠP</li>
-    <li>Quần áo cứng subject_story > được thiết kế riêng cho người dân thành phố urbworld</li>
-    <li>subject_story-> sẽ thư giãn bằng cách may vá và kể chuyện cho trẻ em trong làng</li>
-    <li>subject_story->học cách chế tạo quần áo để mặc trong các buổi biểu diễn hoành tráng của đoàn [ANYPAWN_possessive]</li>
-    <li>subject_gerund > may quần áo phức tạp</li>-->
+    <li>subject_gerund->tailoring complex clothes</li>
+  -->
   <ComplexClothing.generalRules.rulesStrings>TODO</ComplexClothing.generalRules.rulesStrings>
+  
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>nội thất đa dạng</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiards tables, and poker tables, vents, sarcophagi, and more. -->
   <ComplexFurniture.description>Xây dựng đồ nội thất đa dạng như giường, bàn cuối, ghế ăn, ghế bành, tủ quần áo, tủ dụng cụ, bàn bida, và bàn poker, lỗ thông hơi, sarcophagi, v.v.</ComplexFurniture.description>
-  <!--EN: <li>subject->carpentry</li>
+  <!-- EN:
+    <li>subject->carpentry</li>
     <li>subject_story->studied woodcarving under a master carpenter</li>
     <li>subject_story->built a town of log-cabins singlehandedly</li>
     <li>subject_story->established a factory, selling high-quality furniture to passing traders</li>
-    <li>subject_gerund->building complex furniture</li>-->
-  <!--VI: <li>đối tượng-> mộc</li>
-    <li>subject_story > học chạm khắc gỗ dưới sự hướng dẫn của một thợ mộc bậc thầy</li>
-    <li>subject_story-> một mình xây dựng một thị trấn với những căn nhà gỗ</li>
-    <li>subject_story-> thành lập nhà máy, bán đồ nội thất chất lượng cao cho các thương nhân đi ngang qua</li>
-    <li>subject_gerund > xây dựng nội thất phức hợp</li>-->
+    <li>subject_gerund->building complex furniture</li>
+  -->
   <ComplexFurniture.generalRules.rulesStrings>TODO</ComplexFurniture.generalRules.rulesStrings>
+  
   <!-- EN: devilstrand -->
   <Devilstrand.label>nấm quỷ</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
   <Devilstrand.description>Nấm quỷ, một loại nấm phát triển chậm mang lại một loại sợi thực vật đặc biệt bền, chịu nhiệt.</Devilstrand.description>
-  <!--EN: <li>subject->devilstrand cultivation</li>
+  <!-- EN:
+    <li>subject->devilstrand cultivation</li>
     <li>subject_story->used devilstrand as a natural firebreak</li>
     <li>subject_story->established the techniques for cultivating devilstrand easily</li>
     <li>subject_story->became obsessed with mushrooms and became the self-declared Princess of [ANYPAWN_possessive] kingdom</li>
-    <li>subject_gerund->cultivating devilstrand</li>-->
-  <!--VI: tu <li>luyện chủ đề->devilstrand</li>
-    <li>subject_story > sử dụng devilstrand như một tấm chắn lửa tự nhiên</li>
-    <li>subject_story-> thiết lập các kỹ thuật để tu luyện devilstrand một cách dễ dàng</li>
-    <li>subject_story->trở nên bị ám ảnh bởi nấm và trở thành Công chúa tự xưng của vương quốc [ANYPAWN_possessive]</li>
-    <li>subject_gerund > tu luyện quỷ</li>-->
+    <li>subject_gerund->cultivating devilstrand</li>
+  -->
   <Devilstrand.generalRules.rulesStrings>TODO</Devilstrand.generalRules.rulesStrings>
+  
   <!-- EN: drug production -->
   <DrugProduction.label>sản xuất thuốc</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
   <DrugProduction.description>Xây dựng một phòng thí nghiệm thuốc để tổng hợp thuốc cơ bản. Nghiên cứu thêm là điều cần thiết để làm ra các loại thuốc cụ thể.</DrugProduction.description>
-  <!--EN: <li>subject->drug production</li>
+  <!-- EN:
+    <li>subject->drug production</li>
     <li>subject->drug synthesis</li>
     <li>subject_story->worked in an asteroid lab on the edge of populated space</li>
     <li>subject_story->learned how to craft drugs from recycled chemicals, leading to many years spent in prison</li>
     <li>subject_story->worked as a chemist, but slipped into peddling illegal drugs on the side</li>
     <li>subject_gerund->building drug labs</li>
-    <li>subject_gerund->producing drugs</li>-->
-  <!--VI: đối <li>tượng > sản xuất thuốc</li>
-    <li>đối tượng-> tổng hợp thuốc</li>
-    <li>subject_story > làm việc trong một phòng thí nghiệm tiểu hành tinh ở rìa không gian đông dân cư</li>
-    <li>subject_story->học cách chế tạo ma túy từ hóa chất tái chế, dẫn đến nhiều năm ngồi tù</li>
-    <li>subject_story-> làm việc như một nhà hóa học, nhưng lại bán ma túy bất hợp pháp</li>
-    <li>subject_gerund > phòng thí nghiệm thuốc</li>
-    <li>Thuốc sản xuất > subject_gerund</li>-->
+    <li>subject_gerund->producing drugs</li>
+  -->
   <DrugProduction.generalRules.rulesStrings>TODO</DrugProduction.generalRules.rulesStrings>
+  
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>sản xuất nước ép</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>Sản xuất nước ép, một loại thuốc tăng cường hiệu suất chiến đấu tổng hợp giúp cải thiện khả năng bắn súng, cận chiến và khả năng di chuyển và giảm đau.</GoJuiceProduction.description>
-  <!--EN: <li>subject->go-juice production</li>
+  <!-- EN:
+    <li>subject->go-juice production</li>
     <li>subject_story->was expelled for taking go-juice during team sports matches</li>
     <li>subject_story->found go-juice massively increased productivity in mines and lumberyards</li>
     <li>subject_story->never went on a mission without go-juice or juggernaut in a pocket</li>
-    <li>subject_gerund->synthesizing go-juice</li>-->
-  <!--VI: <li>sản xuất nước trái cây > đối tượng</li>
-    <li>subject_story-> bị đuổi học vì uống go-juice trong các trận đấu thể thao đồng đội</li>
-    <li>subject_story-> tìm thấy go-juice đã làm tăng đáng kể năng suất trong các mỏ và xưởng gỗ</li>
-    <li>subject_story-> chưa bao giờ thực hiện một nhiệm vụ mà không có nước trái cây hoặc khổng lồ trong túi</li>
-    <li>subject_gerund > tổng hợp go-juice</li>-->
+    <li>subject_gerund->synthesizing go-juice</li>
+  -->
   <GoJuiceProduction.generalRules.rulesStrings>TODO</GoJuiceProduction.generalRules.rulesStrings>
+  
   <!-- EN: greatbow -->
   <Greatbow.label>cung lớn</Greatbow.label>
   <!-- EN: Craft greatbows for killing enemies at great range. -->
   <Greatbow.description>Chế tạo cung lớn để giết kẻ thù ở khoảng cách xa.</Greatbow.description>
-  <!--EN: <li>subject->greatbows</li>
+  <!-- EN:
+    <li>subject->greatbows</li>
     <li>subject_story->fired an arrow right through the iron helmet of a feudal king</li>
     <li>subject_story->hunted muffalos for their fur on a feral world</li>
     <li>subject_story->lived alone in the greenwood, a hail of arrows greeting anyone who approached within a mile of its edge</li>
-    <li>subject_gerund->crafting greatbows</li>-->
-  <!--VI: <li>đối tượng-> lớnbows</li>
-    <li>subject_story-> bắn một mũi tên xuyên qua mũ sắt của một vị vua phong kiến</li>
-    <li>subject_story > săn muffalos để lấy lông của chúng trên một thế giới hoang dã</li>
-    <li>subject_story > sống một mình trong rừng xanh, một trận mưa tên chào đón bất cứ ai đến gần rìa nó trong vòng một dặm</li>
-    <li>subject_gerund >chế tạo cung lớn</li>-->
+    <li>subject_gerund->crafting greatbows</li>
+  -->
   <Greatbow.generalRules.rulesStrings>TODO</Greatbow.generalRules.rulesStrings>
+  
   <!-- EN: long blades -->
   <LongBlades.label>dao dài</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
   <LongBlades.description>Chế tạo dao dài và giáo</LongBlades.description>
-  <!--EN: <li>subject->medieval weaponry</li>
+  <!-- EN:
+    <li>subject->medieval weaponry</li>
     <li>subject_story->rode with the Betaduke's Fifth Light Cavalry as they conquered the sector</li>
     <li>subject_story->was enslaved as a weaponsmith beneath the arena on an iron age planet</li>
     <li>subject_story->trained the hoplites on a warworld to use their weapons' reach</li>
-    <li>subject_gerund->smithing medieval weapons</li>-->
-  <!--VI: chủ <li>đề->vũ khí thời trung cổ</li>
-    <li>subject_story > cưỡi ngựa cùng với Kỵ binh hạng nhẹ thứ năm của Betaduke khi họ chinh phục khu vực này</li>
-    <li>subject_story-> bị bắt làm nô lệ như một thợ rèn vũ khí bên dưới đấu trường trên một hành tinh thời kỳ đồ sắt</li>
-    <li>subject_story-> huấn luyện hoplites trong một thế giới chiến tranh để sử dụng tầm với vũ khí của họ</li>
-    <li>subject_gerund > rèn vũ khí thời trung cổ</li>-->
+    <li>subject_gerund->smithing medieval weapons</li>
+  -->
   <LongBlades.generalRules.rulesStrings>TODO</LongBlades.generalRules.rulesStrings>
+  
   <!-- EN: passive cooler -->
   <PassiveCooler.label>làm mát thủ công</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
   <PassiveCooler.description>Làm mát thủ công, để làm mát không gian trong nhà mà không cần sử dụng điện.</PassiveCooler.description>
-  <!--EN: <li>subject->evaporation</li>
+  <!-- EN:
+    <li>subject->evaporation</li>
     <li>subject->passive coolers</li>
     <li>subject_story->moved to a sweltering tropical world and developed unique techniques for staying cool</li>
     <li>subject_story->researched primitive techniques for cooling areas in the comfort of a coreworld's libraries</li>
     <li>subject_story->noticed, on the shores of an oceanic planet, that it was cooler where the sea spray settled</li>
-    <li>subject_gerund->building passive coolers</li>-->
-  <!--VI: đối <li>tượng-> bay hơi</li>
-    bộ <li>làm mát chủ > thụ động</li>
-    <li>subject_story-> chuyển đến một thế giới nhiệt đới oi bức và phát triển các kỹ thuật độc đáo để giữ mát</li>
-    <li>subject_story-> nghiên cứu các kỹ thuật nguyên thủy để làm mát các khu vực trong sự thoải mái của thư viện của một thế giới cốt lõi</li>
-    <li>subject_story-> nhận thấy, trên bờ của một hành tinh đại dương, nơi nước biển lắng xuống thì mát mẻ hơn</li>
-    Bộ <li>làm mát thụ động subject_gerund > xây dựng</li>-->
+    <li>subject_gerund->building passive coolers</li>
+  -->
   <PassiveCooler.generalRules.rulesStrings>TODO</PassiveCooler.generalRules.rulesStrings>
+  
   <!-- EN: pemmican -->
   <Pemmican.label>lương khô</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
   <Pemmican.description>Làm lương khô, một hỗn hợp gồm thịt và thực vật có thể để trong một thời gian dài mà không bị hỏng. Tuyệt vời cho du lịch.</Pemmican.description>
-  <!--EN: <li>subject->pemmican production</li>
+  <!-- EN:
+    <li>subject->pemmican production</li>
     <li>subject_story->mastered pemmican production during a long pilgrimage to the planet's Spire</li>
     <li>subject_story->survived solely on pemmican when a passenger liner crashed on a glassworld</li>
     <li>subject_story->taught pemmican production to feral tribes</li>
-    <li>subject_gerund->making pemmican</li>-->
-  <!--VI: <li>Đối tượng-> sản xuất pemmican</li>
-    <li>subject_story > thành thạo sản xuất pemmican trong một cuộc hành hương dài đến Spire của hành tinh</li>
-    <li>subject_story > sống sót chỉ trên Pemmican khi một tàu chở khách rơi vào một thế giới thủy tinh</li>
-    <li>subject_story > dạy sản xuất pemmican cho các bộ lạc hoang dã</li>
-    <li>subject_gerund > làm pemmican</li>-->
+    <li>subject_gerund->making pemmican</li>
+  -->
   <Pemmican.generalRules.rulesStrings>TODO</Pemmican.generalRules.rulesStrings>
+  
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>sản xuất penoxycyline</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>Sản xuất penoxycline, một loại thuốc phòng bệnh ngăn chặn bệnh dịch hạch, sốt rét và nhiều hơn nữa trước khi chúng bắt đầu.</PenoxycylineProduction.description>
-  <!--EN: <li>subject->penoxycyline production</li>
+  <!-- EN:
+    <li>subject->penoxycyline production</li>
     <li>subject_story->lectured to the United Planets about preventative medicine</li>
     <li>subject_story->was driven out of Dawn Falls as a quack, for selling a medicine that "doesn't do anything"</li>
     <li>subject_story->prevented an outbreak of malaria from spreading through careful penoxycyline dosage</li>
-    <li>subject_gerund->synthesizing penoxycyline</li>-->
-  <!--VI: <li>đối tượng-> sản xuất penoxycyline</li>
-    <li>subject_story->lectured cho United Planets về y học dự phòng</li>
-    <li>subject_story-> bị đuổi ra khỏi Dawn Falls như một kẻ lừa đảo, vì bán một loại thuốc "không làm gì cả"</li>
-    <li>subject_story-> ngăn chặn sự bùng phát bệnh sốt rét lây lan thông qua liều lượng penoxycyline cẩn thận</li>
-    <li>Penoxycyline tổng hợp subject_gerund ></li>-->
+    <li>subject_gerund->synthesizing penoxycyline</li>
+  -->
   <PenoxycylineProduction.generalRules.rulesStrings>TODO</PenoxycylineProduction.generalRules.rulesStrings>
+  
   <!-- EN: plate armor -->
   <PlateArmor.label>áo giáp nặng</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
   <PlateArmor.description>Rèn bộ áo giáp từ kim loại hoặc gỗ. Bộ giáp hạng nặng này đáng chú ý làm chậm chuyển động, nhưng bảo vệ rất hiệu quả.</PlateArmor.description>
-  <!--EN: <li>subject->plate armor</li>
+  <!-- EN:
+    <li>subject->plate armor</li>
     <li>subject_story->crafted armor from scrap, when the authorities surrounded [ANYPAWN_possessive] family's shack</li>
     <li>subject_story->became known as the Green Smith, when moss grew on the wooden armor</li>
     <li>subject_story->started the first armorworker's collective on an urbworld</li>
-    <li>subject_gerund->smithing plate armor</li>-->
-  <!--VI: <li>Áo giáp > tấm đối tượng</li>
-    <li>subject_story áo giáp > chế tạo từ phế liệu, khi chính quyền bao vây lều của gia đình [ANYPAWN_possessive]</li>
-    <li>subject_story-> được gọi là Green Smith, khi rêu mọc trên áo giáp bằng gỗ</li>
-    <li>subject_story-> bắt đầu tập thể thợ thiết giáp đầu tiên trên một thế giới đô thị</li>
-    <li>Áo giáp tấm rèn subject_gerund ></li>-->
+    <li>subject_gerund->smithing plate armor</li>
+  -->
   <PlateArmor.generalRules.rulesStrings>TODO</PlateArmor.generalRules.rulesStrings>
+  
   <!-- EN: psychite refining -->
   <PsychiteRefining.label>tinh chế lá cần sa</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
   <PsychiteRefining.description>Tinh chế lá cần sa thành cô-ca-in và bạch phiến, các dạng khác nhau của thuốc an thần gây hưng phấn.</PsychiteRefining.description>
-  <!--EN: <li>subject->psychite production</li>
+  <!-- EN:
+    <li>subject->psychite production</li>
     <li>subject_story->used [ANYPAWN_possessive] university job as cover for [ANYPAWN_possessive] drug-dealing</li>
     <li>subject_story->started a commune where low-dose flake was mixed into the food</li>
     <li>subject_story->campaigned for the legalisation of yayo on a nearby urbworld</li>
-    <li>subject_gerund->refining psychite</li>-->
-  <!--VI: <li>sản xuất chủ đề->psychite</li>
-    <li>Công việc đại học subject_story > sử dụng [ANYPAWN_possessive] để bảo hiểm cho [ANYPAWN_possessive] buôn bán ma túy</li>
-    <li>subject_story-> bắt đầu một xã nơi trộn vảy liều thấp vào thực phẩm</li>
-    <li>subject_story-> vận động hợp pháp hóa yayo trên một urbworld gần đó</li>
-    <li>subject_gerund-> tinh chế tâm linh</li>-->
+    <li>subject_gerund->refining psychite</li>
+  -->
   <PsychiteRefining.generalRules.rulesStrings>TODO</PsychiteRefining.generalRules.rulesStrings>
+  
   <!-- EN: psychoid brewing -->
   <PsychoidBrewing.label>ủ lá cần sa</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
   <PsychoidBrewing.description>Chuyển lá cần sa thành một loại trà an thần gây hưng phấn và gây nghiện nhẹ ở lửa trại hoặc bếp nấu.</PsychoidBrewing.description>
-  <!--EN: <li>subject->psychoid</li>
+  <!-- EN:
+    <li>subject->psychoid</li>
     <li>subject_story->joined a short-lived psychoid commune on a cult world</li>
     <li>subject_story->experimented with psychoid to help traumatized soldiers</li>
     <li>subject_story->legalized psychoid for mass production across several coreworlds, when [ANYPAWN_pronoun] had the power to do so</li>
-    <li>subject_gerund->brewing psychoid</li>-->
-  <!--VI: <li>chủ đề->psychoid</li>
-    <li>subject_story->tham gia một công xã tâm thần ngắn ngủi trên một thế giới sùng bái</li>
-    <li>subject_story-> thử nghiệm với tâm thần để giúp đỡ những người lính bị chấn thương</li>
-    <li>subject_story->hợp pháp hóa tâm thần để sản xuất hàng loạt trên một số thế giới cốt lõi, khi [ANYPAWN_pronoun] có sức mạnh để làm như vậy</li>
-    <li>subject_gerund > ủ tâm thần</li>-->
+    <li>subject_gerund->brewing psychoid</li>
+  -->
   <PsychoidBrewing.generalRules.rulesStrings>TODO</PsychoidBrewing.generalRules.rulesStrings>
+  
   <!-- EN: recurve bow -->
   <RecurveBow.label>cung trợ lực</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
   <RecurveBow.description>Chế tạo cung trợ lực, một vũ khí tầm xa hiệu quả và rẻ tiền.</RecurveBow.description>
-  <!--EN: <li>subject->bowyery</li>
+  <!-- EN:
+    <li>subject->bowyery</li>
     <li>subject->bow-making</li>
     <li>subject_story->tracked a rabid boomalope for four days before killing it with a single arrow</li>
     <li>subject_story->settled near a yew forest to secure the perfect materials for bows</li>
     <li>subject_story->raised the colony children as hunter-gatherers, with every one a master archer</li>
-    <li>subject_gerund->crafting bows</li>-->
-  <!--VI: <li>chủ đề->bowyery</li>
-    <li>đối tượng-> làm cung</li>
-    <li>subject_story-> theo dõi một con boomalope điên cuồng trong bốn ngày trước khi giết nó bằng một mũi tên duy nhất</li>
-    <li>subject_story > định cư gần rừng thủy tùng để đảm bảo vật liệu hoàn hảo cho cung</li>
-    <li>subject_story-> nuôi dạy những đứa trẻ thuộc địa như những người săn bắn hái lượm, với mỗi người đều là cung thủ bậc thầy</li>
-    <li>subject_gerund > chế tạo cung</li>-->
+    <li>subject_gerund->crafting bows</li>
+  -->
   <RecurveBow.generalRules.rulesStrings>TODO</RecurveBow.generalRules.rulesStrings>
+  
   <!-- EN: smithing -->
   <Smithing.label>rèn đúc</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
   <Smithing.description>Xây dựng lò rèn để chế tạo vũ khí kim loại như dao, kiếm và chùy. Gia công kim loại thành gạch lát sàn sạch, đẹp.</Smithing.description>
-  <!--EN: <li>subject->blacksmithing</li>
+  <!-- EN:
+    <li>subject->blacksmithing</li>
     <li>subject_story->settled in a medieval hamlet and mastered simple metal crafting</li>
     <li>subject_story->built glitterworld smithies for the Renaissance reenactment guilds</li>
-    <li>subject_gerund->smithing</li>-->
-  <!--VI: <li>đối tượng->thợ rèn</li>
-    <li>subject_story-> định cư trong một ngôi làng thời trung cổ và thành thạo chế tác kim loại đơn giản</li>
-    Các <li>xưởng rèn lấp lánh được xây dựng subject_story > cho các bang hội tái hiện thời Phục hưng</li>
-    <li>subject_gerund-> rèn</li>-->
+    <li>subject_gerund->smithing</li>
+  -->
   <Smithing.generalRules.rulesStrings>TODO</Smithing.generalRules.rulesStrings>
+  
   <!-- EN: stonecutting -->
   <Stonecutting.label>xẻ đá</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
   <Stonecutting.description>Cắt khối đá thô thành khối đá phẳng để sử dụng trong xây dựng. Xây sàn gạch đá đẹp hoặc lối đi bê tông xấu xí.</Stonecutting.description>
-  <!--EN: <li>subject->masonry</li>
+  <!-- EN:
+    <li>subject->masonry</li>
     <li>subject_story->was the first in a line of temple designers, all sharing the same name</li>
     <li>subject_story->developed unique techniques for cutting the hardest rock with basic tools</li>
     <li>subject_story->tiled the entirety of the viceroy's palace on a medieval world</li>
     <li>subject_gerund->stonecutting</li>
-    <li>subject_gerund->cutting stones</li>-->
-  <!--VI: <li>Chủ đề-> xây</li>
-    <li>subject_story-> là người đầu tiên trong dòng các nhà thiết kế đền thờ, tất cả đều có cùng tên</li>
-    <li>subject_story > phát triển các kỹ thuật độc đáo để cắt đá cứng nhất bằng các công cụ cơ bản</li>
-    <li>subject_story-> toàn bộ cung điện của phó vương trên một thế giới thời trung cổ</li>
-    <li>subject_gerund-> đá</li>
-    <li>Đá cắt subject_gerund ></li>-->
+    <li>subject_gerund->cutting stones</li>
+  -->
   <Stonecutting.generalRules.rulesStrings>TODO</Stonecutting.generalRules.rulesStrings>
+  
   <!-- EN: tree sowing -->
   <TreeSowing.label>trồng cây</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
   <TreeSowing.description>Gieo trồng cây tự nhiên ở địa phương vào trong các khu trồng trọt của bạn.</TreeSowing.description>
-  <!--EN: <li>subject->tree sowing</li>
+  <!-- EN:
+    <li>subject->tree sowing</li>
     <li>subject_story->propagated trees across a long-dead planetoid, trying to bring life back</li>
     <li>subject_story->published a paper about maintaining natural ecosystems</li>
     <li>subject_story->worked in a tree nursery on an animal world</li>
-    <li>subject_gerund->sowing trees</li>-->
-  <!--VI: <li>đối tượng-> gieo hạt cây</li>
-    Cây <li>subject_story > nhân giống trên một hành tinh đã chết từ lâu, cố gắng đưa sự sống trở lại</li>
-    <li>subject_story-> xuất bản một bài báo về duy trì hệ sinh thái tự nhiên</li>
-    <li>subject_story->làm việc trong một vườn ươm cây trên thế giới động vật</li>
-    <li>subject_gerund > gieo hạt</li>-->
+    <li>subject_gerund->sowing trees</li>
+  -->
   <TreeSowing.generalRules.rulesStrings>TODO</TreeSowing.generalRules.rulesStrings>
+  
   <!-- EN: wake-up production -->
   <WakeUpProduction.label>sản xuất nước tăng lực</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>Nước tăng lực, một loại thuốc tăng cường hiệu suất làm việc thay thế cho nhu cầu ngủ.</WakeUpProduction.description>
-  <!--EN: <li>subject->wake-up production</li>
+  <!-- EN:
+    <li>subject->wake-up production</li>
     <li>subject_story->tried to overcome caffeine addiction by taking wake-up</li>
     <li>subject_story->treated narcoleptics and sleepwalkers with carefully timed wake-up doses</li>
     <li>subject_story->moved everyone to the dark side of an asteroid and used wake-up to maintain their biorhythms</li>
-    <li>subject_gerund->synthesizing wake-up</li>-->
-  <!--VI: Sản <li>xuất > thức dậy đối tượng</li>
-    <li>subject_story-> đã cố gắng vượt qua chứng nghiện caffeine bằng cách thức dậy</li>
-    Bệnh <li>nhân ngủ rũ và mộng du được điều trị subject_story > với liều thức dậy đúng thời gian cẩn thận</li>
-    <li>subject_story->di chuyển mọi người đến mặt tối của một tiểu hành tinh và sử dụng thức dậy để duy trì nhịp sinh học của họ</li>
-    Đánh <li>thức subject_gerund > tổng hợp</li>-->
+    <li>subject_gerund->synthesizing wake-up</li>
+  -->
   <WakeUpProduction.generalRules.rulesStrings>TODO</WakeUpProduction.generalRules.rulesStrings>
+  
 </LanguageData>

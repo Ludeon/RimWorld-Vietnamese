@@ -1,99 +1,86 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: air conditioning -->
   <AirConditioning.label>điều hòa không khí</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
   <AirConditioning.description>Xây dựng các bộ làm mát để làm cho mọi người thoải mái trong thời tiết nóng, hoặc để xây dựng tủ đông để lưu trữ hàng hóa dễ hỏng.</AirConditioning.description>
-  <!--EN: <li>subject->air conditioning</li>
+  <!-- EN:
+    <li>subject->air conditioning</li>
     <li>subject_story->visited the hottest town on the planet</li>
     <li>subject_story->worked at the ice caps, in an interstellar warehouse kept near to absolute zero</li>
     <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
-    <li>subject_gerund->building air conditioning units</li>-->
-  <!--VI: <li>Điều hòa không > đối tượng</li>
-    <li>subject_story->đến thăm thị trấn nóng nhất hành tinh</li>
-    <li>subject_story > làm việc tại các chỏm băng, trong một nhà kho giữa các vì sao được giữ gần bằng không tuyệt đối</li>
-    <li>subject_story > học tất cả về điều hòa không khí và tủ đông, sau đó trở về nhà</li>
-    <li>subject_gerund > tòa nhà điều hòa không khí</li>-->
+    <li>subject_gerund->building air conditioning units</li>
+  -->
   <AirConditioning.generalRules.rulesStrings>TODO</AirConditioning.generalRules.rulesStrings>
+  
   <!-- EN: autodoor -->
   <Autodoors.label>cửa tự động</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
   <Autodoors.description>Xây dựng cửa tự động mở khi ai đó đến gần, mà không làm chậm bất cứ ai.</Autodoors.description>
-  <!--EN: <li>subject->autodoors</li>
+  <!-- EN:
+    <li>subject->autodoors</li>
     <li>subject->automatic doors</li>
     <li>subject_story->was recruited by a robotics security firm, opening the door to a career as an automation tester</li>
     <li>subject_story->prototyped unique models of autodoors</li>
     <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
-    <li>subject_gerund->constructing autodoors</li>-->
-  <!--VI: <li>đối tượng->cửa tự động</li>
-    <li>đối tượng-> cửa tự động</li>
-    <li>subject_story-> được tuyển dụng bởi một công ty bảo mật robot, mở ra cánh cửa cho sự nghiệp kiểm tra tự động hóa</li>
-    <li>subject_story-> mẫu mẫu độc đáo của cửa tự động</li>
-    <li>subject_story-> làm việc rất chăm chỉ để đảm bảo các cánh cửa phát ra tiếng 'rít' thỏa mãn khi chúng mở hoặc đóng</li>
-    <li>subject_gerund-> chế tạo cửa tự động</li>-->
+    <li>subject_gerund->constructing autodoors</li>
+  -->
   <Autodoors.generalRules.rulesStrings>TODO</Autodoors.generalRules.rulesStrings>
+  
   <!-- EN: battery -->
   <Batteries.label>Pin năng lượng</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
   <Batteries.description>Xây dựng pin để lưu trữ điện.</Batteries.description>
-  <!--EN: <li>subject->batteries</li>
+  <!-- EN:
+    <li>subject->batteries</li>
     <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
     <li>subject_story->was in charge of maintaining the life support if the colony lost power</li>
     <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
-    <li>subject_gerund->building batteries</li>-->
-  <!--VI: <li>đối tượng-> pin</li>
-    <li>subject_story->phát hiện ra rằng một hồ axit trên bờ chì của thế giới tử thần hoạt động như một pin tự nhiên</li>
-    <li>subject_story-> chịu trách nhiệm duy trì hỗ trợ sự sống nếu thuộc địa mất điện</li>
-    <li>subject_story > làm việc trong thế giới phế liệu, sửa chữa máy móc và pin</li>
-    <li>Pin subject_gerund > xây dựng</li>-->
+    <li>subject_gerund->building batteries</li>
+  -->
   <Batteries.generalRules.rulesStrings>TODO</Batteries.generalRules.rulesStrings>
+  
   <!-- EN: biofuel refining -->
   <BiofuelRefining.label>lọc nhiên liệu sinh học</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
   <BiofuelRefining.description>Xây dựng các nhà máy lọc nhiên liệu sinh học để sản xuất nhiên liệu hóa học từ vật liệu sinh học như gỗ hoặc thực phẩm.</BiofuelRefining.description>
-  <!--EN: <li>subject->biofuel</li>
+  <!-- EN:
+    <li>subject->biofuel</li>
     <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
     <li>subject_story->used automated biorefineries to begin the long terraforming process on an iceworld</li>
     <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
-    <li>subject_gerund->refining biofuel</li>-->
-  <!--VI: <li>chủ đề->nhiên liệu sinh học</li>
-    <li>subject_story-> bị mắc kẹt khi một tàu phát điện bị mất điện. [ANYPAWN_pronoun] sử dụng [ANYPAWN_possessive] kiến thức về tinh chế để biến hài cốt người thành nhiên liệu sinh học và khởi động lại động cơ</li>
-    <li>Các nhà máy lọc sinh học tự động subject_story > sử dụng để bắt đầu quá trình tạo hình địa hình dài trên thế giới băng</li>
-    <li>subject_story-> bắt đầu một nhà máy chưng cất để làm moonshine nhưng nhận ra nó không thể uống được, thay vào đó đã bán nó làm nhiên liệu hóa học</li>
-    <li>subject_gerund > tinh chế nhiên liệu sinh học</li>-->
+    <li>subject_gerund->refining biofuel</li>
+  -->
   <BiofuelRefining.generalRules.rulesStrings>TODO</BiofuelRefining.generalRules.rulesStrings>
+  
   <!-- EN: blowback operation -->
   <BlowbackOperation.label>hoạt động thổi ngược</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>Chế tạo các loại súng hoạt động bằng năng lượng thấp như súng tự động, súng ngắn và SMG hạng nặng.</BlowbackOperation.description>
-  <!--EN: <li>subject->pistols</li>
+  <!-- EN:
+    <li>subject->pistols</li>
     <li>subject->blowback firearms</li>
     <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
     <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
     <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
-    <li>subject_gerund->crafting blowback firearms</li>-->
-  <!--VI: <li>đối tượng-> súng lục</li>
-    <li>đối tượng-> súng thổi ngược</li>
-    <li>subject_story > sử dụng súng lục máy trong chiến hào chiếm lấy hành tinh</li>
-    <li>subject_story-> bán súng lục tự động công suất thấp cho cơ quan thực thi pháp luật trên quỹ đạo</li>
-    <li>Súng hoạt động bằng > subject_story chế tạo cho lính nghĩa vụ cận thị</li>
-    <li>subject_gerund >chế tạo súng thổi ngược</li>-->
+    <li>subject_gerund->crafting blowback firearms</li>
+  -->
   <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
+  
   <!-- EN: advanced lights -->
   <ColoredLights.label>đèn màu</ColoredLights.label>
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
   <ColoredLights.description>Xây dựng đèn màu cho mục đích trang trí.</ColoredLights.description>
-  <!--EN: <li>subject->advanced lighting</li>
+  <!-- EN:
+    <li>subject->advanced lighting</li>
     <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
     <li>subject_story->made sure that the planet's dark side was well-lit</li>
     <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
-    <li>subject_gerund->building advanced lights</li>-->
-  <!--VI: <li>Ánh sáng > đối tượng nâng cao</li>
-    <li>subject_story > đèn pha được lắp đặt trên khắp nhiều vành đai an ninh của thế giới nhà tù</li>
-    <li>subject_story->đảm bảo rằng mặt tối của hành tinh được chiếu sáng tốt</li>
-    <li>subject_story->chuyển sang điều hành các buổi hòa nhạc cho các nghệ sĩ hát rong giữa các vì sao, chuyên điều khiển các giàn chiếu sáng khổng lồ của con tàu</li>
-    <li>Đèn subject_gerund > tiên tiến</li>-->
+    <li>subject_gerund->building advanced lights</li>
+  -->
   <ColoredLights.generalRules.rulesStrings>TODO</ColoredLights.generalRules.rulesStrings>
+  
   <!-- EN: electricity -->
   <Electricity.label>điện năng</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
@@ -102,330 +89,275 @@
   <Electricity.discoveredLetterText>Thuộc địa của bạn đã khai thác năng lượng mà người ngoài gọi là "điện". Nó có khả năng biến đổi mọi khía cạnh trong lối sống của mọi người.\n\nBạn hiện đã mở khóa tab Nguồn trong menu Kiến trúc sư để từ đó bạn có thể chế tạo máy phát điện, ống dẫn điện và các cơ chế khác để điều khiển lực lượng mới này. Tab Power cũng hiển thị lưới điện kết nối các máy phát điện và thiết bị.</Electricity.discoveredLetterText>
   <!-- EN: About: Electricity -->
   <Electricity.discoveredLetterTitle>Về: Điện</Electricity.discoveredLetterTitle>
-  <!--EN: <li>subject->electricity</li>
+  <!-- EN:
+    <li>subject->electricity</li>
     <li>subject_story->was struck by lighting and became determined to harness it</li>
     <li>subject_story->created the first generator and lightbulb on a medieval world</li>
     <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
-    <li>subject_gerund->harnessing electricity</li>-->
-  <!--VI: <li>đối tượng > điện</li>
-    <li>subject_story-> bị ánh sáng chiếu vào và quyết tâm khai thác nó</li>
-    <li>subject_story->tạo ra máy phát điện và bóng đèn đầu tiên trên thế giới thời trung cổ</li>
-    <li>subject_story-> bị hành quyết trên một thế giới phong kiến vì báng bổ tạo ra ánh sáng</li>
-    <li>subject_gerund > khai thác điện</li>-->
+    <li>subject_gerund->harnessing electricity</li>
+  -->
   <Electricity.generalRules.rulesStrings>TODO</Electricity.generalRules.rulesStrings>
+  
   <!-- EN: firefoam -->
   <Firefoam.label>bọt chống lửa</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
   <Firefoam.description>Xây dựng hộp bọt lửa, thiết bị an toàn cháy tự động lan truyền bọt chống cháy để đáp ứng với ngọn lửa xâm lấn.</Firefoam.description>
-  <!--EN: <li>subject->firefoam poppers</li>
+  <!-- EN:
+    <li>subject->firefoam poppers</li>
     <li>subject->fire safety devices</li>
     <li>subject_story->headed up an agency promulgating fire safety to the whole population</li>
     <li>subject_story->became a firefighter</li>
     <li>subject_story->was saved by the poppers when an oil fire spiraled out of control</li>
     <li>subject_gerund->constructing firefoam poppers</li>
-    <li>subject_gerund->suppressing fires with poppers</li>-->
-  <!--VI: <li>chủ đề-> poppers bọt lửa</li>
-    <li>đối tượng > thiết bị an toàn cháy nổ</li>
-    <li>subject_story > đứng đầu cơ quan ban hành an toàn phòng cháy và chữa cháy cho toàn dân</li>
-    <li>subject_story->trở thành lính cứu hỏa</li>
-    <li>subject_story-> đã được cứu bởi poppers khi một đám cháy dầu vượt khỏi tầm kiểm soát</li>
-    <li>subject_gerund-> xây dựng poppers bọt lửa</li>
-    <li>subject_gerund > dập lửa bằng poppers</li>-->
+    <li>subject_gerund->suppressing fires with poppers</li>
+  -->
   <Firefoam.generalRules.rulesStrings>TODO</Firefoam.generalRules.rulesStrings>
+  
   <!-- EN: flak armor -->
   <FlakArmor.label>áo giáp nhẹ</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
   <FlakArmor.description>Quần áo thủ công với áo giáp kim loại được may vào để chống đạn và nổ. Bộ giáp nặng này làm chậm chuyển động một chút.</FlakArmor.description>
-  <!--EN: <li>subject->flak armor</li>
+  <!-- EN:
+    <li>subject->flak armor</li>
     <li>subject_story->supplied flak armor to the militias that ran the cities</li>
     <li>subject_story->learned to sew metal plates into clothing, to protect kin from the roving gangs</li>
     <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
-    <li>subject_gerund->crafting flak armor</li>-->
-  <!--VI: <li>Giáp đối tượng-> phòng không</li>
-    <li>subject_story-> cung cấp thiết giáp cho các lực lượng dân quân điều hành các thành phố</li>
-    <li>subject_story->học cách khâu các tấm kim loại vào quần áo, để bảo vệ người thân khỏi các băng đảng lưu động</li>
-    <li>subject_story > sống sót sau một viên đạn súng trường nhờ tấm kim loại được khâu vào túi ngực</li>
-    <li>subject_gerund > chế tạo áo giáp flak</li>-->
+    <li>subject_gerund->crafting flak armor</li>
+  -->
   <FlakArmor.generalRules.rulesStrings>TODO</FlakArmor.generalRules.rulesStrings>
+  
   <!-- EN: foam turret -->
   <FoamTurret.label>tháp pháo chữa cháy</FoamTurret.label>
   <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
   <FoamTurret.description>Chế tạo tháp pháo có thể kích hoạt để phun bọt chữa cháy.</FoamTurret.description>
-  <!--EN: <li>subject->foam turrets</li>
+  <!-- EN:
+    <li>subject->foam turrets</li>
     <li>subject->fire suppression turrets</li>
     <li>subject_story->redesigned gun turrets to put out fires, not create them</li>
     <li>subject_story->incorporated heat sensors and foam ejectors into a standard turret chassis</li>
     <li>subject_story->was praised after installing cheap foam turrets in public areas and saving many lives</li>
     <li>subject_gerund->constructing fire suppression turrets</li>
-    <li>subject_gerund->suppressing fires with turrets</li>-->
-  <!--VI: <li>đối tượng-> tháp pháo xốp</li>
-    <li>đối tượng-> tháp pháo dập lửa</li>
-    Các <li>tháp pháo được thiết kế lại subject_story > để dập lửa, không tạo ra chúng</li>
-    <li>subject_story cảm biến nhiệt > tích hợp và đầu phun bọt vào khung tháp pháo tiêu chuẩn</li>
-    <li>subject_story-> được khen ngợi sau khi lắp đặt tháp pháo xốp giá rẻ ở các khu vực công cộng và cứu sống nhiều người</li>
-    <li>subject_gerund > thi công tháp pháo dập lửa</li>
-    <li>subject_gerund-> dập tắt hỏa lực bằng tháp pháo</li>-->
+    <li>subject_gerund->suppressing fires with turrets</li>
+  -->
   <FoamTurret.generalRules.rulesStrings>TODO</FoamTurret.generalRules.rulesStrings>
+  
   <!-- EN: gas operation -->
   <GasOperation.label>hoạt động khí</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
   <GasOperation.description>Chế tạo các loại súng công suất cao như chain shotguns và LMG.</GasOperation.description>
-  <!--EN: <li>subject->heavy weaponry</li>
+  <!-- EN:
+    <li>subject->heavy weaponry</li>
     <li>subject->high-power firearms</li>
     <li>subject_story->equipped the special weapons squads of the tyrant's guard with light machine guns</li>
     <li>subject_story->supplied several planetary armies with heavy firearms</li>
     <li>subject_story->designed new types of high-power gun, still known today</li>
-    <li>subject_gerund->crafting heavy firearms</li>-->
-  <!--VI: đối <li>tượng-> vũ khí hạng nặng</li>
-    <li>đối tượng-> súng công suất cao</li>
-    <li>subject_story-> trang bị cho các đội vũ khí đặc biệt của đội cận vệ bạo chúa bằng súng máy hạng nhẹ</li>
-    <li>subject_story-> cung cấp súng hạng nặng cho một số đội quân hành tinh</li>
-    Các <li>loại súng công suất cao mới được thiết kế subject_story >, vẫn còn được biết đến cho đến ngày nay</li>
-    <li>subject_gerund >chế tạo súng hạng nặng</li>-->
+    <li>subject_gerund->crafting heavy firearms</li>
+  -->
   <GasOperation.generalRules.rulesStrings>TODO</GasOperation.generalRules.rulesStrings>
+  
   <!-- EN: geothermal power -->
   <GeothermalPower.label>năng lượng địa nhiệt</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
   <GeothermalPower.description>Xây dựng các nhà máy điện địa nhiệt trên đỉnh các mạch nước hơi, để nguồn điện không bị gián đoạn.</GeothermalPower.description>
-  <!--EN: <li>subject->geothermal power</li>
+  <!-- EN:
+    <li>subject->geothermal power</li>
     <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
     <li>subject_story->tapped the power of a dormant volcano to power the local grid</li>
     <li>subject_story->argued with the local population who wanted to preserve the scenic geysers, not use them for power</li>
     <li>subject_gerund->tapping geothermal energy</li>
-    <li>subject_gerund->building geothermal power plants</li>-->
-  <!--VI: <li>đối tượng-> điện địa nhiệt</li>
-    <li>subject_story > nghiên cứu năng lượng hơi nước và thành lập các nhà máy địa nhiệt trên khắp khu vực</li>
-    <li>subject_story-> khai thác sức mạnh của một ngọn núi lửa không hoạt động để cung cấp năng lượng cho lưới điện địa phương</li>
-    <li>subject_story-> tranh luận với người dân địa phương, những người muốn bảo tồn các mạch nước phun tuyệt đẹp, không sử dụng chúng để làm quyền lực</li>
-    <li>subject_gerund > khai thác năng lượng địa nhiệt</li>
-    <li>subject_gerund > xây dựng nhà máy điện địa nhiệt</li>-->
+    <li>subject_gerund->building geothermal power plants</li>
+  -->
   <GeothermalPower.generalRules.rulesStrings>TODO</GeothermalPower.generalRules.rulesStrings>
+  
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>chế tạo súng</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
   <Gunsmithing.description>Chế tạo các loại súng được điều khiển thủ công đơn giản như súng lục ổ quay, súng thục, súng trường bắn tia và súng phóng lựu.</Gunsmithing.description>
-  <!--EN: <li>subject->simple firearms</li>
+  <!-- EN:
+    <li>subject->simple firearms</li>
     <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
     <li>subject_story->specialized in simple gunsmithing, providing shotguns and rifles for hunters</li>
     <li>subject_story->set up as a gunsmith, achieving fame across the sector</li>
     <li>subject_gerund->gunsmithing</li>
-    <li>subject_gerund->crafting firearms</li>-->
-  <!--VI: <li>đối tượng-> súng đơn giản</li>
-    <li>subject_story-> chế tạo một khẩu súng lục ổ quay 12 phát độc đáo và giành chiến thắng trong loạt đấu súng</li>
-    <li>subject_story-> chuyên chế tạo súng đơn giản, cung cấp súng ngắn và súng trường cho thợ săn</li>
-    <li>subject_story > thành lập như một thợ chế tạo súng, đạt được danh tiếng trong lĩnh vực</li>
-    <li>subject_gerund-> chế tạo súng</li>
-    <li>Súng chế tạo subject_gerund ></li>-->
+    <li>subject_gerund->crafting firearms</li>
+  -->
   <Gunsmithing.generalRules.rulesStrings>TODO</Gunsmithing.generalRules.rulesStrings>
+  
   <!-- EN: gun turrets -->
   <GunTurrets.label>tháp súng</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
   <GunTurrets.description>Sản xuất tháp súng tự động đơn giản.</GunTurrets.description>
-  <!--EN: <li>subject->gun turrets</li>
+  <!-- EN:
+    <li>subject->gun turrets</li>
     <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
     <li>subject_story->designed a modular gun turret holster, capable of taking any weapon type</li>
     <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
-    <li>subject_gerund->constructing automated gun turrets</li>-->
-  <!--VI: tháp <li>pháo > đối tượng</li>
-    <li>subject_story-> làm việc trên các thói quen AI, để cho phép tháp pháo xác định bạn bè và kẻ thù</li>
-    <li>subject_story-> thiết kế bao da tháp pháo mô-đun, có khả năng sử dụng bất kỳ loại vũ khí nào</li>
-    <li>subject_story-> vô hiệu hóa tháp pháo của đối phương từ xa, trước khi dẫn đầu cuộc tấn công</li>
-    <li>subject_gerund > chế tạo tháp pháo tự động</li>-->
+    <li>subject_gerund->constructing automated gun turrets</li>
+  -->
   <GunTurrets.generalRules.rulesStrings>TODO</GunTurrets.generalRules.rulesStrings>
+  
   <!-- EN: hydroponics -->
   <Hydroponics.label>thủy canh</Hydroponics.label>
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
   <Hydroponics.description>Xây dựng các lưu vực thủy canh để nhanh chóng trồng cây trong nhà bất kể địa hình hoặc thời tiết bên ngoài.</Hydroponics.description>
-  <!--EN: <li>subject->hydroponics</li>
+  <!-- EN:
+    <li>subject->hydroponics</li>
     <li>subject_story->joined a generation ship crew as their crop specialist</li>
     <li>subject_story->established a hydroponics facility to feed the hungry</li>
     <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>
     <li>subject_gerund->building hydroponics</li>
-    <li>subject_gerund->growing plants indoors</li>-->
-  <!--VI: <li>chủ đề-> thủy canh</li>
-    <li>subject_story->tham gia thủy thủ đoàn tàu thế hệ với tư cách là chuyên gia trồng trọt của họ</li>
-    <li>subject_story-> thành lập một cơ sở thủy canh để nuôi những người đói</li>
-    <li>subject_story > đi khắp nơi, dạy sự phát triển của thực vật nhân tạo cho những người thực dân mới</li>
-    <li>subject_gerund > thủy canh</li>
-    Cây <li>trồng subject_gerund > trong nhà</li>-->
+    <li>subject_gerund->growing plants indoors</li>
+  -->
   <Hydroponics.generalRules.rulesStrings>TODO</Hydroponics.generalRules.rulesStrings>
+  
   <!-- EN: IEDs -->
   <IEDs.label>IEDs</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
   <IEDs.description>Xây dựng các bẫy ngẫu hứng từ bất kỳ loại đạn súng cối nào.</IEDs.description>
-  <!--EN: <li>subject->improvised explosive traps</li>
+  <!-- EN:
+    <li>subject->improvised explosive traps</li>
     <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
     <li>subject_story->came under mortar fire, only surviving by crafting traps from the enemy's many dud shells</li>
     <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
-    <li>subject_gerund->crafting improvised explosive traps</li>-->
-  <!--VI: <li>bẫy nổ tự chế > đối tượng</li>
-    <li>subject_story-> vô hiệu hóa đạn pháo còn sót lại của chiến tranh, đưa chúng vào tiền tuyến mới như thủy lôi</li>
-    <li>subject_story-> bị hỏa lực súng cối, chỉ sống sót bằng cách chế tạo bẫy từ nhiều quả đạn chết của kẻ thù</li>
-    <li>subject_story-> ủng hộ quyền của các khu định cư nhỏ, nơi mà đạn dược chưa nổ là mối nguy hiểm thường trực</li>
-    <li>subject_gerund >chế tạo bẫy nổ ngẫu hứng</li>-->
+    <li>subject_gerund->crafting improvised explosive traps</li>
+  -->
   <IEDs.generalRules.rulesStrings>TODO</IEDs.generalRules.rulesStrings>
+  
   <!-- EN: machining -->
   <Machining.label>máy gia công</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
   <Machining.description>Xây dựng các bàn gia công để chế tạo súng, lựu đạn, áo giáp và tháo rời các cỗ máy chiến đấu cơ đã chết để lấy tài nguyên.</Machining.description>
-  <!--EN: <li>subject->machining</li>
+  <!-- EN:
+    <li>subject->machining</li>
     <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
     <li>subject_story->quietly built an arsenal of self-made weapons in the basement of a suburban home</li>
     <li>subject_story->built machining tables for many gunsmiths, despite being a pacifist</li>
     <li>subject_gerund->building machining equipment</li>
-    <li>subject_gerund->machining</li>-->
-  <!--VI: <li>chủ đề-gia công ></li>
-    <li>subject_story-> thu thập phần còn lại của các cơ chế đã chết và cắt nhỏ chúng để lấy tài nguyên</li>
-    <li>subject_story-> lặng lẽ xây dựng một kho vũ khí tự chế trong tầng hầm của một ngôi nhà ngoại ô</li>
-    <li>Bàn gia công subject_story > chế tạo cho nhiều thợ súng, mặc dù là một người theo chủ nghĩa hòa bình</li>
-    <li>Thiết bị gia công subject_gerund > xây dựng</li>
-    <li>Gia công subject_gerund ></li>-->
+    <li>subject_gerund->machining</li>
+  -->
   <Machining.generalRules.rulesStrings>TODO</Machining.generalRules.rulesStrings>
+  
   <!-- EN: mortars -->
   <Mortars.label>súng cối</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
   <Mortars.description>Xây dựng các súng cối có thể bắn đạn pháo từ xa - thậm chí trên các bức tường.</Mortars.description>
-  <!--EN: <li>subject->artillery</li>
+  <!-- EN:
+    <li>subject->artillery</li>
     <li>subject->mortars</li>
     <li>subject_story->was instrumental in the glasshouse siege that overthrew the town council</li>
     <li>subject_story->developed a collapsible, lightweight mortar tube for the local police</li>
     <li>subject_story->demolished the many derelict buildings from a distance, with explosive shells</li>
     <li>subject_gerund->crafting mortars</li>
-    <li>subject_gerund->constructing simple artillery</li>-->
-  <!--VI: <li>đối tượng-> pháo binh</li>
-    đối <li>tượng-> cối</li>
-    <li>subject_story-> là công cụ trong cuộc bao vây nhà kính lật đổ hội đồng thị trấn</li>
-    <li>subject_story > phát triển một ống súng cối nhẹ, có thể thu gọn cho cảnh sát địa phương</li>
-    <li>subject_story-> phá hủy nhiều tòa nhà bỏ hoang từ xa, bằng đạn nổ</li>
-    <li>subject_gerund chế tạo > cối</li>
-    <li>subject_gerund > chế tạo pháo binh đơn giản</li>-->
+    <li>subject_gerund->constructing simple artillery</li>
+  -->
   <Mortars.generalRules.rulesStrings>TODO</Mortars.generalRules.rulesStrings>
+  
   <!-- EN: nutrient paste -->
   <NutrientPaste.label>thức ăn hỗn hợp</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
   <NutrientPaste.description>Xây dựng các bộ phân phối chất dinh dưỡng tạo ra các bữa ăn có thể ăn được từ các nguyên liệu dinh dưỡng thô, trong khi không cần lao động.</NutrientPaste.description>
-  <!--EN: <li>subject->nutrient paste</li>
+  <!-- EN:
+    <li>subject->nutrient paste</li>
     <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
     <li>subject_story->lost [ANYPAWN_possessive] taste of smell to disease, so devised a cheap, flavorless nutrient paste</li>
     <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
-    <li>subject_gerund->building nutrient paste dispensers</li>-->
-  <!--VI: <li>chủ đề-> chất dinh dưỡng dán</li>
-    <li>subject_story-> làm việc trong căng tin nhà máy và nghĩ ra bột nhão dinh dưỡng như một cách để tránh mọi lao động</li>
-    <li>subject_story->mất [ANYPAWN_possessive] vị khứu giác do bệnh tật, vì vậy đã nghĩ ra một loại bột dinh dưỡng rẻ tiền, không hương vị</li>
-    <li>subject_story-> ủng hộ việc tái chế tất cả các chất hữu cơ thành bột nhão dinh dưỡng, thậm chí cả xác chết</li>
-    <li>Máy phân phối bột nhão dinh dưỡng subject_gerund > xây dựng</li>-->
+    <li>subject_gerund->building nutrient paste dispensers</li>
+  -->
   <NutrientPaste.generalRules.rulesStrings>TODO</NutrientPaste.generalRules.rulesStrings>
+  
   <!-- EN: packaged survival meal -->
   <PackagedSurvivalMeal.label>suất ăn dã chiến</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
   <PackagedSurvivalMeal.description>Sản xuất các suất ăn dã chiến đóng gói mà không bao giờ xấu đi. Tuyệt vời cho du lịch.</PackagedSurvivalMeal.description>
-  <!--EN: <li>subject->packaged survival meals</li>
+  <!-- EN:
+    <li>subject->packaged survival meals</li>
     <li>subject->non-perishable food</li>
     <li>subject_story-> knew, when disaster struck, there were enough packaged meals to survive until rescuers arrived</li>
     <li>subject_story->established a social kitchen, which donated survival meals to all outgoing vessels</li>
     <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
-    <li>subject_gerund->preparing survival meals</li>-->
-  <!--VI: <li>Bữa ăn sinh tồn đóng gói > đối tượng</li>
-    <li>thực phẩm đối tượng > không dễ hỏng</li>
-    <li>subject_story-> biết, khi thảm họa xảy ra, có đủ bữa ăn đóng gói để sống sót cho đến khi lực lượng cứu hộ đến</li>
-    <li>subject_story-> thành lập một nhà bếp xã hội, quyên góp các bữa ăn sinh tồn cho tất cả các tàu đi</li>
-    <li>subject_story > khám phá ra những bữa ăn sinh tồn trên núi hàng trăm năm tuổi</li>
-    <li>subject_gerund > chuẩn bị bữa ăn sinh tồn</li>-->
+    <li>subject_gerund->preparing survival meals</li>
+  -->
   <PackagedSurvivalMeal.generalRules.rulesStrings>TODO</PackagedSurvivalMeal.generalRules.rulesStrings>
+  
   <!-- EN: prosthetics -->
   <Prosthetics.label>chân tay giả</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>Xây dựng các bộ phận cơ thể giả rẻ tiền để thay thế các chi bị mất. Yêu cầu một bác sĩ lành nghề để đính kèm.</Prosthetics.description>
-  <!--EN: <li>subject->prosthesis</li>
+  <!-- EN:
+    <li>subject->prosthesis</li>
     <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
     <li>subject_story->opened a prosthetics clinic</li>
     <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
-    <li>subject_gerund->crafting prosthetics</li>-->
-  <!--VI: <li>đối tượng-> giả</li>
-    <li>subject_story-> đã thay thế một chi bằng một bộ phận giả, để cho thấy nó dễ dàng như thế nào</li>
-    <li>subject_story-> mở phòng khám</li> giả
-    <li>subject_story-> bắt đầu chế tạo chân tay giả cho nhiều cựu chiến binh trong khu vực</li>
-    <li>subject_gerund > thủ công giả</li>-->
+    <li>subject_gerund->crafting prosthetics</li>
+  -->
   <Prosthetics.generalRules.rulesStrings>TODO</Prosthetics.generalRules.rulesStrings>
+  
   <!-- EN: smokepop packs -->
   <SmokepopBelt.label>đai bom khói</SmokepopBelt.label>
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
   <SmokepopBelt.description>Tạo ra một đám khói phòng thủ tự động khi người dùng bị bắn.</SmokepopBelt.description>
-  <!--EN: <li>subject->smokescreen</li>
+  <!-- EN:
+    <li>subject->smokescreen</li>
     <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
     <li>subject_story->established a defensive smokepop perimeter around the local towns, to keep the wildlife back</li>
     <li>subject_story->used smokepop packs to train new firefighters, without the peril of actual fire</li>
     <li>subject_gerund->building smokepop packs</li>
-    <li>subject_gerund->deploying smokescreens</li>-->
-  <!--VI: <li>đối tượng->màn khói</li>
-    <li>subject_story->làm việc như một người vận chuyển cho các ban nhạc, sử dụng smokepop cho các hiệu ứng đặc biệt</li>
-    <li>subject_story-> thiết lập một vành đai phòng thủ xung quanh các thị trấn địa phương, để giữ động vật hoang dã trở lại</li>
-    <li>subject_story > sử dụng các gói khói để đào tạo lính cứu hỏa mới, mà không gặp nguy cơ hỏa hoạn thực sự</li>
-    <li>Gói khói subject_gerund > xây dựng</li>
-    <li>subject_gerund->triển khai màn khói</li>-->
+    <li>subject_gerund->deploying smokescreens</li>
+  -->
   <SmokepopBelt.generalRules.rulesStrings>TODO</SmokepopBelt.generalRules.rulesStrings>
+  
   <!-- EN: solar panel -->
   <SolarPanels.label>tấm năng lượng mặt trời</SolarPanels.label>
   <!-- EN: Build solar panels for electricity generation. -->
   <SolarPanels.description>Xây dựng các tấm pin mặt trời để phát điện.</SolarPanels.description>
-  <!--EN: <li>subject->solar panels</li>
+  <!-- EN:
+    <li>subject->solar panels</li>
     <li>subject->solar energy</li>
     <li>subject_story->established a multi-spectrum solar farm</li>
     <li>subject_story->studied ways of maximizing the percentage of solar energy captured</li>
     <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
-    <li>subject_gerund->building solar panels</li>-->
-  <!--VI: <li>đối tượng-> tấm pin mặt trời</li>
-    <li>đối tượng-> năng lượng mặt trời</li>
-    <li>subject_story-> thành lập trang trại năng lượng mặt trời đa phổ</li>
-    <li>subject_story-> nghiên cứu các cách tối đa hóa tỷ lệ năng lượng mặt trời thu được</li>
-    <li>subject_story-> bên trái trên một thợ lặn mặt trời để xem một chuyến bay ngang qua quang quyển của một ngôi sao</li>
-    <li>subject_gerund > tòa nhà tấm pin mặt trời</li>-->
+    <li>subject_gerund->building solar panels</li>
+  -->
   <SolarPanels.generalRules.rulesStrings>TODO</SolarPanels.generalRules.rulesStrings>
+  
   <!-- EN: sterile materials -->
   <SterileMaterials.label>vật liệu vô trùng</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
   <SterileMaterials.description>Xây dựng gạch vô trùng làm phòng sạch để điều trị y tế, nghiên cứu và nấu ăn an toàn hơn và hiệu quả hơn.</SterileMaterials.description>
-  <!--EN: <li>subject->sterile surfaces</li>
+  <!-- EN:
+    <li>subject->sterile surfaces</li>
     <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
     <li>subject_story->started a kibble kitchen which, uniquely for the system, was known to be free of food poisoning</li>
     <li>subject_story->established a decorative tile factory, with a sideline in medical equipment and sterile tiles</li>
     <li>subject_gerund->sterilizing surfaces</li>
-    <li>subject_gerund->constructing sterilized surfaces</li>-->
-  <!--VI: <li>bề mặt đối tượng > vô trùng</li>
-    <li>subject_story-> ngăn ngừa nhiều ca tử vong bằng cách nhấn mạnh vào việc khử trùng hiệu quả, nhất quán tất cả các thiết bị</li>
-    <li>subject_story-> bắt đầu một nhà bếp thức ăn, độc đáo cho hệ thống, được biết là không bị ngộ độc thực phẩm</li>
-    <li>subject_story-> thành lập nhà máy sản xuất gạch trang trí, phụ về thiết bị y tế và gạch vô trùng</li>
-    <li>subject_gerund > khử trùng bề mặt</li>
-    <li>subject_gerund-> xây dựng bề mặt khử trùng</li>-->
+    <li>subject_gerund->constructing sterilized surfaces</li>
+  -->
   <SterileMaterials.generalRules.rulesStrings>TODO</SterileMaterials.generalRules.rulesStrings>
+  
   <!-- EN: tube television -->
   <TubeTelevision.label>truyền hình ống</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
   <TubeTelevision.description>Sản xuất tivi ống để xem giải trí.</TubeTelevision.description>
-  <!--EN: <li>subject->tube televisions</li>
+  <!-- EN:
+    <li>subject->tube televisions</li>
     <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
     <li>subject_story->moved into broadcasting, producing programmes just for the archaic tube televisions</li>
     <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
-    <li>subject_gerund->producing tube televisions</li>-->
-  <!--VI: <li>TV ống > đối tượng</li>
-    <li>subject_story-> thiết kế một chiếc tivi giả cổ điển có thể thu tín hiệu giữa các vì sao</li>
-    <li>subject_story > chuyển sang phát thanh, sản xuất các chương trình chỉ dành cho các đài truyền hình ống cổ xưa</li>
-    <li>subject_story->đảm bảo rằng mọi người đều biết sự nguy hiểm của ống tia cực âm</li>
-    <li>TV ống sản xuất subject_gerund ></li>-->
+    <li>subject_gerund->producing tube televisions</li>
+  -->
   <TubeTelevision.generalRules.rulesStrings>TODO</TubeTelevision.generalRules.rulesStrings>
+  
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>phát điện từ nước</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
   <WatermillGenerator.description>Xây dựng máy phát điện từ nước trên sông để tạo ra nguồn cung cấp điện ổn định.</WatermillGenerator.description>
-  <!--EN: <li>subject->watermill generators</li>
+  <!-- EN:
+    <li>subject->watermill generators</li>
     <li>subject_story->watched twigs and leaves get pulled downstream and envisioned the power there</li>
     <li>subject_story->hooked cabling up to an ancient flour mill on a feudalworld</li>
     <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
-    <li>subject_gerund->watermill generators</li>-->
-  <!--VI: <li>chủ đề-> máy phát điện cối xay nước</li>
-    <li>subject_story > quan sát cành cây và lá cây được kéo xuống hạ lưu và hình dung ra sức mạnh ở đó</li>
-    Dây <li>cáp subject_story > móc đến một nhà máy bột mì cổ xưa trên một thế giới phong kiến</li>
-    <li>subject_story-> đã mắc cạn một chiếc tàu hơi nước trên bờ biển của một thế giới tàn tích và biến nó thành cối xay nước</li>
-    <li>Máy phát điện subject_gerund > cối xay nước</li>-->
+    <li>subject_gerund->watermill generators</li>
+  -->
   <WatermillGenerator.generalRules.rulesStrings>TODO</WatermillGenerator.generalRules.rulesStrings>
+  
 </LanguageData>

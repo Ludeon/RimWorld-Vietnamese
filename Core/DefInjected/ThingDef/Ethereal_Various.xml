@@ -1,27 +1,37 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: blight -->
   <Blight.label>sáng</Blight.label>
+  
   <!-- EN: explosion -->
   <Explosion.label>nổ</Explosion.label>
-  <!--EN: flying-->
-  <!--VI: Bay-->
+  
+  <!-- EN: flying -->
   <PawnFlyer.label>TODO</PawnFlyer.label>
+  
   <!-- EN: flying -->
   <PawnFlyer_Stun.label>Choáng</PawnFlyer_Stun.label>
-  <!--EN: disrupted soil-->
-  <!--VI: đất bị phá vỡ-->
+  
+  <!-- EN: disrupted soil -->
   <PawnGroundSpawner.label>TODO</PawnGroundSpawner.label>
+  
   <!-- EN: proximity trigger -->
   <RadialTrigger.label>kích hoạt gần</RadialTrigger.label>
+  
   <!-- EN: rect trigger -->
   <RectTrigger.label>kích hoạt hình chữ nhật</RectTrigger.label>
+  
   <!-- EN: tornado -->
   <Tornado.label>vòi rồng</Tornado.label>
+  
   <!-- EN: trigger container emptied -->
   <TriggerContainerEmptied.label>kích hoạt thùng chứa trống rỗng</TriggerContainerEmptied.label>
+  
   <!-- EN: trigger unfogged -->
   <TriggerUnfogged.label>kích hoạt bỏ đăng nhập</TriggerUnfogged.label>
+  
   <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>hầm</TunnelHiveSpawner.label>
+  
 </LanguageData>

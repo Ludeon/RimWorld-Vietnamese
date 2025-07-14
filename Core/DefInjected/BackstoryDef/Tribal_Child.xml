@@ -1,115 +1,116 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived.-->
-  <!--VI: [PAWN_nameDef] sinh ra trong tình trạng ốm yếu. Nghĩ rằng [PAWN_pronoun] sẽ chỉ tạo gánh nặng cho bộ lạc, cha mẹ [PAWN_possessive PAWN_objective] tiếp xúc với các yếu tố. Bằng cách nào đó, [PAWN_pronoun] sống sót.-->
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
   <AbandonedChild23.description>TODO</AbandonedChild23.description>
   <AbandonedChild23.baseDesc>[PAWN_nameDef] sinh ra ốm yếu. Nghĩ rằng [PAWN_pronoun] sẽ chỉ gây gánh nặng cho bộ lạc, cha mẹ [PAWN_possessive] đã bỏ [PAWN_objective] vào trong các nguyên tố của tự nhiên. Bằng cách nào đó, [PAWN_pronoun] đã sống sót.</AbandonedChild23.baseDesc>
   <!-- EN: abandoned child -->
   <AbandonedChild23.title>Đứa trẻ bị bỏ rơi</AbandonedChild23.title>
   <!-- EN: abandoned -->
   <AbandonedChild23.titleShort>Bị bỏ rơi</AbandonedChild23.titleShort>
-  <!--EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders.-->
-  <!--VI: Thay vì giao tiếp với những đứa trẻ khác, [PAWN_nameDef] thích lạc vào văn học. [PAWN_pronoun] tự dạy [PAWN_objective] tự đọc từ khi còn nhỏ với những cuốn sách mua từ những người buôn bán đi ngang qua.-->
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
   <Bookworm19.description>TODO</Bookworm19.description>
   <Bookworm19.baseDesc>Thay vì giao lưu với những đứa trẻ khác, [PAWN_nameDef] thích lạc vào văn học hơn. [PAWN_pronoun] đã tự học đọc khi còn nhỏ bằng những cuốn sách được mua từ những người buôn bán qua đường.</Bookworm19.baseDesc>
   <!-- EN: bookworm -->
   <Bookworm19.title>Mọt sách</Bookworm19.title>
   <!-- EN: bookworm -->
   <Bookworm19.titleShort>Mọt sách</Bookworm19.titleShort>
-  <!--EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations.-->
-  <!--VI: [PAWN_nameDef] có sở trường nghệ thuật. Các thương nhân và nhà sưu tập từ nhiều xã hội khác nhau đã tìm cách mua các sáng tạo [PAWN_possessive].-->
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
   <BuddingArtist44.description>TODO</BuddingArtist44.description>
   <BuddingArtist44.baseDesc>[PAWN_nameDef] có sở trường về nghệ thuật. Các thương nhân và nhà sưu tập khác nhau đã tìm cách mua các tác phẩm của [PAWN_possessive].</BuddingArtist44.baseDesc>
   <!-- EN: budding artist -->
   <BuddingArtist44.title>Nghệ nhân mới nổi</BuddingArtist44.title>
   <!-- EN: artist -->
   <BuddingArtist44.titleShort>Nghệ nhân</BuddingArtist44.titleShort>
-  <!--EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age.-->
-  <!--VI: [PAWN_nameDef] hành hạ những đứa trẻ khác cho vui. Để giữ cho [PAWN_objective] bận rộn, một trưởng lão đã chỉ định [PAWN_objective] vào một nhóm săn bắn khi còn nhỏ.-->
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
   <Bully70.description>TODO</Bully70.description>
   <Bully70.baseDesc>[PAWN_nameDef] thích thú việc hành hạ những đứa trẻ. Để giữ cho [PAWN_objective] bận rộn, một trưởng lão đã chỉ định [PAWN_objective] cho một nhóm săn bắn ngay từ khi còn nhỏ.</Bully70.baseDesc>
   <!-- EN: bully -->
   <Bully70.title>Kẻ bắt nạt</Bully70.title>
   <!-- EN: bully -->
   <Bully70.titleShort>Kẻ bắt nạt</Bully70.titleShort>
-  <!--EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves.-->
-  <!--VI: [PAWN_nameDef] lớn lên trong một khu phức hợp hang động lớn và phức tạp kéo dài sâu vào sườn núi. [PAWN_pronoun] đã giúp những người lớn duy trì và cải thiện các hang động sâu.-->
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
   <CaveChild30.description>TODO</CaveChild30.description>
   <CaveChild30.baseDesc>[PAWN_nameDef] lớn lên trong một quần thể hang động lớn và phức tạp kéo sâu vào sườn núi. [PAWN_pronoun] đã giúp những người trưởng thành duy trì và cải tạo các hang sâu.</CaveChild30.baseDesc>
   <!-- EN: cave child -->
   <CaveChild30.title>Đứa trẻ trong hang động</CaveChild30.title>
   <!-- EN: cave child -->
   <CaveChild30.titleShort>Đứa trẻ trong hang động</CaveChild30.titleShort>
-  <!--EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective].-->
-  <!--VI: Khi còn là một đứa trẻ, [PAWN_nameDef] là người duy nhất sống sót sau một vụ tai nạn tàu vũ trụ chết người. Một bộ lạc đi ngang qua đã phát hiện ra [PAWN_objective] trong đống đổ nát và nhận nuôi [PAWN_objective].-->
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
   <CrashBaby32.description>TODO</CrashBaby32.description>
   <CrashBaby32.baseDesc>Khi còn bé, [PAWN_nameDef] là người duy nhất sống sót sau một vụ tai nạn tàu vũ trụ chết người. Một bộ lạc đi ngang qua đã phát hiện ra [PAWN_objective] trong đống đổ nát và nhận nuôi [PAWN_objective].</CrashBaby32.baseDesc>
   <!-- EN: crash baby -->
   <CrashBaby32.title>Đứa bé bị thương</CrashBaby32.title>
   <!-- EN: crashbaby -->
   <CrashBaby32.titleShort>Đứa bé bị thương</CrashBaby32.titleShort>
-  <!--EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously.-->
-  <!--VI: [PAWN_nameDef] chịu trách nhiệm giữ cho ngọn lửa của bộ lạc tiếp tục. [PAWN_pronoun] đã thực hiện trách nhiệm này rất nghiêm túc.-->
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
   <FireKeeper44.description>TODO</FireKeeper44.description>
   <FireKeeper44.baseDesc>[PAWN_nameDef] chịu trách nhiệm duy trì ngọn lửa của bộ lạc liên tục. [PAWN_pronoun] đã nhận trách nhiệm này rất nghiêm túc.</FireKeeper44.baseDesc>
   <!-- EN: fire keeper -->
   <FireKeeper44.title>Người giữ lửa</FireKeeper44.title>
   <!-- EN: firekeep -->
   <FireKeeper44.titleShort>Người giữ lửa</FireKeeper44.titleShort>
-  <!--EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people.-->
-  <!--VI: [PAWN_nameDef] chăm sóc đàn muffalo, giữ cho chúng an toàn khỏi những kẻ săn mồi và điều trị động vật bị bệnh. Đó là một công việc yên tĩnh, nhưng [PAWN_pronoun] thích tránh xa mọi người.-->
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
   <Herder19.description>TODO</Herder19.description>
   <Herder19.baseDesc>[PAWN_nameDef] đã chăm sóc đàn Muffalo, giữ chúng an toàn trước những kẻ săn mồi và chữa bệnh cho những con vật bị bệnh. Đó là một công việc yên tĩnh, nhưng [PAWN_pronoun] rất thích được xa mọi người.</Herder19.baseDesc>
   <!-- EN: herder -->
   <Herder19.title>Ngưới chăn gia súc</Herder19.title>
   <!-- EN: herder -->
   <Herder19.titleShort>Ngưới chăn gia súc</Herder19.titleShort>
-  <!--EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills.-->
-  <!--VI: Cha mẹ bảo vệ quá mức của [PAWN_nameDef PAWN_objective] khuyến khích [] ở nhà gần như mỗi ngày. Mặc dù [PAWN_pronoun] có nhiều thời gian để đọc và theo đuổi sở thích thủ công, nhưng [PAWN_pronoun] chưa bao giờ phát triển các kỹ năng xã hội bình thường.-->
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
   <Hideaway7.description>TODO</Hideaway7.description>
   <Hideaway7.baseDesc>Cha mẹ bảo bọc quá mức của [PAWN_nameDef] đã khuyến khích [PAWN_objective] ở nhà gần như mỗi ngày. Mặc dù có rất nhiều thời gian để đọc và theo đuổi sở thích thủ công, nhưng [PAWN_pronoun] chưa bao giờ phát triển các kỹ năng xã hội bình thường.</Hideaway7.baseDesc>
   <!-- EN: hideaway -->
   <Hideaway7.title>Ẩn cư</Hideaway7.title>
   <!-- EN: hideaway -->
   <Hideaway7.titleShort>Ẩn cư</Hideaway7.titleShort>
-  <!--EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time.-->
-  <!--VI: [PAWN_nameDef] không học nói cho đến khi [PAWN_pronoun] gần năm tuổi. Ngay cả khi đó, [PAWN_pronoun] vẫn thích giữ cho bản thân [PAWN_objective].\n\nTrước sự thất vọng của những người chăm sóc [PAWN_possessive], [PAWN_pronoun] có thói quen lang thang để sống trong vùng hoang dã trong nhiều tuần liền.-->
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
   <ReclusiveChild81.description>TODO</ReclusiveChild81.description>
   <ReclusiveChild81.baseDesc>[PAWN_nameDef] đã không học nói cho đến khi [PAWN_pronoun] gần năm tuổi. Ngay cả khi đó [PAWN_pronoun] vẫn muốn giữ cho riêng mình.\n\nTrước sự dè bỉu của những người chăm sóc mình, [PAWN_pronoun] đã có thói quen lang thang đến sống ở vùng hoang dã trong nhiều tuần liền.</ReclusiveChild81.baseDesc>
   <!-- EN: reclusive child -->
   <ReclusiveChild81.title>Đứa trẻ ẩn dật</ReclusiveChild81.title>
   <!-- EN: reclusive -->
   <ReclusiveChild81.titleShort>Ẩn dật</ReclusiveChild81.titleShort>
-  <!--EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds.-->
-  <!--VI: [PAWN_nameDef] đã dành [PAWN_possessive] thời thơ ấu để thoát khỏi công việc càu nhàu để đi đào bới xác tàu và tàn tích để tìm kho báu. [PAWN_possessive] tò mò tự nhiên đã khiến [PAWN_objective] gặp rất nhiều rắc rối, nhưng nó cũng mang lại nhiều phát hiện thú vị.-->
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
   <Scavenger22.description>TODO</Scavenger22.description>
   <Scavenger22.baseDesc>[PAWN_nameDef] đã dành thời thơ ấu của mình để thoát khỏi công việc mệt mỏi để đi đào bới xác tàu và tàn tích để tìm kho báu. Sự tò mò tự nhiên [PAWN_possessive] đã khiến [PAWN_objective] gặp rất nhiều rắc rối, nhưng nó cũng mang lại nhiều phát hiện thú vị.</Scavenger22.baseDesc>
   <!-- EN: scavenger -->
   <Scavenger22.title>Người nhặt rác</Scavenger22.title>
   <!-- EN: scavenger -->
   <Scavenger22.titleShort>Người nhặt rác</Scavenger22.titleShort>
-  <!--EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops.-->
-  <!--VI: Toàn bộ bộ tộc của [PAWN_nameDef] đã bị xóa sổ trong một cuộc đột kích. Mặc dù [PAWN_pronoun] được một nhóm khác nhận nuôi, nhưng [PAWN_pronoun] bị sẹo về mặt cảm xúc và thích ở gần nhà, nấu ăn và chăm sóc cây trồng.-->
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
   <SoleSurvivor21.description>TODO</SoleSurvivor21.description>
   <SoleSurvivor21.baseDesc>Toàn bộ bộ lạc của [PAWN_nameDef] đã bị xóa sổ trong một cuộc đột kích. Mặc dù được một nhóm khác nhận nuôi, nhưng [PAWN_pronoun] lại bị tổn thương về mặt tình cảm, và thích ở gần nhà, nấu ăn và chăm sóc cây trồng.</SoleSurvivor21.baseDesc>
   <!-- EN: sole survivor -->
   <SoleSurvivor21.title>Người duy nhất sống sót</SoleSurvivor21.title>
   <!-- EN: survivor -->
   <SoleSurvivor21.titleShort>Người sống sót</SoleSurvivor21.titleShort>
-  <!--EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin.-->
-  <!--VI: [PAWN_nameDef] lớn lên trong một bộ lạc, chạy quanh làng, di chuyển cùng với đàn muffalo, học các kỹ năng cần thiết từ cha mẹ [PAWN_possessive.\n\n[PAWN_pronoun] chưa bao giờ học đọc và chưa bao giờ nhìn thấy một cỗ máy không phải là một tàn tích cổ xưa.-->
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
   <TribeChild40.description>TODO</TribeChild40.description>
   <TribeChild40.baseDesc>[PAWN_nameDef] lớn lên trong một bộ lạc, chạy quanh làng, di chuyển cùng đàn muffalo, học những kỹ năng cần thiết từ cha mẹ mình.\n\n[PAWN_pronoun] chưa bao giờ học đọc và chưa bao giờ nhìn thấy một cỗ máy không phải là phế tích cổ đại.</TribeChild40.baseDesc>
   <!-- EN: tribe child -->
   <TribeChild40.title>Trẻ con bộ lạc</TribeChild40.title>
   <!-- EN: tribal -->
   <TribeChild40.titleShort>Bộ lạc</TribeChild40.titleShort>
-  <!--EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness.-->
-  <!--VI: Khi còn nhỏ, [PAWN_nameDef] trở về làng [PAWN_possessive] và thấy rằng nó đã bị bọn cướp quét sạch. [PAWN_pronoun] thề sẽ trả thù những kẻ tấn công và bắt đầu một cơn thịnh nộ dữ dội trên khắp vùng hoang dã.-->
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
   <VengefulChild43.description>TODO</VengefulChild43.description>
   <VengefulChild43.baseDesc>Khi còn nhỏ, [PAWN_nameDef] trở về làng của mình và phát hiện ra rằng nó đã bị xóa sổ bởi những tên cướp. [PAWN_pronoun] thề sẽ trả thù những kẻ tấn công và bắt đầu một cuộc nổi loạn bạo lực khắp vùng hoang dã.</VengefulChild43.baseDesc>
   <!-- EN: vengeful child -->
   <VengefulChild43.title>Đứa trẻ báo thù</VengefulChild43.title>
   <!-- EN: vengeful -->
   <VengefulChild43.titleShort>Báo thù</VengefulChild43.titleShort>
+  
 </LanguageData>

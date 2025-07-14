@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>{0} thét mấy tiếng vào chiếc điện đàm rồi ngắt máy.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
@@ -8,10 +9,12 @@
   <FactionGreetingWary>{0} chào đón {NEGOTIATOR_labelShort} một cách nồng nhiệt và hỏi bạn muốn giao dịch gì..</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
   <FactionGreetingWarm>{0} chào đón {NEGOTIATOR_labelShort} một cách nồng nhiệt và hỏi bạn muốn {LEADER_pronoun} giúp gì.</FactionGreetingWarm>
+
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>không muốn làm {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Ngắt kết nối</Disconnect>
+
   <!-- Gift offer -->
   <!-- EN: Offer gift -->
   <OfferGift>Tặng quà</OfferGift>
@@ -27,6 +30,7 @@
   <SilverForGoodwill>{0} bạc đổi {1} điểm giao hảo</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
   <SilverGiftSent>{0} đã cảm ơn bạn.\n\n(Điểm giao hảo tăng {1})</SilverGiftSent>
+
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
   <RequestTrader>Yêu cầu một đoàn giao thương (mất: {0} điểm giao hảo)</RequestTrader>
@@ -36,23 +40,23 @@
   <TraderSent>{0} đồng ý gửi một đoàn giao thương tới chỗ bạn. Đoàn giao thương sẽ đến nơi trong vòng vài ngày tới.</TraderSent>
   <!-- EN: wait {0} -->
   <WaitTime>đợi {0}</WaitTime>
+
   <!-- Orbital trade request -->
-  <!--EN: Request orbital trader (cost: {0} goodwill)-->
-  <!--VI: Yêu cầu nhà giao dịch quỹ đạo (chi phí: {0} thiện chí)-->
+  <!-- EN: Request orbital trader (cost: {0} goodwill) -->
   <RequestOrbitalTrader>TODO</RequestOrbitalTrader>
-  <!--EN: {0} asks what kind of orbital trader you want.-->
-  <!--VI: {0} hỏi bạn muốn loại nhà giao dịch quỹ đạo nào.-->
+  <!-- EN: {0} asks what kind of orbital trader you want. -->
   <ChooseOrbitalTraderKind>TODO</ChooseOrbitalTraderKind>
-  <!--EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours.-->
-  <!--VI: {0} sẽ yêu cầu một nhà giao dịch quỹ đạo đến thăm bạn. Nó sẽ đến trong vòng vài giờ.-->
+  <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
   <OrbitalTraderSent>TODO</OrbitalTraderSent>
+  
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
   <RequestAICoreInformation>Yêu cầu địa điểm của một {0} (tốn: {1} bạc)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
   <RequestAICoreInformationResult>{0} gửi lại thông tin mà bạn yêu cầu và chúc bạn gặp may mắn.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
-  <NoKnownAICore>địa điểm được biết đã không còn</NoKnownAICore>
+  <NoKnownAICore>địa điểm được biết đã không còn</NoKnownAICore>  
+  
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>Yêu cầu cứu viện ngay lập tức (tốn: {0} điểm giao hảo)</RequestMilitaryAid>
@@ -68,4 +72,5 @@
   <CantSendMilitaryAidInTime>{0} cáo lỗi vì họ sẽ không thể đến kịp thời gian.\n\n(Trình độ kỹ thuật của nhóm này quá thấp để sử dụng kén vận chuyển)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
   <HostileVisitorsPresent>kẻ thù viếng thăm</HostileVisitorsPresent>
+
 </LanguageData>

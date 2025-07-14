@@ -1,7 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
   <MessageSiegersAssaulting>{0} từ băng {1} đang pháo kích thị trấn.</MessageSiegersAssaulting>
+
   <!-- EN: {0} from {1} are beginning their assault. -->
   <MessageRaidersBeginningAssault>{0} từ băng {1} đang bắt đầu tấn công.</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
@@ -10,71 +12,83 @@
   <MessageRaidersKidnapping>{0} từ băng {1} quyết định bắt cóc bất cứ ai có thể và rời đi.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{0} từ băng {1} cướp những gì có thể và rời đi.</MessageRaidersStealing>
-  <!--EN: The mechanoids sense no more targets and are moving on.-->
-  <!--VI: Các cơ chế không cảm nhận được mục tiêu nữa và đang di chuyển.-->
+
+  <!-- EN: The mechanoids sense no more targets and are moving on. -->
   <MechanoidsMovingOn>TODO</MechanoidsMovingOn>
+
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{0} từ {1} đã đến khu vực đoàn lữ hành của bạn và đang tấn công. Còn nhóm nữa đang trên đường và sẽ đến trong {2}.</MessageCaravanDetectedRaidArrived>
+
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{0} từ băng {1} đang rời đi.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
   <MessageRaidersGivenUpLeaving>{0} từ băng {1} đã bỏ cuộc và đang rời đi.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
   <MessageRaidersSatisfiedLeaving>{0} từ băng {1} đã thỏa mãn với những gì đã gây ra cho bạn và đang rời đi.</MessageRaidersSatisfiedLeaving>
+
   <!-- EN: {0} from {1} are fleeing. -->
   <MessageFightersFleeing>{0} từ băng {1} đang bỏ chạy.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
   <MessageFriendlyFightersLeaving>Đồng minh {0} từ băng {1} đang rời đi.</MessageFriendlyFightersLeaving>
+
   <!-- EN: {0} from {1} are taking a wounded guest. -->
   <MessageVisitorsTakingWounded>{0} từ bằng {1} đang đưa người bị thương đi.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
   <MessageVisitorsTrappedLeaving>{0} từ băng {1} đã bị kẹt và đang đào đường thoát.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{0} từ băng {1} đang rời đi khỏi khu vực vì nhiệt độ khắc nghiệt.</MessageVisitorsDangerousTemperature>
-  <!--EN: {0} from {1} are leaving the map because of dangerous weather.-->
-  <!--VI: {0} từ {1} đang rời khỏi bản đồ vì thời tiết nguy hiểm.-->
+  <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
   <MessageVisitorsAnomalousWeather>TODO</MessageVisitorsAnomalousWeather>
-  <!--EN: {0} from {1} are leaving the map because of dangerous conditions.-->
-  <!--VI: {0} từ {1} đang rời khỏi bản đồ vì điều kiện nguy hiểm.-->
+  <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
   <MessageVisitorsDangerousConditions>TODO</MessageVisitorsDangerousConditions>
+
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{0} mặc bởi {1} đã nát tới mức còn gì để mặc nữa.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
   <MessageDeterioratedAway>{0} đã hư hỏng trong kho chứa.</MessageDeterioratedAway>
+
   <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>{0} đã bắt đầu.</MessageSeasonBegun>
+
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>{0} đã rời khỏi tầm liên lạc của rada.</MessageShipHasLeftCommsRange>
+
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Bạn cần một Đèn hiệu Giao dịch Không gian mạnh hơn để giao tiếp với phi thuyền.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
   <MessageNeedRoyalTitleToCallWithShip>Người gọi phải có danh hiệu {0_label} trở lên.</MessageNeedRoyalTitleToCallWithShip>
+
   <!-- EN: {0} has been destroyed. -->
   <MessageConditionCauserDespawned>{0} đã bị phá hủy.</MessageConditionCauserDespawned>
+  
   <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>Việc hoàn thành: {0}.</MessageBillComplete>
+
   <!-- EN: {1_label} is fully healed. -->
   <MessageFullyHealed>{1_label} đã bình phục hoàn toàn.</MessageFullyHealed>
+
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
   <MessagePrisonerIsEscaping>Tù nhân {1_labelShort} đang bỏ trốn.</MessagePrisonerIsEscaping>
+
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} không tìm thấy quả đạn pháo nào để nạp vào {GUN_label}.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
   <MessageOutOfNearbyFuelFor>{PAWN_labelShort} không tìm thấy {FUEL} chưa được đặt trước nào gần đó cho {GUN_label}.</MessageOutOfNearbyFuelFor>
+
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>CẢNH BÁO: {ANIMAL_kindBasePlural} sẽ nổi điên khi bị săn đuổi ({1} tỷ lệ nếu ở tầm súng trường, tăng lên khi đến gần)</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>CẢNH BÁO: {ANIMAL_kindBasePlural} hay nổi điên khi bị thuần hóa thất bại ({1} cơ hội).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>Chỉ những người có đặc điểm cảm thông với côn trùng mới có thể thuần hóa {INSECT_indefinite}.</MessageInsectTameDesignated>
-  <!--EN: No colonists are assigned to hunt.-->
-  <!--VI: Không có người thuộc địa nào được chỉ định đi săn.-->
+  <!-- EN: No colonists are assigned to hunt. -->
   <MessageNoHuntersAvailable>TODO</MessageNoHuntersAvailable>
-  <!--EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon.-->
-  <!--VI: Không có thợ săn nào có vũ khí săn bắn hợp lệ. Trang bị cho thợ săn vũ khí tầm xa phù hợp.-->
+  <!-- EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon. -->
   <MessageNoHuntersWithProperWeapon>TODO</MessageNoHuntersWithProperWeapon>
+
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
   <MessageInsectsHostileOnTaming>CẢNH BÁO: {PAWN_labelShort} là thù địch và sẽ tấn công trong khi thực dân của bạn cố gắng chế ngự nó.</MessageInsectsHostileOnTaming>
+  
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Người mới</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
@@ -87,18 +101,20 @@
   <MessageTameNoSuitablePens>Không có chuồng thú phù hợp cho {ANIMAL_labelShort}. Cuối cùng nó sẽ đi lang thang.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
   <MessageRecruitJoinOfferAccepted>{RECRUITEE} đã tham gia thuộc địa của bạn.</MessageRecruitJoinOfferAccepted>
+
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Thị trấn không thể thực hiện giao dịch này.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
   <MessageColonyNotEnoughSilver>Bạn không có đủ bạc để giao dịch.</MessageColonyNotEnoughSilver>
+
   <!-- EN: Critical alert: {0} -->
   <MessageCriticalAlert>Cảnh báo khẩn: {0}</MessageCriticalAlert>
+
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>Phải chỉ định thực vật có thể đủ lớn để thu hoạch được.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
   <MessageMustDesignateHarvestableWood>Phải chỉ định trên cây đã đủ trưởng thành để thu hoạch.</MessageMustDesignateHarvestableWood>
-  <!--EN: Prevent cutting is enabled for this plant.-->
-  <!--VI: Ngăn chặn cắt được kích hoạt cho loại cây này.-->
+  <!-- EN: Prevent cutting is enabled for this plant. -->
   <MessageMustPlantCuttingForbidden>TODO</MessageMustPlantCuttingForbidden>
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Phải chỉ định thực vật.</MessageMustDesignatePlants>
@@ -122,11 +138,9 @@
   <MessageMustDesignateDeconstructibleMechCluster>Bạn phải đánh bại cụm cỗ máy cơ trước khi bạn có thể phân giải cấu trúc nó.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>Phải chỉ định ở mặt đá gồ ghễ.</MessageMustDesignateSmoothableSurface>
-  <!--EN: Must designate rough stone terrain.-->
-  <!--VI: Phải chỉ định địa hình đá gồ ghề.-->
+  <!-- EN: Must designate rough stone terrain. -->
   <MessageMustDesignateSmoothableFloor>TODO</MessageMustDesignateSmoothableFloor>
-  <!--EN: Must designate rough stone wall.-->
-  <!--VI: Phải chỉ định tường đá thô.-->
+  <!-- EN: Must designate rough stone wall. -->
   <MessageMustDesignateSmoothableWall>TODO</MessageMustDesignateSmoothableWall>
   <!-- EN: Nothing can remove thick roofs. -->
   <MessageNothingCanRemoveThickRoofs>Không thể dỡ được mái nhà (dày).</MessageNothingCanRemoveThickRoofs>
@@ -142,37 +156,41 @@
   <MessageMustDesignateForbiddable>Phải chỉ định vật bình thường.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>Phải chỉ định vật bị cấm.</MessageMustDesignateUnforbiddable>
-  <!--EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.-->
-  <!--VI: Không thể yêu cầu {CLAIMABLE_labelShort} khi có {THREAT_factionPawnsPlural} có khả năng chiến đấu gần đó.-->
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
   <MessageCannotClaimWhenPawnThreatsAreNear>TODO</MessageCannotClaimWhenPawnThreatsAreNear>
-  <!--EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.-->
-  <!--VI: Không thể nhận {CLAIMABLE_labelShort} khi có {THREAT_factionPawnsPlural} có khả năng chiến đấu gần đó.-->
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
   <MessageCannotAdoptWhilePawnThreatsAreNear>TODO</MessageCannotAdoptWhilePawnThreatsAreNear>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
   <MessageCannotClaimWhenThreatsAreNear>Không thể yêu cầu {CLAIMABLE_labelShort} trong khi có {THREAT_factionPawnsPlural} có khả năng chiến đấu ở gần.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
   <MessageCannotAdoptWhileThreatsAreNear>Không thể chọn {CLAIMABLE_labelShort} trong khi có {THREAT_factionPawnsPlural} có khả năng chiến đấu ở gần.</MessageCannotAdoptWhileThreatsAreNear>
-  <!--EN: Cannot remove foundation that supports a building.-->
-  <!--VI: Không thể loại bỏ nền móng hỗ trợ một tòa nhà.-->
+  <!-- EN: Cannot remove foundation that supports a building. -->
   <MessageCannotRemoveSupportingFoundation>TODO</MessageCannotRemoveSupportingFoundation>
+
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} không chịu bị bắt giam!</MessageRefusedArrest>
+  
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Không có giường y tế nào trống cả.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Không có đệm thú nào trống cả.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
   <MessageWarningNoMedicineForRestriction>Cảnh báo: Hạn chế về thuốc của {PAWN_nameDef} ({RESTRICTIONLABEL}) ngăn cản việc thực hiện thao tác này. Cân nhắc thay đổi quy định hạn chế về thuốc {PAWN_possessive}.</MessageWarningNoMedicineForRestriction>
+  
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} đã chết do {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
   <PawnDied>{1_labelShort} đã chết.</PawnDied>
+
   <!-- EN: {1_label} is no longer incapable of walking. -->
   <MessageNoLongerDowned>{1_label} không còn bị bất động nữa.</MessageNoLongerDowned>
+
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort} đã bất tỉnh vì quá kiệt sức.</MessageInvoluntarySleep>
+
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Ca phẫu thuật này sẽ làm {0} nổi giận.</MessageMedicalOperationWillAngerFaction>
+
   <!-- EN: {PAWN_nameDef} is pregnant! -->
   <MessageAnimalIsPregnant>{PAWN_nameDef} đang mang thai!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
@@ -181,6 +199,7 @@
   <MessageMiscarriedPoorHealth>{0} đã sẩy thai vì sức khỏe yếu.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} đã hạ sinh.</MessageGaveBirth>
+  
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
   <MessagePsylinkNoSensitivity>{PAWN_labelShort} sẽ không thể sử dụng liên kết tinh thần khi mà {PAWN_pronoun} có độ nhạy tâm lý bằng không.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
@@ -189,27 +208,34 @@
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} đã bị tổn thương não {1} do {2}.</MessageReceivedBrainDamageFromHediff>
   <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
   <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} đã vượt quá giới hạn an toàn của psychic entropy.</MessageWentOverPsychicEntropyLimit>
+
   <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Không thợ nuôi thú nào có thể thuần hóa {ANIMAL_kindBase} (yêu cầu cấp {1} ở kĩ năng {2}, người cao nhất là {HANDLER_labelShort} ở cấp độ {4})</MessageNoHandlerSkilledEnough>
+  
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{EATEN_labelShort} đã bị nuốt chửng bởi {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
   <MessageAttackedByPredator>{PREY_labelShort} đã bị tấn công bởi {PREDATOR}!</MessageAttackedByPredator>
+
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
   <MessageRoamerLeaving>{PAWN_labelShort} đã bắt đầu chuyển vùng! {PAWN_pronoun} sẽ rời khỏi bản đồ trừ khi người xử lý động vật buộc {PAWN_objective} trở lại chuồng.</MessageRoamerLeaving>
+
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Một ổ bọ đã tự sản sinh.</MessageHiveReproduced>
+  
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Thương nhân từ {0} đang rời đi.</MessageTraderCaravanLeaving>
-  <!--EN: The trade caravan from {0} has been dismissed.-->
-  <!--VI: Đoàn lữ hành thương mại từ {0} đã bị giải tán.-->
+  <!-- EN: The trade caravan from {0} has been dismissed. -->
   <MessageTraderCaravanDismissed>TODO</MessageTraderCaravanDismissed>
+
   <!-- EN: {1_labelShort} is dead. -->
   <MessageCantSelectDeadPawn>{1_labelShort} đã chết.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
   <MessageCantSelectOffMapPawn>{1_labelShort} đã rời khỏi khu vực.</MessageCantSelectOffMapPawn>
+  
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort} đang đánh nhau với {PAWN2_labelShort}.</MessageSocialFight>
+  
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>Mọi người đang tụ tập để tham dự lễ cưới của {PAWN1_labelShort} và {PAWN2_labelShort}.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
@@ -220,52 +246,66 @@
   <MessageNewlyMarried>{PAWN1_labelShort} và {PAWN2_labelShort} đã kết hôn. Mọi người đang chúc phúc cho cả 2.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
   <MessageMarriageCeremonyAfterPartyFinished>Buổi kết hôn của {PAWN1_labelShort} và {PAWN2_labelShort} đã kết thúc.</MessageMarriageCeremonyAfterPartyFinished>
+  
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
   <MessageNewBondRelation>{HUMAN_labelShort} và {ANIMAL_labelShort} đà hình thành tình cảm liên kết.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
   <MessageNewBondRelationNewName>{HUMAN_labelShort} và {1} đà hình thành tình cảm liên kết. {HUMAN_labelShort} đã đặt tên cho {ANIMAL_objective} là {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageBondedAnimalMentalBreak>{ANIMAL} đã nổi điên vì cái chết của {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} tên {ANIMAL_label} đã nổi điên vì cái chết của {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
   <MessageBondedAnimalsMentalBreak>{0} đã nổi điên vì cái chết của {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
+  
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
   <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} đã lấy thành công {HEDIFF} của {PATIENT_labelShort}.</MessageSuccessfullyRemovedHediff>
+  
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>Có mảnh phi thuyền rơi gần đây. Bạn có thể phá hủy nó để thu lại tài nguyên.</MessageShipChunkDrop>
+
   <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Một vài vật phẩm không thể trao đổi vì:</MessageCannotSellItemsReason>
+
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{WORKER_labelShort} thất bại trong lúc xây dựng {0}. Một ít tài nguyên đã bị thất thoát.</MessageConstructionFailed>
+
   <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>Lưu ảnh chụp dưới tên: {0}</MessageScreenshotSavedAs>
+  
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
   <MessageNoLongerSocialFighting>{PAWN1_labelShort} và {PAWN2_labelShort} không còn "bụp" nhau nữa.</MessageNoLongerSocialFighting>
+  
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
   <MessageNoLongerBingingOnDrug>{2_labelShort} không còn ham {1} nữa.</MessageNoLongerBingingOnDrug>
+
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
   <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} không còn chỉ trích {TARGET_label} nữa.</MessageNoLongerOnTargetedInsultingSpree>
+
   <!-- EN: {1_label} has rotted away in storage. -->
   <MessageRottedAwayInStorage>{1_label} trong kho đã hư.</MessageRottedAwayInStorage>
+  
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
   <MessageFoodPoisoning>{PAWN_labelShort} đã ngộ độc thực phẩm từ: {FOOD_labelShort}. Bởi: {2}.</MessageFoodPoisoning>
+  
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>{0} đã bị rút khỏi đoàn lữ hành.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
   <MessagePawnLostWhileFormingCaravan_AllLost>Quá trình tập hợp đoàn đã bị hủy.</MessagePawnLostWhileFormingCaravan_AllLost>
-  <!--EN: No colonist capable of forming caravan. The caravan formation process has been terminated.-->
-  <!--VI: Không có thực dân nào có khả năng thành lập đoàn lữ hành. Quá trình thành lập đoàn lữ hành đã bị chấm dứt.-->
+  <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
   <MessageForceSendingCaravan_AllLost>TODO</MessageForceSendingCaravan_AllLost>
-  <!-- text_todo -->
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>Đoàn lữ hành sẽ tiếp tục di chuyển khi mọi người bình thường trở lại.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
   <MessageCaravanFormationUnpaused>Dân của bạn sẽ tiếp tục tập hợp thành đoàn vận chuyển.</MessageCaravanFormationUnpaused>
+  
   <!-- EN: One of the caravan members has had a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>Một người trong đoàn vận chuyển của bạn đang nổi điên.</MessageCaravanMemberHasExtremeMentalBreak>
+  
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
   <MessageMaxPlanetCoveragePerformanceWarning>CẢNH BÁO: Sẽ mất khá lâu để tạo ra cả hành tinh này.</MessageMaxPlanetCoveragePerformanceWarning>
+
   <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>{0} đã chết vì lạnh.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
@@ -278,81 +318,81 @@
   <MessagePlantDiedOfPoison>{0} đã chết vì nhiễm độc.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
   <MessagePlantDiedOfBlight>{1_label} đã chết vì bệnh bạc lá.</MessagePlantDiedOfBlight>
+
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort} đã bị thiêu cháy bởi không khí cực nóng.</MessagePawnBeingBurned>
+
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
   <MessageAccidentalOverdose>{INGESTER} đã vô tình dùng quá liều khi sử dụng {DRUG_labelShort}!.</MessageAccidentalOverdose>
+  
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} đã đến đích.</MessageCaravanArrivedAtDestination>
+  
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
   <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} đã rời khu vực và tập hợp thành một đoàn vận chuyển.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Thú nuôi của bạn đang di chuyển và tham gia vào.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Bạn đã định cư ở chỗ mới.</MessageSettledInExistingMap>
+  
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>{2} của {PAWN_labelShort} đã lành do: {0}.</MessagePermanentWoundHealed>
+  
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
   <MessageRescueeDidntJoin>[PAWN_nameDef] đã hồi phục và quyết định rời đi.</MessageRescueeDidntJoin>
+  
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Một vài kén vận chuyển không thể tương tác được.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
   <MessageTransportersNotAdjacent>Tất cả các bệ phóng phải nằm cạnh kén vận chuyển.</MessageTransportersNotAdjacent>
+  
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>Quá trình tải hàng lên đã bị hủy do một trong các kén hàng đã bị phá hủy.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
   <MessageTransporterSingleLoadCanceled_TransporterDestroyed>Quá trình tải đã bị hủy vì tàu con thoi đã bị phá hủy.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Quá trình tải hàng lên đã bị hủy do một trong các bệ phóng đã bị phá hủy.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>cư dân của bạn sẽ chất hàng hóa chỉ định vào kén vận chuyển.</MessageTransportersLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
   <MessageTransporterSingleLoadingProcessStarted>Các mặt hàng được chỉ định và mọi người sẽ được đưa vào tàu con thoi.</MessageTransporterSingleLoadingProcessStarted>
-  <!--EN: Assigned items and people will now be loaded into the shuttle.-->
-  <!--VI: Các vật phẩm và người được chỉ định bây giờ sẽ được đưa vào tàu con thoi.-->
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
   <MessageShuttleLoadingProcessStarted>TODO</MessageShuttleLoadingProcessStarted>
-  <!-- text_todo -->
+
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Kén vận chuyển của bạn đã đến nơi.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Kén vận chuyển của bạn đã đến nơi nhưng vì không có ai theo giữ hàng hóa nên toàn bộ đã bị mất.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
   <MessageTransportPodsArrivedAndAddedToCaravan>Kén vận chuyển của bạn đã đến nơi. Vật phẩm đã được đưa cho {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>Dân của bạn đã hoàn tất chất hàng hóa lên kén vận chuyển.</MessageFinishedLoadingTransporters>
-  <!--EN: Shuttle is loaded with required cargo and can launch when ready.-->
-  <!--VI: Tàu con thoi được chất đầy hàng hóa cần thiết và có thể phóng khi sẵn sàng.-->
+  <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
   <MessageFinishedLoadingShuttle>TODO</MessageFinishedLoadingShuttle>
-  <!-- text_todo -->
+
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>{1} của bạn không thể hoàn tất việc tải các nhóm vận chuyển vì một số mặt hàng hoặc người không khả dụng ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
-  <!--EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}).-->
-  <!--VI: {1} của bạn không thể tải xong xe đưa đón vì một số vật phẩm hoặc người không có sẵn ({2_labelShort}).-->
+  <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoShuttle>TODO</MessageCantLoadMoreIntoShuttle>
-  <!-- text_todo -->
-  <!--EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}).-->
-  <!--VI: {1} của bạn không thể nhập xong {0} vì một số mục hoặc người không có sẵn ({2_labelShort}).-->
+  <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoPortal>TODO</MessageCantLoadMoreIntoPortal>
+  
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Đích đến không khả dụng.</MessageTransportPodsDestinationIsInvalid>
-  <!--EN: Destination is reserved by {0}.-->
-  <!--VI: Điểm đến được đặt trước bởi {0}.-->
-  <MessageTransportPodsDestinationReservedBy>TODO</MessageTransportPodsDestinationReservedBy>
-  <!-- text_todo -->
-  <!--EN: Destination is reserved.-->
-  <!--VI: Điểm đến được đặt trước.-->
-  <MessageTransportPodsDestinationReserved>TODO</MessageTransportPodsDestinationReserved>
-  <!-- text_todo -->
-  <!--EN: {OBJECT_labelCap} is not a valid destination.-->
-  <!--VI: {OBJECT_labelCap} không phải là đích đến hợp lệ.-->
+  <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
   <MessageWorldObjectIsInvalid>TODO</MessageWorldObjectIsInvalid>
-  <!-- text_todo -->
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Mỗi bệ phóng sẽ cần ít nhất {0}x xăng để đưa kến vận chuyển đi xa đến vậy.</MessageTransportPodsDestinationIsTooFar>
+  
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>Đoàn đã tập hợp lại xong.</MessageReformedCaravan>
+  
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>Bạn không thể từ bỏ cư dân cuối cùng của mình.</MessageCantBanishLastColonist>
+
   <!-- EN: Cannot equip: {0}. -->
   <MessageCantEquipCustom>Không thể trang bị: {0}.</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
@@ -367,32 +407,40 @@
   <MessageCantUnequipLockedApparel>Người này từ chối loại bỏ điều này.</MessageCantUnequipLockedApparel>
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
   <MessageWouldReplaceLockedApparel>Không thể mặc: Điều này sẽ thay thế trang phục {1_labelShort} để loại bỏ.</MessageWouldReplaceLockedApparel>
+  
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageSlaughteringBondedAnimal>Vì có liên kết nên "làm thịt" {DESIGNATED_labelShort} sẽ khiến {BONDED_labelShort} không vui.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
   <MessageReleaseBondedAnimal>Vì chúng được liên kết với nhau nên việc phát hành {DESIGNATED_labelShort} sẽ khiến {BONDED_labelShort} không hài lòng.</MessageReleaseBondedAnimal>
+  
   <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} đã hết thức ăn ({PAWN_label}).</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>Xác chết của {PAWN_definite} đã được đoàn lữ hành nhặt được. Nó nặng và có thể làm chậm lại đoàn lữ hành, nhưng có thể bị bỏ lại trong tab vật phẩm đoàn lữ hành.</MessageCaravanDeathCorpseAddedToInventory>
+
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>Để thành lập đoàn giao thương, chọn nhà của bạn hoặc nơi mà bạn có cư dân của mình.</MessageSelectOwnBaseToFormCaravan>
+
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>Ở độ phân giải và độ lớn của thanh điều khiển này, tương tác với trò chơi sẽ không vừa màn hình. Xin hãy giảm độ lớn hoặc tăng độ phân giải lên.</MessageScreenResTooSmallForUIScale>
+  
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>Bạn đã tập hợp xong đoàn vận chuyển. Những ai rơi lại đằng sau sẽ bị bỏ rơi.</MessageYouHaveToReformCaravanNow>
+  
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} từ {1} đang tấn công {2} của bạn.</MessageDefendersAttacking>
-  <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
+  <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
   <MessageMechanoidsAssembled>Các cỗ máy chiến đấu cơ đã được tập hợp và sẽ bảo vệ cụm của chúng.</MessageMechanoidsAssembled>
-  <!-- EN: Remaining mechanoids to assemble -->
+  <!-- EN: Remaining mechanoids to gestate -->
   <MessageMechanoidsLeftToAssemble>Các cỗ máy chiến đấu cơ còn lại để tập hợp</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Kén thả cỗ máy cơ đã triệu tập quân tiếp viện trong các quả rơi gần đó.</MessageMechanoidsReinforcementsDrop>
+
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
   <MessageSelfTendUnsatisfied>Để tự chữa trị, {1_labelShort} phải được chỉ định làm Bác sĩ.</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
   <MessageCannotSelfTendEver>{1_labelShort} thiếu kiến thức Y học nên không thể tự chữa cho mình được.</MessageCannotSelfTendEver>
+  
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>Ô này không thể đi qua được.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
@@ -401,54 +449,71 @@
   <MessageCantAddWaypointBecauseLimit>Bạn không thể thêm nhiều hơn {0} điểm đến.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>Bạn không thể xóa điểm đến này.</MessageCantRemoveWaypointBecauseFirst>
+  
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Tất cả quản ngục của bạn đều sợ máu nên không thể hành quyết tù nhân được.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
   <MessageCanReformCaravanNowNoMoreEnemies>Khu vực bây giờ là an toàn. Bạn có thể cải cách đoàn lữ hành trên bản đồ thế giới.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
   <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Khu vực hiện đã an toàn, nhưng vẫn còn một số phòng chưa được khám phá. Bạn có thể khám phá thêm hoặc cải tổ đoàn lữ hành trên bản đồ thế giới.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
   <MessageCantBanishDownedPawn>Không thể bỏ rơi {1_labelShort} vì {1_pronoun} đã bất động.</MessageCantBanishDownedPawn>
+
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} đã tỉnh lại.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
   <MessageMechClusterDefeated>Cụm cỗ máy cơ đã bị đánh bại.</MessageMechClusterDefeated>
+
   <!-- EN: Item produced: {0}. -->
   <MessageCompSpawnerSpawnedItem>Vật phẩm đã sản xuất: {0}.</MessageCompSpawnerSpawnedItem>
+
   <!-- EN: Health condition healed: {0}. -->
   <MessageHediffCuredByItem>Bệnh được chữa trị: {0}.</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
   <MessageBodyPartCuredByItem>Phần cơ thể được phục hồi: {0}.</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
   <MessageResearchProjectFinishedByItem>Công nghệ được trao: {0}.</MessageResearchProjectFinishedByItem>
+
   <!-- EN: {0} has been brought back to life! -->
   <MessagePawnResurrected>{0} đã được hồi sinh.</MessagePawnResurrected>
+
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
   <MessageFailedToRescueRelative>Bạn đã giải cứu thất bại {PAWN_labelShort}. Điều này sẽ khiến {RELATIVE_labelShort} thất vọng.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
   <MessageRescuedRelative>Bạn đã giải cứu thành công {PAWN_labelShort}. Điều này sẽ khiến {RELATIVE_labelShort} rất vui.</MessageRescuedRelative>
+
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Cơn lốc đã đi khỏi khu vực.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
   <MessageTornadoDissipated>Cơn lốc đã tan.</MessageTornadoDissipated>
+
   <!-- EN: No conscious, capable diplomat. -->
   <MessagePeaceTalksNoDiplomat>Không có ai tỉnh táo để đàm phán cả.</MessagePeaceTalksNoDiplomat>
+
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>CẢNH BÁO: {0} sẽ chết nếu gặp ánh sáng.</MessageWarningCavePlantsExposedToLight>
+
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} đã không thể gặp được {OLDTARGET_label} nên {PAWN_pronoun} đã quyết định chuyển cơn giận {PAWN_possessive} lên {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} không thể gặp được {OLDTARGET_label} nên {PAWN_pronoun} đã quyết định chuyển cơn giận {PAWN_possessive} lên {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageMurderousRageChangedTarget>{PAWN_labelShort} đã chuyển cơn giận {PAWN_possessive} lên {TARGET_label}.</MessageMurderousRageChangedTarget>
+
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} không thể phát triển dưới mái nhà.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
   <MessageRoofIncompatibleWithPlant>Không thể xây mái nhà trên {0}.</MessageRoofIncompatibleWithPlant>
+
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Để rời khỏi khu vực, sử dụng nút 'Tái tập hợp' trong chế độ xem thế giới.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Bạn không thể rời khỏi bản đồ bây giờ.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>Điểm giao hảo với {0} đã đổi từ {1} sang {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
@@ -511,16 +576,20 @@
   <GoodwillChangeReason_CiviliansLost>thường dân mất</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
   <GoodwillChangeReason_CommanderLost>chỉ huy mất</GoodwillChangeReason_CommanderLost>
+
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} chấp nhận quà của bạn nhưng không có lời cảm ơn nào cả.</MessageGiftGivenButNotAppreciated>
+
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
   <MessageCantGiveGiftBecauseCantCarryEncumbered>Đoàn vận chuyển đã quá tải trọng và không thể mang gì thêm nữa.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
   <MessageCantGiveGiftBecauseCantCarry>Đoàn không thể vận chuyển nhiều đến vậy. Món quà nặng {0} nhưng đoàn vận chuyển có thể mang {1} nữa thôi.</MessageCantGiveGiftBecauseCantCarry>
+
   <!-- EN: {0} has formed and is now traveling on the world map. -->
   <MessageFormedCaravan>{0} đã tạp hợp xong và đang di chuyển trên bản đồ thế giới.</MessageFormedCaravan>
   <!-- EN: Orders -->
   <MessageFormedCaravan_Orders>Mệnh lệnh</MessageFormedCaravan_Orders>
+
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
   <MessageBillValidationStoreZoneDeleted>"{0}" của {1} không thể mang vật phẩm tới kho {2} đã xóa nữa.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
@@ -529,36 +598,42 @@
   <MessageBillValidationPawnUnavailable>{0} không thể làm "{1}" ở {2} nữa. Lệnh giới nghiêm đã được gỡ.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
   <MessageBillValidationIncludeZoneDeleted>"{0}" của {1} không còn đếm vật phẩm ở kho {2} đã xóa nữa.</MessageBillValidationIncludeZoneDeleted>
-  <!--EN: {1}'s "{0}" can no longer count items in deleted building {2}.-->
-  <!--VI: "{0}" của {1} không còn có thể đếm các mục trong {2} tòa nhà đã xóa.-->
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
   <MessageBillValidationIncludeBuildingDeleted>TODO</MessageBillValidationIncludeBuildingDeleted>
-  <!--EN: {1}'s "{0}" can no longer count items in deleted storage group {2}.-->
-  <!--VI: "{0}" của {1} không còn có thể đếm các mục trong {2} nhóm lưu trữ đã xóa.-->
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
   <MessageBillValidationIncludeStorageGroupDeleted>TODO</MessageBillValidationIncludeStorageGroupDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
   <MessageBillValidationIncludeZoneUnavailable>"{0}" của {1} không còn đếm vật phẩm ở kho không khả dụng {2} nữa.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
   <MessageBillValidationStoreZoneInsufficient>"{0}" của {1} không còn vận chuyển sản phẩm tới kho {2} nữa.</MessageBillValidationStoreZoneInsufficient>
+
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
   <MessageAnimalReturnedWild>Vì thiếu sự quan tâm nên {1_labelShort} đã trở về với tự nhiên.</MessageAnimalReturnedWild>
   <!-- EN: {1_labelShort} has been returned to the wild. -->
   <MessageAnimalReturnedWildReleased>{1_labelShort} đã được trả về trạng thái tự nhiên.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
   <MessageAnimalLostSkill>Vì thiếu huấn luyện nên {ANIMAL_labelShort} đã mất kĩ năng: {1}</MessageAnimalLostSkill>
+
   <!-- EN: Translation report written to {0} -->
   <MessageTranslationReportSaved>Báo cáo bản dịch được lưu ở {0}</MessageTranslationReportSaved>
+
   <!-- EN: {0} couldn't reach its destination. -->
   <MessageCaravanArrivalActionNoLongerValid>{0} không thể tới được đích.</MessageCaravanArrivalActionNoLongerValid>
+
   <!-- EN: Too dangerous to re-enter for {0}. -->
   <MessageEnterCooldownBlocksEntering>Bạn không thể vào lại trong vòng {0} ngày.</MessageEnterCooldownBlocksEntering>
+
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort} hiện có thể tự do sử dụng "{1}".</MessagePermitCooldownFinished>
+
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
   <MessagePredatorHuntingPlayerAnimal>{PREDATOR} đang săn {PREY_definite} của bạn để làm thức ăn!</MessagePredatorHuntingPlayerAnimal>
+
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>Sức đề kháng của tù nhân {PRISONER_labelShort} đã bị phá vỡ bởi {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
   <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Nỗ lực tuyển dụng sẽ bắt đầu.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
   <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
   <MessageModWithPackageIdAlreadyEnabled>Một mod khác có package ID {0} đã hoạt động. Vô hiệu hóa {1} trước khi thử kích hoạt tính năng này.</MessageModWithPackageIdAlreadyEnabled>
   <!-- EN: Disable all mods before using this tool. -->
@@ -567,14 +642,19 @@
   <MessageUnpackBeforeCleaningTranslationFiles>Giải nén và sau đó xóa tất cả các tệp dịch nén cho ngôn ngữ này trước khi sử dụng công cụ này.</MessageUnpackBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folders: {0} -->
   <MessageTranslationFilesCleanupDone>Hoàn Thành. Thư mục bị ảnh hưởng: {0}</MessageTranslationFilesCleanupDone>
+
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Không thể tải một trong các tệp dịch ({0}). Tất cả các lỗi phân tích cú pháp XML phải được giải quyết trước tiên.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
   <MessageCapturingWillAngerFaction>Cảnh báo: Bắt {PAWN_nameDef} sẽ chọc giận {PAWN_possessive} phe {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
   <MessageStrippingWillAngerFaction>Lột đồ {PAWN_nameDef} sẽ làm {PAWN_factionName} tức giận.</MessageStrippingWillAngerFaction>
+
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>Không thể bắn trong cận chiến.</MessageCantShootInMelee>
+
   <!-- EN: None of your {0} can accept this quest now. -->
   <MessageNoColonistCanAcceptQuest>Không ai trong số {0} của bạn có thể chấp nhận nhiệm vụ này ngay bây giờ.</MessageNoColonistCanAcceptQuest>
   <!-- EN: Cannot accept this quest. -->
@@ -585,36 +665,46 @@
   <MessagePawnLeaving>{0} đang rời đi.</MessagePawnLeaving>
   <!-- EN: {0} are leaving. -->
   <MessagePawnsLeaving>{0} đang rời đi.</MessagePawnsLeaving>
+
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Tượng đài đã bị phá hủy vì bạn đã xây dựng một tòa nhà không được phép bên trong.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
   <MessageNoResearchBenchForTechprint>Không thể áp dụng: Không có bàn nghiên cứu có thể tiếp cận.</MessageNoResearchBenchForTechprint>
+
   <!-- EN: No valid destination found for {0} -->
   <NoValidDestinationFound>Không tìm thấy đích hợp lệ cho {0}</NoValidDestinationFound>
+
   <!-- EN: An extracted tree just died. -->
   <MessageMinifiedTreeDied>Một cây chiết vừa chết.</MessageMinifiedTreeDied>
+  
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
   <MessageResearchMenuWithoutBench>Cảnh báo: Nghiên cứu sẽ không bắt đầu cho đến khi bạn xây dựng một bàn nghiên cứu.</MessageResearchMenuWithoutBench>
+
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
   <MessageActivatorProximityTriggered>{0_indefinite} đã kích hoạt trình kích hoạt vùng lân cận.</MessageActivatorProximityTriggered>
+
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} hiện đang bị ẩn.</MessageCannotSelectInvisibleStat>
+
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} là một tù nhân</MessagePrisonerCannotEquipWeapon>
+
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
   <MessageIdeoOpposedWorkTypeSelected>Cảnh báo: Niềm tin của {0_nameDef} phản đối công việc của {1}. {0_pronoun} có thể trở nên không vui.</MessageIdeoOpposedWorkTypeSelected>
+
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
   <MessageBedLostAssignment>{0} không còn được chỉ định cho {1_nameDef}.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
   <MessageBedDestroyed>{0} được nhượng lại cho {1_nameDef} đã bị hủy.</MessageBedDestroyed>
+
   <!-- Lord jobs -->
-  <!--EN: You need {0_indefinite}.-->
-  <!--VI: Bạn cần {0_indefinite}.-->
+  <!-- EN: You need {0_indefinite}. -->
   <MessageLordJobNeedsAtLeastOneRolePawn>TODO</MessageLordJobNeedsAtLeastOneRolePawn>
-  <!--EN: You need at least {1} {0}.-->
-  <!--VI: Bạn cần ít nhất {1} {0}.-->
+  <!-- EN: You need at least {1} {0}. -->
   <MessageLordJobNeedsAtLeastNumRolePawn>TODO</MessageLordJobNeedsAtLeastNumRolePawn>
+
   <!-- Rituals -->
   <!-- EN: spectate -->
   <Spectate>chiêm ngưỡng</Spectate>
@@ -674,8 +764,7 @@
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} phải có khả năng sắp xếp.</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->
   <MessageRitualRoleMustBeCapableOfGeneric>{0} phải có khả năng {1}.</MessageRitualRoleMustBeCapableOfGeneric>
-  <!--EN: {0} must be capable of violence.-->
-  <!--VI: {0} phải có khả năng bạo lực.-->
+  <!-- EN: {0} must be capable of violence. -->
   <MessageRitualRoleMustBeCapableOfViolence>TODO</MessageRitualRoleMustBeCapableOfViolence>
   <!-- EN: prisoners cannot {0}. -->
   <MessageRitualRoleMustNotBePrisonerToSpectate>tù nhân không thể {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
@@ -685,8 +774,7 @@
   <MessageRitualRoleMustHaveIdeoToDoRole>chỉ {0} mới có thể thực hiện vai trò của {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
   <MessageRitualRoleMustBeColonist>phải là cư dân cho vai trò {0}.</MessageRitualRoleMustBeColonist>
-  <!--EN: must not be a prisoner for the {0} role.-->
-  <!--VI: không được là tù nhân cho vai trò {0}.-->
+  <!-- EN: must not be a prisoner for the {0} role. -->
   <MessageRitualRoleMustBeFree>TODO</MessageRitualRoleMustBeFree>
   <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
   <MessageRitualWontAttendExtremeTemperature>{0_labelShort} sẽ không tham dự do nhiệt độ quá cao ở khu vực nghi lễ.</MessageRitualWontAttendExtremeTemperature>
@@ -708,20 +796,19 @@
   <MessageRitualRoleCannotBeChild>{0} không thể là trẻ con.</MessageRitualRoleCannotBeChild>
   <!-- EN: {0} cannot be a baby. -->
   <MessageRitualRoleCannotBeBaby>{0} không thể là em bé.</MessageRitualRoleCannotBeBaby>
-  <!--EN: {0} is busy.-->
-  <!--VI: {0} bận rộn.-->
+  <!-- EN: {0} is busy. -->
   <MessageRitualRoleBusy>TODO</MessageRitualRoleBusy>
+
   <!-- EN: You must select a site to continue. -->
   <MessagePlayerMustSelectTile>Bạn phải chọn một nơi để tiếp tục.</MessagePlayerMustSelectTile>
+
   <!-- EN: Cannot plant {0_labelShort} -->
   <CannotPlantThing>Không thể trồng {0_labelShort}</CannotPlantThing>
   <!-- EN: Need more fertile terrain. -->
   <MessageWarningNotEnoughFertility>Cần nhiều địa hình màu mỡ.</MessageWarningNotEnoughFertility>
-  <!--EN: Temperature too extreme.-->
-  <!--VI: Nhiệt độ quá khắc nghiệt.-->
+  <!-- EN: Temperature too extreme. -->
   <CannotPlantExtremeTemp>TODO</CannotPlantExtremeTemp>
-  <!--EN: Plants cannot grow on this terrain.-->
-  <!--VI: Thực vật không thể phát triển trên địa hình này.-->
+  <!-- EN: Plants cannot grow on this terrain. -->
   <CannotPlantMissingTerrainTag>TODO</CannotPlantMissingTerrainTag>
   <!-- EN: blocked by {0_label}. -->
   <BlockedBy>bị chặn bởi {0_label}</BlockedBy>
@@ -731,54 +818,53 @@
   <TooCloseToOtherPlant>Quá gần với {0_label}.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>Quá gần vị trí trồng của {0}.</TooCloseToOtherSeedPlantCell>
-  <!--EN: Cannot be placed on {0}.-->
-  <!--VI: Không thể đặt trên {0}.-->
+  <!-- EN: Cannot be placed on {0}. -->
   <MessageCannotBePlacedOn>TODO</MessageCannotBePlacedOn>
+
   <!-- EN: Warning: {0} has been marked for cutting. -->
   <MessageWarningCutImportantPlant>Cảnh báo: {0} đã được đánh dấu để cắt.</MessageWarningCutImportantPlant>
+
   <!-- EN: {0_labelShort} is incapable of manipulation. -->
   <MessageIncapableOfManipulation>{0_labelShort} không thể thao túng.</MessageIncapableOfManipulation>
+
   <!-- EN: {0_labelShort} activation canceled -->
   <MessageActivationCanceled>Đã hủy kích hoạt {0_labelShort}</MessageActivationCanceled>
+
   <!-- EN: Nothing is currently buildable in category -->
   <NothingAvailableInCategory>Hiện tại không có gì có thể xây dựng được trong danh mục</NothingAvailableInCategory>
+
   <!-- EN: Storage settings linked for {0} buildings. -->
   <SettingsLinkedFor>Cài đặt khu vực kho được tích hợp cho {0} tòa nhà.</SettingsLinkedFor>
-  <!--EN: Storage settings linked for 1 building.-->
-  <!--VI: Cài đặt lưu trữ được liên kết cho 1 tòa nhà.-->
+  <!-- EN: Storage settings linked for 1 building. -->
   <SettingsLinkedForSingular>TODO</SettingsLinkedForSingular>
   <!-- EN: Storage settings unlinked for {0} buildings. -->
   <SettingsUnlinkedFor>Đã hủy tích hợp cài đặt khu vực kho cho {0} tòa nhà.</SettingsUnlinkedFor>
-  <!--EN: Storage settings unlinked for 1 building.-->
-  <!--VI: Cài đặt lưu trữ đã được hủy liên kết cho 1 tòa nhà.-->
+  <!-- EN: Storage settings unlinked for 1 building. -->
   <SettingsUnlinkedForSingular>TODO</SettingsUnlinkedForSingular>
   <!-- EN: Storage settings copied to clipboard. -->
   <StorageSettingsCopiedToClipboard>Đã sao chép cài đặt khu vực kho vào bộ nhớ tạm.</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
   <StorageSettingsPastedFromClipboard>Đã dán cài đặt khu vực kho từ bộ nhớ tạm.</StorageSettingsPastedFromClipboard>
-  <!--EN: {0_label} requires adjacent walls to function.-->
-  <!--VI: {0_label} yêu cầu các bức tường liền kề hoạt động.-->
+  
+  <!-- EN: {0_label} requires adjacent walls to function. -->
   <MessageBuildingRequiresAdjacentWalls>TODO</MessageBuildingRequiresAdjacentWalls>
-  <!--EN: Cannot skip: Refugee-->
-  <!--VI: Không thể bỏ qua: Người tị nạn-->
+
+  <!-- EN: Cannot skip: Refugee -->
   <MessageLodgersCantFarskip>TODO</MessageLodgersCantFarskip>
-  <!--EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}.-->
-  <!--VI: Hack của {HACKER_nameDef} đã được phát hiện. {HACKER_pronoun} đã bị khóa trong {DURATION}.-->
+  
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
   <MessageHackerLockedOut>TODO</MessageHackerLockedOut>
-  <!--EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently.-->
-  <!--VI: Hack của {HACKER_nameDef} đã được phát hiện. {HACKER_pronoun} đã bị khóa vĩnh viễn.-->
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
   <MessageHackerLockedOutPermanently>TODO</MessageHackerLockedOutPermanently>
-  <!--EN: {0_labelShort} can be hacked again.-->
-  <!--VI: {0_labelShort} có thể bị hack một lần nữa.-->
+  <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>TODO</MessageHackableUnlocked>
+
   <!-- EN: Cannot call shuttle -->
   <CannotCallShuttle>Không thể gọi tàu đưa đón</CannotCallShuttle>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>Tàu đưa đón đã đến.</MessageShuttleArrived>
-  <!--EN: Warning: {THING_labelCap} will not function in this biome-->
-  <!--VI: Cảnh báo: {THING_labelCap} sẽ không hoạt động trong quần xã này-->
+
+  <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
   <MessageGroundPenetratingScannerNoBedrock>TODO</MessageGroundPenetratingScannerNoBedrock>
-  <!-- text_todo -->
-  <!-- UNUSED -->
-  <MessageFinishedLoadingTransporterSingle>Tàu con thoi đã mang theo hàng hóa cần thiết và có thể khởi động khi sẵn sàng.</MessageFinishedLoadingTransporterSingle>
+
 </LanguageData>

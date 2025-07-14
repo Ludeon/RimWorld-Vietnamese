@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: Autosaving -->
   <Autosaving>Tự động lưu</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
@@ -12,6 +13,7 @@
   <AndLower>và</AndLower>
   <!-- EN: disabled -->
   <DisabledLower>vô hiệu hóa</DisabledLower>
+
   <!-- EN: Version {0} -->
   <VersionIndicator>Phiên bản {0}</VersionIndicator>
   <!-- EN: Game version -->
@@ -22,11 +24,13 @@
   <CompiledOn>Phát hành {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Đăng nhập vào Steam bằng {0}</LoggedIntoSteamAs>
+  
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} và {1}</ToCommaListAnd>
   <!-- EN: {0} or {1} -->
   <ToCommaListOr>{0} hoặc {1}</ToCommaListOr>
+  
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Có</Yes>
@@ -60,8 +64,7 @@
   <durationDays>thời hạn (ngày)</durationDays>
   <!-- EN: interval (days) -->
   <intervalDays>khoảng (ngày)</intervalDays>
-  <!--EN: delay (days)-->
-  <!--VI: Độ trễ (ngày)-->
+  <!-- EN: delay (days) -->
   <delayDays>TODO</delayDays>
   <!-- EN: repeat -->
   <repeat>lặp lại</repeat>
@@ -95,21 +98,19 @@
   <Uses>Dùng</Uses>
   <!-- EN: Translation -->
   <Translation>Dịch</Translation>
-  <!--EN: min(days)-->
-  <!--VI: phút (ngày)-->
+  <!-- EN: min(days) -->
   <minDays>TODO</minDays>
-  <!--EN: max(days)-->
-  <!--VI: Tối đa (ngày)-->
+  <!-- EN: max(days) -->
   <maxDays>TODO</maxDays>
-  <!--EN: Processing-->
-  <!--VI: Xử lý-->
+  <!-- EN: Processing -->
   <Processing>TODO</Processing>
-  <!--EN: Inspect-->
-  <!--VI: Kiểm tra-->
+  <!-- EN: Inspect -->
   <Inspect>TODO</Inspect>
   <!-- EN: Edit -->
   <Edit>Tùy chình</Edit>
+
   <!-- Content generation-->
+  
   <!-- EN: {0} meat -->
   <MeatLabel>thịt {0}</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
@@ -118,6 +119,7 @@
   <MeatInsectDesc>Thịt tươi được chặt. Nếu cần thiết, có thể được nấu thành bữa ăn, hoặc thậm chí ăn sống. Vô cùng không hấp dẫn.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Thịt tươi được chặt. Có thể được nấu thành bữa ăn hoặc ăn sống, mặc dù hầu hết mọi người không thích ý tưởng này.</MeatHumanDesc>
+
   <!-- EN: techprint ({PROJECT_label}) -->
   <TechprintLabel>bản thiết kế ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
@@ -127,12 +129,14 @@
   <TechprintDesc>Đây là một bản thiết kế cho dự án nghiên cứu '{PROJECT_label}'.\nHình thức vật lý của công nghệ có thể bao gồm từ các mẩu giấy với sơ đồ, cho đến các máy dạy học khép kín tiên tiến. Bất kể hình thức, họ đóng vai trò như nhau. Họ cho các nhà nghiên cứu của bạn sự tự tin rằng một ý tưởng là có thể, và một ý tưởng sơ bộ về các thiết kế được sử dụng trong các xã hội thành lập hơn.\nCác nhà nghiên cứu của bạn cần có kiến ​​thức nền tảng được cung cấp bởi bản thiết kế để biết bắt đầu từ đâu trên một công nghệ nhất định. Chỉ sau khi áp dụng đủ các dấu hiệu công nghệ, các nhà nghiên cứu của bạn mới có thể tìm ra các chi tiết tốt về cách sử dụng công nghệ trong tình huống cụ thể của bạn.\nÁp dụng công nghệ cho một dự án hài lòng đáp ứng một nửa tiến độ nghiên cứu còn lại. Ngoài ra, các nhà nghiên cứu luôn tăng cường các kỹ năng trí tuệ của họ khi áp dụng các dấu ấn công nghệ, ngay cả trên các công nghệ đã hoàn thành.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Mở khóa</Unlocks>
+
   <!-- EN: {0} corpse -->
   <CorpseLabel>xác {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Xác chết của {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
   <DeadLabel>{1_label} (chết)</DeadLabel>
+
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>{0} thô</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
@@ -145,33 +149,44 @@
   <SmoothStoneTerrainLabel>{0} mịn</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Sàn mịn tự nhiên {0}.</SmoothStoneTerrainDesc>
+
   <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (bản vẽ thiết kế)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
   <FrameLabelExtra> (đang xây dựng)</FrameLabelExtra>
+
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Không liên kết</FactionUnaffiliated>
+
   <!-- EN: Continue anyway? -->
   <StillWishContinue>Vẫn tiếp tục?</StillWishContinue>
+  
   <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
   <BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
+
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>{1} của {PAWN_labelShort}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{2} của {PAWN1_labelShort} và {PAWN2_labelShort}</CouplesRoom>
+  
   <!-- EN: Important for this type of room. -->
   <StatRelatesToCurrentRoom>Điều quan trọng đối với loại phòng này.</StatRelatesToCurrentRoom>
+  
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
   <DeepResourceRemaining>{COUNT} {RESOURCE_label} dưới lòng đất tại đây.</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
   <VariousLabel>(khác nhau)</VariousLabel>
+
   <!-- History events -->
   <!-- EN: Colonist died -->
   <ColonistDied>Cư dân chết</ColonistDied>
+  
   <!-- Rotation -->
   <!-- EN: North -->
   <North>Bắc</North>
@@ -181,17 +196,22 @@
   <West>Tây</West>
   <!-- EN: East -->
   <East>Đông</East>
+
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>áp dụng bản thiết kế ({0})</ApplyingTechprint>
+
   <!-- Apparel Looks -->
   <!-- EN: variant of -->
   <VariantOf>biến thể của</VariantOf>
+  
   <!-- Familial relationships -->
   <!-- EN: born to {0} -->
   <BornOfParents>sinh ra {0}</BornOfParents>
   <!-- EN: unknown parents -->
   <ParentsUnknown>cha mẹ không rõ</ParentsUnknown>
+  
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>cư dân</Colonist>
+
 </LanguageData>

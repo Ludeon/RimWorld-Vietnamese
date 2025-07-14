@@ -1,75 +1,77 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: centipede blaster -->
   <Mech_CentipedeBlaster.label>rết máy</Mech_CentipedeBlaster.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
   <Mech_CentipedeBlaster.description>Cỗ máy chiến đấu cơ hạng nặng di chuyển nhờ hàng ngàn cái chân nhỏ dưới bụng. Lớp vỏ dày và được trang bị hỏa lực cực mạnh khiến nó vô cùng hữu hiệu khi chiến đấu với những mục tiêu bất động. Tuy nhiên vì trang bị quá nặng khiến chúng di chuyển khá ì ạch, vì thế chiến thuật hit-n-run (vừa bắn vừa chạy) vô cùng hữu hiệu khi đối đầu với chúng.</Mech_CentipedeBlaster.description>
   <!-- EN: head -->
   <Mech_CentipedeBlaster.tools.head.label>đầu</Mech_CentipedeBlaster.tools.head.label>
+  
   <!-- EN: centipede burner -->
   <Mech_CentipedeBurner.label>rết máy mang pháo địa ngục</Mech_CentipedeBurner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
   <Mech_CentipedeBurner.description>Những cỗ máy chiến đấu hạng nặng lướt trên hàng chục chiếc chân nhỏ xíu. Mai dày và hỏa lực của chúng khiến chúng rất hiệu quả khi chống lại các quân phòng thủ tĩnh đang tập trung lại. Chúng hơi dễ bị tấn công bởi các chiến thuật tấn công và bỏ chạy trên thiết bị di động.</Mech_CentipedeBurner.description>
   <!-- EN: head -->
   <Mech_CentipedeBurner.tools.head.label>đầu</Mech_CentipedeBurner.tools.head.label>
+  
   <!-- EN: centipede gunner -->
   <Mech_CentipedeGunner.label>rết máy mang súng ngắn</Mech_CentipedeGunner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
   <Mech_CentipedeGunner.description>Những cỗ máy chiến đấu hạng nặng lướt trên hàng chục chiếc chân nhỏ xíu. Mai dày và hỏa lực của chúng khiến chúng rất hiệu quả khi chống lại các quân phòng thủ tĩnh đang tập trung lại. Chúng hơi dễ bị tấn công bởi các chiến thuật tấn công và bỏ chạy trên thiết bị di động.</Mech_CentipedeGunner.description>
   <!-- EN: head -->
   <Mech_CentipedeGunner.tools.head.label>đầu</Mech_CentipedeGunner.tools.head.label>
+  
   <!-- EN: lancer -->
   <Mech_Lancer.label>kỵ binh máy</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
   <Mech_Lancer.description>Cỗ máy chiến đấu cơ với kích thước con người được trang bị cảm biến quang học cỡ đại trên đầu dùng để nhắm bắn mục tiêu ở khoảng cách xa. Tuy là đại diện sáng giá cho bộ môn đấu súng tầm xa nhưng kỵ binh máy lại yếu về khoảng cận chiến. Những cựu binh từng chiến đấu trong cuộc chiến chống cỗ máy chiến đấu cơ đều biết cách tốt nhất khi đối đầu với kỵ binh máy là tìm cách đánh cận chiến với nó.</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>tay phải</Mech_Lancer.tools.left_fist.label>
-  <!--EN: fist-->
-  <!--VI: nắm tay-->
+  <!-- EN: fist -->
   <Mech_Lancer.tools.left_fist.labelNoLocation>TODO</Mech_Lancer.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
   <Mech_Lancer.tools.right_fist.label>tay trái</Mech_Lancer.tools.right_fist.label>
-  <!--EN: fist-->
-  <!--VI: nắm tay-->
+  <!-- EN: fist -->
   <Mech_Lancer.tools.right_fist.labelNoLocation>TODO</Mech_Lancer.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
   <Mech_Lancer.tools.head.label>đầu</Mech_Lancer.tools.head.label>
+  
   <!-- EN: pikeman -->
   <Mech_Pikeman.label>bọ máy</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
   <Mech_Pikeman.description>Một cỗ máy chiến đấu cơ nhiều chân chuyên dụng như một nền tảng vũ khí tầm xa. Mặc dù hiệu quả ở khoảng cách xa, nhưng nó lại yếu trong các trận đánh tầm gần và trong chiến đấu cận chiến.\n\nNhững cựu binh từng chiến đấu trong cuộc chiến chống cỗ máy chiến đấu cơ thường biết rằng, nơi an toàn nhất để ở xung quanh một người lính là chạm vào nó.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <Mech_Pikeman.tools.front_left_leg.label>chân trái trước</Mech_Pikeman.tools.front_left_leg.label>
-  <!--EN: leg-->
-  <!--VI: chân-->
+  <!-- EN: leg -->
   <Mech_Pikeman.tools.front_left_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
   <Mech_Pikeman.tools.front_right_leg.label>chân phải trước</Mech_Pikeman.tools.front_right_leg.label>
-  <!--EN: leg-->
-  <!--VI: chân-->
+  <!-- EN: leg -->
   <Mech_Pikeman.tools.front_right_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
   <Mech_Pikeman.tools.head.label>đầu</Mech_Pikeman.tools.head.label>
+  
   <!-- EN: scyther -->
   <Mech_Scyther.label>lưỡi hái máy</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
   <Mech_Scyther.description>Một cỗ máy chiến đấu cơ hình người với tốc độ di chuyển cao, linh hoạt, có khả năng tiếp cận mục tiêu một cách nhanh chóng và khả năng cận chiến vượt bậc. Lưỡi hái máy thường dùng 2 thanh đao gắn ở 2 tay để lóc thịt ra khỏi người nạn nhân.</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>đao trái</Mech_Scyther.tools.left_blade.label>
-  <!--EN: blade-->
-  <!--VI: lưỡi-->
+  <!-- EN: blade -->
   <Mech_Scyther.tools.left_blade.labelNoLocation>TODO</Mech_Scyther.tools.left_blade.labelNoLocation>
   <!-- EN: right blade -->
   <Mech_Scyther.tools.right_blade.label>đao phải</Mech_Scyther.tools.right_blade.label>
-  <!--EN: blade-->
-  <!--VI: lưỡi-->
+  <!-- EN: blade -->
   <Mech_Scyther.tools.right_blade.labelNoLocation>TODO</Mech_Scyther.tools.right_blade.labelNoLocation>
   <!-- EN: head -->
   <Mech_Scyther.tools.head.label>đầu</Mech_Scyther.tools.head.label>
+  
   <!-- EN: termite -->
   <Mech_Termite.label>rết máy</Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
   <Mech_Termite.description>Một máy điện từ cỡ trung bình. Mối chuyên đào hang, đào bới và phá vỡ các công trình phòng thủ. Những người bảo vệ cần phải quyết định xem có nên cố gắng loại bỏ mối trước khi nó có thể đào sâu qua hệ thống phòng thủ hoặc đưa nó trã về nơi nó đã xuất hiện.</Mech_Termite.description>
   <!-- EN: head -->
   <Mech_Termite.tools.head.label>đầu</Mech_Termite.tools.head.label>
+  
 </LanguageData>

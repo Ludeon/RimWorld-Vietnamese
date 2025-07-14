@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: flu -->
   <Animal_Flu.label>cúm động vật</Animal_Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
@@ -10,6 +11,7 @@
   <Animal_Flu.stages.major.label>nhiều</Animal_Flu.stages.major.label>
   <!-- EN: extreme -->
   <Animal_Flu.stages.extreme.label>Nặng</Animal_Flu.stages.extreme.label>
+  
   <!-- EN: plague -->
   <Animal_Plague.label>bệnh dịch hạch</Animal_Plague.label>
   <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
@@ -22,6 +24,7 @@
   <Animal_Plague.stages.extreme-0.label>nặng</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Animal_Plague.stages.extreme-1.label>rất nặng</Animal_Plague.stages.extreme-1.label>
+  
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>sợi cơ khí</FibrousMechanites.label>
   <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
@@ -30,6 +33,7 @@
   <FibrousMechanites.stages.mild_pain.label>đau nhẹ</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
   <FibrousMechanites.stages.intense_pain.label>đau nhức nhối</FibrousMechanites.stages.intense_pain.label>
+  
   <!-- EN: flu -->
   <Flu.label>cúm</Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. -->
@@ -40,10 +44,12 @@
   <Flu.stages.major.label>nhiều</Flu.stages.major.label>
   <!-- EN: extreme -->
   <Flu.stages.extreme.label>nặng</Flu.stages.extreme.label>
+  
   <!-- EN: gut worms -->
   <GutWorms.label>giun ruột</GutWorms.label>
   <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
   <GutWorms.description>Giun ký sinh trong ruột. Chúng gây nôn mửa. Chúng cũng tiêu thụ thức ăn của nạn nhân, làm tăng cảm giác đói.</GutWorms.description>
+  
   <!-- EN: lung rot -->
   <LungRot.label>thối phổi</LungRot.label>
   <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
@@ -56,12 +62,12 @@
   <LungRot.stages.major.label>nhiều</LungRot.stages.major.label>
   <!-- EN: extreme -->
   <LungRot.stages.extreme.label>nặng</LungRot.stages.extreme.label>
+  
   <!-- EN: rot stink exposure -->
   <LungRotExposure.label>tiếp xúc với mùi hôi thối</LungRotExposure.label>
   <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
   <LungRotExposure.description>Tiếp xúc lâu dài với khí thối rữa. Tiếp xúc với mùi hôi thối không ảnh hưởng trực tiếp đến sức khỏe. Tuy nhiên, việc tiếp xúc với mùi hôi thối nghiêm trọng có khả năng dẫn đến nhiễm trùng do vi khuẩn gây đau đớn được gọi là bệnh thối phổi. Khi không tiếp xúc với khí thối rữa, việc tiếp xúc với mùi hôi thối sẽ giảm dần.</LungRotExposure.description>
-  <!--EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink.-->
-  <!--VI: {PAWN_nameDef} bắt đầu bị tiếp xúc với khí hôi thối. Giữ {PAWN_objective} tránh xa xác chết thối rữa và các nguồn hôi thối khác.-->
+  <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
   <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: minor -->
   <LungRotExposure.stages.minor.label>nhẹ</LungRotExposure.stages.minor.label>
@@ -69,6 +75,7 @@
   <LungRotExposure.stages.major.label>nhiều</LungRotExposure.stages.major.label>
   <!-- EN: serious -->
   <LungRotExposure.stages.serious.label>nặng</LungRotExposure.stages.serious.label>
+  
   <!-- EN: malaria -->
   <Malaria.label>bệnh sốt rét</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
@@ -79,10 +86,12 @@
   <Malaria.stages.major.label>nhiều</Malaria.stages.major.label>
   <!-- EN: extreme -->
   <Malaria.stages.extreme.label>nặng</Malaria.stages.extreme.label>
+  
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>ký sinh trùng</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
   <MuscleParasites.description>Sinh vật ký sinh trong cơ. Những điều này gây ra sự yếu kém và thiếu phối hợp.</MuscleParasites.description>
+  
   <!-- EN: plague -->
   <Plague.label>bệnh dịch hạch</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
@@ -95,30 +104,24 @@
   <Plague.stages.extreme-0.label>nặng</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>rất nặng</Plague.stages.extreme-1.label>
-  <!--EN: scaria infection-->
-  <!--VI: Nhiễm sẹo-->
+  
+  <!-- EN: scaria infection -->
   <ScariaInfection.label>TODO</ScariaInfection.label>
-  <!--EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage.-->
-  <!--VI: Một bệnh nhiễm trùng do vi khuẩn sẹo gây ra. Nếu không được điều trị, nhiễm trùng cuối cùng sẽ khiến vật chủ nổi cơn thịnh nộ.-->
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
   <ScariaInfection.description>TODO</ScariaInfection.description>
-  <!--EN: Scaria: {PAWN_nameDef}-->
-  <!--VI: Scaria: {PAWN_nameDef}-->
+  <!-- EN: Scaria: {PAWN_nameDef} -->
   <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>TODO</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
-  <!--EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed.-->
-  <!--VI: {PAWN_nameDef} đã phát triển chứng sẹo do nhiễm trùng {PAWN_possessive}, khiến {PAWN_objective} trở thành cơn thịnh nộ điên cuồng. Scaria có thể được chữa khỏi bằng một cuộc phẫu thuật y tế đặc biệt, nhưng {PAWN_nameDef} trước tiên phải được hạ gục.-->
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
   <ScariaInfection.comps.HediffComp_GiveHediff.letterText>TODO</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
-  <!--EN: a scaria infection-->
-  <!--VI: nhiễm trùng sẹo-->
+  <!-- EN: a scaria infection -->
   <ScariaInfection.labelNoun>TODO</ScariaInfection.labelNoun>
-  <!--EN: minor-->
-  <!--VI: Tiểu-->
+  <!-- EN: minor -->
   <ScariaInfection.stages.minor.label>TODO</ScariaInfection.stages.minor.label>
-  <!--EN: major-->
-  <!--VI: thiếu tá-->
+  <!-- EN: major -->
   <ScariaInfection.stages.major.label>TODO</ScariaInfection.stages.major.label>
-  <!--EN: extreme-->
-  <!--VI: cực đoan-->
+  <!-- EN: extreme -->
   <ScariaInfection.stages.extreme.label>TODO</ScariaInfection.stages.extreme.label>
+  
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>cảm giác cơ khí</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
@@ -127,6 +130,7 @@
   <SensoryMechanites.stages.mild_pain.label>đau nhẹ</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
   <SensoryMechanites.stages.intense_pain.label>đau nhức nhối</SensoryMechanites.stages.intense_pain.label>
+  
   <!-- EN: sleeping sickness -->
   <SleepingSickness.label>bệnh ngũ gật</SleepingSickness.label>
   <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
@@ -141,6 +145,7 @@
   <SleepingSickness.stages.extreme-0.label>nặng</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
   <SleepingSickness.stages.extreme-1.label>rất nặng</SleepingSickness.stages.extreme-1.label>
+  
   <!-- EN: infection -->
   <WoundInfection.label>nhiễm trùng</WoundInfection.label>
   <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
@@ -155,4 +160,5 @@
   <WoundInfection.stages.extreme-0.label>nặng</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
   <WoundInfection.stages.extreme-1.label>rất nặng</WoundInfection.stages.extreme-1.label>
+  
 </LanguageData>
