@@ -2,7 +2,7 @@
 <LanguageData>
   <!--EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.-->
   <!--VI: Là một thợ rèn trong thế giới thời trung cổ, [PAWN_nameDef] nổi tiếng về chất lượng cao của tác phẩm [PAWN_possessive]. [PAWN_pronoun] cũng không tệ trong việc sử dụng những thanh kiếm [PAWN_pronoun] rèn.-->
-  <Blacksmith72.description>TODO</Blacksmith72.description>
+  <Blacksmith72.description>Là một thợ rèn ở một thế giới trung cổ, [PAWN_nameDef] nổi tiếng với các thành phẩm đạt chất lượng cao [PAWN_possessive]. [PAWN_pronoun] cũng không tệ ở việc sử dụng thanh kiếm mà mình đã rèn </Blacksmith72.description>
   <Blacksmith72.baseDesc>Là một thợ rèn thời trung cổ, [PAWN_nameDef] nổi tiếng với các tác phẩm đạt chất lượng cao [PAWN_possessive]. [PAWN_pronoun] cũng giỏi việc sử dụng thanh kiếm mà chính mình rèn ra.</Blacksmith72.baseDesc>
   <!-- EN: blacksmith -->
   <Blacksmith72.title>Thợ rèn</Blacksmith72.title>
@@ -10,7 +10,7 @@
   <Blacksmith72.titleShort>Thợ rèn</Blacksmith72.titleShort>
   <!--EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price.-->
   <!--VI: [PAWN_nameDef] sống trong rừng gần một ngôi làng. Mặc dù nhiều dân làng sợ [PAWN_objective], nhưng dân làng bị bệnh sẽ đến [PAWN_objective] để mua thuốc mỡ và thuốc đắp làm từ các loại thảo mộc [PAWN_pronoun] trồng trong vườn [PAWN_possessive]. [PAWN_pronoun] rất vui khi giúp đỡ họ - với một cái giá.-->
-  <Herbalist54.description>TODO</Herbalist54.description>
+  <Herbalist54.description>Sống trong rừng gần một ngôi làng. Mặc dù nhiều người dân trong làng sợ hãi [PAWN_objective], nhưng những người dân bệnh tật vẫn tìm đến [PAWN_objective] để mua thuốc mỡ và thuốc đắp làm từ thảo dược mà [PAWN_pronoun] trồng trong vườn. [PAWN_pronoun] rất vui khi giúp họ - với một cái giá.</div></Herbalist54.description>
   <Herbalist54.baseDesc>[PAWN_nameDef] sống trong rừng gần một ngôi làng. Mặc dù nhiều người dân trong làng sợ hãi [PAWN_objective], nhưng những người dân ốm yếu vẫn tìm đến [PAWN_objective] để mua thuốc muối và thuốc đắp làm từ các loại thảo mộc [PAWN_pronoun] trồng trong vườn của mình. [PAWN_pronoun] rất vui khi được giúp đỡ họ - với một mức giá.</Herbalist54.baseDesc>
   <!-- EN: herbalist -->
   <Herbalist54.title>Người bán dược thảo</Herbalist54.title>
@@ -18,7 +18,7 @@
   <Herbalist54.titleShort>Người bán dược thảo</Herbalist54.titleShort>
   <!--EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head.-->
   <!--VI: [PAWN_nameDef] làm bác sĩ trên một hành tinh thời trung cổ. [PAWN_pronoun] tin chắc rằng hầu hết các bệnh có thể được chữa khỏi bằng một chút đổ máu.\n\n[PAWN_pronoun] cũng là một bác sĩ gây mê bậc thầy, phát triển một kỹ thuật đặc biệt liên quan đến một cú đánh nặng vào đầu.-->
-  <MedievalDoctor40.description>TODO</MedievalDoctor40.description>
+  <MedievalDoctor40.description>Là một bác sĩ trên một hành tinh trung cổ. [PAWN_pronoun] tin chắc rằng hầu như mọi căn bệnh đều có thể chữa khỏi chỉ với việc trích máu.\n\n[PAWN_pronoun] cũng là một bậc thầy gây mê, đã phát triển một kỹ thuật đặc biệt liên quan đến một cú đánh mạnh vào đầu.</MedievalDoctor40.description>
   <MedievalDoctor40.baseDesc>[PAWN_nameDef] làm bác sĩ trên một hành tinh thời trung cổ. [PAWN_pronoun] tin chắc rằng hầu hết các bệnh đều có thể chữa khỏi chỉ bằng một chút máu.\n\n[PAWN_pronoun] cũng là một nhà gây mê bậc thầy, đã phát triển một kỹ thuật đặc biệt liên quan đến một cú đánh nặng nề vào đầu.</MedievalDoctor40.baseDesc>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>Bác sĩ thời trung cổ</MedievalDoctor40.title>
@@ -26,7 +26,7 @@
   <MedievalDoctor40.titleShort>Lang băm</MedievalDoctor40.titleShort>
   <!--EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities.-->
   <!--VI: Cày xới, cuốc, dẫn đường xe bò, đẩy xe kít. Đào mương, gieo hạt, dự đoán thu hoạch.\n\nNông dân ở cấp độ Trung cổ không được giáo dục theo nghĩa thông thường, nhưng họ biết rất nhiều về việc trồng cây mà không cần công nghệ. Điều đó nói rằng, một cuộc sống như vậy có thể khiến một người không có khả năng tham gia vào các hoạt động dựa trên công nghệ.-->
-  <MedievalFarmOaf58.description>TODO</MedievalFarmOaf58.description>
+  <MedievalFarmOaf58.description>Xới đất, cuốc đất, điều hướng xe bò, đẩy xe cút kít. Đào mương, gieo hạt, dự đoán mùa màng.\n\nNhững người nông dân ở cấp độ trung cổ không được giáo dục theo nghĩa thường, nhưng họ biết rất nhiều về cách trồng cây mà không có công nghệ. Nó nói lên rằng cuộc sống như thế có thể khiến một người không có khả năng tham gia vào các hoạt động thúc đẩy nhờ công nghệ </MedievalFarmOaf58.description>
   <MedievalFarmOaf58.baseDesc>Xới đất, cuốc đất, hướng dẫn xe bò, đẩy xe cút kít. Đào mương, gieo hạt, dự đoán mùa màng.\n\nNhững người nông dân ở cấp độ trung cổ không được giáo dục theo nghĩa thông thường, nhưng họ biết rất nhiều về cách trồng cây mà không cần công nghệ. Điều đó nói lên rằng, một cuộc sống như vậy về cơ bản khiến một người không có khả năng tham gia vào các hoạt động trí tuệ, công nghệ.</MedievalFarmOaf58.baseDesc>
   <!-- EN: medieval farm oaf -->
   <MedievalFarmOaf58.title>Nông dân thời trung cổ</MedievalFarmOaf58.title>
@@ -34,7 +34,7 @@
   <MedievalFarmOaf58.titleShort>Nông phu</MedievalFarmOaf58.titleShort>
   <!--EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective].-->
   <!--VI: [PAWN_nameDef] là một lãnh chúa trên một hành tinh tiền công nghiệp. [PAWN_pronoun] đi dự tiệc, quản lý cấp dưới, và thậm chí còn học kiếm thuật.\n\n[PAWN_possessive] bàn tay mềm mại không cầm một công cụ nào trong suốt thời gian đó. Bây giờ, [PAWN_pronoun] coi lao động chân tay nằm dưới [PAWN_objective].-->
-  <MedievalLord57.description>TODO</MedievalLord57.description>
+  <MedievalLord57.description>là lãnh chúa trên một hành tinh tiền công nghiệp. [PAWN_pronoun] tham gia các bữa tiệc, quản lí thuộc hạ, và thậm chí học một số kiếm thuật.\n\nĐôi tay mềm mại [PAWN_possessive] không cầm bất kì công cụ nào trong suốt thời gian đó. [PAWN_pronoun] cho rằng lao động tay chân thấp kém hơn [PAWN_objective].</MedievalLord57.description>
   <MedievalLord57.baseDesc>[PAWN_nameDef] là chúa tể trên một hành tinh tiền công nghiệp. [PAWN_pronoun] tham gia các bữa tiệc, quản lý các thuộc hạ, và thậm chí học một số kiếm thuật.\n\nĐôi bàn tay mềm mại [PAWN_possessive] đã không cầm một công cụ lao động trong suốt thời gian đó. [PAWN_pronoun] coi lao động chân tay là việc thấp hơn [PAWN_objective].</MedievalLord57.baseDesc>
   <!-- EN: medieval lord -->
   <MedievalLord57.title>Quý tộc trung cổ</MedievalLord57.title>
@@ -42,7 +42,7 @@
   <MedievalLord57.titleShort>Quý tộc</MedievalLord57.titleShort>
   <!--EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done.-->
   <!--VI: [PAWN_nameDef] là một nghệ sĩ giải trí du lịch trên một thế giới thời trung cổ và [PAWN_pronoun] luôn có thể kể chuyện hoặc hát bài hát.\n\nNhững con đường rất nguy hiểm, vì vậy [PAWN_pronoun] có khả năng bảo vệ [PAWN_objective]. Tuy nhiên, [PAWN_pronoun] sẽ luôn tiếp tục khi có lao động nặng nhọc.-->
-  <MedievalMinstrel95.description>TODO</MedievalMinstrel95.description>
+  <MedievalMinstrel95.description>Là một nghệ sĩ lang thang trong một thế giới trung cổ.\n\[PAWN_pronoun] luôn được tìm thấy kể chuyện hoặc hát ca.\n\những tuyến đường thường có cách mối nguy, nên [PAWN_pronoun] đủ khả năng bảo vệ bản thân. Tuy nhiên, [PAWN_pronoun] luôn tiếp tục bước đi khi có một việc khó phải làm.</MedievalMinstrel95.description>
   <MedievalMinstrel95.baseDesc>[PAWN_nameDef] là một nghệ sĩ hát rong trong một thế giới thời trung cổ.\n\n[PAWN_pronoun] luôn được tìm thấy khi đang kể chuyện hoặc hát các bài hát, và có khả năng tự bảo vệ mình khỏi những nguy hiểm trên đường. Tuy nhiên, [PAWN_pronoun] luôn vắng mặt một cách rõ ràng bất cứ khi nào có việc khó phải làm.</MedievalMinstrel95.baseDesc>
   <!-- EN: medieval minstrel -->
   <MedievalMinstrel95.title>Người hát rong trung cổ</MedievalMinstrel95.title>
@@ -50,7 +50,7 @@
   <MedievalMinstrel95.titleShort>Người hát rong</MedievalMinstrel95.titleShort>
   <!--EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected.-->
   <!--VI: [PAWN_nameDef] khám phá các đại dương trên một con tàu gỗ, tìm kiếm các mẫu vật thực vật và động vật từ những nơi kỳ lạ, và thỉnh thoảng chống lại cướp biển. [PAWN_pronoun] yêu biển đến mức [PAWN_pronoun] từ chối làm tất cả ngoại trừ công việc tối thiểu nhất trên đất liền, ngoại trừ việc bán kho báu mà [PAWN_pronoun] đã thu thập được.-->
-  <MedievalSailor97.description>TODO</MedievalSailor97.description>
+  <MedievalSailor97.description>Khám phá đại dương trên một con thuyền gỗ, tìm kiếm các mẫu thực vật và động vật từ những nơi kỳ lạ, và đôi khi chống lại hải tặc. [PAWN_pronoun] yêu biển đến mức sẽ từ chối làm các công việc tối thiểu nhất trên đất liền, ngoại trừ việc bán những kho báu mà [PAWN_pronoun] đã thu thập được.</MedievalSailor97.description>
   <MedievalSailor97.baseDesc>[PAWN_nameDef] khám phá các đại dương trên một con tàu gỗ, tìm kiếm các mẫu thực vật và động vật từ những nơi kỳ lạ, và đôi khi chống lại bọn cướp biển. [PAWN_pronoun] yêu biển đến mức từ chối làm tất cả những công việc tối thiểu nhất trên đất liền, ngoại trừ việc bán những kho báu mà [PAWN_pronoun] sưu tầm được.</MedievalSailor97.baseDesc>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>Thủy thủ trung cổ</MedievalSailor97.title>
@@ -58,7 +58,7 @@
   <MedievalSailor97.titleShort>Thủy thủ</MedievalSailor97.titleShort>
   <!--EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody.-->
   <!--VI: Trên một thế giới thời trung cổ, cách nhanh nhất để gửi một thông điệp là đưa nó cho ai đó đang cưỡi ngựa và hy vọng họ sống sót sau cuộc hành trình. [PAWN_nameDef] là ai đó.-->
-  <MessageCarrier77.description>TODO</MessageCarrier77.description>
+  <MessageCarrier77.description>Trong một thế giới trung cổ, cách nhanh nhất để gửi một tin nhắn là đưa nó cho ai đó trên ngựa và mong rằng họ sẽ sống sót trong cuộc hành trình. [PAWN_namedef] là người đấy.</MessageCarrier77.description>
   <MessageCarrier77.baseDesc>Trong một thế giới thời trung cổ, cách nhanh nhất để gửi một tin nhắn là đưa nó cho ai đó trên ngựa và hy vọng họ sống sót trong cuộc hành trình. [PAWN_nameDef] là người đó.</MessageCarrier77.baseDesc>
   <!-- EN: message carrier -->
   <MessageCarrier77.title>Người giao thư</MessageCarrier77.title>
@@ -66,7 +66,7 @@
   <MessageCarrier77.titleShort>Người giao thư</MessageCarrier77.titleShort>
   <!--EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work.-->
   <!--VI: Là người nếm thử thức ăn cho một vị vua thời trung cổ, [PAWN_nameDef] đã nếm thử bất kỳ món ăn nào được phục vụ tại bàn hoàng gia. [PAWN_pronoun] sống một lối sống suy đồi tại triều đình, béo lên và làm rất ít công việc thực sự.-->
-  <Taster16.description>TODO</Taster16.description>
+  <Taster16.description>Là người nếm thức ăn cho nhà vua trung cổ,[PAWN_namedef] thử bất kì món ăn nào được phục vụ tại bàn hoàng gia. [PAWN_pronoun] sống một lối sống suy đồi ở tòa án, dần trở nên béo ú và làm rất ít việc </Taster16.description>
   <Taster16.baseDesc>Là người nếm thử cho một vị vua thời trung cổ, bất kỳ món ăn nào được phục vụ tại bàn hoàng gia đều phải được [PAWN_nameDef] nếm thử trước. [PAWN_pronoun] sống một lối sống suy đồi tại tòa án, béo lên và làm rất ít công việc.</Taster16.baseDesc>
   <!-- EN: taster -->
   <Taster16.title>Người nếm thức ăn</Taster16.title>
