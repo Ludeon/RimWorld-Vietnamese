@@ -13,7 +13,7 @@ This is Vietnamese translation data for RimWorld.
 Chỉ nhận phản hồi tại server discord
 
 ### 3. Tham gia cùng chúng tôi!
-- Discord: https://discord.gg/rimworldvn
+- Discord: https://discord.gg/pKGzEuz9MU
 - Ludeon: https://www.reddit.com/r/RimWorld | https://steamcommunity.com/app/294100/discussions/
 - Facebook Cộng đồng Rimworld Việt Nam: https://www.facebook.com/groups/429801467205824/
   
