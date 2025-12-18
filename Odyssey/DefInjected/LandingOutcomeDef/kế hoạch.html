@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kế Hoạch Content TikTok 6 Tháng: Răng Đẹp Từ Thói Quen Nhỏ</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Warm Neutrals & Soft Teal -->
+    <!-- Application Structure Plan: The SPA is designed as an interactive dashboard centered around a timeline. This structure was chosen to transform the static, linear report into an explorable strategic map. The main navigation allows users to jump between months, which updates a central content area and a dynamic "Strategic Focus" chart. This non-linear exploration is more intuitive for a user who wants to compare different phases of the campaign or quickly access details for a specific month. The primary goal is to visualize the content funnel (Awareness -> Education -> Trust -> Action) and show how weekly tactics support the overarching monthly goals, which a simple document cannot do effectively. -->
+    <!-- Visualization & Content Choices: 
+        - Report Info: Strategic Phases (Nhận thức, Giáo dục, Tin tưởng, Hành động). Goal: Visualize the high-level strategy and its progression. Viz/Presentation Method: Doughnut Chart. Interaction: The chart segment corresponding to the selected month's phase is highlighted (by increasing its offset). Justification: This creatively visualizes the qualitative, structural data of the content funnel, providing a constant visual anchor for the user as they explore the weekly plans. It clearly shows the strategic focus at any given time. Library: Chart.js (Canvas).
+        - Report Info: Monthly/Weekly content plan. Goal: Allow easy browsing and detailed lookup of weekly topics. Viz/Presentation Method: Interactive Tabs for months and a Grid of Content Cards for weeks. Interaction: Clicking a month tab dynamically filters and renders the corresponding 4 weekly cards in the main view. Justification: This is a standard, highly intuitive UI pattern that avoids overwhelming the user with all 24 weeks at once. It makes the dense plan digestible and easy to navigate. Library/Method: Vanilla JS with HTML/Tailwind.
+        - CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background-color: #FDF8F0;
+            color: #3a3a3a;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+            height: auto;
+            aspect-ratio: 1 / 1;
+        }
+        .tab-active {
+            background-color: #26A69A;
+            color: #FFFFFF;
+            font-weight: 700;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .tab-inactive {
+            background-color: #EADDCA;
+            color: #5D4037;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+        
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-[#004D40] mb-2">Chuỗi Video 6 Tháng: “Răng Đẹp Từ Thói Quen Nhỏ”</h1>
+            <p class="text-lg text-gray-600">Bảng điều khiển tương tác kế hoạch nội dung TikTok</p>
+        </header>
+
+        <section id="strategy-overview" class="mb-10 p-6 bg-white/60 rounded-2xl shadow-sm border border-gray-200">
+            <h2 class="text-2xl font-bold text-center mb-6 text-[#004D40]">Lộ Trình Xây Dựng Thương Hiệu</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 text-center">
+                <div class="p-4 bg-[#E0F2F1] rounded-lg">
+                    <h3 class="font-bold text-lg text-[#00796B]">Giai đoạn 1: Nhận thức</h3>
+                    <p class="text-sm text-gray-700 mt-1">Tháng 1: Gây chú ý với các thói quen xấu ảnh hưởng đến răng.</p>
+                </div>
+                <div class="p-4 bg-[#FFFDE7] rounded-lg">
+                    <h3 class="font-bold text-lg text-[#FBC02D]">Giai đoạn 2: Giáo dục</h3>
+                    <p class="text-sm text-gray-700 mt-1">Tháng 2: Cung cấp kiến thức chuyên sâu về phát hiện và phòng ngừa sớm.</p>
+                </div>
+                <div class="p-4 bg-[#E3F2FD] rounded-lg">
+                    <h3 class="font-bold text-lg text-[#1976D2]">Giai đoạn 3: Tin tưởng</h3>
+                    <p class="text-sm text-gray-700 mt-1">Tháng 3-4: Xây dựng uy tín qua hướng dẫn xử lý khủng hoảng và tâm lý.</p>
+                </div>
+                <div class="p-4 bg-[#FCE4EC] rounded-lg">
+                    <h3 class="font-bold text-lg text-[#D81B60]">Giai đoạn 4: Hành động</h3>
+                    <p class="text-sm text-gray-700 mt-1">Tháng 5-6: Chuyển đổi thông qua các giải pháp thẩm mỹ và kêu gọi hành động.</p>
+                </div>
+            </div>
+        </section>
+        
+        <main class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <aside class="lg:col-span-1 p-6 bg-white/60 rounded-2xl shadow-sm border border-gray-200 self-start lg:sticky top-8">
+                <h2 class="text-xl font-bold text-center mb-4 text-[#004D40]">Trọng Tâm Chiến Lược</h2>
+                <div class="chart-container">
+                    <canvas id="strategyChart"></canvas>
+                </div>
+                 <p id="chart-description" class="text-center text-sm text-gray-600 mt-4 h-10"></p>
+            </aside>
+
+            <div class="lg:col-span-2">
+                <div id="month-navigation" class="flex flex-wrap gap-2 justify-center mb-6">
+                </div>
+
+                <div id="weekly-plan-container" class="space-y-4">
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        const planData = [
+            { month: "Tháng 1", phase: "Nhận thức", week: 1, topic: "Mút tay", hook: "1 thói quen tưởng vô hại, nhưng khiến bé hô cả đời!", objective: "Gây chú ý – Giải thích tác hại mút tay sớm." },
+            { month: "Tháng 1", phase: "Nhận thức", week: 2, topic: "Ngậm ti giả", hook: "Ti giả – bạn hay thù của răng bé?", objective: "Hướng dẫn cha mẹ thời điểm nên dừng ti giả." },
+            { month: "Tháng 1", phase: "Nhận thức", week: 3, topic: "Cắn móng tay", hook: "Cắn móng tay – nhỏ xíu mà hại răng to!", objective: "Nhấn mạnh hậu quả lâu dài của cắn móng tay." },
+            { month: "Tháng 1", phase: "Nhận thức", week: 4, topic: "Cắn môi", hook: "Cắn môi tưởng dễ thương, nhưng răng thì kêu cứu!", objective: "Giải thích lệch khớp cắn do thói quen nhỏ." },
+            
+            { month: "Tháng 2", phase: "Giáo dục", week: 5, topic: "Sai khớp cắn", hook: "Dấu hiệu nhỏ tiết lộ con bạn cần khám chỉnh nha sớm", objective: "Giúp phụ huynh tự phát hiện dấu hiệu bất thường." },
+            { month: "Tháng 2", phase: "Giáo dục", week: 6, topic: "Khám chỉnh nha", hook: "Đừng đợi răng thay hết mới niềng, vì đã trễ!", objective: "Nâng cao nhận thức về thời điểm khám đầu tiên." },
+            { month: "Tháng 2", phase: "Giáo dục", week: 7, topic: "Niềng răng sớm", hook: "Niềng sớm – quyết định thông minh hay vội vàng?", objective: "Giải thích lợi ích – rủi ro của niềng sớm." },
+            { month: "Tháng 2", phase: "Giáo dục", week: 8, topic: "Chỉnh hô/móm sớm", hook: "Răng hô móm ở trẻ – can thiệp sớm hay để tự nhiên?", objective: "So sánh trường hợp cần can thiệp sớm." },
+            
+            { month: "Tháng 3", phase: "Tin tưởng", week: 9, topic: "Gãy răng sữa", hook: "Răng sữa gãy – đi nha sĩ hay cứ để vậy?", objective: "Giúp cha mẹ hiểu tầm quan trọng của răng sữa." },
+            { month: "Tháng 3", phase: "Tin tưởng", week: 10, topic: "Gãy răng vĩnh viễn", hook: "5 phút đầu quyết định ‘sống còn’ của răng bé!", objective: "Cung cấp kiến thức xử lý khẩn cấp (sơ cứu)." },
+            { month: "Tháng 3", phase: "Tin tưởng", week: 11, topic: "Gắn lại răng", hook: "Bé té gãy răng – vẫn có thể cứu nếu cha mẹ biết điều này", objective: "Nâng cao kỹ năng sơ cứu nha khoa." },
+            { month: "Tháng 3", phase: "Tin tưởng", week: 12, topic: "Phòng tránh chấn thương", hook: "Món phụ kiện 200k có thể cứu nụ cười của bé!", objective: "Giới thiệu dụng cụ bảo vệ răng (Mouthguard)." },
+            
+            { month: "Tháng 4", phase: "Tin tưởng", week: 13, topic: "Khám răng lần đầu", hook: "Tuổi này không khám răng – sau này hối không kịp!", objective: "Khuyến khích khám sớm – định kỳ." },
+            { month: "Tháng 4", phase: "Tin tưởng", week: 14, topic: "Trẻ sợ nha sĩ", hook: "Cách giúp bé thích đi khám răng mà không sợ khóc!", objective: "Gợi ý mẹo tâm lý cho phụ huynh." },
+            { month: "Tháng 4", phase: "Tin tưởng", week: 15, topic: "Nha khoa nhi vs. người lớn", hook: "Nha khoa người lớn KHÔNG dành cho trẻ nhỏ!", objective: "Định vị chuyên môn Nha khoa Nhi." },
+            { month: "Tháng 4", phase: "Tin tưởng", week: 16, topic: "Lần khám đầu tiên", hook: "Đi nha sĩ lần đầu – điều gì đang chờ bé?", objective: "Giúp giảm lo lắng cho phụ huynh và trẻ." },
+            
+            { month: "Tháng 5", phase: "Hành động", week: 17, topic: "Tẩy trắng răng", hook: "Tẩy trắng răng cho trẻ – làm đẹp hay làm hại?", objective: "Giải đáp quan niệm sai lầm về thẩm mỹ răng trẻ em." },
+            { month: "Tháng 5", phase: "Hành động", week: 18, topic: "Răng ố vàng do thuốc", hook: "Răng vàng vì thuốc – có cách cứu không?", objective: "Tư vấn hướng điều trị & trám thẩm mỹ." },
+            { month: "Tháng 5", phase: "Hành động", week: 19, topic: "Cười hở lợi", hook: "Bé cười hở lợi – dấu hiệu đáng lo hay bình thường?", objective: "Chia sẻ cách nhận biết & hướng xử lý." },
+            { month: "Tháng 5", phase: "Hành động", week: 20, topic: "Nụ cười tự tin", hook: "Một mẹo nhỏ giúp bé tự tin cười tươi mỗi ngày!", objective: "Tăng cảm xúc & liên kết thương hiệu tích cực." },
+            
+            { month: "Tháng 6", phase: "Hành động", week: 21, topic: "Bỏ thói quen xấu", hook: "Không la mắng, đây là cách giúp bé bỏ mút tay!", objective: "Hướng dẫn thực tế – Kêu gọi hành động tích cực." },
+            { month: "Tháng 6", phase: "Hành động", week: 22, topic: "Kiểm tra khớp cắn", hook: "Khớp cắn lệch – phát hiện sớm tiết kiệm cả triệu đồng!", objective: "Kêu gọi kiểm tra định kỳ." },
+            { month: "Tháng 6", phase: "Hành động", week: 23, topic: "Niềng tháo lắp", hook: "Niềng tháo lắp – lựa chọn nhẹ nhàng cho bé mới bắt đầu", objective: "Giới thiệu dịch vụ & Tạo niềm tin vào giải pháp." },
+            { month: "Tháng 6", phase: "Hành động", week: 24, topic: "Tổng kết", hook: "Chỉ cần chăm đúng, bé sẽ cười tự tin cả đời!", objective: "Tổng kết chuỗi – CTA CUỐI CÙNG: ĐẶT LỊCH KHÁM NGAY." }
+        ];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const chartCtx = document.getElementById('strategyChart').getContext('2d');
+            const weeklyPlanContainer = document.getElementById('weekly-plan-container');
+            const monthNavigation = document.getElementById('month-navigation');
+            const chartDescription = document.getElementById('chart-description');
+
+            const phases = ["Nhận thức", "Giáo dục", "Tin tưởng", "Hành động"];
+            const phaseColors = ['#4DB6AC', '#FFCA28', '#42A5F5', '#EC407A'];
+            const phaseDescriptions = {
+                "Nhận thức": "Tập trung gây chú ý, giúp phụ huynh nhận ra các vấn đề tiềm ẩn.",
+                "Giáo dục": "Cung cấp kiến thức chuyên sâu để phụ huynh hiểu rõ hơn về các giải pháp.",
+                "Tin tưởng": "Xây dựng uy tín và sự an tâm qua các hướng dẫn chuyên môn.",
+                "Hành động": "Thúc đẩy phụ huynh đưa bé đến phòng khám thông qua các giải pháp cụ thể."
+            };
+
+            const strategyChart = new Chart(chartCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: phases,
+                    datasets: [{
+                        label: 'Trọng Tâm Chiến Lược',
+                        data: [1, 1, 2, 2],
+                        backgroundColor: phaseColors,
+                        borderColor: '#FDF8F0',
+                        borderWidth: 5,
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    cutout: '60%',
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                padding: 15,
+                                font: {
+                                    family: "'Be Vietnam Pro', sans-serif"
+                                }
+                            }
+                        },
+                        tooltip: {
+                             enabled: false
+                        }
+                    },
+                    animation: {
+                        animateScale: true,
+                        animateRotate: true
+                    }
+                }
+            });
+
+            function updateChart(activePhase) {
+                const phaseIndex = phases.indexOf(activePhase);
+                strategyChart.data.datasets[0].offset = phases.map((_, i) => i === phaseIndex ? 20 : 0);
+                strategyChart.update();
+                chartDescription.textContent = phaseDescriptions[activePhase] || "";
+            }
+
+            function renderMonth(monthIndex) {
+                const months = [...new Set(planData.map(d => d.month))];
+                const selectedMonth = months[monthIndex];
+                const monthData = planData.filter(d => d.month === selectedMonth);
+
+                weeklyPlanContainer.innerHTML = '';
+
+                monthData.forEach(item => {
+                    const card = `
+                        <div class="bg-white p-5 rounded-xl shadow-md border border-gray-200/80 transform hover:scale-[1.02] transition-transform duration-300">
+                            <div class="flex items-start gap-4">
+                                <div class="bg-[#EADDCA] text-[#5D4037] font-bold rounded-lg w-12 h-12 flex items-center justify-center text-xl flex-shrink-0">${item.week}</div>
+                                <div class="flex-grow">
+                                    <p class="text-xs font-bold text-[#00796B] uppercase">${item.topic}</p>
+                                    <h3 class="font-bold text-lg mt-1 text-gray-800">“${item.hook}”</h3>
+                                    <p class="text-sm text-gray-600 mt-2">🎯 <span class="font-medium">Mục tiêu:</span> ${item.objective}</p>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    weeklyPlanContainer.innerHTML += card;
+                });
+                
+                document.querySelectorAll('.month-tab').forEach((tab, index) => {
+                    tab.classList.toggle('tab-active', index === monthIndex);
+                    tab.classList.toggle('tab-inactive', index !== monthIndex);
+                });
+
+                if (monthData.length > 0) {
+                    updateChart(monthData[0].phase);
+                }
+            }
+
+            const months = [...new Set(planData.map(d => d.month))];
+            months.forEach((month, index) => {
+                const button = document.createElement('button');
+                button.textContent = month;
+                button.className = 'month-tab px-4 py-2 rounded-lg text-sm font-medium transition-all duration-300';
+                button.onclick = () => renderMonth(index);
+                monthNavigation.appendChild(button);
+            });
+
+            renderMonth(0);
+        });
+    </script>
+
+</body>
+</html>

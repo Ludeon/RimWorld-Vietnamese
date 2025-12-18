@@ -2,18 +2,52 @@
 <LanguageData>
   
   <!-- EN: fishing -->
-  <Fishing.label>TODO</Fishing.label>
+  <Fishing.label>Câu cá</Fishing.label>
   <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
-  <Fishing.helpText>TODO</Fishing.helpText>
+  <Fishing.helpText>Khu vực câu cá</Fishing.helpText>
   
   <!-- EN: gravship -->
-  <Gravship.label>TODO</Gravship.label>
-  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
-  <Gravship.helpText>TODO</Gravship.helpText>
+  <Gravship.label>Phi thuyền trọng trường</Gravship.label>
+  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.
+       Launching the gravship destroys the current map. You can build a grav anchor to prevent this.
+       To launch, a gravship needs:
+            - Pilot console
+            - Fuel tanks
+            - Thrusters
+       Research 'basic gravtech' to unlock these.
+       You can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.
+       Your grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
+  <Gravship.helpText>
+    Hãy xây dựng phi thuyền xung quanh động cơ trọng trường. Khi bạn phóng phi thuyền, nó sẽ đem theo toàn bộ công trình đến bản đồ mới.
+
+    Hãy nhớ rằng khi phóng phi thuyền, bạn sẽ phải có một cái mỏ neo để ngăn chặn việc phá hủy bản đồ hiện tại.
+
+    Để có thể phóng phi thuyền, bạn sẽ cần một buồng điều khiển, thùng chứa nhiên liệu và động cơ đẩy, thông qua nghiên cứu "Công nghệ trọng trường cơ bản".
+
+    Bạn chỉ có thể xây dựng một số lượng công trình hỗ trợ nhất định.
+
+    Để nâng cao giới hạn này, bạn cần phải tìm thêm các lõi trọng trường và các tấm trọng quang.
+
+    Động cơ trọng trường đôi lúc sẽ định vị được các công nghệ trọng trường trên hành tinh và đánh dấu nó trên bản đồ thế giới.
+  </Gravship.helpText>
   
   <!-- EN: orbit -->
-  <Orbit.label>TODO</Orbit.label>
-  <!-- EN: On the world map, use the 'view planet' and 'view orbit' buttons to switch between planetary and orbital views.\n\nYou can travel to orbital locations using transport pods, shuttles, or gravships.\n\nColonists need vacsuits or other advanced armor to survive in the vacuum of space.\n\nIf using a gravship, make sure it's well-heated. Build oxygen pumps to maintain breathable air and enclose your ship with airtight walls and doors. Avoid using wood or stone for exterior walls and doors.\n\nPlan your return trip before you launch. Living in orbit for a long time is very challenging. Getting stranded in orbit is deadly. -->
-  <Orbit.helpText>TODO</Orbit.helpText>
+  <Orbit.label>Quỹ đạo</Orbit.label>
+  <!-- EN: On the world map, use the 'view planet' and 'view orbit' buttons to switch between planetary and orbital views.
+       You can travel to orbital locations using transport pods, shuttles, or gravships.
+       Colonists need vacsuits or other advanced armor to survive in the vacuum of space.
+       If using a gravship, make sure it's well-heated. Build oxygen pumps to maintain breathable air and enclose your ship with airtight walls and doors. Avoid using wood or stone for exterior walls and doors.
+       Plan your return trip before you launch. Living in orbit for a long time is very challenging. Getting stranded in orbit is deadly. -->
+  <Orbit.helpText>
+    Trên bản đồ thế giới, sử dụng nút "xem hành tinh" và "xem quỹ đạo" để chuyển đổi giữa hai góc nhìn.
+
+    Bạn có thể di chuyển đến các địa điểm trên quỹ đạo bằng khoang vận tải, tàu con thoi hoặc phi thuyền trọng trường.
+
+    Dân cần trang bị bộ đồ chân không hoặc các loại giáp tiên tiến khác để sống sót trong môi trường không gian.
+
+    Nếu sử dụng phi thuyền trọng trường, hãy đảm bảo tàu có hệ thống sưởi ấm đầy đủ. Xây máy bơm oxy để duy trì khí oxy và bao kín phi thuyền bằng tường và cửa kín khí. Tránh dùng vật liệu gỗ hoặc đá cho tường và cửa bên ngoài.
+
+    Hãy lên kế hoạch trở về trước khi khởi hành bởi vì cái chết sẽ là thứ duy nhất chào đón khi bạn bị mắc kẹt trên vành đai. Dẫu vậy sẽ là một nơi hoàn hảo nếu bạn muốn tìm những thử thách to lớn.
+  </Orbit.helpText>
   
 </LanguageData>
