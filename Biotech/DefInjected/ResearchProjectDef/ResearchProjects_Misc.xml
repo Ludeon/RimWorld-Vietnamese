@@ -4,7 +4,7 @@
   <!-- EN: archogenetics -->
   <Archogenetics.label>gen phi thường</Archogenetics.label>
   <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
-  <Archogenetics.description>Cho phép bộ lắp ráp gen sử dụng các viên nang kiến ​​trúc để tạo ra các gen dường như không thể. Archite Genes và Archite Capsules có thể được lấy từ thương nhân.</Archogenetics.description>
+  <Archogenetics.description>Cho phép bộ lắp ráp gen sử dụng viên nang archite để tạo ra những gen tưởng chừng bất khả thi. Có thể mua gen archite và viên nang archite từ thương nhân.</Archogenetics.description>
   <!-- EN:
     <li>subject->archogenetics</li>
     <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
@@ -14,18 +14,18 @@
     <li>subject_gerund->creating seemingly impossible genes</li>
   -->
   <Archogenetics.generalRules.rulesStrings>
-    <li>subject->di truyền học Archite</li>
-    <li>subject_story->khai thác gen Archite từ mặt trăng siêu việt Ix</li>
-    <li>subject_story->kiếm sống tốt với vai trò là thương nhân gen Archite</li>
+    <li>subject->di truyền học archite</li>
+    <li>subject_story->khai thác gen archite từ mặt trăng siêu việt Ix</li>
+    <li>subject_story->kiếm sống tốt với vai trò là thương nhân gen archite</li>
     <li>subject_story->dẫn đầu một cuộc thám hiểm nghiên cứu đến một monolith cổ đại và trở về với sự thay đổi</li>
-    <li>subject_gerund->lắp ráp các gen Archite</li>
+    <li>subject_gerund->lắp ráp các gen archite</li>
     <li>subject_gerund->tạo ra các gen dường như không thể</li>
   </Archogenetics.generalRules.rulesStrings>
   
   <!-- EN: deathrest -->
-  <Deathrest.label>deathrest</Deathrest.label>
+  <Deathrest.label>nghỉ tử</Deathrest.label>
   <!-- EN: Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple. -->
-  <Deathrest.description>Mở khóa việc xây dựng các tòa nhà giúp đẩy nhanh tiến độ của một loại giấc ngủ tử thần kéo dài trong vài ngày mà những người có gen giấc ngủ tử thần phải trải qua định kỳ và cấp phần thưởng cụ thể cho những người chết. Một ngày nào đó, bạn sẽ có thể xây dựng một Ngôi đền Tử thần tráng lệ.</Deathrest.description>
+  <Deathrest.description>Những người mang gen nghỉ tử phải định kỳ trải qua một trạng thái hôn mê nghỉ tử đặc biệt kéo dài nhiều ngày. Nghiên cứu này cho phép bạn xây dựng các công trình giúp đẩy nhanh trạng thái nghỉ tử ấy và mang lại những lợi ích cụ thể cho người nghỉ tử. Theo thời gian, bạn có thể xây dựng một ngôi đền nghỉ tử tráng lệ.</Deathrest.description>
   <!-- EN:
     <li>subject->deathrest</li>
     <li>subject_story->dissected corpses from a deathrest temple, finally understanding how it worked</li>
@@ -35,12 +35,12 @@
     <li>subject_gerund->improving deathrest</li>
   -->
   <Deathrest.generalRules.rulesStrings>
-    <li>subject->deathrest</li>
-    <li>subject_story->mổ xẻ xác chết từ một ngôi đền deathrest, cuối cùng hiểu được cách nó hoạt động</li>
+    <li>subject->nghỉ tử</li>
+    <li>subject_story->mổ xẻ xác chết từ một ngôi đền nghỉ tử, cuối cùng hiểu được cách nó hoạt động</li>
     <li>subject_story->phỏng vấn một người nổi tiếng dường như không bao giờ già đi, cuối cùng học được bí mật của cô ấy</li>
     <li>subject_story->cố gắng tái tạo công nghệ và rơi vào hôn mê, chỉ để tỉnh lại sau vài tuần</li>
-    <li>subject_gerund->xây dựng cơ sở deathrest</li>
-    <li>subject_gerund->cải thiện deathrest</li>
+    <li>subject_gerund->xây dựng cơ sở nghỉ tử</li>
+    <li>subject_gerund->cải thiện nghỉ tử</li>
   </Deathrest.generalRules.rulesStrings>
   
   <!-- EN: fertility procedures -->

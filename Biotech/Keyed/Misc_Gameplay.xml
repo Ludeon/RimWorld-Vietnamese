@@ -11,7 +11,7 @@
   <!-- EN: {0} damage -->
   <DamageType>{0} thiệt hại</DamageType>
   <!-- EN: Contained {0_labelPlural} -->
-  <ContainedThings>Contained {0_labelPlural}</ContainedThings>
+  <ContainedThings>Chứa {0_labelPlural}</ContainedThings>
   <!-- EN: Time until next atomization -->
   <DurationUntilNextAtomization>Thời gian cho đến lần nguyên tử hóa tiếp theo</DurationUntilNextAtomization>
   <!-- EN: Finishes in -->
@@ -56,25 +56,25 @@
   <!-- EN: Assigned mechs -->
   <AssignedMechs>Mech được chỉ định</AssignedMechs>
   <!-- EN: Tuned to -->
-  <BandNodeTunedTo>Tuned to</BandNodeTunedTo>
+  <BandNodeTunedTo>Liên kết với</BandNodeTunedTo>
   <!-- EN: Tune to -->
-  <BandNodeTuneTo>Tuned to</BandNodeTuneTo>
+  <BandNodeTuneTo>Liên kết với</BandNodeTuneTo>
   <!-- EN: Tuning to -->
-  <BandNodeTuningTo>Tuning to</BandNodeTuningTo>
+  <BandNodeTuningTo>Đang liên kết với</BandNodeTuningTo>
   <!-- EN: Retune -->
-  <BandNodeRetuneTo>Chỉ định lại</BandNodeRetuneTo>
+  <BandNodeRetuneTo>Liên kết lại với</BandNodeRetuneTo>
   <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-  <BandNodeTuningDesc>Gán nút nhóm này cho một mechanitor. Điều chỉnh sẽ kết thúc sau {0}.</BandNodeTuningDesc>
+  <BandNodeTuningDesc>Liên kết nút băng này với một mechanitor. Quá trình liên kết sẽ hoàn tất sau {0}.</BandNodeTuningDesc>
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
-  <BandNodeRetuningDesc>Gán lại nút băng này cho một mechanitor khác. Điều chỉnh lại sẽ kết thúc sau {0}.</BandNodeRetuningDesc>
+  <BandNodeRetuningDesc>Liên kết lại nút băng này với một mechanitor khác. Quá trình liên kết lại sẽ hoàn tất sau {0}.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
   <DropThingBandwidthApparel>Xóa {0} sẽ thay đổi băng thông của {1_labelShort} từ {2} thành {3}. Điều này có nghĩa là các mech sau sẽ không còn nằm trong tầm kiểm soát</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
   <NoMechs>không mechs</NoMechs>
   <!-- EN: Group -->
-  <Group>Groupe</Group>
+  <Group>Nhóm</Group>
   <!-- EN: Groups -->
-  <Groups>Groups</Groups>
+  <Groups>Các nhóm</Groups>
   <!-- EN: Loading mech gestation resources -->
   <LoadingMechGestator>Đang chuyển tài nguyên để mech được sinh ra</LoadingMechGestator>
   <!-- EN: Time left this cycle -->
@@ -128,17 +128,17 @@
   <!-- EN: Hemogen is a biological energy source derived from compounds in human blood. Baseliner humans produce it endogenously and consume it over time in their own internal balance. Some human xenotypes use it as a kind of fuel for specific abilities, while others must consume it to survive at all. -->
   <HemogenDesc>Hemogen là một nguồn năng lượng sinh học có nguồn gốc từ các hợp chất được tìm thấy trong máu người. Con người cơ bản sản xuất nó nội sinh và sinh vật của họ tiêu thụ nó khi nó đi đến sự cân bằng bên trong của nó. Một số dạng xenotypes của con người sử dụng nó làm năng lượng cho các khả năng đặc biệt, trong khi những người khác phải tiêu thụ nó chỉ để hy vọng sống sót.</HemogenDesc>
   <!-- EN: deathrest capacity -->
-  <DeathrestCapacity>khả năng deathrest</DeathrestCapacity>
+  <DeathrestCapacity>giới hạn kết nối nghỉ tử</DeathrestCapacity>
   <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
-  <DeathrestCapacityDesc>Điều này xác định số lượng tòa nhà determines mà một người có thể kết nối trong khi determines. Mỗi cấu trúc mang lại một lợi thế cụ thể, vì vậy tốt hơn là có thể kết nối với nhiều người trong số họ hơn.\n\nCó thể tăng công suất deathrest bằng cách sử dụng các huyết thanh deathrest. Các loại huyết thanh này có thể được mua từ thương nhân.</DeathrestCapacityDesc>
+  <DeathrestCapacityDesc>Giới hạn này xác định một người có thể kết nối với bao nhiêu công trình nghỉ tử trong khi nghỉ tử. Mỗi công trình nghỉ tử mang lại một lợi ích riêng, vì vậy càng kết nối được với nhiều công trình thì càng tốt.\n\nGiới hạn kết nối nghỉ tử có thể được tăng lên bằng huyết thanh giới hạn kết nối nghỉ tử. Những loại huyết thanh này có thể mua từ thương nhân.</DeathrestCapacityDesc>
   <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
-  <PawnIsConnectedToBuildings>{PAWN_nameDef} được kết nối với {CURRENT} / {MAX} (max) cấu trúc deathrest.</PawnIsConnectedToBuildings>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef} được kết nối với {CURRENT} / {MAX} công trình nghỉ tử.</PawnIsConnectedToBuildings>
   <!-- EN: wake now -->
-  <Wake>dậy đi ông cháu ơi</Wake>
+  <Wake>Đánh thức</Wake>
   <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
-  <WakeDesc>Thức dậy từ deathrest.\n\n{PAWN_nameDef} đã ở trong deathrest trong {DURATION}.</WakeDesc>
+  <WakeDesc>Đánh thức khỏi nghỉ tử.\n\n{PAWN_nameDef} đã nghỉ tử trong {DURATION}.</WakeDesc>
   <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
-  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} phải nghỉ ít nhất {TOTAL}. {PAWN_objective} thức dậy sớm hơn sẽ khiến {PAWN_objective} bị ốm và {PAWN_pronoun} sẽ không được hưởng lợi từ bất kỳ cấu trúc chết nào..</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} cần nghỉ tử ít nhất {TOTAL}. Đánh thức {PAWN_objective} quá sớm sẽ khiến {PAWN_objective} bị ốm, và {PAWN_pronoun} sẽ không được hưởng lợi từ bất kỳ công trình nghỉ tử nào.</WakeExtraDesc_Exhaustion>
   <!-- EN: {PAWN_nameDef} can now wake safely. -->
   <WakeExtraDesc_Safe>{PAWN_nameDef} hiện có thể thức dậy an toàn.</WakeExtraDesc_Safe>
   <!-- EN: Cannot wake. Need at least {0} hemogen. -->
@@ -146,17 +146,17 @@
   <!-- EN: Auto-wake -->
   <AutoWake>Đánh thức tự động</AutoWake>
   <!-- EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
-  <AutoWakeDesc>Khi được bật, {PAWN_nameDef} sẽ tự động thức dậy sau khi quá trình deathrest của nó hoàn tất.\n\nKhi bị tắt, {PAWN_pronoun} sẽ tiếp tục ở chế độ ngủ cho đến khi bạn {PAWN_objective} đánh thức theo cách thủ công.</AutoWakeDesc>
+  <AutoWakeDesc>Khi bật, {PAWN_nameDef} sẽ tự động thức dậy sau khi hoàn tất nghỉ tử.\n\nKhi tắt, {PAWN_pronoun} sẽ tiếp tục nghỉ tử cho đến khi bạn đánh thức {PAWN_objective} thủ công.</AutoWakeDesc>
   <!-- EN: {PAWN_nameDef} is deathresting. -->
-  <IsDeathresting>{PAWN_nameDef} để bản thân nghỉ ngơi.</IsDeathresting>
+  <IsDeathresting>{PAWN_nameDef} đang nghỉ tử.</IsDeathresting>
   <!-- EN: cannot deathrest -->
-  <CannotDeathrest>Không thể nghỉ ngơi trong deathrest của anh ấy</CannotDeathrest>
+  <CannotDeathrest>Không thể nghỉ tử</CannotDeathrest>
   <!-- EN: Start deathrest -->
-  <StartDeathrest>Bắt đầu deathrest</StartDeathrest>
+  <StartDeathrest>Bắt đầu nghỉ tử</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-  <ConfirmExitDeathrestUnderMinDays>Để hoàn thành Death's Rest một cách an toàn cần có {MINDURATION}, nhưng {PAWN_nameDef} chỉ nghỉ trong {CURDURATION}.\n\nĐánh thức {PAWN_nameDef} bây giờ sẽ làm gián đoạn deathrest của {PAWN_possessive}, khiến quá trình trao đổi chất {PAWN_possessive} mất cân bằng và khiến {PAWN_objective} bị ốm trong nhiều ngày tới.\n\nBạn có chắc chắn muốn đánh thức {PAWN_objective} không?</ConfirmExitDeathrestUnderMinDays>
+  <ConfirmExitDeathrestUnderMinDays>Để hoàn thành nghỉ tử an toàn cần {MINDURATION}, nhưng {PAWN_nameDef} mới chỉ nghỉ tử được {CURDURATION}.\n\nĐánh thức {PAWN_nameDef} bây giờ sẽ làm gián đoạn quá trình nghỉ tử, khiến quá trình trao đổi chất của {PAWN_nameDef} mất cân bằng và làm {PAWN_objective} bị ốm trong nhiều ngày tới.\n\nBạn có chắc chắn muốn đánh thức {PAWN_objective} không?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
-  <Deathresting>deathresting</Deathresting>
+  <Deathresting>đang nghỉ tử</Deathresting>
   <!-- EN: can wake safely now. -->
   <CanWakeSafely>có thể thức dậy an toàn ngay bây giờ.</CanWakeSafely>
   <!-- EN: Disabled by gene -->
@@ -168,9 +168,9 @@
   <!-- EN: Regeneration rate -->
   <RegenerationRate>Tỷ lệ tái sinh</RegenerationRate>
   <!-- EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
-  <NextDeathrestNeed>{PAWN_nameDef} nên nghỉ ngơi trong {DURATION} để tránh kiệt sức..</NextDeathrestNeed>
+  <NextDeathrestNeed>{PAWN_nameDef} nên nghỉ tử trong {DURATION} để tránh kiệt sức.</NextDeathrestNeed>
   <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
-  <PawnShouldDeathrestNow>{PAWN_nameDef} nên sớm nghỉ ngơi để tránh kiệt sức.</PawnShouldDeathrestNow>
+  <PawnShouldDeathrestNow>{PAWN_nameDef} nên nghỉ tử sớm để tránh kiệt sức.</PawnShouldDeathrestNow>
   <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
   <AutoTakeHemogenDesc>Điều này xác định liệu {PAWN_nameDef} có tự động ăn các gói hemogen khi lượng hemogen của anh ấy thấp hơn {MIN} hay không.\n\nNhập tự động hiện là {ONOFF}.</AutoTakeHemogenDesc>
   <!-- EN: Consume hemogen below -->
@@ -189,11 +189,11 @@
   <!-- EN: Will bind permanently on first use. -->
   <WillBindOnFirstUse>Sẽ ràng buộc vĩnh viễn trong lần sử dụng đầu tiên.</WillBindOnFirstUse>
   <!-- EN: Time active this deathrest -->
-  <TimeActiveThisDeathrest>Thời gian hoạt động deathrest này</TimeActiveThisDeathrest>
+  <TimeActiveThisDeathrest>Thời gian hoạt động trong lần nghỉ tử này</TimeActiveThisDeathrest>
   <!-- EN: Minimum is {0} to apply -->
   <MinimumNeededToApply>Tối thiểu là {0} để áp dụng</MinimumNeededToApply>
   <!-- EN: Cannot deathrest -->
-  <CannotAssignBedCannotDeathrest>Không thể deathrest</CannotAssignBedCannotDeathrest>
+  <CannotAssignBedCannotDeathrest>Không thể nghỉ tử</CannotAssignBedCannotDeathrest>
   <!-- EN: Already bound to {0_nameDef} -->
   <CannotAssignAlreadyBound>Đã được liên kết với {0_nameDef}</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
@@ -248,13 +248,13 @@
   <GivingBirth>Sinh hạ.</GivingBirth>
   <!-- Genes -->
   <!-- EN: genes -->
-  <Genes>genes</Genes>
+  <Genes>Gen</Genes>
   <!-- EN: The genes associated with this xenotype. -->
   <GenesDesc>Các gen liên quan đến xenotype này.</GenesDesc>
   <!-- EN: suppressed -->
-  <Suppressed>suppressed</Suppressed>
+  <Suppressed>Bị triệt tiêu</Suppressed>
   <!-- EN: active -->
-  <Active>active</Active>
+  <Active>Hoạt động</Active>
   <!-- EN: This trait has been suppressed by a conflicting forced genetic trait or gene. It will not be active until all conflicts are removed -->
   <SuppressedDesc>Tính trạng này đã bị triệt tiêu do xung đột giữa các tính trạng di truyền hoặc gen. Nó sẽ không hoạt động cho đến khi tất cả các xung đột được loại bỏ</SuppressedDesc>
   <!-- EN: trait -->
@@ -302,13 +302,13 @@
   <!-- EN: Gene price factors -->
   <GenePriceFactors>Yếu tố giá gen</GenePriceFactors>
   <!-- EN: any -->
-  <AnyLower>any</AnyLower>
+  <AnyLower>bất kỳ</AnyLower>
   <!-- EN: Archite total -->
-  <ArchitesTotal>Archite total</ArchitesTotal>
+  <ArchitesTotal>Tổng số archite</ArchitesTotal>
   <!-- EN: Archite capsules -->
-  <ArchitesRequired>Archite capsules</ArchitesRequired>
+  <ArchitesRequired>Viên nang archite</ArchitesRequired>
   <!-- EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-  <ArchitesRequiredDesc>Archites là archotech mechanites - các thiết bị siêu nhỏ có thể hoạt động trực tiếp trên các tế bào và phân tử, được tạo ra bởi các archotech siêu thông minh. Chúng có khả năng kỳ công không thể giải thích và một số gen chỉ hoạt động khi được hỗ trợ bởi máy móc công nghệ cao. Con người không thể tạo các kho lưu trữ - chỉ tìm thấy chúng khi một công nghệ archotech tình cờ tạo ra một số vì lý do không thể biết của riêng nó</ArchitesRequiredDesc>
+  <ArchitesRequiredDesc>Archite là các archotech mechanite - những thiết bị siêu nhỏ có thể tác động trực tiếp lên tế bào và phân tử, được tạo ra bởi các archotech siêu thông minh. Chúng có thể thực hiện những kỳ tích không thể giải thích, và một số gen chỉ hoạt động khi có máy móc ngoài tầm hiểu biết ấy hỗ trợ. Con người không thể tạo ra archite - chỉ có thể tìm thấy chúng khi một archotech tình cờ tạo ra một ít vì lý do không ai biết.</ArchitesRequiredDesc>
   <!-- EN: Cancel xenogerm -->
   <CancelXenogerm>Hủy xenogerm</CancelXenogerm>
   <!-- EN: Stop all work on the current xenogerm. -->
@@ -344,7 +344,7 @@
   <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
   <RecombineDesc>Tạo một xenogerm có thể cấy ghép mới bằng cách sử dụng dữ liệu bộ gen từ thư viện gen của bạn.</RecombineDesc>
   <!-- EN: Genes -->
-  <ContainedGenesDesc>Genes</ContainedGenesDesc>
+  <ContainedGenesDesc>Gen</ContainedGenesDesc>
   <!-- EN: Order implantation -->
   <ImplantXenogerm>Đặt hàng cấy ghép</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
@@ -392,7 +392,7 @@
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
   <ExtractingXenogermFrom>Trích xuất gen từ {PAWN_nameDef}.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
-  <ExtractionPausedNoPower>Quá trình trích xuất bị tạm dừng: không có điện (interrupt in {TIME})</ExtractionPausedNoPower>
+  <ExtractionPausedNoPower>Quá trình trích xuất bị tạm dừng: không có điện (sẽ gián đoạn sau {TIME})</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
   <LastIngestedDurationAgo>Đã nhập lần cuối {CHEMICAL_label} {DURATION} trước.</LastIngestedDurationAgo>
   <!-- EN: {NAME} xenogerm -->
@@ -404,7 +404,7 @@
   <!-- EN: Required gene bank unpowered -->
   <GenebankUnpowered>Ngân hàng gen bắt buộc không được cấp quyền</GenebankUnpowered>
   <!-- EN: deathless -->
-  <Deathless>deathless</Deathless>
+  <Deathless>bất diệt</Deathless>
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
   <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} phải nhập {0} thường xuyên để tồn tại. Sau {DEFICIENCYDURATION} mà không có {0}, {PAWN_pronoun} sẽ bị thiếu {0}. Sau {COMADURATION}, {PAWN_pronoun} sẽ rơi vào trạng thái hôn mê. Sau {DEATHDURATION}, {PAWN_pronoun} sẽ chết.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
@@ -412,17 +412,17 @@
   <!-- EN: Xenogerm -->
   <Xenogerm>Xenogerm</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
-  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef} sẽ tiếp tục nghỉ ngơi miễn là {PAWN_pronoun} bị những vết thương chí mạng.</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef} sẽ tiếp tục nghỉ tử chừng nào {PAWN_pronoun} còn bị thương chí mạng.</PawnWillKeepDeathrestingLethalInjuries>
   <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
   <PawnWillKeepRegeneratingLethalInjuries>{PAWN_nameDef} sẽ vẫn trong trạng thái hôn mê tái sinh miễn là {PAWN_pronoun} bị những vết thương chí mạng.</PawnWillKeepRegeneratingLethalInjuries>
   <!-- EN: Deathrest stopped -->
-  <DeathrestPaused>Deathrest dừng lại</DeathrestPaused>
+  <DeathrestPaused>Nghỉ tử đã dừng</DeathrestPaused>
   <!-- EN: Lethal injuries -->
   <LethalInjuries>Vết thương chí mạng</LethalInjuries>
   <!-- EN: deathrest -->
-  <Deathrest>deathrest</Deathrest>
+  <Deathrest>nghỉ tử</Deathrest>
   <!-- EN: capacity -->
-  <Capacity>capacity</Capacity>
+  <Capacity>giới hạn</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
   <MissingGeneRomanceChance>May mắn về tình cảm không thuộc {GENE}</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
@@ -465,9 +465,9 @@
   <!-- EN: Gestation cycles -->
   <GestationCycles>Chu kỳ mang thai</GestationCycles>
   <!-- EN: Gestating {0} -->
-  <GestatingMech>Gestating {0}</GestatingMech>
+  <GestatingMech>Đang ấp {0}</GestatingMech>
   <!-- EN: Gestated {0} -->
-  <GestatedMech>Gestated {0}</GestatedMech>
+  <GestatedMech>Đã ấp {0}</GestatedMech>
   <!--EN: Requires {PAWN_nameDef} to continue gestating-->
   <GestatingMechRequiresMechanitor>Cần {PAWN_nameDef} để tiếp tục thai nghén</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
@@ -480,7 +480,7 @@
   <ResurrectedMech>Đã phục hồi {0}</ResurrectedMech>
   <!-- Carrier -->
   <!-- EN: Release {0} -->
-  <MechCarrierRelease>Release {0}</MechCarrierRelease>
+  <MechCarrierRelease>Thả {0}</MechCarrierRelease>
   <!-- EN: Release a swarm of up to {0} {1}. Each {2} costs {3} {4} to build. If the parent is destroyed then all the linked {1} will die. {1} cannot be recharged and will die once their power source runs out. -->
   <MechCarrierDesc>Thả một bầy lên đến {0} {1}. Mỗi {2} chi phí {3} {4} để xây dựng. Nếu cha mẹ bị hủy thì tất cả {1} được liên kết sẽ chết. {1} không thể được sạc lại và sẽ chết khi nguồn điện của nó bị cạn kiệt.</MechCarrierDesc>
   <!-- EN: Not enough resources -->
@@ -573,19 +573,19 @@
   <!-- EN: Start scanner -->
   <SubcoreScannerStart>Khởi chạy máy quét</SubcoreScannerStart>
   <!-- EN: Produces -->
-  <SubcoreScannerProduces>Produces</SubcoreScannerProduces>
+  <SubcoreScannerProduces>Tạo ra</SubcoreScannerProduces>
   <!-- EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the scanner. -->
   <SubcoreScannerStartDesc>Sau khi {0} được lấp đầy với các thành phần cần thiết, {1}, hãy chọn người định cư và nhấp chuột phải vào {0} hoặc người nằm xuống để khởi động máy quét.</SubcoreScannerStartDesc>
   <!-- EN: Completes in -->
   <SubcoreScannerCompletesIn>hoàn thành</SubcoreScannerCompletesIn>
   <!-- EN: Waiting for occupant -->
-  <SubcoreScannerWaitingForOccupant>Waiting for occupant</SubcoreScannerWaitingForOccupant>
+  <SubcoreScannerWaitingForOccupant>Đang chờ người vào</SubcoreScannerWaitingForOccupant>
   <!-- EN: Waiting for ingredients -->
   <SubcoreScannerWaitingForIngredients>Chờ đợi các thành phần</SubcoreScannerWaitingForIngredients>
   <!-- EN: The following ingredients must be loaded first -->
   <SubcoreScannerWaitingForIngredientsDesc>Các thành phần sau phải được tải trước</SubcoreScannerWaitingForIngredientsDesc>
   <!-- EN: Has {0} -->
-  <SubcoreScannerPawnHasSickness>Has {0}</SubcoreScannerPawnHasSickness>
+  <SubcoreScannerPawnHasSickness>Có {0}</SubcoreScannerPawnHasSickness>
   <!-- EN: Babies are not allowed -->
   <SubcoreScannerBabyNotAllowed>Trẻ sơ sinh không được phép</SubcoreScannerBabyNotAllowed>
   <!-- EN: Insert a person into the {0}. -->
@@ -668,7 +668,7 @@
   <!-- EN: Fertilize -->
   <Fertilize>Bón phân cho {0_label}</Fertilize>
   <!-- EN: Fertilize {0_label} -->
-  <FertilizeThing>Fertilize {0_label}</FertilizeThing>
+  <FertilizeThing>Bón phân cho {0_label}</FertilizeThing>
   <!-- EN: Cannot fertilize -->
   <FertilizeCannotFloatOption>Không thể bón phân</FertilizeCannotFloatOption>
   <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
@@ -700,7 +700,7 @@
   <!-- EN: No available growth vats. -->
   <ImplantDisabledNoVats>Không có bể ủ.</ImplantDisabledNoVats>
   <!-- EN: Implant {0} -->
-  <ImplantSurgeryLabel>Implant {0}</ImplantSurgeryLabel>
+  <ImplantSurgeryLabel>Cấy {0}</ImplantSurgeryLabel>
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
   <ImplantSurgeryConfirm>Cơ hội cấy ghép thành công cho {0} trong {1} là {2}.\n\nCơ hội cấy ghép thành công phụ thuộc vào khả năng sinh sản của người mẹ mang thai. Nó sẽ yếu hơn nếu mẹ quá già hoặc quá trẻ.</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
@@ -712,7 +712,7 @@
   <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
   <EmbryoEjectedFromGrowthVat>{0} đã bị đẩy ra khỏi cabin tăng trưởng và bị phá hủy.</EmbryoEjectedFromGrowthVat>
   <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
-  <EmbryoEjectedFromGrowthVatBiostarvation>Le {0} a été détruit dans une cuve d'incubation en raison de la biofamine.</EmbryoEjectedFromGrowthVatBiostarvation>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} đã bị phá hủy trong cabin tăng trưởng do chết đói sinh học.</EmbryoEjectedFromGrowthVatBiostarvation>
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
   <IvfPregnancyLetterText>{0} đã bị phá hủy trong cabin tăng trưởng do phân tích sinh học!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->

@@ -45,7 +45,7 @@
   <!-- EN: In xenogermination coma -->
   <InXenogerminationComa>Trong tình trạng hôn mê xenogermina</InXenogerminationComa>
   <!-- EN: Occupied -->
-  <Occupied>Occupied</Occupied>
+  <Occupied>Đang được sử dụng</Occupied>
   <!-- EN: {PAWN_nameDef} was ejected from a growth vat -->
   <OccupantEjectedFromGrowthVat>{PAWN_nameDef} được đẩy ra khỏi cabin tăng trưởng</OccupantEjectedFromGrowthVat>
   <!-- EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
@@ -53,7 +53,7 @@
   <!-- EN: {PAWN_nameDef} is too old. -->
   <PawnIsTooOld>{PAWN_nameDef} quá già.</PawnIsTooOld>
   <!-- EN: {PAWN_nameDef} is suffering from biostarvation. -->
-  <PawnBiostarving>{PAWN_nameDef} bị biofamine.</PawnBiostarving>
+  <PawnBiostarving>{PAWN_nameDef} đang trong trạng thái chết đói sinh học.</PawnBiostarving>
   <!-- EN: No available people -->
   <NoViablePawns>Không có ai</NoViablePawns>
   <!-- EN: No extractable people -->
@@ -75,7 +75,7 @@
   <!-- EN: Carry to {0_labelShort} -->
   <CarryToSpecificThing>Mang đến {0_labelShort}</CarryToSpecificThing>
   <!-- EN: No reachable, un-reserved bed or deathrest casket in safe temperature. -->
-  <NoCasketOrBed>Không tiếp cận được, giường không đặt trước hoặc quan tài deathrest trong nhiệt độ an toàn.</NoCasketOrBed>
+  <NoCasketOrBed>Không có giường hoặc quan tài nghỉ tử nào có thể tiếp cận, chưa bị chiếm dụng và ở mức nhiệt độ an toàn.</NoCasketOrBed>
   <!-- EN: {PAWN_nameDef} is a temporary faction member. -->
   <TemporaryFactionMember>{PAWN_nameDef} là thành viên tạm thời của phe.</TemporaryFactionMember>
   <!-- EN: Scanner not initiated -->
@@ -83,7 +83,7 @@
   <!-- EN: Waiting for ingredients -->
   <SubcoreScannerRequiresIngredients>Chờ đợi thành phần</SubcoreScannerRequiresIngredients>
   <!-- EN: Occupied -->
-  <SubcoreScannerOccupied>Occupied</SubcoreScannerOccupied>
+  <SubcoreScannerOccupied>Đang được sử dụng</SubcoreScannerOccupied>
   <!-- EN: Enter {0} -->
   <EnterSubcoreScanner>Đi vào {0}</EnterSubcoreScanner>
   <!-- EN: Breastfeed {BABY_labelShort} -->

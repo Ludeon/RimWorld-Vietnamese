@@ -32,7 +32,7 @@
   <!-- EN: Dev quicktest -->
   <DevQuickTest>DEV kiểm tra nhanh</DevQuickTest>
   <!-- EN: Credits -->
-  <Credits>Credits</Credits>
+  <Credits>Đội ngũ</Credits>
   <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Trở về menu chính</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
@@ -44,15 +44,15 @@
   <!-- EN: Fiction primer -->
   <FictionPrimer>Tiểu thuyết viễn tưởng</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
   <!-- EN: Forums -->
   <Forums>Diễn Đàn</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>Official Wiki</OfficialWiki>
+  <OfficialWiki>Wiki chính thức</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansTwitter>Twitter của Tynan</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <TynansDesignBook>Sách thiết kế của Tynan</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Hỗ trợ dịch</HelpTranslate>
   <!-- EN: Buy soundtrack -->
@@ -114,7 +114,7 @@
   <WorldFactionsTab>Các phe phái</WorldFactionsTab>
   <!--EN: Advanced settings-->
   <!--VI: Cài đặt nâng cao-->
-  <AdvancedSettings>TODO</AdvancedSettings>
+  <AdvancedSettings>Cài đặt nâng cao</AdvancedSettings>
   <!-- Select world -->
   <!-- EN: Select world -->
   <SelectWorld>Chọn thế giới</SelectWorld>
@@ -192,7 +192,7 @@
   <!-- EN: Shared mods -->
   <SharedModsList>Chia sẻ mod</SharedModsList>
   <!-- EN: Website -->
-  <ModWebsite>Website</ModWebsite>
+  <ModWebsite>Trang web</ModWebsite>
   <!-- EN: Open folder -->
   <ModFolder>Mở thư mục</ModFolder>
   <!-- EN: Mod options -->
@@ -200,7 +200,7 @@
   <!-- EN: Workshop -->
   <FromWorkshop>Workshop</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>Forum</FromForum>
+  <FromForum>Diễn đàn</FromForum>
   <!-- EN: Advanced... -->
   <MoreActions>Nâng cao...</MoreActions>
   <!-- EN: All selected mods -->
@@ -224,7 +224,7 @@
   <!-- EN: Downloading -->
   <Downloading>Đang tải</Downloading>
   <!-- EN: Workshop ID -->
-  <WorkshopId>Workshop ID</WorkshopId>
+  <WorkshopId>ID Workshop</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
   <ModDisplayFulfilledRequirements>Hiển thị yêu cầu để đáp ứng</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
@@ -512,7 +512,7 @@
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
   <Difficulty_FixedWealthTimeFactor_Info>Số năm trò chơi cho đến khi chế độ không phụ thuộc vào sự giàu có đạt đến mức độ đe dọa tối đa.\n\nLưu ý rằng người kể chuyện sẽ vẫn chia tỷ lệ các mối đe dọa theo số lượng thực dân và nhiều yếu tố khác.</Difficulty_FixedWealthTimeFactor_Info>
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
+  <DifficultyIdeologySection>Hệ tư tưởng</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>Tăng chuyển đổi pop thấp</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
