@@ -846,12 +846,11 @@
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} chưa ở chế độ chiến đấu.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{PAWN_nameDef} cannot use ranged weapons due to {APPAREL_label} {PAWN_possessive}. </ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef} không thể sử dụng vũ khí tầm xa do {APPAREL_label} của {PAWN_possessive}. </ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Không thể sử dụng trong {0}</CannotUseReason_PocketMap>
   <!--EN: Range reduced-->
-  <!--VI: Phạm vi giảm-->
-  <WeatherMaxRangeCap>TODO</WeatherMaxRangeCap>
+  <WeatherMaxRangeCap>Phạm vi giảm</WeatherMaxRangeCap>
   <!-- Snow -->
   <!-- EN: Snow -->
   <Snow>Tuyết</Snow>
@@ -1286,7 +1285,7 @@
   <ShowTemperatureOverlayToggleButton>Chuyển đổi lớp phủ nhiệt. Điều này cho thấy nhiệt độ không khí trong mỗi phòng và ngoài trời.\n\nNhững cư dân sẽ không hài lòng nếu nhiệt độ quá cao hoặc quá thấp. Tiếp xúc với nhiệt độ khắc nghiệt có thể dẫn đến hạ thân nhiệt, tê cóng, say nắng, bỏng và tử vong.</ShowTemperatureOverlayToggleButton>
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
-  <HotKeyTip>Hotkey</HotKeyTip>
+  <HotKeyTip>Phím tắt</HotKeyTip>
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
   <FireOn>Cháy ở {1_label}</FireOn>
@@ -1435,7 +1434,7 @@
   <Mood_Happy>hạnh phúc</Mood_Happy>
   <!-- Game over -->
   <!-- EN: Game Over -->
-  <GameOver>Game Over</GameOver>
+  <GameOver>Trò chơi kết thúc</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>cư dân của bạn đã chết hoặc đã đi. Câu chuyện chấm dứt tại đây.\n\nCó lẽ sẽ có ai đó đến sau có thể sử dụng lại tàn tích từng là thị trấn này.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->

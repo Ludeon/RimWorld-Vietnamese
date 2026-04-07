@@ -7,14 +7,14 @@
   <BioStarvation.description>Người này đang ở trong một bể tăng trưởng không hoạt động bình thường do thiếu năng lượng hoặc nguyên liệu dinh dưỡng. Nó khiến cơ thể anh ta rơi vào trạng thái chết đói sinh học.</BioStarvation.description>
   
   <!-- EN: deathresting -->
-  <Deathrest.label>deathresting</Deathrest.label>
+  <Deathrest.label>đang nghỉ tử</Deathrest.label>
   <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
-  <Deathrest.description>Một giấc ngủ giống như hôn mê sâu kéo dài vài ngày và phục hồi các nguồn lực của cơ thể. Một số gen tạo ra nhu cầu nghỉ ngơi sau khi deathrest. Deathrest cũng có thể được tăng cường với các cấu trúc hỗ trợ khác nhau mang lại nhiều phần thưởng đặc biệt khác nhau cho deathrester.</Deathrest.description>
+  <Deathrest.description>Một giấc ngủ hôn mê sâu kéo dài vài ngày, phục hồi các nguồn lực của cơ thể. Một số gen tạo ra nhu cầu nghỉ tử. Nghỉ tử cũng có thể được tăng cường bằng nhiều công trình hỗ trợ khác nhau, mang lại các lợi ích đặc biệt cho người nghỉ tử.</Deathrest.description>
   
   <!-- EN: deathrest exhaustion -->
-  <DeathrestExhaustion.label>deathrest kiệt sức</DeathrestExhaustion.label>
+  <DeathrestExhaustion.label>kiệt sức do thiếu nghỉ tử</DeathrestExhaustion.label>
   <!-- EN: This person desperately needs to deathrest to rebalance their metabolism. -->
-  <DeathrestExhaustion.description>Người này rất cần nghỉ ngơi để cân bằng lại quá trình trao đổi chất.</DeathrestExhaustion.description>
+  <DeathrestExhaustion.description>Người này rất cần nghỉ tử để cân bằng lại quá trình trao đổi chất.</DeathrestExhaustion.description>
   
   <!-- EN: chemical dependency -->
   <GeneticDrugNeed.label>phụ thuộc hóa chất</GeneticDrugNeed.label>
@@ -38,16 +38,16 @@
   <HemogenCraving.stages.major.label>Nặng</HemogenCraving.stages.major.label>
   
   <!-- EN: interrupted deathrest -->
-  <InterruptedDeathrest.label>deathrest bị gián đoạn</InterruptedDeathrest.label>
+  <InterruptedDeathrest.label>nghỉ tử bị gián đoạn</InterruptedDeathrest.label>
   <!-- EN: Deathrest was interrupted while this person's metabolism was still out of balance. They will be sick for days while regaining equilibrium. -->
-  <InterruptedDeathrest.description>Deathrest bị gián đoạn trong khi quá trình trao đổi chất của người này vẫn chưa cân bằng. Người này sẽ bị ốm trong nhiều ngày cho đến khi tình trạng của họ ổn định..</InterruptedDeathrest.description>
+  <InterruptedDeathrest.description>Nghỉ tử bị gián đoạn khi quá trình trao đổi chất của người này vẫn chưa cân bằng. Người này sẽ bị ốm trong nhiều ngày cho đến khi lấy lại cân bằng.</InterruptedDeathrest.description>
   
   <!-- EN: psychic bond -->
   <PsychicBond.label>liên kết tâm linh</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
   <PsychicBond.description>Người này có liên kết tâm linh với người khác nhờ gen liên kết tâm linh.</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
-  <PsychicBond.stages.0.extraTooltip>This person's bonded individual is nearby.</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.extraTooltip>Người gắn kết với người này đang ở gần.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
   <PsychicBond.stages.0.overrideLabel>liên kết tâm linh</PsychicBond.stages.0.overrideLabel>
   <!-- EN: This person feels separated from their bonded individual. -->

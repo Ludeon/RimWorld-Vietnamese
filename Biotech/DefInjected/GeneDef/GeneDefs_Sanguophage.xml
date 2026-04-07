@@ -4,7 +4,7 @@
   <!-- EN: ageless -->
   <Ageless.label>tuổi trẻ vĩnh cửu</Ageless.label>
   <!-- EN: Carriers of this gene have archites in the bloodstream which continuously reverse the process of aging. Starting at the age of 13, carriers begin to biologically age slower. By 18, the aging process stops completely. -->
-  <Ageless.description>Những người mang gen này có trong các đường cong máu của họ liên tục chặn quá trình lão hóa. Từ 13 tuổi, người mang mầm bệnh bắt đầu già đi chậm hơn. Ở tuổi 18, quá trình lão hóa dừng lại một cách dứt khoát.</Ageless.description>
+  <Ageless.description>Những người mang gen này có các archite trong máu liên tục đảo ngược quá trình lão hóa. Từ 13 tuổi, họ bắt đầu lão hóa sinh học chậm hơn. Đến 18 tuổi, quá trình lão hóa dừng hẳn.</Ageless.description>
   <!-- EN: god -->
   <Ageless.symbolPack.prefixSymbols.0.symbol>thần thánh</Ageless.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: deo -->
@@ -23,16 +23,16 @@
   <Ageless.symbolPack.wholeNameSymbols.1.symbol>methuselah</Ageless.symbolPack.wholeNameSymbols.1.symbol>
   
   <!-- EN: archite metabolism -->
-  <ArchiteMetabolism.label>chuyển hóa archo</ArchiteMetabolism.label>
+  <ArchiteMetabolism.label>chuyển hóa archite</ArchiteMetabolism.label>
   <!-- EN: Carriers of this gene have special archites in their cells that facilitate and optimize metabolism. This improves overall genetic and metabolic quality. -->
-  <ArchiteMetabolism.description>Những người mang gen này có các kiến ​​trúc sư đặc biệt trong các tế bào của họ tăng tốc và tối ưu hóa sự trao đổi chất. Cela améliore la qualité génétique et métabolique globale.</ArchiteMetabolism.description>
+  <ArchiteMetabolism.description>Những người mang gen này có các archite đặc biệt trong tế bào giúp thúc đẩy và tối ưu hóa quá trình trao đổi chất. Điều này cải thiện chất lượng di truyền và chuyển hóa tổng thể.</ArchiteMetabolism.description>
   <!-- EN: archite-metabolic -->
-  <ArchiteMetabolism.labelShortAdj>chuyển hóa archo</ArchiteMetabolism.labelShortAdj>
+  <ArchiteMetabolism.labelShortAdj>chuyển hóa archite</ArchiteMetabolism.labelShortAdj>
   
   <!-- EN: deathless -->
   <Deathless.label>bất diệt</Deathless.label>
   <!-- EN: Carriers of this gene have archites in the blood which will sustain their life processes no matter what. As long as the brain remains intact, a carrier of this gene will never die. -->
-  <Deathless.description>Những người mang gen này có trong các đường cong máu của họ, những người sẽ bảo tồn các quá trình quan trọng của họ bất cứ điều gì xảy ra. Tant que le cerveau demeure intact, un porteur de ce gène ne mourra jamais.</Deathless.description>
+  <Deathless.description>Những người mang gen này có các archite trong máu sẽ duy trì các quá trình sống của họ bất kể chuyện gì xảy ra. Chừng nào não vẫn còn nguyên vẹn, người mang gen này sẽ không bao giờ chết.</Deathless.description>
   <!-- EN: Can only die from destruction of brain. -->
   <Deathless.customEffectDescriptions.0>Chỉ có thể chết vì bộ não bị phá hủy.</Deathless.customEffectDescriptions.0>
   <!-- EN: god -->
@@ -49,9 +49,9 @@
   <Deathless.symbolPack.wholeNameSymbols.0.symbol>immortal</Deathless.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: deathrest -->
-  <Deathrest.label>deathrest</Deathrest.label>
+  <Deathrest.label>nghỉ tử</Deathrest.label>
   <!-- EN: Carriers of this gene must periodically regenerate themselves in a special coma called deathrest. Deathrest takes days, but can confer substantial bonuses. Deathrest can be accelerated and its effects enhanced by the use of a variety of special buildings and technologies.\n\nThose who put off deathresting will suffer from deathrest exhaustion. -->
-  <Deathrest.description>Những người mang gen này phải thường xuyên tái sinh trong một trạng thái hôn mê cụ thể được gọi là torpor. Torpor mất nhiều ngày, nhưng có thể mang lại phần thưởng đáng kể. Torpor có thể được tăng tốc và các tác động của nó tăng lên khi sử dụng các tòa nhà hoặc công nghệ cụ thể nhất định.\n\nNhững người đẩy lùi torpor sẽ bị kiệt sức.</Deathrest.description>
+  <Deathrest.description>Những người mang gen này phải định kỳ tái sinh bản thân trong một trạng thái hôn mê đặc biệt gọi là nghỉ tử. Nghỉ tử kéo dài nhiều ngày, nhưng có thể mang lại những lợi ích đáng kể. Nghỉ tử có thể được đẩy nhanh và tăng cường hiệu quả bằng nhiều loại công trình và công nghệ đặc biệt.\n\nNhững ai trì hoãn nghỉ tử sẽ rơi vào trạng thái kiệt sức.</Deathrest.description>
   <!-- EN: death -->
   <Deathrest.symbolPack.prefixSymbols.0.symbol>cái chết</Deathrest.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: dead -->
@@ -113,7 +113,7 @@
   <!-- EN: perfect immunity -->
   <PerfectImmunity.label>khả năng miễn dịch hoàn hảo</PerfectImmunity.label>
   <!-- EN: Carriers of this gene have archite-enhanced immune systems which intelligently destroy invaders. They are totally immune to most normal illnesses. -->
-  <PerfectImmunity.description>Người mang gen này có hệ thống miễn dịch được tăng cường cấu trúc giúp tiêu diệt mầm bệnh một cách thông minh. Chúng hoàn toàn miễn nhiễm với hầu hết các bệnh phổ biến.</PerfectImmunity.description>
+  <PerfectImmunity.description>Người mang gen này có hệ miễn dịch được tăng cường bởi archite trong cơ thể tự động tiêu diệt các tác nhân xâm nhập. Họ hoàn toàn miễn nhiễm với hầu hết các bệnh thông thường.</PerfectImmunity.description>
   <!-- EN: perfect-immune -->
   <PerfectImmunity.labelShortAdj>siêu miễn dịch</PerfectImmunity.labelShortAdj>
   
