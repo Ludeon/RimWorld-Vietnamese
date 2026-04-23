@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- Glow -->
   <!-- EN: Dark -->
   <Dark>Tối</Dark>
@@ -7,6 +8,7 @@
   <Lit>Sáng</Lit>
   <!-- EN: Brightly lit -->
   <LitBrightly>Sáng rực</LitBrightly>
+
   <!-- Price types -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>rất rẻ</PriceTypeVeryCheap>
@@ -18,22 +20,24 @@
   <PriceTypeExpensive>đắt</PriceTypeExpensive>
   <!-- EN: exorbitant -->
   <PriceTypeExorbitant>quá đắt đỏ</PriceTypeExorbitant>
+
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>không chứa</StoragePriorityUnstored>
+  <StoragePriorityUnstored>không lưu trữ</StoragePriorityUnstored>
   <!-- EN: low -->
   <StoragePriorityLow>thấp</StoragePriorityLow>
   <!-- EN: normal -->
-  <StoragePriorityNormal>thường</StoragePriorityNormal>
+  <StoragePriorityNormal>bình thường</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>cao</StoragePriorityPreferred>
+  <StoragePriorityPreferred>ưu tiên</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>quan trọng</StoragePriorityImportant>
   <!-- EN: critical -->
-  <StoragePriorityCritical>cực kỳ quan trọng</StoragePriorityCritical>
+  <StoragePriorityCritical>then chốt</StoragePriorityCritical>
+
   <!-- Food type flags -->
   <!-- EN: vegetables -->
-  <FoodTypeFlags_VegetableOrFruit>rau</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>rau quả</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
   <FoodTypeFlags_Meat>thịt sống</FoodTypeFlags_Meat>
   <!-- EN: corpses -->
@@ -43,22 +47,23 @@
   <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>sản phẩm từ động vật</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>thực vật tươi</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>thực vật sống</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>cây sống</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>cây cối</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>món ăn</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>bữa ăn</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>thực phẩm chế biến</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>thức uống</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>đồ uống có cồn</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>thức ăn gia súc</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>thức ăn cho thú</FoodTypeFlags_Kibble>
+
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>kinh khủng</QualityCategory_Awful>
+  <QualityCategory_Awful>tệ hại</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>tạm được</QualityCategory_Poor>
+  <QualityCategory_Poor>kém</QualityCategory_Poor>
   <!-- EN: normal -->
   <QualityCategory_Normal>bình thường</QualityCategory_Normal>
   <!-- EN: good -->
@@ -70,28 +75,30 @@
   <!-- EN: legendary -->
   <QualityCategory_Legendary>huyền thoại</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>một nửa bị phá hủy</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>tệ</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>kém cỏi</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>kém</QualityCategoryShort_Poor>
   <!-- EN: norm -->
   <QualityCategoryShort_Normal>bình thường</QualityCategoryShort_Normal>
   <!-- EN: good -->
   <QualityCategoryShort_Good>tốt</QualityCategoryShort_Good>
   <!-- EN: exc -->
-  <QualityCategoryShort_Excellent>ưu việt</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>xuất sắc</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>cực phẩm</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
   <QualityCategoryShort_Legendary>huyền thoại</QualityCategoryShort_Legendary>
+  
   <!-- Hunger -->
   <!-- EN: Starving -->
-  <HungerLevel_Starving>Chết đói</HungerLevel_Starving>
+  <HungerLevel_Starving>Đói lả</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>Đói khát</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Rất đói</HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
   <HungerLevel_Hungry>Đói</HungerLevel_Hungry>
   <!-- EN: Fed -->
   <HungerLevel_Fed>No</HungerLevel_Fed>
+
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>Kiệt sức</HungerLevel_Exhausted>
@@ -100,87 +107,96 @@
   <!-- EN: Tired -->
   <HungerLevel_Tired>Mệt mỏi</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>Nghỉ ngơi</HungerLevel_Rested>
+  <HungerLevel_Rested>Khỏe khoắn</HungerLevel_Rested>
+
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>Bằng phẳng</Hilliness_Flat>
+  <Hilliness_Flat>đồng bằng</Hilliness_Flat>
   <!-- EN: small hills -->
   <Hilliness_SmallHills>đồi nhỏ</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>Đồi lớn</Hilliness_LargeHills>
+  <Hilliness_LargeHills>đồi lớn</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>Vùng núi</Hilliness_Mountainous>
+  <Hilliness_Mountainous>núi</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>Không thể vượt qua</Hilliness_Impassable>
+  <Hilliness_Impassable>không thể vượt qua</Hilliness_Impassable>
+  
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
-  <WorkshopInteractStage_CreatingItem>Chế tạo</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_CreatingItem>Đang tạo</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
-  <WorkshopInteractStage_SubmittingItem>Đệ trình</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>Đang gửi</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Không hợp lệ</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <!-- EN: Preparing config data -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Chuẩn bị cấu hình dữ liệu</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Chuẩn bị nội dụng tập tin</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Chuẩn bị tập tin nội dung</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Đang tải lên nội dung</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Đang tải lên tập tin tổng quát</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Đang tải lên tập tin xem trước</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Đang xác nhận thay đổi</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
   <!-- Mod sources -->
   <!-- EN: Official content -->
-  <ContentSource_OfficialModsFolder>nội dung chính thức</ContentSource_OfficialModsFolder>
+  <ContentSource_OfficialModsFolder>Nội dung chính thức</ContentSource_OfficialModsFolder>
   <!-- EN: Local folder -->
-  <ContentSource_ModsFolder>thư mục cục bộ</ContentSource_ModsFolder>
+  <ContentSource_ModsFolder>Thư mục cục bộ</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
   <!-- Medical care category -->
   <!-- EN: no medical care -->
-  <MedicalCareCategory_NoCare>Không chăm sóc y tế</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>không điều trị</MedicalCareCategory_NoCare>
   <!-- EN: doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Bác sĩ chăm sóc, nhưng không có dược phẩm</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>có bác sĩ chăm sóc, không dùng thuốc</MedicalCareCategory_NoMeds>
   <!-- EN: herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Chăm sóc với thảo dược</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>dùng thuốc thảo dược trở xuống</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Chăm sóc bằng công nghệ</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>dùng thuốc công nghiệp trở xuống</MedicalCareCategory_NormalOrWorse>
   <!-- EN: best quality medicine -->
-  <MedicalCareCategory_Best>Được chăm sóc y tế tận tình</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>dùng loại thuốc tốt nhất</MedicalCareCategory_Best>
+
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>Không quan tâm</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Bỏ qua</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>Đánh trả</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>Tấn công</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
   <HostilityResponseMode_Flee>Bỏ chạy</HostilityResponseMode_Flee>
+  
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>đâm chồi</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>nặng thêm</HediffGrowthMode_Growing>
   <!-- EN: stable -->
-  <HediffGrowthMode_Stable>tươi tốt</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Stable>ổn định</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>héo úa</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>thuyên giảm</HediffGrowthMode_Remission>
+
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>Sơ khai</TechLevel_Animal>
+  <TechLevel_Animal>nguyên thủy</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>Thời đại mới</TechLevel_Neolithic>
+  <TechLevel_Neolithic>đồ đá</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>Trung cổ</TechLevel_Medieval>
+  <TechLevel_Medieval>trung cổ</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>Công nghiệp</TechLevel_Industrial>
+  <TechLevel_Industrial>thời đại công nghiệp</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>Không gian</TechLevel_Spacer>
+  <TechLevel_Spacer>thời đại không gian</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>Vũ trụ</TechLevel_Ultra>
+  <TechLevel_Ultra>siêu công nghệ</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>Tương lai</TechLevel_Archotech>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
+
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>Thường trực</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>Trên mặt đất</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Thả kén</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Kén vận chuyển</PlayerPawnsArriveMethod_DropPods>
+
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
   <PawnGenerationContext_All>tất cả nhân vật</PawnGenerationContext_All>
@@ -188,59 +204,59 @@
   <PawnGenerationContext_PlayerStarter>nhân vật khởi đầu</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>NPC</PawnGenerationContext_NonPlayer>
+
   <!-- Screen shake mode -->
   <!-- EN: Screen shake intensity -->
   <ScreenShakeIntensity>Cường độ rung màn hình</ScreenShakeIntensity>
+  
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
   <ShowAnimalNames>Hiện tên động vật</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>Thuần hóa (chỉ tên)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>Đã thuần hóa (chỉ con có tên)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>Thuần hóa (tất cả)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>Đã thuần hóa (tất cả)</AnimalNameDisplayMode_TameAll>
+
   <!-- Highlight display mode -->
-  <!--EN: Character highlighting-->
-  <!--VI: Đánh dấu nhân vật-->
-  <DotHighlightDisplayMode>TODO</DotHighlightDisplayMode>
-  <!--EN: Highlight hostiles-->
-  <!--VI: Làm nổi bật kẻ thù-->
-  <DotHighlightDisplayMode_HighlightHostiles>TODO</DotHighlightDisplayMode_HighlightHostiles>
-  <!--EN: Highlight all-->
-  <!--VI: Đánh dấu tất cả-->
-  <DotHighlightDisplayMode_HighlightAll>TODO</DotHighlightDisplayMode_HighlightAll>
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>Đánh dấu nhân vật</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>Đánh dấu kẻ địch</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>Đánh dấu tất cả</DotHighlightDisplayMode_HighlightAll> 
+  
   <!-- Highlight style -->
-  <!--EN: Highlight mode-->
-  <!--VI: Chế độ đánh dấu-->
-  <HighlightStyleMode>TODO</HighlightStyleMode>
-  <!--EN: Dots-->
-  <!--VI: Dấu chấm-->
-  <HighlightStyleMode_Dots>TODO</HighlightStyleMode_Dots>
-  <!--EN: Silhouettes-->
-  <!--VI: Bóng-->
-  <HighlightStyleMode_Silhouettes>TODO</HighlightStyleMode_Silhouettes>
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>Kiểu đánh dấu</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>Dấu chấm</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>Đường viền</HighlightStyleMode_Silhouettes> 
+
   <!-- Mood gradient display strength-->
-  <!--EN: Visible mood-->
-  <!--VI: Tâm trạng có thể nhìn thấy-->
-  <VisibleMood>TODO</VisibleMood>
-  <!--EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break.-->
-  <!--VI: Khi bật, hiển thị một chỉ báo trực quan trên chân dung của nhân vật khi họ có nguy cơ bị suy sụp tinh thần.-->
-  <VisibleMoodDesc>TODO</VisibleMoodDesc>
+  <!-- EN: Visible mood -->
+  <VisibleMood>Hiển thị tâm trạng</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>Khi bật, hiển thị chỉ báo trực quan trên chân dung nhân vật khi họ có nguy cơ suy sụp tinh thần.</VisibleMoodDesc>
+  
   <!-- Mech name display mode -->
   <!-- EN: Show player mech names -->
   <ShowMechNames>Hiển thị tên mech của người chơi</ShowMechNames>
   <!-- EN: While drafted -->
-  <MechNameDisplayMode_WhileDrafted>Trong khi phác thảo</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_WhileDrafted>khi chiến đấu</MechNameDisplayMode_WhileDrafted>
   <!-- EN: always -->
-  <MechNameDisplayMode_Always>luôn luôn</MechNameDisplayMode_Always>
+  <MechNameDisplayMode_Always>luôn hiển thị</MechNameDisplayMode_Always>
+
   <!-- Show weapons under portrait mode -->
   <!-- EN: Weapons below portrait -->
-  <ShowWeaponsUnderPortrait>Vũ khí dưới chân dung</ShowWeaponsUnderPortrait>
+  <ShowWeaponsUnderPortrait>Hiển thị vũ khí dưới chân dung</ShowWeaponsUnderPortrait>
   <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
   <ShowWeaponsUnderPortraitTooltip>Hiển thị vũ khí bên dưới chân dung của mỗi người trên thanh thuộc địa ở đầu màn hình</ShowWeaponsUnderPortraitTooltip>
   <!-- EN: always -->
-  <ShowWeapons_Always>luôn luôn</ShowWeapons_Always>
+  <ShowWeapons_Always>luôn hiển thị</ShowWeapons_Always>
   <!-- EN: while drafted -->
-  <ShowWeapons_WhileDrafted>trong khi phác thảo</ShowWeapons_WhileDrafted>
+  <ShowWeapons_WhileDrafted>chỉ khi chiến đấu</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
   <Celsius>Độ C</Celsius>
@@ -248,6 +264,7 @@
   <Fahrenheit>Độ F</Fahrenheit>
   <!-- EN: Kelvin -->
   <Kelvin>Độ K</Kelvin>
+  
   <!-- Direction8Way -->
   <!-- EN: N -->
   <Direction8Way_North_Short>B</Direction8Way_North_Short>
@@ -265,6 +282,7 @@
   <Direction8Way_West_Short>T</Direction8Way_West_Short>
   <!-- EN: NW -->
   <Direction8Way_NorthWest_Short>TB</Direction8Way_NorthWest_Short>
+  
   <!-- Diet category -->
   <!-- EN: Never eats -->
   <DietCategory_NeverEats>Không cần ăn</DietCategory_NeverEats>
@@ -285,67 +303,74 @@
   <!-- EN: D -->
   <DietCategory_Dendrovorous_Short>Gỗ</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>Eg</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>Trứng</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
   <DietCategory_Omnivorous_Short>Tạp</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
   <DietCategory_Carnivorous_Short>Thịt</DietCategory_Carnivorous_Short>
+
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>kĩ năng nấu nướng kém</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>đầu bếp vụng</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>khu vực nấu ăn bẩn</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>khu nấu ăn bẩn</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>thức ăn thối</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>thực phẩm ôi thiu</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>loại thực phẩm nguy hiểm</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>loại thực phẩm không an toàn</FoodPoisonCause_DangerousFoodType>
+
   <!-- Psychic drone level -->
   <!-- EN: none -->
   <PsychicDroneLevel_None>không</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>vừa</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>trung bình</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
   <PsychicDroneLevel_BadLow>thấp</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>hơi thấp</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>trung bình</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>quá thấp</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>cao</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>cự thấp</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>cực cao</PsychicDroneLevel_BadExtreme>
+  
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>Không bao giờ</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Không dùng</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>Các mối đe dọa lớn</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Đe dọa lớn</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>Bất kỳ mối đe dọa</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Mọi mối đe dọa</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>Bất kỳ biến động</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Mọi thư báo</AutomaticPauseMode_AnyLetter>
+
   <!-- Pain category -->
   <!-- EN: itchy -->
   <PainCategory_LowPain>ngứa</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>đau</PainCategory_MediumPain>
+  <PainCategory_MediumPain>nhức</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>đau đớn</PainCategory_HighPain>
+  <PainCategory_HighPain>đau</PainCategory_HighPain>
+  
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>phe nhà</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>phe chính</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>phe máy chủ từ xa</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>phe từ xa</ExtraFactionType_HostFaction>
   <!-- EN: group -->
   <ExtraFactionType_MiniFaction>nhóm</ExtraFactionType_MiniFaction>
+
   <!-- DrugCategory -->
   <!-- EN: drug category -->
-  <DrugCategory>danh mục thuốc</DrugCategory>
+  <DrugCategory>nhóm chất kích thích</DrugCategory>
   <!-- EN: none -->
   <DrugCategory_None>không</DrugCategory_None>
   <!-- EN: medical -->
-  <DrugCategory_Medical>thuốc</DrugCategory_Medical>
+  <DrugCategory_Medical>dùng trong y tế</DrugCategory_Medical>
   <!-- EN: social -->
   <DrugCategory_Social>giải trí</DrugCategory_Social>
   <!-- EN: hard -->
-  <DrugCategory_Hard>khó khăn</DrugCategory_Hard>
+  <DrugCategory_Hard>mạnh</DrugCategory_Hard>
   <!-- EN: any -->
-  <DrugCategory_Any>không tí nào</DrugCategory_Any>
+  <DrugCategory_Any>tất cả</DrugCategory_Any>
+  
 </LanguageData>

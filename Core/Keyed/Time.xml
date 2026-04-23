@@ -20,7 +20,7 @@
   <!-- EN: days -->
   <DaysLower> ngày</DaysLower>
   <!-- EN: hours -->
-  <HoursLower> giờ</HoursLower>
+  <HoursLower> giờ</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower> giây</SecondsLower>
 
@@ -33,9 +33,9 @@
   <!-- EN: winter -->
   <SeasonWinter>mùa đông</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>mùa hạ vĩnh cữu</SeasonPermanentSummer>
+  <SeasonPermanentSummer>mùa hạ vĩnh cửu</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>mùa đông vĩnh cữu</SeasonPermanentWinter>
+  <SeasonPermanentWinter>mùa đông vĩnh cửu</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
   <QuadrumAprimay>Quý I</QuadrumAprimay>
@@ -56,11 +56,11 @@
   <QuadrumDecembary_Short>Q4</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
-  <Born>Sinh: {0}</Born>
+  <Born>Ngày sinh: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Tuổi niên đại: {0} năm, {1} quý, {2} ngày</AgeChronological>
+  <AgeChronological>Tuổi theo lịch: {0} năm, {1} quý, {2} ngày</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Tuổi sinh lý: {0} năm, {1} quý, {2} ngày</AgeBiological>
+  <AgeBiological>Tuổi sinh học: {0} năm, {1} quý, {2} ngày</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
@@ -88,10 +88,10 @@
   <!-- EN: Started -->
   <Started>Bắt đầu</Started>
   <!-- EN: Lasted -->
-  <Lasted>Tồn tại</Lasted>
+  <Lasted>Kéo dài</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>xảy ra {0} trước</OccurredTimeAgo>
+  <OccurredTimeAgo>xảy ra cách đây {0}</OccurredTimeAgo>
   <!-- EN: {0} ago -->
-  <TimeAgo>{0} trước</TimeAgo>
+  <TimeAgo>cách đây {0}</TimeAgo>
   
 </LanguageData>

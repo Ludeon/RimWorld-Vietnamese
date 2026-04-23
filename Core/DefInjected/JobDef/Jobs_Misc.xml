@@ -1,195 +1,274 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: applying TargetB. -->
-  <ApplyTechprint.reportString>áp dụng TargetB.</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>đang áp dụng TargetB.</ApplyTechprint.reportString>
+  
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>tấn công cận chiến TargetA.</AttackMelee.reportString>
+  <AttackMelee.reportString>đang tấn công cận chiến TargetA.</AttackMelee.reportString>
+  
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>tấn công TargetA.</AttackStatic.reportString>
+  <AttackStatic.reportString>đang tấn công TargetA.</AttackStatic.reportString>
+  
   <!-- EN: beating fire out. -->
-  <BeatFire.reportString>dập lửa.</BeatFire.reportString>
+  <BeatFire.reportString>đang dập lửa.</BeatFire.reportString>
+  
   <!-- EN: Doing something. -->
-  <Carried.reportString>Đang làm gì đó.</Carried.reportString>
+  <Carried.reportString>đang hành động.</Carried.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastAbilityOnThing.reportString>Đang làm gì đó.</CastAbilityOnThing.reportString>
+  <CastAbilityOnThing.reportString>đang hành động.</CastAbilityOnThing.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingMelee.reportString>Đang làm gì đó.</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnThingMelee.reportString>đang hành động.</CastAbilityOnThingMelee.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingUninterruptible.reportString>Đang làm gì đó.</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>đang hành động.</CastAbilityOnThingUninterruptible.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastAbilityOnWorldTile.reportString>Đang làm gì đó.</CastAbilityOnWorldTile.reportString>
+  <CastAbilityOnWorldTile.reportString>đang hành động.</CastAbilityOnWorldTile.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>Đang làm gì đó.</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>đang hành động.</CastAbilityTouch.reportString>
+  
   <!-- EN: Doing something. -->
-  <CastJump.reportString>Đang làm gì đó.</CastJump.reportString>
+  <CastJump.reportString>đang hành động.</CastJump.reportString>
+  
   <!-- EN: clearing snow. -->
-  <ClearSnow.reportString>dọn tuyết.</ClearSnow.reportString>
+  <ClearSnow.reportString>đang dọn tuyết.</ClearSnow.reportString>
+  
   <!-- EN: delivering TargetA. -->
-  <DeliverToBed.reportString>phân phối TargetA.</DeliverToBed.reportString>
+  <DeliverToBed.reportString>đang đưa TargetA đến giường.</DeliverToBed.reportString>
+  
   <!-- EN: delivering TargetA. -->
-  <DeliverToCell.reportString>phân phối TargetA</DeliverToCell.reportString>
-  <!--EN: dismissing trader.-->
-  <!--VI: sa thải nhà giao dịch.-->
-  <DismissTrader.reportString>TODO</DismissTrader.reportString>
+  <DeliverToCell.reportString>đang đưa TargetA vào ô giam.</DeliverToCell.reportString>
+  
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>đang cho thương nhân rời đi.</DismissTrader.reportString>
+  
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>vứt bỏ TargetA.</DropEquipment.reportString>
-  <!--EN: Ejecting fuel from TargetA.-->
-  <!--VI: Đẩy nhiên liệu ra khỏi TargetA.-->
-  <EjectFuel.reportString>TODO</EjectFuel.reportString>
+  <DropEquipment.reportString>đang bỏ TargetA xuống.</DropEquipment.reportString>
+  
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>đang lấy nhiên liệu ra khỏi TargetA.</EjectFuel.reportString>
+  
   <!-- EN: emptying TargetA. -->
-  <EmptyThingContainer.reportString>làm trống TargetA.</EmptyThingContainer.reportString>
+  <EmptyThingContainer.reportString>đang làm trống TargetA.</EmptyThingContainer.reportString>
+  
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>Vào quan tài ngủ đông.</EnterCryptosleepCasket.reportString>
-  <!--EN: entering TargetA.-->
-  <!--VI: vào TargetA.-->
-  <EnterPortal.reportString>TODO</EnterPortal.reportString>
+  <EnterCryptosleepCasket.reportString>đang vào buồng ngủ đông.</EnterCryptosleepCasket.reportString>
+  
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>vào TargetA.</EnterTransporter.reportString>
+  <EnterPortal.reportString>đang bước vào TargetA.</EnterPortal.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>đang lên TargetA.</EnterTransporter.reportString>
+  
   <!-- EN: equipping TargetA. -->
-  <Equip.reportString>trang bị TargetA.</Equip.reportString>
-  <!--EN: extinguishing fires nearby.-->
-  <!--VI: dập tắt đám cháy gần đó.-->
-  <ExtinguishFiresNearby.reportString>TODO</ExtinguishFiresNearby.reportString>
+  <Equip.reportString>đang trang bị TargetA.</Equip.reportString>
+  
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>đang dập lửa xung quanh.</ExtinguishFiresNearby.reportString>
+  
   <!-- EN: extinguishing self. -->
-  <ExtinguishSelf.reportString>tự dập tắt.</ExtinguishSelf.reportString>
+  <ExtinguishSelf.reportString>đang tự dập lửa.</ExtinguishSelf.reportString>
+  
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>đổ đầy TargetA.</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>đang đổ đầy TargetA.</FillFermentingBarrel.reportString>
+  
   <!-- EN: fleeing. -->
-  <Flee.reportString>tẩu thoát.</Flee.reportString>
+  <Flee.reportString>đang chạy trốn.</Flee.reportString>
+  
   <!-- EN: fleeing. -->
-  <FleeAndCower.reportString>tẩu thoát.</FleeAndCower.reportString>
+  <FleeAndCower.reportString>đang chạy trốn.</FleeAndCower.reportString>
+  
   <!-- EN: flicking switch. -->
-  <Flick.reportString>bật công tắc.</Flick.reportString>
+  <Flick.reportString>đang bật công tắc.</Flick.reportString>
+  
   <!-- EN: following TargetA. -->
-  <Follow.reportString>đi theo TargetA.</Follow.reportString>
+  <Follow.reportString>đang đi theo TargetA.</Follow.reportString>
+  
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>đi theo TargetA.</FollowClose.reportString>
+  <FollowClose.reportString>đang bám theo TargetA.</FollowClose.reportString>
+  
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>đi theo TargetA.</FollowRoper.reportString>
-  <!--EN: making TargetA wear TargetB.-->
-  <!--VI: làm cho TargetA đeo TargetB.-->
-  <ForceTargetWear.reportString>TODO</ForceTargetWear.reportString>
+  <FollowRoper.reportString>đang đi theo TargetA.</FollowRoper.reportString>
+  
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>đang bắt TargetA mặc TargetB.</ForceTargetWear.reportString>
+  
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>lấy TargetA.</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>đang chất TargetA lên thú chở hàng.</GiveToPackAnimal.reportString>
+  
   <!-- EN: moving. -->
-  <Goto.reportString>di chuyển.</Goto.reportString>
+  <Goto.reportString>đang di chuyển.</Goto.reportString>
+  
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>di chuyển.</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>đang di chuyển.</GotoMindControlled.reportString>
+  
   <!-- EN: seeking safe temperature. -->
-  <GotoSafeTemperature.reportString>tìm kiếm nhiệt độ an toàn.</GotoSafeTemperature.reportString>
+  <GotoSafeTemperature.reportString>đang tìm nơi có nhiệt độ an toàn.</GotoSafeTemperature.reportString>
+  
   <!-- EN: wandering. -->
-  <GotoWander.reportString>lang thang.</GotoWander.reportString>
+  <GotoWander.reportString>đang đi lang thang.</GotoWander.reportString>
+  
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>vận chuyển TargetA.</HaulCorpseToPublicPlace.reportString>
-  <!--EN: hauling TargetA.-->
-  <!--VI: kéo TargetA.-->
-  <HaulToPortal.reportString>TODO</HaulToPortal.reportString>
+  <HaulCorpseToPublicPlace.reportString>đang vận chuyển TargetA.</HaulCorpseToPublicPlace.reportString>
+  
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>vận chuyển TargetA.</HaulToTransporter.reportString>
+  <HaulToPortal.reportString>đang vận chuyển TargetA.</HaulToPortal.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>đang vận chuyển TargetA.</HaulToTransporter.reportString>
+  
   <!-- EN: idling. -->
-  <IdleWhileDespawned.reportString>tạm thời.</IdleWhileDespawned.reportString>
+  <IdleWhileDespawned.reportString>đang nhàn rỗi.</IdleWhileDespawned.reportString>
+  
   <!-- EN: igniting TargetA. -->
-  <Ignite.reportString>đốt cháy TargetA.</Ignite.reportString>
+  <Ignite.reportString>đang châm lửa TargetA.</Ignite.reportString>
+  
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>để TargetA trốn thoát.</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>đang xúi TargetA vượt ngục.</InducePrisonerToEscape.reportString>
+  
   <!-- EN: consuming TargetA. -->
-  <Ingest.reportString>tiêu thụ TargetA.</Ingest.reportString>
-  <!--EN: installing TargetB in TargetA.-->
-  <!--VI: cài đặt TargetB trong TargetA.-->
-  <InstallImplant.reportString>TODO</InstallImplant.reportString>
+  <Ingest.reportString>đang dùng TargetA.</Ingest.reportString>
+  
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>đang cấy TargetB vào TargetA.</InstallImplant.reportString>
+  
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>xúc phạm TargetA.</Insult.reportString>
-  <!--EN: activating TargetA.-->
-  <!--VI: kích hoạt TargetA.-->
-  <InteractThing.reportString>TODO</InteractThing.reportString>
+  <Insult.reportString>đang xúc phạm TargetA.</Insult.reportString>
+  
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>đang kích hoạt TargetA.</InteractThing.reportString>
+  
   <!-- EN: lying down. -->
-  <LayDown.reportString>nằm xuống.</LayDown.reportString>
+  <LayDown.reportString>đang nằm.</LayDown.reportString>
+  
   <!-- EN: lying down. -->
-  <LayDownAwake.reportString>nằm xuống.</LayDownAwake.reportString>
+  <LayDownAwake.reportString>đang nằm.</LayDownAwake.reportString>
+  
   <!-- EN: lying down. -->
-  <LayDownResting.reportString>nằm xuống.</LayDownResting.reportString>
+  <LayDownResting.reportString>đang nằm nghỉ.</LayDownResting.reportString>
+  
   <!-- EN: lovin'. -->
-  <Lovin.reportString>yêu.</Lovin.reportString>
+  <Lovin.reportString>đang ân ái.</Lovin.reportString>
+  
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>tháp pháo hoạt động.</ManTurret.reportString>
+  <ManTurret.reportString>đang vận hành ụ súng.</ManTurret.reportString>
+  
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>giúp TargetA.</OfferHelp.reportString>
+  <OfferHelp.reportString>đang giúp TargetA.</OfferHelp.reportString>
+  
   <!-- EN: opening TargetA. -->
-  <Open.reportString>mở TargetA.</Open.reportString>
+  <Open.reportString>đang mở TargetA.</Open.reportString>
+  
   <!-- EN: picking up TargetA. -->
-  <PickupToHold.reportString>nhặt TargetA.</PickupToHold.reportString>
-  <!--EN: reading TargetA-->
-  <!--VI: đọc Mục tiêuA-->
-  <Reading.reportString>TODO</Reading.reportString>
+  <PickupToHold.reportString>đang nhặt TargetA.</PickupToHold.reportString>
+  
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>đang đọc TargetA.</Reading.reportString>
+  
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>nạp lại TargetA.</RearmTurret.reportString>
+  <RearmTurret.reportString>đang nạp lại TargetA.</RearmTurret.reportString>
+  
   <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>nạp lại TargetA.</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>đang nạp lại TargetA.</RearmTurretAtomic.reportString>
+  
   <!-- EN: refueling TargetA. -->
-  <Refuel.reportString>tiếp nhiên liệu TargetA.</Refuel.reportString>
+  <Refuel.reportString>đang tiếp nhiên liệu cho TargetA.</Refuel.reportString>
+  
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>tiếp nhiên liệu TargetA.</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>đang tiếp nhiên liệu cho TargetA.</RefuelAtomic.reportString>
+  
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>nạp lại TargetA.</Reload.reportString>
+  <Reload.reportString>đang nạp lại TargetA.</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
-  <RemoveApparel.reportString>cởi bỏ TargetA.</RemoveApparel.reportString>
+  <RemoveApparel.reportString>đang cởi TargetA.</RemoveApparel.reportString>
+  
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>khai quật TargetA.</Resurrect.reportString>
+  <Resurrect.reportString>đang hồi sinh TargetA.</Resurrect.reportString>
+  
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>chiến đấu với TargetA.</SocialFight.reportString>
-  <!--EN: staring.-->
-  <!--VI: Staring.-->
-  <StandAndStare.reportString>TODO</StandAndStare.reportString>
+  <SocialFight.reportString>đang đánh nhau với TargetA.</SocialFight.reportString>
+  
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>đang đứng nhìn chằm chằm.</StandAndStare.reportString>
+  
   <!-- EN: stripping TargetA. -->
-  <Strip.reportString>lột TargetA.</Strip.reportString>
+  <Strip.reportString>đang lột đồ TargetA.</Strip.reportString>
+  
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>lấy bia ra từ TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>đang lấy bia ra khỏi TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>lấy TargetA từ kho.</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>đang cất TargetA vào hành trang.</TakeCountToInventory.reportString>
+  
   <!-- EN: grabbing TargetA from TargetB. -->
-  <TakeFromOtherInventory.reportString>lấy TargetA từ TargetB.</TakeFromOtherInventory.reportString>
+  <TakeFromOtherInventory.reportString>đang lấy TargetA từ TargetB.</TakeFromOtherInventory.reportString>
+  
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>lấy TargetA từ kho.</TakeInventory.reportString>
+  <TakeInventory.reportString>đang cất TargetA vào hành trang.</TakeInventory.reportString>
+  
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>giao dịch với TargetA.</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>đang giao dịch với TargetA.</TradeWithPawn.reportString>
+  
   <!-- EN: triggering TargetA. -->
-  <TriggerObject.reportString>kích hoạt tháp chống cháy.</TriggerObject.reportString>
+  <TriggerObject.reportString>đang kích hoạt TargetA.</TriggerObject.reportString>
+  
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>dỡ hàng TargetA.</UnloadInventory.reportString>
+  <UnloadInventory.reportString>đang dỡ TargetA.</UnloadInventory.reportString>
+  
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>dỡ hàng trong kho.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>đang dỡ hàng trong hành trang.</UnloadYourInventory.reportString>
+  
   <!-- EN: activating artifact. -->
-  <UseArtifact.reportString>kích hoạt tạo tác.</UseArtifact.reportString>
+  <UseArtifact.reportString>đang kích hoạt tạo tác.</UseArtifact.reportString>
+  
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>sử dụng TargetA.</UseItem.reportString>
+  <UseItem.reportString>đang dùng TargetA.</UseItem.reportString>
+  
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>sử dụng bộ dẫn truyền thần kinh.</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>đang sử dụng bộ dẫn truyền thần kinh.</UseNeurotrainer.reportString>
+  
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Đang làm gì đó.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>đang hành động.</UseVerbOnThing.reportString>
+  
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>Đang làm gì đó.</UseVerbOnThingStatic.reportString>
-  <!--EN: Doing something.-->
-  <!--VI: Làm một cái gì đó.-->
-  <UseVerbOnThingStaticReserve.reportString>TODO</UseVerbOnThingStaticReserve.reportString>
+  <UseVerbOnThingStatic.reportString>đang hành động.</UseVerbOnThingStatic.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>đang hành động.</UseVerbOnThingStaticReserve.reportString>
+  
   <!-- EN: vomiting. -->
-  <Vomit.reportString>nôn mửa.</Vomit.reportString>
+  <Vomit.reportString>đang nôn.</Vomit.reportString>
+  
   <!-- EN: standing. -->
-  <Wait.reportString>đứng yên.</Wait.reportString>
+  <Wait.reportString>đang đợi.</Wait.reportString>
+  
   <!-- EN: sleeping. -->
   <Wait_Asleep.reportString>đang ngủ.</Wait_Asleep.reportString>
-  <!--EN: sleeping.-->
-  <!--VI: Ngủ.-->
-  <Wait_AsleepDormancy.reportString>TODO</Wait_AsleepDormancy.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>đang ngủ.</Wait_AsleepDormancy.reportString>
+  
   <!-- EN: watching for targets. -->
-  <Wait_Combat.reportString>theo dõi các mục tiêu.</Wait_Combat.reportString>
+  <Wait_Combat.reportString>đang quan sát mục tiêu.</Wait_Combat.reportString>
+  
   <!-- EN: downed. -->
-  <Wait_Downed.reportString>bất tỉnh.</Wait_Downed.reportString>
+  <Wait_Downed.reportString>đã ngã gục.</Wait_Downed.reportString>
+  
   <!-- EN: standing. -->
-  <Wait_MaintainPosture.reportString>đứng.</Wait_MaintainPosture.reportString>
+  <Wait_MaintainPosture.reportString>đang đứng.</Wait_MaintainPosture.reportString>
+  
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>chờ đợi nhiệt độ an toàn.</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>đang chờ ở nơi có nhiệt độ an toàn.</Wait_SafeTemperature.reportString>
+  
   <!-- EN: wandering. -->
-  <Wait_Wander.reportString>lang thang.</Wait_Wander.reportString>
+  <Wait_Wander.reportString>đang đi lang thang.</Wait_Wander.reportString>
+  
   <!-- EN: wearing TargetA. -->
-  <Wear.reportString>mặc TargetA.</Wear.reportString>
+  <Wear.reportString>đang mặc TargetA.</Wear.reportString>
+  
 </LanguageData>
