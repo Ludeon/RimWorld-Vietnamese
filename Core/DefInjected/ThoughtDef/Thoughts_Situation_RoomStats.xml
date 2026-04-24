@@ -6,9 +6,9 @@
   <!-- EN: This hospital is awful. -->
   <HospitalPatientRoomStats.stages.awful_hospital.description>Bệnh viện này khủng khiếp.</HospitalPatientRoomStats.stages.awful_hospital.description>
   <!-- EN: dull hospital -->
-  <HospitalPatientRoomStats.stages.dull_hospital.label>bệnh viện buồn tẻ</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <HospitalPatientRoomStats.stages.dull_hospital.label>bệnh viện tẻ nhạt</HospitalPatientRoomStats.stages.dull_hospital.label>
   <!-- EN: I'm stuck in a dull hospital. -->
-  <HospitalPatientRoomStats.stages.dull_hospital.description>Tôi bị mắc kẹt trong một bệnh viện buồn tẻ.</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <HospitalPatientRoomStats.stages.dull_hospital.description>Tôi bị mắc kẹt trong một bệnh viện tẻ nhạt.</HospitalPatientRoomStats.stages.dull_hospital.description>
   <!-- EN: slightly impressive hospital -->
   <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>bệnh viện hơi ấn tượng</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
   <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
@@ -39,9 +39,9 @@
   <!-- EN: My prison barracks is an awful place. -->
   <PrisonBarracks.stages.awful_barracks.description>Trại tù của tôi là một nơi khủng khiếp.</PrisonBarracks.stages.awful_barracks.description>
   <!-- EN: dull barracks -->
-  <PrisonBarracks.stages.dull_barracks.label>trại tù buồn tẻ</PrisonBarracks.stages.dull_barracks.label>
+  <PrisonBarracks.stages.dull_barracks.label>trại tù tẻ nhạt</PrisonBarracks.stages.dull_barracks.label>
   <!-- EN: I'm living in a dull barracks. -->
-  <PrisonBarracks.stages.dull_barracks.description>Tôi đang sống trong một trại tù buồn tẻ.</PrisonBarracks.stages.dull_barracks.description>
+  <PrisonBarracks.stages.dull_barracks.description>Tôi đang sống trong một trại tù tẻ nhạt.</PrisonBarracks.stages.dull_barracks.description>
   <!-- EN: slightly impressive barracks -->
   <PrisonBarracks.stages.slightly_impressive_barracks.label>trại tù hơi ấn tượng</PrisonBarracks.stages.slightly_impressive_barracks.label>
   <!-- EN: My prison barracks is slightly impressive. -->
@@ -71,6 +71,10 @@
   <PrisonCell.stages.awful_prison_cell.label>nhà tù khủng khiếp</PrisonCell.stages.awful_prison_cell.label>
   <!-- EN: My prison cell is an awful place. -->
   <PrisonCell.stages.awful_prison_cell.description>Phòng giam của tôi là một nơi tồi tệ</PrisonCell.stages.awful_prison_cell.description>
+  <!-- EN: mediocre prison cell -->
+  <PrisonCell.stages.mediocre_prison_cell.label>phòng giam tầm thường</PrisonCell.stages.mediocre_prison_cell.label>
+  <!-- EN: My prison cell is dull. Still, could be worse. -->
+  <PrisonCell.stages.mediocre_prison_cell.description>Phòng giam của tôi thật nhạt nhẽo. Dù sao vẫn có thể tệ hơn.</PrisonCell.stages.mediocre_prison_cell.description>
   <!-- EN: decent prison cell -->
   <PrisonCell.stages.decent_prison_cell.label>nhà tù đàng hoàng</PrisonCell.stages.decent_prison_cell.label>
   <!-- EN: My prison cell is pretty decent. -->

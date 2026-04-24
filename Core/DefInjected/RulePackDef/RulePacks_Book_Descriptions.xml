@@ -208,7 +208,22 @@
     <li>bookType->biography</li>
     <li>bookType->epic poem</li>
   -->
-  <Description_Novel.rulePack.rulesStrings>TODO</Description_Novel.rulePack.rulesStrings>
+  <Description_Novel.rulePack.rulesStrings>
+    <li>desc->Đây là một [bookType] về [subject_primary]. Câu chuyện xoay quanh những lựa chọn khó khăn, các mất mát bất ngờ và những khoảnh khắc hiếm hoi của hy vọng.\n\n[maybe_date]</li>
+    <li>desc->Cuốn [bookType] này dùng [subject_primary] làm trung tâm cho một câu chuyện dài về tham vọng, sợ hãi và lòng trung thành.\n\n[maybe_date]</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Cuốn sách được xuất bản [date_form].</li>
+    <li>maybe_date->Không rõ chính xác cuốn sách được viết vào thời điểm nào.</li>
+    <li>date_form->gần đây</li>
+    <li>date_form->nhiều thế kỷ trước</li>
+    <li>date_form->vào ngày [date]</li>
+    <li>date_form->trong [date_season]</li>
+    <li>bookType->tiểu thuyết</li>
+    <li>bookType->truyện vừa</li>
+    <li>bookType->câu chuyện</li>
+    <li>bookType->tiểu sử</li>
+    <li>bookType->trường ca</li>
+  </Description_Novel.rulePack.rulesStrings>
   
   <!-- EN:
     <li>subject->[subject_primary]</li>
@@ -845,7 +860,11 @@
     <li>date_form->on the [date]</li>
     <li>date_form->in [date_season]</li>
   -->
-  <Description_Schematic.rulePack.rulesStrings>TODO</Description_Schematic.rulePack.rulesStrings>
+  <Description_Schematic.rulePack.rulesStrings>
+    <li>desc->Bản sơ đồ này trình bày cách áp dụng [subject_primary] trong thực tế.\n\nCác hình vẽ, ghi chú và phép đo mô tả vật liệu cần thiết, bố cục đề xuất và những lỗi thường gặp cần tránh.</li>
+    <li>desc->Tài liệu kỹ thuật này tập trung vào [subject_primary].\n\nNó kết hợp bản vẽ chi tiết với các chú thích ngắn gọn, giúp người đọc hiểu được cả nguyên lý lẫn cách triển khai.</li>
+    <li>subject->[subject_primary]</li>
+  </Description_Schematic.rulePack.rulesStrings>
   
   <!-- EN:
     <li>subject->[subject_primary]</li>
@@ -1202,6 +1221,10 @@
     <li>warworld->Cimbria XII</li>
     <li>warworld->Barkitos</li>
   -->
-  <Description_SkillBook.rulePack.rulesStrings>TODO</Description_SkillBook.rulePack.rulesStrings>
+  <Description_SkillBook.rulePack.rulesStrings>
+    <li>desc->Cuốn sách giáo khoa này cung cấp kiến thức thực dụng về [subject_primary].\n\nNội dung đi từ khái niệm cơ bản đến các ví dụ cụ thể, kèm theo những lời khuyên rút ra từ kinh nghiệm thực tế.</li>
+    <li>desc->Đây là một tài liệu học tập về [subject_primary], được viết để người đọc có thể áp dụng ngay.\n\nCác chương trình bày lý thuyết, lỗi thường gặp và những phương pháp luyện tập hiệu quả.</li>
+    <li>subject->[subject_primary]</li>
+  </Description_SkillBook.rulePack.rulesStrings>
   
 </LanguageData>

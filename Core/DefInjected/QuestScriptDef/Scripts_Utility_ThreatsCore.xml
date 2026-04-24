@@ -5,7 +5,7 @@
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
     <rulesStrings>
       <li>root(priority=1,sitePart==ClimateAdjuster)->có một (*Threat)máy điều chỉnh khí hậu(/Threat) ở đó làm thay đổi nhiệt độ khu vực bằng [temperatureOffset]</li>
-      <li>root(priority=1,sitePart==PsychicDroner)->có một (*Threat)máy bay không người lái tâm linh(/Threat) ở đó điều chỉnh giới tính [affectedGender]</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->có một (*Threat)máy gây âm vang tâm linh(/Threat) ở đó được điều chỉnh theo giới tính [affectedGender]</li>
       <li>root(priority=1,sitePart==PsychicSuppressor)->có một (*Threat)cỗ máy ức chế tâm linh(/Threat) ở đó được điều chỉnh theo giới tính [affectedGender]</li>
       <li>root(priority=1,sitePart==WeatherController)->có một (*Threat)máy điều khiển thời tiết(/Threat) ở đó buộc thời tiết trong toàn khu vực thành [weather_label]</li>
       <li>root(priority=1,sitePart==SmokeSpewer)->có một cái (*Threat)máy phun khói(/Threat) ở đó phun khói ra cả một vùng</li>

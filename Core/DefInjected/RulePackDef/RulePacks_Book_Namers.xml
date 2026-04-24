@@ -189,7 +189,22 @@
     <li>story->Volume</li>
     <li>story->Whimsy</li>
   -->
-  <Namer_Novel.rulePack.rulesStrings>TODO</Namer_Novel.rulePack.rulesStrings>
+  <Namer_Novel.rulePack.rulesStrings>
+    <li>title->[story] về [subject_primary]</li>
+    <li>title->[story] của [subject_primary]</li>
+    <li>title->[subject_primary]: [story]</li>
+    <li>title->[adjective] [story]</li>
+    <li>adjective->Bí ẩn</li>
+    <li>adjective->Cuối cùng</li>
+    <li>adjective->Thầm lặng</li>
+    <li>adjective->Xa xôi</li>
+    <li>story->Câu chuyện</li>
+    <li>story->Hồi ký</li>
+    <li>story->Biên niên</li>
+    <li>story->Khúc ca</li>
+    <li>story->Lời chứng</li>
+    <li>story->Bi kịch</li>
+  </Namer_Novel.rulePack.rulesStrings>
   
   <!-- EN:
     <li>title->The Design of [subject_primary]</li>
@@ -318,7 +333,22 @@
     <li>randTheme->rights</li>
     <li>randTheme->ethics</li>
   -->
-  <Namer_Schematic.rulePack.rulesStrings>TODO</Namer_Schematic.rulePack.rulesStrings>
+  <Namer_Schematic.rulePack.rulesStrings>
+    <li>title->Thiết kế [subject_primary]</li>
+    <li>title->Ghi chú về [subject_primary]</li>
+    <li>title->Đột phá trong [subject_primary]</li>
+    <li>title->Sơ đồ [subject_primary]</li>
+    <li>title->[subject_primary]: [randNoun] [randAdjective]</li>
+    <li>randNoun->Bản thiết kế</li>
+    <li>randNoun->Ghi chú kỹ thuật</li>
+    <li>randNoun->Sổ tay</li>
+    <li>randAdjective->tiên tiến</li>
+    <li>randAdjective->thực dụng</li>
+    <li>randAdjective->thử nghiệm</li>
+    <li>randTheme->kỹ thuật</li>
+    <li>randTheme->sinh tồn</li>
+    <li>randTheme->đạo đức</li>
+  </Namer_Schematic.rulePack.rulesStrings>
   
   <!-- EN:
     <li>title->[titleBasic]</li>
@@ -469,6 +499,21 @@
     <li>randTheme->self-improvement</li>
     <li>randTheme->understanding</li>
   -->
-  <Namer_TextBook.rulePack.rulesStrings>TODO</Namer_TextBook.rulePack.rulesStrings>
+  <Namer_TextBook.rulePack.rulesStrings>
+    <li>title->Nhập môn [subject_primary]</li>
+    <li>title->Hiểu về [subject_primary]</li>
+    <li>title->Sổ tay [subject_primary]</li>
+    <li>title->[subject_primary] căn bản</li>
+    <li>title->[randAdjective] [randNoun] về [subject_primary]</li>
+    <li>randNoun->Sách giáo khoa</li>
+    <li>randNoun->Sổ tay</li>
+    <li>randNoun->Hướng dẫn</li>
+    <li>randAdjective->Cơ bản</li>
+    <li>randAdjective->Hiệu quả</li>
+    <li>randAdjective->Thực dụng</li>
+    <li>randTheme->kiến thức</li>
+    <li>randTheme->tự cải thiện</li>
+    <li>randTheme->hiểu biết</li>
+  </Namer_TextBook.rulePack.rulesStrings>
   
 </LanguageData>

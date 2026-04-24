@@ -8,7 +8,7 @@
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} bị điên</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>Một số loại xung thần kinh đã quét qua khu vực này. Cư dân của bạn vẫn ổn, nhưng...\n\ncó vẻ như nhiều con {0} ở trong vùng đã bị điên.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Một số loại xung tâm linh đã quét qua khu vực này. Cư dân của bạn vẫn ổn, nhưng...\n\ncó vẻ như nhiều con {0} ở trong vùng đã bị điên.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>Bệnh thực vật: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
@@ -45,7 +45,7 @@
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <LetterLabelWandererJoins>Người định cư mới: {PAWN_nameDef}</LetterLabelWandererJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
-  <LetterWandererJoins>Một {PAWN_title} có tên {PAWN_nameDef} đã đến và muốn tham gia thuộc địa.\n\n[PAWN_pronoun] sẵn sàng đóng góp, nhưng sẽ không tự nguyện rời đi và tuyên bố rằng không còn nơi nào khác để đi. Bạn có thể chọn chuyển sang {PAWN_objective } xuống và gửi {PAWN_objective} đi. Tuy nhiên, những người thực dân của bạn sẽ bị quấy rầy khi đưa ai đó có nhu cầu đi.</LetterWandererJoins>
+  <LetterWandererJoins>Một {PAWN_title} có tên {PAWN_nameDef} đã đến và muốn tham gia thuộc địa.\n\n[PAWN_pronoun] sẵn sàng đóng góp, nhưng sẽ không tự nguyện rời đi và tuyên bố rằng không còn nơi nào khác để đi. Bạn có thể chọn chuyển sang {PAWN_objective } xuống và gửi {PAWN_objective} đi. Tuy nhiên, những cư dân của bạn sẽ bị quấy rầy khi đưa ai đó có nhu cầu đi.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Thùng hàng bị rơi</LetterLabelCargoPodCrash>
@@ -103,7 +103,7 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Cấu trúc {SOURCE_label} đã phát ra một xung thần kinh khiến những con vật gần đó phát điên.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>Cấu trúc {SOURCE_label} đã phát ra một xung tâm linh khiến những con vật gần đó phát điên.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>Phần tàu bị rơi đã phát ra một xung tâm linh tập trung khiến cư dân {0} điên loạn.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
@@ -113,11 +113,11 @@
   <!-- EN: Opened {0} days ago -->
   <OpenedDaysAgo>Đã mở {0} ngày trước</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>Cấp độ xung thần kinh: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Cường độ âm vang tâm linh: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>Xung thần kinh tăng cường</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Âm vang tâm linh mạnh lên</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Phần tàu bị rơi hiện đang phát ra một loại xung thần kinh mạnh hơn. Mỗi {0} con người trong khu vực bây giờ cảm thấy bối rối, kinh hoàng và hoang tưởng hơn.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Phần tàu bị rơi hiện đang phát ra một âm vang tâm linh mạnh hơn. Mọi người dạng người thuộc giới tính {0} trong khu vực giờ cảm thấy bất an, kinh hãi và hoang tưởng hơn.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -159,7 +159,7 @@
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
   <LetterTraderCaravanArrival>Một đoàn lữ hành từ {0} đang đến gần. Họ là một {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>Họ sẽ quanh quẩn ở thuộc địa một thời gian trước khi rời đi. Bạn có thể tấn công họ - nhưng điều này sẽ chọc giận phe nhóm của họ!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Họ sẽ quanh quẩn ở thuộc địa một thời gian trước khi rời đi. Bạn có thể tấn công họ - nhưng điều này sẽ chọc giận phe của họ!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
@@ -193,7 +193,7 @@
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>không có thành viên đoàn lữ hành nào có khả năng giao dịch</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>cần một nhà giao dịch có tiêu đề {0} từ {1_name}</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>cần một nhà giao dịch có tước hiệu {0} từ {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
