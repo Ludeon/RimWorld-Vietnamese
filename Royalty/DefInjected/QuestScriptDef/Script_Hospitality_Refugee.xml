@@ -1,6 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--EN: <li>lastOrNot(lodgerCount==1)-></li>
+  
+  <!-- EN:
+    <li>lastOrNot(lodgerCount==1)-></li>
     <li>lastOrNot(lodgerCount>=2)->last</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
@@ -57,8 +59,10 @@
     <li>areIs(lodgerCount==1)->is</li>
     <li>areIs(lodgerCount>=2)->are</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] leaving</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>-->
-  <!--VI: <li>lastOrNot(lodgerCount==1)-></li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</li>
+  -->
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lastOrNot(lodgerCount==1)-></li>
     <li>lastOrNot(lodgerCount>=2)->last</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
@@ -115,14 +119,18 @@
     <li>areIs(lodgerCount==1)->is</li>
     <li>areIs(lodgerCount>=2)->are</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] rời đi</li>
-    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} cảm ơn bạn đã cho phép {FACTION_leaderObjective} ở lại [map_definite] cho những [questDurationTicks_duration] này. {FACTION_leaderPronoun} bây giờ đang tiếp tục với {FACTION_leaderPossessive} người.\n\n{FACTION_leaderNameDef} nói {FACTION_leaderPronoun} sẽ không quên những gì bạn đã làm.</li>-->
-  <Hospitality_Refugee.questContentRules.rulesStrings>TODO</Hospitality_Refugee.questContentRules.rulesStrings>
-  <!--EN: <li>lodgersLabel->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>-->
-  <!--VI: lưu <li>trúNhãn->người tị nạn</li>
-    người <li>lưu trúNhãnSố nhiều->người tị nạn</li>-->
-  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
-  <!--EN: <li>offer(lodgerCount==1)->offers</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} cảm ơn bạn đã cho phép {FACTION_leaderObjective} ở lại [map_definite] cho những [questDurationTicks_duration] này. {FACTION_leaderPronoun} bây giờ đang tiếp tục với {FACTION_leaderPossessive} người.\n\n{FACTION_leaderNameDef} nói {FACTION_leaderPronoun} sẽ không quên những gì bạn đã làm.</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>lodgersLabel->refugee</li>
+    <li>lodgersLabelPlural->refugees</li>
+  -->
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->người tị nạn</li>
+    <li>lodgersLabelPlural->người tị nạn</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>offer(lodgerCount==1)->offers</li>
     <li>offer(lodgerCount>=2)->offer</li>
     <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
     <li>lodgersPronoun(lodgerCount>=2)->they</li>
@@ -156,17 +164,19 @@
     <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>
     <li>joinInfo(lodgerCount>=2)->If you make them happy, some of them may offer to join you.</li>
     <li>travelerInfo(lodgerCount==1)->This [faction_pawnSingular] is</li>
-    <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>-->
-  <!--VI: <li>offer(lodgerCount==1)->offers</li>
+    <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
+  -->
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)->offers</li>
     <li>offer(lodgerCount>=2)->offer</li>
-    cư <li>trúĐại từ(lodgerCount==1)->[asker_pronoun]</li>
-    <li>lodgersĐại từ(lodgerCount>=2)->they</li>
-    <li>lodgersGiới từ(lodgerCount==1)->[asker_objective]self</li>
-    <li>lodgersPresigns(lodgerCount>=2)->chính họ</li>
+    <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount>=2)->they</li>
+    <li>lodgersPreposition(lodgerCount==1)->[asker_objective]self</li>
+    <li>lodgersPreposition(lodgerCount>=2)->chính họ</li>
     <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
     <li>lodgersObjective(lodgerCount>=2)->họ</li>
-    <li>lodgersSở hữu(lodgerCount==1)->[asker_possessive]</li>
-    <li>lodgersPossessive(lodgerCount>=2)-></li>
+    <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount>=2)->their</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] cầu xin bạn cho phép ở lại [map_definite] trong [questDurationTicks_duration] để [lodgersPronoun] có thể nghỉ ngơi và tập hợp lại.\n\nĐổi lại, [lodgersPronoun] [đề nghị] làm việc và chiến đấu miễn phí trong thời gian đó.\n\n[joinrInfo] [lodgersPronoun] cũng có thể thưởng cho bạn sau này vì đã giúp đỡ [lodgersObjective] - nhưng không có cách nào để biết ý định thực sự của [lodgersPossessive].\n\n[travelerInfo] không thuộc bất kỳ phe phái nào. Nếu muốn, bạn có thể chọn giết, bắt, bán hoặc thu hoạch [lodgersObjective], mà không có hậu quả ngoại giao.</li>
@@ -191,9 +201,10 @@
     <li>joinInfo(lodgerCount==1)->Nếu bạn làm cho [asker_objective] hạnh phúc, [asker_pronoun] có thể đề nghị tham gia cùng bạn.</li>
     <li>joinInfo(lodgerCount>=2)->Nếu bạn làm cho họ hạnh phúc, một số người trong số họ có thể đề nghị tham gia cùng bạn.</li>
     <li>travelerInfo(lodgerCount==1)->[faction_pawnSingular] này là</li>
-    <li>travelerInfo(lodgerCount>=2)->Những [faction_pawnsPlural] này là</li>-->
-  <Hospitality_Refugee.questDescriptionRules.rulesStrings>TODO</Hospitality_Refugee.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
+    <li>travelerInfo(lodgerCount>=2)->Những [faction_pawnsPlural] này là</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
     <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
     <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
     <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
@@ -222,14 +233,16 @@
     <li>lodgerPlural->drifters</li>
     <li>lodgerPlural->survivors</li>
     <li>lodgerPlural->nomads</li>
-    <li>lodgerPlural->vagabonds</li>-->
-  <!--VI: <li>questName(lodgerCount==1)->[asker_nameDef] [lodgerAdj]</li>
+    <li>lodgerPlural->vagabonds</li>
+  -->
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)->[asker_nameDef] [lodgerAdj]</li>
     <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
     <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
-    <li>questName(lodgerCount>=2)-[lodgerAdj] [lodgerPlural] của >[asker_nameDef]</li>
-    <li>questName(lodgerCount>=2)-[lodgerPlural] của >[asker_nameDef]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerPlural]</li>
     <li>athe->a</li>
-    <li>athe-></li>
+    <li>athe->the</li>
     <li>lodgerAdj->tired</li>
     <li>lodgerAdj->mất</li>
     <li>lodgerAdj->nghèo khó</li>
@@ -241,20 +254,22 @@
     <li>lodgerAdj->unknown</li>
     <li>lodgerAdj->forlorn</li>
     <li>lodgerAdj->bị bỏ rơi</li>
-    nhà <li>trọKhách du lịch > đơn</li>
-    nhà <li>trọNgười tị nạn đơn ></li>
-    nhà <li>trọNgười > một người trôi dạt</li>
-    người <li>ở trọNgười sống sót > đơn</li>
-    cư <li>trúNgười du mục đơn ></li>
-    lưu <li>trúĐộc > lang thang</li>
-    nhà <li>trọSố nhiều-> du lịch</li>
-    người <li>ở trọSố nhiều->người tị nạn</li>
-    <li>lodgerSố nhiều > trôi dạt</li>
-    cư <li>trúSố nhiều->người sống sót</li>
-    <li>lodgerSố nhiều-> du mục</li>
-    <li>lodgerSố nhiều-> lang thang</li>-->
-  <Hospitality_Refugee.questNameRules.rulesStrings>TODO</Hospitality_Refugee.questNameRules.rulesStrings>
-  <!--EN: <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgerSingle->traveler</li>
+    <li>lodgerSingle->refugee</li>
+    <li>lodgerSingle->drifter</li>
+    <li>lodgerSingle->survivor</li>
+    <li>lodgerSingle->nomad</li>
+    <li>lodgerSingle->vagabond</li>
+    <li>lodgerPlural-> du lịch</li>
+    <li>lodgerPlural->người tị nạn</li>
+    <li>lodgerPlural->drifters</li>
+    <li>lodgerPlural->người sống sót</li>
+    <li>lodgerPlural-> du mục</li>
+    <li>lodgerPlural-> lang thang</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>betrayalOfferRewardLetterLabel->Betrayal reward: [factionOpponent_nameDef]</li>
     <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] promised you a reward if you killed [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] has heard news this has been done and is sending you the following via drop pod (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
@@ -267,28 +282,34 @@
     <li>otherLodgers(lodgerCount>=3)->and several [lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
-    <li>questOver->The quest '[resolvedQuestName]' is over.</li>-->
-  <!--VI: <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+  -->
+  <RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>betrayalOfferRewardLetterLabel->Phần thưởng phản bội: [factionOpponent_nameDef]</li>
-    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] hứa với bạn một phần thưởng nếu bạn giết [asker_nameDef] [thành viên khác]. [factionOpponent_pronoun] đã nghe tin điều này đã được thực hiện và gửi cho bạn những thông tin sau đây qua drop pod (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[phần thưởng phản bội].\n\n[nhiệm vụ kết thúc]</li>
+    <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] hứa với bạn một phần thưởng nếu bạn giết [asker_nameDef] [thành viên khác]. [factionOpponent_pronoun] đã nghe tin điều này đã được thực hiện và gửi cho bạn những thông tin sau đây qua kén vận chuyển (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[phần thưởng phản bội].\n\n[nhiệm vụ kết thúc]</li>
     <li>betrayalOfferFailedBecauseRecruitedLetterLabel->Phần thưởng phản bội đã rút lại</li>
     <li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] đã biết được rằng tất cả các thành viên còn sống sót của [faction_name] đã gia nhập phe của bạn! [factionOpponent_nameDef] muốn tất cả các thành viên của [faction_name] chết và do đó đã rút lại lời đề nghị [factionOpponent_possessive].</li>
     <li>betrayalOfferFailedLetterLabel->Phần thưởng phản bội đã thu hồi</li>
     <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] đã biết được rằng một trong những thành viên của [faction_name] không còn ở [map_definite]. [factionOpponent_nameDef] muốn tất cả các thành viên của [faction_name] chết và do đó đã rút lại lời đề nghị [factionOpponent_possessive].</li>
-    <li>khácNgười trọ(LodgerCount==1)-></li>
-    <li>khácLodgers(lodgerCount==2)->và một [lodgersLabel]</li> khác
+    <li>otherLodgers(lodgerCount==1)-></li>
+    <li>otherLodgers(lodgerCount==2)->và một [lodgersLabel]</li>
     <li>otherLodgers(lodgerCount>=3)->và một số [lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> và tất cả các thành viên khác của [faction_name]</li>
-    <li>questOver->Nhiệm vụ '[resolvedQuestName]' đã kết thúc.</li>-->
-  <RefugeeBetrayal.questContentRules.rulesStrings>TODO</RefugeeBetrayal.questContentRules.rulesStrings>
-  <!--EN: <li>lodgersLabel->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>-->
-  <!--VI: lưu <li>trúNhãn->người tị nạn</li>
-    người <li>lưu trúNhãnSố nhiều->người tị nạn</li>-->
-  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>TODO</RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
-  <!--EN: <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>questOver->Nhiệm vụ '[resolvedQuestName]' đã kết thúc.</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>lodgersLabel->refugee</li>
+    <li>lodgersLabelPlural->refugees</li>
+  -->
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->người tị nạn</li>
+    <li>lodgersLabelPlural->người tị nạn</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
     <li>otherLodgers(lodgerCount==1)-></li>
@@ -297,30 +318,46 @@
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
     <li>areIs(lodgerCount==1)->is</li>
-    <li>areIs(lodgerCount>=2)->are</li>-->
-  <!--VI: <li>questDescription->[factionOpponent_nameDef], một [factionOpponent_faction_pawnSingular] của [factionOpponent_faction_name], đã biết rằng [asker_nameDef] [otherLodgers] [are] đang được lưu trữ tại [map_definite]. [factionOpponent_pronoun] là kẻ thù với [asker_nameDef] và muốn thấy [asker_objective] chết.\n\n[factionOpponent_pronoun] sẽ gửi cho bạn phần thưởng sau nếu bạn giết tất cả các thành viên của [faction_name] (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[phần thưởng phản bội]</li>
+    <li>areIs(lodgerCount>=2)->are</li>
+  -->
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>questDescription->[factionOpponent_nameDef], một [factionOpponent_faction_pawnSingular] của [factionOpponent_faction_name], đã biết rằng [asker_nameDef] [otherLodgers] [are] đang được lưu trữ tại [map_definite]. [factionOpponent_pronoun] là kẻ thù với [asker_nameDef] và muốn thấy [asker_objective] chết.\n\n[factionOpponent_pronoun] sẽ gửi cho bạn phần thưởng sau nếu bạn giết tất cả các thành viên của [faction_name] (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[phần thưởng phản bội]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
-    <li>khácNgười trọ(LodgerCount==1)-></li>
-    <li>khácLodgers(lodgerCount==2)->và một [lodgersLabel]</li> khác
+    <li>otherLodgers(lodgerCount==1)-></li>
+    <li>otherLodgers(lodgerCount==2)->và một [lodgersLabel]</li>
     <li>otherLodgers(lodgerCount>=3)->và một số [lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> và tất cả các thành viên khác của [faction_name]</li>
     <li>areIs(lodgerCount==1)->is</li>
-    <li>areIs(lodgerCount>=2)->are</li>-->
-  <RefugeeBetrayal.questDescriptionRules.rulesStrings>TODO</RefugeeBetrayal.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>-->
-  <!--VI: <li>nhiệm vụTên->Đề nghị phản bội: [factionOpponent_nameDef]</li>-->
-  <RefugeeBetrayal.questNameRules.rulesStrings>TODO</RefugeeBetrayal.questNameRules.rulesStrings>
-  <!--EN: <li>rewardLetterLabel->Hospitality reward</li>
-    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you helped [rewardGiver_objective] in desperate circumstances.\n\nSince then, [rewardGiver_pronoun] has gotten back on [rewardGiver_possessive] feet, and now [rewardGiver_pronoun] wants to reward you properly for your help. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>-->
-  <!--VI: <li>rewardLetterLabel->Phần thưởng khách sạn</li>
-    <li>rewardLetterText->[rewardGiver_nameDef] đã liên hệ với bạn. [rewardDelayTicks_duration] trước, bạn đã giúp đỡ [rewardGiver_objective] trong hoàn cảnh tuyệt vọng.\n\nKể từ đó, [rewardGiver_pronoun] đã đứng vững trở lại [rewardGiver_possessive], và bây giờ [rewardGiver_pronoun] muốn thưởng xứng đáng cho sự giúp đỡ của bạn. [rewardGiver_pronoun] đang gửi cho bạn những thông tin sau qua drop pod:\n\n[listOfRewards]</li>-->
-  <RefugeeDelayedReward.questContentRules.rulesStrings>TODO</RefugeeDelayedReward.questContentRules.rulesStrings>
-  <!--EN: <li>questDescription->a delayed reward for refugee quest</li>-->
-  <!--VI: <li>nhiệm vụMô tả->phần thưởng bị trì hoãn cho nhiệm vụ tị nạn</li>-->
-  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>TODO</RefugeeDelayedReward.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName->Refugee delayed reward</li>-->
-  <!--VI: <li>nhiệm vụTên->Phần thưởng trì hoãn của người tị nạn</li>-->
-  <RefugeeDelayedReward.questNameRules.rulesStrings>TODO</RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>areIs(lodgerCount>=2)->are</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>
+  -->
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>-></li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>rewardLetterLabel->Hospitality reward</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you helped [rewardGiver_objective] in desperate circumstances.\n\nSince then, [rewardGiver_pronoun] has gotten back on [rewardGiver_possessive] feet, and now [rewardGiver_pronoun] wants to reward you properly for your help. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
+  -->
+  <RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Phần thưởng khách sạn</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] đã liên hệ với bạn. [rewardDelayTicks_duration] trước, bạn đã giúp đỡ [rewardGiver_objective] trong hoàn cảnh tuyệt vọng.\n\nKể từ đó, [rewardGiver_pronoun] đã đứng vững trở lại [rewardGiver_possessive], và bây giờ [rewardGiver_pronoun] muốn thưởng xứng đáng cho sự giúp đỡ của bạn. [rewardGiver_pronoun] đang gửi cho bạn những thông tin sau qua kén vận chuyển:\n\n[listOfRewards]</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->a delayed reward for refugee quest</li>
+  -->
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>-></li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Refugee delayed reward</li>
+  -->
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>-></li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
+  
 </LanguageData>

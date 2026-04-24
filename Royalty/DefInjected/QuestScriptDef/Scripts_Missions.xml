@@ -6,7 +6,11 @@
     <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
-  <Mission_BanditCamp.questDescriptionRules.rulesStrings>TODO</Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[enemiesLabel] đã dựng một trại và đang quấy phá các đoàn lữ hành của [asker_faction_name]. [asker_nameDef] đang lên kế hoạch tấn công đường không vào trại, nơi được canh giữ bởi [enemiesCount] [enemiesLabel]. [asker_pronoun] muốn bạn cung cấp [soldiers] để thực hiện cuộc tấn công.\n\n[asker_pronoun] sẽ gửi một phi thuyền đến đón các chiến binh của bạn, đưa họ đến địa điểm tấn công, rồi đưa họ về sau đó. Họ sẽ được cho ăn và chăm sóc y tế trên đường.\n\nKhi cuộc tấn công bắt đầu, bạn phải đánh bại toàn bộ kẻ địch và tháp pháo trong vòng [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] binh sĩ</li>
+    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] binh sĩ</li>
+  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[questNameInner]</li>
     <li>questName->[asker_nameDef]'s [questNameInner]</li>
@@ -24,6 +28,22 @@
     <li>work->work</li>
     <li>work->job</li>
   -->
-  <Mission_BanditCamp.questNameRules.rulesStrings>TODO</Mission_BanditCamp.questNameRules.rulesStrings>
+  <Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[questNameInner]</li>
+    <li>questName->[questNameInner] của [asker_nameDef]</li>
+    <li>questNameInner->[attack] [target] bằng [aerial]</li>
+    <li>questNameInner->[attack] [target]</li>
+    <li>questNameInner->[work] [attack]</li>
+    <li>target->trại</li>
+    <li>target->căn cứ</li>
+    <li>target->pháo đài</li>
+    <li>aerial->đường không</li>
+    <li>aerial->không vận</li>
+    <li>aerial->phi thuyền</li>
+    <li>attack->tấn công</li>
+    <li>attack->đột kích</li>
+    <li>work->nhiệm vụ</li>
+    <li>work->công việc</li>
+  </Mission_BanditCamp.questNameRules.rulesStrings>
   
 </LanguageData>

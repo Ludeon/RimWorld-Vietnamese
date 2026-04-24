@@ -5,7 +5,10 @@
     <li>questName->Laborers</li>
     <li>questDescription-></li>
   -->
-  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>TODO</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+    <li>questName->Người lao động</li>
+    <li>questDescription-></li>
+  </Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
   <!-- EN: Laborers arrived -->
   <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>Người lao động đã đến</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
   <!-- EN: The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days. -->
@@ -21,8 +24,8 @@
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
   <Permit_CallLaborers.LetterTextLaborerDied.slateRef>Một người lao động được [permitFaction_name] gửi cho bạn đã chết. Thiện chí của bạn với [permitFaction_name] đã giảm [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   <!-- EN: Laborer abandoned: {SUBJECT_definite} -->
-  <Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>TODO</Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>Người lao động bị bỏ rơi: {SUBJECT_definite}</Permit_CallLaborers.LetterLabelLaborerLeftBehind.slateRef>
   <!-- EN: A laborer sent to you by [permitFaction_name] has been left behind. Any remaining laborers will now leave. -->
-  <Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>TODO</Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>Một người lao động được [permitFaction_name] cử đến cho bạn đã bị bỏ lại. Bây giờ những người lao động còn lại sẽ rời đi.</Permit_CallLaborers.LetterTextLaborerLeftBehind.slateRef>
   
 </LanguageData>

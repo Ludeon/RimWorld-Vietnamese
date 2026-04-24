@@ -4,7 +4,7 @@
   <!-- EN: beckon -->
   <Beckon.label>mời gọi</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
-  <Beckon.description>Điều kiển tâm trí mục tiêu to approach the caster.</Beckon.description>
+  <Beckon.description>Dùng tinh thần lực ra lệnh cho mục tiêu tiến lại gần người thi triển.</Beckon.description>
   
   <!-- EN: berserk -->
   <Berserk.label>điên cuồng</Berserk.label>
@@ -42,9 +42,9 @@
   <Chunkskip.description>Dịch chuyển 5 khối đá hoặc xỉ để gửi chúng gần điểm mục tiêu. Điều này rất hữu ích để tạo điểm nấp trong các hoạt động tấn công.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
-  <EntropyDump.label>đổ nhiệt thần kinh</EntropyDump.label>
+  <EntropyDump.label>xả nhiệt thần kinh</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
-  <EntropyDump.description>Ngay lập tức đổ tất cả nhiệt thần kinh của bạn vào người khác. Như một tác dụng phụ, mục tiêu sẽ rơi vào tình trạng hôn mê suy nhược nhưng không gây tổn hại trong khoảng một ngày. Mục tiêu phải chủ động chấp nhận cuộc xâm lược tâm linh, vì vậy chỉ có các đồng minh có ý thức mới có thể được nhắm mục tiêu.</EntropyDump.description>
+  <EntropyDump.description>Ngay lập tức xả toàn bộ nhiệt thần kinh của bạn vào người khác. Như một tác dụng phụ, mục tiêu sẽ rơi vào tình trạng hôn mê suy nhược nhưng không gây tổn hại trong khoảng một ngày. Mục tiêu phải chủ động chấp nhận sự xâm nhập tâm linh, vì vậy chỉ có các đồng minh có ý thức mới có thể được nhắm mục tiêu.</EntropyDump.description>
   
   <!-- EN: farskip -->
   <Farskip.label>farskip</Farskip.label>
@@ -59,17 +59,17 @@
   <!-- EN: focus -->
   <Focus.label>tập trung</Focus.label>
   <!-- EN: Psychically focus the target's mind, boosting their sight, hearing and moving capacities. -->
-  <Focus.description>Xung thần kinh tập trung tâm trí của mục tiêu, tăng khả năng nhìn, nghe và di chuyển của họ.</Focus.description>
+  <Focus.description>Dùng sức mạnh tâm trí nhắm vào tâm trí mục tiêu, tăng cường thị giác, thính giác và khả năng di chuyển.</Focus.description>
   
   <!-- EN: invisibility -->
   <Invisibility.label>tàng hình</Invisibility.label>
   <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
-  <Invisibility.description>Xung thần kin thao túng các trung tâm thị giác của mọi người gần đó, khiến họ không thể nhận thức được một cá nhân cụ thể trong một thời gian ngắn.</Invisibility.description>
+  <Invisibility.description>Dùng tâm linh thao túng trung tâm thị giác của mọi người gần đó, khiến họ không thể nhận thức một cá nhân cụ thể trong thời gian ngắn.</Invisibility.description>
   
   <!-- EN: manhunter pulse -->
   <ManhunterPulse.label>xung thú điên</ManhunterPulse.label>
   <!-- EN: Drive nearby animals into a manhunting rage using a psychic pulse. -->
-  <ManhunterPulse.description>Làm những con vật gần đó nỗi cơn thịnh nộ bằng cách sử dụng một xung tâm linh.</ManhunterPulse.description>
+  <ManhunterPulse.description>Dùng xung tâm linh khiến các động vật gần đó nổi cơn thịnh nộ săn người.</ManhunterPulse.description>
   
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>tốc biến đa (random)</MassChaosSkip.label>
@@ -79,9 +79,9 @@
   <!-- EN: neuroquake -->
   <Neuroquake.label>chấn động thần kinh</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
-  <Neuroquake.description>Tìm điểm gián đoạn trong lĩnh vực tâm linh và giải phóng nó, giải phóng một lượng lớn năng lượng tâm linh. Mọi sinh vật trong phạm vi nhưng bên ngoài vòng tròn an toàn, bên trong, sẽ bị điên cuồng dữ dội. Quá trình niệm phép này mất 12 giây thiền định và sau đó, người niệm phép sẽ rơi vào trạng thái hôn mê tâm linh kéo dài 5 ngày. Tiếng vang chấn động thần kinh đáng lo ngại sẽ gây ra nỗi đau cho mọi người trong nhiều km xung quanh, gây hậu quả ngoại giao với tất cả các phe phái.</Neuroquake.description>
+  <Neuroquake.description>Tìm một điểm gián đoạn trong trường tâm linh và mở bung nó, giải phóng một lượng lớn năng lượng tâm linh. Mọi sinh vật trong phạm vi nhưng nằm ngoài vòng tròn an toàn bên trong sẽ bị đẩy vào cơn điên bạo lực. Việc thi triển mất 12 giây thiền định, và sau đó người thi triển sẽ rơi vào hôn mê tâm linh kéo dài 5 ngày. Dư âm chấn động thần kinh đáng sợ sẽ gây đau đớn cho mọi người trong phạm vi nhiều km, dẫn đến hậu quả ngoại giao với tất cả phe phái.</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
-  <Neuroquake.confirmationDialogText>Nếu bạn sử dụng chấn động thần kinh, mọi người trong khu vực này sẽ cảm nhận được tiếng vang của chấn động thần kinh, bạn sẽ mất thiện chí với mọi phe không thù địch.\n\nChấn động thần kinh mất 12 giây để thi triển và không thể bị gián đoạn. Khi hoàn thành, người niệm phép sẽ rơi vào trạng thái hôn mê tâm linh trong 5 ngày.\n\nMọi người trong phạm vi ngoại trừ những người trong một vòng tròn nhỏ xung quanh người niệm phép sẽ bị ảnh hưởng.\n\nBạn có thực sự muốn niệm thần kinh không?</Neuroquake.confirmationDialogText>
+  <Neuroquake.confirmationDialogText>Nếu bạn sử dụng chấn động thần kinh, mọi người trong khu vực này sẽ cảm nhận được tiếng vang của chấn động thần kinh, bạn sẽ mất thiện chí với mọi phe không thù địch.\n\nChấn động thần kinh mất 12 giây để thi triển và không thể bị gián đoạn. Khi hoàn thành, người thi triển sẽ rơi vào trạng thái hôn mê tâm linh trong 5 ngày.\n\nMọi người trong phạm vi ngoại trừ những người trong một vòng tròn nhỏ xung quanh người thi triển sẽ bị ảnh hưởng.\n\nBạn có thực sự muốn thi triển chấn động thần kinh không?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
   <Painblock.label>thuốc giảm đau</Painblock.label>
@@ -146,7 +146,7 @@
   <!-- EN: word of serenity -->
   <WordOfSerenity.label>lời thanh thản</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description>Sử dụng những từ ngữ xoa dịu và gợi ý tâm linh để chấm dứt suy sụp tinh thần đối với một người hoặc động vật. Mục tiêu sẽ rơi vào một giấc ngủ tâm linh ngắn. Chi phí tiêu điểm phụ thuộc vào cường độ suy sụp tinh thần của mục tiêu.</WordOfSerenity.description>
+  <WordOfSerenity.description>Sử dụng những lời xoa dịu và ám thị tâm linh để chấm dứt suy sụp tinh thần của một người. Mục tiêu sẽ rơi vào giấc ngủ tâm linh ngắn. Chi phí tinh thần lực phụ thuộc vào cường độ suy sụp tinh thần của mục tiêu.</WordOfSerenity.description>
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>chữ tín</WordOfTrust.label>

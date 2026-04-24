@@ -1,115 +1,95 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--EN: <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Archon of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Archon means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Archon.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
+  
+  <!-- EN:
+    <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Archon of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Archon means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Archon.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
     <li>intro(sameQuestsCount==0)->You have learned of a way to escape this planet!\n\n</li>
     <li>intro(sameQuestsCount>=1)->You have been given another chance at royal ascent.\n\n</li>
     <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nOthers will take the opportunity to try to kill the [asker_faction_leaderTitle], and will attack with great intensity. Be prepared to defend.</li>
-    <li>threatsInfo-></li>-->
-  <!--VI: <li>questDescription->[giới thiệu][asker_faction_leaderTitle] của [asker_faction_name] sẽ thực hiện một chuyến thăm thông thường với bất kỳ Archon nào trong lãnh địa của mình theo yêu cầu. Mời anh ta, thỏa mãn nhu cầu hoàng gia của anh ta về [shuttleDelayTicks_duration], và tất cả các bạn có thể đi tàu con thoi đến hạm đội Hoàng gia. Sau đó, bạn có thể gia nhập triều đình, hoặc trốn thoát đến một cuộc sống mới giữa các vì sao.\n\nKiếm được danh hiệu Archon có nghĩa là hoàn thành nhiệm vụ để kiếm [asker_faction_royalFavorLabel] với [asker_faction_name]. Có thể mất nhiều năm để cuối cùng đạt được danh hiệu Archon.\n\nTrong chuyến thăm của anh ấy, bạn phải giữ tâm trạng của anh ấy trên [lodgersMoodThreshold_percent]. Điều này có nghĩa là cung cấp các tiện ích hoàng gia như một phòng ngủ xa hoa. [threatsInfo]\n\n[asker_faction_leaderTitle] sẽ mang theo bốn người bảo vệ riêng của mình và đặt họ dưới sự chỉ huy của bạn. Bạn phải giữ những người lính canh này, nhưng [asker_faction_leaderTitle] sẽ không phàn nàn nếu họ bị giết hoặc không vui.\n\nBạn phải giữ những vị khách ở [map_definite] và không đưa họ đến nơi khác. Nếu bạn thất bại trong nhiệm vụ này hoặc di cư, bạn sẽ có một cơ hội khác sau này.</li>
-    <li>intro(sameQuestsCount==0)->Bạn đã học được cách thoát khỏi hành tinh này!\n\n</li>
-    <li>intro(sameQuestsCount>=1)->Bạn đã được trao một cơ hội khác để thăng tiến hoàng gia.\n\n</li>
-    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nNhững người khác sẽ nhân cơ hội để cố gắng giết [asker_faction_leaderTitle], và sẽ tấn công với cường độ lớn. Hãy chuẩn bị để phòng thủ.</li>
-    <li>threatsInfo-></li>-->
-  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>TODO</EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName(sameQuestsCount==0)->Royal Ascent</li>
+    <li>threatsInfo-></li>
+  -->
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+    <li>questDescription->[intro] [asker_faction_leaderTitle] của [asker_faction_name] sẽ thực hiện chuyến thăm thông thường với bất kỳ Archon nào trong miền của anh ấy theo yêu cầu. Hãy mời anh ấy, đáp ứng nhu cầu hoàng gia của anh ấy về [shuttleDelayTicks_duration], và tất cả các bạn có thể đi phi thuyền đến đội tàu Hoàng gia. Sau đó, bạn có thể gia nhập triều đình Hoàng gia hoặc trốn thoát đến một cuộc sống mới giữa các vì sao.\n\nGiành được danh hiệu Archon có nghĩa là hoàn thành các nhiệm vụ để kiếm [asker_faction_royalFavorLabel] với [asker_faction_name]. Có thể phải mất nhiều năm để cuối cùng đạt được danh hiệu Archon.\n\nTrong chuyến thăm của anh ấy, bạn phải giữ tâm trạng của anh ấy trên [lodgersMoodThreshold_percent]. Điều này có nghĩa là cung cấp các đặc quyền của hoàng gia như một phòng ngủ xa hoa.[threatsInfo]\n\nThe [asker_faction_leaderTitle] sẽ mang theo bốn vệ sĩ riêng của mình và đặt họ dưới sự chỉ huy của bạn. Bạn phải chứa những người bảo vệ này, nhưng [asker_faction_leaderTitle] sẽ không phàn nàn nếu họ bị giết hoặc không hài lòng.\n\nBạn phải giữ khách ở [map_definite] và không đưa họ đi bất cứ nơi nào khác. Nếu bạn thất bại trong nhiệm vụ này hoặc di chuyển, bạn sẽ có cơ hội khác sau này.</li>
+    <li>intro(sameQuestsCount==0)->Bạn đã học được cách để thoát khỏi hành tinh này!\n\n</li>
+    <li>intro(sameQuestsCount>=1)->Bạn đã được trao một cơ hội khác để thăng thiên trong hoàng gia.\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nNhững người khác sẽ tận dụng cơ hội để cố gắng tiêu diệt [asker_faction_leaderTitle] và sẽ tấn công với cường độ lớn. Hãy chuẩn bị để phòng thủ.</li>
+    <li>threatsInfo-></li>
+  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(sameQuestsCount==0)->Royal Ascent</li>
     <li>questName(sameQuestsCount>=1)->Royal [titleEnd]</li>
     <li>titleEnd->Ascension</li>
     <li>titleEnd->Ascendance</li>
     <li>titleEnd->Visitor</li>
     <li>titleEnd->Guest</li>
     <li>titleEnd->Host</li>
-    <li>titleEnd->Victory</li>-->
-  <!--VI: <li>questName(sameQuestsCount==0)->Royal Ascent</li>
+    <li>titleEnd->Victory</li>
+  -->
+  <EndGame_RoyalAscent.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)->Hoàng gia đi lên</li>
     <li>questName(sameQuestsCount>=1)->Hoàng gia [titleEnd]</li>
-    <li>titleKết thúc >Thăng thiên</li>
-    <li>titleEnd->Ascendance</li>
-    <li>titleKết thúc > khách truy cập</li>
-    <li>tiêu đềKết thúc >Khách</li>
-    <li>titleEnd->Host</li>
-    <li>titleKết thúc > chiến thắng</li>-->
-  <EndGame_RoyalAscent.questNameRules.rulesStrings>TODO</EndGame_RoyalAscent.questNameRules.rulesStrings>
-  <!--EN: Quest failed: [resolvedQuestName]-->
-  <!--VI: Nhiệm vụ không thành công: [resolvedQuestName]-->
-  <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>TODO</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
-  <!--EN: [faction_name] became hostile to you.-->
-  <!--VI: [faction_name] trở nên thù địch với ngươi.-->
-  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>TODO</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
-  <!--EN: asker.NoLongerFactionLeader-->
-  <!--VI: Asker. NoLongerFactionLeader-->
-  <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>TODO</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
-  <!--EN: [asker_faction_leaderTitle] arrived-->
-  <!--VI: [asker_faction_leaderTitle] đến-->
-  <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>TODO</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
-  <!--EN: The [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect him and satisfy his royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life.-->
-  <!--VI: [asker_faction_leaderTitle] của [asker_faction_name], đã đến.\n\nBảo vệ anh ta và thỏa mãn nhu cầu hoàng gia của anh ta cho đến khi tàu con thoi đến [shuttleDelayTicks_duration].\n\nTất cả các bạn có thể đi cùng [asker_faction_leaderTitle] trên tàu con thoi và đi đến hạm đội Hoàng gia để bắt đầu một cuộc sống mới.-->
-  <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>TODO</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
-  <!--EN: Guest died: {SUBJECT_definite}-->
-  <!--VI: Khách chết: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>TODO</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã chết. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>TODO</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
-  <!--EN: Should depart on shuttle-->
-  <!--VI: Nên khởi hành bằng xe đưa đón-->
-  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>TODO</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
-  <!--EN: Shuttle arrived-->
-  <!--VI: Xe đưa đón đã đến-->
-  <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>TODO</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
-  <!--EN: The shuttle has arrived to collect the [asker_faction_leaderTitle].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life.-->
-  <!--VI: Tàu con thoi đã đến để đón [asker_faction_leaderTitle].\n\nTất cả các bạn có thể đi cùng [asker_faction_leaderTitle] trên tàu con thoi và đi đến hạm đội Hoàng gia để bắt đầu một cuộc sống mới.-->
-  <EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>TODO</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
-  <!--EN: The high stellarch will now welcome you into the Imperial flotilla as an honored noble party.\n\nYou might stay in the Imperial court and jockey for political power. Perhaps you'll avoid the drama and focus on enjoying ultratech luxuries. Or, you might even buy a ship and set a course for your long-lost home.\n\nThe choice is up to you.-->
-  <!--VI: Bây giờ Stellarch cao cấp sẽ chào đón bạn vào hạm đội Hoàng gia với tư cách là một đảng quý tộc danh dự.\n\nBạn có thể ở lại triều đình và tranh giành quyền lực chính trị. Có lẽ bạn sẽ tránh kịch tính và tập trung vào việc tận hưởng những thứ xa xỉ siêu công nghệ. Hoặc, bạn thậm chí có thể mua một con tàu và thiết lập một lộ trình cho ngôi nhà đã mất từ lâu của mình.\n\nSự lựa chọn là tùy thuộc vào bạn.-->
-  <EndGame_RoyalAscent.EndGameEndingText.slateRef>TODO</EndGame_RoyalAscent.EndGameEndingText.slateRef>
-  <!--EN: You've escaped on the Imperial shuttle!-->
-  <!--VI: Bạn đã trốn thoát trên tàu con thoi Imperial!-->
-  <EndGame_RoyalAscent.EndGameIntroText.slateRef>TODO</EndGame_RoyalAscent.EndGameIntroText.slateRef>
-  <!--EN: {SUBJECT_bestRoyalTitle} unhappy-->
-  <!--VI: {SUBJECT_bestRoyalTitle} không hạnh phúc-->
-  <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>TODO</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ và giữ hạnh phúc, đã ở dưới tâm trạng tối thiểu của [lodgersMoodThreshold] quá lâu. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>TODO</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
-  <!--EN: Guest captured: {SUBJECT_definite}-->
-  <!--VI: Khách bị bắt: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>TODO</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã bị bắt. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>TODO</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
-  <!--EN: Unauthorized surgery: {SUBJECT_definite}-->
-  <!--VI: Phẫu thuật trái phép: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>TODO</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
-  <!--EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon]-->
-  <!--VI: Phẫu thuật trái phép, vi phạm đã được thực hiện đối với {SUBJECT_definite}, người mà bạn bị buộc tội bảo vệ. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>TODO</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
-  <!--EN: Xenogerm absorbed: {SUBJECT_definite}-->
-  <!--VI: Xenogerm hấp thụ: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>TODO</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã bị hấp thụ xenogerm SUBJECT_possessive. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>TODO</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
-  <!--EN: Guest lost: {SUBJECT_definite}-->
-  <!--VI: Khách thua: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>TODO</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã rời khỏi khu định cư được chỉ định. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>TODO</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
-  <!--EN: Shuttle destroyed-->
-  <!--VI: Tàu con thoi bị phá hủy-->
-  <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>TODO</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
-  <!--EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon]-->
-  <!--VI: Tàu con thoi được gửi đến để thu thập [asker_faction_leaderTitle] đã bị phá hủy. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>TODO</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
-  <!--EN: Guest lost: {SUBJECT_definite}-->
-  <!--VI: Khách thua: {SUBJECT_definite}-->
-  <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>TODO</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
-  <!--EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon]-->
-  <!--VI: {SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã trở nên điên cuồng. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>TODO</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
-  <!--EN: Quest failed: [resolvedQuestName]-->
-  <!--VI: Nhiệm vụ không thành công: [resolvedQuestName]-->
-  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>TODO</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
-  <!--EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon]-->
-  <!--VI: Tàu con thoi được cử đến đón [asker_faction_leaderTitle] đã khởi hành mà không có [asker_objective]. [asker_pronoun] bây giờ sẽ đi bộ. [failLetterEndingCommon]-->
-  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>TODO</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+    <li>titleEnd->Thăng thiên</li>
+    <li>titleEnd->thăng thiên</li>
+    <li>titleEnd->khách truy cập</li>
+    <li>titleEnd->Khách mời</li>
+    <li>titleEnd->Chủ nhà</li>
+    <li>titleEnd->chiến thắng</li>
+  </EndGame_RoyalAscent.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
+  <!-- EN: [faction_name] became hostile to you.  -->
+  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[faction_name] trở nên thù địch với bạn.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
+  <!-- EN: asker.NoLongerFactionLeader -->
+  <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>người hỏi.NoLongerFactionLeader</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
+  <!-- EN: [asker_faction_leaderTitle] arrived -->
+  <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] đã đến</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
+  <!-- EN: The [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect him and satisfy his royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
+  <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_leaderTitle] của [asker_faction_name], đã đến.\n\nHãy bảo vệ anh ấy và đáp ứng các nhu cầu hoàng gia của anh ấy cho đến khi phi thuyền đến [shuttleDelayTicks_duration].\n\nTất cả các bạn có thể đi cùng [asker_faction_leaderTitle] trên phi thuyền và đi đến đội tàu Hoàng gia để bắt đầu một cuộc sống mới.</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
+  <!-- EN: Guest died: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>Khách đã chết: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>{SUBJECT_definite}, người mà bạn có trách nhiệm bảo vệ, đã chết. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
+  <!-- EN: Should depart on shuttle -->
+  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>Nên khởi hành bằng xe đưa đón</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
+  <!-- EN: Shuttle arrived -->
+  <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>Xe đưa đón đã đến</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
+  <!-- EN: The shuttle has arrived to collect the [asker_faction_leaderTitle].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->
+  <EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>Phi thuyền đã đến để thu thập [asker_faction_leaderTitle].\n\nTất cả các bạn có thể đi cùng [asker_faction_leaderTitle] trên phi thuyền và đi đến đội tàu Hoàng gia để bắt đầu cuộc sống mới.</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
+  <!-- EN: The high stellarch will now welcome you into the Imperial flotilla as an honored noble party.\n\nYou might stay in the Imperial court and jockey for political power. Perhaps you'll avoid the drama and focus on enjoying ultratech luxuries. Or, you might even buy a ship and set a course for your long-lost home.\n\nThe choice is up to you. -->
+  <EndGame_RoyalAscent.EndGameEndingText.slateRef>Giờ đây, các Stellar cấp cao sẽ chào đón bạn vào đội tàu Hoàng gia với tư cách là một nhóm quý tộc được vinh danh.\n\nBạn có thể ở lại triều đình Hoàng gia và tranh giành quyền lực chính trị. Có lẽ bạn sẽ tránh bi kịch và tập trung vào việc tận hưởng những thứ xa xỉ về công nghệ siêu cao cấp. Hoặc, bạn thậm chí có thể mua một con tàu và lên đường cho ngôi nhà đã mất từ ​​lâu của mình.\n\nSự lựa chọn là tùy thuộc vào bạn.</EndGame_RoyalAscent.EndGameEndingText.slateRef>
+  <!-- EN: You've escaped on the Imperial shuttle! -->
+  <EndGame_RoyalAscent.EndGameIntroText.slateRef>Bạn đã trốn thoát trên phi thuyền của Imperial!</EndGame_RoyalAscent.EndGameIntroText.slateRef>
+  <!-- EN: {SUBJECT_bestRoyalTitle} unhappy -->
+  <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>{SUBJECT_bestRoyalTitle} không vui</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>{SUBJECT_definite}, người mà bạn có trách nhiệm bảo vệ và giữ hạnh phúc, đã ở dưới tâm trạng tối thiểu [lodgersMoodThreshold] quá lâu. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
+  <!-- EN: Guest captured: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>Khách đã bắt: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>{SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã bị bắt. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+  <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>Phẫu thuật trái phép: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
+  <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>Phẫu thuật trái phép, vi phạm đã được thực hiện trên {SUBJECT_definite}, người mà bạn có trách nhiệm bảo vệ. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+  <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>Xenogerm được hấp thụ: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã bị cưỡng bức hấp thụ {SUBJECT_possessive} xenogerm. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>Khách bị mất: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>{SUBJECT_definite}, người mà bạn có trách nhiệm bảo vệ, đã rời khỏi khu định cư được chỉ định. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
+  <!-- EN: Shuttle destroyed -->
+  <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>Phi thuyền bị phá hủy</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
+  <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>Phi thuyền được cử đi thu thập [asker_faction_leaderTitle] đã bị phá hủy. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>Khách bị mất: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>{SUBJECT_definite}, người mà bạn được giao nhiệm vụ bảo vệ, đã chạy trốn. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
+  <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>Xe đưa đón được cử đi thu thập [asker_faction_leaderTitle] đã khởi hành mà không có [asker_objective]. [asker_pronoun] bây giờ sẽ đi bộ. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+  
 </LanguageData>
