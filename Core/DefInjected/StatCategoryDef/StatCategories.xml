@@ -1,80 +1,112 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: Ability -->
-  <Ability.label>Thuộc tính</Ability.label>
+  <Ability.label>Năng lực</Ability.label>
+  
   <!-- EN: animal productivity -->
-  <AnimalProductivity.label>động vật sinh sản</AnimalProductivity.label>
-  <!--EN: animal-->
-  <!--VI: con vật-->
-  <Animals.label>TODO</Animals.label>
+  <AnimalProductivity.label>năng suất động vật</AnimalProductivity.label>
+  
+  <!-- EN: animal -->
+  <Animals.label>động vật</Animals.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>Trang phục</Apparel.label>
+  
   <!-- EN: Basics -->
   <Basics.label>Cơ bản</Basics.label>
+  
   <!-- EN: Basics -->
   <BasicsImportant.label>Cơ bản</BasicsImportant.label>
+  
   <!-- EN: Basics -->
   <BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
+  
   <!-- EN: Basics -->
   <BasicsNonPawnImportant.label>Cơ bản</BasicsNonPawnImportant.label>
+  
   <!-- EN: Basics -->
   <BasicsPawn.label>Cơ bản</BasicsPawn.label>
+  
   <!-- EN: Basics -->
   <BasicsPawnImportant.label>Cơ bản</BasicsPawnImportant.label>
+  
   <!-- EN: Building -->
-  <Building.label>Xây dựng</Building.label>
+  <Building.label>Công trình</Building.label>
+  
   <!-- EN: effects -->
-  <CapacityEffects.label>hiệu ứng năng lực</CapacityEffects.label>
+  <CapacityEffects.label>hiệu ứng</CapacityEffects.label>
+  
   <!-- EN: Drug -->
-  <Drug.label>Thuốc</Drug.label>
+  <Drug.label>Chất kích thích</Drug.label>
+  
   <!-- EN: drug addiction -->
-  <DrugAddiction.label>nghiện thuốc</DrugAddiction.label>
+  <DrugAddiction.label>nghiện chất kích thích</DrugAddiction.label>
+  
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>Tùy chỉnh khi trang bị</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>chỉ số khi trang bị</EquippedStatOffsets.label>
+  
   <!-- EN: Genetics -->
-  <Genetics.label>Di truyền học</Genetics.label>
+  <Genetics.label>Di truyền</Genetics.label>
+  
   <!-- EN: Implant -->
   <Implant.label>Cấy ghép</Implant.label>
+  
   <!-- EN: Mechanoid -->
   <Mechanoid.label>Mechanoid</Mechanoid.label>
+  
   <!-- EN: Meditation -->
   <Meditation.label>Thiền</Meditation.label>
+  
   <!-- EN: Combat -->
   <PawnCombat.label>Chiến đấu</PawnCombat.label>
-  <!--EN: Food-->
-  <!--VI: Thức ăn-->
-  <PawnFood.label>TODO</PawnFood.label>
-  <!--EN: Health-->
-  <!--VI: Sức khỏe-->
-  <PawnHealth.label>TODO</PawnHealth.label>
+  
+  <!-- EN: Food -->
+  <PawnFood.label>Thức ăn</PawnFood.label>
+  
+  <!-- EN: Health -->
+  <PawnHealth.label>Sức khỏe</PawnHealth.label>
+  
   <!-- EN: Misc -->
   <PawnMisc.label>Linh tinh</PawnMisc.label>
-  <!--EN: Psyfocus-->
-  <!--VI: Tâm lý tập trung-->
-  <PawnPsyfocus.label>TODO</PawnPsyfocus.label>
-  <!--EN: Resistances and sensitivities-->
-  <!--VI: Kháng thuốc và nhạy cảm-->
-  <PawnResistances.label>TODO</PawnResistances.label>
+  
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>Tinh thần lực</PawnPsyfocus.label>
+  
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>Kháng tính và độ nhạy cảm</PawnResistances.label>
+  
   <!-- EN: Social -->
   <PawnSocial.label>Xã hội</PawnSocial.label>
+  
   <!-- EN: Work -->
   <PawnWork.label>Công việc</PawnWork.label>
+  
   <!-- EN: content source -->
-  <Source.label>nội dung nguồn</Source.label>
+  <Source.label>nguồn</Source.label>
+  
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>Tỷ lệ khi trang bị làm từ vật này</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>hệ số khi trang bị làm từ chất liệu này</StuffOfEquipmentStatFactors.label>
+  
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>Tỷ lệ khi làm từ vật này</StuffStatFactors.label>
+  <StuffStatFactors.label>hệ số khi làm từ chất liệu này</StuffStatFactors.label>
+  
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>Ảnh hưởng khi làm từ vật này</StuffStatOffsets.label>
+  <StuffStatOffsets.label>chỉ số khi làm từ chất liệu này</StuffStatOffsets.label>
+  
   <!-- EN: Surgical -->
   <Surgery.label>Phẫu thuật</Surgery.label>
+  
   <!-- EN: terrain -->
   <Terrain.label>địa hình</Terrain.label>
+  
   <!-- EN: Weapon -->
   <Weapon.label>Vũ khí</Weapon.label>
+  
   <!-- EN: Weapon (melee) -->
   <Weapon_Melee.label>Vũ khí (cận chiến)</Weapon_Melee.label>
+  
   <!-- EN: Weapon (ranged) -->
   <Weapon_Ranged.label>Vũ khí (tầm xa)</Weapon_Ranged.label>
+  
 </LanguageData>

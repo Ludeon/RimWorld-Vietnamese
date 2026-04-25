@@ -1,224 +1,244 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <Art.label>Nghệ thuật</Art.label>
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>Tạo ra những tác phẩm nghệ thuật đẹp từ nguyên liệu.</Art.description>
+  <Art.description>Tạo tác phẩm điêu khắc từ nguyên liệu thô.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>nghệ thuật</Art.gerundLabel>
   <!-- EN: art -->
-  <Art.labelShort>Nghệ thuật</Art.labelShort>
+  <Art.labelShort>nghệ thuật</Art.labelShort>
   <!-- EN: Artist -->
-  <Art.pawnLabel>Nhà nghệ thuật</Art.pawnLabel>
+  <Art.pawnLabel>Nghệ sĩ</Art.pawnLabel>
   <!-- EN: Do art at -->
-  <Art.verb>Làm tác phẩm tại</Art.verb>
+  <Art.verb>Điêu khắc tại</Art.verb>
   
+  <BasicWorker.label>Cơ bản</BasicWorker.label>
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>Không cần kỹ năng và làm nó khá dễ dàng. Thả tù nhân và bật công tắc trên máy.</BasicWorker.description>
+  <BasicWorker.description>Làm các công việc đơn giản không cần kỹ năng, như thả tù nhân và bật/tắt công tắc máy móc.</BasicWorker.description>
   <!-- EN: basic tasks -->
-  <BasicWorker.gerundLabel>thao tác</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>công việc cơ bản</BasicWorker.gerundLabel>
   <!-- EN: basic -->
-  <BasicWorker.labelShort>Thao tác</BasicWorker.labelShort>
+  <BasicWorker.labelShort>cơ bản</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>Công nhân</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
-  <BasicWorker.verb>Thao tác với</BasicWorker.verb>
+  <BasicWorker.verb>Xử lý</BasicWorker.verb>
   
+  <Cleaning.label>Dọn dẹp</Cleaning.label>
   <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
-  <Cleaning.description>Dọn tuyết và lau sàn nhà trong khu vực nhà.</Cleaning.description>
+  <Cleaning.description>Dọn tuyết, xử lý ô nhiễm và lau sàn trong khu vực nhà.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>dọn dẹp</Cleaning.gerundLabel>
   <!-- EN: clean -->
-  <Cleaning.labelShort>Dọn dẹp</Cleaning.labelShort>
+  <Cleaning.labelShort>dọn dẹp</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>Người dọn dẹp</Cleaning.pawnLabel>
   <!-- EN: Clean -->
   <Cleaning.verb>Dọn dẹp</Cleaning.verb>
   
+  <Construction.label>Xây dựng</Construction.label>
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>Xây dựng những thứ mà bạn đã chỉ định và sửa chữa các tòa nhà bị hư hỏng hoặc bị phá vỡ.</Construction.description>
+  <Construction.description>Xây dựng những thứ bạn đã chỉ định và sửa các công trình bị hư hại hoặc hỏng hóc.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>xây dựng</Construction.gerundLabel>
   <!-- EN: construct -->
-  <Construction.labelShort>Xây dựng</Construction.labelShort>
+  <Construction.labelShort>xây dựng</Construction.labelShort>
   <!-- EN: Constructor -->
   <Construction.pawnLabel>Thợ xây</Construction.pawnLabel>
   <!-- EN: Construct -->
   <Construction.verb>Xây dựng</Construction.verb>
   
+  <Cooking.label>Nấu ăn</Cooking.label>
   <!-- EN: Prepare meals and butcher meat. -->
-  <Cooking.description>Chuẩn bị bữa ăn và thịt thịt.</Cooking.description>
+  <Cooking.description>Chuẩn bị bữa ăn và làm thịt.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>nấu ăn</Cooking.gerundLabel>
   <!-- EN: cook -->
-  <Cooking.labelShort>Nấu ăn</Cooking.labelShort>
+  <Cooking.labelShort>nấu ăn</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>Đầu bếp</Cooking.pawnLabel>
   <!-- EN: Cook -->
   <Cooking.verb>Nấu ăn</Cooking.verb>
   
+  <Crafting.label>Chế tác</Crafting.label>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Làm lao động phổ thông có tay nghề thấp tại các trạm làm việc. Điều này bao gồm chẻ đá, nấu chảy, và nhiều hơn nữa.</Crafting.description>
+  <Crafting.description>Làm các công việc tay nghề thấp tại trạm làm việc, bao gồm cắt đá, nấu chảy kim loại và nhiều việc khác.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>chế tạo</Crafting.gerundLabel>
+  <Crafting.gerundLabel>chế tác</Crafting.gerundLabel>
   <!-- EN: craft -->
-  <Crafting.labelShort>Chế tạo</Crafting.labelShort>
+  <Crafting.labelShort>chế tác</Crafting.labelShort>
   <!-- EN: Crafter -->
-  <Crafting.pawnLabel>Thợ thủ công</Crafting.pawnLabel>
+  <Crafting.pawnLabel>Thợ chế tác</Crafting.pawnLabel>
   <!-- EN: Craft at -->
-  <Crafting.verb>Chế tại</Crafting.verb>
+  <Crafting.verb>Chế tác tại</Crafting.verb>
   
+  <Doctor.label>Bác sĩ</Doctor.label>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>Điều trị cho người bệnh, mang thức ăn cho họ, cổ vũ họ và thực hiện các ca phẫu thuật được chỉ định. Các bác sĩ sẽ chăm sóc cho cả cư dân và tù nhân.</Doctor.description>
+  <Doctor.description>Điều trị người bệnh, mang thức ăn cho họ, động viên họ và thực hiện các ca phẫu thuật được chỉ định. Bác sĩ sẽ chăm sóc cả cư dân lẫn tù nhân.</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>trị bệnh</Doctor.gerundLabel>
+  <Doctor.gerundLabel>chữa trị</Doctor.gerundLabel>
   <!-- EN: doctor -->
-  <Doctor.labelShort>Bác sĩ</Doctor.labelShort>
+  <Doctor.labelShort>bác sĩ</Doctor.labelShort>
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>Bác sĩ</Doctor.pawnLabel>
   <!-- EN: Care for -->
-  <Doctor.verb>Chăm sóc cho</Doctor.verb>
+  <Doctor.verb>Chăm sóc</Doctor.verb>
   
+  <Firefighter.label>Chữa cháy</Firefighter.label>
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Dập tắt đám cháy ở thuộc địa.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>chữa cháy</Firefighter.gerundLabel>
   <!-- EN: firefight -->
-  <Firefighter.labelShort>Cứu hỏa</Firefighter.labelShort>
+  <Firefighter.labelShort>chữa cháy</Firefighter.labelShort>
   <!-- EN: Firefighter -->
-  <Firefighter.pawnLabel>Lính cứu hỏa</Firefighter.pawnLabel>
+  <Firefighter.pawnLabel>Người chữa cháy</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
-  <Firefighter.verb>Dập tắt</Firefighter.verb>
+  <Firefighter.verb>Dập lửa</Firefighter.verb>
   
+  <Growing.label>Trồng trọt</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>Trồng hạt giống, thu hoạch mùa màng và lấy thức ăn thô từ cây dại.</Growing.description>
+  <Growing.description>Gieo trồng, thu hoạch mùa màng và thu hái cây dại.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>trồng trọt</Growing.gerundLabel>
   <!-- EN: grow -->
-  <Growing.labelShort>Trồng trọt</Growing.labelShort>
+  <Growing.labelShort>trồng trọt</Growing.labelShort>
   <!-- EN: Grower -->
-  <Growing.pawnLabel>Trồng cây</Growing.pawnLabel>
+  <Growing.pawnLabel>Người trồng trọt</Growing.pawnLabel>
   <!-- EN: Grow -->
   <Growing.verb>Trồng</Growing.verb>
   
+  <Handling.label>Chăm thú</Handling.label>
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>Chế ngự, huấn luyện, thu hoạch tài nguyên từ và giết mổ động vật.</Handling.description>
+  <Handling.description>Thuần hóa, huấn luyện, thu hoạch tài nguyên từ động vật và giết mổ chúng.</Handling.description>
   <!-- EN: handling -->
-  <Handling.gerundLabel>xử lý</Handling.gerundLabel>
+  <Handling.gerundLabel>chăm thú</Handling.gerundLabel>
   <!-- EN: handle -->
-  <Handling.labelShort>Giết mổ</Handling.labelShort>
+  <Handling.labelShort>chăm thú</Handling.labelShort>
   <!-- EN: Handler -->
-  <Handling.pawnLabel>Người xử lý</Handling.pawnLabel>
+  <Handling.pawnLabel>Người chăm thú</Handling.pawnLabel>
   <!-- EN: Handle -->
   <Handling.verb>Xử lý</Handling.verb>
   
+  <Hauling.label>Khuân vác</Hauling.label>
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>Mang mọi thứ đến nơi họ cần.</Hauling.description>
+  <Hauling.description>Mang đồ vật đến nơi cần đến.</Hauling.description>
   <!-- EN: hauling -->
-  <Hauling.gerundLabel>vận chuyển</Hauling.gerundLabel>
+  <Hauling.gerundLabel>khuân vác</Hauling.gerundLabel>
   <!-- EN: haul -->
-  <Hauling.labelShort>Vận chuyển</Hauling.labelShort>
+  <Hauling.labelShort>khuân vác</Hauling.labelShort>
   <!-- EN: Hauler -->
-  <Hauling.pawnLabel>Người vận chuyển</Hauling.pawnLabel>
+  <Hauling.pawnLabel>Người khuân vác</Hauling.pawnLabel>
   <!-- EN: Haul -->
-  <Hauling.verb>Mang</Hauling.verb>
+  <Hauling.verb>Khuân</Hauling.verb>
   
+  <Hunting.label>Săn bắn</Hunting.label>
   <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>Giết động vật được chỉ định để săn bắn.</Hunting.description>
+  <Hunting.description>Săn những động vật đã được chỉ định.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>săn bắn</Hunting.gerundLabel>
   <!-- EN: hunt -->
-  <Hunting.labelShort>Săn bắn</Hunting.labelShort>
+  <Hunting.labelShort>săn bắn</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Thợ săn</Hunting.pawnLabel>
   <!-- EN: Hunt -->
   <Hunting.verb>Săn</Hunting.verb>
   
+  <Mining.label>Khai thác</Mining.label>
   <!-- EN: Digging and drilling. -->
-  <Mining.description>Đào và khoan.</Mining.description>
+  <Mining.description>Đào mỏ và khoan.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>khai thác</Mining.gerundLabel>
   <!-- EN: mine -->
-  <Mining.labelShort>Đào mỏ</Mining.labelShort>
+  <Mining.labelShort>khai thác</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Thợ mỏ</Mining.pawnLabel>
   <!-- EN: Mine -->
   <Mining.verb>Khai thác</Mining.verb>
   
+  <Patient.label>Đi bệnh xá</Patient.label>
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>Đi đến giường y tế để điều trị nếu bạn có tình trạng sức khỏe đe dọa tính mạng ngay lập tức.</Patient.description>
+  <Patient.description>Đến giường y tế để nhận chăm sóc khi đang có vấn đề sức khỏe đe dọa tính mạng ngay lập tức.</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>dưỡng bệnh</Patient.gerundLabel>
+  <Patient.gerundLabel>đi bệnh xá</Patient.gerundLabel>
   <!-- EN: patient -->
-  <Patient.labelShort>Nằm bệnh</Patient.labelShort>
+  <Patient.labelShort>đi bệnh xá</Patient.labelShort>
   <!-- EN: Patient -->
   <Patient.pawnLabel>Bệnh nhân</Patient.pawnLabel>
   <!-- EN: Become patient -->
-  <Patient.verb>Trở thành bệnh nhân</Patient.verb>
+  <Patient.verb>Đi bệnh xá</Patient.verb>
   
+  <PatientBedRest.label>Nghỉ bệnh</PatientBedRest.label>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>Nghỉ ngơi trên giường để hồi phục sau các vấn đề y tế không nguy hiểm ngay lập tức.</PatientBedRest.description>
+  <PatientBedRest.description>Nghỉ ngơi trên giường để hồi phục khỏi các vấn đề y tế chưa đe dọa tính mạng ngay lập tức.</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>nghỉ ngơi trên giường</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>nghỉ bệnh</PatientBedRest.gerundLabel>
   <!-- EN: bed rest -->
-  <PatientBedRest.labelShort>Nghỉ ngơi</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>nghỉ bệnh</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
-  <PatientBedRest.pawnLabel>Nghỉ trên giường</PatientBedRest.pawnLabel>
+  <PatientBedRest.pawnLabel>Bệnh nhân nghỉ bệnh</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
-  <PatientBedRest.verb>Trở thành bệnh nhân</PatientBedRest.verb>
+  <PatientBedRest.verb>Nghỉ bệnh</PatientBedRest.verb>
   
+  <PlantCutting.label>Cắt cây</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>Chặt hạ cây hoặc lấy gỗ theo chỉ định.</PlantCutting.description>
+  <PlantCutting.description>Cắt hoặc thu hoạch cây/bụi được chỉ định.</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>đốn củi</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>cắt cây</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
-  <PlantCutting.labelShort>Đốn củi</PlantCutting.labelShort>
+  <PlantCutting.labelShort>cắt cây</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
-  <PlantCutting.pawnLabel>Tiều phu</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>Người cắt cây</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
-  <PlantCutting.verb>Đốn</PlantCutting.verb>
+  <PlantCutting.verb>Cắt</PlantCutting.verb>
   
+  <Research.label>Nghiên cứu</Research.label>
   <!-- EN: Perform research work. -->
   <Research.description>Thực hiện công việc nghiên cứu.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>nghiên cứu</Research.gerundLabel>
   <!-- EN: research -->
-  <Research.labelShort>Nghiên cứu</Research.labelShort>
+  <Research.labelShort>nghiên cứu</Research.labelShort>
   <!-- EN: Researcher -->
-  <Research.pawnLabel>Nghiên cứu</Research.pawnLabel>
+  <Research.pawnLabel>Nhà nghiên cứu</Research.pawnLabel>
   <!-- EN: Research at -->
   <Research.verb>Nghiên cứu tại</Research.verb>
   
+  <Smithing.label>Rèn</Smithing.label>
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
-  <Smithing.description>Tạo vũ khí và công cụ từ nguyên liệu thô, hoặc là thợ rèn hoặc bằng cách gia công.</Smithing.description>
+  <Smithing.description>Tạo vũ khí và công cụ từ nguyên liệu thô, bằng rèn thủ công hoặc gia công máy. Cũng sửa chữa bọ máy nếu cư dân là mechanitor.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>rèn</Smithing.gerundLabel>
   <!-- EN: smith -->
-  <Smithing.labelShort>Rèn đúc</Smithing.labelShort>
+  <Smithing.labelShort>rèn</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Thợ rèn</Smithing.pawnLabel>
   <!-- EN: Smith at -->
   <Smithing.verb>Rèn tại</Smithing.verb>
   
+  <Tailoring.label>May mặc</Tailoring.label>
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>Tạo trang phục từ nguyên liệu.</Tailoring.description>
+  <Tailoring.description>Tạo trang phục từ nguyên liệu thô.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>may đo</Tailoring.gerundLabel>
   <!-- EN: tailor -->
-  <Tailoring.labelShort>May mặc</Tailoring.labelShort>
+  <Tailoring.labelShort>may mặc</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>Thợ may</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
   <Tailoring.verb>May tại</Tailoring.verb>
   
+  <Warden.label>Quản ngục</Warden.label>
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>Quản lý, cho ăn, trò chuyện và tuyển dụng tù nhân.</Warden.description>
+  <Warden.description>Quản lý, cho ăn, trò chuyện và tuyển mộ tù nhân.</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>giám sát</Warden.gerundLabel>
+  <Warden.gerundLabel>quản ngục</Warden.gerundLabel>
   <!-- EN: warden -->
-  <Warden.labelShort>Cai ngục</Warden.labelShort>
+  <Warden.labelShort>quản ngục</Warden.labelShort>
   <!-- EN: Warden -->
-  <Warden.pawnLabel>Cai ngục</Warden.pawnLabel>
+  <Warden.pawnLabel>Quản ngục</Warden.pawnLabel>
   <!-- EN: Handle -->
-  <Warden.verb>Giám sát</Warden.verb>
+  <Warden.verb>Quản lý</Warden.verb>
   
 </LanguageData>

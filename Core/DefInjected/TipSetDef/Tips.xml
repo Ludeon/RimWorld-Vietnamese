@@ -1,11 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
   <GameplayTips.DismissLetters>Bạn có thể đánh dấu thư là đã đọc bằng việc nhấp chuột phải vào chúng.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
   <GameplayTips.QueueOrders>Bạn có thể giữ phím Shift để thêm việc cần làm vào danh sách công việc sẽ làm.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>Bạn có thể giữ và kéo thả chuột phải để sắp xếp lại các cư dân trên thanh dân cư.</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>Bạn có thể giữ và kéo thả chuột phải để sắp xếp lại các cư dân trên thanh cư dân.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select the previous or next colonist with the , and . keys. -->
   <GameplayTips.SelectPrevNextColonist>Bạn có thể dùng phím , và . để chuyển đến cư dân trước/sau.</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
@@ -13,7 +14,7 @@
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>Khi cài đặt ưu tiên công việc cho cư dân trong menu Công việc: 1 là ưu tiên cao nhất, 4 là ưu tiên thấp nhất.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>Tâm trạng của các cư dân được thể hiện trên nền biểu tượng của họ, nằm ở thanh dân cư phía trên màn hình.</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>Tâm trạng của các cư dân được thể hiện trên nền biểu tượng của họ, nằm ở thanh cư dân phía trên màn hình.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
   <GameplayTips.WorkTabChangeAllColonists>Trong menu Công việc, giữ shift và nhấp chuột lên tên công việc sẽ thay đổi độ ưu tiên cho mọi người cùng lúc.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
@@ -27,7 +28,7 @@
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>Trụ súng không thể phát hiện mục tiêu trong đám khói, con người thì vẫn có thể bắn nhưng độ chính xác bị giảm.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>Khi xây dựng hệ thống phòng thủ, cân nhắc việc kẻ địch sẽ sử dụng thả kén hoặc đào hầm. Hãy xây dựng cả hệ thống phòng thủ bên trong căn cứ.</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>Khi xây dựng hệ thống phòng thủ, cân nhắc việc kẻ địch sẽ sử dụng kén vận chuyển hoặc đào hầm. Hãy xây dựng cả hệ thống phòng thủ bên trong căn cứ.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
   <GameplayTips.ShootingAccuracyFogRain>Trời sương mù hoặc mưa làm giảm độ chính xác của vũ khí tầm xa.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
@@ -35,7 +36,7 @@
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
   <GameplayTips.TurretsExplode>Trụ súng sẽ nổ khi bị phá nát. Đừng đặt các trụ súng gần nhau. Và cũng đừng để cư dân đứng gần trụ súng.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>Vài loại động vật phát nổ khi chết. Thử dùng thả kén thả mấy con này vào kẻ địch xem.</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>Vài loại động vật phát nổ khi chết. Thử dùng tàu vận chuyển để thả mấy con này vào kẻ địch xem.</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
   <GameplayTips.CallAllies>Nếu bạn cần giúp đỡ trong một trận chiến, liên lạc đồng minh của bạn qua comms console.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
@@ -99,7 +100,7 @@
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
   <GameplayTips.RequestTradeCaravans>Bạn có thể yêu cầu đoàn giao thương và chỉ rõ loại vật phẩm muốn trao đổi bằng comms console.</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>Bạn có thể dùng transport pods để gửi quà trực tiếp cho các căn cứ khác - thậm chí cả kẻ thù của bạn. Việc này sẽ giúp cải thiện mối quan hệ giữa hai bên.</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>Bạn có thể dùng tàu vận chuyển để gửi quà trực tiếp cho các căn cứ khác, kể cả kẻ thù. Việc này sẽ giúp cải thiện quan hệ giữa hai bên.</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
   <GameplayTips.KeepingPrisonersTogether>Giữ những tù nhân chung một phòng thì tiết kiệm diện tích. Tuy nhiên họ sẽ lên kế hoạch đào tẩu cùng nhau.</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
@@ -152,46 +153,33 @@
   <GameplayTips.AnimalFilth>Một số động vật sẽ sinh ra nhiều rác rưởi. Hãy giữ voi và gia súc của bạn ở bên ngoài.</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>Những thú săn mồi ít có khả năng săn những con vật được bao bọc bởi hàng rào hoặc chướng ngại vật.</GameplayTips.PredatorsAndFences>
-  <!--EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony.-->
-  <!--VI: Nó không bao giờ kết thúc trò chơi. Nếu mọi người đã chết hoặc biến mất, bạn có thể tạo ra những kẻ lang thang mới để tiếp quản phần còn lại của thuộc địa của mình.-->
-  <GameplayTips.NeverGameOver>TODO</GameplayTips.NeverGameOver>
-  <!--EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading.-->
-  <!--VI: Lưu trữ sách trong tủ sách. Điều này làm tăng vẻ đẹp của một căn phòng, làm cho các băng ghế nghiên cứu gần đó nhanh hơn, đồng thời tăng XP và giải trí thu được từ việc đọc.-->
-  <GameplayTips.StoreBooksInBookcases>TODO</GameplayTips.StoreBooksInBookcases>
-  <!--EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window.-->
-  <!--VI: Bạn muốn một món đồ mới chế tạo được đưa đến một kệ cụ thể? Khi một kệ được đặt tên hoặc liên kết với các kệ khác, nó sẽ xuất hiện dưới dạng điểm đến vận chuyển trong "Chi tiết..." cửa sổ.-->
-  <GameplayTips.TakeToShelves>TODO</GameplayTips.TakeToShelves>
-  <!--EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu.-->
-  <!--VI: Bạn có thể thay đổi thành đồng hồ 12 giờ hoặc thay đổi nhiệt độ độ C thành độ F, trong menu tùy chọn.-->
-  <GameplayTips.ChangeUnits>TODO</GameplayTips.ChangeUnits>
-  <!--EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar.-->
-  <!--VI: Khi nhắm mục tiêu một người thuộc địa có khả năng hoặc vật phẩm, bạn cũng có thể nhắm mục tiêu chân dung của họ trong thanh thuộc địa trên cùng.-->
-  <GameplayTips.TargetColonistBar>TODO</GameplayTips.TargetColonistBar>
-  <!--EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory.-->
-  <!--VI: Một số tòa nhà hiệu quả hơn nếu chúng ở trong một phòng chuyên dụng. Bàn làm việc trong phòng riêng của họ tạo thành một xưởng. Băng ghế nghiên cứu trong phòng riêng của họ tạo thành một phòng thí nghiệm.-->
-  <GameplayTips.WorkTableRoomRole>TODO</GameplayTips.WorkTableRoomRole>
-  <!--EN: You can rename bills in the bill details dialog.-->
-  <!--VI: Bạn có thể đổi tên hóa đơn trong hộp thoại chi tiết hóa đơn.-->
-  <GameplayTips.RenamingBills>TODO</GameplayTips.RenamingBills>
-  <!--EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists.-->
-  <!--VI: Hỏa lực thân thiện không thể xảy ra nếu tay súng ở gần đồng minh của họ. Bạn có thể an toàn đặt những người thực dân cận chiến trước mặt những người thực dân cầm súng.-->
-  <GameplayTips.FriendlyFire>TODO</GameplayTips.FriendlyFire>
-  <!--EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs.-->
-  <!--VI: Nhấp chuột phải vào một số nút nhất định trong menu đơn đặt hàng để có các tùy chọn bổ sung. Ví dụ: bạn có thể cấm tất cả các mục trên bản đồ hoặc hủy tất cả các công việc săn bắn.-->
-  <GameplayTips.RightClickGizmos>TODO</GameplayTips.RightClickGizmos>
-  <!--EN: Hold the shift key while scrolling the map to scroll faster.-->
-  <!--VI: Giữ phím shift trong khi cuộn bản đồ để cuộn nhanh hơn.-->
-  <GameplayTips.FastScroll>TODO</GameplayTips.FastScroll>
-  <!--EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot.-->
-  <!--VI: Kệ không chỉ để trưng bày. Chúng tăng dung lượng lưu trữ của bạn bằng cách giữ nhiều mặt hàng trên cùng một chỗ.-->
-  <GameplayTips.Shelves>TODO</GameplayTips.Shelves>
-  <!--EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight.-->
-  <!--VI: Mechanoid có một số nhạy cảm về tâm linh. Sử dụng một cây thương tâm linh trên một người để xoay chuyển một cuộc chiến.-->
-  <GameplayTips.MechanoidPsychicSensitivity>TODO</GameplayTips.MechanoidPsychicSensitivity>
-  <!--EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery.-->
-  <!--VI: Hầu hết những người thực dân ghét ăn thịt côn trùng. Biến nó thành nhiên liệu hóa học bằng cách sử dụng nhà máy lọc nhiên liệu sinh học.-->
-  <GameplayTips.InsectMeat>TODO</GameplayTips.InsectMeat>
-  <!--EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too.-->
-  <!--VI: Nhấn Z sẽ cho phép bạn tìm kiếm vật phẩm, sinh vật, tòa nhà và hơn thế nữa trên bản đồ. Bạn cũng có thể tìm kiếm bản đồ thế giới.-->
-  <GameplayTips.MapSearch>TODO</GameplayTips.MapSearch>
+  <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <GameplayTips.NeverGameOver>Không bao giờ là kết thúc thật sự. Nếu mọi người đều chết hoặc rời đi, bạn có thể tạo những người lang thang mới để tiếp quản tàn tích của thuộc địa.</GameplayTips.NeverGameOver>
+  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <GameplayTips.StoreBooksInBookcases>Cất sách trong tủ sách. Việc này tăng vẻ đẹp của căn phòng, giúp bàn nghiên cứu gần đó hoạt động nhanh hơn, đồng thời tăng XP và giải trí nhận được từ việc đọc sách.</GameplayTips.StoreBooksInBookcases>
+  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window. -->
+  <GameplayTips.TakeToShelves>Muốn vật phẩm mới chế tạo được mang tới một kệ cụ thể? Khi một kệ được đặt tên hoặc liên kết với các kệ khác, nó sẽ xuất hiện như một điểm đến vận chuyển trong cửa sổ "Chi tiết..." của lệnh sản xuất.</GameplayTips.TakeToShelves>
+  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <GameplayTips.ChangeUnits>Bạn có thể đổi sang đồng hồ 12 giờ, hoặc đổi nhiệt độ Celsius sang Fahrenheit, trong menu tùy chọn.</GameplayTips.ChangeUnits>
+  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <GameplayTips.TargetColonistBar>Khi nhắm một năng lực hoặc vật phẩm vào cư dân, bạn cũng có thể nhắm vào chân dung của họ trên thanh cư dân phía trên.</GameplayTips.TargetColonistBar>
+  <!-- EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory. -->
+  <GameplayTips.WorkTableRoomRole>Một số công trình hiệu quả hơn nếu nằm trong phòng chuyên dụng. Bàn làm việc trong phòng riêng sẽ tạo thành xưởng. Bàn nghiên cứu trong phòng riêng sẽ tạo thành phòng thí nghiệm.</GameplayTips.WorkTableRoomRole>
+  <!-- EN: You can rename bills in the bill details dialog. -->
+  <GameplayTips.RenamingBills>Bạn có thể đổi tên lệnh sản xuất trong hộp thoại chi tiết lệnh.</GameplayTips.RenamingBills>
+  <!-- EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists. -->
+  <GameplayTips.FriendlyFire>Bắn nhầm đồng minh sẽ không xảy ra nếu người bắn đứng gần đồng minh của họ. Bạn có thể đặt cư dân cận chiến phía trước cư dân cầm súng một cách an toàn.</GameplayTips.FriendlyFire>
+  <!-- EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs. -->
+  <GameplayTips.RightClickGizmos>Nhấp chuột phải vào một số nút trong menu mệnh lệnh để xem tùy chọn bổ sung. Ví dụ, bạn có thể cấm tất cả vật phẩm trên bản đồ hoặc hủy tất cả công việc săn bắn.</GameplayTips.RightClickGizmos>
+  <!-- EN: Hold the shift key while scrolling the map to scroll faster. -->
+  <GameplayTips.FastScroll>Giữ phím Shift khi cuộn bản đồ để cuộn nhanh hơn.</GameplayTips.FastScroll>
+  <!-- EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot. -->
+  <GameplayTips.Shelves>Kệ không chỉ để trưng bày. Chúng tăng sức chứa kho bằng cách chứa nhiều vật phẩm trên cùng một ô.</GameplayTips.Shelves>
+  <!-- EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight. -->
+  <GameplayTips.MechanoidPsychicSensitivity>Mechanoid có một phần độ nhạy tâm linh. Dùng thương tâm linh lên một con để xoay chuyển trận chiến.</GameplayTips.MechanoidPsychicSensitivity>
+  <!-- EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery. -->
+  <GameplayTips.InsectMeat>Hầu hết cư dân ghét ăn thịt côn trùng. Hãy biến nó thành nhiên liệu hóa học bằng nhà máy lọc nhiên liệu sinh học.</GameplayTips.InsectMeat>
+  <!-- EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too. -->
+  <GameplayTips.MapSearch>Nhấn Z để tìm vật phẩm, sinh vật, công trình và nhiều thứ khác trên bản đồ. Bạn cũng có thể tìm trên bản đồ thế giới.</GameplayTips.MapSearch>
+  
 </LanguageData>

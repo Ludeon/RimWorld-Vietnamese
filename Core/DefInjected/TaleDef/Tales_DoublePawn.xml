@@ -318,7 +318,7 @@
     <li>tale_noun->[JOINER_nameDef] đang được [RECRUITER_nameDef] tuyển dụng</li>
     <li>tale_noun->việc tuyển dụng [JOINER_nameDef]</li>
     <li>image->[RECRUITER_nameFull] tuyển dụng [JOINER_nameFull] [circumstance_group]</li>
-    <li>image->[RECRUITER_nameFull] chào mừng [JOINER_nameFull] khi [JOINER_pronoun] trở thành người thực dân [circumstance_group]</li>
+    <li>image->[RECRUITER_nameFull] chào mừng [JOINER_nameFull] khi [JOINER_pronoun] trở thành cư dân [circumstance_group]</li>
     <li>image->[RECRUITER_nameFull] đang nói chuyện một cách thuyết phục với [JOINER_nameFull] [circumstance_group]</li>
     <li>circumstance_phrase->với thiện chí rõ ràng</li>
     <li>circumstance_phrase->với một cái bắt tay nồng nhiệt</li>
@@ -361,7 +361,7 @@
     <li>tale_noun->[PRISONER_nameDef] bị [SELLER_nameDef] bán làm nô lệ</li>
     <li>image->[TRADER_nameFull] mua [PRISONER_nameFull] từ [SELLER_nameFull] [circumstance_group]</li>
     <li>image->[SELLER_nameFull] bán [PRISONER_nameFull] cho [TRADER_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->khi những người thực dân khác nhìn vào không chấp thuận</li>
+    <li>circumstance_phrase->khi những cư dân khác nhìn vào không chấp thuận</li>
     <li>circumstance_phrase->trong khi [SELLER_nameDef] đếm tiền [TRADER_possessive]</li>
     <li>circumstance_phrase->trong khi [PRISONER_nameDef] rên rỉ thảm thiết</li>
     <li>circumstance_phrase->trước sự thất vọng của [PRISONER_nameDef]</li>
@@ -500,7 +500,7 @@
     <li>circumstance_phrase->như vẻ ngoài của [Animal] hoang dã với vẻ kinh tởm</li>
     <li>circumstance_phrase->như [ANIMAL_nameDef] nghĩ về những ngày đơn giản hơn khi nó là một con thú hoang</li>
     <li>circumstance_phrase->khi [TRAINER_nameDef] nghĩ ra món gì cho bữa trưa</li>
-    <li>circumstance_phrase->như những người thực dân khác làm công việc thực tế</li>
+    <li>circumstance_phrase->như những cư dân khác làm công việc thực tế</li>
     <li>desc_sentence->[TRAINER_nameDef] đang thể hiện sự vui mừng.</li>
     <li>desc_sentence->[TRAINER_nameDef] đang mỉm cười.</li>
     <li>desc_sentence->[TRAINER_nameDef] có vẻ buồn chán.</li>

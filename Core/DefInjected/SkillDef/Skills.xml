@@ -19,14 +19,27 @@
     <li>subject->wildlife</li>
     <li>subject->poultry</li>
   -->
-  <Animals.generalRules.rulesStrings>TODO</Animals.generalRules.rulesStrings>
+  <Animals.generalRules.rulesStrings>
+    <li>subject->động vật</li>
+    <li>subject->chăn đàn</li>
+    <li>subject->thuần hóa</li>
+    <li>subject->gia súc</li>
+    <li>subject->nhân giống</li>
+    <li>subject->động vật học</li>
+    <li>subject->chăn nuôi</li>
+    <li>subject->chăn đàn</li>
+    <li>subject->thuần dưỡng</li>
+    <li>subject->động vật</li>
+    <li>subject->động vật hoang dã</li>
+    <li>subject->gia cầm</li>
+  </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
   <Animals.skillLabel>luyện thú</Animals.skillLabel>
   
   <!-- EN: artistic -->
   <Artistic.label>nghệ thuật</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>Nghệ thuật chế tác.</Artistic.description>
+  <Artistic.description>Tạo ra các tác phẩm nghệ thuật.</Artistic.description>
   <!-- EN:
     <li>subject->art</li>
     <li>subject->pottery</li>
@@ -40,14 +53,26 @@
     <li>subject->impressionism</li>
     <li>subject->artistry</li>
   -->
-  <Artistic.generalRules.rulesStrings>TODO</Artistic.generalRules.rulesStrings>
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->nghệ thuật</li>
+    <li>subject->đồ gốm</li>
+    <li>subject->điêu khắc</li>
+    <li>subject->hội họa</li>
+    <li>subject->sáng tạo</li>
+    <li>subject->biểu đạt</li>
+    <li>subject->thẩm mỹ</li>
+    <li>subject->thiết kế</li>
+    <li>subject->tượng khắc</li>
+    <li>subject->trường phái ấn tượng</li>
+    <li>subject->tài hoa nghệ thuật</li>
+  </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
   <Artistic.skillLabel>nghệ thuật</Artistic.skillLabel>
   
   <!-- EN: construction -->
   <Construction.label>xây dựng</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>Xây dựng và phân giải cấu trúc và đồ nội thất.</Construction.description>
+  <Construction.description>Xây dựng và tháo dỡ công trình, đồ nội thất.</Construction.description>
   <!-- EN:
     <li>subject->construction</li>
     <li>subject->building</li>
@@ -60,14 +85,25 @@
     <li>subject->carpentry</li>
     <li>subject->infrastructure</li>
   -->
-  <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
+  <Construction.generalRules.rulesStrings>
+    <li>subject->xây dựng</li>
+    <li>subject->dựng công trình</li>
+    <li>subject->kiến trúc</li>
+    <li>subject->kỹ thuật</li>
+    <li>subject->thiết kế</li>
+    <li>subject->cải tạo</li>
+    <li>subject->kết cấu</li>
+    <li>subject->móng</li>
+    <li>subject->mộc</li>
+    <li>subject->hạ tầng</li>
+  </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>xây dựng</Construction.skillLabel>
   
   <!-- EN: cooking -->
   <Cooking.label>nấu ăn</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Tạo bữa ăn từ nguyên liệu thô nhanh chóng và không bị ngộ độc thực phẩm.</Cooking.description>
+  <Cooking.description>Chế biến bữa ăn từ nguyên liệu thô nhanh chóng và tránh gây ngộ độc thực phẩm ngoài ý muốn.</Cooking.description>
   <!-- EN:
     <li>subject->cooking</li>
     <li>subject->food</li>
@@ -83,14 +119,28 @@
     <li>subject->sauces</li>
     <li>subject->meals</li>
   -->
-  <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->nấu ăn</li>
+    <li>subject->thức ăn</li>
+    <li>subject->nướng bánh</li>
+    <li>subject->ẩm thực</li>
+    <li>subject->công thức nấu ăn</li>
+    <li>subject->nghệ thuật ẩm thực</li>
+    <li>subject->hương vị</li>
+    <li>subject->nguyên liệu</li>
+    <li>subject->gia vị</li>
+    <li>subject->dinh dưỡng</li>
+    <li>subject->vị giác</li>
+    <li>subject->nước sốt</li>
+    <li>subject->bữa ăn</li>
+  </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>nấu ăn</Cooking.skillLabel>
   
   <!-- EN: crafting -->
   <Crafting.label>chế tạo</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>Chế tạo các vật phẩm nói chung bao gồm vũ khí, linh kiện và tài nguyên tinh chế.</Crafting.description>
+  <Crafting.description>Chế tạo các vật phẩm thông thường như vũ khí, linh kiện và tài nguyên đã tinh chế.</Crafting.description>
   <!-- EN:
     <li>subject->crafting</li>
     <li>subject->assembly</li>
@@ -102,14 +152,24 @@
     <li>subject->machining</li>
     <li>subject->artisanry</li>
   -->
-  <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->chế tác</li>
+    <li>subject->lắp ráp</li>
+    <li>subject->sản xuất</li>
+    <li>subject->thủ công</li>
+    <li>subject->chế tạo</li>
+    <li>subject->sản xuất</li>
+    <li>subject->tay nghề</li>
+    <li>subject->gia công máy</li>
+    <li>subject->nghề thủ công</li>
+  </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>chế tạo</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
   <Intellectual.label>trí tuệ</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>Nghiên cứu và tổng hợp thuốc.</Intellectual.description>
+  <Intellectual.description>Nghiên cứu và tổng hợp dược phẩm cùng các chất gây nghiện.</Intellectual.description>
   <!-- EN:
     <li>subject->physics</li>
     <li>subject->chemistry</li>
@@ -135,14 +195,38 @@
     <li>subject->research methods</li>
     <li>subject->intellectual inquiry</li>
   -->
-  <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->vật lý</li>
+    <li>subject->hóa học</li>
+    <li>subject->động lực học quỹ đạo</li>
+    <li>subject->toán học</li>
+    <li>subject->sinh học</li>
+    <li>subject->khoa học</li>
+    <li>subject->nghiên cứu</li>
+    <li>subject->đổi mới</li>
+    <li>subject->khám phá</li>
+    <li>subject->phân tích</li>
+    <li>subject->thí nghiệm</li>
+    <li>subject->tri thức</li>
+    <li>subject->thám hiểm</li>
+    <li>subject->vật lý</li>
+    <li>subject->hóa học</li>
+    <li>subject->phân tích dữ liệu</li>
+    <li>subject->tìm hiểu khoa học</li>
+    <li>subject->phát triển trí tuệ</li>
+    <li>subject->nghiên cứu học thuật</li>
+    <li>subject->phân tích định lượng</li>
+    <li>subject->thiết kế thí nghiệm</li>
+    <li>subject->phương pháp nghiên cứu</li>
+    <li>subject->tìm hiểu tri thức</li>
+  </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>trí tuệ</Intellectual.skillLabel>
   
   <!-- EN: medical -->
-  <Medicine.label>y học</Medicine.label>
+  <Medicine.label>y tế</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>Chăm sóc vết thương và bệnh và thực hiện phẫu thuật.</Medicine.description>
+  <Medicine.description>Chăm sóc vết thương, chữa bệnh và thực hiện phẫu thuật.</Medicine.description>
   <!-- EN:
     <li>subject->medicine</li>
     <li>subject->surgery</li>
@@ -167,14 +251,37 @@
     <li>subject->virology</li>
     <li>subject->health sciences</li>
   -->
-  <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->y học</li>
+    <li>subject->phẫu thuật</li>
+    <li>subject->vi khuẩn</li>
+    <li>subject->phục hồi da</li>
+    <li>subject->chăm sóc sức khỏe</li>
+    <li>subject->khoa học y tế</li>
+    <li>subject->sinh lý học</li>
+    <li>subject->dược lý học</li>
+    <li>subject->điều trị</li>
+    <li>subject->chẩn đoán</li>
+    <li>subject->phẫu thuật</li>
+    <li>subject->giải phẫu</li>
+    <li>subject->vi khuẩn</li>
+    <li>subject->bệnh lý học</li>
+    <li>subject->kiểm soát bệnh tật</li>
+    <li>subject->chăm sóc bệnh nhân</li>
+    <li>subject->y học cấp cứu</li>
+    <li>subject->điều dưỡng</li>
+    <li>subject->nghiên cứu y học</li>
+    <li>subject->y tế công cộng</li>
+    <li>subject->virus học</li>
+    <li>subject->khoa học sức khỏe</li>
+  </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
-  <Medicine.skillLabel>y học</Medicine.skillLabel>
+  <Medicine.skillLabel>y tế</Medicine.skillLabel>
   
   <!-- EN: melee -->
   <Melee.label>cận chiến</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>Chiến đấu cận chiến, cả vũ trang và không vũ trang.</Melee.description>
+  <Melee.description>Chiến đấu cận chiến bằng vũ khí hoặc tay không.</Melee.description>
   <!-- EN:
     <li>subject->fighting</li>
     <li>subject->melee</li>
@@ -188,14 +295,26 @@
     <li>subject->knighthood</li>
     <li>subject->dueling</li>
   -->
-  <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
+  <Melee.generalRules.rulesStrings>
+    <li>subject->chiến đấu</li>
+    <li>subject->cận chiến</li>
+    <li>subject->giao tranh</li>
+    <li>subject->võ thuật</li>
+    <li>subject->kiếm thuật</li>
+    <li>subject->vũ khí</li>
+    <li>subject->đánh nhau</li>
+    <li>subject->quyền thuật</li>
+    <li>subject->đấu kiếm</li>
+    <li>subject->hiệp sĩ</li>
+    <li>subject->đấu tay đôi</li>
+  </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>cận chiến</Melee.skillLabel>
   
   <!-- EN: mining -->
   <Mining.label>đào mỏ</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>Đào đường hầm và khai thác tài nguyên bị chôn vùi.</Mining.description>
+  <Mining.description>Đào đường hầm và khai thác tài nguyên dưới lòng đất.</Mining.description>
   <!-- EN:
     <li>subject->mining</li>
     <li>subject->digging</li>
@@ -211,14 +330,28 @@
     <li>subject->geology</li>
     <li>subject->earthmoving</li>
   -->
-  <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
+  <Mining.generalRules.rulesStrings>
+    <li>subject->khai thác mỏ</li>
+    <li>subject->đào bới</li>
+    <li>subject->khai thác đá</li>
+    <li>subject->khai thác lộ thiên</li>
+    <li>subject->đào đất</li>
+    <li>subject->thăm dò khoáng sản</li>
+    <li>subject->quặng</li>
+    <li>subject->đào hầm</li>
+    <li>subject->khoan</li>
+    <li>subject->khoáng vật</li>
+    <li>subject->ngọc học</li>
+    <li>subject->địa chất</li>
+    <li>subject->đào đắp đất đá</li>
+  </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>đào mỏ</Mining.skillLabel>
   
   <!-- EN: plants -->
   <Plants.label>trồng trọt</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>Gieo hạt, chăm sóc và thu hoạch mùa màng, và kiếm thức ăn khi đi du lịch.</Plants.description>
+  <Plants.description>Gieo trồng, chăm sóc và thu hoạch cây trồng, cũng như kiếm thức ăn khi đi đường.</Plants.description>
   <!-- EN:
     <li>subject->plants</li>
     <li>subject->herbs</li>
@@ -238,14 +371,32 @@
     <li>subject->food production</li>
     <li>subject->crop science</li>
   -->
-  <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
+  <Plants.generalRules.rulesStrings>
+    <li>subject->cây trồng</li>
+    <li>subject->thảo dược</li>
+    <li>subject->rau củ</li>
+    <li>subject->thực vật</li>
+    <li>subject->canh tác</li>
+    <li>subject->làm vườn</li>
+    <li>subject->nông nghiệp</li>
+    <li>subject->chăm vườn</li>
+    <li>subject->trồng trọt</li>
+    <li>subject->thu hoạch</li>
+    <li>subject->nông nghiệp bền vững</li>
+    <li>subject->thực vật học</li>
+    <li>subject->quản lý cây trồng</li>
+    <li>subject->làm giàu đất</li>
+    <li>subject->nông nghiệp hữu cơ</li>
+    <li>subject->sản xuất lương thực</li>
+    <li>subject->khoa học cây trồng</li>
+  </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>trồng trọt</Plants.skillLabel>
   
   <!-- EN: shooting -->
   <Shooting.label>bắn súng</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>Chiến đấu tầm xa, với cả vũ khí công nghệ cao và công nghệ thấp.</Shooting.description>
+  <Shooting.description>Chiến đấu tầm xa bằng cả vũ khí công nghệ cao lẫn công nghệ thấp.</Shooting.description>
   <!-- EN:
     <li>subject->guns</li>
     <li>subject->weapons</li>
@@ -266,14 +417,33 @@
     <li>subject->gun handling</li>
     <li>subject->distance shooting</li>
   -->
-  <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->súng</li>
+    <li>subject->vũ khí</li>
+    <li>subject->ngắm bắn</li>
+    <li>subject->bắn súng</li>
+    <li>subject->kỹ thuật bắn súng</li>
+    <li>subject->thiện xạ</li>
+    <li>subject->súng đạn</li>
+    <li>subject->bắn tỉa</li>
+    <li>subject->đạn đạo</li>
+    <li>subject->chiến đấu tầm xa</li>
+    <li>subject->bắn chính xác</li>
+    <li>subject->thành thạo súng trường</li>
+    <li>subject->luyện bắn</li>
+    <li>subject->bắn thiện xạ</li>
+    <li>subject->chiến thuật tầm xa</li>
+    <li>subject->chọn điểm bắn</li>
+    <li>subject->xử lý súng</li>
+    <li>subject->bắn xa</li>
+  </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>bắn súng</Shooting.skillLabel>
   
   <!-- EN: social -->
   <Social.label>giao tiếp</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>Đàm phán, thuyết phục, thao túng, lãnh đạo và cổ vũ người khác.</Social.description>
+  <Social.description>Đàm phán, thuyết phục, thao túng, lãnh đạo và động viên người khác.</Social.description>
   <!-- EN:
     <li>subject->communication</li>
     <li>subject->networking</li>
@@ -293,7 +463,25 @@
     <li>subject->emotional intelligence</li>
     <li>subject->communication skills</li>
   -->
-  <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
+  <Social.generalRules.rulesStrings>
+    <li>subject->giao tiếp</li>
+    <li>subject->xây dựng quan hệ</li>
+    <li>subject->giải quyết xung đột</li>
+    <li>subject->hợp tác</li>
+    <li>subject->lãnh đạo</li>
+    <li>subject->đồng cảm</li>
+    <li>subject->đàm phán</li>
+    <li>subject->thương mại</li>
+    <li>subject->lắng nghe</li>
+    <li>subject->ngoại giao</li>
+    <li>subject->làm việc nhóm</li>
+    <li>subject->nghi thức xã giao</li>
+    <li>subject->sức hút cá nhân</li>
+    <li>subject->trí tuệ xã hội</li>
+    <li>subject->quyết đoán</li>
+    <li>subject->trí tuệ cảm xúc</li>
+    <li>subject->kỹ năng giao tiếp</li>
+  </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>giao tiếp</Social.skillLabel>
   

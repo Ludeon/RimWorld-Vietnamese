@@ -1,58 +1,62 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: cleaning time multiplier -->
   <CleaningTimeFactor.label>hệ số thời gian làm sạch</CleaningTimeFactor.label>
   <!-- EN: A multiplier on how long it takes to clean filth from this surface. -->
-  <CleaningTimeFactor.description>Hệ số về thời gian cần thiết để làm sạch vết bẩn trên bề mặt này.</CleaningTimeFactor.description>
+  <CleaningTimeFactor.description>Hệ số áp dụng lên thời gian cần để dọn sạch vết bẩn trên bề mặt này.</CleaningTimeFactor.description>
+  
   <!-- EN: construction speed -->
   <ConstructionSpeedFactor.label>tốc độ xây dựng</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
-  <ConstructionSpeedFactor.description>Tốc độ xây dựng của các công trình được nhân với giá trị này.\n\nMột số vật liệu, như đá, được xây dựng chậm, trong khi những vật liệu khác, như gỗ, thì nhanh.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.description>Tốc độ xây các công trình bằng vật liệu này được nhân với giá trị này.\n\nMột số vật liệu như đá xây chậm hơn, trong khi những vật liệu khác như gỗ thì nhanh hơn.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>tốc độ xây dựng (yếu tố vật liệu)</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>tốc độ xây dựng (hệ số vật liệu)</ConstructionSpeedFactor.labelForFullStatList>
+  
   <!-- EN: filth multiplier -->
-  <FilthMultiplier.label>hệ số bẩn thỉu</FilthMultiplier.label>
+  <FilthMultiplier.label>hệ số bám bẩn</FilthMultiplier.label>
   <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. This only applies to organic filth. -->
-  <FilthMultiplier.description>Bề mặt này dễ bị bẩn đến mức nào. Nếu tỷ lệ này thấp hơn 100%, một số rác thải ở đây sẽ biến mất khi tiếp xúc.</FilthMultiplier.description>
+  <FilthMultiplier.description>Mức độ bề mặt này dễ bám bẩn. Nếu chỉ số này thấp hơn 100%, một phần chất bẩn rơi xuống đây sẽ tự biến mất khi chạm vào bề mặt. Điều này chỉ áp dụng cho chất bẩn hữu cơ.</FilthMultiplier.description>
+  
   <!-- EN: medical potency -->
   <MedicalPotency.label>hiệu quả y tế</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>Làm thế nào hiệu quả này là khi được sử dụng để có xu hướng vết thương và bệnh, hoặc làm phẫu thuật.\n\nHiệu quả y tế cao hơn giúp cải thiện chất lượng chăm sóc và hoạt động như một hệ số về cơ hội thành công trong quá trình phẫu thuật.\n\nHiệu quả y tế chỉ là một yếu tố trong kết quả y tế, trong số nhiều yếu tố khác, bao gồm khả năng của bác sĩ, thiết bị, sự sạch sẽ và may mắn.</MedicalPotency.description>
+  <MedicalPotency.description>Mức hiệu quả của vật này khi dùng để điều trị vết thương, bệnh tật hoặc thực hiện phẫu thuật.\n\nHiệu quả y tế càng cao thì chất lượng điều trị càng tốt, đồng thời làm hệ số cho tỷ lệ thành công khi phẫu thuật.\nHiệu quả y tế chỉ là một trong nhiều yếu tố ảnh hưởng đến kết quả điều trị, bên cạnh tay nghề bác sĩ, thiết bị, độ sạch sẽ và may mắn.</MedicalPotency.description>
+  
   <!-- EN: medical tend quality maximum -->
-  <MedicalQualityMax.label>chất lượng y tế tối đa</MedicalQualityMax.label>
+  <MedicalQualityMax.label>chất lượng điều trị tối đa</MedicalQualityMax.label>
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
-  <MedicalQualityMax.description>Chất lượng tối đa của chăm sóc y tế có thể đạt được trong khi sử dụng thứ này.\n\nChất lượng xu hướng tốt hơn cho phép các bác sĩ lành nghề điều trị vết thương tốt hơn, cũng như đáng tin cậy hơn.</MedicalQualityMax.description>
+  <MedicalQualityMax.description>Chất lượng điều trị tối đa có thể đạt được khi dùng vật này.\n\nChất lượng điều trị cao hơn cho phép bác sĩ giỏi xử lý vết thương tốt hơn và ổn định hơn.</MedicalQualityMax.description>
+  
   <!-- EN: meditation psyfocus bonus -->
   <MeditationFocusStrength.label>thưởng tinh thần lực khi thiền</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
-  <MeditationFocusStrength.description>Lượng tinh thần lực tăng thêm mà một người nào đó đạt được bằng cách tập trung vào đối tượng này trong khi thiền định, ngoài tỷ lệ tinh thần lực thông qua thiền định của bản thân họ.\n\nĐối với một số đối tượng, con số này có thể thay đổi tùy thuộc vào môi trường xung quanh và người thực hành thiền định.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.description>Lượng tinh thần lực tăng thêm mà một người nhận được khi tập trung vào vật thể này trong lúc thiền định, ngoài tốc độ nhận tinh thần lực cơ bản của chính họ.\n\nVới một số vật thể, con số này có thể thay đổi tùy theo môi trường xung quanh và người đang thiền.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->
   <MeditationFocusStrength.formatString>{0} / ngày</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->
   <MeditationFocusStrength.formatStringUnfinalized>{0} / ngày</MeditationFocusStrength.formatStringUnfinalized>
-  <!--EN: neural heat limit offset-->
-  <!--VI: Bù giới hạn nhiệt thần kinh-->
-  <PsychicEntropyMaxOffset.label>TODO</PsychicEntropyMaxOffset.label>
-  <!--EN: An offset applied to the user's neural heat limit.-->
-  <!--VI: Một sự bù đắp được áp dụng cho giới hạn nhiệt thần kinh của người dùng.-->
-  <PsychicEntropyMaxOffset.description>TODO</PsychicEntropyMaxOffset.description>
-  <!--EN: neural heat recovery rate offset-->
-  <!--VI: Bù đắp tỷ lệ thu hồi nhiệt thần kinh-->
-  <PsychicEntropyRecoveryRateOffset.label>TODO</PsychicEntropyRecoveryRateOffset.label>
-  <!--EN: An offset applied to the user's neural heat recovery rate.-->
-  <!--VI: Một sự bù đắp được áp dụng cho tốc độ thu hồi nhiệt thần kinh của người dùng.-->
-  <PsychicEntropyRecoveryRateOffset.description>TODO</PsychicEntropyRecoveryRateOffset.description>
-  <!--EN: {0}/s-->
-  <!--VI: {0} / giây-->
-  <PsychicEntropyRecoveryRateOffset.formatString>TODO</PsychicEntropyRecoveryRateOffset.formatString>
-  <!--EN: psychic sensitivity factor-->
-  <!--VI: yếu tố nhạy cảm tâm linh-->
-  <PsychicSensitivityFactor.label>TODO</PsychicSensitivityFactor.label>
-  <!--EN: A factor applied to the user's psychic sensitivity.-->
-  <!--VI: Một yếu tố áp dụng cho sự nhạy cảm tâm lý của người dùng.-->
-  <PsychicSensitivityFactor.description>TODO</PsychicSensitivityFactor.description>
+  
+  <!-- EN: neural heat limit offset -->
+  <PsychicEntropyMaxOffset.label>mức cộng thêm nhiệt thần kinh tối đa</PsychicEntropyMaxOffset.label>
+  <!-- EN: An offset applied to the user's neural heat limit. -->
+  <PsychicEntropyMaxOffset.description>Giá trị cộng thêm vào mức nhiệt thần kinh tối đa của người dùng.</PsychicEntropyMaxOffset.description>
+  
+  <!-- EN: neural heat recovery rate offset -->
+  <PsychicEntropyRecoveryRateOffset.label>mức cộng thêm tốc độ tản nhiệt thần kinh</PsychicEntropyRecoveryRateOffset.label>
+  <!-- EN: An offset applied to the user's neural heat recovery rate. -->
+  <PsychicEntropyRecoveryRateOffset.description>Giá trị cộng thêm vào tốc độ tản nhiệt thần kinh của người dùng.</PsychicEntropyRecoveryRateOffset.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRateOffset.formatString>{0}/giây</PsychicEntropyRecoveryRateOffset.formatString>
+  
+  <!-- EN: psychic sensitivity factor -->
+  <PsychicSensitivityFactor.label>hệ số độ nhạy tâm linh</PsychicSensitivityFactor.label>
+  <!-- EN: A factor applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityFactor.description>Hệ số áp dụng lên độ nhạy tâm linh của người dùng.</PsychicSensitivityFactor.description>
+  
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>bù đắp độ nhạy cảm tâm linh</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>mức cộng thêm độ nhạy tâm linh</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityOffset.description>Một phần bù được áp dụng cho độ nhạy cảm của người dùng.</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.description>Giá trị cộng thêm vào độ nhạy tâm linh của người dùng.</PsychicSensitivityOffset.description>
+  
 </LanguageData>

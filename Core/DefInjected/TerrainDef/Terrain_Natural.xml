@@ -1,41 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
   <!-- EN: stony soil -->
-  <Gravel.label>đất đá</Gravel.label>
+  <Gravel.label>sỏi</Gravel.label>
   <!-- EN: gravel -->
   <Gravel.tools.gravel.label>sỏi</Gravel.tools.gravel.label>
+  
   <!-- EN: Ice -->
-  <Ice.label>Băng</Ice.label>
+  <Ice.label>băng</Ice.label>
+  
   <!-- EN: marshy soil -->
-  <MarshyTerrain.label>đất đầm lầy</MarshyTerrain.label>
+  <MarshyTerrain.label>đất lầy</MarshyTerrain.label>
   <!-- EN: mud -->
-  <MarshyTerrain.tools.mud.label>bùn</MarshyTerrain.tools.mud.label>
+  <MarshyTerrain.tools.mud.label>bùn lầy</MarshyTerrain.tools.mud.label>
+  
   <!-- EN: lichen-covered soil -->
-  <MossyTerrain.label>đất bám rêu</MossyTerrain.label>
+  <MossyTerrain.label>đất phủ rêu</MossyTerrain.label>
+  
   <!-- EN: mud -->
-  <Mud.label>bùn</Mud.label>
+  <Mud.label>bùn lầy</Mud.label>
   <!-- EN: mud -->
   <Mud.tools.mud.label>bùn</Mud.tools.mud.label>
-  <!--EN: riverbank-->
-  <!--VI: Riverbank-->
-  <Riverbank.label>TODO</Riverbank.label>
-  <!--EN: dirt-->
-  <!--VI: cáu-->
-  <Riverbank.tools.dirt.label>TODO</Riverbank.tools.dirt.label>
+  
+  <!-- EN: riverbank -->
+  <Riverbank.label>bờ sông</Riverbank.label>
+  <!-- EN: dirt -->
+  <Riverbank.tools.dirt.label>đất</Riverbank.tools.dirt.label>
+  
   <!-- EN: sand -->
   <Sand.label>cát</Sand.label>
   <!-- EN: sand -->
   <Sand.tools.sand.label>cát</Sand.tools.sand.label>
+  
   <!-- EN: soft sand -->
-  <SoftSand.label>cát mịn</SoftSand.label>
+  <SoftSand.label>cát mềm</SoftSand.label>
   <!-- EN: sand -->
   <SoftSand.tools.sand.label>cát</SoftSand.tools.sand.label>
+  
   <!-- EN: soil -->
   <Soil.label>đất</Soil.label>
   <!-- EN: dirt -->
-  <Soil.tools.dirt.label>bụi bẩn</Soil.tools.dirt.label>
+  <Soil.tools.dirt.label>đất</Soil.tools.dirt.label>
+  
   <!-- EN: rich soil -->
-  <SoilRich.label>đất dầy đặc</SoilRich.label>
+  <SoilRich.label>đất phì nhiêu</SoilRich.label>
   <!-- EN: dirt -->
-  <SoilRich.tools.dirt.label>bụi bẩn</SoilRich.tools.dirt.label>
+  <SoilRich.tools.dirt.label>đất</SoilRich.tools.dirt.label>
+  
 </LanguageData>
