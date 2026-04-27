@@ -4,20 +4,24 @@
   <!-- EN:
     <li>questDescription->[asker_nameFull], [asker_titleIndef], is calling from nearby. [asker_pronoun] has deserted the army of [asker_factionName] and is being hunted by (*Threat)a loyalty squad(/Threat). [asker_pronoun] wishes to join you at [map_definite].\n\n[asker_nameDef] knows the location of key outpost containing everything needed to develop psychic powers:\n\n[sitePart1_itemStashContents]\n\nBeware - If you accept [asker_nameDef], you will become an enemy of [asker_factionName]! The pursuing loyalty squad will attack immediately. It is composed of: \n\n[raid/raidPawnKinds]\n\nOnly accept if you wish to fight against [asker_factionName] and develop your psycasters on your own. You will have one year to attack the outpost before it is moved.</li>
   -->
-  <Intro_Deserter.questDescriptionRules.rulesStrings>TODO</Intro_Deserter.questDescriptionRules.rulesStrings>
+  <Intro_Deserter.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_titleIndef], đang gọi từ gần đây. [asker_pronoun] đã đào ngũ đội quân [asker_factionName] và đang bị truy lùng bởi (*Threat)một đội trung thành(/Threat). [asker_pronoun] mong muốn được tham gia cùng bạn tại [map_definite].\n\n[asker_nameDef] biết vị trí của tiền đồn quan trọng chứa mọi thứ cần thiết để phát triển năng lực tâm linh:\n\n[sitePart1_itemStashContents]\n\nHãy cẩn thận - Nếu bạn chấp nhận [asker_nameDef], bạn sẽ trở thành kẻ thù của [asker_factionName]! Đội hình trung thành truy đuổi sẽ tấn công ngay lập tức. Nó bao gồm: \n\n[raid/raidPawnKinds]\n\nChỉ chấp nhận nếu bạn muốn chiến đấu chống lại [asker_factionName] và tự mình phát triển người dùng năng lực tâm linh của mình. Bạn sẽ có một năm để tấn công tiền đồn trước khi nó được di chuyển.</li>
+  </Intro_Deserter.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The Deserter</li>
   -->
-  <Intro_Deserter.questNameRules.rulesStrings>TODO</Intro_Deserter.questNameRules.rulesStrings>
+  <Intro_Deserter.questNameRules.rulesStrings>
+    <li>questName->Kẻ đào ngũ</li>
+  </Intro_Deserter.questNameRules.rulesStrings>
   <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], [asker_factionName] has become hostile.\n\nThe loyalty squad that is hunting [asker_objective] will arrive soon. -->
-  <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>TODO</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
+  <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>{BASETEXT}\n\nBởi vì bạn đã chấp nhận [asker_nameDef], [asker_factionName] đã trở nên thù địch.\n\nĐội trung thành đang săn lùng [asker_objective] sẽ sớm đến.</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
   <!-- EN: {BASELABEL}: Loyalty squad -->
-  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>TODO</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>{BASELABEL}: Đội hình trung thành</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
   <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].\n               -->
-  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>TODO</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\nĐây là đội trung thành đang săn lùng [../asker_nameFull].\n</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <Intro_Deserter.LetterLabelQuestExpired.slateRef>TODO</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
   <!-- EN: The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on. -->
-  <Intro_Deserter.LetterTextQuestExpired.slateRef>TODO</Intro_Deserter.LetterTextQuestExpired.slateRef>
+  <Intro_Deserter.LetterTextQuestExpired.slateRef>Tiền đồn quan trọng của đế quốc, chứa những vật phẩm cần thiết cho năng lực tâm linh bí mật, đã thu dọn đồ đạc và di chuyển.</Intro_Deserter.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

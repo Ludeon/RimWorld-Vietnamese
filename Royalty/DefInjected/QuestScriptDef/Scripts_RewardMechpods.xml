@@ -8,7 +8,13 @@
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [commonMainPart]</li>
     <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.[helpersParagraph]</li>
   -->
-  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)->\n\nCác pod chứa những mối nguy sau:\n\n[allThreats]</li>
+    <li>dangersDescription-></li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] của [asker_faction_name], đang đưa ra một yêu cầu. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], một [asker_royalTitleInCurrentFaction] của [asker_faction_name], đang đưa ra một yêu cầu. [commonMainPart]</li>
+    <li>commonMainPart->Một bầy mechanoid đã tấn công các khu định cư của [asker_possessive]. [asker_pronoun] muốn bạn phát tín hiệu dụ mech để đánh lạc hướng chúng trong khi [asker_pronoun] dọn tổ. Nếu bạn làm vậy, (*Threat)một cụm mechanoid(/Threat) sẽ hạ xuống [map_definite].[dangersDescription]\n\nCụm mechanoid ban đầu sẽ ngủ yên. Nó có thể có bộ kích hoạt đếm ngược, hoặc có thể ngủ yên mãi cho đến khi bị quấy rầy.[helpersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>
     <li>questName->[menace] pods</li>
@@ -24,6 +30,20 @@
     <li>menace->terror</li>
     <li>menace->fear</li>
   -->
-  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>questName->cụm [menace]</li>
+    <li>questName->pod [menace]</li>
+    <li>questName->[nameBased]</li>
+    <li>nameBased->mech của [asker_nameDef]</li>
+    <li>nameBased->mechanoid của [asker_nameDef]</li>
+    <li>nameBased->cụm mech của [asker_nameDef]</li>
+    <li>nameBased->mech [menace] của [asker_nameDef]</li>
+    <li>menace->đe dọa</li>
+    <li>menace->hiểm họa</li>
+    <li>menace->tai ương</li>
+    <li>menace->nguy hiểm</li>
+    <li>menace->kinh hoàng</li>
+    <li>menace->sợ hãi</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

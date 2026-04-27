@@ -9,7 +9,14 @@
     <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nIf you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
     <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
   -->
-  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name], muốn bạn giúp cứu một đoàn lữ hành của [asker_possessive]. Đoàn lữ hành đang bị (*Threat)[numGroupsOf] [enemyFaction_pawnsPlural](/Threat) từ [enemyFaction_name] săn đuổi gần [map_definite]. [asker_nameDef] muốn bạn phát tín hiệu cho [enemyFaction_pawnsPlural] để kéo chúng rời khỏi đoàn lữ hành - và hướng về phía bạn.[endingCommon]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], một [asker_royalTitleInCurrentFaction] của [asker_faction_name], đang đưa ra một yêu cầu cho bạn.\n\n(*Threat)[groupsOf](/Threat) từ [enemyFaction_name] đã quấy phá các đoàn lữ hành của [asker_possessive] trong khu vực. [asker_nameDef] yêu cầu bạn gửi cho chúng một thông điệp thách thức, thu hút chúng tấn công và tự tay loại bỏ mối đe dọa.[endingCommon]</li>
+    <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
+    <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
+    <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nNếu bạn chấp nhận, [enemyFaction_pawnsPlural] sẽ đến sau [firstRaidDelayTicks_duration].</li>
+    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Nếu bạn chấp nhận, [enemyFaction_pawnsPlural] sẽ đến sau [firstRaidDelayTicks_duration].</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -32,6 +39,25 @@
     <li>violence->Hostility</li>
     <li>violence->Warfare</li>
   -->
-  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>questName->[enemyFaction_pawnsPlural] vì phần thưởng</li>
+    <li>questName->[violence] vì phần thưởng</li>
+    <li>questName->[violence] thuê</li>
+    <li>questName->[violence] vì lợi nhuận</li>
+    <li>questName->[violence] có thưởng</li>
+    <li>questName->[violence] được trả công</li>
+    <li>questName->[violence] được đền đáp</li>
+    <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural] vì ân huệ</li>
+    <li>questName(reward==royalFavor)->[violence] vì ân huệ</li>
+    <li>violence->Bạo lực</li>
+    <li>violence->Chiến đấu</li>
+    <li>violence->Giao tranh</li>
+    <li>violence->Chiến tranh</li>
+    <li>violence->Đổ máu</li>
+    <li>violence->Tấn công</li>
+    <li>violence->Phòng thủ</li>
+    <li>violence->Xung đột</li>
+    <li>violence->Thù địch</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

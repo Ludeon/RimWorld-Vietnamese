@@ -5,7 +5,10 @@
     <li>lodgersLabel->prisoner</li>
     <li>lodgersLabelPlural->prisoners</li>
   -->
-  <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->tù nhân</li>
+    <li>lodgersLabelPlural->tù nhân</li>
+  </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true,lodgersCount==1)->An orbiting ship captain wants you to guard a prisoner named [lodgers0_nameFull] at [map_definite] for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] recently spat on the most loved child of [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] of [enemyFaction_name]. [enemyFaction_leader_nameDef] will send [enemyFaction_pawnsPlural] to seek revenge on any who would protect [lodgers0_objective]. [enemyGroupsParagraph]</li>
@@ -38,7 +41,38 @@
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
   -->
-  <Hospitality_Prisoners.questDescriptionRules.rulesStrings>TODO</Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+  <Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->Thuyền trưởng của con tàu đang quay quanh muốn bạn canh giữ một tù nhân tên [lodgers0_nameFull] tại [map_definite] trong [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] gần đây đã nhổ vào đứa con được yêu thích nhất của [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] của [enemyFaction_name]. [enemyFaction_leader_nameDef] sẽ gửi [enemyFaction_pawnsPlural] để tìm cách trả thù bất kỳ ai bảo vệ [lodgers0_objective]. [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Thuyền trưởng của con tàu đang quay quanh muốn bạn canh giữ [lodgersCount] tù nhân ở [map_definite] trong [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nCác tù nhân đã thực hiện một loạt vụ giết người chống lại [enemyFaction_pawnsPlural] của [enemyFaction_name], và gia đình nạn nhân của họ sẽ đột kích để tìm cách trả thù. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nCác tù nhân gần đây [mechViolation], và đã trở thành mục tiêu của một tổ ong máy móc. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name], muốn bạn giam giữ một tù nhân đặc biệt với giá [asker_objective]. Tù nhân, một [lodgers0_age] tuổi [lodgers0_title] tên là [lodgers0_nameFull], biết thông tin đáng xấu hổ về [asker_nameDef]'s [PersonalCharacteristic], và [asker_nameDef] không muốn [lodgers0_objective] được trả tự do. Bạn chỉ cần giữ tù nhân trong [shuttleDelayTicks_duration] cho đến khi vụ bê bối qua đi. [allLodgerInfo][threatsInfo3][commonDescEnding]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThật không may, [enemyFaction_name] muốn lan truyền câu chuyện đáng xấu hổ và đang cử hành các cuộc đột kích để vượt ngục [lodgers0_nameDef] ra khỏi nhà tù. [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo3(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name], đã bắt [lodgersCount] tù nhân từ phe địch. Không còn chỗ để cất giữ chúng, [asker_nameDef] muốn bạn trông chừng chúng trong [shuttleDelayTicks_duration], cho đến khi [asker_possessive] nhà tù sẵn sàng.[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nCác tù nhân có hợp đồng giải cứu được trả tiền với [enemyFaction_name], vì vậy họ sẽ cử [enemyFaction_pawnsPlural] đi theo bạn. [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->Kẻ thù của \n\n[asker_nameDef] đã kích động một tổ ong máy móc săn lùng tù nhân, vì vậy nó sẽ cử các nhóm tấn công máy móc. [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], [asker_royalTitleInCurrentFaction] trong số [asker_faction_name] đã bị bắt quả tang lên giường nhầm người. [asker_pronoun] bỏ tù người yêu không phù hợp để thể hiện sự từ chối. Bây giờ [asker_pronoun] muốn bạn nhốt tù nhân [lodgers0_nameFull] cho đến khi vụ bê bối kết thúc ở [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo5][commonDescEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThật không may, các đối thủ trong tòa án của [asker_nameDef] đang trả [enemyFaction_name] để cố gắng phá vỡ người tình và đưa câu chuyện ra ánh sáng. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nThật không may, các đối thủ trong tòa án của [asker_nameDef] đã kích động các cuộc tấn công của máy móc từ [enemyFaction_name] để cố gắng giải thoát người yêu và đưa câu chuyện ra ánh sáng. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] trên [asker_faction_name], đang tìm kiếm sự giúp đỡ của bạn. Các nhà khảo cổ học hoàng gia của [asker_nameDef] gần đây đã trích xuất [lodgersCount] tù nhân từ một hầm tiền điện tử cổ xưa và có ý định thẩm vấn họ. Để giữ bí mật cho các tù nhân khỏi các đối thủ trong tòa án, [asker_nameDef] muốn bạn giữ họ trong [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo6][commonDescEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThật không may, [enemyFaction_pawnsPlural] từ [enemyFaction_name] tôn kính căn hầm nơi các tù nhân được đưa ra từ đó. Họ sẽ gửi các cuộc đột kích để tìm cách trả thù bất cứ ai nắm giữ chúng. [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nThật không may, [enemyFaction_pawnsPlural] từ [enemyFaction_name] đang canh gác căn hầm nơi các tù nhân được đưa ra khỏi đó. Họ sẽ cử người máy đi săn lùng những người mất ngủ. [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+  </Hospitality_Prisoners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Guarding for [asker_nameDef]</li>
     <li>questName(lodgersCount==1)->guarding [lodgers0_nameDef]</li>
@@ -55,6 +89,21 @@
     <li>adjAny->[AdjectiveAngsty]</li>
     <li>adjAny->[AdjectiveFriendly]</li>
   -->
-  <Hospitality_Prisoners.questNameRules.rulesStrings>TODO</Hospitality_Prisoners.questNameRules.rulesStrings>
+  <Hospitality_Prisoners.questNameRules.rulesStrings>
+    <li>questName->Bảo vệ cho [asker_nameDef]</li>
+    <li>questName(lodgersCount==1)->canh gác [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->tù nhân [lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->tù nhân [adjAny]</li>
+    <li>questName(lodgersCount==1)->một [adjAny] tù nhân</li>
+    <li>questName(lodgersCount>=2)->thuê quản ngục</li>
+    <li>questName(lodgersCount>=2)->quản ngục nhà tù</li>
+    <li>questName(lodgersCount>=2)->nhà tù hợp đồng</li>
+    <li>questName(lodgersCount>=2)->tù nhân bị truy nã</li>
+    <li>questName(lodgersCount>=2)->tù nhân [adjAny]</li>
+    <li>questName(lodgersCount>=2)->Tù nhân của [asker_nameDef]</li>
+    <li>adjAny->[AdjectiveBadass]</li>
+    <li>adjAny->[AdjectiveAngsty]</li>
+    <li>adjAny->[AdjectiveFriendly]</li>
+  </Hospitality_Prisoners.questNameRules.rulesStrings>
   
 </LanguageData>

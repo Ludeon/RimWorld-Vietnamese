@@ -1,10 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--EN: <li>lodgersLabel->guest</li>
-    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>-->
-  <!--VI: lưu <li>trúNhãn->khách</li>
-    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>-->
-  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>TODO</Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>lodgersLabel->guest</li>
+    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
+  -->
+  <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->Khách mời</li>
+    <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
+  </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
@@ -52,7 +56,7 @@
     <li>secretInfo->[enemyFaction_leaderTitle]</li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is fleeing a troubling political situation and wants to hide out at [map_definite] for [shuttleDelayTicks_duration]. [threatsInfo5][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
     <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[asker_nameDef]'s enemies have hired [enemyFaction_name] to hunt [asker_objective]. [enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]'s enemies provoked mechanoids into to hunting [asker_objective]. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]'s enemies provoked mechanoids into hunting [asker_objective]. [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[asker_nameDef]'s enemies have somehow provoked mechanoids into hunting [asker_objective]. [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
     <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], wants to stay at [map_definite] for [shuttleDelayTicks_duration] with [lodgersCountMinusOne] court [allyAllies]. [threatsInfo6][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
@@ -63,7 +67,64 @@
     <li>allyAllies(lodgersCountMinusOne==1)->ally</li>
     <li>allyAllies(lodgersCountMinusOne>=2)->allies</li>
   -->
-  <Hospitality_Joiners.questDescriptionRules.rulesStrings>TODO</Hospitality_Joiners.questDescriptionRules.rulesStrings>
+  <Hospitality_Joiners.questDescriptionRules.rulesStrings>
+    <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
+    <li>joinerEnding(priority=1)-></li>
+    <li>joinerEnding->Bạn sẽ có thể chỉ đạo [lodgersDef] giống như cách bạn chỉ đạo những người dân thuộc địa của mình.[specialNeedsExplanation]</li>
+    <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)->Bạn sẽ cần phải đáp ứng mọi nhu cầu đặc biệt của hoàng gia mà [lodgersLabelPlural] có thể có.</li>
+    <li>specialNeedsExplanation-></li>
+    <li>theirHisHer(lodgersCount==1)->[lodgers0_possessive]</li>
+    <li>theirHisHer(lodgersCount>=2)->của họ</li>
+    <li>lodgersPronoun(lodgersCount==1)->[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(lodgersCount>=2)->họ</li>
+    <li>lodgersWasWere(lodgersCount==1)->Đã từng là</li>
+    <li>lodgersWasWere(lodgersCount>=2)->đã từng</li>
+    <li>appreciateAppreciates(lodgersCount==1)->đánh giá cao</li>
+    <li>appreciateAppreciates(lodgersCount>=2)->đánh giá</li>
+    <li>goodwillForMood(goodwillRewardForMood==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] [appreciateAppreciates] chỗ ở chất lượng. Bạn sẽ đạt được thiện chí với [asker_faction_name] nếu bạn giữ tâm trạng trung bình [theirHisHer] trên 50%.</li>
+    <li>goodwillForMood-></li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->Một [lodgers0_title] có tên [lodgers0_nameFull] muốn bạn bảo vệ [lodgers0_objective] tại [map_definite] cho [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] gần đây đã bị bắt [wrongAct]. Đang tìm cách trả thù, [enemyFaction_pawnsPlural] sẽ đến với giá [lodgers0_objective] miễn là [lodgers0_pronoun] ở bên bạn. [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo1(generateThreats==false)-></li>
+    <li>wrongAct->xúc phạm [PersonalCharacteristic] của [enemyFaction_leader_nameDef], [enemyFaction_leaderTitle] của [enemyFaction_name]</li>
+    <li>wrongAct->ăn trộm gia súc từ [enemyFaction_name]</li>
+    <li>wrongAct->ăn trộm đồ ăn từ [enemyFaction_name]</li>
+    <li>wrongAct->ăn cắp hiện vật tâm linh từ [enemyFaction_name]</li>
+    <li>wrongAct->phá hoại các quan tài cryptosleep của [enemyFaction_name]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Một nhóm [lodgersCount] khách du lịch muốn bạn đón tiếp họ tại [map_definite] với giá [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nNhững du khách này gần đây đã được mời tham dự một buổi lễ quan trọng với [enemyFaction_name], nhưng lại xuất hiện trong tình trạng say xỉn và xúc phạm nghi lễ. [enemyFaction_name] hiện đang tiến hành các cuộc tấn công truy đuổi họ. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiHuman] [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\nCác du khách gần đây [mechViolation], và đã trở thành mục tiêu của một bầy máy móc quay quanh quỹ đạo. [enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==false)-></li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==false,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name] đang yêu cầu một ân huệ. [asker_possessive] người bạn [lodgers0_nameFull] quan tâm đến việc tìm hiểu về các nền văn hóa khác và [asker_pronoun] muốn bạn tổ chức [lodgers0_objective] tại [map_definite] cho [shuttleDelayTicks_duration]. [allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name] đang yêu cầu một ân huệ. Người bạn [asker_possessive], một đứa trẻ [lodgers0_age] tuổi [lodgers0_title] tên là [lodgers0_nameDef], đã bị bắt quả tang đang viết những lời lăng mạ ác ý về [PersonalCharacteristic] của [enemyFaction_leader_nameFull]. [asker_nameDef] đang yêu cầu bạn bảo vệ [lodgers0_nameDef] trong [shuttleDelayTicks_duration], cho đến khi [asker_pronoun] có ​​thể giải quyết ổn thỏa mối quan hệ với [enemyFaction_name]. Vì [enemyFaction_leader_nameDef] là [enemyFaction_leaderTitle] của [enemyFaction_name], nên [enemyFaction_leader_pronoun] đã cử nhóm [enemyFaction_pawnsPlural] đi săn kẻ xúc phạm [lodgers0_nameDef].\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==Raids,enemyFaction==Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name] đang yêu cầu một ân huệ. [asker_possessive] người bạn, một đứa trẻ [lodgers0_age] tuổi [lodgers0_title] tên là [lodgers0_nameDef], gần đây là [mechViolation]. [asker_nameDef] đang yêu cầu bạn bảo vệ [lodgers0_nameDef] trong [shuttleDelayTicks_duration], cho đến khi [asker_pronoun] có thể làm dịu cơ chế tổ ong.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1,generateThreats==true,threatType==MechClusters,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name] đang yêu cầu một ân huệ. [asker_possessive] người bạn, một đứa trẻ [lodgers0_age] tuổi [lodgers0_title] tên là [lodgers0_nameDef], gần đây là [mechViolation]. [asker_nameDef] đang yêu cầu bạn bảo vệ [lodgers0_nameDef] trong [shuttleDelayTicks_duration].\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==false,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name], gần đây đã giải cứu [lodgersCount] [asker_faction_pawnsPlural] khỏi nhà tù của kẻ thù. [asker_pronoun] muốn bạn canh giữ chúng ở [map_definite] cho đến khi [asker_pronoun] có thể cử xe đưa đón đến đón chúng ở [shuttleDelayTicks_duration]. [allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] của [asker_faction_name], gần đây đã được giải cứu [lodgersCount] [asker_faction_pawnsPlural] khỏi nhà tù của [enemyFaction_name]. [asker_nameDef] muốn bạn canh giữ chúng ở [map_definite] trong [shuttleDelayTicks_duration] cho đến khi [asker_pronoun] có thể cử xe đưa đón đến đón chúng. [asker_faction_pawnsPlural] biết bí mật về [secretInfo] của [enemyFaction_name] nên họ sẽ bị săn lùng.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==Raids,enemyFaction==Mechanoid,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name], gần đây đã giải cứu [lodgersCount] [asker_faction_pawnsPlural] khỏi kho lưu trữ tiền điện tử. [asker_nameDef] muốn bạn canh giữ chúng ở [map_definite] trong [shuttleDelayTicks_duration] cho đến khi [asker_pronoun] có thể cử xe đưa đón đến đón chúng. [asker_faction_pawnsPlural] sẽ bị săn lùng bởi các máy móc.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,generateThreats==true,threatType==MechClusters,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] trong số [asker_faction_name], gần đây đã giải cứu [lodgersCount] [asker_faction_pawnsPlural] khỏi chuồng của một tổ ong cơ khí. [asker_nameDef] muốn bạn canh giữ chúng ở [map_definite] trong [shuttleDelayTicks_duration] cho đến khi [asker_pronoun] có thể cử xe đưa đón đến đón chúng. Các mech đang theo dõi các tù nhân cũ của họ.\n\n[threatDescriptionParagraph][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>secretInfo->khả năng quân sự</li>
+    <li>secretInfo->vi phạm đạo đức</li>
+    <li>secretInfo->nghiên cứu vũ khí</li>
+    <li>secretInfo->trại tù</li>
+    <li>secretInfo->[enemyFaction_leaderTitle]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], [asker_royalTitleInCurrentFaction] của [asker_faction_name], đang chạy trốn khỏi một tình huống chính trị rắc rối và muốn trốn ở [map_definite] vì [shuttleDelayTicks_duration]. [threatsInfo5][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->Kẻ thù của \n\n[asker_nameDef] đã thuê [enemyFaction_name] để săn [asker_objective]. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->Kẻ thù của \n\n[asker_nameDef] đã kích động các máy móc đi săn [asker_objective]. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->Kẻ thù của \n\n[asker_nameDef] bằng cách nào đó đã kích động các máy móc đi săn [asker_objective]. [enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==false)-></li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] của [asker_faction_name], muốn ở lại [map_definite] trong [shuttleDelayTicks_duration] với [lodgersCountMinusOne] tòa [allyAllies]. [threatsInfo6][allLodgerInfo][goodwillForMood][commonDescEnding]\n\n[joinerEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->[asker_nameDef] và [asker_possessive] [allyAllies] đã trở thành mục tiêu bị giết và cần một nơi an toàn để ở cho đến khi họ có thể thanh trừng tòa án của mình. Tuy nhiên, kẻ thù của [asker_nameDef] đã thuê [enemyFaction_name] để săn [asker_objective].\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->[asker_nameDef] và [asker_possessive] [allyAllies] đã trở thành mục tiêu bị giết và cần một nơi an toàn để ở cho đến khi họ có thể thanh trừng tòa án của mình. Tuy nhiên, kẻ thù của [asker_nameDef] đã kích động [enemyFaction_name] đi săn [asker_objective].\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->[asker_nameDef] và [asker_possessive] [allyAllies] đã trở thành mục tiêu bị giết và cần một nơi an toàn để ở cho đến khi họ có thể thanh trừng tòa án của mình. Tuy nhiên, kẻ thù của [asker_nameDef] bằng cách nào đó đã kích động các máy móc đi săn [asker_objective].\n\n[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==false)-></li>
+    <li>allyAllies(lodgersCountMinusOne==1)->đồng minh</li>
+    <li>allyAllies(lodgersCountMinusOne>=2)->đồng minh</li>
+  </Hospitality_Joiners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->shelter for [lodgerIndef]</li>
     <li>questName->hospitality for [lodgerIndef]</li>
@@ -94,5 +155,35 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->nobles</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->aristocrats</li>
   -->
-  <Hospitality_Joiners.questNameRules.rulesStrings>TODO</Hospitality_Joiners.questNameRules.rulesStrings>
+  <Hospitality_Joiners.questNameRules.rulesStrings>
+    <li>questName->nơi trú ẩn cho [lodgerIndef]</li>
+    <li>questName->lòng hiếu khách dành cho [lodgerIndef]</li>
+    <li>questName->lưu trữ [lodgerIndef]</li>
+    <li>questName->[lodgerIndef] cần giúp đỡ</li>
+    <li>questName(generateThreats==true,priority=1)->bảo vệ [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->bảo vệ [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->bảo mật cho [lodgerIndef]</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] đang bị đe dọa</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] đang gặp nguy hiểm</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] với kẻ thù</li>
+    <li>questName(generateThreats==true,priority=1)->[lodgerIndef] trong dấu thập</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount==1)->một [lodgers0_title]</li>
+    <li>lodgerIndef(askerIsNull==true,lodgersCount>=2)->du khách</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->[lodgers0_label]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->một [lodgers0_title]</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->một người bạn</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount==1)->một đồng minh</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->bạn</li>
+    <li>lodgerIndef(asker_factionLeader==True,lodgersCount>=2)->đồng minh</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1,p=3)->một [asker_royalTitleInCurrentFaction]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_label]</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->một hoàng gia</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->một quý tộc</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount==1)->một quý tộc</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->hoàng gia</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->quý tộc</li>
+    <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->quý tộc</li>
+  </Hospitality_Joiners.questNameRules.rulesStrings>
+  
 </LanguageData>

@@ -1,6 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!--EN: <li>questDescription->[introduction] named [joiner_nameFull] is calling for help! [joiner_pronoun] is hiding from [hidingFrom]. [joiner_pronoun] wants to flee and join you at [map_definite].[joiner_relationInfo]\n\n[condDesc]\n\nDesperate to stay hidden, [joiner_nameDef] claims to be unable to tell you more about [joiner_objective]self.</li>
+  
+  <!-- EN:
+    <li>questDescription->[introduction] named [joiner_nameFull] is calling for help! [joiner_pronoun] is hiding from [hidingFrom]. [joiner_pronoun] wants to flee and join you at [map_definite].[joiner_relationInfo]\n\n[condDesc]\n\nDesperate to stay hidden, [joiner_nameDef] claims to be unable to tell you more about [joiner_objective]self.</li>
     <li>hidingFrom(gameCondition==ToxicFallout)->a pack of starving wolves</li>
     <li>condDesc(gameCondition==ToxicFallout)->However, [joiner_nameDef] can only kill the wolves by setting fire to a massive toxic chemical dump nearby. [gameConditionDuration_duration] of toxic fallout will follow.</li>
     <li>hidingFrom(gameCondition==VolcanicWinter)->a gang of cannibals</li>
@@ -18,148 +20,174 @@
     <li>hidingFrom(gameCondition==PsychicSuppression)->a hostile machine persona whom [joiner_pronoun] recently awoke</li>
     <li>condDesc(gameCondition==PsychicSuppression)->If [joiner_pronoun] joins you, the persona will hit [map_definite] with psychic suppression waves for [gameConditionDuration_duration], reducing consciousness of all [psychicSuppressorGender]s.</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
-    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>-->
-  <!--VI: <li>questDescription->[giới thiệu] có tên [joiner_nameFull] đang kêu cứu! [joiner_pronoun] đang trốn khỏi [hideingFrom]. [joiner_pronoun] muốn chạy trốn và tham gia cùng bạn tại [map_definite]. [joiner_relationInfo]\n\n[condDesc]\n\nTuyệt vọng muốn ẩn nấp, [joiner_nameDef] tuyên bố không thể nói thêm về bản thân [joiner_objective].</li>
-    <li>hideingFrom(gameCondition==ToxicFallout)-> bầy sói đói</li>
-    <li>condDesc(gameCondition==ToxicFallout)->Tuy nhiên, [joiner_nameDef] chỉ có thể giết những con sói bằng cách đốt một bãi chứa hóa chất độc hại khổng lồ gần đó. [gameConditionDuration_duration] bụi phóng xạ độc hại sẽ theo sau.</li>
-    <li>hideingFrom(gameCondition==VolcanicWinter)->một nhóm ăn thịt người</li>
-    <li>condDesc(gameCondition==VolcanicWinter)->Tuy nhiên, [joiner_nameDef] chỉ có thể giết băng đảng bằng cách đốt một đống rác khổng lồ bị bỏ hoang gần đó. Nếu [joiner_pronoun] tham gia cùng bạn, bụi phóng xạ khói sẽ chặn mặt trời trong [gameConditionDuration_duration].</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[introduction] có tên [joiner_nameFull] đang kêu cứu! [joiner_pronoun] đang trốn khỏi [hidingFrom]. [joiner_pronoun] muốn bỏ trốn và tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\n[condDesc]\n\nTuyệt vọng phải ẩn mình, [joiner_nameDef] tuyên bố rằng không thể cho bạn biết thêm về [joiner_objective]bản thân.</li>
+    <li>hidingFrom(gameCondition==ToxicFallout)->một bầy sói đói</li>
+    <li>condDesc(gameCondition==ToxicFallout)->Tuy nhiên, [joiner_nameDef] chỉ có thể giết bầy sói bằng cách đốt một bãi chứa hóa chất độc hại khổng lồ gần đó. [gameConditionDuration_duration] sẽ xảy ra bụi phóng xạ độc hại.</li>
+    <li>hidingFrom(gameCondition==VolcanicWinter)->một nhóm ăn thịt người</li>
+    <li>condDesc(gameCondition==VolcanicWinter)->Tuy nhiên, [joiner_nameDef] chỉ có thể tiêu diệt băng đảng bằng cách đốt cháy một đống rác khổng lồ bị bỏ hoang gần đó. Nếu [joiner_pronoun] tham gia cùng bạn, bụi phóng xạ khói sẽ chặn ánh nắng mặt trời trong [gameConditionDuration_duration].</li>
     <li>hidingFrom(gameCondition==EMIField)->một nhóm máy móc</li>
-    <li>condDesc(gameCondition==EMIField)->Tuy nhiên, [joiner_nameDef] chỉ có thể phá hủy các cơ chế bằng cách kích hoạt một máy phát điện EMI cổ đại. Nếu [joiner_pronoun] tham gia cùng bạn, một trường EMI sẽ được tạo ra, tắt các thiết bị điện cho [gameConditionDuration_duration].</li>
-    <li>hidingFrom(gameCondition==HeatWave)-> vệ tinh kiểm soát khí hậu bị trục trặc</li>
-    <li>condDesc(gameCondition==HeatWave)->Nếu [joiner_pronoun] tham gia cùng bạn, một đợt nắng nóng dữ dội sẽ kéo dài trong [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
-    <li>hideingFrom(gameCondition==ColdSnap)-> vệ tinh điều khiển khí hậu bị trục trặc</li>
-    <li>condDesc(gameCondition==ColdSnap)->Nếu [joiner_pronoun] tham gia cùng bạn, một đợt lạnh dữ dội sẽ kéo dài trong [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
-    <li>hidingFrom(gameCondition==WeatherController)-> vệ tinh điều khiển thời tiết bị trục trặc</li>
-    <li>condDesc(gameCondition==WeatherController)->Nếu [joiner_pronoun] tham gia cùng bạn, thời tiết sẽ là [forcedWeather_label] cho [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
-    <li>hideingFrom(gameCondition==PsychicDrone)->một nhân vật cỗ máy báo thù [joiner_pronoun] gần đây đã xúc phạm</li>
-    <li>condDesc(gameCondition==PsychicDrone)->Nếu [joiner_pronoun] tham gia cùng bạn, tâm trí máy móc sẽ làm nổ [map_definite] bằng máy bay không người lái tâm linh cấp [psychicDroneLevel] cho [gameConditionDuration_duration], làm giảm tâm trạng của tất cả [psychicDroneGender].</li>
-    <li>hideingFrom(gameCondition==PsychicSuppression)->một nhân vật máy móc thù địch mà [joiner_pronoun] gần đây đã thức dậy</li>
-    <li>condDesc(gameCondition==PsychicSuppression)->Nếu [joiner_pronoun] tham gia cùng bạn, persona sẽ tấn công [map_definite] với các đợt ức chế tâm linh cho [gameConditionDuration_duration], làm giảm ý thức của tất cả [psychicSuppressorGender].</li>
-    <li>giới thiệu(childCount==1,priority=1)->Một đứa trẻ [joiner_age]tuổi</li>
-    <li>giới thiệu->Một đứa trẻ [joiner_age] [joiner_title]</li>-->
-  <ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
+    <li>condDesc(gameCondition==EMIField)->Tuy nhiên, [joiner_nameDef] chỉ có thể phá hủy các máy móc bằng cách kích hoạt máy phát điện EMI cổ xưa. Nếu [joiner_pronoun] tham gia cùng bạn, trường EMI sẽ được tạo, tắt các thiết bị điện trong [gameConditionDuration_duration].</li>
+    <li>hidingFrom(gameCondition==HeatWave)->một vệ tinh kiểm soát khí hậu bị trục trặc</li>
+    <li>condDesc(gameCondition==HeatWave)->Nếu [joiner_pronoun] tham gia cùng bạn, một đợt nắng nóng gay gắt sẽ kéo dài trong [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
+    <li>hidingFrom(gameCondition==ColdSnap)->một vệ tinh kiểm soát khí hậu bị trục trặc</li>
+    <li>condDesc(gameCondition==ColdSnap)->Nếu [joiner_pronoun] tham gia cùng bạn, một đợt rét đậm sẽ kéo dài trong [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
+    <li>hidingFrom(gameCondition==WeatherController)->một vệ tinh điều khiển thời tiết bị trục trặc</li>
+    <li>condDesc(gameCondition==WeatherController)->Nếu [joiner_pronoun] tham gia cùng bạn, thời tiết sẽ là [forcedWeather_label] trong [gameConditionDuration_duration] cho đến khi vệ tinh đặt lại.</li>
+    <li>hidingFrom(gameCondition==PsychicDrone)->một nhân vật máy báo thù [joiner_pronoun] gần đây đã xúc phạm</li>
+    <li>condDesc(gameCondition==PsychicDrone)->Nếu [joiner_pronoun] tham gia cùng bạn, tâm trí máy sẽ phủ [map_definite] bằng âm vang tâm linh cấp [psychicDroneLevel] trong [gameConditionDuration_duration], làm giảm tâm trạng của tất cả [psychicDroneGender]s.</li>
+    <li>hidingFrom(gameCondition==PsychicSuppression)->một nhân vật máy thù địch mà [joiner_pronoun] mới thức tỉnh</li>
+    <li>condDesc(gameCondition==PsychicSuppression)->Nếu [joiner_pronoun] tham gia cùng bạn, nhân cách đó sẽ tấn công [map_definite] bằng các sóng ức chế tâm linh trong [gameConditionDuration_duration], làm giảm ý thức của tất cả [psychicSuppressorGender]s.</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
     <li>questName->[joiner_nameDef] and the [gameCondition_label]</li>
-    <li>questName->the [gameCondition_label] and [joiner_nameDef]</li>-->
-  <!--VI: <li>[gameCondition_label] của questName->[joiner_nameDef]</li>
-    <li>nhiệm vụName->[joiner_nameDef] và [gameCondition_label]</li>
-    <li>questName->[gameCondition_label] và [joiner_nameDef]</li>-->
-  <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
-  <!--EN: <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, (*Threat)an infestation of [hivesCount] hives(/Threat) will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questName->the [gameCondition_label] and [joiner_nameDef]</li>
+  -->
+  <ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+    <li>questName->[joiner_nameDef] của [gameCondition_label]</li>
+    <li>questName->[joiner_nameDef] và [gameCondition_label]</li>
+    <li>questName->[gameCondition_label] và [joiner_nameDef]</li>
+  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, (*Threat)an infestation of [hivesCount] hives(/Threat) will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
-    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>-->
-  <!--VI: <li>questDescription->[giới thiệu] tên [joiner_nameDef] đang gọi từ gần đó. [joiner_pronoun] nói [joiner_pronoun] đã đầu độc một đàn côn trùng dưới lòng đất, nhưng bây giờ [joiner_pronoun] bị ngâm trong pheromone côn trùng và bọ đang săn mồi [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite]. [joiner_relationInfo]\n\nNếu bạn chấp nhận, (*Mối đe dọa)sự phá hoại của tổ ong(/Mối đe dọa) sẽ bắt đầu ở [infestationDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
-    <li>giới thiệu(childCount==1,priority=1)->Một đứa trẻ [joiner_age]tuổi</li>
-    <li>giới thiệu->Một đứa trẻ [joiner_age] [joiner_title]</li>-->
-  <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName->[joiner_nameDef]'s infestation</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[introduction] có tên [joiner_nameDef] đang gọi từ gần đây. [joiner_pronoun] nói [joiner_pronoun] đã đầu độc một đàn côn trùng dưới lòng đất, nhưng bây giờ [joiner_pronoun] đã được ngâm trong pheromone côn trùng và lũ bọ đang săn lùng [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận, (*Threat)sự xâm nhập của [hivesCount] tổ ong(/Threat) sẽ bắt đầu vào [infestationDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[joiner_nameDef]'s infestation</li>
     <li>questName->[joiner_nameDef]'s hives</li>
     <li>questName->[joiner_nameDef]'s bugs</li>
-    <li>questName->[joiner_nameDef]'s insects</li>-->
-  <!--VI: <li>sự phá hoại của nhiệm vụName->[joiner_nameDef]</li>
-    <li>tổ ong của nhiệm vụName->[joiner_nameDef]</li>
-    <li>lỗi của questName->[joiner_nameDef]</li>
-    <li>nhiệm vụTên-côn trùng của >[joiner_nameDef]</li>-->
-  <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
-  <!--EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly.-->
-  <!--VI: {BASETEXT}\n \n[joiner_nameDef] bị ngâm trong pheromone côn trùng và đang chạy trốn khỏi sự phá hoại. Những con côn trùng đuổi theo sẽ sớm đến.-->
-  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
-  <!--EN: {BASELABEL}: Chasing [joiner_nameDef]-->
-  <!--VI: {BASELABEL}: Đuổi theo [joiner_nameDef]-->
-  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
-  <!--EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef].-->
-  <!--VI: {BASETEXT}\n \nNhững con côn trùng ở đây để [joiner_nameDef].-->
-  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
-  <!--EN: <li>questDescription(animalCount==1)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+    <li>questName->[joiner_nameDef]'s insects</li>
+  -->
+  <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+    <li>questName->sự xâm nhập của [joiner_nameDef]</li>
+    <li>questName->[joiner_nameDef] nổi mề đay</li>
+    <li>questName->Lỗi của [joiner_nameDef]</li>
+    <li>questName->[joiner_nameDef] côn trùng</li>
+  </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
+  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n \n[joiner_nameDef] được ngâm trong pheromone côn trùng và đang chạy trốn khỏi sự phá hoại. Những con côn trùng đang truy đuổi sẽ đến ngay.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL}: Đuổi theo [joiner_nameDef]</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
+  <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
+  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n \nCác côn trùng ở đây trong [joiner_nameDef].</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
+  
+  <!-- EN:
+    <li>questDescription(animalCount==1)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->The [animalKind_label] is chasing [joiner_nameDef].</li>
     <li>questDescription(animalCount>=2)->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a pack of [animalCount] manhunting [animalKind_labelPlural](/Threat) are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_labelPlural] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>manhunterArrivalLetterEnd(animalCount>=2)->The [animalKind_labelPlural] are chasing [joiner_nameDef].</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
-    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>-->
-  <!--VI: <li>questDescription(animalCount==1)->[giới thiệu] tên [joiner_nameDef] đang gọi từ gần đó. [joiner_pronoun] nói (*Đe dọa)một cuộc săn lùng [animalKind_label](/Đe dọa) đang săn lùng [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite]. [joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_nameDef], cuộc săn lùng [animalKind_label] sẽ theo sau [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription(animalCount==1)->[introduction] có tên [joiner_nameDef] đang gọi từ gần đây. [joiner_pronoun] nói (*Threat)a săn lùng [animalKind_label](/Threat) đang săn lùng [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_nameDef], cuộc săn lùng [animalKind_label] sẽ diễn ra vào [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
     <li>manhunterArrivalLetterEnd(animalCount==1)->[animalKind_label] đang đuổi theo [joiner_nameDef].</li>
-    <li>questDescription(animalCount>=2)->[giới thiệu] tên [joiner_nameDef] đang gọi từ gần đó. [joiner_pronoun] nói (*Đe dọa)một bầy [animalCount] săn lùng [animalKind_labelPlural](/Đe dọa) đang săn [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite]. [joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_nameDef], cuộc săn lùng [animalKind_labelPlural] sẽ diễn ra trong [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
-    <li>manhunterArrivalLetterEnd(animalCount>=2)->Các [animalKind_labelPlural] đang đuổi theo [joiner_nameDef].</li>
-    <li>giới thiệu(childCount==1,priority=1)->Một đứa trẻ [joiner_age]tuổi</li>
-    <li>giới thiệu->Một đứa trẻ [joiner_age] [joiner_title]</li>-->
-  <ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName(animalCount==1)->[joiner_nameDef]'s [animalKind_label]</li>
+    <li>questDescription(animalCount>=2)->[introduction] có tên [joiner_nameDef] đang gọi từ gần đây. [joiner_pronoun] nói (*Threat)một nhóm [animalCount] săn lùng [animalKind_labelPlural](/Threat) đang săn lùng [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_nameDef], việc truy lùng [animalKind_labelPlural] sẽ diễn ra vào [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
+    <li>manhunterArrivalLetterEnd(animalCount>=2)->[animalKind_labelPlural] đang đuổi theo [joiner_nameDef].</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+  </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(animalCount==1)->[joiner_nameDef]'s [animalKind_label]</li>
     <li>questName(animalCount==1)->[joiner_nameDef] and the [animalKind_label]</li>
     <li>questName(animalCount==1)->the [animalKind_label] and [joiner_nameDef]</li>
     <li>questName(animalCount>=2)->[joiner_nameDef]'s [animalKind_labelPlural]</li>
     <li>questName(animalCount>=2)->[joiner_nameDef] and the [animalKind_labelPlural]</li>
-    <li>questName(animalCount>=2)->the [animalKind_labelPlural] and [joiner_nameDef]</li>-->
-  <!--VI: <li>[animalKind_label] của questName(animalCount==1)->[joiner_nameDef]</li>
+    <li>questName(animalCount>=2)->the [animalKind_labelPlural] and [joiner_nameDef]</li>
+  -->
+  <ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+    <li>questName(animalCount==1)->[joiner_nameDef] của [animalKind_label]</li>
     <li>questName(animalCount==1)->[joiner_nameDef] và [animalKind_label]</li>
     <li>questName(animalCount==1)->[animalKind_label] và [joiner_nameDef]</li>
-    <li>questName(animalCount>=2)-[animalKind_labelPlural] của >[joiner_nameDef]</li>
+    <li>questName(animalCount>=2)->[joiner_nameDef] của [animalKind_labelPlural]</li>
     <li>questName(animalCount>=2)->[joiner_nameDef] và [animalKind_labelPlural]</li>
-    <li>questName(animalCount>=2)->[animalKind_labelPlural] và [joiner_nameDef]</li>-->
-  <ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
-  <!--EN: {BASELABEL}: Chasing [joiner_nameDef]-->
-  <!--VI: {BASELABEL}: Đuổi theo [joiner_nameDef]-->
-  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>TODO</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
-  <!--EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd]-->
-  <!--VI: {BASETEXT}\n\n[manhunterArrivalLetterEnd]-->
-  <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>TODO</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
-  <!--EN: <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is begging to join you at [map_definite].[joiner_relationInfo]\n\nThere's some kind of threat following [joiner_nameDef], but [joiner_pronoun] is unwilling to say what it is or when it might follow. [joiner_pronoun] is also unwilling to tell you more about [joiner_objective]self.</li>
+    <li>questName(animalCount>=2)->[animalKind_labelPlural] và [joiner_nameDef]</li>
+  </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL}: Đuổi theo [joiner_nameDef]</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
+  <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
+  <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
+  
+  <!-- EN:
+    <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is begging to join you at [map_definite].[joiner_relationInfo]\n\nThere's some kind of threat following [joiner_nameDef], but [joiner_pronoun] is unwilling to say what it is or when it might follow. [joiner_pronoun] is also unwilling to tell you more about [joiner_objective]self.</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
-    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>-->
-  <!--VI: <li>questDescription->[giới thiệu] tên [joiner_nameDef] đang gọi từ gần đó. [joiner_pronoun] đang cầu xin được tham gia cùng bạn tại [map_definite]. [joiner_relationInfo]\n\nCó một số loại đe dọa theo sau [joiner_nameDef], nhưng [joiner_pronoun] không muốn nói nó là gì hoặc khi nào nó có thể xảy ra. [joiner_pronoun] cũng không muốn nói với bạn thêm về bản thân [joiner_objective].</li>
-    <li>giới thiệu(childCount==1,priority=1)->Một đứa trẻ [joiner_age]tuổi</li>
-    <li>giới thiệu->Một đứa trẻ [joiner_age] [joiner_title]</li>-->
-  <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
-  <!--EN: <li>questName->[joiner_nameDef]'s [problem]</li>
+    <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
+  -->
+  <ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[introduction] có tên [joiner_nameDef] đang gọi từ gần đây. [joiner_pronoun] đang cầu xin tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nCó một số loại mối đe dọa theo sau [joiner_nameDef], nhưng [joiner_pronoun] không muốn nói đó là gì hoặc khi nào nó có thể xảy ra. [joiner_pronoun] cũng không sẵn lòng cho bạn biết thêm về bản thân [joiner_objective].</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+  </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[joiner_nameDef]'s [problem]</li>
     <li>questName->The [problem] of [joiner_nameDef]</li>
     <li>problem->Problem</li>
     <li>problem->Shame</li>
-    <li>problem->Secret</li>-->
-  <!--VI: <li>[vấn đề] của questName->[joiner_nameDef]</li>
-    <li>questName->Vấn đề của [joiner_nameDef]</li>
-    <li>vấn đề-> vấn đề</li>
-    <li>problem->Xấu hổ</li>
-    <li>problem-> bí mật</li>-->
-  <ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
-  <!--EN: {BASELABEL} chasing [joiner_nameDef]-->
-  <!--VI: {BASELABEL} đuổi theo [joiner_nameDef]-->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
-  <!--EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT}-->
-  <!--VI: [joiner_nameDef] đã thừa nhận những gì [joiner_pronoun] đã chạy trốn.\n \n[joiner_pronoun] được cho là sẽ kết hôn với đứa con của [enemyFaction_leader_nameFull], thủ lĩnh của [enemyFaction_name]. [joiner_pronoun] say rượu trước buổi lễ và nôn mửa trên bàn thờ - một sự sỉ nhục trắng trợn đối với cả gia đình [enemyFaction_leader_nameDef].\n \n[enemyFaction_leader_nameDef] thề sẽ trả thù [joiner_nameDef] và tất cả những người có liên quan đến [joiner_objective], và cử [enemyFaction_pawnsPlural] thực hiện nhiệm vụ.\n \n{BASETEXT}-->
-  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
-  <!--EN: {BASELABEL}: Chasing [joiner_nameDef]-->
-  <!--VI: {BASELABEL}: Đuổi theo [joiner_nameDef]-->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
-  <!--EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef], greedy for the pleasures and money insect jelly can bring, intended to destroy a massive insect hive using poison. [joiner_pronoun] failed, but was doused in insect threat pheromones. Insects have been hunting [joiner_objective] ever since. Now they've launched their final attack.\n    \n{BASETEXT}-->
-  <!--VI: [joiner_nameDef] đã thừa nhận những gì [joiner_pronoun] đang chạy trốn.\n \n[joiner_nameDef], tham lam những thú vui và tiền bạc mà thạch côn trùng có thể mang lại, có ý định phá hủy một tổ côn trùng khổng lồ bằng chất độc. [joiner_pronoun] thất bại, nhưng bị dội vào pheromone đe dọa côn trùng. Côn trùng đã săn mồi [joiner_objective] kể từ đó. Bây giờ họ đã phát động cuộc tấn công cuối cùng.\n \n{BASETEXT}-->
-  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
-  <!-- EN: Site appeared to harass [joiner_nameDef]: [site_label] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
-  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] happened upon [enemyFaction_leader_nameFull], leader of [enemyFaction_name], sick on the side of the road. [joiner_nameDef] insulted [enemyFaction_leader_nameDef] by comparing [enemyFaction_leader_objective] to a [Animal].\n    \nNow [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] are activating a site nearby to harass you.\n    \n[allSitePartsDescriptions] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
+    <li>problem->Secret</li>
+  -->
+  <ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+    <li>questName->[joiner_nameDef] của [problem]</li>
+    <li>questName->[problem] của [joiner_nameDef]</li>
+    <li>problem->Vấn đề</li>
+    <li>problem->Nỗi tủi nhục</li>
+    <li>problem->bí mật</li>
+  </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [joiner_nameDef] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{BASELABEL} đuổi theo [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT} -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>[joiner_nameDef] đã thừa nhận điều mà [joiner_pronoun] đang chạy trốn.\n \n[joiner_pronoun] được cho là đã kết hôn với con của [enemyFaction_leader_nameFull], thủ lĩnh của [enemyFaction_name]. [joiner_pronoun] say rượu trước buổi lễ và nôn mửa trên bàn thờ - một sự xúc phạm trắng trợn đối với cả gia đình [enemyFaction_leader_nameDef].\n \n[enemyFaction_leader_nameDef] thề sẽ tìm cách trả thù [joiner_nameDef] và tất cả những người có liên quan đến [joiner_objective], và cử [enemyFaction_pawnsPlural] để thực hiện hành vi nhiệm vụ.\n \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>{BASELABEL}: Đuổi theo [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef], greedy for the pleasures and money insect jelly can bring, intended to destroy a massive insect hive using poison. [joiner_pronoun] failed, but was doused in insect threat pheromones. Insects have been hunting [joiner_objective] ever since. Now they've launched their final attack.\n    \n{BASETEXT} -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>[joiner_nameDef] đã thừa nhận những gì [joiner_pronoun] đang chạy trốn.\n \n[joiner_nameDef], tham lam những thú vui và tiền bạc mà thạch côn trùng có thể mang lại, có ý định tiêu diệt một tổ côn trùng khổng lồ bằng chất độc. [joiner_pronoun] thất bại, nhưng được tẩm pheromone đe dọa côn trùng. Côn trùng đã săn lùng [joiner_objective] kể từ đó. Bây giờ chúng đã phát động cuộc tấn công cuối cùng.\n \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
+  <!-- EN: Site appeared to harass [joiner_nameDef]: [site_label] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>Trang web có vẻ quấy rối [joiner_nameDef]: [site_label]</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] happened upon [enemyFaction_leader_nameFull], leader of [enemyFaction_name], sick on the side of the road. [joiner_nameDef] insulted [enemyFaction_leader_nameDef] by comparing [enemyFaction_leader_objective] to a [Animal].\n    \nNow [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] are activating a site nearby to harass you.\n    \n[allSitePartsDescriptions] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>[joiner_nameDef] đã thừa nhận điều [joiner_pronoun] đang chạy trốn.\n \n[joiner_nameDef] đang đi du lịch thì [joiner_pronoun] xảy ra với [enemyFaction_leader_nameFull], thủ lĩnh của [enemyFaction_name], bị ốm bên đường. [joiner_nameDef] xúc phạm [enemyFaction_leader_nameDef] bằng cách so sánh [enemyFaction_leader_objective] với [Animal].\n \nBây giờ [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] đang kích hoạt một trang web gần đó để quấy rối bạn.\n \n[allSitePartsDescriptions]</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>{BASELABEL}: Đuổi theo [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] came upon a lost group of [animalKind_labelPlural]. [joiner_pronoun], in a bad mood, goaded the [animalKind_labelPlural]. Unexpectedly, they attacked [joiner_objective]. And they have followed [joiner_objective] a long distance.\n    \n{BASETEXT} -->
-  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[joiner_nameDef] đã thừa nhận điều mà [joiner_pronoun] đang chạy trốn.\n \n[joiner_nameDef] đang đi du lịch thì [joiner_pronoun] gặp một nhóm [animalKind_labelPlural] bị lạc. [joiner_pronoun], trong tâm trạng tồi tệ, đã chọc tức [animalKind_labelPlural]. Thật bất ngờ, họ đã tấn công [joiner_objective]. Và họ đã theo dõi [joiner_objective] một khoảng cách rất xa.\n \n{BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
+  
   <!-- EN:
     <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] admits [joiner_pronoun] profaned a peace ritual between [raid1/enemyFaction_name] and [raid2/enemyFaction_name]. Now they are both chasing [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], both [raid1/enemyFaction_name] and [raid2/enemyFaction_name] will raid you in [raidDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
-  <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[introduction] có tên [joiner_nameDef] đang gọi từ gần đây. [joiner_pronoun] thừa nhận [joiner_pronoun] đã xúc phạm một nghi lễ hòa bình giữa [raid1/enemyFaction_name] và [raid2/enemyFaction_name]. Bây giờ cả hai đều đang đuổi theo [joiner_objective]!\n\n[joiner_pronoun] cầu xin sự an toàn và đề nghị tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_nameDef], cả [raid1/enemyFaction_name] và [raid2/enemyFaction_name] sẽ tấn công bạn [raidDelayTicks_duration].\n\n[joiner_nameDef] quá điên cuồng để cung cấp thêm thông tin.</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s Many Friends</li>
     <li>questName->[joiner_nameDef]'s Many Enemies</li>
   -->
-  <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+    <li>questName->Nhiều bạn bè của [joiner_nameDef]</li>
+    <li>questName->Nhiều kẻ thù của [joiner_nameDef]</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{BASELABEL} đuổi theo [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>{BASETEXT}\n \nCác [enemyFaction_pawnsPlural] sắp ra mắt cho [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>{BASELABEL} đuổi theo [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
   <!-- EN: {BASETEXT}\n                        \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n \nCác [enemyFaction_pawnsPlural] sắp ra mắt cho [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
+  
   <!-- EN:
     <li>questDescription->[introduction] named [joiner_nameFull] is calling from nearby. [joiner_pronoun] is hiding from [threat]. [joiner_pronoun] wants to flee [joiner_possessive] hiding spot and join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_objective], [joinersEnemies] will set up a site nearby to harass you. [site/allSitePartsDescriptions]\n\nThe threat will remain until you go to destroy it.</li>
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
@@ -173,13 +201,30 @@
     <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->mechanoids</li>
     <li>joinersEnemies->[joiner_possessive] enemies</li>
   -->
-  <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->[introduction] có tên [joiner_nameFull] đang gọi từ gần đây. [joiner_pronoun] đang trốn khỏi [threat]. [joiner_pronoun] muốn chạy trốn khỏi nơi ẩn náu của [joiner_possessive] và tham gia cùng bạn tại [map_definite].[joiner_relationInfo]\n\nNếu bạn chấp nhận [joiner_objective], [joinersEnemies] sẽ thiết lập một trang web gần đó để quấy rối bạn. [site/allSitePartsDescriptions]\n\nMối đe dọa sẽ vẫn tồn tại cho đến khi bạn tiêu diệt nó.</li>
+    <li>introduction(childCount==1,priority=1)->Một đứa trẻ [joiner_age] tuổi</li>
+    <li>introduction->Một đứa trẻ [joiner_age] tuổi [joiner_title]</li>
+    <li>threat(priority=1,site/Outpost_exists==True)->[site/enemyFaction_pawnsPlural] của [site/enemyFaction_name]</li>
+    <li>threat(priority=1,site/MechCluster_exists==True)->máy móc</li>
+    <li>threat(priority=1,site/SleepingMechanoids_exists==True)->máy móc</li>
+    <li>threat->[joiner_possessive] kẻ thù</li>
+    <li>joinersEnemies(priority=1,site/Outpost_exists==True)->[site/enemyFaction_name]</li>
+    <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->máy móc</li>
+    <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->máy móc</li>
+    <li>joinersEnemies->[joiner_possessive] kẻ thù</li>
+  </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [site/site_label]</li>
     <li>questName->[joiner_nameDef] and the [site/site_label]</li>
     <li>questName->the [site/site_label] and [joiner_nameDef]</li>
   -->
-  <ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+    <li>questName->[joiner_nameDef] của [site/site_label]</li>
+    <li>questName->[joiner_nameDef] và [site/site_label]</li>
+    <li>questName->[site/site_label] và [joiner_nameDef]</li>
+  </ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: Since you accepted [../joiner_nameDef], [../threat] have set up a nearby site to harass you.\n                    \n[allSitePartsDescriptions] -->
-  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>TODO</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
+  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>Vì bạn chấp nhận [../joiner_nameDef], [../threat] đã thiết lập một trang web gần đó để quấy rối bạn.\n \n[allSitePartsDescriptions]</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
+  
 </LanguageData>

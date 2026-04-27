@@ -8,7 +8,7 @@
   <LetterLabelGainedRoyalTitle>Đã đạt được tước hiệu {TITLE}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded>Điểm giấy phép được trao: {0}.</PermitPointsAwarded>
+  <PermitPointsAwarded>Điểm quyền hạn được trao: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
   <LetterRoyalTitleApparelQualityRequirement>{PAWN_pronoun} phải được mặc trang phục có chất lượng {1} hoặc tốt hơn.</LetterRoyalTitleApparelQualityRequirement>
@@ -122,13 +122,13 @@
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
-  <LetterLabelPsylinkLevelGained>Liên kết tinh thần đã đạt được</LetterLabelPsylinkLevelGained>
+  <LetterLabelPsylinkLevelGained>Đạt liên kết tâm linh</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>{USER_labelShort} đã đạt được {USER_possessive} cấp độ đầu tiên của liên kết tinh thần! {USER_pronoun} hiện là một người năng lực.\n\nĐể sử dụng các năng lực, {USER_labelShort} phải nâng cao tinh thần lực thông qua thiền định. Hiệu quả của thiền này được tăng lên nếu người đó có thể tập trung vào một đối tượng cụ thể trong khi thiền. \n\nNhững người khác nhau có thể tập trung vào các đối tượng khác nhau. Điều này phụ thuộc vào các câu chuyện, đặc điểm và tiêu đề của người đó.Ví dụ:\n\n- Những người năng lực với các tước hiệu hoàng gia thì thiền về ngai vàng của họ.\n- Những người năng lực có tuổi thơ là người bộ lạc thì thiền định về cây cực quang và đền thờ thiên nhiên.\n- Những người năng lực khổ hạnh thì thiền định ở các bức tường trống.\n- Những người năng lực tâm thần thiền định đến những ngôi mộ, lý tưởng là có người thân quá cố bên trong.\n\nBạn có thể thấy các loại tiêu điểm thiền của ai đó bằng cách nhìn vào thẻ thông tin của họ bằng nút 'i'.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} đã đạt cấp liên kết tâm linh đầu tiên {USER_possessive}! {USER_pronoun} hiện là người dùng năng lực tâm linh.\n\nĐể sử dụng năng lực tâm linh, {USER_labelShort} phải tích lũy tinh thần lực thông qua thiền định. Hiệu quả thiền định tăng lên nếu người đó có thể tập trung vào một đối tượng cụ thể khi thiền.\n\nMỗi người có thể tập trung vào những đối tượng khác nhau. Điều này phụ thuộc vào tiểu sử, đặc điểm và tước hiệu của người đó. Ví dụ:\n\n- Người dùng năng lực tâm linh có tước hiệu hoàng gia thiền trước ngai vàng của họ.\n- Người dùng năng lực tâm linh có tuổi thơ bộ lạc thiền trước cây cực quang và đền thờ thiên nhiên.\n- Người dùng năng lực tâm linh khổ hạnh thiền trước tường trống.\n- Người dùng năng lực tâm linh tâm thần thiền trước mộ, lý tưởng nhất là có người thân yêu bên trong.\n\nBạn có thể xem các kiểu tập trung thiền của ai đó bằng cách mở thẻ thông tin của họ bằng nút 'i'.</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} đã đạt được cấp độ liên kết tinh thần mới! {USER_pronoun} hiện có thể sử dụng những năng lực ở cấp độ cao hơn, nhưng {USER_pronoun} cần tìm hiểu chúng trước.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} đã đạt được cấp liên kết tâm linh mới! {USER_pronoun} hiện có thể sử dụng các năng lực tâm linh ở cấp cao hơn, nhưng {USER_pronoun} cần học chúng trước.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>Khi đạt được cấp độ liên kết tinh thần mới, {USER_labelShort} sẽ tự động học được năng lực này: {2}.</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>Khi đạt cấp liên kết tâm linh mới, {USER_labelShort} đã tự động học được các năng lực tâm linh này: {2}.</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
@@ -142,17 +142,17 @@
   <!-- EN: {TARGET_definite}'s title changed -->
   <LetterLabelBestowingCeremonyTitleUpdated>Tước hiệu của {TARGET_definite} đã thay đổi</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} đã đạt được danh hiệu mới kể từ khi buổi lễ phong tặng được lên lịch. Để việc phong tặng phù hợp với danh hiệu mới, một buổi lễ khác sẽ sớm được lên lịch.\n\nBuổi lễ phong tặng mới sẽ bao gồm phần thưởng psylink cho tất cả các danh hiệu chưa được trao.</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} đã đạt được tước hiệu mới kể từ khi buổi lễ phong tặng được lên lịch. Để việc phong tặng phù hợp với tước hiệu mới, một buổi lễ khác sẽ sớm được lên lịch.\n\nBuổi lễ phong tặng mới sẽ bao gồm phần thưởng liên kết tâm linh cho tất cả các tước hiệu chưa được trao.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
-  <LetterPartBestowingExtraHonor>{PAWN_labelShort} đã nhận được {1} vinh dự như một dấu hiệu thể hiện sự tôn trọng từ {FACTION_name} vì đã tập hợp {3} khán giả.</LetterPartBestowingExtraHonor>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} đã nhận được {1} ân huệ hoàng gia như một dấu hiệu thể hiện sự tôn trọng từ {FACTION_name} vì đã tập hợp {3} khán giả.</LetterPartBestowingExtraHonor>
   <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
-  <LetterPartNoExtraHonor>{PAWN_labelShort} không nhận được thêm vinh dự nào vì không có nhiều khán giả.</LetterPartNoExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort} không nhận được thêm ân huệ hoàng gia nào vì không có nhiều khán giả.</LetterPartNoExtraHonor>
   <!-- EN: All viewers of the ceremony received a mood bonus. -->
   <LetterPartMoodBonus>Tất cả những người xem buổi lễ đều nhận được phần thưởng tâm trạng.</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <LetterTextHonorAward_BanditCamp>Ai nên được ghi nhận {0} vì đã đánh bại trại cướp?</LetterTextHonorAward_BanditCamp>
+  <LetterTextHonorAward_BanditCamp>Ai nên được ghi nhận {0} ân huệ hoàng gia vì đã đánh bại trại cướp?</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
   <!-- EN: Shuttle crashed -->
@@ -164,6 +164,6 @@
   <!-- EN: Transport pod crash: {0_nameDef} -->
   <LetterLabelWandererJoinsAbasia>Sự cố nhóm vận chuyển: {0_nameDef}</LetterLabelWandererJoinsAbasia>
   <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
-  <LetterTextWandererJoinsAbasia>Một {0_title} có tên {0_nameDef} đang gặp sự cố trong một trạm vận chuyển gần đó.\n\n{0_nameDef} đang bị {1_label} và sẽ không thể đi lại.\n\n{0_pronoun} sẽ hồi phục tự nhiên sau nhiều ngày. Ngoài ra còn có một cơ hội phục hồi may mắn nhanh chóng. {1_label} cũng có thể được chữa khỏi bằng một ca phẫu thuật đặc biệt cần một lượng lớn thuốc từ thế giới lấp lánh.\n\n{0_pronoun} sẵn sàng đóng góp khi {0_pronoun} đã hồi phục nhưng sẽ không tự ý rời đi. Nếu không muốn {0_nameDef}, bạn có thể trục xuất {0_objective}, bán {0_objective} làm nô lệ hoặc để {0_objective} chết. Tuy nhiên, những người thuộc địa khác của bạn có thể thấy điều này đáng lo ngại.</LetterTextWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>Một {0_title} có tên {0_nameDef} đang gặp sự cố trong một kén vận chuyển gần đó.\n\n{0_nameDef} đang bị {1_label} và sẽ không thể đi lại.\n\n{0_pronoun} sẽ hồi phục tự nhiên sau nhiều ngày. Ngoài ra còn có một cơ hội phục hồi may mắn nhanh chóng. {1_label} cũng có thể được chữa khỏi bằng một ca phẫu thuật đặc biệt cần một lượng lớn thuốc từ thế giới lấp lánh.\n\n{0_pronoun} sẵn sàng đóng góp khi {0_pronoun} đã hồi phục nhưng sẽ không tự ý rời đi. Nếu không muốn {0_nameDef}, bạn có thể trục xuất {0_objective}, bán {0_objective} làm nô lệ hoặc để {0_objective} chết. Tuy nhiên, những cư dân khác của bạn có thể thấy điều này đáng lo ngại.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>
