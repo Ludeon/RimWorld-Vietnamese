@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <!-- EN: Ideoligion forbids -->
   <IdeoligionForbids>Cấm tín ngưỡng</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
   <OnlyMembersCanBuild>Chỉ {0} có thể xây dựng</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} đang được tiến hành.</CantStartRitualAlreadyInProgress>
-  <!--EN: {RITUAL} cannot be performed {GERUND} {LAYER}.-->
-  <!--VI: {RITUAL} không thể thực hiện {GERUND} {LAYER}.-->
-  <CantStartRitualLayer>TODO</CantStartRitualLayer>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>Không thể thực hiện {RITUAL} khi {GERUND} {LAYER}.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>Một hoặc nhiều người tham gia không thể tham gia do nhiệt độ quá cao.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
@@ -22,7 +22,7 @@
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} phải là {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
-  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} bị điếc tâm lý.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} bị điếc tâm linh.</CantStartRitualSelectedPawnPsychicallyDeaf>
   <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
   <CantStartNotEnoughSpaceDuelSpectators>Không đủ chỗ cho khán giả. Phải có một đường tròn bán kính {MINRADIUS} rõ ràng. Yêu cầu ít nhất {1} điểm ổn định trong bán kính đó.</CantStartNotEnoughSpaceDuelSpectators>
   <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
@@ -37,6 +37,7 @@
   <ReturnToSlaveBed>Trả lại giường nô lệ</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>không được phép cho phe phái</NotAllowedForFaction>
+
   <!-- EN: Remove precept -->
   <RemovePrecept>Loại bỏ luật</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -81,6 +82,7 @@
   <NeuralSuperchargeAlreadyGetting>đã nhận được</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
   <SetApparelType>Thiết lập kiểu</SetApparelType>
+
   <!-- EN: change style -->
   <ChangeStyle>thay đổi phong cách</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
@@ -99,6 +101,7 @@
   <IdeoAlreadyHasAltar>chỉ có thể có một bệ thờ/tín ngưỡng</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>trang phục tái tạo màu</RecolorApparel>
+
   <!-- EN: Install {0} -->
   <InstallRelic>Thiết lập {0}</InstallRelic>
   <!-- EN: Extract {0} -->
@@ -111,10 +114,13 @@
   <InstallInReliquary>Thiết lập trong nhà thờ</InstallInReliquary>
   <!-- EN: no empty accessible reliquary -->
   <NoEmptyReliquary>không có câu trả lời nào có thể truy cập được</NoEmptyReliquary>
+
   <!-- EN: No {MEMBERNAME} warden -->
-  <NoWardenOfIdeo>Không có quản giáo {MEMBERNAME}</NoWardenOfIdeo>
+  <NoWardenOfIdeo>Không có quản ngục {MEMBERNAME}</NoWardenOfIdeo>
+
   <!-- EN: Remove current role -->
   <RemoveCurrentRole>Xóa vai trò hiện tại</RemoveCurrentRole>
+
   <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
   <EnterBiosculpterPod>Thêm kén sinh học đa năng cho {0} chu kỳ ({1})</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
@@ -149,7 +155,7 @@
   <BiosculpterAutoAgeReversalLabel>Đảo ngược độ tuổi tự động cho {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
   <BiosculpterAutoAgeReversalDescription>Tự động đáp ứng mong muốn của {PAWN_labelShort} là tiến hành điều trị đảo ngược tuổi tác trong kén này, phù hợp với niềm tin {PAWN_possessive}. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
-  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treatment in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>Nếu được bật, {PAWN_labelShort} sẽ tự động thực hiện xử lý {PAWN_possessive} tiếp theo sau {TIME} nếu nhóm sẵn sàng.</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
   <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} đã muốn điều trị tiếp theo của mình và sẽ tự động bắt đầu điều trị nếu điều này được bật.</BiosculpterAutoAgeReversalDescriptionNow>
