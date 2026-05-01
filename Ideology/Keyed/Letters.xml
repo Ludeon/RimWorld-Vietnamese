@@ -11,7 +11,7 @@
   <!-- EN: Grand slave rebellion -->
   <LetterLabelGrandSlaveRebellion>Cuộc nổi loạn lớn của nô lệ</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>Một cuộc nổi loạn lớn của nô lệ đã bắt đầu! Tất cả nô lệ của bạn đnag nổi lên để chống lại bạn. Họ sẽ tìm kiếm vũ khí và cố gắng loại bỏ dân cư của bạn.\n\nNhững nô lệ có liên quan:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>Một cuộc nổi loạn lớn của nô lệ đã bắt đầu! Tất cả nô lệ của bạn đnag nổi lên để chống lại bạn. Họ sẽ tìm kiếm vũ khí và cố gắng loại bỏ cư dân của bạn.\n\nNhững nô lệ có liên quan:\n\n{0}</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
   <LetterLabelLocalSlaveRebellion>Nô lệ đại phương nổi loạn</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
@@ -19,7 +19,7 @@
   <!-- EN: Slave rebellion -->
   <LetterLabelSingleSlaveRebellion>Nô lệ nổi loạn</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
-  <LetterSingleSlaveRebellion>{0_nameDef} đang nổi loạn! {0_pronoun} sẽ tìm kiếm vũ khí và cố gắng loại bỏ những người thuộc địa của bạn.</LetterSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef} đang nổi loạn! {0_pronoun} sẽ tìm kiếm vũ khí và cố gắng loại bỏ những cư dân của bạn.</LetterSingleSlaveRebellion>
 
   <!-- Slave escape -->
   <!-- EN: Grand slave escape -->
@@ -157,7 +157,7 @@
   <LetterTextRelicLost>{0} đã bị mất!\n\nNhững người sau sẽ bị giảm tâm trạng:\n{1}</LetterTextRelicLost>
 
   <!-- Caravan destroyed -->
-  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
+  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disbanded. -->
   <LetterOnlySlaveCaravanColonistsLeft>Tất cả thành viên không phải nô lệ của {0} đã chết. Những nô lệ còn lại đã bỏ đi. Đoàn lữ hành tan rã.</LetterOnlySlaveCaravanColonistsLeft>
 
   <!-- Hacker lost -->
