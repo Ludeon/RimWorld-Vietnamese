@@ -9,7 +9,7 @@
   <!-- EN: genepack -->
   <Genepack.label>bộ gen</Genepack.label>
   <!-- EN: A small capsule containing a package of genetic information. To use a genepack, it must be placed in a gene bank near a gene assembler and combined into an implantable xenogerm.\n\nIf not kept in a powered gene bank, this genepack will slowly deteriorate. -->
-  <Genepack.description>Một viên nang nhỏ chứa một bộ thông tin di truyền. Để sử dụng một bộ gen, nó phải được đặt trong ngân hàng gen gần bộ lắp ráp gen và được kết hợp thành một dị chủng có thể cấy ghép.\n\nNếu không được lưu giữ trong ngân hàng gen được cung cấp năng lượng, bộ gen này sẽ dần bị hư hỏng.</Genepack.description>
+  <Genepack.description>Một viên nang nhỏ chứa một bộ thông tin di truyền. Để sử dụng một bộ gen, nó phải được đặt trong ngân hàng gen gần bộ lắp ráp gen và được kết hợp thành một dị chủng có thể cấy ghép.\n\nNếu không được lưu giữ trong một ngân hàng gen có điện, bộ gen này sẽ dần bị hao mòn.</Genepack.description>
   
   <!-- EN: embryo -->
   <HumanEmbryo.label>embryon</HumanEmbryo.label>
@@ -28,7 +28,7 @@
   <!-- EN: Decrypt transponder -->
   <MechanoidTransponder.comps.CompUseableDatacore.useLabel>giải mã bộ phát đáp</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
   <!-- EN: Can be decrypted at a research bench.\nSelect a colonist and right-click this to decrypt it. -->
-  <MechanoidTransponder.comps.CompInspectString.inspectString>Công việc giải mã có thể được thực hiện trên băng ghế nghiên cứu. \nLập bản đồ của một người thuộc địa, nhấp chuột phải vào bộ phát đáp để giải mã nó..</MechanoidTransponder.comps.CompInspectString.inspectString>
+  <MechanoidTransponder.comps.CompInspectString.inspectString>Công việc giải mã có thể được thực hiện trên băng ghế nghiên cứu. \nLập bản đồ của một cư dân, nhấp chuột phải vào bộ phát đáp để giải mã nó..</MechanoidTransponder.comps.CompInspectString.inspectString>
   
   <!-- EN: xenogerm -->
   <Xenogerm.label>xenogerm</Xenogerm.label>

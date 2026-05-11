@@ -4,7 +4,7 @@
   <!-- EN: aggressive -->
   <Aggression_Aggressive.label>hung dữ</Aggression_Aggressive.label>
   <!-- EN: Carriers of this gene are quick to anger. They are twice as likely to start social fights. When they have mental breaks, they are twice as likely to choose an aggressive kind of break. -->
-  <Aggression_Aggressive.description>Những người mang gen này nhanh tức giận. Họ có khả năng gây ra xung đột gấp đôi. Khi họ có một cuộc khủng hoảng tinh thần, họ có khả năng trở nên bạo lực gấp đôi.</Aggression_Aggressive.description>
+  <Aggression_Aggressive.description>Những người mang gen này rất dễ nổi giận. Họ có khả năng gây đánh nhau xã hội cao gấp đôi. Khi bị suy sụp tinh thần, họ có khả năng chọn kiểu suy sụp hung hăng cao gấp đôi.</Aggression_Aggressive.description>
   <!-- EN: aggro -->
   <Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>tính hiếu chiến</Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: hate -->
@@ -21,7 +21,7 @@
   <!-- EN: dead calm -->
   <Aggression_DeadCalm.label>chết bình tĩnh</Aggression_DeadCalm.label>
   <!-- EN: Carriers of this gene feel calm in every situation and have a very placid demeanor. They will never start social fights or have aggressive mental breaks. -->
-  <Aggression_DeadCalm.description>Những người mang gen này cảm thấy bình tĩnh trong mọi tình huống và có một hành vi rất đơn giản. Họ sẽ không bao giờ bắt đầu xung đột hoặc sẽ không bao giờ có những cuộc khủng hoảng tinh thần mạnh mẽ.</Aggression_DeadCalm.description>
+  <Aggression_DeadCalm.description>Những người mang gen này luôn bình tĩnh trong mọi tình huống và có phong thái rất điềm đạm. Họ sẽ không bao giờ gây đánh nhau xã hội hoặc bị suy sụp tinh thần hung hăng.</Aggression_DeadCalm.description>
   <!-- EN: calm -->
   <Aggression_DeadCalm.labelShortAdj>trấn tĩnh</Aggression_DeadCalm.labelShortAdj>
   <!-- EN: still -->
@@ -36,7 +36,7 @@
   <!-- EN: hyper-aggressive -->
   <Aggression_HyperAggressive.label>quá hung hăng</Aggression_HyperAggressive.label>
   <!-- EN: Carriers of this gene are hormonally high-strung and very aggressive. They are three times as likely to start social fights. Any mental break they have will be of an aggressive type. -->
-  <Aggression_HyperAggressive.description>Những người mang gen này rất lo lắng và rất hung dữ. Họ có khả năng kích hoạt xung đột gấp ba lần. Bất kỳ cuộc khủng hoảng tinh thần nào mà họ sẽ có sẽ thuộc loại mạnh mẽ.</Aggression_HyperAggressive.description>
+  <Aggression_HyperAggressive.description>Những người mang gen này bị kích thích nội tiết quá mức và rất hung hăng. Họ có khả năng gây đánh nhau xã hội cao gấp ba lần. Bất kỳ cơn suy sụp tinh thần nào của họ cũng sẽ thuộc kiểu hung hăng.</Aggression_HyperAggressive.description>
   <!-- EN: aggro -->
   <Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>hung bạo</Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: hate -->
@@ -165,7 +165,7 @@
   <!-- EN: slow -->
   <Learning_Slow.symbolPack.prefixSymbols.2.symbol>chậm</Learning_Slow.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: dull -->
-  <Learning_Slow.symbolPack.prefixSymbols.3.symbol>buồn tẻ</Learning_Slow.symbolPack.prefixSymbols.3.symbol>
+  <Learning_Slow.symbolPack.prefixSymbols.3.symbol>trì độn</Learning_Slow.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: dumb -->
   <Learning_Slow.symbolPack.prefixSymbols.4.symbol>câm</Learning_Slow.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: grunt -->
@@ -485,11 +485,11 @@
   <Pain_Reduced.symbolPack.prefixSymbols.2.symbol>ương ngạnh</Pain_Reduced.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: psychically deaf -->
-  <PsychicAbility_Deaf.label>điếc tâm thần</PsychicAbility_Deaf.label>
+  <PsychicAbility_Deaf.label>điếc tâm linh</PsychicAbility_Deaf.label>
   <!-- EN: Carriers of this gene are deaf to all psychic energy and influence outside their own minds. They cannot be affected by psychic influence, nor can they ever wield psychic power. -->
-  <PsychicAbility_Deaf.description>Những người mang gen này không phản ứng với tất cả năng lượng và ảnh hưởng tâm linh. Họ không thể bị ảnh hưởng bởi ảnh hưởng tâm linh và họ không bao giờ có thể thực hiện sức mạnh tâm linh.</PsychicAbility_Deaf.description>
+  <PsychicAbility_Deaf.description>Những người mang gen này không phản ứng với tất cả năng lượng và ảnh hưởng tâm linh. Họ không thể bị ảnh hưởng bởi ảnh hưởng tâm linh và họ không bao giờ có thể thực hiện năng lực tâm linh.</PsychicAbility_Deaf.description>
   <!-- EN: psy-deaf -->
-  <PsychicAbility_Deaf.labelShortAdj>điếc tâm thần</PsychicAbility_Deaf.labelShortAdj>
+  <PsychicAbility_Deaf.labelShortAdj>điếc tâm linh</PsychicAbility_Deaf.labelShortAdj>
   <!-- EN: deaf -->
   <PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>điếc</PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: blank -->
@@ -506,37 +506,37 @@
   <PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>vô hiệu</PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>
   
   <!-- EN: psychically dull -->
-  <PsychicAbility_Dull.label>ít nhạy cảm</PsychicAbility_Dull.label>
+  <PsychicAbility_Dull.label>trơ tâm linh</PsychicAbility_Dull.label>
   <!-- EN: Carriers of this gene are less psychically-sensitive than others. -->
-  <PsychicAbility_Dull.description>Những người mang gen này ít nhạy cảm về mặt tâm lý.</PsychicAbility_Dull.description>
+  <PsychicAbility_Dull.description>Người mang gen này trơ tâm linh.</PsychicAbility_Dull.description>
   <!-- EN: psy-dull -->
-  <PsychicAbility_Dull.labelShortAdj>buồn tẻ</PsychicAbility_Dull.labelShortAdj>
+  <PsychicAbility_Dull.labelShortAdj>trơ tâm linh</PsychicAbility_Dull.labelShortAdj>
   <!-- EN: dull -->
   <PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>ngu đần</PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: flat -->
   <PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>tẻ nhạt</PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: psy-sensitive -->
-  <PsychicAbility_Enhanced.label>nhạy cảm</PsychicAbility_Enhanced.label>
+  <PsychicAbility_Enhanced.label>nhạy tâm linh</PsychicAbility_Enhanced.label>
   <!-- EN: Carriers of this gene are more psychically-sensitive than average. -->
-  <PsychicAbility_Enhanced.description>Những người mang gen này nhạy cảm về mặt tâm lý hơn mức trung bình.</PsychicAbility_Enhanced.description>
+  <PsychicAbility_Enhanced.description>Những người mang gen này nhạy tâm linh hơn mức trung bình.</PsychicAbility_Enhanced.description>
   <!-- EN: psy-enhanced -->
-  <PsychicAbility_Enhanced.labelShortAdj>tăng cường tâm lý</PsychicAbility_Enhanced.labelShortAdj>
+  <PsychicAbility_Enhanced.labelShortAdj>nhạy tâm linh</PsychicAbility_Enhanced.labelShortAdj>
   <!-- EN: psy -->
-  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>tâm thần</PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>tâm linh</PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: senso -->
   <PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>cảm giác</PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: sensi -->
   <PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>giác quan</PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: super psy-sensitive -->
-  <PsychicAbility_Extreme.label>siêu nhạy cảm</PsychicAbility_Extreme.label>
+  <PsychicAbility_Extreme.label>cực nhạy tâm linh</PsychicAbility_Extreme.label>
   <!-- EN: Carriers of this gene are much more psychically-sensitive than most. -->
-  <PsychicAbility_Extreme.description>Những người mang gen này siêu nhạy cảm về mặt tâm lý.</PsychicAbility_Extreme.description>
+  <PsychicAbility_Extreme.description>Những người mang gen này cực kỳ nhạy tâm linh.</PsychicAbility_Extreme.description>
   <!-- EN: psy-extreme -->
-  <PsychicAbility_Extreme.labelShortAdj>siêu nhạy cảm</PsychicAbility_Extreme.labelShortAdj>
+  <PsychicAbility_Extreme.labelShortAdj>cực nhạy tâm linh</PsychicAbility_Extreme.labelShortAdj>
   <!-- EN: psy -->
-  <PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>tâm thần</PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>tâm linh</PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: senso -->
   <PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>cảm giác</PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: sensi -->

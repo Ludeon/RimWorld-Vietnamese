@@ -202,16 +202,16 @@
   <LetterTextGenesImplanted>{CASTER_nameDef} đã cấy ghép bản sao xenogerm của {CASTER_possessive} vào {TARGET_nameDef}, truyền tất cả xenogen cho {TARGET_objective}.\n\n{TARGET_nameDef} sẽ trong hôn mê xenogerm trong {COMADURATION} tiếp theo khi cơ thể {TARGET_possessive} thích nghi với thay đổi.\n\n{CASTER_nameDef} sẽ bị sốc mất gen trong {SHOCKDURATION} tiếp theo. Gen của {CASTER_possessive} cũng cần phát triển lại. Quá trình này mất thời gian. Nếu {CASTER_nameDef} cấy ghép xenogerm của {CASTER_possessive} lại trước khi gen của {CASTER_possessive} phát triển lại, {CASTER_pronoun} sẽ chết.</LetterTextGenesImplanted>
   
   <!-- EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
-  <RefugeePodCrashBaby>Một em bé tên {PAWN_nameDef} từ {PAWN_factionName} đang rơi trong khoang vận chuyển gần đây.\n\nBạn có thể chọn nhận nuôi {PAWN_objective} bằng lệnh 'nhận nuôi' hoặc bỏ qua {PAWN_objective}.</RefugeePodCrashBaby>
+  <RefugeePodCrashBaby>Một em bé tên {PAWN_nameDef} từ {PAWN_factionName} đang rơi trong một kén vận chuyển gần đó.\n\nBạn có thể chọn nhận nuôi {PAWN_objective} bằng lệnh 'nhận nuôi' hoặc bỏ qua {PAWN_objective}.</RefugeePodCrashBaby>
   <!-- EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
-  <RefugeePodCrashBabyHasParent>Thi thể của cha mẹ đã khuất của {PAWN_nameDef} cũng nằm trong khoang vận chuyển.</RefugeePodCrashBabyHasParent>
+  <RefugeePodCrashBabyHasParent>Thi thể của cha mẹ đã khuất của {PAWN_nameDef} cũng nằm trong kén vận chuyển.</RefugeePodCrashBabyHasParent>
 
   <!-- EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
-  <LetterPsychicBondCreated>Theo bản năng tìm kiếm bạn đời, {BONDPAWN_nameDef} đã hình thành mối quan hệ lãng mạn liên kết tâm linh với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ được lợi về tâm lý từ kết nối với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các ô thế giới khác nhau, cả hai sẽ bị stress tâm linh. Nếu một người chết, người kia sẽ phát điên.</LetterPsychicBondCreated>
+  <LetterPsychicBondCreated>Theo bản năng tìm kiếm bạn đời, {BONDPAWN_nameDef} đã hình thành mối quan hệ lãng mạn có ràng buộc tâm linh với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ được lợi về tâm lý từ kết nối với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các ô thế giới khác nhau, cả hai sẽ chịu căng thẳng tâm linh. Nếu một người chết, người kia sẽ phát điên.</LetterPsychicBondCreated>
 
   <!-- EN: Psychic bond -->
-  <LetterPsychicBondCreatedLovinLabel>Liên kết tâm linh</LetterPsychicBondCreatedLovinLabel>
+  <LetterPsychicBondCreatedLovinLabel>Ràng buộc tâm linh</LetterPsychicBondCreatedLovinLabel>
   <!-- EN: {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
-  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} đã hình thành mối quan hệ lãng mạn liên kết tâm linh với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ được lợi về tâm lý từ kết nối với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các ô thế giới khác nhau, cả hai sẽ bị stress tâm linh. Nếu một người chết, người kia sẽ phát điên.</LetterPsychicBondCreatedLovinText>
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} đã hình thành mối quan hệ lãng mạn có ràng buộc tâm linh với {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} sẽ được lợi về tâm lý từ kết nối với {BONDPAWN_nameDef}, nhưng nếu họ bị tách ra ở các ô thế giới khác nhau, cả hai sẽ chịu căng thẳng tâm linh. Nếu một người chết, người kia sẽ phát điên.</LetterPsychicBondCreatedLovinText>
 
 </LanguageData>

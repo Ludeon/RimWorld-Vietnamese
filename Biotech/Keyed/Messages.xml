@@ -18,9 +18,9 @@
   <!-- EN: {0_labelShort} has no available xenogenes to implant. -->
   <MessagePawnHasNoXenogenes>{0_labelShort} không có sẵn xenogen để cấy ghép.</MessagePawnHasNoXenogenes>
   <!-- EN: Xenogerms can only be implanted into colonists, prisoners, and slaves. -->
-  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerm chỉ có thể được cấy ở thực dân, tù nhân và nô lệ.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerm chỉ có thể được cấy ở cư dân, tù nhân và nô lệ.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
   <!-- EN: Cannot implant in temporary faction members. -->
-  <MessageCannotImplantInTempFactionMembers>Không thể cấy ghép vào thành viên phe nhóm tạm thời.</MessageCannotImplantInTempFactionMembers>
+  <MessageCannotImplantInTempFactionMembers>Không thể cấy ghép vào thành viên tạm thời của phe.</MessageCannotImplantInTempFactionMembers>
   <!-- EN: A xenogerm has been completed. -->
   <MessageXenogermCompleted>Một xenogerm đã được hoàn thành.</MessageXenogermCompleted>
   <!-- EN: Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack. -->
@@ -38,7 +38,7 @@
   <MessageCaravanRemovingEscortingMech>Tự động xóa {MECH_nameDef} khỏi đoàn lữ hành vì nó đang hộ tống {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
 
   <!-- EN: {0} was a mechanitor. You can remove {0_possessive} {1_label} and use it on a colonist. -->
-  <MessageMechanitorCasketOpened>{0} từng là mechanitor. Bạn có thể tháo {1_label} của {0} và dùng nó cho một thực dân.</MessageMechanitorCasketOpened>
+  <MessageMechanitorCasketOpened>{0} từng là mechanitor. Bạn có thể tháo {1_label} của {0} và dùng nó cho một cư dân.</MessageMechanitorCasketOpened>
   
   <!-- EN: Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction". -->
   <MessageNoBloodfeedersPrisonerInteractionReset>Phương thức tương tác của một số tù nhân yêu cầu một kẻ hút máu. Kể từ khi kẻ hút máu cuối cùng rời đi, chế độ tương tác của họ được đặt lại thành "Không tương tác".</MessageNoBloodfeedersPrisonerInteractionReset>
@@ -163,4 +163,6 @@
   <!-- EN: Combined genes exceeded metabolism limits. -->
   <CombinedGenesExceedMetabolismLimits>Các gen kết hợp vượt quá giới hạn trao đổi chất.</CombinedGenesExceedMetabolismLimits>
 
+  <!-- EN: Starting colonists must be capable of violence in tutorial mode. -->
+  <MessageStartingPawnCapableOfViolence>Cư dân khởi đầu phải có khả năng bạo lực trong chế độ hướng dẫn.</MessageStartingPawnCapableOfViolence>
 </LanguageData>

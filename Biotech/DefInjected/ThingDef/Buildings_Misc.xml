@@ -21,7 +21,7 @@
   <!-- EN: gene bank -->
   <GeneBank.label>ngân hàng dữ liệu gen</GeneBank.label>
   <!-- EN: This building can store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
-  <GeneBank.description>Tòa nhà này có thể lưu trữ các bộ gen và làm cho chúng có thể sử dụng được để tạo ra các dị chủng mới, khi được đặt gần một bộ lắp ráp gen. Thư viện gen lớn cần nhiều ngân hàng gen.\n\nKhi được cung cấp năng lượng, các ngân hàng gen ngăn không cho các bộ gen xuống cấp và sẽ từ từ sửa chữa sự xuống cấp.</GeneBank.description>
+  <GeneBank.description>Tòa nhà này có thể lưu trữ các bộ gen và làm cho chúng có thể sử dụng được để tạo ra các dị chủng mới, khi được đặt gần một bộ lắp ráp gen. Thư viện gen lớn cần nhiều ngân hàng gen.\n\nKhi được cung cấp năng lượng, các ngân hàng gen sẽ ngăn không cho các bộ gen bị hao mòn và sẽ từ từ khôi phục chúng khỏi tình trạng hao mòn.</GeneBank.description>
   
   <!-- EN: gene extractor -->
   <GeneExtractor.label>máy trích xuất gen</GeneExtractor.label>
@@ -64,7 +64,7 @@
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>tàu con thoi bị rơi</ShuttleCrashed_Exitable.label>
-  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. -->
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
   <ShuttleCrashed_Exitable.description>Tàu con thoi công nghệ vũ trụ được thiết kế để di chuyển giữa bề mặt và quỹ đạo, hoặc giữa các vệ tinh của một hệ hành tinh.</ShuttleCrashed_Exitable.description>
   
   <!-- EN: crashed mechanitor ship -->
