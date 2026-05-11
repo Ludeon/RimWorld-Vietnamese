@@ -31,7 +31,7 @@
   <!-- EN: Any mechlord apparel -->
   <ApparelRequirementAnyMechlordApparel>Bất kỳ trang phục mechlord nào</ApparelRequirementAnyMechlordApparel>
   <!-- EN: or any psycaster, prestige, or mechlord apparel -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>hoặc bất kỳ trang phục psycaster, uy tín hoặc mechlord nào</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>hoặc bất kỳ trang phục cho người dùng năng lực tâm linh, trang phục uy tín hoặc trang phục mechlord nào</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
 
   <!-- Mech gestator -->
   <!-- EN: Gestation cycles completed -->
@@ -267,7 +267,7 @@
 
   <!-- Pollution -->
   <!-- EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
-  <ConfirmSettleNearPollution>Ô này gần các ô ô nhiễm, vì vậy sẽ có sương mù axit ở đây khoảng mỗi {0} ngày. Sương mù axit làm chậm sự phát triển của cây, làm hỏng các vật phẩm tiếp xúc và khiến mọi người không vui.</ConfirmSettleNearPollution>
+  <ConfirmSettleNearPollution>Ô này gần các ô ô nhiễm, vì vậy sẽ có sương mù axit ở đây khoảng mỗi {0} ngày. Sương mù axit làm chậm sự phát triển của cây, làm hao mòn các vật phẩm lộ thiên và khiến mọi người không vui.</ConfirmSettleNearPollution>
 
   <!-- Pregnancy -->
   <!-- EN: {PAWN_nameDef} is away. -->
@@ -290,9 +290,9 @@
   <PawnIsDead>{PAWN_nameDef} đã chết.</PawnIsDead>
 
   <!-- EN: Placing {PAWN_nameDef} into cryptosleep will strain {PAWN_possessive} psychic bond with {BOND_nameDef}, causing stress to both partners.\n\nAre you sure you want to continue? -->
-  <PsychicBondDistanceWillBeActive_Cryptosleep>Đặt {PAWN_nameDef} vào giấc ngủ đông sẽ căng thẳng liên kết tâm linh của {PAWN_possessive} với {BOND_nameDef}, gây stress cho cả hai.\n\nBạn có chắc muốn tiếp tục?</PsychicBondDistanceWillBeActive_Cryptosleep>
+  <PsychicBondDistanceWillBeActive_Cryptosleep>Đặt {PAWN_nameDef} vào giấc ngủ đông sẽ gây căng thẳng cho ràng buộc tâm linh của {PAWN_possessive} với {BOND_nameDef}, khiến cả hai chịu căng thẳng tâm linh.\n\nBạn có chắc muốn tiếp tục?</PsychicBondDistanceWillBeActive_Cryptosleep>
   <!-- EN: Someone in this caravan is psychically bonded by their partner is not coming with them. These people will be stressed if separated from their bond-partners -->
-  <PsychicBondDistanceWillBeActive_Caravan>Ai đó trong đoàn lữ hành này có liên kết tâm linh nhưng đối tác không đi cùng họ. Những người này sẽ bị stress nếu tách khỏi đối tác liên kết</PsychicBondDistanceWillBeActive_Caravan>
+  <PsychicBondDistanceWillBeActive_Caravan>Ai đó trong đoàn lữ hành này có ràng buộc tâm linh nhưng đối tác không đi cùng họ. Những người này sẽ chịu căng thẳng tâm linh nếu tách khỏi người được ràng buộc.</PsychicBondDistanceWillBeActive_Caravan>
   <!-- EN: partner {0_nameFull} -->
   <Partner>đối tác {0_nameFull}</Partner>
 

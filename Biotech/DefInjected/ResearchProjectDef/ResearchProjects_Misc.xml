@@ -53,14 +53,16 @@
     <li>subject_story->saved the rare Callopian boomrat from extinction with dangerous hand-fertilization techniques</li>
     <li>subject_story->solved the population crisis on an urbworld with fertility interventions and growth vats</li>
     <li>subject_gerund->altering human fertility</li>
-    <li>subject_gerund->improving or blocking human fertility</li>-->
-  <!--VI: Quy <li>trình sinh sản > đối tượng</li>
-    <li>subject_story-> đã giúp các gia đình ở các thế giới cốt lõi đạt được ước mơ làm cha mẹ với phôi ống nghiệm</li>
-    <li>subject_story-> cứu loài boomrat Callopian quý hiếm khỏi tuyệt chủng bằng các kỹ thuật thụ tinh bằng tay nguy hiểm</li>
-    <li>subject_story-> đã giải quyết cuộc khủng hoảng dân số trên một thế giới đô thị với các can thiệp sinh sản và thùng tăng trưởng</li>
-    <li>subject_gerund > làm thay đổi khả năng sinh sản của con người</li>
-    <li>subject_gerund-> cải thiện hoặc ngăn chặn khả năng sinh sản của con người</li>-->
-  <FertilityProcedures.generalRules.rulesStrings>TODO</FertilityProcedures.generalRules.rulesStrings>
+    <li>subject_gerund->improving or blocking human fertility</li>
+  -->
+  <FertilityProcedures.generalRules.rulesStrings>
+    <li>subject->thủ thuật sinh sản</li>
+    <li>subject_story->giúp các gia đình ở coreworld đạt được ước mơ làm cha mẹ bằng phôi trong ống nghiệm</li>
+    <li>subject_story->cứu loài boomrat Callopian quý hiếm khỏi tuyệt chủng bằng các kỹ thuật thụ tinh thủ công nguy hiểm</li>
+    <li>subject_story->giải quyết khủng hoảng dân số trên một urbworld bằng can thiệp sinh sản và bình nuôi tăng trưởng</li>
+    <li>subject_gerund->điều chỉnh khả năng sinh sản của con người</li>
+    <li>subject_gerund->cải thiện hoặc ngăn chặn khả năng sinh sản của con người</li>
+  </FertilityProcedures.generalRules.rulesStrings>
   
   <!-- EN: gene processor -->
   <GeneProcessor.label>bộ xử lý gen</GeneProcessor.label>
@@ -72,14 +74,16 @@
     <li>subject_story->processed an entire village to create one set of higher genes</li>
     <li>subject_story->began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
     <li>subject_gerund->constructing gene processors</li>
-    <li>subject_gerund->processing genes</li>-->
-  <!--VI: <li>bộ xử lý gen > đối tượng</li>
-    <li>subject_story-> chiết xuất gen Glitterworld từ một con vật bỏ hoang trôi dạt</li>
-    <li>subject_story-> xử lý toàn bộ ngôi làng để tạo ra một bộ gen cao hơn</li>
-    <li>subject_story-> bắt đầu quá trình nâng cao chậm chạp bằng cách cấy xengerm vào một bộ lạc nguyên thủy</li>
-    <li>subject_gerund-> xây dựng bộ xử lý gen</li>
-    <li>Gen > subject_gerund</li>-->
-  <GeneProcessor.generalRules.rulesStrings>TODO</GeneProcessor.generalRules.rulesStrings>
+    <li>subject_gerund->processing genes</li>
+  -->
+  <GeneProcessor.generalRules.rulesStrings>
+    <li>subject->bộ xử lý gen</li>
+    <li>subject_story->trích xuất gen glitterworld từ một xác tàu trôi dạt</li>
+    <li>subject_story->xử lý cả một ngôi làng để tạo ra một bộ gen cao cấp</li>
+    <li>subject_story->bắt đầu quá trình nâng cấp chậm rãi bằng cách cấy xenogerm vào một bộ lạc nguyên thủy</li>
+    <li>subject_gerund->xây dựng bộ xử lý gen</li>
+    <li>subject_gerund->xử lý gen</li>
+  </GeneProcessor.generalRules.rulesStrings>
   
   <!-- EN: growth vats -->
   <GrowthVats.label>cabin ấp trứng</GrowthVats.label>
@@ -93,16 +97,18 @@
     <li>subject_story->helped families of all backgrounds have children</li>
     <li>subject_gerund->gestating embryos in artificial wombs</li>
     <li>subject_gerund->accelerating human growth</li>
-    <li>subject_gerund->constructing growth vats</li>-->
-  <!--VI: <li>Đối tượng-> thai nâng cao</li>
-    <li>đối tượng->tử cung nhân tạo</li>
-    <li>subject_story-> điều hành một cơ sở nhân bản để cung cấp người hầu cho các thế giới cốt lõi</li>
-    <li>subject_story->tạo ra một đội quân mới cho một chiến tranhchính quyền quân sự thế giới</li>
-    <li>subject_story-> giúp đỡ các gia đình thuộc mọi hoàn cảnh có con</li>
-    <li>Phôi thai subject_gerund > trong tử cung nhân tạo</li>
-    <li>subject_gerund > tăng tốc con người</li>
-    <li>subject_gerund > xây dựng thùng tăng trưởng</li>-->
-  <GrowthVats.generalRules.rulesStrings>TODO</GrowthVats.generalRules.rulesStrings>
+    <li>subject_gerund->constructing growth vats</li>
+  -->
+  <GrowthVats.generalRules.rulesStrings>
+    <li>subject->thai nghén nâng cao</li>
+    <li>subject->tử cung nhân tạo</li>
+    <li>subject_story->điều hành một cơ sở nhân bản để cung cấp người hầu cho các coreworld</li>
+    <li>subject_story->tạo ra một đội quân mới cho chính quyền quân sự trên warworld</li>
+    <li>subject_story->giúp các gia đình thuộc mọi hoàn cảnh có con</li>
+    <li>subject_gerund->nuôi phôi trong tử cung nhân tạo</li>
+    <li>subject_gerund->đẩy nhanh sự phát triển của con người</li>
+    <li>subject_gerund->xây dựng bình nuôi tăng trưởng</li>
+  </GrowthVats.generalRules.rulesStrings>
   
   <!-- EN: toxin filtration -->
   <ToxFiltration.label>lọc chất độc</ToxFiltration.label>
@@ -115,15 +121,17 @@
     <li>subject_story->skipped chemistry practicals for extra ethics classes</li>
     <li>subject_story->joined a mine-corp as a filtration specialist</li>
     <li>subject_gerund->metabolising toxins</li>
-    <li>subject_gerund->crafting antitoxin organs</li>-->
-  <!--VI: <li>đối tượng-> lọc độc tố</li>
-    chuyển <li>hóa độc tố > đối tượng</li>
-    <li>subject_story->giúp milworld chiến đấu những người sống sót thở trở lại</li>
-    <li>subject_story-> bỏ qua thực hành hóa học cho các lớp đạo đức bổ sung</li>
-    <li>subject_story->gia nhập một quân đoàn mìn với tư cách là một chuyên gia lọc</li>
-    <li>subject_gerund-> chuyển hóa độc tố</li>
-    <li>subject_gerund > chế tạo nội tạng kháng độc tố</li>-->
-  <ToxFiltration.generalRules.rulesStrings>TODO</ToxFiltration.generalRules.rulesStrings>
+    <li>subject_gerund->crafting antitoxin organs</li>
+  -->
+  <ToxFiltration.generalRules.rulesStrings>
+    <li>subject->lọc độc tố</li>
+    <li>subject->chuyển hóa độc tố</li>
+    <li>subject_story->giúp những người sống sót sau chiến đấu trên milworld thở lại được</li>
+    <li>subject_story->bỏ các buổi thực hành hóa học để học thêm đạo đức</li>
+    <li>subject_story->gia nhập một tập đoàn khai mỏ với vai trò chuyên gia lọc</li>
+    <li>subject_gerund->chuyển hóa độc tố</li>
+    <li>subject_gerund->chế tạo cơ quan kháng độc</li>
+  </ToxFiltration.generalRules.rulesStrings>
   
   <!-- EN: tox gas -->
   <ToxGas.label>khí độc</ToxGas.label>
@@ -135,14 +143,16 @@
     <li>subject_story->dreamed of a weapon to end all wars</li>
     <li>subject_story->skipped ethics classes for extra chemistry practice</li>
     <li>subject_story->researched cloud control tech for the tyrannocracy of a deathworld</li>
-    <li>subject_gerund->crafting toxic gas weapons</li>-->
-  <!--VI: <li>Vũ khí > đối tượng</li>
-    chủ <li>đề-> chiến tranh hóa học</li>
-    <li>subject_story-> mơ về một vũ khí để chấm dứt mọi cuộc chiến tranh</li>
-    <li>subject_story->bỏ qua các lớp đạo đức để thực hành thêm hóa học</li>
-    Công <li>nghệ điều khiển đám mây > nghiên cứu subject_story cho chế độ chuyên chế của thế giới tử thần</li>
-    <li>subject_gerund chế tạo > vũ khí độc</li>-->
-  <ToxGas.generalRules.rulesStrings>TODO</ToxGas.generalRules.rulesStrings>
+    <li>subject_gerund->crafting toxic gas weapons</li>
+  -->
+  <ToxGas.generalRules.rulesStrings>
+    <li>subject->vũ khí khí độc</li>
+    <li>subject->chiến tranh hóa học</li>
+    <li>subject_story->mơ về một loại vũ khí có thể chấm dứt mọi cuộc chiến</li>
+    <li>subject_story->bỏ lớp đạo đức để luyện thêm hóa học</li>
+    <li>subject_story->nghiên cứu công nghệ điều khiển mây cho chế độ bạo quyền trên deathworld</li>
+    <li>subject_gerund->chế tạo vũ khí khí độc</li>
+  </ToxGas.generalRules.rulesStrings>
   
   <!-- EN: toxifier generator -->
   <ToxifierGenerator.label>phát điện gây ô nhiễm</ToxifierGenerator.label>
@@ -153,13 +163,15 @@
     <li>subject_story->led a clean-up crew to a toxic planetoid</li>
     <li>subject_story->learned about toxifiers in the deep sump of a skyripper</li>
     <li>subject_story->researched cheap and dirty power sources for an urbcorp</li>
-    <li>subject_gerund->constructing toxifier generators</li>-->
-  <!--VI: trình <li>tạo độc tố chủ đề ></li>
-    <li>subject_story-> dẫn một phi hành đoàn dọn dẹp đến một hành tinh độc hại</li>
-    <li>subject_story > học về chất độc trong bể chứa sâu của Skyripper</li>
-    <li>subject_story > đã nghiên cứu các nguồn điện rẻ tiền và bẩn thỉu cho một urbcorp</li>
-    <li>subject_gerund-> xây dựng máy tạo độc tố</li>-->
-  <ToxifierGenerator.generalRules.rulesStrings>TODO</ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject_gerund->constructing toxifier generators</li>
+  -->
+  <ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject->máy phát điện gây ô nhiễm</li>
+    <li>subject_story->dẫn đầu một đội dọn dẹp trên một tiểu hành tinh độc hại</li>
+    <li>subject_story->học về máy gây ô nhiễm trong hố thải sâu của một skyripper</li>
+    <li>subject_story->nghiên cứu nguồn điện rẻ tiền và bẩn cho một urbcorp</li>
+    <li>subject_gerund->xây dựng máy phát điện gây ô nhiễm</li>
+  </ToxifierGenerator.generalRules.rulesStrings>
   
   <!-- EN: xenogenetics -->
   <Xenogermination.label>xenogenetic</Xenogermination.label>
@@ -171,13 +183,15 @@
     <li>subject_story->was uplifted by a glitterworld charity that focused on the genetically disadvantaged</li>
     <li>subject_story->had [ANYPAWN_possessive] genes stolen by a rogue biologist</li>
     <li>subject_story->ran a genetic transfer clinic for the glitterworld elite</li>
-    <li>subject_gerund->crafting xenogerms</li>-->
-  <!--VI: <li>đối tượng-> nảy mầm</li>
-    <li>Cấy ghép đối tượng > di truyền</li>
-    <li>subject_story-> được nâng đỡ bởi một tổ chức từ thiện lấp lánh tập trung vào những người có hoàn cảnh khó khăn về mặt di truyền</li>
-    <li>subject_story->có [ANYPAWN_possessive] gen bị đánh cắp bởi một nhà sinh vật học bất hảo</li>
-    <li>subject_story-> điều hành một phòng khám chuyển gen cho giới thượng lưu Glitterworld</li>
-    <li>subject_gerund >chế tạo xenogerms</li>-->
-  <Xenogermination.generalRules.rulesStrings>TODO</Xenogermination.generalRules.rulesStrings>
+    <li>subject_gerund->crafting xenogerms</li>
+  -->
+  <Xenogermination.generalRules.rulesStrings>
+    <li>subject->xenogermination</li>
+    <li>subject->cấy ghép di truyền</li>
+    <li>subject_story->được nâng cấp bởi một tổ chức từ thiện glitterworld tập trung vào những người bất lợi về di truyền</li>
+    <li>subject_story->bị một nhà sinh học nổi loạn đánh cắp gen của [ANYPAWN_possessive]</li>
+    <li>subject_story->điều hành một phòng khám chuyển giao gen cho giới tinh hoa glitterworld</li>
+    <li>subject_gerund->chế tạo xenogerm</li>
+  </Xenogermination.generalRules.rulesStrings>
   
 </LanguageData>

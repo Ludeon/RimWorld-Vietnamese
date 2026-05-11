@@ -7,7 +7,7 @@
     <li>discoveryDesc(discovered==true)->determined the location</li>
   -->
   <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
-    <li>questDescription-> Bạn có [discoveryDesc] của một hợp chất cổ đại gần đó có chứa phần còn lại của một mechanitor đã chết từ lâu.\n\nMechanoids có thể tạo, điều khiển và điều khiển mechanoids để làm việc và chiến đấu. Nếu bạn có thể vào bên trong khu phức hợp này và lấy được xác của mechanitor, bạn có thể lấy bộ phận cấy ghép mechlink của họ và biến một trong những người thuộc địa của bạn thành mechanitor.\n\nHãy lưu ý - có nhiều mối nguy hiểm bao quanh các cơ sở này và hoạt động của bạn bên trong có thể thu hút sự chú ý không mong muốn.</li>
+    <li>questDescription-> Bạn có [discoveryDesc] của một hợp chất cổ đại gần đó có chứa phần còn lại của một mechanitor đã chết từ lâu.\n\nMechanoids có thể tạo, điều khiển và điều khiển mechanoids để làm việc và chiến đấu. Nếu bạn có thể vào bên trong khu phức hợp này và lấy được xác của mechanitor, bạn có thể lấy bộ phận cấy ghép mechlink của họ và biến một trong những cư dân của bạn thành mechanitor.\n\nHãy lưu ý - có nhiều mối nguy hiểm bao quanh các cơ sở này và hoạt động của bạn bên trong có thể thu hút sự chú ý không mong muốn.</li>
     <li>discoveryDesc(discovered==false)->learned</li>
     <li>discoveryDesc(discovered==true)->phát hiện ra vị trí</li>
   </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>

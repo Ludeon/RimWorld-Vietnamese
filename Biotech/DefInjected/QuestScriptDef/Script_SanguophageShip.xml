@@ -11,19 +11,19 @@
   -->
   <SanguophageShip.questContentRules.rulesStrings>
     <li>sanguophageShuttleCrashedLetterLabel->tàu con thoi bị rơi</li>
-    <li>sanguophageShuttleCrashedLetterText->Một tàu con thoi đã bị rơi gần đó mang theo chủ nhân sanguophage và tay sai của [thrallCount], họ sẽ thoát khỏi con tàu bị rơi và chuẩn bị chiến đấu.</li>
-    <li>reinforcementsArrivedLetterLabel->Quân tiếp viện Thrall</li>
-    <li>reinforcementsArrivedLetterText->Thralls đang đến trong các nhóm thả để củng cố sanguophage bị rơi.</li>
+    <li>sanguophageShuttleCrashedLetterhext->Một tàu con thoi đã bị rơi gần đó mang theo chủ nhân sanguophage và tay sai của [thrallCount], họ sẽ thoát khỏi con tàu bị rơi và chuẩn bị chiến đấu.</li>
+    <li>reinforcementsArrivedLetterLabel->Quân tiếp viện hhrall</li>
+    <li>reinforcementsArrivedLetterhext->hhralls đang đến trong các nhóm thả để củng cố sanguophage bị rơi.</li>
     <li>assaultBeginLetterLabel->Cuộc tấn công bắt đầu</li>
-    <li>assaultBeginLetterText->Bậc thầy sanguophage và tay sai [sanguophage_possessive] đã bắt đầu tấn công thuộc địa!</li>
+    <li>assaultBeginLetterhext->Bậc thầy sanguophage và tay sai [sanguophage_possessive] đã bắt đầu tấn công thuộc địa!</li>
   </SanguophageShip.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You have intercepted a distress signal! A hostile shuttle carrying a sanguophage master and [thrallCount] thralls is having trouble with its engines. You can use signals to draw it down to a crash near [map_definite].\n\nOnce the ship has crashed, you can fight the sanguophage and [sanguophage_possessive] minions. If you can capture the master, you can force [sanguophage_objective] to turn one of your colonists into a sanguophage.\n\n[sanguophageInfo]</li>
     <li>sanguophageInfo->(*Gray)About sanguophages: Sanguophages are ageless, deathless super-humans powered by archotech-created archites in the bloodstream. They are beautiful and extremely intelligent. They can heal any injury, and never suffer from disease or poison. In combat, they can launch deadly spines and heal injured friends. The price is that sanguophages must consume hemogen derived from human blood to survive, and they must periodically deathrest for long periods. They're easily destroyed by fire, and slowed down by UV light.(/Gray)</li>
   -->
   <SanguophageShip.questDescriptionRules.rulesStrings>
-    <li>questDescription->Bạn đã chặn được tín hiệu cấp cứu! Một tàu con thoi thù địch chở một bậc thầy sanguophage và tay sai của [thrallCount] đang gặp sự cố với động cơ của nó. Bạn có thể sử dụng các tín hiệu để hướng nó đến sự cố gần [map_definite].\n\nSau khi con tàu bị rơi, bạn có thể chiến đấu với tay sai sanguophage và [sanguophage_possessive]. Nếu bạn có thể bắt được chủ nhân, bạn có thể buộc [sanguophage_objective] biến một trong những thực dân của bạn thành sanguophage.\n\n[sanguophageInfo]</li>
-    <li>sanguophageInfo->(*Gray)Giới thiệu về sanguophages: Sanguophages là những siêu nhân không già và không chết, được trao sức mạnh bởi các archite do archotech tạo ra trong dòng máu. Họ xinh đẹp và cực kỳ thông minh. Họ có thể chữa lành mọi vết thương, và không bao giờ mắc bệnh hay trúng độc. Trong chiến đấu, họ có thể phóng ra những gai xương chết người và chữa lành cho đồng đội bị thương. Cái giá phải trả là sanguophages phải tiêu thụ hemogen có nguồn gốc từ máu người để tồn tại, đồng thời phải định kỳ nghỉ tử trong thời gian dài. Họ rất dễ bị lửa thiêu hủy và bị tia cực tím làm chậm.(/Gray)</li>
+    <li>questDescription->Bạn đã chặn được tín hiệu cấp cứu! Một tàu con thoi thù địch chở một bậc thầy sanguophage và tay sai của [thrallCount] đang gặp sự cố với động cơ của nó. Bạn có thể sử dụng các tín hiệu để hướng nó đến sự cố gần [map_definite].\n\nSau khi con tàu bị rơi, bạn có thể chiến đấu với tay sai sanguophage và [sanguophage_possessive]. Nếu bạn có thể bắt được chủ nhân, bạn có thể buộc [sanguophage_objective] biến một trong những cư dân của bạn thành sanguophage.\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo->(*Gray)Giới thiệu về sanguophages: Sanguophages là những siêu nhân không già và không chết, được trao sức mạnh bởi các archite do archotech tạo ra trong dòng máu. Họ xinh đẹp và cực kỳ thông minh. Họ có thể chữa lành mọi vết thương, và không bao giờ mắc bệnh hay trúng độc. hrong chiến đấu, họ có thể phóng ra những gai xương chết người và chữa lành cho đồng đội bị thương. Cái giá phải trả là sanguophages phải tiêu thụ hemogen có nguồn gốc từ máu người để tồn tại, đồng thời phải định kỳ nghỉ tử trong thời gian dài. Họ rất dễ bị lửa thiêu hủy và bị tia cực tím làm chậm.(/Gray)</li>
   </SanguophageShip.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[shipAdjective] [shipNoun]</li>

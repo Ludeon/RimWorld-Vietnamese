@@ -101,14 +101,14 @@
   <AlertToxifierGeneratorStoppedDesc>{0} của bạn không sản xuất điện vì không có địa hình màu mỡ gần đó để chuyển đổi.\n\nLàm sạch địa hình ô nhiễm bằng máy bơm ô nhiễm, hoặc bằng cách chỉ định khu vực loại bỏ ô nhiễm.</AlertToxifierGeneratorStoppedDesc>
 
   <!-- EN: Psychic bond distance -->
-  <AlertPsychicBondedPawnsSeparated>Khoảng cách liên kết tâm linh</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparated>Khoảng cách ràng buộc tâm linh</AlertPsychicBondedPawnsSeparated>
   <!-- EN: Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected -->
-  <AlertPsychicBondedPawnsSeparatedDesc>Một số cư dân có liên kết tâm linh đã bị tách ra và đang cảm thấy tác động tiêu cực từ khoảng cách. Để tránh điều này, những người có liên kết tâm linh phải ở cùng ô thế giới, đoàn lữ hành hoặc phương tiện. Ngoài ra, họ không được ở trong giấc ngủ đông hoặc hoạt hình treo tương tự.\n\nNhững người sau bị ảnh hưởng</AlertPsychicBondedPawnsSeparatedDesc>
+  <AlertPsychicBondedPawnsSeparatedDesc>Một số cư dân có ràng buộc tâm linh đã bị tách ra và đang chịu tác động tiêu cực từ khoảng cách. Để tránh điều này, những người có ràng buộc tâm linh phải ở cùng ô thế giới, đoàn lữ hành hoặc phương tiện. Ngoài ra, họ không được ở trong giấc ngủ đông hoặc trạng thái tạm dừng sự sống tương tự.\n\nNhững người sau bị ảnh hưởng</AlertPsychicBondedPawnsSeparatedDesc>
 
   <!-- EN: Gene bank needs power -->
   <AlertGenebankUnpowered>Ngân hàng gen cần điện</AlertGenebankUnpowered>
   <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
-  <AlertGenebankUnpoweredDesc>Một ngân hàng gen không có điện, vì vậy các gói gen bên trong đang từ từ xuống cấp. Khôi phục điện cho ngân hàng gen để ngăn các gói gen xuống cấp.\n\nKhi ngân hàng gen có điện, nó sẽ từ từ đảo ngược sự xuống cấp của các gói gen bên trong.</AlertGenebankUnpoweredDesc>
+  <AlertGenebankUnpoweredDesc>Một ngân hàng gen không có điện, vì vậy các gói gen bên trong đang từ từ bị hao mòn. Khôi phục điện cho ngân hàng gen để ngăn các gói gen bị hao mòn.\n\nKhi ngân hàng gen có điện, nó sẽ từ từ đảo ngược sự hao mòn của các gói gen bên trong.</AlertGenebankUnpoweredDesc>
 
   <!-- EN: {0} incoming -->
   <AlertBossgroupIncoming>{0} sắp đến</AlertBossgroupIncoming>

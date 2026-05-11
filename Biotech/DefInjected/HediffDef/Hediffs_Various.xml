@@ -4,7 +4,7 @@
   <!-- EN: bio-starvation -->
   <BioStarvation.label>thiếu dinh dưỡng sinh học</BioStarvation.label>
   <!-- EN: This person was in a growth vat which wasn't functioning properly due to lack of power or nutrition feedstock. This has left their body in a state of bio-starvation. -->
-  <BioStarvation.description>Người này đang ở trong một bể tăng trưởng không hoạt động bình thường do thiếu năng lượng hoặc nguyên liệu dinh dưỡng. Nó khiến cơ thể anh ta rơi vào trạng thái chết đói sinh học.</BioStarvation.description>
+  <BioStarvation.description>Người này từng ở trong một bể tăng trưởng không hoạt động bình thường do thiếu năng lượng hoặc nguyên liệu dinh dưỡng. Điều này khiến cơ thể họ rơi vào trạng thái thiếu dinh dưỡng sinh học.</BioStarvation.description>
   
   <!-- EN: deathresting -->
   <Deathrest.label>đang nghỉ tử</Deathrest.label>
@@ -22,14 +22,13 @@
   <GeneticDrugNeed.description>Người này mắc chứng nghiện sinh hóa do di truyền đối với một loại thuốc rất cụ thể. Nếu không có liều lượng thường xuyên của sản phẩm này, cơ thể anh ta không thể tự duy trì, sức khỏe và tâm trạng của anh ta sẽ xấu đi cho đến khi anh ta chết..\n\nCó hiệu lực sau tuổi 13.</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>Thiếu thuốc</GeneticDrugNeed.stages.deficiency.label>
-  <GeneticDrugNeed.stages.deficiency.overrideLabel>Hôn mê</GeneticDrugNeed.stages.deficiency.overrideLabel>
   <!-- EN: deficiency coma -->
   <GeneticDrugNeed.stages.3.overrideLabel>Hôn mê do thiếu thuốc</GeneticDrugNeed.stages.3.overrideLabel>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>nhu cầu về hemogen</HemogenCraving.label>
   <!-- EN: Due to a lack of hemogen, this person's body is breaking down hemogen reserves in their bone marrow. This causes disorientation and a painful craving for human blood. -->
-  <HemogenCraving.description>Do thiếu hemogene, cơ thể của người này tiêu thụ hemogene dự trữ trong tủy xương của mình. Nó gây mất phương hướng và thèm khát máu người..</HemogenCraving.description>
+  <HemogenCraving.description>Do thiếu hemogen, cơ thể người này đang phân giải lượng hemogen dự trữ trong tủy xương. Điều này gây mất phương hướng và cảm giác thèm máu người đau đớn.</HemogenCraving.description>
   <!-- EN: minor -->
   <HemogenCraving.stages.minor.label>Nhẹ</HemogenCraving.stages.minor.label>
   <!-- EN: moderate -->
@@ -43,52 +42,52 @@
   <InterruptedDeathrest.description>Nghỉ tử bị gián đoạn khi quá trình trao đổi chất của người này vẫn chưa cân bằng. Người này sẽ bị ốm trong nhiều ngày cho đến khi lấy lại cân bằng.</InterruptedDeathrest.description>
   
   <!-- EN: psychic bond -->
-  <PsychicBond.label>liên kết tâm linh</PsychicBond.label>
+  <PsychicBond.label>ràng buộc tâm linh</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
-  <PsychicBond.description>Người này có liên kết tâm linh với người khác nhờ gen liên kết tâm linh.</PsychicBond.description>
+  <PsychicBond.description>Người này có ràng buộc tâm linh với người khác nhờ gen ràng buộc tâm linh. Bản thân ràng buộc này đem lại một mức nhận thức tâm linh hạn chế, cho phép nó kết nối ngay cả với người điếc tâm linh.</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
-  <PsychicBond.stages.0.extraTooltip>Người gắn kết với người này đang ở gần.</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.extraTooltip>Người được ràng buộc với người này đang ở gần.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
-  <PsychicBond.stages.0.overrideLabel>liên kết tâm linh</PsychicBond.stages.0.overrideLabel>
+  <PsychicBond.stages.0.overrideLabel>ràng buộc tâm linh</PsychicBond.stages.0.overrideLabel>
   <!-- EN: This person feels separated from their bonded individual. -->
-  <PsychicBond.stages.1.extraTooltip>Cá nhân ngoại quan của người này ở rất xa.</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.extraTooltip>Người được ràng buộc với người này đang ở xa.</PsychicBond.stages.1.extraTooltip>
   <!-- EN: psychic bond distance -->
-  <PsychicBond.stages.1.overrideLabel>phạm vi của liên kết tâm linh</PsychicBond.stages.1.overrideLabel>
+  <PsychicBond.stages.1.overrideLabel>khoảng cách ràng buộc tâm linh</PsychicBond.stages.1.overrideLabel>
   
   <!-- EN: psychic bond torn -->
-  <PsychicBondTorn.label>Liên kết tâm linh bị phá vỡ</PsychicBondTorn.label>
+  <PsychicBondTorn.label>Ràng buộc tâm linh bị xé rách</PsychicBondTorn.label>
   <!-- EN: This person had a psychic bond with another, but the bond was torn when their partner died. -->
-  <PsychicBondTorn.description>Người này đã có một liên kết tâm linh với một người khác, nhưng liên kết đã bị phá vỡ khi đối phương qua đời.</PsychicBondTorn.description>
+  <PsychicBondTorn.description>Người này từng có ràng buộc tâm linh với người khác, nhưng ràng buộc đó đã bị xé rách khi đối phương qua đời.</PsychicBondTorn.description>
   
   <!-- EN: regeneration coma -->
-  <RegenerationComa.label>regeneration coma</RegenerationComa.label>
+  <RegenerationComa.label>hôn mê tái sinh</RegenerationComa.label>
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
-  <RegenerationComa.description>Nếu người này không bị di truyền deathless, họ đã chết vì tình trạng sức khỏe của họ . Thay vào đó, họ rơi vào trạng thái hôn mê tái sinh, trong thời gian đó họ sẽ tái tạo cơ thể của mình.</RegenerationComa.description>
+  <RegenerationComa.description>Nếu người này không có gen bất tử, họ đã chết vì tình trạng sức khỏe của mình. Thay vào đó, họ rơi vào trạng thái hôn mê tái sinh, trong thời gian đó cơ thể họ sẽ được tái tạo.</RegenerationComa.description>
   
   <!-- EN: Scanning sickness -->
-  <ScanningSickness.label>Scanning sickness</ScanningSickness.label>
+  <ScanningSickness.label>bệnh do quét</ScanningSickness.label>
   <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
-  <ScanningSickness.description>Người này đã được quét bởi một máy quét mềm để tạo ra một subcore mechanoid. Thiết bị quét năng lượng cao đã gây ra rối loạn hóa học trong não của họ và sẽ mất thời gian để tự phục hồi. Sẽ không có thiệt hại lâu dài.</ScanningSickness.description>
+  <ScanningSickness.description>Người này đã được quét bằng máy quét mềm để tạo ra một subcore mechanoid. Thiết bị quét năng lượng cao đã gây rối loạn hóa học trong não họ và sẽ cần thời gian để tự hồi phục. Sẽ không có tổn thương lâu dài.</ScanningSickness.description>
   
   <!-- EN: vat growing -->
   <VatGrowing.label>bể ủ</VatGrowing.label>
   <!-- EN: The growth vat is stimulating this person's body to increase the rate of cell division and aging. -->
-  <VatGrowing.description>bể ủ đang kích thích cơ thể người này tăng tốc độ phân chia tế bào và lão hóa.</VatGrowing.description>
+  <VatGrowing.description>Bể tăng trưởng đang kích thích cơ thể người này để tăng tốc độ phân chia tế bào và lão hóa.</VatGrowing.description>
   
   <!-- EN: vat learning -->
   <VatLearning.label>bể học tập</VatLearning.label>
   <!-- EN: The growth vat is electrically stimulating this person's brain to induce skill development. This process is not very effective, and will only partially replace the skills missed from not growing in the outside world. -->
-  <VatLearning.description>Thùng điện kích thích não bộ của người đó để tạo ra sự phát triển kỹ năng. Quá trình này không hiệu quả lắm và sẽ chỉ thay thế một phần các kỹ năng bị thiếu do không phát triển ở thế giới bên ngoài.</VatLearning.description>
+  <VatLearning.description>Bể tăng trưởng đang kích thích điện não bộ của người này để thúc đẩy phát triển kỹ năng. Quá trình này không hiệu quả lắm và chỉ thay thế được một phần các kỹ năng bị thiếu do không lớn lên ở thế giới bên ngoài.</VatLearning.description>
   
   <!-- EN: xenogermination coma -->
-  <XenogerminationComa.label>hôn mê xenogermination</XenogerminationComa.label>
+  <XenogerminationComa.label>hôn mê xenogerm</XenogerminationComa.label>
   <!-- EN: A xenogerm was implanted in this person. The xenogerm needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the xenogerm keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a xenogerm with better medical facilities and more skilled doctors. -->
-  <XenogerminationComa.description>Một xenogerm đã được cấy vào người này. Xenogerm cần thời gian để tích hợp với vật chủ của nó và thay đổi gen cũng như chất hóa học của các mô khác nhau trong cơ thể. Trong khi đó, người đó không thể tỉnh dậy một cách an toàn, vì vậy xenogern khiến họ hôn mê.\n\nThời gian của tình trạng hôn mê này có thể được giảm bớt bằng cách cấy ghép dị chủng ở các cơ sở y tế tốt hơn và với các bác sĩ có trình độ cao hơn.</XenogerminationComa.description>
+  <XenogerminationComa.description>Một xenogerm đã được cấy vào người này. Xenogerm cần thời gian để tích hợp vào vật chủ và thay đổi gen cùng hóa học của nhiều mô khác nhau trong cơ thể. Trong thời gian này, người đó không thể tỉnh dậy an toàn, nên xenogerm giữ họ trong trạng thái hôn mê.\n\nThời gian hôn mê có thể được rút ngắn bằng cách cấy xenogerm với cơ sở y tế tốt hơn và bác sĩ có tay nghề cao hơn.</XenogerminationComa.description>
   
   <!-- EN: gene loss shock -->
   <XenogermLossShock.label>sốc mất gen</XenogermLossShock.label>
   <!-- EN: This person's genes were recently removed or expelled. This has destabilized the person's metabolism and hormones, leaving them temporarily weak and drowsy, with a weakened immune system. -->
-  <XenogermLossShock.description>Các gen của người này đã bị xóa hoặc xóa gần đây. Điều này làm mất ổn định quá trình trao đổi chất và nội tiết tố của người đó, khiến họ tạm thời yếu và buồn ngủ, với hệ thống miễn dịch suy yếu..</XenogermLossShock.description>
+  <XenogermLossShock.description>Gen của người này vừa bị loại bỏ hoặc trục xuất. Điều này làm mất ổn định quá trình trao đổi chất và hormone, khiến họ tạm thời yếu, buồn ngủ và suy giảm hệ miễn dịch.</XenogermLossShock.description>
   
   <!-- EN: genes regrowing -->
   <XenogermReplicating.label>tái tạo gen</XenogermReplicating.label>
