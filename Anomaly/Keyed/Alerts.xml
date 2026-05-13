@@ -6,7 +6,7 @@
   <!-- EN: These entities are at dangerously high activity levels -->
   <ActivityDangerousDesc>Các thực thể này có hoạt động nguy hiểm cao</ActivityDangerousDesc>  
   <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
-  <ActivityDangerousDescAppended>Khi một thực thể đạt hoạt động 100%, nó sẽ trở nên nguy hiểm.\n\nGửi cai ngục của bạn để trấn áp, hoặc cho phép tự động trấn áp trong thẻ hoạt động của thực thể.</ActivityDangerousDescAppended>
+  <ActivityDangerousDescAppended>Khi một thực thể đạt hoạt động 100%, nó sẽ trở nên nguy hiểm.\n\nHãy cử quản ngục đến trấn áp các thực thể này, hoặc bật tự động trấn áp trong thẻ hoạt động của thực thể.</ActivityDangerousDescAppended>
 
   <!-- EN: Need anomaly project -->
   <NeedAnomalyProject>Cần dự án dị thường</NeedAnomalyProject>
@@ -30,7 +30,7 @@
   <Alert_UndercaveUnstableDesc>Hầm ngầm trở nên không ổn định và sẽ sớm sụp đổ.\n\nĐưa cư dân ra ngoài trước khi quá muộn.</Alert_UndercaveUnstableDesc>
 
   <!-- EN: Cultist psychic ritual -->
-  <Alert_CultistPsychicRitual>Nghi lễ tâm linh của Tín đồ</Alert_CultistPsychicRitual>
+  <Alert_CultistPsychicRitual>Nghi thức tâm linh của Tín đồ</Alert_CultistPsychicRitual>
   <!-- EN: {INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire. -->
   <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} đã bắt đầu {RITUAL_definite}. Nếu bạn không ngăn chặn {INVOKER_objective}, hậu quả có thể rất nghiêm trọng.</Alert_CultistPsychicRitualDesc>
 

@@ -28,7 +28,7 @@
   <!-- EN: A revenant has revealed itself! -->
   <LetterRevenantRevealed>Một revenant vừa hiện hình!</LetterRevenantRevealed>
   <!-- EN: A revenant has revealed itself and is hunting one of your colonists! -->
-  <LetterRevenantRevealedFirst>revenant lộ diện và đang truy đuổi một thực dân của bạn!</LetterRevenantRevealedFirst> 
+  <LetterRevenantRevealedFirst>revenant lộ diện và đang truy đuổi một cư dân của bạn!</LetterRevenantRevealedFirst> 
   <!-- EN: Revenant smear discovered -->
   <LetterLabelRevenantSmearDiscovered>Dấu vết revenant</LetterLabelRevenantSmearDiscovered>
   <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
@@ -66,11 +66,11 @@
   <!-- EN: Sightstealer shrieks -->
   <LetterLabelSightstealerHowl>Tiếng hú Kẻ Trộm Thị giác</LetterLabelSightstealerHowl>
   <!-- EN: Your colonists hear sightstealers shrieking in the distance.\n\nIt's hard to tell where they are or how many. They might arrive immediately or days from now. -->
-  <LetterSightstealerHowl>Thực dân nghe thấy tiếng hú Kẻ Trộm Thị giác vọng về từ nơi xa.\n\nKhó đoán định vị trí hoặc số lượng của chúng. Có thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowl>
+  <LetterSightstealerHowl>Cư dân nghe thấy tiếng hú Kẻ Trộm Thị giác vọng về từ nơi xa.\n\nKhó đoán định vị trí hoặc số lượng của chúng. Có thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowl>
   <!-- EN: Sightstealer howling -->
   <LetterLabelSightstealerHowlBig>Tiếng hú lớn Kẻ Trộm Thị giác</LetterLabelSightstealerHowlBig>
   <!-- EN: Your colonists hear a huge number of distant sightstealers screaming in their twisted rage. They are coming.\n\nThey might arrive immediately, or days from now. -->
-  <LetterSightstealerHowlBig>Thực dân nghe thấy tiếng hú rợn người của vô số Kẻ Trộm Thị giác đang điên cuồng lao đến. Chắc chắn chúng đang tới.\n\nCó thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowlBig>
+  <LetterSightstealerHowlBig>Cư dân nghe thấy tiếng hú rợn người của vô số Kẻ Trộm Thị giác đang điên cuồng lao đến. Chắc chắn chúng đang tới.\n\nCó thể chúng xuất hiện ngay lập tức, hoặc sau vài ngày nữa.</LetterSightstealerHowlBig>
 
   <!-- Death Pall -->
   <!-- EN: Death pall clearing -->
@@ -201,7 +201,7 @@
   <!-- EN: Obelisk activation -->
   <DuplicatorObeliskLetterLabel>Trụ tháp - Kẻ nhân bản</DuplicatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
-  <DuplicatorObeliskLetter>Trụ tháp bắt đầu khởi động! Không khí xung quanh nó chuyển động đầy năng lượng. Những bản sao của thực dân có ý đồ giết người sắp xuất hiện.\n\nCẩn thận - năng lượng từ trụ tháp rất bất ổn và có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
+  <DuplicatorObeliskLetter>Trụ tháp bắt đầu khởi động! Không khí xung quanh nó chuyển động đầy năng lượng. Những bản sao của cư dân có ý đồ giết người sắp xuất hiện.\n\nCẩn thận - năng lượng từ trụ tháp rất bất ổn và có thể phát nổ bất cứ lúc nào.</DuplicatorObeliskLetter>
 
   <!-- EN: Colonists disappearing -->
   <ObeliskAbductorLetterLabel>Trụ tháp - Kẻ bắt cóc</ObeliskAbductorLetterLabel>
@@ -216,7 +216,7 @@
   <!-- EN: {PAWN_nameDef} reappeared -->
   <ObeliskAbductedLetterLabel>{PAWN_nameDef} xuất hiện trở lại</ObeliskAbductedLetterLabel>
   <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
-  <ObeliskAbductedLetter>{PAWN_nameDef} vừa được dịch chuyển đến một căn phòng kỳ lạ. Những bức tường có màu xám không thể nhận diện, và không khí dường như hoàn toàn tĩnh lặng. {PAWN_pronoun} không biết mình đang ở đâu - hay làm sao để trở về.\n\nMột cánh cửa gần đó bị kẹt nhưng có vẻ như có thể cạy mở bằng một chút sức lực. Nhấp chuột phải vào cửa bị kẹt để mở chúng.\n\nBằng cách nghiên cứu trụ tháp, những thực dân khác có thể hiểu được điều gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Hoặc, tấn công trụ tháp có thể khiến nó bắt cóc thêm nhiều người.</ObeliskAbductedLetter>
+  <ObeliskAbductedLetter>{PAWN_nameDef} vừa được dịch chuyển đến một căn phòng kỳ lạ. Những bức tường có màu xám không thể nhận diện, và không khí dường như hoàn toàn tĩnh lặng. {PAWN_pronoun} không biết mình đang ở đâu - hay làm sao để trở về.\n\nMột cánh cửa gần đó bị kẹt nhưng có vẻ như có thể cạy mở bằng một chút sức lực. Nhấp chuột phải vào cửa bị kẹt để mở chúng.\n\nBằng cách nghiên cứu trụ tháp, những cư dân khác có thể hiểu được điều gì đã xảy ra với {PAWN_nameDef} và tìm cách giúp {PAWN_objective}. Hoặc, tấn công trụ tháp có thể khiến nó bắt cóc thêm nhiều người.</ObeliskAbductedLetter>
 
   <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
   <MutatorObeliskMutated>{PAWN_nameIndef} đã biến thành Quái thịt.</MutatorObeliskMutated>
@@ -265,9 +265,9 @@
   <!-- EN: Automatic suppression -->
   <ActivitySuppressionTooltipTitle>Trấn áp tự động</ActivitySuppressionTooltipTitle>
   <!-- EN: Automatic suppression is currently disabled. Enable it to have wardens suppress the {0}. -->
-  <ActivitySuppressionTooltipDisabled>Trấn áp tự động đang bị vô hiệu hóa. Kích hoạt để cho cai ngục trấn áp {0}.</ActivitySuppressionTooltipDisabled>
+  <ActivitySuppressionTooltipDisabled>Trấn áp tự động đang bị vô hiệu hóa. Bật tùy chọn này để quản ngục trấn áp {0}.</ActivitySuppressionTooltipDisabled>
   <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
-  <ActivitySuppressionTooltipDesc>{0}: mức hoạt động sẽ tăng theo thời gian. Hoạt động tăng nhanh hơn nếu bị tấn công hoặc khiêu khích.\n\nNếu mức hoạt động lên đến 100%, {0} sẽ tự kích hoạt.\n\nCai ngục có thể trấn áp {0} để giữ hoạt động ở mức an toàn. Họ sẽ dập tắt nó mỗi khi hoạt động vươn đến giới hạn được thiết lập: {LEVEL}\n\nThực thể có mức hoạt động cao sẽ cung cấp nhiều kiến thức hơn khi nghiên cứu.</ActivitySuppressionTooltipDesc>
+  <ActivitySuppressionTooltipDesc>Mức hoạt động của {0} sẽ tăng theo thời gian. Hoạt động tăng nhanh hơn nếu {0} bị tấn công hoặc khiêu khích.\n\nNếu mức hoạt động lên đến 100%, {0} sẽ tự kích hoạt.\n\nQuản ngục có thể trấn áp {0} để giữ hoạt động ở mức an toàn. Họ sẽ trấn áp bất cứ khi nào mức hoạt động vượt quá ngưỡng đã đặt: {LEVEL}\n\nThực thể có mức hoạt động cao sẽ cung cấp nhiều kiến thức hơn khi nghiên cứu.</ActivitySuppressionTooltipDesc>
   <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
   <ActivitySuppressionToggleTooltipDesc>Quyết định liệu {0} có bị tự động trấn áp khi hoạt động vượt {LEVEL} hay không.\n\nTrấn áp tự động hiện đang: {ONOFF}</ActivitySuppressionToggleTooltipDesc>
 
@@ -370,7 +370,7 @@
   <LetterInterrogationUnlocked>Chế độ thẩm vấn tù nhân đã được mở khóa.</LetterInterrogationUnlocked>
   
   <!-- EN: Imprison someone and send a warden to interrogate them about their true identity. This can take many days. -->
-  <LetterGrayFleshMethodOne>Bắt giam ai đó và cử một cai ngục đến thẩm vấn họ về danh tính thật. Điều này có thể mất vài ngày.</LetterGrayFleshMethodOne>
+  <LetterGrayFleshMethodOne>Bắt giam ai đó và cử một quản ngục đến thẩm vấn họ về danh tính thật. Việc này có thể mất nhiều ngày.</LetterGrayFleshMethodOne>
   <!-- EN: Collect more gray flesh and analyze it to determine the biosignature of the threat. Then, use the surgical inspection operation to search for that biosignature. It could take a long time to collect enough samples, and the surgery is invasive. -->
   <LetterGrayFleshMethodTwo>Thu thập thêm những mẫu thịt xám và phân tích để xác định đặc điểm sinh học của mối đe dọa. Sau đó, sử dụng nghiệp vụ kiểm tra phẫu thuật để tìm kiếm dấu hiệu này. Quá trình thu thập mẫu vật có thể cần nhiều thời gian, và việc phẫu thuật rất xâm lấn.</LetterGrayFleshMethodTwo>
   <!-- EN: Execute or banish whoever you suspect. -->
@@ -426,7 +426,7 @@
 
   <!-- Creepjoiners -->
   <!-- EN: {PAWN_pronoun} wants to talk. You can send a colonist to hear what {PAWN_pronoun} has to say. -->
-  <LetterCreeperAppearedAppended>{PAWN_pronoun} muốn trò chuyện. Bạn có thể cử một thực dân đến để lắng nghe {PAWN_pronoun} trình bày.</LetterCreeperAppearedAppended>
+  <LetterCreeperAppearedAppended>{PAWN_pronoun} muốn trò chuyện. Bạn có thể cử một cư dân đến để lắng nghe {PAWN_pronoun} trình bày.</LetterCreeperAppearedAppended>
   <!-- EN: {PAWN_nameDef} wants to join -->
   <LetterCreeperInviteJoins>{PAWN_nameDef} muốn gia nhập</LetterCreeperInviteJoins>
   <!-- EN: {PAWN_pronoun} may be very useful, but you also sense there is something {PAWN_nameDef} is not telling you. -->
@@ -630,7 +630,7 @@
   <!-- EN: Cube deactivation -->
   <CubeDeactivationBerserk>Vô hiệu hóa Khối lập phương</CubeDeactivationBerserk>
   <!-- EN: {PAWN_labelShort} has successfully destroyed the golden cube. The psychic whiplash has driven colonists into a berserk rage! -->
-  <CubeDeactivationBerserkDesc>{PAWN_labelShort} đã thành công phá hủy Khối lập phương vàng. Dư chấn tâm linh khiến thực dân nổi cơn cuồng nộ!</CubeDeactivationBerserkDesc>
+  <CubeDeactivationBerserkDesc>{PAWN_labelShort} đã thành công phá hủy Khối lập phương vàng. Dư chấn tâm linh khiến cư dân nổi cơn cuồng nộ!</CubeDeactivationBerserkDesc>
   <!-- EN: These people have entered a temporary berserk rage -->
   <CubeDeactivationBerserkPawns>Những người dưới đây đang nổi cơn cuồng nộ tạm thời:</CubeDeactivationBerserkPawns>
   <!-- EN: These people in caravans have run away in a rage -->
@@ -684,9 +684,9 @@
   <LetterFloorEtchingsRamblings>{PAWN_nameDef} đã giải mã được các vết khắc sàn.</LetterFloorEtchingsRamblings>
 
   <!-- EN: Colonists returned -->
-  <LetterLabelLabyrinthExit>Thực dân quay trở lại</LetterLabelLabyrinthExit>
+  <LetterLabelLabyrinthExit>Cư dân quay trở lại</LetterLabelLabyrinthExit>
   <!-- EN: The whirring obelisk has returned your abducted colonists. Shortly after doing so, it vanished into thin air.\n\nBe careful, the obelisk may have returned other creatures as well. -->
-  <LetterLabyrinthExit>Trụ tháp biến dạng đã đưa những thực dân bị bắt quay trở lại. Ngay sau đó, nó biến mất vào hư không.\n\nHãy cẩn thận, Trụ tháp cũng có thể đã đưa về những sinh vật khác nữa.</LetterLabyrinthExit>
+  <LetterLabyrinthExit>Trụ tháp biến dạng đã đưa những cư dân bị bắt quay trở lại. Ngay sau đó, nó biến mất vào hư không.\n\nHãy cẩn thận, Trụ tháp cũng có thể đã đưa về những sinh vật khác nữa.</LetterLabyrinthExit>
 
   <!-- EN: Jammed shut. Must be forced open. -->
   <GrayDoorJammed>Bị kẹt cứng. Cần phải cạy mở.</GrayDoorJammed>
@@ -752,7 +752,7 @@
   <!-- EN: Fallen monolith -->
   <MonolithAutoActivatingLabel>Tượng đài tự kích hoạt</MonolithAutoActivatingLabel>
   <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
-  <MonolithAutoActivatingText>Một làn sóng kinh hoàng bao trùm những thực dân của bạn. Tượng đài đã bắt đầu khuấy động. Từng phút, nó bẻ cong và tự sắp xếp mình, biến đổi thành một thứ gì đó mới. \n\nTrong vòng vài ngày, quá trình sẽ hoàn tất. Hãy sẵn sàng cho bất cứ điều gì xảy ra tiếp theo.</MonolithAutoActivatingText>
+  <MonolithAutoActivatingText>Một làn sóng kinh hoàng bao trùm những cư dân của bạn. Tượng đài đã bắt đầu khuấy động. Từng phút, nó bẻ cong và tự sắp xếp mình, biến đổi thành một thứ gì đó mới. \n\nTrong vòng vài ngày, quá trình sẽ hoàn tất. Hãy sẵn sàng cho bất cứ điều gì xảy ra tiếp theo.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>Tượng đài Hư Vô</MonolithAutoActivatedLabel>
   <!-- EN: The monolith's transformation is almost complete... -->
@@ -765,7 +765,7 @@
 
   <!-- Void Awakening -->
   <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
-  <VoidAwakeningConfirmationText>Thức tỉnh Tượng đài Hư Vô sẽ bao trùm khu định cư của bạn trong bóng tối vài ngày và thu hút các thực thể mạnh mẽ tới đây. Hãy chắc chắn rằng bạn đã được chuẩn bị kỹ lưỡng: \n    \n\n - Dự trữ thực phẩm, vật liệu xây dựng và vũ khí. \n\n - Đảm bảo rằng khu định cư của bạn được thắp sáng đầy đủ, và có nguồn điện dồi dào. Tránh dựa vào máy phát điện mặt trời. \n\n - Chắc chắn rằng khu định cư của bạn được phòng thủ tốt, và các thực dân luôn sẵn sàng chiến đấu. \n\nKhi đã thức tỉnh Tượng đài Hư Vô, sẽ không có đường quay lại.\n\nBạn chắc chắn vẫn muốn tiếp tục chứ?</VoidAwakeningConfirmationText>
+  <VoidAwakeningConfirmationText>Thức tỉnh Tượng đài Hư Vô sẽ bao trùm khu định cư của bạn trong bóng tối vài ngày và thu hút các thực thể mạnh mẽ tới đây. Hãy chắc chắn rằng bạn đã được chuẩn bị kỹ lưỡng: \n    \n\n - Dự trữ thực phẩm, vật liệu xây dựng và vũ khí. \n\n - Đảm bảo rằng khu định cư của bạn được thắp sáng đầy đủ, và có nguồn điện dồi dào. Tránh dựa vào máy phát điện mặt trời. \n\n - Chắc chắn rằng khu định cư của bạn được phòng thủ tốt, và các cư dân luôn sẵn sàng chiến đấu. \n\nKhi đã thức tỉnh Tượng đài Hư Vô, sẽ không có đường quay lại.\n\nBạn chắc chắn vẫn muốn tiếp tục chứ?</VoidAwakeningConfirmationText>
   <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
   <VoidNodeLetter>Một quả cầu năng lượng tâm linh đang uốn éo nổi lên trước mặt {PAWN_nameDef}. Bề mặt của nó căng phồng và xoay vặn, bẻ cong không gian xung quanh.\n\n{PAWN_nameDef} cảm nhận được nó bên trong tâm khảm mình, sâu tận cốt tủy. Nó đánh bại cả lý trí, kéo {PAWN_objective} trôi lững lờ vào trong hư không. {PAWN_pronoun} đang đứng trên bờ của một đại dương đen vô hạn, và nó vẫy gọi {PAWN_objective}.\n\n{PAWN_nameDef} tự kéo {PAWN_objective} trở về thực tại.\n\nCác thiết bị công nghệ viễn cổ gần đó đang nâng đỡ quả cầu thông qua những sợi liên kết mỏng manh. {PAWN_nameDef} có thể làm gián đoạn chúng, đóng lại cánh cổng giữa các thế giới và chấm dứt hiện tượng kinh hoàng đang bao phủ quê hương bạn.\n\nHoặc, {PAWN_pronoun} có thể bước vào quả cầu và hòa làm một với hư vô. Không ai biết đâu là điểm đến, hay quyền lực hắc ám nào sẽ được ban tặng.</VoidNodeLetter>
   <!-- EN: Disrupt the link -->
@@ -816,7 +816,7 @@
   <!-- EN: Toggle bioferrite unloading -->
   <BioferriteHarvesterToggleUnloading>Bật/tắt dỡ bioferrite</BioferriteHarvesterToggleUnloading>
   <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
-  <BioferriteHarvesterToggleUnloadingDesc>Khi được kích hoạt, thực dân sẽ tự động dỡ hàng khỏi Bộ thu gom bioferrite vào lúc đầy.</BioferriteHarvesterToggleUnloadingDesc>
+  <BioferriteHarvesterToggleUnloadingDesc>Khi được kích hoạt, cư dân sẽ tự động dỡ hàng khỏi Bộ thu gom bioferrite vào lúc đầy.</BioferriteHarvesterToggleUnloadingDesc>
   
   <!-- Proximity detector -->
   <!-- EN: Invisible creature detected. -->
