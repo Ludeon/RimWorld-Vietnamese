@@ -13,7 +13,7 @@
   <!-- EN: Cultist hate chanters -->
   <HateChantersLabel>Những kẻ tụng kinh thù hận</HateChantersLabel>
   <!-- EN: Cultist hate chanters have arrived. They intend to perform a hate chant ritual to force psychic rage into your colonists and drive them mad. The chant will grow louder and louder until the cultists are stopped. -->
-  <HateChantersText>Những kẻ tụng kinh thù hận đã đến. Chúng muốn thực hiện nghi thức để kích động cơn thịnh nộ điên loạn nơi thực dân. Tiếng tụng sẽ ngày càng lớn cho đến khi nghi thức bị ngăn chặn.</HateChantersText>
+  <HateChantersText>Những kẻ tụng kinh thù hận đã đến. Chúng muốn thực hiện nghi thức để kích động cơn thịnh nộ điên loạn nơi cư dân. Tiếng tụng sẽ ngày càng lớn cho đến khi nghi thức bị ngăn chặn.</HateChantersText>
   <!-- EN: Cultists attacking -->
   <HateChantersAttackingLabel>Những kẻ tụng kinh tấn công!</HateChantersAttackingLabel>
   <!-- EN: The cultists have ended their hate chant and have begun to come out of their ritual trance.\n\nPrepare to defend. -->
@@ -24,13 +24,13 @@
   <PsychicRitualCompleteLabel>{0} hoàn thành</PsychicRitualCompleteLabel>
 
   <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual, sending out a psychic pulse that will attract entities. -->
-  <VoidProvocationCompletedText>{INVOKER_nameDef} đã hoàn tất nghi thức {RITUAL_definite}, phát ra xung thần giao thu hút thực thể.</VoidProvocationCompletedText>
+  <VoidProvocationCompletedText>{INVOKER_nameDef} đã hoàn tất nghi thức {RITUAL_definite}, phát ra một xung tâm linh thu hút thực thể.</VoidProvocationCompletedText>
   <!-- EN: Prepare for what comes next. -->
   <VoidProvocationSucceeded>Hãy chuẩn bị trước những gì sắp đến.</VoidProvocationSucceeded>
   <!-- EN: Unfortunately, your call has been left unanswered. -->
   <VoidProvocationFailed>Thật không may, lời thỉnh cầu của bạn đã không được hồi đáp.</VoidProvocationFailed>
   <!-- EN: In the process, {INVOKER_nameDef} glimpsed something horrifying beyond human understanding. The psychic darkness shocked {INVOKER_objective} into a short-term coma. -->
-  <VoidProvocationDarkPsychicShock>Trong quá trình, {INVOKER_nameDef} đã thoáng nhìn thấy điều kinh hoàng vượt sức tưởng tượng của con người. Cơn sốc tinh thần hắc ám làm {INVOKER_objective} rơi vào trạng thái hôn mê ngắn hạn.</VoidProvocationDarkPsychicShock>
+  <VoidProvocationDarkPsychicShock>Trong quá trình đó, {INVOKER_nameDef} đã thoáng nhìn thấy điều kinh hoàng vượt quá hiểu biết của con người. Bóng tối tâm linh làm {INVOKER_objective} sốc đến mức rơi vào hôn mê ngắn hạn.</VoidProvocationDarkPsychicShock>
   <!-- EN: {INVOKER_nameDef} has completed {RITUAL_definite} ritual, absorbing skills and memories of {TARGET_nameDef}. -->
   <PhilophagyCompleteText>{INVOKER_nameDef} đã hoàn tất nghi thức {RITUAL_definite}, hấp thụ kỹ năng và ký ức từ {TARGET_nameDef}.</PhilophagyCompleteText>
   <!-- EN: {0_nameDef} gained {1} XP in {2_label} -->
@@ -206,7 +206,7 @@
   <!-- EN: Darkness lifting -->
   <DarknessLiftingEarlyLetterLabel>Bóng tối tan dần</DarknessLiftingEarlyLetterLabel>
   <!-- EN: The last of the nightmarish pillars has collapsed. The unnatural darkness has begun to dissipate. Colonists breathe a sigh of relief in the clear air. -->
-  <DarknessLiftingEarlyLetterText>Cột trụ ác mộng cuối cùng đã sụp đổ. Bóng tối phi tự nhiên bắt đầu tan biến. Thực dân thở phào nhẹ nhõm trong bầu không khí quang đãng.</DarknessLiftingEarlyLetterText>
+  <DarknessLiftingEarlyLetterText>Cột trụ ác mộng cuối cùng đã sụp đổ. Bóng tối phi tự nhiên bắt đầu tan biến. Cư dân thở phào nhẹ nhõm trong bầu không khí quang đãng.</DarknessLiftingEarlyLetterText>
   <!-- EN: {0_nameDef} attacked -->
   <PawnAttackedInDarknessLabel>{0_nameDef} bị tấn công!</PawnAttackedInDarknessLabel>
   <!-- EN: Something in the darkness has attacked {0_nameDef}!\n\nThese attacks will continue until {0_pronoun} is safely in the light. -->
@@ -218,7 +218,7 @@
   <!-- EN: Darkness soon -->
   <DarknessWarningLetterLabel>Bóng tối cận kề</DarknessWarningLetterLabel>
   <!-- EN: The darkness is almost here. Only those in direct light from lamps, torches, or flares will be safe.\n\nTo keep colonists in the light, you can restrict their movement in the SCHEDULE tab by assigning allowed areas. -->
-  <DarknessWarningLetterText>Bóng tối sắp sửa bao phủ. Chỉ những ai trong phạm vi ánh sáng trực tiếp từ đèn, đuốc, hoặc pháo sáng mới được an toàn.\n\nĐể đảm bảo an toàn cho thực dân, hãy giới hạn khu vực di chuyển của họ trong thẻ KẾ HOẠCH.</DarknessWarningLetterText>
+  <DarknessWarningLetterText>Bóng tối sắp sửa bao phủ. Chỉ những ai trong phạm vi ánh sáng trực tiếp từ đèn, đuốc, hoặc pháo sáng mới được an toàn.\n\nĐể đảm bảo an toàn cho cư dân, hãy giới hạn khu vực di chuyển của họ trong thẻ KẾ HOẠCH.</DarknessWarningLetterText>
   <!-- EN: Darkness wavering -->
   <DarknessWaveringLetterLabel>Bóng tối dao động</DarknessWaveringLetterLabel>
   <!-- EN: With the destruction of the noctolith, a faint crack appears in the darkness, before being filled with more of the sooty black.\n\nDestroy the remaining noctoliths to end the unnatural darkness. -->

@@ -128,7 +128,7 @@
   <!-- EN: {PAWN_labelShort}'s belief in {IDEO_name} prevents participation -->
   <PsychicRitualLeaveReason_IdeoUnwilling>Tôn giáo {IDEO_name} của {PAWN_labelShort} không cho phép tham gia.</PsychicRitualLeaveReason_IdeoUnwilling> 
   <!-- EN: {PAWN_labelShort} is not psychically sensitive -->
-  <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} không có độ nhạy linh lực.</PsychicRitualLeaveReason_NoPsychicSensitivity>
+  <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} không có độ nhạy tâm linh.</PsychicRitualLeaveReason_NoPsychicSensitivity>
   <!-- EN: {PAWN_labelShort} is a temporary faction member -->
   <PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort} là thành viên phe tạm thời.</PsychicRitualLeaveReason_TemporaryFactionMember>
   <!-- EN: {PAWN_labelShort} has other duties to attend to -->
@@ -150,7 +150,7 @@
   <!-- EN: leading psychic ritual -->
   <PsychicRitualToil_InvokeHorax_JobReport_Invoker>đang chủ trì nghi thức tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
   <!-- EN: channeling power to psychic ritual -->
-  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>đang truyền năng lượng vào nghi lễ</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>đang truyền năng lượng vào nghi thức</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
   <!-- EN: psychic ritual target -->
   <PsychicRitualToil_InvokeHorax_JobReport_Target>mục tiêu nghi thức tâm linh</PsychicRitualToil_InvokeHorax_JobReport_Target>
   <!-- EN: {0} doesn't have enough {1} -->
@@ -173,11 +173,11 @@
   <!-- EN: the area around the target site must be clear of obstructions -->
   <PsychicRitualDef_InvocationCircle_AreaMustBeClear>Khu vực xung quanh vị trí mục tiêu phải thông thoáng.</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
   <!-- EN: {PAWN_labelShort}'s psychic sensitivity -->
-  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>Độ nhạy linh lực của {PAWN_labelShort}</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>Độ nhạy tâm linh của {PAWN_labelShort}</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
   <!-- EN: How in-tune {PAWN_labelShort} is with psychic phenomena. -->
   <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>{PAWN_labelShort} hòa hợp với các hiện tượng tâm linh đến mức nào.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
   <!-- EN: These objects help focus the psychic power of the ritual. -->
-  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>Vật thể này giúp tập trung sức mạnh linh lực của nghi thức.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>Vật thể này giúp tập trung năng lượng tâm linh của nghi thức.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
   <!-- EN: Ideoligion offset -->
   <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>Ảnh hưởng của tôn giáo</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
   <!-- EN: How affected the psychic ritual is by ideoligious beliefs. -->

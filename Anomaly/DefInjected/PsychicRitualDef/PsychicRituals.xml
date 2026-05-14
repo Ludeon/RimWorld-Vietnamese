@@ -4,7 +4,7 @@
   <!-- EN: blood rain -->
   <BloodRain.label>Mưa máu</BloodRain.label>
   <!-- EN: Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect. -->
-  <BloodRain.description>Thực hiện nghi thức làm mưa bằng loại chất lỏng tâm linh giống máu rơi từ trên trời. Chất lỏng này dần khiến con người và động vật tiếp xúc với nó trở nên điên loạn. Đặc điểm cá nhân và độ nhạy cảm tâm linh ảnh hưởng đến mức độ phát tác.</BloodRain.description>
+  <BloodRain.description>Thực hiện nghi thức làm mưa bằng loại chất lỏng tâm linh giống máu rơi từ trên trời. Chất lỏng này dần khiến con người và động vật tiếp xúc với nó trở nên điên loạn. Đặc điểm cá nhân và độ nhạy tâm linh ảnh hưởng đến mức độ phát tác.</BloodRain.description>
   <!-- EN: At the current ritual quality, the blood rain will last for {0}. -->
   <BloodRain.outcomeDescription>Với chất lượng nghi thức hiện tại, mưa máu sẽ kéo dài {0}.</BloodRain.outcomeDescription>
   
@@ -32,37 +32,37 @@
   <!-- EN: neurosis pulse -->
   <NeurosisPulse.label>Xung cuồng loạn</NeurosisPulse.label>
   <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region work faster but become more irritable. Those affected will feel less need for recreation but will be unhappier and more likely to have a mental break. This will replace the effect of other active pulses. -->
-  <NeurosisPulse.description>Phát ra xung kích tâm linh mạnh mẽ khiến mọi cá nhân nhạy cảm tâm linh trong khu vực làm việc nhanh hơn nhưng trở nên dễ cáu giận hơn. Những người bị ảnh hưởng sẽ ít cần giải trí nhưng sẽ không vui vẻ và dễ bị khủng hoảng tinh thần hơn. Xung kích này sẽ thay thế hiệu quả của những xung kích đang hoạt động khác.</NeurosisPulse.description>
+  <NeurosisPulse.description>Phát ra xung kích tâm linh mạnh mẽ khiến mọi cá nhân nhạy tâm linh trong khu vực làm việc nhanh hơn nhưng trở nên dễ cáu giận hơn. Những người bị ảnh hưởng sẽ ít cần giải trí nhưng sẽ không vui vẻ và dễ bị khủng hoảng tinh thần hơn. Xung kích này sẽ thay thế hiệu quả của những xung kích đang hoạt động khác.</NeurosisPulse.description>
   <!-- EN: At the current ritual quality, the effect will last for {0}. -->
   <NeurosisPulse.outcomeDescription>Với chất lượng nghi thức hiện tại, hiệu ứng sẽ kéo dài trong {0}.</NeurosisPulse.outcomeDescription>
   
   <!-- EN: philophagy -->
   <Philophagy.label>Phệ tri</Philophagy.label>
   <!-- EN: Psychically draw experiences from the victim's mind and transfer them to the invoker, targeting the victim's highest skill. The target will suffer brain damage, causing them to fall into a coma for several days. -->
-  <Philophagy.description>Rút kinh nghiệm từ tâm trí của nạn nhân về phía người chủ tế bằng ngoại cảm, nhắm vào kỹ năng cao nhất của nạn nhân. Nạn nhân sẽ bị tổn thương não, dẫn tới hôn mê sâu trong vài ngày.</Philophagy.description>
+  <Philophagy.description>Rút kinh nghiệm từ tâm trí của nạn nhân về phía người chủ tế bằng tâm linh, nhắm vào kỹ năng cao nhất của nạn nhân. Nạn nhân sẽ bị tổn thương não, dẫn tới hôn mê sâu trong vài ngày.</Philophagy.description>
   <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma. -->
   <Philophagy.outcomeDescription>Với chất lượng nghi thức hiện tại, người chủ tế cướp lấy {0} điểm kinh nghiệm trong kỹ năng tốt nhất của mục tiêu. \n\nMục tiêu sẽ bị tổn thương não và rơi vào hôn mê.</Philophagy.outcomeDescription>
   
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>Xung khoái cảm</PleasurePulse.label>
   <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses. -->
-  <PleasurePulse.description>Phát ra xung kích tâm linh mạnh mẽ làm cho mọi cá nhân nhạy cảm tâm linh trong khu vực trở nên hạnh phúc hơn nhưng đồng thời, giảm nhu cầu làm việc. Xung kích này sẽ thay thế những xung kích đang hoạt động.</PleasurePulse.description>
+  <PleasurePulse.description>Phát ra xung kích tâm linh mạnh mẽ làm cho mọi cá nhân nhạy tâm linh trong khu vực trở nên hạnh phúc hơn nhưng đồng thời, giảm nhu cầu làm việc. Xung kích này sẽ thay thế những xung kích đang hoạt động.</PleasurePulse.description>
   <!-- EN: At the current ritual quality, the effect will last for {0}. -->
   <PleasurePulse.outcomeDescription>Với chất lượng nghi thức hiện tại, hiệu ứng sẽ kéo dài {0}.</PleasurePulse.outcomeDescription>
   
   <!-- EN: psychophagy -->
   <Psychophagy.label>Phệ tâm</Psychophagy.label>
   <!-- EN: Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days. -->
-  <Psychophagy.description>Tiêu thụ độ nhạy cảm tâm linh của mục tiêu. Người chủ tế gia tăng độ nhạy cảm tâm linh trong một thời gian. Hiệu ứng không cộng dồn. Mục tiêu bị tổn thương não, rơi vào hôn mê sâu trong vài ngày.</Psychophagy.description>
+  <Psychophagy.description>Tiêu thụ độ nhạy tâm linh của mục tiêu. Người chủ tế gia tăng độ nhạy tâm linh trong một thời gian. Hiệu ứng không cộng dồn. Mục tiêu bị tổn thương não, rơi vào hôn mê sâu trong vài ngày.</Psychophagy.description>
   <!-- EN: At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma. -->
-  <Psychophagy.outcomeDescription>Với chất lượng nghi thức hiện tại, người chủ tế sẽ tăng độ nhạy cảm tâm linh trong {0}. \n\nMục tiêu sẽ bị tổn thương não và rơi vào hôn mê.</Psychophagy.outcomeDescription>
+  <Psychophagy.outcomeDescription>Với chất lượng nghi thức hiện tại, người chủ tế sẽ tăng độ nhạy tâm linh trong {0}. \n\nMục tiêu sẽ bị tổn thương não và rơi vào hôn mê.</Psychophagy.outcomeDescription>
   
   <!-- EN: skip abduction -->
   <SkipAbduction.label>Bỏ qua bắt cóc</SkipAbduction.label>
   <!-- EN: Teleport a random hostile person to the ritual location and place them in a coma. -->
   <SkipAbduction.description>Dịch chuyển tức thời một kẻ thù đến vị trí diễn ra nghi thức và khiến họ rơi vào hôn mê.</SkipAbduction.description>
   <!-- EN: They intend to use a psychic ritual to abduct a colonist via teleportation. -->
-  <SkipAbduction.letterAIArrivedText>Họ đang dự định dùng nghi thức tâm linh để bắt cóc một thuộc hạ thông qua dịch chuyển tức thời.</SkipAbduction.letterAIArrivedText>
+  <SkipAbduction.letterAIArrivedText>Họ đang dự định dùng nghi thức tâm linh để bắt cóc một cư dân thông qua dịch chuyển tức thời.</SkipAbduction.letterAIArrivedText>
   <!-- EN: Skip abduction -->
   <SkipAbduction.letterAICompleteLabel>Bỏ qua bắt cóc!</SkipAbduction.letterAICompleteLabel>
   <!-- EN: {PAWN_nameDef} has been abducted by the cultists! -->
@@ -89,7 +89,7 @@
   <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
   <SummonFleshbeasts.description>Tạo ra một xung động tâm linh để thu hút những thú xác thịt đào lên và xuất hiện gần kẻ thù của bạn. Chúng sẽ tấn công bất kỳ ai mà chúng tìm thấy, bao gồm cả kẻ thù và đồng minh của bạn. Thú xác thịt có thể bị bắt giữ và nghiên cứu, hoặc bị giết để lấy thịt xoắn.</SummonFleshbeasts.description>
   <!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
-  <SummonFleshbeasts.letterAIArrivedText>Họ dự định sử dụng một nghi lễ tâm linh để gọi những thú xác thịt ghê rợn tấn công bạn.</SummonFleshbeasts.letterAIArrivedText>
+  <SummonFleshbeasts.letterAIArrivedText>Họ dự định sử dụng một nghi thức tâm linh để gọi những thú xác thịt ghê rợn tấn công bạn.</SummonFleshbeasts.letterAIArrivedText>
   <!-- EN: Fleshbeasts emerging -->
   <SummonFleshbeasts.letterAICompleteLabel>Thú xác thịt đang nổi lên</SummonFleshbeasts.letterAICompleteLabel>
   <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->

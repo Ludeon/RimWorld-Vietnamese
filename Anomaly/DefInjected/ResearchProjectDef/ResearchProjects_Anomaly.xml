@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: advanced psychic rituals -->
-  <AdvancedPsychicRituals.label>Nghi lễ tâm linh cao cấp</AdvancedPsychicRituals.label>
+  <AdvancedPsychicRituals.label>Nghi thức tâm linh cao cấp</AdvancedPsychicRituals.label>
   <!-- EN: Perform advanced psychic rituals. -->
-  <AdvancedPsychicRituals.description>Thực hiện các nghi lễ tâm linh cao cấp.</AdvancedPsychicRituals.description>
+  <AdvancedPsychicRituals.description>Thực hiện các nghi thức tâm linh cao cấp.</AdvancedPsychicRituals.description>
   <!-- EN:
     <li>subject->advanced psychic rituals</li>
     <li>subject_story->was brought into a cult circle</li>
@@ -14,12 +14,12 @@
     <li>subject_gerund->performing advanced psychic rituals</li>
   -->
   <AdvancedPsychicRituals.generalRules.rulesStrings>
-    <li>subject->nghi lễ tâm linh cao cấp</li>
+    <li>subject->nghi thức tâm linh cao cấp</li>
     <li>subject_story->bị bắt vào một giáo phái tâm linh</li>
     <li>subject_story->gặp một giáo chủ lưu vong, kẻ đã thích thú khoe khoang các bí kíp</li>
     <li>subject_story->nâng cao kiến thức về tế lễ hiến sinh</li>
     <li>subject_story->được bổ nhiệm là giáo sư lịch sử tâm linh tại Đại học Ix</li>
-    <li>subject_gerund->thực hiện các nghi lễ tâm linh cao cấp</li>
+    <li>subject_gerund->thực hiện các nghi thức tâm linh cao cấp</li>
   </AdvancedPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: atmospheric heater -->
@@ -46,9 +46,9 @@
   </AtmosphericHeater.generalRules.rulesStrings>
   
   <!-- EN: void provocation -->
-  <BasicPsychicRituals.label>Nghi lễ tâm linh sơ cấp</BasicPsychicRituals.label>
+  <BasicPsychicRituals.label>Nghi thức tâm linh sơ cấp</BasicPsychicRituals.label>
   <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
-  <BasicPsychicRituals.description>Xây dựng diểm thực hiện nghi lễ và tiến hành các nghi lễ tâm linh. Sử dụng nghi lễ khiêu khích Hư vô để triệu hồi các thực thể mới.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.description>Xây dựng diểm thực hiện nghi lễ và tiến hành các nghi thức tâm linh. Sử dụng nghi lễ khiêu khích Hư vô để triệu hồi các thực thể mới.</BasicPsychicRituals.description>
   <!-- EN:
     <li>subject->psychic rituals</li>
     <li>subject_story->studied the rituals of Horax cultists</li>
@@ -61,13 +61,13 @@
     <li>subject_gerund->provoking void entities</li>
   -->
   <BasicPsychicRituals.generalRules.rulesStrings>
-    <li>subject->nghi lễ tâm linh</li>
+    <li>subject->nghi thức tâm linh</li>
     <li>subject_story->theo dõi các nghi lễ của tà đạo Horax</li>
     <li>subject_story->tái hiện các bàn thờ nguyên thủy</li>
     <li>subject_story->xây dựng nền tảng cơ bản cho giao tiếp tâm linh</li>
     <li>subject_story->chứng kiến một nghi lễ khiêu khích Hư vô thất bại trên một thế giới tử thần</li>
     <li>subject_story->giao tiếp với một mảnh kiến trúc công nghệ cổ xưa trên đỉnh trụ cột sa mạc</li>
-    <li>subject_gerund->tiến hành nghi lễ tâm linh</li>
+    <li>subject_gerund->tiến hành nghi thức tâm linh</li>
     <li>subject_gerund->xây dựng điểm nghi lễ</li>
     <li>subject_gerund->khiêu khích các thực thể hư vô</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
@@ -230,7 +230,7 @@
   <!-- EN: brainwipe -->
   <Brainwipe.label>Tẩy não</Brainwipe.label>
   <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
-  <Brainwipe.description>Thực hiện nghi lễ tâm linh xóa đi phần lớn ký ức của một người. Những sự kiện gây chấn động tâm lý sẽ bị lãng quên. Tù nhân cứng đầu sẽ dễ dàng bị chiêu mộ hơn. Cho phép chiêu mộ các tù nhân trung thành tuyệt đối.</Brainwipe.description>
+  <Brainwipe.description>Thực hiện nghi thức tâm linh xóa đi phần lớn ký ức của một người. Những sự kiện gây chấn động tâm lý sẽ bị lãng quên. Tù nhân cứng đầu sẽ dễ dàng bị chiêu mộ hơn. Cho phép chiêu mộ các tù nhân trung thành tuyệt đối.</Brainwipe.description>
   <!-- EN:
     <li>subject->mind erasure</li>
     <li>subject_story->studied stories of episodice amnesia</li>
@@ -253,7 +253,7 @@
   <!-- EN: chronophagy -->
   <Chronophagy.label>Thực niên thuật</Chronophagy.label>
   <!-- EN: Perform a psychic ritual that causes a target to age rapidly. The ritual invoker will become younger in the process. The target will suffer brain damage as a result, which may be lethal for elderly targets. -->
-  <Chronophagy.description>Thực hiện một nghi lễ tâm linh khiến mục tiêu già đi nhanh chóng. Người chủ tế sẽ trở nên trẻ hơn trong quá trình. Mục tiêu sẽ bị tổn thương não, có khả năng tử vong với người cao tuổi.</Chronophagy.description>
+  <Chronophagy.description>Thực hiện một nghi thức tâm linh khiến mục tiêu già đi nhanh chóng. Người chủ tế sẽ trở nên trẻ hơn trong quá trình. Mục tiêu sẽ bị tổn thương não, có khả năng tử vong với người cao tuổi.</Chronophagy.description>
   <!-- EN:
     <li>subject->chronophagy</li>
     <li>subject_story->studied age-related degeneration</li>
@@ -395,7 +395,7 @@
   <!-- EN: frenzy inducer -->
   <FrenzyInducer.label>Thiết bị kích thích cuồng loạn</FrenzyInducer.label>
   <!-- EN: Build shard-powered structures that generate a frenetic psychic field to make anyone nearby move and work faster. However, the unstable emotional energy creates a tendency towards violence, irritating anyone nearby. -->
-  <FrenzyInducer.description>Xây dựng các cấu trúc sử dụng shard để tạo ra một trường tâm lý cuồng loạn, giúp mọi người xung quanh di chuyển và làm việc nhanh hơn. Tuy nhiên, năng lượng cảm xúc không ổn định tạo ra xu hướng bạo lực, gây khó chịu cho những người xung quanh.</FrenzyInducer.description>
+  <FrenzyInducer.description>Xây dựng các cấu trúc sử dụng shard để tạo ra một trường tâm linh cuồng loạn, giúp mọi người xung quanh di chuyển và làm việc nhanh hơn. Tuy nhiên, năng lượng cảm xúc không ổn định tạo ra xu hướng bạo lực, gây khó chịu cho những người xung quanh.</FrenzyInducer.description>
   <!-- EN:
     <li>subject->archotech frenzy inducers</li>
     <li>subject_story->worked as a motivational therapist</li>
@@ -592,7 +592,7 @@
   <!-- EN: neurosis pulse -->
   <NeurosisPulse.label>Pulsa thần kinh</NeurosisPulse.label>
   <!-- EN: Perform a psychic ritual that makes everyone in the region work faster but become more irritable. -->
-  <NeurosisPulse.description>Thực hiện một nghi lễ tâm linh khiến mọi người trong khu vực làm việc nhanh hơn nhưng trở nên dễ cáu gắt hơn.</NeurosisPulse.description>
+  <NeurosisPulse.description>Thực hiện một nghi thức tâm linh khiến mọi người trong khu vực làm việc nhanh hơn nhưng trở nên dễ cáu gắt hơn.</NeurosisPulse.description>
   <!-- EN:
     <li>subject->neurosis pulse</li>
     <li>subject->work imperative</li>
@@ -617,7 +617,7 @@
   <!-- EN: philophagy -->
   <Philophagy.label>Philophagy</Philophagy.label>
   <!-- EN: Perform a psychic ritual that drains experience from a victim and gives it to the invoker. The process will dull the target's mind, weakening their skills and causing brain damage. -->
-  <Philophagy.description>Thực hiện một nghi lễ tâm linh hút kinh nghiệm từ nạn nhân và chuyển cho người thực hiện. Quá trình này sẽ làm tê liệt trí óc của mục tiêu, làm yếu kỹ năng của họ và gây tổn thương não bộ.</Philophagy.description>
+  <Philophagy.description>Thực hiện một nghi thức tâm linh hút kinh nghiệm từ nạn nhân và chuyển cho người thực hiện. Quá trình này sẽ làm tê liệt trí óc của mục tiêu, làm yếu kỹ năng của họ và gây tổn thương não bộ.</Philophagy.description>
   <!-- EN:
     <li>subject->philophagy</li>
     <li>subject->skill transfer</li>
@@ -642,7 +642,7 @@
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>Pulsa hạnh phúc</PleasurePulse.label>
   <!-- EN: Perform a psychic ritual that makes everyone in the region happier but reduces their desire to work. -->
-  <PleasurePulse.description>Thực hiện một nghi lễ tâm linh khiến mọi người trong khu vực cảm thấy hạnh phúc hơn nhưng giảm mong muốn làm việc của họ.</PleasurePulse.description>
+  <PleasurePulse.description>Thực hiện một nghi thức tâm linh khiến mọi người trong khu vực cảm thấy hạnh phúc hơn nhưng giảm mong muốn làm việc của họ.</PleasurePulse.description>
   <!-- EN:
     <li>subject->pleasure invocation</li>
     <li>subject_story->read an ancient Earth story that boasted of a miracle food called soma</li>
@@ -659,7 +659,7 @@
     <li>subject_story->làm việc với các triết gia xã hội để tạo ra một nghi lễ hữu ích</li>
     <li>subject_story->gia nhập một giáo phái archotech hiếm hoi chuyên về giải trí và niềm vui</li>
     <li>subject_gerund->kích thích cảm giác hạnh phúc bằng tâm linh</li>
-    <li>subject_gerund->thực hiện một nghi lễ tâm linh để tạo ra cảm giác hạnh phúc</li>
+    <li>subject_gerund->thực hiện một nghi thức tâm linh để tạo ra cảm giác hạnh phúc</li>
   </PleasurePulse.generalRules.rulesStrings>
   
   <!-- EN: proximity detector -->
@@ -690,7 +690,7 @@
   <!-- EN: psychophagy -->
   <Psychophagy.label>Psychophagy</Psychophagy.label>
   <!-- EN: Perform a psychic ritual which deadens a target's psychic sensitivity and temporarily boosts the ritual invoker's psychic sensitivity. The target will suffer brain damage as a side-effect. -->
-  <Psychophagy.description>Thực hiện một nghi lễ tâm linh làm giảm nhạy cảm tâm linh của mục tiêu và tạm thời tăng cường nhạy cảm tâm linh của người thực hiện. Mục tiêu sẽ bị tổn thương não bộ như một tác dụng phụ.</Psychophagy.description>
+  <Psychophagy.description>Thực hiện một nghi thức tâm linh làm giảm độ nhạy tâm linh của mục tiêu và tạm thời tăng độ nhạy tâm linh của người thực hiện. Mục tiêu sẽ bị tổn thương não bộ như một tác dụng phụ.</Psychophagy.description>
   <!-- EN:
     <li>subject->psychophagy</li>
     <li>subject_story->studied managed desensitization to psychic effects</li>
@@ -758,7 +758,7 @@
   <!-- EN: skip abduction -->
   <SkipAbductionPlayer.label>Đánh cắp ngẫu nhiên</SkipAbductionPlayer.label>
   <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
-  <SkipAbductionPlayer.description>Thực hiện một nghi lễ tâm linh để bắt cóc một người thù địch ngẫu nhiên từ bất kỳ đâu trên thế giới, đưa họ vào trạng thái hôn mê ngắn hạn để bắt giữ.</SkipAbductionPlayer.description>
+  <SkipAbductionPlayer.description>Thực hiện một nghi thức tâm linh để bắt cóc một người thù địch ngẫu nhiên từ bất kỳ đâu trên thế giới, đưa họ vào trạng thái hôn mê ngắn hạn để bắt giữ.</SkipAbductionPlayer.description>
   <!-- EN:
     <li>subject->psychic abduction</li>
     <li>subject->skip abduction</li>
@@ -776,7 +776,7 @@
     <li>subject_story->bị tống tiền bởi những kẻ thu gom đất</li>
     <li>subject_story->quan sát một nghi lễ chuyển giao thất bại do một nhà lãnh đạo giáo phái thực hiện</li>
     <li>subject_story->nghiên cứu chuyển giao không gian được điều phối bởi archotech</li>
-    <li>subject_gerund->bắt cóc kẻ thù qua nghi lễ tâm linh</li>
+    <li>subject_gerund->bắt cóc kẻ thù qua nghi thức tâm linh</li>
     <li>subject_gerund->thực hiện một nghi lễ đánh cắp ngẫu nhiên</li>
   </SkipAbductionPlayer.generalRules.rulesStrings>
   
@@ -808,7 +808,7 @@
   <!-- EN: draw animals -->
   <SummonAnimals.label>Gọi động vật</SummonAnimals.label>
   <!-- EN: Perform a psychic ritual which will draw a herd of animals. -->
-  <SummonAnimals.description>Thực hiện một nghi lễ tâm linh để gọi một đàn động vật.</SummonAnimals.description>
+  <SummonAnimals.description>Thực hiện một nghi thức tâm linh để gọi một đàn động vật.</SummonAnimals.description>
   <!-- EN:
     <li>subject->stampede invocation</li>
     <li>subject_story->worked as a shepherd amidst the mountains of a primitive world</li>
@@ -829,7 +829,7 @@
   <!-- EN: summon fleshbeasts -->
   <SummonFleshbeastsPlayer.label>gọi Quái thịt</SummonFleshbeastsPlayer.label>
   <!-- EN: Perform a psychic ritual which provokes fleshbeasts to emerge from the ground near enemies, attacking anyone nearby. -->
-  <SummonFleshbeastsPlayer.description>Thực hiện một nghi lễ tâm linh để kích thích thú thịt xuất hiện từ mặt đất gần kẻ thù, tấn công bất kỳ ai xung quanh.</SummonFleshbeastsPlayer.description>
+  <SummonFleshbeastsPlayer.description>Thực hiện một nghi thức tâm linh để kích thích thú thịt xuất hiện từ mặt đất gần kẻ thù, tấn công bất kỳ ai xung quanh.</SummonFleshbeastsPlayer.description>
   <!-- EN:
     <li>subject->fleshbeast summoning</li>
     <li>subject_story->read ancient tomes about the origins of life</li>
@@ -854,7 +854,7 @@
   <!-- EN: provoke pit gate -->
   <SummonPitGate.label>Gọi Cổng vực thẳm</SummonPitGate.label>
   <!-- EN: Perform a psychic ritual which causes underground fleshbeasts to open up a massive hole in the ground. The hole leads down to a fleshbeast-infested cavern which can be explored for resources. -->
-  <SummonPitGate.description>Thực hiện một nghi lễ tâm linh khiến các thú thịt dưới lòng đất mở ra một hố khổng lồ trên mặt đất. Hố này dẫn xuống một động đầy thú thịt mà có thể được khám phá để thu thập tài nguyên.</SummonPitGate.description>
+  <SummonPitGate.description>Thực hiện một nghi thức tâm linh khiến các thú thịt dưới lòng đất mở ra một hố khổng lồ trên mặt đất. Hố này dẫn xuống một động đầy thú thịt mà có thể được khám phá để thu thập tài nguyên.</SummonPitGate.description>
   <!-- EN:
     <li>subject->pit gate invocation</li>
     <li>subject_story->researched fleshmeld infestations</li>
@@ -877,7 +877,7 @@
   <!-- EN: draw shamblers -->
   <SummonShamblers.label>gọi xác sống</SummonShamblers.label>
   <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
-  <SummonShamblers.description>Thực hiện một nghi lễ tâm linh để gọi một đàn xác sống được hoạt động. Mặc dù thù địch, những xác chết này sẽ không tấn công trực tiếp vào thuộc địa của bạn. Chúng có thể được bắt giữ để nghiên cứu.</SummonShamblers.description>
+  <SummonShamblers.description>Thực hiện một nghi thức tâm linh để gọi một đàn xác sống được hoạt động. Mặc dù thù địch, những xác chết này sẽ không tấn công trực tiếp vào thuộc địa của bạn. Chúng có thể được bắt giữ để nghiên cứu.</SummonShamblers.description>
   <!-- EN:
     <li>subject->shambler summoning rituals</li>
     <li>subject_story->studied the necrocults of the deadworlds, from the safety of a university library</li>
@@ -900,7 +900,7 @@
   <!-- EN: void sculptures -->
   <VoidSculptures.label>Tạc điêu khắc hư không</VoidSculptures.label>
   <!-- EN: Craft special void sculptures from bioferrite to enhance the quality of psychic rituals. -->
-  <VoidSculptures.description>Tạo các tác phẩm điêu khắc hư không đặc biệt từ bioferrite để nâng cao chất lượng của các nghi lễ tâm linh.</VoidSculptures.description>
+  <VoidSculptures.description>Tạo các tác phẩm điêu khắc hư không đặc biệt từ bioferrite để nâng cao chất lượng của các nghi thức tâm linh.</VoidSculptures.description>
   <!-- EN:
     <li>subject->void sculptures</li>
     <li>subject->bioferrite sculpture</li>

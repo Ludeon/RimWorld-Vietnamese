@@ -15,7 +15,7 @@
   <!-- EN: Maintain only -->
   <EntityStudyMode_MaintainOnly>Chỉ bảo dưỡng</EntityStudyMode_MaintainOnly>
   <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
-  <EntityStudyMode_MaintainOnlyDesc>Cai ngục sẽ không thực hiện hành động đặc biệt lên thực thể này, nhưng các tương tác khác vẫn khả dụng.</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_MaintainOnlyDesc>Quản ngục sẽ không thực hiện hành động đặc biệt lên thực thể này, nhưng các tương tác khác vẫn khả dụng.</EntityStudyMode_MaintainOnlyDesc>
   <!-- EN: Study -->
   <EntityStudyMode_Study>Nghiên cứu</EntityStudyMode_Study>
   <!-- EN: Researchers will study the entity. -->
@@ -23,11 +23,11 @@
   <!-- EN: Release -->
   <EntityStudyMode_Release>Phóng thích</EntityStudyMode_Release>
   <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
-  <EntityStudyMode_ReleaseDesc>Cai ngục sẽ thả thực thể khỏi bệ giam giữ. Thực thể có thể có thái độ thù địch khi được thả.</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_ReleaseDesc>Quản ngục sẽ thả thực thể khỏi bệ giam giữ. Thực thể có thể có thái độ thù địch khi được thả.</EntityStudyMode_ReleaseDesc>
   <!-- EN: Execute -->
   <EntityStudyMode_Execute>Xử tử</EntityStudyMode_Execute>
   <!-- EN: A warden will execute the restrained entity. -->
-  <EntityStudyMode_ExecuteDesc>Cai ngục sẽ xử tử thực thể bị giam giữ.</EntityStudyMode_ExecuteDesc>
+  <EntityStudyMode_ExecuteDesc>Quản ngục sẽ xử tử thực thể bị giam giữ.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
   <EntityStudyMode_Extract>Trích xuất bioferrite</EntityStudyMode_Extract>
   <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->

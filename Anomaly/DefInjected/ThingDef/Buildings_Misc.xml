@@ -42,7 +42,7 @@
   <!-- EN: floor etching -->
   <FloorEtching.label>Hình khắc nền</FloorEtching.label>
   <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
-  <FloorEtching.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một người định cư và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtching.description>
+  <FloorEtching.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một cư dân và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtching.description>
   <!-- EN: Choose someone to decipher this floor etching. -->
   <FloorEtching.comps.CompFloorEtching.activateDescString>Chọn người giải mã hình khắc nền này.</FloorEtching.comps.CompFloorEtching.activateDescString>
   <!-- EN: Decipher... -->
@@ -54,7 +54,7 @@
   <!-- EN: Choose who should do this -->
   <FloorEtching.comps.CompFloorEtching.guiLabelString>Chọn người đi làm việc này</FloorEtching.comps.CompFloorEtching.guiLabelString>
   <!-- EN: Send a colonist to decipher this. -->
-  <FloorEtching.comps.CompFloorEtching.inspectString>Gửi người định cư giải mã.</FloorEtching.comps.CompFloorEtching.inspectString>
+  <FloorEtching.comps.CompFloorEtching.inspectString>Gửi một cư dân đi giải mã.</FloorEtching.comps.CompFloorEtching.inspectString>
   <!-- EN: Decipher floor etching -->
   <FloorEtching.comps.CompFloorEtching.jobString>Giải mã hình khắc nền</FloorEtching.comps.CompFloorEtching.jobString>
   <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
@@ -63,7 +63,7 @@
   <!-- EN: floor etching -->
   <FloorEtchingRambling.label>Hình khắc nền (ngẫu nhiên)</FloorEtchingRambling.label>
   <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
-  <FloorEtchingRambling.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một người định cư và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtchingRambling.description>
+  <FloorEtchingRambling.description>Một bản phác thảo thô được vẽ trên mặt đất.\n\nNếu có đủ thời gian, bạn có thể giải mã nó. Chọn một cư dân và nhấp chuột phải vào hình khắc để kiểm tra.</FloorEtchingRambling.description>
   <!-- EN: Choose someone to decipher this floor etching. -->
   <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Chọn người giải mã hình khắc nền này.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
   <!-- EN: Decipher... -->
@@ -75,7 +75,7 @@
   <!-- EN: Choose who should do this -->
   <FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Chọn người đi làm việc này</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
   <!-- EN: Send a colonist to decipher this. -->
-  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Gửi người định cư giải mã.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Gửi một cư dân đi giải mã.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
   <!-- EN: Decipher floor etching -->
   <FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Giải mã hình khắc nền</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
   <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
