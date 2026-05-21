@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: orbital debris -->
-  <OrbitalDebris.label>TODO</OrbitalDebris.label>
+  <OrbitalDebris.label>mảnh vụn quỹ đạo</OrbitalDebris.label>
   <!-- EN:
     <li>tale_noun->a micrometeorite storm sweeping over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->micrometeorite fragments peppering the area around [PAWN_nameDef]'s [Community]</li>
@@ -28,6 +28,30 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s scurry about, seeking cover.</li>
     <li>desc_sentence->Space is charged with an eerie power.</li>
   -->
-  <OrbitalDebris.rulePack.rulesStrings>TODO</OrbitalDebris.rulePack.rulesStrings>
+  <OrbitalDebris.rulePack.rulesStrings>
+    <li>tale_noun->một cơn bão thiên thạch vi mô quét qua [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->các mảnh thiên thạch micromet rải rác khu vực xung quanh [PAWN_nameDef]'s [Community]</li>
+    <li>image->một loạt thiên thạch vi mô lấp lánh với [Color] tia lửa [airborne_circumstance]</li>
+    <li>image->sự rải rác của các thiên thạch vi mô phát sáng rực rỡ [airborne_circumstance]</li>
+    <li>image->một cơn mưa [Color] tia lửa khi các thiên thạch vi mô bốc cháy [airborne_circumstance]</li>
+    <li>airborne_circumstance->chạy đua trên bầu trời</li>
+    <li>airborne_circumstance->rơi xuống trong luồng ánh sáng</li>
+    <li>airborne_circumstance->tan thành bụi lung linh khi chúng rơi xuống</li>
+    <li>image->một cụm vết va chạm âm ỉ, [ground_circumstance]</li>
+    <li>image->một mảnh [Color] cháy sém, [ground_circumstance]</li>
+    <li>image->một [Color] rải rác những viên đá nhỏ, [ground_circumstance]</li>
+    <li>ground_circumstance->xung quanh là một đám bụi mịn</li>
+    <li>ground_circumstance->phát sáng yếu ớt do nhiệt dư</li>
+    <li>ground_circumstance->nhúng trong một tấm chăn đất nứt</li>
+    <li>ground_circumstance->rải rác khắp cảnh quan</li>
+    <li>ground_circumstance->rải rác giữa một khu vực có nhiều miệng hố nhỏ</li>
+    <li>desc_sentence->[PAWN_nameDef] ngắm nhìn vòi hoa sen trong sự kinh ngạc.</li>
+    <li>desc_sentence->[PAWN_nameDef] ngước lên ngạc nhiên.</li>
+    <li>desc_sentence->[PAWN_nameDef] giật mình trước đòn tấn công không ngừng nghỉ.</li>
+    <li>desc_sentence->Các nhân vật [Quantity_adjphrase] xuất hiện từ [TerrainFeature] gần đó để trú ẩn.</li>
+    <li>desc_sentence->[Quantity_adjphrase] các nhân vật tranh giành đồ đạc của họ.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal] chạy khắp nơi, tìm chỗ ẩn nấp.</li>
+    <li>desc_sentence->Không gian được nạp một sức mạnh kỳ lạ.</li>
+  </OrbitalDebris.rulePack.rulesStrings>
   
 </LanguageData>

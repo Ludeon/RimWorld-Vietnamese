@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] an ancient complex nearby that is said to contain treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] một khu phức hợp cổ xưa gần đó được cho là chứa kho báu.\n\nBạn có thể đột nhập để thu thập chiến lợi phẩm bên trong.\n\nHãy cảnh báo - những loại công trình này có thể chứa đựng nhiều mối đe dọa khác nhau. Ngoài ra, hoạt động của bạn tại khu phức hợp có thể thu hút sự chú ý không mong muốn.</li>
+  </OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
     <li>questName->[complex] [finalWord]</li>
@@ -30,7 +32,31 @@
     <li>finalWord->caper</li>
     <li>finalWord->booty</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
+    <li>questName->[complex] [finalWord]</li>
+    <li>complexAdj->bí mật</li>
+    <li>complexAdj->bí ẩn</li>
+    <li>complexAdj->cổ đại</li>
+    <li>complexAdj->cũ</li>
+    <li>complexAdj->ẩn giấu</li>
+    <li>complexAdj->chết chóc</li>
+    <li>complex->tổ hợp</li>
+    <li>complex->cài đặt</li>
+    <li>complex->kết cấu</li>
+    <li>finalWord->kho báu</li>
+    <li>finalWord->sự giàu có</li>
+    <li>finalWord->kho báu</li>
+    <li>finalWord->bộ nhớ đệm</li>
+    <li>finalWord->cướp bóc</li>
+    <li>finalWord->cướp</li>
+    <li>finalWord->cướp bóc</li>
+    <li>finalWord->đột kích</li>
+    <li>finalWord->trộm cắp</li>
+    <li>finalWord->vụ cướp</li>
+    <li>finalWord->bạch hoa</li>
+    <li>finalWord->chiến lợi phẩm</li>
+  </OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->complexes</li>
     <li>subject->complex</li>
@@ -40,6 +66,14 @@
     <li>questMapText->ancient treasures</li>
     <li>questMapText->missing scavengers</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+    <li>subject->phức hợp</li>
+    <li>subject->tổ hợp</li>
+    <li>subject->tín hiệu phức tạp</li>
+    <li>questMapFeature->khu phức hợp nhỏ</li>
+    <li>questMapFeature->cơ sở</li>
+    <li>questMapText->kho báu cổ xưa</li>
+    <li>questMapText->người nhặt rác mất tích</li>
+  </OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
   
 </LanguageData>

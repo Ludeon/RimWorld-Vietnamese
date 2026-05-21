@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: vacuum exposure revealed -->
-  <VacuumExposureRevealed.label>TODO</VacuumExposureRevealed.label>
+  <VacuumExposureRevealed.label>tiếp xúc chân không tiết lộ</VacuumExposureRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] being exposed to hard vacuum</li>
     <li>tale_noun->[PAWN_nameDef] suffering from vacuum exposure</li>
@@ -26,6 +26,28 @@
     <li>desc_sentence->A [Color] asteroid looms large behind the image.</li>
     <li>desc_sentence->Behind the image is a large [Color] planet.</li>
   -->
-  <VacuumExposureRevealed.rulePack.rulesStrings>TODO</VacuumExposureRevealed.rulePack.rulesStrings>
+  <VacuumExposureRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] tiếp xúc với chân không cứng</li>
+    <li>tale_noun->[PAWN_nameDef] bị tiếp xúc với chân không</li>
+    <li>image->[PAWN_nameFull] trôi khỏi con tàu [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trôi dạt trong không gian [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trôi giữa các vì sao [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lao ra khỏi cửa khóa khí [circumstance_group]</li>
+    <li>circumstance_phrase->trong khi [PAWN_possessive] mặt từ từ chuyển sang màu xanh</li>
+    <li>circumstance_phrase->trong khi [PAWN_possessive] nước bọt bắt đầu sôi lên</li>
+    <li>circumstance_phrase->trong khi [PAWN_possessive] cơ thể bắt đầu sưng lên</li>
+    <li>circumstance_phrase->trong khi [PAWN_possessive] da bắt đầu đóng băng</li>
+    <li>circumstance_phrase->trong khi im lặng hét lên</li>
+    <li>circumstance_phrase->và bắt đầu mất ý thức</li>
+    <li>circumstance_phrase->và thở hổn hển</li>
+    <li>desc_sentence->Đôi mắt của [PAWN_nameDef] trở nên đờ đẫn.</li>
+    <li>desc_sentence->Một bóng tối vô tận bao quanh đối tượng.</li>
+    <li>desc_sentence->Khung cảnh dường như diễn ra trong không gian.</li>
+    <li>desc_sentence->Bên dưới chiếc mũ bảo hiểm vỡ vụn là đôi mắt vô hồn.</li>
+    <li>desc_sentence->[Quantity_adjphrase] các ngôi sao xoắn bao quanh hình ảnh.</li>
+    <li>desc_sentence->[PAWN_nameDef] mặc một bộ đồ bị rách.</li>
+    <li>desc_sentence->Một tiểu hành tinh [Color] hiện ra lờ mờ phía sau hình ảnh.</li>
+    <li>desc_sentence->Đằng sau hình ảnh là một hành tinh lớn [Color].</li>
+  </VacuumExposureRevealed.rulePack.rulesStrings>
   
 </LanguageData>

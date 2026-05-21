@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of a collection of valuable items worth [itemStashContentsValue]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của bộ sưu tập các vật phẩm có giá trị trị giá [itemStashContentsValue]. Bộ sưu tập bao gồm:\n\n[itemStashContents]\n\nCó vẻ như [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[stash] of [treasure]</li>
     <li>stash->Stash</li>
@@ -17,7 +19,18 @@
     <li>treasure->Goodies</li>
     <li>treasure->Supplies</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+    <li>questName->[stash] của [treasure]</li>
+    <li>stash->cất giữ</li>
+    <li>stash->bộ nhớ đệm</li>
+    <li>stash->Bộ sưu tập</li>
+    <li>stash->Lán</li>
+    <li>treasure->kho báu</li>
+    <li>treasure->Vật có giá trị</li>
+    <li>treasure->Vận may</li>
+    <li>treasure->quà tặng</li>
+    <li>treasure->Quân nhu</li>
+  </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->loot stashes</li>
     <li>subject->secret treasures</li>
@@ -28,10 +41,19 @@
     <li>questMapText->loot here</li>
     <li>questMapText->hidden valuables</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+    <li>subject->cướp bóc</li>
+    <li>subject->kho báu bí mật</li>
+    <li>subject->Vật có giá trị</li>
+    <li>questMapFeature->vẽ rương kho báu</li>
+    <li>questMapFeature->lán cung cấp</li>
+    <li>questMapText->kho vật phẩm bí mật</li>
+    <li>questMapText->cướp bóc ở đây</li>
+    <li>questMapText->vật có giá trị ẩn</li>
+  </OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy kho vật phẩm đã được người khác yêu cầu. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

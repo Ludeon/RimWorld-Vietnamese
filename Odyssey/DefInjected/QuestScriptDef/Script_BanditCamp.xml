@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of a camp controlled by [siteFaction_name]. The camp contains hostile [siteFaction_pawnsPlural], but you don't know what defenses they have.</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của trại được kiểm soát bởi [siteFaction_name]. Trại có [siteFaction_pawnsPlural] thù địch, nhưng bạn không biết họ có biện pháp phòng thủ nào.</li>
+  </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>
@@ -22,7 +24,23 @@
     <li>bandit->Robber</li>
     <li>bandit->Brigand</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] và [camp]</li>
+    <li>camp->Trại</li>
+    <li>camp->tiền đồn</li>
+    <li>camp->hang ổ</li>
+    <li>camp->cắm trại</li>
+    <li>bandit->Tên cướp</li>
+    <li>bandit->Phi cơ</li>
+    <li>bandit->ngoài vòng pháp luật</li>
+    <li>bandit->tuyệt vọng</li>
+    <li>bandit->kẻ chạy trốn</li>
+    <li>bandit->kẻ cướp</li>
+    <li>bandit->Tên cướp</li>
+    <li>bandit->Du côn</li>
+  </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->bandit camps</li>
     <li>subject->outlaws</li>
@@ -35,14 +53,25 @@
     <li>questMapText->trespassers get skinned</li>
     <li>questMapText->traders beware - outlaws</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+    <li>subject->trại cướp</li>
+    <li>subject->những kẻ sống ngoài vòng pháp luật</li>
+    <li>subject->nhìn thấy kẻ đột kích</li>
+    <li>questMapFeature->trại nhỏ</li>
+    <li>questMapFeature->tiền đồn cướp</li>
+    <li>questMapFeature->trại đột kích</li>
+    <li>questMapText->dân gian nguy hiểm</li>
+    <li>questMapText->cướp trại</li>
+    <li>questMapText->kẻ xâm phạm bị lột da</li>
+    <li>questMapText->thương nhân hãy cẩn thận - ngoài vòng pháp luật</li>
+  </OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>Trại cướp đã thu dọn đồ đạc và đi tiếp. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>Nhiệm vụ thất bại: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>Sau khi bị phát hiện, trại cướp đã giải tán. Nhiệm vụ [resolvedQuestName] đã kết thúc.</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
   
 </LanguageData>

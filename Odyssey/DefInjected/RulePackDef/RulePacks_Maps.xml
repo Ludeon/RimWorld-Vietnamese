@@ -216,7 +216,221 @@
     <li>noteLocation->below a large [mapFeature]</li>
     <li>noteLocation->along the edge of the map</li>
   -->
-  <Description_Map.rulePack.rulesStrings>TODO</Description_Map.rulePack.rulesStrings>
+  <Description_Map.rulePack.rulesStrings>
+    <li>desc->bản đồ [physicalDescription] hiển thị vị trí quan tâm. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->[physicalDescription], đây là [mapType] [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->[mapType] này là [physicalDescription] và [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->một [mapType] chứa [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->một bộ sưu tập bản đồ với [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->bản đồ từ [place] với [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>physicalDescription->in trên một loại polymer mỏng và chịu nhiệt</li>
+    <li>physicalDescription->in laser trên hyperweave</li>
+    <li>physicalDescription->được vẽ trong thứ dường như là máu khô</li>
+    <li>physicalDescription->được giữ lại với nhau bằng dây</li>
+    <li>physicalDescription->bị ràng buộc trong da mòn</li>
+    <li>physicalDescription->vẽ trên da mỏng</li>
+    <li>physicalDescription->ràng buộc trong vinyl</li>
+    <li>physicalDescription->khắc vào những tờ giấy da mỏng</li>
+    <li>physicalDescription->khắc trên than củi</li>
+    <li>physicalDescription->khắc trên vải sũng nước</li>
+    <li>physicalDescription->khắc trên da động vật hôi hám</li>
+    <li>physicalDescription->viết nguệch ngoạc bằng mực đen</li>
+    <li>physicalDescription->khâu vào da nai sừng tấm</li>
+    <li>physicalDescription->viết trên da khô [Animal]</li>
+    <li>physicalDescription->được làm từ giấy da đen</li>
+    <li>physicalDescription->được gấp khéo léo thành mười sáu phần</li>
+    <li>physicalDescription->được in bằng máy in công nghiệp</li>
+    <li>physicalDescription->in trên hyperweave</li>
+    <li>physicalDescription->được chế tạo tinh xảo trên sợi siêu dệt tốt</li>
+    <li>physicalDescription->được trang trí bằng đề can ba chiều</li>
+    <li>physicalDescription->được viết bằng nét chữ nhện</li>
+    <li>physicalDescription->viết mực trên giấy ố vàng</li>
+    <li>physicalDescription->được in bằng màu sắc sống động</li>
+    <li>physicalDescription->rõ ràng là bị hư hại do hỏa hoạn</li>
+    <li>physicalDescription->được vẽ trên một tấm vải chắc chắn</li>
+    <li>physicalDescription->gấp nhiều lần và bôi đầy bụi bẩn và than củi</li>
+    <li>physicalDescription->được vẽ trên tờ giấy da vụn với nét chữ mờ nhạt</li>
+    <li>physicalDescription->khắc trên giấy da ố vàng, mép rách nát</li>
+    <li>mapContents->hàng trăm bức vẽ nhỏ của [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->bản phác thảo nhanh về [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->danh sách đáng chú ý [mapSubject]. Danh sách dài nhất có tiêu đề '[AdjectiveBadass]!' Nó được khoanh tròn bằng mực đỏ</li>
+    <li>mapContents->các cạnh bị cháy và đường nhòe. Bản đồ trung tâm hiển thị [mapSubjectAdj] [mapSubject] nhưng các đường bị che khuất bởi vết bẩn [stain]</li>
+    <li>mapContents->sơ đồ mới trên mỗi trang. Một số sơ đồ đi sâu vào chi tiết về [mapSubject], không thể phủ nhận sơ đồ lớn nhất là [mapSubjectAdj]</li>
+    <li>mapContents->sự kết hợp giữa [mapSubject] kỳ ảo và lịch sử [mapSubject]</li>
+    <li>mapContents->hàng chục sơ đồ cổ xưa của [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->các bức vẽ theo chủ đề. Trung tâm lớn [depiction] giống [Animal], được vẽ theo kiểu [artstyle_adj]</li>
+    <li>mapContents->hàng nghìn ký hiệu lạ, nhiều trong số đó giống với [mapSubject]. Biểu tượng phổ biến nhất trông giống như [emotionalState] [Animal] được vẽ theo kiểu [artstyle_adj]</li>
+    <li>mapContents->dấu hiệu tuổi tác rõ ràng. Một sơ đồ, được vẽ bằng một bàn tay khác, hiển thị [mapSubject] cổ xưa của [place]</li>
+    <li>mapContents->sơ đồ chi tiết của [place] [mapSubject] và mối quan hệ của chúng với [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->bốn bản phác thảo lớn của [place] [mapSubject]</li>
+    <li>mapContents->nhiều sơ đồ nhỏ. Một sơ đồ có nhãn '[place] [RomanNumeral]' và chứa bản khảo sát chi tiết về [place] [mapSubject]</li>
+    <li>mapContents->nhiều hình vẽ nhỏ của [mapSubjectAdj] [mapSubject] và [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->bản vẽ chi tiết của hành tinh. Một số địa điểm lân cận được dán nhãn '[Enemy]s' bằng mực đỏ</li>
+    <li>mapContents->tọa độ của một số [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->tọa độ được đánh dấu bằng điểm đánh dấu màu vàng</li>
+    <li>mapContents->bản vẽ của các vùng lãnh thổ lân cận. Biểu tượng thô đánh dấu nơi trú ẩn an toàn và nơi lưu trữ ẩn</li>
+    <li>mapContents->vị trí của [Quantity_adjphrase] [Animal] khu bảo tồn. Chữ 'X màu đỏ cũng biểu thị một số ngôi mộ</li>
+    <li>mapContents->không có gì quan trọng. Hoặc có vẻ như vậy</li>
+    <li>mapContents->đường lưới mờ nhạt. Mỗi góc phần tư chứa [mapSubjectAdj] [mapSubject]</li>
+    <li>mapContents->[Quantity_adjphrase] [mapSubject] được hiển thị theo kiểu [artstyle_adj]. Bên dưới mỗi cái là một [AdjectiveAny] [Animal]</li>
+    <li>maybe_specialFact-></li>
+    <li>maybe_specialFact->[specialFact]</li>
+    <li>specialFact->Các dấu hiệu là vô hình trong ánh sáng bình thường. Tuy nhiên, trong bóng tối hoàn toàn, các biểu tượng và vạch quang phổ ma quái xuất hiện, phát sáng màu bạc nhạt.</li>
+    <li>specialFact->Các dấu vết xuất hiện và biến mất tùy theo góc ánh sáng.</li>
+    <li>specialFact->Các trang giấy phát sáng mờ nhạt với những biểu tượng màu đỏ thẫm, có thể dịch chuyển và xoắn lại khi được đặt trên ngọn lửa.</li>
+    <li>specialFact->Các chú thích được viết bằng phương ngữ khu vực, cho thấy tác giả đến từ [place].</li>
+    <li>specialFact->Mỗi nếp gấp chứa một chữ cái và một số con số nhưng ý nghĩa của chúng không rõ ràng.</li>
+    <li>specialFact->Có điều gì đó về các dấu hiệu thật đáng lo ngại.</li>
+    <li>specialFact->Nó chứa các chú thích từ một ngôn ngữ bị lãng quên từ lâu.</li>
+    <li>specialFact->Những dấu vết thô thiển và không đồng đều dần dần thay đổi theo thời gian, bộc lộ ý nghĩa ẩn giấu.</li>
+    <li>specialFact->Nó tuyên bố tiết lộ chính huyết mạch của vùng đất, hướng dẫn người đọc đến một nơi có sức mạnh tự nhiên to lớn.</li>
+    <li>specialFact->Ẩn giữa nhiều nếp gấp là một mảnh giấy có hình vẽ [emotionalState] [Animal].</li>
+    <li>specialFact->Chạm vào bản đồ quá lâu sẽ để lại vết đỏ mờ trên đầu ngón tay người đọc.</li>
+    <li>specialFact->Các hạt cát có thể được tìm thấy trong các nếp gấp của bản đồ.</li>
+    <li>specialFact->Các chú thích trên bản đồ gợi ý rằng nó nắm giữ chìa khóa cho một số bí mật lớn hơn.</li>
+    <li>specialFact->Phiên bản thô của một số [mapSubject] từ [place] được phác thảo ở lề.</li>
+    <li>specialFact->Mực bị phai và các vết mờ mờ che khuất một số chi tiết, khiến việc giải mã các chi tiết trở thành một thách thức.</li>
+    <li>specialFact->Đường khâu tinh tế cho thấy nó được tái sử dụng từ một số bản đồ lớn hơn.</li>
+    <li>specialFact->Bản đồ này có thể vừa là một lời cảnh báo vừa là một hướng dẫn.</li>
+    <li>specialFact->Các điểm đánh dấu còn cẩu thả ở một số chỗ, cho thấy bản đồ được tạo ra một cách vội vàng.</li>
+    <li>specialFact->Chi tiết của nó cho thấy nó được ủy quyền bởi một người nào đó có phương tiện, và tính bí mật của nó ngụ ý rằng nó chứa đựng thứ gì đó đáng để che giấu.</li>
+    <li>specialFact->[Quantity_adjphrase] [Character]s được rút ra [noteLocation]. Họ trông [emotionalState].</li>
+    <li>specialFact->Thư pháp trang nhã có gắn nhãn một vài [mapSubject], nhưng một bức vẽ riêng biệt chỉ mang một dấu hiệu khó hiểu - biểu tượng của [mapSymbol].</li>
+    <li>specialFact->Bản đồ chứa tiểu sử ngắn gọn của tác giả - [PersonJob] đáng chú ý từ [place].</li>
+    <li>specialFact->Bản đồ được tạo bởi một [PersonBadass] khét tiếng.</li>
+    <li>specialFact->Bản đồ được tác giả bởi [emotionalState] [PersonBadass].</li>
+    <li>specialFact->Tính đơn giản của bản đồ cho thấy nó được tạo ra một cách vội vàng bởi một [PersonBadass] cần đi trước chính quyền một bước.</li>
+    <li>specialFact->Các khu vực chính được khoanh tròn, với các chú thích như 'tránh [Enemy]s' và 'mạnh như [Animal].'</li>
+    <li>specialFact->Trên bản đồ, [mapSymbol] được khoanh tròn và gắn nhãn '[smell] và [stain]'.</li>
+    <li>specialFact->Viết bên lề là một bài thơ ngàn năm tuổi có tựa đề 'Diabolus'.</li>
+    <li>specialFact->Chú giải của bản đồ xác định [Color] [mapSymbol]s là [Enemy] hang ổ và [Color] [mapSymbol]s là [Animal] bãi săn.</li>
+    <li>specialFact->Tỷ lệ của bản đồ rõ ràng là sai.</li>
+    <li>specialFact->Bản đồ có dấu sáp đã mờ [noteLocation]. Nó giống như [emotionalState] [Animal].</li>
+    <li>maybe_questInfo-></li>
+    <li>maybe_questInfo(p=3)->[questInfo]</li>
+    <li>questInfo->Một khu vực trên bản đồ được khoanh tròn và dán nhãn: '[mapText]!'</li>
+    <li>questInfo->Ghi chú đính kèm có nhãn '[mapText]?'</li>
+    <li>questInfo->'[mapText]' được viết nguệch ngoạc bằng mực nhạt [noteLocation].</li>
+    <li>questInfo->Một ghi chú [noteLocation] ghi: '[mapText].'</li>
+    <li>questInfo->Một ghi chú được viết vội vàng [noteLocation] có nội dung: '[mapText]!'</li>
+    <li>questInfo->Một câu đố khó hiểu đã được viết nguệch ngoạc [noteLocation]. Nó kết thúc bằng '...[mapText].'</li>
+    <li>questInfo->Bên cạnh [Color] [mapSymbol] là các từ '[mapText].'</li>
+    <li>questInfo->Trên bản đồ có dòng chữ '[mapText].'</li>
+    <li>questInfo->Một [mapSymbol] lớn được vẽ gần [mapFeature]. Nó được dán nhãn '[mapText].'</li>
+    <li>questInfo->Một bông hồng la bàn [Color] được khắc vào bản đồ. Kỳ lạ thay, phía bắc và phía nam bị dán nhãn sai. Ở giữa la bàn có dòng chữ: '[mapText].'</li>
+    <li>questInfo->Người chủ trước của tấm bản đồ rõ ràng đang tìm kiếm thứ gì đó. Một khu vực được khoanh tròn bên cạnh dòng chữ: '[mapText].'</li>
+    <li>questInfo->Đưa bản đồ ra ánh sáng, bạn có thể thấy dòng chữ '[mapText].'</li>
+    <li>questInfo->[noteLocation], a [Color] [mapSymbol] được gắn nhãn '[mapText]!'</li>
+    <li>questInfo->[noteLocation], [mapSymbol] được gắn nhãn '[mapText]?'</li>
+    <li>questInfo->[noteLocation], một số ghi chú đã bị nhòe. Điều duy nhất có thể đọc được là: 'đã xác nhận - [mapText].'</li>
+    <li>questInfo->[noteLocation] là bản vẽ thô của [emotionalState] [PersonBadass]. Bên dưới có dòng chữ: '[mapText].'</li>
+    <li>questInfo->Một [Animal] được vẽ bằng bút chì [noteLocation]. Bên dưới nó là dòng chữ: '[mapText].'</li>
+    <li>questInfo->Nhãn chú giải của bản đồ [Color] [mapSymbol]s là '[mapText].'</li>
+    <li>questInfo->Một dấu X dày màu đỏ bị xước ở một vị trí. Bên cạnh đó, '[mapText]' được viết bằng chữ viết nhỏ.</li>
+    <li>questInfo->Khi kiểm tra kỹ hơn, có vẻ như ai đó đã cố xóa dòng chữ '[mapText]' khỏi bản đồ.</li>
+    <li>questInfo->Gần biểu tượng đầu lâu [Color], ai đó đã viết bằng chữ in đậm: '[mapText].'</li>
+    <li>questInfo->Một biểu tượng bất thường được vẽ [noteLocation]. Bên dưới là dòng chữ '[mapText].'</li>
+    <li>questInfo->Một con dao găm [Color] được khắc trên bản đồ, chỉ về phía dòng chữ '[mapText].'</li>
+    <li>questInfo->[noteLocation] là một danh sách kiểm tra. Mỗi mục trong danh sách đã bị gạch bỏ. Chỉ còn lại một: '[mapText].'</li>
+    <li>maybe_condition-></li>
+    <li>maybe_condition->[conditionSmell]</li>
+    <li>maybe_condition->[conditionStains]</li>
+    <li>maybe_condition->[conditionTouch]</li>
+    <li>conditionSmell->Nó có mùi [smell].</li>
+    <li>conditionSmell->Nó có mùi thoang thoảng của [smell].</li>
+    <li>conditionSmell->Bản đồ có mùi [smell] thoang thoảng, gợi ý về giao dịch của chủ sở hữu trước đó.</li>
+    <li>smell->nước muối và rong biển</li>
+    <li>smell->hoa hồng</li>
+    <li>smell->lưu huỳnh</li>
+    <li>smell->nhiên liệu hóa học</li>
+    <li>smell->cỏ khô và phân bón</li>
+    <li>smell->thịt cháy</li>
+    <li>smell->thạch côn trùng</li>
+    <li>smell->nước hoa</li>
+    <li>smell->dầu và thuốc súng</li>
+    <li>smell->độc tố thối</li>
+    <li>smell->hạnh nhân</li>
+    <li>smell->thuốc tẩy</li>
+    <li>smell->[Animal] phân</li>
+    <li>conditionStains->Các vết xước và vết [stain] che khuất một số chi tiết, khiến khó đọc.</li>
+    <li>conditionStains->[stain] vết bẩn và vết cháy gợi ý khi sử dụng thường xuyên trong điều kiện khắc nghiệt.</li>
+    <li>conditionStains->Các sơ đồ bị che khuất bởi những gì có vẻ là [stain].</li>
+    <li>conditionStains->Bản đồ không đầy đủ và bị vấy bẩn bởi [stain].</li>
+    <li>conditionTouch->[stain] vết bẩn và các cạnh bị sờn mang lại cảm giác cũ kỹ, tiện dụng.</li>
+    <li>stain->máu</li>
+    <li>stain->dầu</li>
+    <li>stain->dầu mỡ</li>
+    <li>stain->mực đỏ</li>
+    <li>stain->nước muối</li>
+    <li>stain->sáp</li>
+    <li>stain->cà phê</li>
+    <li>stain->rỉ sét</li>
+    <li>stain->nhiên liệu hóa học</li>
+    <li>conditionTouch->Các trang này rất thô khi chạm vào.</li>
+    <li>conditionTouch->Bản đồ dễ vỡ khi chạm vào.</li>
+    <li>conditionTouch->Những vết cháy ở rìa cho thấy nó đã được trục vớt từ một nhiệm vụ thất bại.</li>
+    <li>conditionTouch->Bản đồ có vẻ mỏng manh nhưng chứa đựng nhiều năm kiến ​​thức khó kiếm được.</li>
+    <li>conditionTouch->Các cạnh bị trầy xước và mờ dần. Một góc đã được dán keo.</li>
+    <li>maybe_authorInfo-></li>
+    <li>maybe_authorInfo->\n\n[authorInfo]</li>
+    <li>authorInfo->Không rõ ai đã tạo ra bản đồ.</li>
+    <li>authorInfo->Bản đồ được tạo bởi [ANYPAWN_nameFull], [ANYPAWN_kind] đáng chú ý từ [ANYPAWN_factionName].</li>
+    <li>authorInfo->[noteLocation], bản đồ được ký bởi [ANYPAWN_nameIndef] the [PersonJob].</li>
+    <li>authorInfo->Kèm theo bản đồ là một tiểu sử nhỏ của tác giả, [ANYPAWN_nameIndef] the [ANYPAWN_kind].</li>
+    <li>authorInfo->Chủ sở hữu trước đây của bản đồ dường như là một người có tên [ANYPAWN_nameIndef].</li>
+    <li>authorInfo->Bản đồ này từng thuộc sở hữu của một [ANYPAWN_kind] ẩn danh. Các dấu hiệu cho thấy [ANYPAWN_pronoun] là thành viên của [ANYPAWN_factionName].</li>
+    <li>has->có</li>
+    <li>has->chứa</li>
+    <li>has->đặc trưng</li>
+    <li>emotionalState->vui mừng</li>
+    <li>emotionalState->trầm cảm</li>
+    <li>emotionalState->tức giận</li>
+    <li>emotionalState->gợi cảm</li>
+    <li>mapType(p=4)->bản đồ</li>
+    <li>mapType->biểu đồ</li>
+    <li>mapType->tập bản đồ</li>
+    <li>mapType->sự khảo sát</li>
+    <li>mapSymbol->chìa khóa</li>
+    <li>mapSymbol->'X'</li>
+    <li>mapSymbol->ngôi sao</li>
+    <li>mapSymbol->mặt trăng</li>
+    <li>mapSymbol->tháp</li>
+    <li>mapSymbol->hộp sọ</li>
+    <li>mapSymbol->[Animal]</li>
+    <li>mapText(p=10)->[questMapText]</li>
+    <li>mapText(p=2)->[subject]</li>
+    <li>mapText->cực kỳ nguy hiểm</li>
+    <li>mapText->hãy cẩn thận với [Enemy]</li>
+    <li>mapText->cơn đói đang ở phía trước</li>
+    <li>mapText->không để lại dấu vết</li>
+    <li>mapText->điên [Animal]</li>
+    <li>mapText->cuộc tấn công đột kích</li>
+    <li>mapText->đoàn lữ hành cuối cùng của chúng tôi</li>
+    <li>mapText->không có người sống sót</li>
+    <li>mapText->nó ở đây</li>
+    <li>mapText->đây là lời nói dối [ANYPAWN_nameIndef]</li>
+    <li>mapText->mộ của [ANYPAWN_nameIndef]</li>
+    <li>mapText->thuộc tính của [ANYPAWN_factionName]</li>
+    <li>mapFeature(p=8)->[questMapFeature]</li>
+    <li>mapFeature->dòng sông</li>
+    <li>mapFeature->hợp lưu của hai con sông</li>
+    <li>mapFeature->ngã tư</li>
+    <li>mapFeature->dãy núi</li>
+    <li>mapFeature->bờ biển</li>
+    <li>mapFeature->hồ</li>
+    <li>mapFeature->cửa vào ven biển</li>
+    <li>mapFeature->hòn đảo ven biển</li>
+    <li>noteLocation->trong góc</li>
+    <li>noteLocation->ở góc bản đồ</li>
+    <li>noteLocation->ở một góc</li>
+    <li>noteLocation->ở phía bên trái</li>
+    <li>noteLocation->ở mặt sau</li>
+    <li>noteLocation->ở phía dưới</li>
+    <li>noteLocation->gần [mapFeature]</li>
+    <li>noteLocation->bên cạnh [mapFeature]</li>
+    <li>noteLocation->dưới mức lớn [mapFeature]</li>
+    <li>noteLocation->dọc theo rìa bản đồ</li>
+  </Description_Map.rulePack.rulesStrings>
   
   <!-- EN:
     <li>place->[PlaceOutlander]</li>
@@ -400,7 +614,188 @@
     <li>CapSylE->Wit</li>
     <li>CapSylE->You</li>
   -->
-  <MapUtility.rulePack.rulesStrings>TODO</MapUtility.rulePack.rulesStrings>
+  <MapUtility.rulePack.rulesStrings>
+    <li>place->[PlaceOutlander]</li>
+    <li>place->[direction] [PlaceOutlander]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][SylE][place_end]</li>
+    <li>mapSubjectAdj(p=6)->[direction]</li>
+    <li>mapSubjectAdj->cổ đại</li>
+    <li>mapSubjectAdj->lịch sử</li>
+    <li>mapSubjectAdj->cũ</li>
+    <li>mapSubjectAdj->bị lãng quên</li>
+    <li>mapSubjectAdj->bí mật</li>
+    <li>mapSubjectAdj->riêng tư</li>
+    <li>mapSubjectAdj->ẩn giấu</li>
+    <li>mapSubjectAdj->huyền bí</li>
+    <li>mapSubjectAdj->không rõ</li>
+    <li>mapSubjectAdj->riêng</li>
+    <li>mapSubjectAdj->số lẻ</li>
+    <li>mapSubjectAdj->lạ lùng</li>
+    <li>mapSubjectAdj->tuyệt vời</li>
+    <li>mapSubjectAdj->đáng giá</li>
+    <li>mapSubjectAdj->quý giá</li>
+    <li>mapSubjectAdj->mê hoặc</li>
+    <li>mapSubjectAdj->quyến rũ</li>
+    <li>mapSubjectAdj->thái quá</li>
+    <li>mapSubjectAdj->hoang dã</li>
+    <li>mapSubjectAdj->Tuyệt</li>
+    <li>mapSubjectAdj->vĩ đại</li>
+    <li>mapSubjectAdj->ít hơn</li>
+    <li>mapSubjectAdj->bé nhỏ</li>
+    <li>mapSubjectAdj->xấu</li>
+    <li>mapSubjectAdj->tệ hại</li>
+    <li>mapSubjectAdj->thần bí</li>
+    <li>mapSubjectAdj->thánh thiện</li>
+    <li>mapSubjectAdj->địa phương</li>
+    <li>mapSubjectAdj->Khu vực</li>
+    <li>mapSubjectAdj->tự nhiên</li>
+    <li>mapSubjectAdj->gần đó</li>
+    <li>mapSubjectAdj->hành tinh</li>
+    <li>mapSubjectAdj->nguy hiểm</li>
+    <li>mapSubjectAdj->chết người</li>
+    <li>mapSubjectAdj->độc hại</li>
+    <li>mapSubjectAdj->lựa chọn</li>
+    <li>mapSubjectAdj->độc nhất</li>
+    <li>mapSubjectAdj->quan trọng</li>
+    <li>direction->phương bắc</li>
+    <li>direction->phương đông</li>
+    <li>direction->miền nam</li>
+    <li>direction->phương Tây</li>
+    <li>direction(p=0.2)->dưới lòng đất</li>
+    <li>direction(p=0.2)->bí mật</li>
+    <li>mapSubject->đường</li>
+    <li>mapSubject->những con đường mòn</li>
+    <li>mapSubject->đường dẫn</li>
+    <li>mapSubject->hang động</li>
+    <li>mapSubject->Đồi</li>
+    <li>mapSubject->núi</li>
+    <li>mapSubject->sông</li>
+    <li>mapSubject->rừng</li>
+    <li>mapSubject->đầm lầy</li>
+    <li>mapSubject->vùng đất cằn cỗi</li>
+    <li>mapSubject->cột mốc</li>
+    <li>mapSubject->lưu vực sông</li>
+    <li>mapSubject->hồ</li>
+    <li>mapSubject->thung lũng</li>
+    <li>mapSubject->địa điểm</li>
+    <li>mapSubject->trang web</li>
+    <li>mapSubject->truyền thuyết</li>
+    <li>mapSubject->bí mật</li>
+    <li>mapSubject->biên giới</li>
+    <li>mapSubject->biên giới</li>
+    <li>mapSubject->địa điểm</li>
+    <li>mapSubject->tài nguyên</li>
+    <li>mapSubject->hiện vật</li>
+    <li>mapSubject->di tích</li>
+    <li>mapSubject->thị trấn</li>
+    <li>mapSubject->khu định cư</li>
+    <li>mapSubject->thành trì</li>
+    <li>mapSubject->tàn tích</li>
+    <li>mapSubject->thị tộc</li>
+    <li>mapSubject->các dân tộc</li>
+    <li>mapSubject->lịch sử</li>
+    <li>mapSubject->lãnh thổ</li>
+    <li>mapSubject->vùng đất rộng lớn</li>
+    <li>CapSylE->Al</li>
+    <li>CapSylE->Tất cả</li>
+    <li>CapSylE->MỘT</li>
+    <li>CapSylE->Và</li>
+    <li>CapSylE->Ar</li>
+    <li>CapSylE->Là</li>
+    <li>CapSylE->BẰNG</li>
+    <li>CapSylE->Tại</li>
+    <li>CapSylE->cấm</li>
+    <li>CapSylE->Thùng</li>
+    <li>CapSylE->Bon</li>
+    <li>CapSylE->Nhưng</li>
+    <li>CapSylE->Ca</li>
+    <li>CapSylE->có</li>
+    <li>CapSylE->Đà</li>
+    <li>CapSylE->Del</li>
+    <li>CapSylE->din</li>
+    <li>CapSylE->LÀM</li>
+    <li>CapSylE->ea</li>
+    <li>CapSylE->Ed</li>
+    <li>CapSylE->En</li>
+    <li>CapSylE->Ent</li>
+    <li>CapSylE->ờ</li>
+    <li>CapSylE->Thời đại</li>
+    <li>CapSylE->Ere</li>
+    <li>CapSylE->Es</li>
+    <li>CapSylE->Đêm</li>
+    <li>CapSylE->Xa</li>
+    <li>CapSylE->Fen</li>
+    <li>CapSylE->Vây</li>
+    <li>CapSylE->Vì</li>
+    <li>CapSylE->Vui vẻ</li>
+    <li>CapSylE->Ga</li>
+    <li>CapSylE->Đi</li>
+    <li>CapSylE->Hà</li>
+    <li>CapSylE->Có</li>
+    <li>CapSylE->Mũ</li>
+    <li>CapSylE->Anh ta</li>
+    <li>CapSylE->gà mái</li>
+    <li>CapSylE->Cô ấy</li>
+    <li>CapSylE->CHÀO</li>
+    <li>CapSylE->CHÀO</li>
+    <li>CapSylE->Hin</li>
+    <li>CapSylE->Của anh ấy</li>
+    <li>CapSylE->TRONG</li>
+    <li>CapSylE->Là</li>
+    <li>CapSylE->Nó</li>
+    <li>CapSylE->thứ đó</li>
+    <li>CapSylE->Ja</li>
+    <li>CapSylE->Ka</li>
+    <li>CapSylE->Ko</li>
+    <li>CapSylE->La</li>
+    <li>CapSylE->Lân</li>
+    <li>CapSylE->Lê</li>
+    <li>CapSylE->Len</li>
+    <li>CapSylE->Lon</li>
+    <li>CapSylE->Mã</li>
+    <li>CapSylE->Tôi</li>
+    <li>CapSylE->Đàn ông</li>
+    <li>CapSylE->tối thiểu</li>
+    <li>CapSylE->Thứ hai</li>
+    <li>CapSylE->Na</li>
+    <li>CapSylE->Ne</li>
+    <li>CapSylE->Không</li>
+    <li>CapSylE->ôi</li>
+    <li>CapSylE->TRÊN</li>
+    <li>CapSylE->Hoặc</li>
+    <li>CapSylE->bạn</li>
+    <li>CapSylE->ôi</li>
+    <li>CapSylE->Của chúng tôi</li>
+    <li>CapSylE->Pa</li>
+    <li>CapSylE->qua</li>
+    <li>CapSylE->Ra</li>
+    <li>CapSylE->Nốt Rê</li>
+    <li>CapSylE->Ro</li>
+    <li>CapSylE->Se</li>
+    <li>CapSylE->Sho</li>
+    <li>CapSylE->St</li>
+    <li>CapSylE->tế</li>
+    <li>CapSylE->Ted</li>
+    <li>CapSylE->Ter</li>
+    <li>CapSylE->tha</li>
+    <li>CapSylE->các</li>
+    <li>CapSylE->Thị</li>
+    <li>CapSylE->Thị</li>
+    <li>CapSylE->Ti</li>
+    <li>CapSylE->ĐẾN</li>
+    <li>CapSylE->Un</li>
+    <li>CapSylE->Về</li>
+    <li>CapSylE->Phiên bản</li>
+    <li>CapSylE->wa</li>
+    <li>CapSylE->Đã từng là</li>
+    <li>CapSylE->trí tuệ</li>
+    <li>CapSylE->Bạn</li>
+  </MapUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>title(p=2)->[mapType] [mapNoun] of [subject]</li>
@@ -448,6 +843,51 @@
     <li>mapType->laminated</li>
     <li>mapType->holographic</li>
   -->
-  <Namer_Map.rulePack.rulesStrings>TODO</Namer_Map.rulePack.rulesStrings>
+  <Namer_Map.rulePack.rulesStrings>
+    <li>title(p=2)->[mapType] [mapNoun] trên [subject]</li>
+    <li>title(p=2)->[maybeThe] [mapType] [map]</li>
+    <li>title(p=2)->[maybeAdjective] [ANYPAWN_nameIndef] của [maybeAdjective] [map]</li>
+    <li>title->[mapType] [mapNoun]: [subject]</li>
+    <li>title->[mapNoun] trên [mapSubjectAdj] [mapSubject]</li>
+    <li>title->[maybeThe] [AdjectiveAny] [map]</li>
+    <li>title(p=0.5)->bản đồ cho [mapSubjectAdj] [mapSubject]</li>
+    <li>title(p=0.5)->[place] [mapNoun]</li>
+    <li>maybeAdjective-></li>
+    <li>maybeAdjective->[adjective]</li>
+    <li>adjective->[AdjectiveAny]</li>
+    <li>adjective->[Color]</li>
+    <li>adjective->[AdjectiveLarge]</li>
+    <li>maybeThe-></li>
+    <li>maybeThe->các</li>
+    <li>map->[mapNoun]</li>
+    <li>map(p=2)->[mapNoun] của [place]</li>
+    <li>map->[mapNoun] của [mapSubject]</li>
+    <li>map->[mapNoun] trên [mapSubjectAdj] [mapSubject]</li>
+    <li>mapNoun(p=5)->bản đồ</li>
+    <li>mapNoun(p=2)->tập bản đồ</li>
+    <li>mapNoun->niên giám</li>
+    <li>mapNoun->biểu đồ</li>
+    <li>mapNoun->sự khảo sát</li>
+    <li>mapNoun->học</li>
+    <li>mapNoun->cuốn sách nhỏ</li>
+    <li>mapType(p=2)->[Animal]</li>
+    <li>mapType(p=2)->[TreeType]</li>
+    <li>mapType->đường viền</li>
+    <li>mapType->địa hình</li>
+    <li>mapType->sự cứu tế</li>
+    <li>mapType->dân số</li>
+    <li>mapType->kho báu</li>
+    <li>mapType->chú thích</li>
+    <li>mapType->minh họa</li>
+    <li>mapType->liên minh</li>
+    <li>mapType->liên minh</li>
+    <li>mapType->liên đoàn</li>
+    <li>mapType->lịch sử</li>
+    <li>mapType->giấy</li>
+    <li>mapType->da thú</li>
+    <li>mapType->da heo</li>
+    <li>mapType->nhiều lớp</li>
+    <li>mapType->ảnh ba chiều</li>
+  </Namer_Map.rulePack.rulesStrings>
   
 </LanguageData>

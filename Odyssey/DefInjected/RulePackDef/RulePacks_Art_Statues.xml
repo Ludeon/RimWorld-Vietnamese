@@ -166,7 +166,171 @@
     <li>prop->psychic relic</li>
     <li>prop->human heart</li>
   -->
-  <ArtDescription_Statue.rulePack.rulesStrings>TODO</ArtDescription_Statue.rulePack.rulesStrings>
+  <ArtDescription_Statue.rulePack.rulesStrings>
+    <li>r_statue_description->Bức tượng này [statueDepicts] [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Bức tượng [statueAdj] mô tả [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Bức tượng [carvedAdverb] [carvedVerb] của [SUBJECT_nameFull]. Nó [statueDepicts] [SUBJECT_indefinite] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Một bức tượng hiển thị [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Một bức tượng [statueAdj] của [SUBJECT_nameFull]. [statueFaceDesc] [style_group_statue]</li>
+    <li>statueSubjectDesc->đứng thẳng cầm [prop] bằng cả hai tay</li>
+    <li>statueSubjectDesc->đứng cao và nhìn cao quý về phía xa</li>
+    <li>statueSubjectDesc->giơ nắm đấm lên trời</li>
+    <li>statueSubjectDesc->vươn lên, nắm bắt một cái gì đó vô hình</li>
+    <li>statueSubjectDesc->nghiêng sang một bên như sắp ngã[maybeInsult]</li>
+    <li>statueSubjectDesc->đứng bằng một chân[maybeInsult]</li>
+    <li>statueSubjectDesc->cúi đầu thật sâu</li>
+    <li>statueSubjectDesc->chống chọi với cơn gió</li>
+    <li>statueSubjectDesc->quỳ gối cầu nguyện</li>
+    <li>statueSubjectDesc->với đôi tay giơ lên ​​như thể đang cầu nguyện</li>
+    <li>statueSubjectDesc->với đôi tay chắp lại tỏ lòng biết ơn</li>
+    <li>statueSubjectDesc->chạy ở tốc độ cao nhất</li>
+    <li>statueSubjectDesc->với cánh tay mở rộng, nhìn lên bầu trời</li>
+    <li>statueSubjectDesc->với bàn tay đặt trên hông</li>
+    <li>statueSubjectDesc->với cánh tay giơ lên ​​trong chiến thắng</li>
+    <li>statueSubjectDesc->cầm [prop] trong một tay[maybeOtherHand]</li>
+    <li>statueSubjectDesc->chào bằng một tay[maybeOtherHand]</li>
+    <li>statueSubjectDesc->hướng về phía chân trời[maybeOtherHand]</li>
+    <li>statueSubjectDesc->dang tay chào mừng[maybeOtherHand]</li>
+    <li>statueSubjectDesc->chỉ về phía chân trời bằng một tay[maybeOtherHand]</li>
+    <li>statueSubjectDesc->nhảy múa quyến rũ</li>
+    <li>statueSubjectDesc->thư giãn một cách quyến rũ</li>
+    <li>statueSubjectDesc->chuẩn bị sẵn sàng chiến đấu</li>
+    <li>statueSubjectDesc->nhảy lên không trung, bị đóng băng khi nhảy giữa chừng</li>
+    <li>statueSubjectDesc->ném lưới cá vào vùng nước vô hình</li>
+    <li>statueSubjectDesc->ăn một bữa ăn sang trọng</li>
+    <li>statueSubjectDesc->giữa cuộc đấu tranh, thoát khỏi xiềng xích</li>
+    <li>statueSubjectDesc->thì thầm một bí mật thầm lặng</li>
+    <li>statueSubjectDesc->ngước nhìn những vì sao, đôi mắt đầy ngạc nhiên</li>
+    <li>statueSubjectDesc->ném một ngọn giáo vô hình</li>
+    <li>statueSubjectDesc->xé một mảnh giấy trong một hành động thách thức</li>
+    <li>statueSubjectDesc->lội qua vùng nước sâu</li>
+    <li>statueSubjectDesc->cầm một [prop] lớn bằng cả hai tay</li>
+    <li>statueSubjectDesc->không có răng[maybeInsult]</li>
+    <li>statueSubjectDesc->nheo mắt nhìn vào mặt trời[maybeInsult]</li>
+    <li>statueSubjectDesc->ngửi một bó hoa[maybeNoNose]</li>
+    <li>maybeOtherHand->. [otherHand]</li>
+    <li>maybeOtherHand-></li>
+    <li>otherHand->Tay còn lại của bức tượng cầm [prop]</li>
+    <li>otherHand->Tay còn lại của bức tượng đặt trên hông</li>
+    <li>otherHand->Tay còn lại của bức tượng đang làm động tác tục tĩu</li>
+    <li>otherHand->Bàn tay còn lại của bức tượng bị mất[maybeInsult]</li>
+    <li>maybeNoNose->. Tượng không có mũi[maybeInsult]</li>
+    <li>maybeNoNose-></li>
+    <li>maybeInsult->. Đây rõ ràng là một sự xúc phạm</li>
+    <li>maybeInsult->. Không rõ đây là một sơ suất nhỏ của nghệ sĩ hay là một sai sót đơn giản</li>
+    <li>maybeInsult->. Điều này cho thấy nghệ sĩ đang xúc phạm chủ đề</li>
+    <li>maybeInsult(p=3)-></li>
+    <li>statueFaceDesc(p=2)->Khuôn mặt của bức tượng có dạng [facialLook].</li>
+    <li>statueFaceDesc(p=2)->[facialLook] có thể được nhìn thấy trên khuôn mặt của [SUBJECT_indefinite].</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] có hình dạng của [facialLook].</li>
+    <li>statueFaceDesc->Mặt của [SUBJECT_indefinite] [depicts] [facialLook].</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] có vẻ mặt thông minh và sâu sắc.</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] đang kêu lên, miệng há hốc trong một tiếng hét thầm lặng.</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] nhìn xa xăm một cách buồn bã.</li>
+    <li>statueFaceDesc->Bức tượng [depicts] [SUBJECT_indefinite] với vẻ quyết tâm đặc trưng.</li>
+    <li>statueFaceDesc->Tượng [depicts] [SUBJECT_indefinite] cười điên cuồng.</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] có [facialFeature].</li>
+    <li>statueFaceDesc->Bức tượng có [facialFeature].</li>
+    <li>statueFaceDesc->Đáng chú ý, bức tượng có [facialFeature].</li>
+    <li>facialLook->niềm vui thật sự</li>
+    <li>facialLook->khủng bố thuần túy</li>
+    <li>facialLook->thuốc lắc thuần khiết</li>
+    <li>facialLook->niềm hạnh phúc thuần khiết</li>
+    <li>facialLook->sốc và bối rối</li>
+    <li>facialLook->vui chơi giải trí</li>
+    <li>facialLook->nỗi buồn không kể xiết</li>
+    <li>facialLook->suy ngẫm sâu sắc</li>
+    <li>facialLook->lú lẫn</li>
+    <li>facialLook->niềm tự hào và sự hài lòng</li>
+    <li>facialLook->vui chơi giải trí</li>
+    <li>facialLook->ghê tởm</li>
+    <li>facialLook->sự thách thức</li>
+    <li>facialFeature->một nụ cười vui tươi</li>
+    <li>facialFeature->một cái nhíu mày</li>
+    <li>facialFeature->nhướng mày như đang thắc mắc với người nghệ sĩ</li>
+    <li>facialFeature->một cái lưỡi dài thè ra</li>
+    <li>facialFeature->một khuôn mặt nhăn nhó vì đau khổ</li>
+    <li>facialFeature->đôi mắt dường như lấp lánh</li>
+    <li>facialFeature->hai mắt nhắm nghiền như đang bình yên</li>
+    <li>facialFeature->má phồng lên như đang thổi gió</li>
+    <li>facialFeature->đôi mắt long lanh và đôi môi gầm gừ</li>
+    <li>style_group_statue->[artextra_clause_statue]. [style_clause].</li>
+    <li>style_group_statue->[style_clause]. [artextra_clause_statue].</li>
+    <li>style_group_statue->[style_clause].</li>
+    <li>style_group_statue->[artextra_clause_statue].</li>
+    <li>style_group_statue-></li>
+    <li>artextra_clause_statue->Bệ tượng được bao bọc bởi [subimageplural]</li>
+    <li>artextra_clause_statue->được khắc vào da của đối tượng là [subimageplural]</li>
+    <li>artextra_clause_statue->một số hình chạm khắc nhỏ hơn bao quanh bức tượng. Mỗi cái giống [subimagesingle]</li>
+    <li>artextra_clause_statue->chân của bức tượng bị che khuất bởi [subimageplural]</li>
+    <li>artextra_clause_statue->[carvedVerb] trên mặt tượng là hình ảnh của [subimageany]</li>
+    <li>artextra_clause_statue->[SUBJECT_indefinite] đứng ở giữa [Community]</li>
+    <li>artextra_clause_statue->bệ của bức tượng có vẻ là [TerrainFeature]</li>
+    <li>artextra_clause_statue->[SUBJECT_indefinite] dường như đang tăng lên từ [TerrainFeature]</li>
+    <li>artextra_clause_statue->một [Character] nhỏ xuất hiện [side_position_statue]</li>
+    <li>artextra_clause_statue->a [pawn_adj] [Character] xuất hiện [side_position_statue]</li>
+    <li>artextra_clause_statue->[Quantity_adjphrase] [Character]s xuất hiện [side_position_statue]</li>
+    <li>artextra_clause_statue->[Quantity_adjphrase] [pawn_adj] [Character]s xuất hiện [side_position_statue]</li>
+    <li>artextra_clause_statue->một [Animal] được khắc [side_position_statue]</li>
+    <li>artextra_clause_statue->nhìn từ xa, bố cục [composition] của bức tượng cho thấy đường nét của [subimageany]</li>
+    <li>artextra_clause_statue->bức tượng giữ [Animal] dưới một cánh tay</li>
+    <li>artextra_clause_statue->bức tượng đang giữ [Quantity_adjphrase] [pawn_adj] [Character]s</li>
+    <li>artextra_clause_statue->[SUBJECT_indefinite] của [statueBodyPart] được tách mở. Bên trong bạn có thể thấy [subimageplural]</li>
+    <li>carvedAdverb->cẩn thận</li>
+    <li>carvedAdverb->nhanh</li>
+    <li>carvedAdverb->đại khái</li>
+    <li>carvedAdverb->tỉ mỉ</li>
+    <li>carvedAdverb->tỉ mỉ</li>
+    <li>carvedVerb->chạm khắc</li>
+    <li>carvedVerb->điêu khắc</li>
+    <li>carvedVerb->đục khoét</li>
+    <li>statueAdj->lớn hơn cuộc sống</li>
+    <li>statueAdj->cao chót vót</li>
+    <li>statueAdj->vĩ đại</li>
+    <li>statueAdj->lớn</li>
+    <li>statueAdj->sống động như thật</li>
+    <li>statueAdj->trang nghiêm</li>
+    <li>statueAdj->trang nghiêm</li>
+    <li>statueAdj->trang nghiêm</li>
+    <li>statueAdj->cao quý</li>
+    <li>statueAdj->thanh thản</li>
+    <li>statueAdj->sụp đổ</li>
+    <li>statueAdj->khiêm tốn</li>
+    <li>statueAdj->tiết lộ</li>
+    <li>statueAdj->thô</li>
+    <li>statueAdj->kích thích</li>
+    <li>statueAdj->khiêu khích</li>
+    <li>statueAdj->gợi ý</li>
+    <li>statueAdj->kỳ cục</li>
+    <li>statueAdj->khủng khiếp</li>
+    <li>statueAdj->hùng vĩ</li>
+    <li>statueDepicts->miêu tả</li>
+    <li>statueDepicts->chương trình</li>
+    <li>statueDepicts->miêu tả</li>
+    <li>side_position_statue->ở căn cứ</li>
+    <li>side_position_statue->trên bệ bên cạnh [SUBJECT_indefinite]</li>
+    <li>side_position_statue->dưới gót chân của [SUBJECT_indefinite]</li>
+    <li>side_position_statue->trong vòng tay của [SUBJECT_indefinite]</li>
+    <li>side_position_statue->trên đầu [SUBJECT_indefinite]</li>
+    <li>side_position_statue->trên vai của [SUBJECT_indefinite]</li>
+    <li>side_position_statue->đằng sau bức tượng trung tâm</li>
+    <li>side_position_statue->trong một cái lỗ được khắc vào hình [statueBodyPart]</li>
+    <li>side_position_statue->trong lòng bàn tay của [SUBJECT_indefinite]</li>
+    <li>side_position_statue->bùng nổ từ [SUBJECT_indefinite]'s [statueBodyPart]</li>
+    <li>side_position_statue->nổi lên từ miệng của [SUBJECT_indefinite]</li>
+    <li>side_position_statue->trên lưng của [SUBJECT_indefinite]</li>
+    <li>statueBodyPart->ngực</li>
+    <li>statueBodyPart->cái bụng</li>
+    <li>statueBodyPart->mặt sau</li>
+    <li>statueBodyPart->cái đầu</li>
+    <li>statueBodyPart->mắt </li>
+    <li>prop->sách</li>
+    <li>prop->gươm</li>
+    <li>prop->thương</li>
+    <li>prop->súng</li>
+    <li>prop->di tích tâm linh</li>
+    <li>prop->trái tim con người</li>
+  </ArtDescription_Statue.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
@@ -242,6 +406,79 @@
     <li>statueIdea->Everlasting Love</li>
     <li>statueIdea->Passion</li>
   -->
-  <NamerStatue.rulePack.rulesStrings>TODO</NamerStatue.rulePack.rulesStrings>
+  <NamerStatue.rulePack.rulesStrings>
+    <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
+    <li>r_statue_name->Tượng của [SUBJECT_indefinite]</li>
+    <li>r_statue_name->Nghiên cứu về [SUBJECT_indefinite]</li>
+    <li>r_statue_name->Một nghiên cứu ở [statueIdea]</li>
+    <li>r_statue_name->[statueAdj] [SUBJECT_indefinite]</li>
+    <li>r_statue_name->[SUBJECT_indefinite], [statueAdj]</li>
+    <li>r_statue_name->[statueAdj] [subjectNoun]</li>
+    <li>r_statue_name->[statueAdj] [subjectNoun]</li>
+    <li>r_statue_name->Hình [statueIdea]</li>
+    <li>r_statue_name->[statueIdea] và [subjectNoun]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] của [subjectNoun]</li>
+    <li>r_statue_name->[SUBJECT_indefinite], [subjectNoun]</li>
+    <li>r_statue_name->[subjectNoun]</li>
+    <li>r_statue_name->[subjectNoun] của [statueIdea]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] và [talktopicheavyfile]</li>
+    <li>statueAdj(p=5)->[AdjectiveAny]</li>
+    <li>statueAdj->điêu khắc</li>
+    <li>statueAdj->Im lặng</li>
+    <li>statueAdj->vĩnh cửu</li>
+    <li>statueAdj->Hoàn hảo</li>
+    <li>statueAdj->đục khoét</li>
+    <li>statueAdj->vượt thời gian</li>
+    <li>statueAdj->không bị gián đoạn</li>
+    <li>statueAdj->Tiếng vang</li>
+    <li>statueAdj->Lý tưởng</li>
+    <li>statueAdj->Nhân loại</li>
+    <li>statueAdj->Thiếu sót</li>
+    <li>statueAdj->Thận trọng</li>
+    <li>statueAdj->Tiếng vang</li>
+    <li>statueAdj->Bi ai</li>
+    <li>statueAdj->đông lạnh</li>
+    <li>statueAdj->sụp đổ</li>
+    <li>subjectNoun(p=2)->[PersonJob]</li>
+    <li>subjectNoun(p=2)->[PersonFamily]</li>
+    <li>subjectNoun(p=2)->[PersonAlly]</li>
+    <li>subjectNoun(p=2)->[PersonBadass]</li>
+    <li>subjectNoun->Người theo dõi</li>
+    <li>subjectNoun->anh hùng</li>
+    <li>subjectNoun->Huyền thoại</li>
+    <li>subjectNoun->Hậu vệ</li>
+    <li>subjectNoun->lính gác</li>
+    <li>subjectNoun->Adonis</li>
+    <li>subjectNoun->Tinh thần</li>
+    <li>subjectNoun->Nhân vật</li>
+    <li>subjectNoun->Hình ảnh</li>
+    <li>subjectNoun->Linh hồn</li>
+    <li>subjectNoun->Thân hình</li>
+    <li>subjectNoun->khuôn mặt</li>
+    <li>subjectNoun->suy ngẫm</li>
+    <li>subjectNoun->Hình thức</li>
+    <li>subjectNoun->Thiên thần</li>
+    <li>subjectNoun->Bức tượng</li>
+    <li>subjectNoun->ảo ảnh</li>
+    <li>statueIdea(p=3)->[ConceptPositive]</li>
+    <li>statueIdea(p=3)->[ConceptBadass]</li>
+    <li>statueIdea(p=3)->[ConceptAngsty]</li>
+    <li>statueIdea(p=3)->[ConceptAngsty]</li>
+    <li>statueIdea->Sức mạnh</li>
+    <li>statueIdea->Khôn ngoan</li>
+    <li>statueIdea->Xảo quyệt</li>
+    <li>statueIdea->chủ nghĩa anh hùng</li>
+    <li>statueIdea->Quyền lực</li>
+    <li>statueIdea->Ký ức</li>
+    <li>statueIdea->Tinh thần</li>
+    <li>statueIdea->Ánh sáng</li>
+    <li>statueIdea->Lòng yêu nước</li>
+    <li>statueIdea->Ánh sáng buổi sáng</li>
+    <li>statueIdea->Bầu trời đêm</li>
+    <li>statueIdea->Bình minh</li>
+    <li>statueIdea->Cát Trôi</li>
+    <li>statueIdea->Tình yêu vĩnh cửu</li>
+    <li>statueIdea->Niềm đam mê</li>
+  </NamerStatue.rulePack.rulesStrings>
   
 </LanguageData>

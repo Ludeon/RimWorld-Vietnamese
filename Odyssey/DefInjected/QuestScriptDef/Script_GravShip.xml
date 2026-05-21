@@ -2,138 +2,193 @@
 <LanguageData>
   
   <!-- EN: Gravcore detected: Ancient reactor -->
-  <Gravcore_AncientReactor.questAvailableLetterLabel>TODO</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <Gravcore_AncientReactor.questAvailableLetterLabel>Gravcore được phát hiện: Lò phản ứng cổ đại</Gravcore_AncientReactor.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient decaying reactor. The location is marked on the world map.\n\nCracks in the reactor's shielding are leaking harmful material, bathing the nearby area in toxic fallout. The reactor itself will be heavily guarded by ancient security systems.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>TODO</Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu bắt nguồn từ một lò phản ứng cổ xưa đang phân hủy. Vị trí được đánh dấu trên bản đồ thế giới.\n\nCác vết nứt trên tấm chắn của lò phản ứng đang làm rò rỉ vật liệu có hại, khiến khu vực gần đó chìm trong bụi phóng xạ độc hại. Bản thân lò phản ứng sẽ được bảo vệ nghiêm ngặt bởi các hệ thống an ninh cổ xưa.\n\nNhận các tấm trọng lực và tấm trọng lực để tăng kích thước trọng lực của bạn.</li>
+  </Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->ancient reactor</li>
   -->
-  <Gravcore_AncientReactor.questNameRules.rulesStrings>TODO</Gravcore_AncientReactor.questNameRules.rulesStrings>
+  <Gravcore_AncientReactor.questNameRules.rulesStrings>
+    <li>questName->lò phản ứng cổ xưa</li>
+  </Gravcore_AncientReactor.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Ancient stockpile -->
-  <Gravcore_AncientStockpile.questAvailableLetterLabel>TODO</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>Gravcore được phát hiện: Kho dự trữ cổ</Gravcore_AncientStockpile.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient underground stockpile. The location is marked on the world map.\n\nUnderground stockpiles must be hacked to enter. This process can take days to complete.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>TODO</Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu bắt nguồn từ một kho dự trữ cổ xưa dưới lòng đất. Vị trí được đánh dấu trên bản đồ thế giới.\n\nCác kho dự trữ dưới lòng đất phải được hack để vào. Quá trình này có thể mất nhiều ngày để hoàn thành.\n\nLấy gradcores và tấm graflite để tăng kích thước grafship của bạn.</li>
+  </Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Ancient stockpile</li>
   -->
-  <Gravcore_AncientStockpile.questNameRules.rulesStrings>TODO</Gravcore_AncientStockpile.questNameRules.rulesStrings>
+  <Gravcore_AncientStockpile.questNameRules.rulesStrings>
+    <li>questName->kho đồ cổ</li>
+  </Gravcore_AncientStockpile.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Crash site -->
-  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>TODO</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>Đã phát hiện thấy Gravcore: Trang web gặp sự cố</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from the wreckage of a crashed orbital platform.\n\nScans reveal a heavy mechanoid presence.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu đến từ đống đổ nát của một nền tảng quỹ đạo bị rơi.\n\nQuét quét cho thấy sự hiện diện nặng nề của máy móc.\n\nLấy trọng lực và tấm trọng lực để tăng kích thước trọng lực của bạn.</li>
+  </Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->crashed mechanoid platform</li>
   -->
-  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>TODO</Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->nền tảng cơ khí bị rơi</li>
+  </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Frozen terraformer -->
-  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>TODO</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>Gravcore được phát hiện: Terraformer đông lạnh</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather and a long stay.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>TODO</Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Gralcore đang cung cấp năng lượng cho một máy địa hình cổ đại đang gặp trục trặc. Vị trí của nó được đánh dấu trên bản đồ thế giới.\n\nMáy địa hình đang làm mát khu vực địa phương đến nhiệt độ thấp đến mức nguy hiểm. Hãy chuẩn bị cho thời tiết lạnh giá và thời gian lưu trú lâu dài.\n\nLấy trọng lực và tấm trọng lực để tăng kích thước trọng lực của bạn.</li>
+  </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->frozen terraformer</li>
   -->
-  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>TODO</Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+    <li>questName->máy địa hình đông lạnh</li>
+  </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Cave entrance -->
-  <Gravcore_InsectLair.questAvailableLetterLabel>TODO</Gravcore_InsectLair.questAvailableLetterLabel>
+  <Gravcore_InsectLair.questAvailableLetterLabel>Gravcore được phát hiện: Lối vào hang động</Gravcore_InsectLair.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal emanates from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nSubterranean caves can be extremely dangerous and may take days to explore.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>TODO</Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu phát ra từ hệ thống hang động nằm sâu dưới lòng đất. Lối vào hệ thống hang động được đánh dấu trên bản đồ thế giới.\n\nHang động dưới lòng đất có thể cực kỳ nguy hiểm và có thể mất nhiều ngày để khám phá.\n\nNhận các tấm trọng lực và tấm trọng lực để tăng kích thước trọng lực của bạn.</li>
+  </Gravcore_InsectLair.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->cave entrance</li>
   -->
-  <Gravcore_InsectLair.questNameRules.rulesStrings>TODO</Gravcore_InsectLair.questNameRules.rulesStrings>
+  <Gravcore_InsectLair.questNameRules.rulesStrings>
+    <li>questName->lối vào hang động</li>
+  </Gravcore_InsectLair.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Mechanoid relay -->
-  <Gravcore_MechanoidRelay.questAvailableLetterLabel>TODO</Gravcore_MechanoidRelay.questAvailableLetterLabel>
+  <Gravcore_MechanoidRelay.questAvailableLetterLabel>Gravcore được phát hiện: Rơle cơ</Gravcore_MechanoidRelay.questAvailableLetterLabel>
   <!-- EN:
     <li>letterLabelMapGenerated->Mechanoid relay</li>
     <li>letterTextMapGenerated->A mechanoid relay is nearby, powered by a gravcore.\n\nThe relay is currently protected by nearby stabilizers. Extract the relay's gravcore by first hacking or destroying all the stabilizers.\n\nBe careful, destroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option.</li>
   -->
-  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+    <li>letterLabelMapGenerated->Rơle cơ khí</li>
+    <li>letterTextMapGenerated->Một rơle cơ khí ở gần đó, được cung cấp năng lượng bởi gravecore.\n\nRơle hiện được bảo vệ bởi các bộ ổn định gần đó. Trích xuất lõi hấp dẫn của rơle bằng cách hack trước hoặc phá hủy tất cả các bộ ổn định.\n\nHãy cẩn thận, việc phá hủy bộ ổn định sẽ dẫn đến phản ứng phòng thủ. Hack là một lựa chọn chậm hơn nhưng an toàn hơn.</li>
+  </Gravcore_MechanoidRelay.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. It is powering a relay that is part of a huge mechanoid communication net.\n\nYou can disassemble the relay, but the process will take days to complete. The relay itself will be heavily defended by mechanoids.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Nó đang cấp nguồn cho một rơle, một phần của mạng truyền thông cơ khí khổng lồ.\n\nBạn có thể tháo rời rơle, nhưng quá trình này sẽ mất nhiều ngày để hoàn thành. Bản thân rơ-le sẽ được bảo vệ nghiêm ngặt bởi các máy móc.\n\nLấy trọng lực và tấm trọng lực để tăng kích thước trọng lực của bạn.</li>
+  </Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechanoid relay</li>
   -->
-  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+    <li>questName->Rơle cơ khí</li>
+  </Gravcore_MechanoidRelay.questNameRules.rulesStrings>
   
   <!-- EN: Mechhive detected -->
-  <Gravcore_Mechhive.questAvailableLetterLabel>TODO</Gravcore_Mechhive.questAvailableLetterLabel>
+  <Gravcore_Mechhive.questAvailableLetterLabel>Đã phát hiện thấy cơ khí</Gravcore_Mechhive.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected a huge gravtech energy spike originating from a mechhive in orbit. Its location is marked on the world map.\n\nThis mechhive is the center of mechanoid intelligence on this planet. Shutting it down will disable all murderous mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nThe mechhive is defended with anti-ship weapons. Build a signal jammer before approaching it.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit.</li>
   -->
-  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>TODO</Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện thấy một luồng năng lượng khổng lồ của công nghệ trọng lực bắt nguồn từ một tổ máy trên quỹ đạo. Vị trí của nó được đánh dấu trên bản đồ thế giới.\n\nMechhive này là trung tâm của trí thông minh cơ học trên hành tinh này. Tắt nó sẽ vô hiệu hóa tất cả các máy móc giết người trên toàn hành tinh. Ngoài ra, bạn có thể sử dụng mechhive cho mục đích riêng của mình.\n\nMechhive được bảo vệ bằng vũ khí chống hạm. Xây dựng thiết bị gây nhiễu tín hiệu trước khi tiếp cận nó.\n\nHãy cảnh báo, máy móc cực kỳ nguy hiểm. Trước tiên, hãy kết thúc việc khám phá các địa điểm khác và đảm bảo bạn đã chuẩn bị sẵn sàng cho thời gian lưu trú lâu dài trên quỹ đạo.</li>
+  </Gravcore_Mechhive.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechhive</li>
   -->
-  <Gravcore_Mechhive.questNameRules.rulesStrings>TODO</Gravcore_Mechhive.questNameRules.rulesStrings>
+  <Gravcore_Mechhive.questNameRules.rulesStrings>
+    <li>questName->tổ máy</li>
+  </Gravcore_Mechhive.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Orbital platform -->
-  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>TODO</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>Gravcore được phát hiện: Nền tảng quỹ đạo</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital platform.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
-  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu đến từ một nền tảng quỹ đạo bị bỏ hoang.\n\nBạn có thể di chuyển đến các nền tảng quỹ đạo bằng gravship, phi thuyền hoặc kén vận chuyển.\n\nHãy cẩn thận, các vị trí trên quỹ đạo cực kỳ nguy hiểm. Trang bị cho những cư dân của bạn những bộ đồ trống. Lên kế hoạch cho chuyến trở về của bạn, vì việc sống trên quỹ đạo trong thời gian dài là rất khó khăn.</li>
+  </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->abandoned orbital platform</li>
   -->
-  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>TODO</Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+    <li>questName->nền tảng quỹ đạo bị bỏ rơi</li>
+  </Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Mechanoid platform -->
-  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>TODO</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>Gravcore được phát hiện: Nền tảng Mechanoid</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an orbital mechanoid platform. Scans reveal a heavy defensive presence.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
-  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được dấu hiệu năng lượng của gracore. Tín hiệu đến từ một nền tảng cơ học quỹ đạo. Quá trình quét cho thấy sự hiện diện phòng thủ chặt chẽ.\n\nBạn có thể di chuyển đến các bệ quỹ đạo bằng gravship, phi thuyền hoặc kén vận chuyển.\n\nHãy cẩn thận, các vị trí trên quỹ đạo cực kỳ nguy hiểm. Trang bị cho những cư dân của bạn những bộ đồ trống. Lên kế hoạch cho chuyến trở về của bạn, vì việc sống trên quỹ đạo trong thời gian dài là rất khó khăn.</li>
+  </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mechanoid platform</li>
   -->
-  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>TODO</Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->Nền tảng cơ khí</li>
+  </Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->You've discovered a mechanoid grav engine! You can use this to build a gravship to quickly move around the planet.\n\nThe engine includes tech that passively scans for nearby gravship technology. If you obtain this gravship tech, you can upgrade your gravship over time.</li>
   -->
-  <GravEngine.questDescriptionRules.rulesStrings>TODO</GravEngine.questDescriptionRules.rulesStrings>
+  <GravEngine.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện ra một động cơ trọng lực cơ học! Bạn có thể sử dụng công cụ này để chế tạo một trọng lực nhằm di chuyển nhanh chóng khắp hành tinh.\n\nCông cụ này bao gồm công nghệ quét thụ động để tìm công nghệ trọng lực ở gần. Nếu bạn có được công nghệ trọng lực này, bạn có thể nâng cấp trọng lực của mình theo thời gian.</li>
+  </GravEngine.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the gravship</li>
   -->
-  <GravEngine.questNameRules.rulesStrings>TODO</GravEngine.questNameRules.rulesStrings>
+  <GravEngine.questNameRules.rulesStrings>
+    <li>questName->trọng lực</li>
+  </GravEngine.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription(askerIsNull==true)->You've intercepted the distress beacon from a crashed gravship. The wreckage contains valuable gravtech. Be careful - it is guarded by hostile mechanoids.</li>
     <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has shared with you the location of a crashed gravship. [asker_pronoun] heard of your study of gravcore technology and thought you might be interested in scavenging whatever gravtech remains. [asker_nameDef] warns you that the crash site is guarded by hostile mechanoids.</li>
     <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], demands that you destroy a number of bothersome mechanoids that are harassing a nearby settlement. The mechanoids are guarding the wreckage of a gravship. If you destroy the mechanoids, [asker_nameDef] will let you keep whatever gravtech you're able to scavenge.</li>
   -->
-  <GravshipWreckage.questDescriptionRules.rulesStrings>TODO</GravshipWreckage.questDescriptionRules.rulesStrings>
+  <GravshipWreckage.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Bạn đã chặn được tín hiệu cấp cứu từ một tàu trọng lực bị rơi. Đống đổ nát chứa graftech có giá trị. Hãy cẩn thận - nó được bảo vệ bởi các máy móc thù địch.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] trong số [asker_faction_name] đã chia sẻ với bạn vị trí của một tàu hấp dẫn bị rơi. [asker_pronoun] đã nghe nói về nghiên cứu của bạn về công nghệ gradcore và nghĩ rằng bạn có thể quan tâm đến việc thu thập bất cứ thứ gì còn sót lại của gravetech. [asker_nameDef] cảnh báo bạn rằng địa điểm xảy ra vụ tai nạn được bảo vệ bởi các máy móc thù địch.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], [asker_royalTitleInCurrentFaction] trên [asker_faction_name], yêu cầu bạn tiêu diệt một số máy móc khó chịu đang quấy rối một khu định cư gần đó. Các máy móc đang bảo vệ đống đổ nát của một chiếc trọng lực. Nếu bạn phá hủy các máy móc, [asker_nameDef] sẽ cho phép bạn giữ lại bất kỳ công nghệ trọng lực nào mà bạn có thể nhặt được.</li>
+  </GravshipWreckage.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Gravship wreckage</li>
   -->
-  <GravshipWreckage.questNameRules.rulesStrings>TODO</GravshipWreckage.questNameRules.rulesStrings>
+  <GravshipWreckage.questNameRules.rulesStrings>
+    <li>questName->Đống đổ nát của trọng lực</li>
+  </GravshipWreckage.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->You've detected a signal from a mechanoid ship in orbit. The ship has malfunctioned and is slowly losing altitude.\n\nBy falsely responding to the signal you can make the ship crashland nearby, letting you salvage valuable grav tech.</li>
     <li>gravEngineSpawnedLetterLabel->grav engine</li>
     <li>gravEngineSpawnedLetterText->The mechanoid ship has crashlanded nearby.\n\nIt contains a working grav engine. The engine pushes against gravity and generates a lift field around itself, allowing it to levitate massive ships or platforms. While it does not work when far from a planet, it can be used to move across the planet and to reach orbit.\n\nInspect the engine to make use of it.</li>
   -->
-  <MechanoidSignal.questDescriptionRules.rulesStrings>TODO</MechanoidSignal.questDescriptionRules.rulesStrings>
+  <MechanoidSignal.questDescriptionRules.rulesStrings>
+    <li>questDescription->Bạn đã phát hiện được tín hiệu từ một con tàu cơ khí trên quỹ đạo. Con tàu đã gặp trục trặc và đang dần mất độ cao.\n\nBằng cách phản hồi sai tín hiệu, bạn có thể khiến con tàu rơi xuống gần đó, cho phép bạn trục vớt công nghệ trọng lực có giá trị.</li>
+    <li>gravEngineSpawnedLetterLabel->động cơ trọng lực</li>
+    <li>gravEngineSpawnedLetterText->Con tàu cơ khí đã hạ cánh gần đó.\n\nNó chứa một động cơ trọng lực đang hoạt động. Động cơ chống lại trọng lực và tạo ra một trường lực nâng xung quanh nó, cho phép nó nâng các con tàu hoặc bệ lớn. Mặc dù nó không hoạt động khi ở xa một hành tinh, nhưng nó có thể được sử dụng để di chuyển khắp hành tinh và tiếp cận quỹ đạo.\n\nKiểm tra động cơ để sử dụng nó.</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechanoid signal</li>
   -->
-  <MechanoidSignal.questNameRules.rulesStrings>TODO</MechanoidSignal.questNameRules.rulesStrings>
+  <MechanoidSignal.questNameRules.rulesStrings>
+    <li>questName->tín hiệu cơ học</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
   
 </LanguageData>

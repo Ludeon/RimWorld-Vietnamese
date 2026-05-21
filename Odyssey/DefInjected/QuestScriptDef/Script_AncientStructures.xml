@@ -5,7 +5,10 @@
     <li>questDescription->[discoveryMethod] the location of [structureNameWithArticle]. You can loot the structure for valuable resources.\n\nBe warned, ancient structures can contain a variety of threats.</li>
     <li>structureNameWithArticle->an infested settlement</li>
   -->
-  <Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>TODO</Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của [structureNameWithArticle]. Bạn có thể cướp phá cấu trúc để lấy tài nguyên có giá trị.\n\nHãy cảnh báo, các cấu trúc cổ xưa có thể chứa đựng nhiều mối đe dọa khác nhau.</li>
+    <li>structureNameWithArticle->một khu định cư bị nhiễm khuẩn</li>
+  </Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -15,7 +18,15 @@
     <li>ancient->Lost</li>
     <li>structureName->infested settlement</li>
   -->
-  <Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>TODO</Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+  <Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->Đã phát hiện [structureName]</li>
+    <li>questName->[structureName] Khám phá</li>
+    <li>ancient(p=2)->cổ đại</li>
+    <li>ancient->Mất</li>
+    <li>structureName->khu định cư bị nhiễm khuẩn</li>
+  </Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient buildings</li>
     <li>subject->lost landmarks</li>
@@ -31,13 +42,30 @@
     <li>questMapFeature->anatomical drawing of a megaspider</li>
     <li>questMapText->insects everywhere</li>
   -->
-  <Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>TODO</Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+  <Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+    <li>subject->tòa nhà cổ</li>
+    <li>subject->cột mốc bị mất</li>
+    <li>subject->công trình kiến ​​trúc cổ xưa</li>
+    <li>questMapFeature->bản vẽ của một tòa nhà cũ</li>
+    <li>questMapText->mục tiêu nhặt rác</li>
+    <li>questMapText->địa điểm thăm dò</li>
+    <li>questMapText->cấu trúc cổ nguy hiểm</li>
+    <li>questMapText->coi chừng bẫy</li>
+    <li>subject->tổ ong côn trùng</li>
+    <li>subject->sự phá hoại</li>
+    <li>questMapFeature->tổ côn trùng</li>
+    <li>questMapFeature->bản vẽ giải phẫu của megaspider</li>
+    <li>questMapText->côn trùng ở khắp mọi nơi</li>
+  </Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of [structureNameWithArticle]. You can loot the structure for valuable resources.\n\nBe warned, ancient structures can contain a variety of threats.</li>
     <li>structureNameWithArticle->an ancient chemfuel refinery</li>
   -->
-  <Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>TODO</Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của [structureNameWithArticle]. Bạn có thể cướp phá cấu trúc để lấy tài nguyên có giá trị.\n\nHãy cảnh báo, các cấu trúc cổ xưa có thể chứa đựng nhiều mối đe dọa khác nhau.</li>
+    <li>structureNameWithArticle->một nhà máy lọc nhiên liệu hóa học cổ xưa</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -47,7 +75,15 @@
     <li>ancient->Lost</li>
     <li>structureName->chemfuel refinery</li>
   -->
-  <Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>TODO</Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->Đã phát hiện [structureName]</li>
+    <li>questName->[structureName] Khám phá</li>
+    <li>ancient(p=2)->cổ đại</li>
+    <li>ancient->Mất</li>
+    <li>structureName->nhà máy lọc nhiên liệu hóa học</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient buildings</li>
     <li>subject->lost landmarks</li>
@@ -65,13 +101,32 @@
     <li>questMapText->chemfuel depot</li>
     <li>questMapText->chemfuel here</li>
   -->
-  <Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>TODO</Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+    <li>subject->tòa nhà cổ</li>
+    <li>subject->cột mốc bị mất</li>
+    <li>subject->công trình kiến ​​trúc cổ xưa</li>
+    <li>questMapFeature->bản vẽ của một tòa nhà cũ</li>
+    <li>questMapText->mục tiêu nhặt rác</li>
+    <li>questMapText->địa điểm thăm dò</li>
+    <li>questMapText->cấu trúc cổ nguy hiểm</li>
+    <li>questMapText->coi chừng bẫy</li>
+    <li>subject->nhà máy lọc dầu cổ</li>
+    <li>subject->hóa chất</li>
+    <li>questMapFeature->nhà máy lọc nhiên liệu hóa học</li>
+    <li>questMapFeature->hình ảnh thùng nhiên liệu hóa học</li>
+    <li>questMapFeature->phác thảo thiết bị nhà máy lọc dầu</li>
+    <li>questMapText->kho nhiên liệu hóa học</li>
+    <li>questMapText->nhiên liệu hóa học ở đây</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of [structureNameWithArticle]. You can loot the structure for valuable resources.\n\nBe warned, ancient structures can contain a variety of threats.</li>
     <li>structureNameWithArticle->an ancient garrison</li>
   -->
-  <Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>TODO</Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của [structureNameWithArticle]. Bạn có thể cướp phá cấu trúc để lấy tài nguyên có giá trị.\n\nHãy cảnh báo, các cấu trúc cổ xưa có thể chứa đựng nhiều mối đe dọa khác nhau.</li>
+    <li>structureNameWithArticle->một đồn trú cổ</li>
+  </Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -81,7 +136,15 @@
     <li>ancient->Lost</li>
     <li>structureName->garrison</li>
   -->
-  <Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>TODO</Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->Đã phát hiện [structureName]</li>
+    <li>questName->[structureName] Khám phá</li>
+    <li>ancient(p=2)->cổ đại</li>
+    <li>ancient->Mất</li>
+    <li>structureName->đồn trú</li>
+  </Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient buildings</li>
     <li>subject->lost landmarks</li>
@@ -100,13 +163,33 @@
     <li>questMapText->ancient armory</li>
     <li>questMapText->lots of military equipment</li>
   -->
-  <Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>TODO</Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+    <li>subject->tòa nhà cổ</li>
+    <li>subject->cột mốc bị mất</li>
+    <li>subject->công trình kiến ​​trúc cổ xưa</li>
+    <li>questMapFeature->bản vẽ của một tòa nhà cũ</li>
+    <li>questMapText->mục tiêu nhặt rác</li>
+    <li>questMapText->địa điểm thăm dò</li>
+    <li>questMapText->cấu trúc cổ nguy hiểm</li>
+    <li>questMapText->coi chừng bẫy</li>
+    <li>subject->địa điểm quân sự cổ xưa</li>
+    <li>subject->đồn trú cổ xưa</li>
+    <li>questMapFeature->đồn trú</li>
+    <li>questMapFeature->Hình ảnh giá treo vũ khí</li>
+    <li>questMapFeature->bản phác thảo than của một khẩu súng trường tấn công</li>
+    <li>questMapText->cơ sở vũ khí</li>
+    <li>questMapText->kho vũ khí cổ</li>
+    <li>questMapText->rất nhiều thiết bị quân sự</li>
+  </Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of [structureNameWithArticle]. You can loot the structure for valuable resources.\n\nBe warned, ancient structures can contain a variety of threats.</li>
     <li>structureNameWithArticle->an ancient launch site</li>
   -->
-  <Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>TODO</Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của [structureNameWithArticle]. Bạn có thể cướp phá cấu trúc để lấy tài nguyên có giá trị.\n\nHãy cảnh báo, các cấu trúc cổ xưa có thể chứa đựng nhiều mối đe dọa khác nhau.</li>
+    <li>structureNameWithArticle->một địa điểm phóng cổ xưa</li>
+  </Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -116,7 +199,15 @@
     <li>ancient->Lost</li>
     <li>structureName->launch site</li>
   -->
-  <Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>TODO</Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->Đã phát hiện [structureName]</li>
+    <li>questName->[structureName] Khám phá</li>
+    <li>ancient(p=2)->cổ đại</li>
+    <li>ancient->Mất</li>
+    <li>structureName->địa điểm ra mắt</li>
+  </Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient buildings</li>
     <li>subject->lost landmarks</li>
@@ -133,13 +224,31 @@
     <li>questMapFeature->sketch of treasure being loaded into transport pods</li>
     <li>questMapText->they have fuel</li>
   -->
-  <Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>TODO</Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+    <li>subject->tòa nhà cổ</li>
+    <li>subject->cột mốc bị mất</li>
+    <li>subject->công trình kiến ​​trúc cổ xưa</li>
+    <li>questMapFeature->bản vẽ của một tòa nhà cũ</li>
+    <li>questMapText->mục tiêu nhặt rác</li>
+    <li>questMapText->địa điểm thăm dò</li>
+    <li>questMapText->cấu trúc cổ nguy hiểm</li>
+    <li>questMapText->coi chừng bẫy</li>
+    <li>subject->địa điểm phóng cổ xưa</li>
+    <li>subject->sân bay vũ trụ</li>
+    <li>questMapFeature->địa điểm ra mắt</li>
+    <li>questMapFeature->sơ đồ thiết bị tiếp nhiên liệu phi thuyền</li>
+    <li>questMapFeature->bản phác thảo kho báu đang được chất lên kén vận chuyển</li>
+    <li>questMapText->họ có nhiên liệu</li>
+  </Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of [structureNameWithArticle]. You can loot the structure for valuable resources.\n\nBe warned, ancient structures can contain a variety of threats.</li>
     <li>structureNameWithArticle->an ancient warehouse</li>
   -->
-  <Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>TODO</Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của [structureNameWithArticle]. Bạn có thể cướp phá cấu trúc để lấy tài nguyên có giá trị.\n\nHãy cảnh báo, các cấu trúc cổ xưa có thể chứa đựng nhiều mối đe dọa khác nhau.</li>
+    <li>structureNameWithArticle->một nhà kho cổ</li>
+  </Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -149,7 +258,15 @@
     <li>ancient->Lost</li>
     <li>structureName->warehouse</li>
   -->
-  <Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>TODO</Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->[ancient] [structureName]</li>
+    <li>questName->Đã phát hiện [structureName]</li>
+    <li>questName->[structureName] Khám phá</li>
+    <li>ancient(p=2)->cổ đại</li>
+    <li>ancient->Mất</li>
+    <li>structureName->kho</li>
+  </Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient buildings</li>
     <li>subject->lost landmarks</li>
@@ -166,6 +283,21 @@
     <li>questMapFeature->sketch of a forklift</li>
     <li>questMapText->massive ancient building</li>
   -->
-  <Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>TODO</Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+  <Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+    <li>subject->tòa nhà cổ</li>
+    <li>subject->cột mốc bị mất</li>
+    <li>subject->công trình kiến ​​trúc cổ xưa</li>
+    <li>questMapFeature->bản vẽ của một tòa nhà cũ</li>
+    <li>questMapText->mục tiêu nhặt rác</li>
+    <li>questMapText->địa điểm thăm dò</li>
+    <li>questMapText->cấu trúc cổ nguy hiểm</li>
+    <li>questMapText->coi chừng bẫy</li>
+    <li>subject->kho cổ</li>
+    <li>subject->kho hàng</li>
+    <li>questMapFeature->kho</li>
+    <li>questMapFeature->sơ đồ kệ chứa đầy hộp</li>
+    <li>questMapFeature->bản phác thảo của một chiếc xe nâng</li>
+    <li>questMapText->tòa nhà cổ đồ sộ</li>
+  </Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
   
 </LanguageData>

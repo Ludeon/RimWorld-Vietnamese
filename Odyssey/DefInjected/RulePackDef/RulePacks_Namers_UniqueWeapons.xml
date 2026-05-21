@@ -60,6 +60,64 @@
     <li>badass_concept->love</li>
     <li>badass_concept->laughter</li>
   -->
-  <NamerUniqueWeapon.rulePack.rulesStrings>TODO</NamerUniqueWeapon.rulePack.rulesStrings>
+  <NamerUniqueWeapon.rulePack.rulesStrings>
+    <li>r_weapon_name(p=2)->[weapon_adjective] [weapon_noun]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_type] của [badass_concept]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_adjective] [weapon_type]</li>
+    <li>r_weapon_name(p=0.5)->[badass_concept] của [weapon_type]</li>
+    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef] của [weapon_noun]</li>
+    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef] của [weapon_adjective] [weapon_noun]</li>
+    <li>r_weapon_name(p=0.3)->[badass_concept] của [ANYPAWN_nameIndef]</li>
+    <li>weapon_noun(p=2)->[weapon_type]</li>
+    <li>weapon_noun->[badass_noun]</li>
+    <li>weapon_noun->[badass_concept]</li>
+    <li>weapon_adjective(p=2)->[trait_adjective]</li>
+    <li>weapon_adjective->[badass_adjective]</li>
+    <li>badass_adjective->nghiệt ngã</li>
+    <li>badass_adjective->vĩnh cửu</li>
+    <li>badass_adjective->đêm</li>
+    <li>badass_adjective->phần mộ</li>
+    <li>badass_adjective->đặc biệt</li>
+    <li>badass_adjective->chết người</li>
+    <li>badass_adjective->khét tiếng</li>
+    <li>badass_adjective->phong tục</li>
+    <li>badass_adjective->chết người</li>
+    <li>badass_adjective->sấm sét</li>
+    <li>badass_adjective->bị nguyền rủa</li>
+    <li>badass_adjective->Tuyệt</li>
+    <li>badass_noun->máy gặt</li>
+    <li>badass_noun->kết thúc</li>
+    <li>badass_noun->hú</li>
+    <li>badass_noun->bão tố</li>
+    <li>badass_noun->ma</li>
+    <li>badass_noun->góa phụ</li>
+    <li>badass_noun->titan</li>
+    <li>badass_noun->Giaganat</li>
+    <li>badass_noun->con rắn</li>
+    <li>badass_noun->cái đe</li>
+    <li>badass_noun->kẻ sát nhân</li>
+    <li>badass_noun->người yêu</li>
+    <li>badass_noun->con thú</li>
+    <li>badass_noun->răng nanh</li>
+    <li>badass_noun->cánh tay</li>
+    <li>badass_noun->sừng</li>
+    <li>badass_concept->công lý</li>
+    <li>badass_concept->sự trả thù</li>
+    <li>badass_concept->sự trả thù</li>
+    <li>badass_concept->nỗi đau</li>
+    <li>badass_concept->sự đau đớn</li>
+    <li>badass_concept->sự dày vò</li>
+    <li>badass_concept->Huyền thoại</li>
+    <li>badass_concept->hân hoan</li>
+    <li>badass_concept->hối tiếc</li>
+    <li>badass_concept->kiêu hãnh</li>
+    <li>badass_concept->tự phụ</li>
+    <li>badass_concept->tôn kính</li>
+    <li>badass_concept->cơn thịnh nộ</li>
+    <li>badass_concept->tính toán</li>
+    <li>badass_concept->sự thanh thản</li>
+    <li>badass_concept->yêu</li>
+    <li>badass_concept->tiếng cười</li>
+  </NamerUniqueWeapon.rulePack.rulesStrings>
   
 </LanguageData>
