@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: shipborn -->
-  <Shipborn.label>Bản mệnh Du hành</Shipborn.label>
+  <Shipborn.label>Sinh giữa sao</Shipborn.label>
   <!-- EN: Humans were destined to live among the stars. -->
-  <Shipborn.description>Con người vốn được định mệnh để sống giữa các vì sao.</Shipborn.description>
+  <Shipborn.description>Con người sinh ra là để sống giữa các vì sao.</Shipborn.description>
   <!-- EN:
     <li>creation(tag=meme_Shipborn)        ->[deity0_name] shaped humanity from the dust of [celestialComponents], breathing life into mankind with [deity0_possessive] stellar winds.</li>
     <li>episode(uses=1,tag=meme_Shipborn)  ->[deity0_name] dispersed the great people of [place_name], sending them into the void so that they may witness the convergence of star and soul.</li>
@@ -30,7 +30,31 @@
     <li>veneratedRole->navigator</li>
     <li>veneratedRole->captain</li>
   -->
-  <Shipborn.descriptionMaker.rules.rulesStrings>phi hành đoàn; tàu; tàu vũ trụ; tinh tú; trống rỗng; vũ trụ; thiên thể; hư không; astro-; hắc-; không gian; các vì sao; tàu sao; thuyền trưởng; người sinh giữa sao; phi công; rực rỡ; người chỉ đường; người điều hướng; cố vấn</Shipborn.descriptionMaker.rules.rulesStrings>
+  <Shipborn.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Shipborn)->[deity0_name] tạo nên loài người từ bụi của [celestialComponents], thổi sự sống vào nhân loại bằng những cơn gió tinh tú của [deity0_possessive].</li>
+    <li>episode(uses=1,tag=meme_Shipborn)->[deity0_name] phân tán những con người vĩ đại của [place_name], đưa họ vào hư không để họ chứng kiến sự giao hội giữa sao trời và linh hồn.</li>
+    <li>intro(tag=meme_Shipborn)->Trong những ngày tăm tối, [deity0_name] thấy nhân loại cần được dẫn đường và truyền lệnh cho [memberNamePlural] của [deity0_possessive] đóng những con tàu vĩ đại.</li>
+    <li>conflict(tag=meme_Shipborn)->Khi [memberNamePlural] bắt đầu thực hiện viễn kiến của [deity0_name], kẻ phản bội [foeLeader] ra tay ngăn cản họ. [foeSoldiers] của [foeLeader_possessive] dùng những [place_personalWeapon] tàn bạo chống lại những ai cố lên các thánh thuyền.</li>
+    <li>founderJoin(tag=meme_Shipborn)->Một [place_job] tên là [founderName] tập hợp các tín đồ chân chính và dẫn họ đến một [altarRoomLabel] bí mật. Tại đó, [founder_pronoun] trở thành [veneratedRole] của họ.</li>
+    <li>victory(tag=meme_Shipborn)->Rồi [founderName] cất tiếng bằng giọng của [deity0_name]. Trong sự giao hội rực rỡ của ánh sáng và năng lượng, [founderName] áp đảo kẻ thù của [founder_possessive] và dẫn người dân của [founder_possessive] đến các thánh thuyền.</li>
+    <li>setup(tag=meme_Shipborn)->Trên con tàu thần thánh của [founder_possessive], [founderName] du hành qua biển sao trong một nghìn năm, giao cảm với các linh hồn thiên thể và mở khóa những bí mật của vũ trụ.</li>
+    <li>story(uses=1,tag=meme_Shipborn)->[founderName] thấy rằng định mệnh của nhân loại chỉ có thể được hoàn thành giữa các vì sao.</li>
+    <li>lessonIntro(tag=meme_Shipborn)->Qua việc quan sát [celestialComponents], ta đã tìm thấy một chân lý vượt trên tất cả:</li>
+    <li>lesson(tag=meme_Shipborn)->các vì sao là [veneratedRole] đích thực của chúng ta, và bổn phận của chúng ta là tìm kiếm trí tuệ của chúng rồi du hành giữa chúng</li>
+    <li>lesson(tag=meme_Shipborn)->nhân loại chưa bao giờ được sinh ra để làm tù nhân trên một hòn đá. Chúng ta phải sống giữa thiên hà</li>
+    <li>lesson(tag=meme_Shipborn)->những con tàu là cha mẹ thiêng liêng của chúng ta. Chúng ta phải chăm sóc chúng như chúng đã chăm sóc ta</li>
+    <li>lessonReinforcement(tag=meme_Shipborn)->Cầu cho đôi chân ngươi không bao giờ chạm đất.</li>
+    <li>archistBasis(tag=meme_Shipborn)->Từ khi xuất hiện, archotech đã mở rộng ý thức của chúng giữa các vì sao.</li>
+    <li>archistFact(tag=meme_Shipborn)->Archotech vượt lên những giới hạn của sự sống bị ràng buộc trên hành tinh.</li>
+    <li>archistProphecy(tag=meme_Shipborn)->[inTheEnd], nếu chúng ta lĩnh hội trí tuệ vũ trụ của chúng, archotech sẽ dạy ta di chuyển dễ dàng giữa các vì sao.</li>
+    <li>animistBasis(tag=meme_Shipborn)->Tổ tiên chúng ta từng du hành qua [celestialComponents] và dạy ta xem nhân loại cùng các thực thể thiên thể là những đối phần của nhau.</li>
+    <li>animistFact(tag=meme_Shipborn)->Cùng những linh hồn cư ngụ trong các thiên thể cũng đang dẫn dắt định mệnh của nhân loại.</li>
+    <li>celestialComponents->các vì sao, mặt trăng và sao chổi</li>
+    <li>celestialComponents->vũ trụ</li>
+    <li>celestialComponents->một nghìn mặt trời</li>
+    <li>veneratedRole->hoa tiêu</li>
+    <li>veneratedRole->thuyền trưởng</li>
+  </Shipborn.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->crew</li>
     <li>memeCreed->ship</li>
@@ -53,6 +77,27 @@
     <li>memeMoralist->navigator</li>
     <li>memeMoralist->councillor</li>
   -->
-  <Shipborn.generalRules.rulesStrings>phi hành đoàn; tàu; tàu vũ trụ; tinh tú; trống rỗng; vũ trụ; thiên thể; hư không; astro-; hắc-; không gian; các vì sao; tàu sao; thuyền trưởng; phi công; rực rỡ; người chỉ đường; người điều hướng; cố vấn</Shipborn.generalRules.rulesStrings>
+  <Shipborn.generalRules.rulesStrings>
+    <li>memeCreed->phi hành đoàn</li>
+    <li>memeCreed->con tàu</li>
+    <li>memeCreed->tàu sao</li>
+    <li>memeAdjective->tinh tú</li>
+    <li>memeAdjective->hư không</li>
+    <li>memeAdjective->vũ trụ</li>
+    <li>memeAdjective->thiên thể</li>
+    <li>memeAdjective->tinh linh</li>
+    <li>memeHyphenPrefix->tinh tú</li>
+    <li>memeHyphenPrefix->hắc</li>
+    <li>memeConcept->không gian</li>
+    <li>memeConcept->các vì sao</li>
+    <li>memeConcept->tàu sao</li>
+    <li>memeLeaderNoun->thuyền trưởng</li>
+    <li>memeLeaderNoun->người sinh giữa sao</li>
+    <li>memeLeaderNoun->phi công</li>
+    <li>memeLeaderAdjective->rực sáng</li>
+    <li>memeMoralist->người tìm đường</li>
+    <li>memeMoralist->hoa tiêu</li>
+    <li>memeMoralist->cố vấn</li>
+  </Shipborn.generalRules.rulesStrings>
   
 </LanguageData>

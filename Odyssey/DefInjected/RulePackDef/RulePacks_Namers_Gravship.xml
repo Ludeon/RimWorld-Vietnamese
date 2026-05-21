@@ -97,6 +97,101 @@
     <li>ship_word->trireme</li>
     <li>ship_word->zephyr</li>
   -->
-  <NamerGravship.rulePack.rulesStrings>TODO</NamerGravship.rulePack.rulesStrings>
+  <NamerGravship.rulePack.rulesStrings>
+    <li>r_name(p=2)->[narrative_name]</li>
+    <li>r_name(p=1)->[narrative_name] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [Color] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [bird]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveFriendly] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [flying_adjective] [AnimalBadass]</li>
+    <li>r_name(p=0.5)->[storyname]</li>
+    <li>r_name(p=0.2)->[Color] [greekmyth_noun]</li>
+    <li>r_name(p=0.2)->[ship_prefix] [greekmyth_noun]</li>
+    <li>ship_prefix(p=2)->các</li>
+    <li>ship_prefix(p=2)-></li>
+    <li>narrative_name->[AdjectiveNatural] [thing_badass]</li>
+    <li>narrative_name->[AdjectiveLarge] [thing_badass]</li>
+    <li>narrative_name->[Direction] [thing_badass]</li>
+    <li>narrative_name->[thing_badass]</li>
+    <li>thing_badass->[AnimalBadass]</li>
+    <li>thing_badass->[AnimalBadass]-thợ săn</li>
+    <li>thing_badass->chiến thắng</li>
+    <li>thing_badass->chiến thắng</li>
+    <li>thing_badass->sự trả thù</li>
+    <li>thing_badass->sự đau đớn</li>
+    <li>thing_badass->sự dày vò</li>
+    <li>thing_badass->sự trả thù</li>
+    <li>thing_badass->nỗi thống khổ</li>
+    <li>thing_badass->khốn khổ</li>
+    <li>thing_badass->sự chuyên chế</li>
+    <li>thing_badass->khủng bố</li>
+    <li>thing_badass->sự hỗn loạn</li>
+    <li>thing_badass->tình trạng hỗn loạn</li>
+    <li>storyname(p=50)->[subject] của [story_result]</li>
+    <li>storyname(p=2)->[subject] của [BodyPart]</li>
+    <li>storyname->[subject] của [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->vui sướng</li>
+    <li>story_result->hân hoan</li>
+    <li>story_result->thắc mắc</li>
+    <li>story_result->kiêu hãnh</li>
+    <li>story_result->viên ngọc quý</li>
+    <li>story_result->phần thưởng</li>
+    <li>story_result->tiền thưởng</li>
+    <li>story_result->tôn kính</li>
+    <li>story_result->giải độc đắc</li>
+    <li>story_result->chiếc cúp</li>
+    <li>story_result->sự phá hủy</li>
+    <li>story_result->trận đại hồng thủy</li>
+    <li>story_result->sự đổ nát</li>
+    <li>story_result->sự lừa dối</li>
+    <li>story_result->mặt tiền</li>
+    <li>story_result->gian lận</li>
+    <li>greekmyth_noun->cuộc phiêu lưu</li>
+    <li>greekmyth_noun->cuộc phiêu lưu</li>
+    <li>greekmyth_noun->cây thược dược</li>
+    <li>greekmyth_noun->telemachus</li>
+    <li>greekmyth_noun->athena</li>
+    <li>greekmyth_noun->tư thế</li>
+    <li>greekmyth_noun->scilla</li>
+    <li>greekmyth_noun->Hermes</li>
+    <li>greekmyth_noun->phi hành gia</li>
+    <li>greekmyth_noun->Hermes</li>
+    <li>greekmyth_noun->helios</li>
+    <li>greekmyth_noun->đau nhức</li>
+    <li>greekmyth_noun->còi báo động</li>
+    <li>greekmyth_noun->Cyclops</li>
+    <li>greekmyth_noun->medusa</li>
+    <li>greekmyth_noun->gorgon</li>
+    <li>bird->chim ưng</li>
+    <li>bird->chim ưng</li>
+    <li>bird->chim ưng</li>
+    <li>bird->chim cắt</li>
+    <li>bird->con kên kên</li>
+    <li>flying_adjective(p=2)->bay</li>
+    <li>flying_adjective->trên không</li>
+    <li>flying_adjective->lơ lửng</li>
+    <li>flying_adjective->có cánh</li>
+    <li>ship_word(p=5)->tàu thủy</li>
+    <li>ship_word(p=5)->tàu hấp dẫn</li>
+    <li>ship_word(p=2)->[AdjectiveNatural]ship</li>
+    <li>ship_word->tàu chiến</li>
+    <li>ship_word->khinh hạm</li>
+    <li>ship_word->tàu</li>
+    <li>ship_word->đưa đón</li>
+    <li>ship_word->tàu tuần dương</li>
+    <li>ship_word->chuyên chở</li>
+    <li>ship_word->nhà bếp</li>
+    <li>ship_word->thuyền buồm</li>
+    <li>ship_word->tàu dài</li>
+    <li>ship_word->người chở hàng</li>
+    <li>ship_word->người nghiện rượu</li>
+    <li>ship_word->trireme</li>
+    <li>ship_word->zephyr</li>
+  </NamerGravship.rulePack.rulesStrings>
   
 </LanguageData>

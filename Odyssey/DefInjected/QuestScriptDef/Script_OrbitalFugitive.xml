@@ -25,7 +25,30 @@
     <li>reason->drunkenly profaning a peace ritual</li>
     <li>reason->the destruction of an orbital trade vessel</li>
   -->
-  <OrbitalFugitive.questDescriptionRules.rulesStrings>TODO</OrbitalFugitive.questDescriptionRules.rulesStrings>
+  <OrbitalFugitive.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Một AI ẩn danh đã yêu cầu bạn trợ giúp giải quyết một kẻ ngoài vòng pháp luật tên là [fugitive_nameDef]. AI tuyên bố [fugitive_nameDef] bị truy nã vì [reason_AI].\n\n[fugitive_nameDef] đã đánh cắp một kén vận chuyển và đã chạy trốn đến một nền tảng quỹ đạo bị bỏ hoang.\n\nSau khi nghe tin đồn về trọng lực của bạn, AI yêu cầu bạn đi đến nền tảng bị bỏ hoang và giết [fugitive_nameDef]. Đổi lại, nó sẽ thưởng cho bạn một thiết bị graftech.\n\nAI cảnh báo bạn rằng [fugitive_nameDef] có thể đi cùng với những tên cướp biển quỹ đạo thù địch.</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] trong số [asker_faction_name] đã gửi tin nhắn cho chúng tôi. Một kẻ chạy trốn tên [fugitive_nameDef] đã trốn thoát khỏi sự giam giữ của [asker_possessive] và sử dụng kén vận chuyển để chạy trốn đến một bệ quỹ đạo bị bỏ hoang. [fugitive_nameDef] đã bị giam giữ vì [reason].\n\nSau khi nghe tin đồn về trọng lực của bạn, [asker_faction_leaderTitle] yêu cầu bạn đi đến nền tảng bỏ hoang và giết [fugitive_nameDef]. Nếu bạn làm như vậy, [asker_nameDef] sẽ thưởng cho bạn một thiết bị graftech.\n\n[asker_nameDef] cảnh báo bạn rằng [fugitive_nameDef] có thể đang đồng hành cùng những tên cướp biển quỹ đạo thù địch.</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], [asker_royalTitleInCurrentFaction] trên [asker_faction_name], yêu cầu bạn truy tìm và tiêu diệt kẻ chạy trốn nguy hiểm được gọi là [fugitive_nameDef]. Kẻ chạy trốn bị truy nã vì [reason_royal].\n\n[fugitive_nameDef] đang ẩn náu trên một nền tảng quỹ đạo bị bỏ hoang và có thể được canh gác bởi những tên cướp biển quỹ đạo. Nếu bạn giết kẻ chạy trốn, [asker_nameDef] sẽ thưởng cho bạn một thiết bị gratech.</li>
+    <li>reason_AI->sự phá hủy nhiều lõi nhân vật cấp cao</li>
+    <li>reason_AI->phá hủy một vệ tinh AI</li>
+    <li>reason_AI->tội ác trên nhiều hành tinh xa xôi</li>
+    <li>reason_AI->buôn bán các hiện vật tâm linh trên quỹ đạo không có giấy phép</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->say rượu xúc phạm [asker_royalTitleInCurrentFaction] trong bài phát biểu đám cưới</li>
+    <li>reason_royal->cố gắng ám sát [asker_royalTitleInCurrentFaction]</li>
+    <li>reason_royal->vô tình làm nổ gói bọt lửa trong phi thuyền của đế quốc</li>
+    <li>reason_royal->việc sử dụng máy tạo lốc xoáy không đúng cách gần khu định cư của đế quốc</li>
+    <li>reason_royal->cố gắng dàn dựng một cuộc nổi loạn</li>
+    <li>reason_royal->sự phản bội</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->hợp tác với một nhóm sanguophage</li>
+    <li>reason->buôn bán hiện vật tâm linh nguy hiểm</li>
+    <li>reason->vụ trộm lớn và nhiều tội danh phá hoại công ty</li>
+    <li>reason->thí nghiệm di truyền trái phép</li>
+    <li>reason->kích động xung đột giữa các phe phái</li>
+    <li>reason->say rượu xúc phạm một nghi lễ hòa bình</li>
+    <li>reason->sự phá hủy một tàu thương mại quỹ đạo</li>
+  </OrbitalFugitive.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The Hunt for [fugitive_nameDef]</li>
     <li>questName->A Bounty for [fugitive_nameDef]</li>
@@ -37,6 +60,16 @@
     <li>criminal->Felon</li>
     <li>criminal->Renegade</li>
   -->
-  <OrbitalFugitive.questNameRules.rulesStrings>TODO</OrbitalFugitive.questNameRules.rulesStrings>
+  <OrbitalFugitive.questNameRules.rulesStrings>
+    <li>questName->Cuộc săn lùng [fugitive_nameDef]</li>
+    <li>questName->Tiền thưởng cho [fugitive_nameDef]</li>
+    <li>questName->[fugitive_nameDef] cái [criminal]</li>
+    <li>questName->Quỹ đạo [criminal]</li>
+    <li>criminal->Tội phạm</li>
+    <li>criminal->kẻ chạy trốn</li>
+    <li>criminal->ngoài vòng pháp luật</li>
+    <li>criminal->trọng tội</li>
+    <li>criminal->phản bội</li>
+  </OrbitalFugitive.questNameRules.rulesStrings>
   
 </LanguageData>

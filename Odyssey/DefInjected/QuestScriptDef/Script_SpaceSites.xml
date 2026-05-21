@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an abandoned orbital platform. You don't detect any signs of life.\n\nYou can break in to obtain the loot inside, but the platform probably has defense systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của một nền tảng quỹ đạo bị bỏ hoang. Bạn không phát hiện bất kỳ dấu hiệu nào của sự sống.\n\nBạn có thể đột nhập để lấy chiến lợi phẩm bên trong, nhưng nền tảng này có thể có hệ thống phòng thủ.\n\nBạn có thể di chuyển đến các vị trí trên quỹ đạo bằng trọng lực, phi thuyền hoặc kén vận chuyển.</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[ancientPlatAdj] [platform]</li>
     <li>questName->[PlaceOutlander] [platform]</li>
@@ -63,29 +65,92 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>TODO</OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)->[ancientPlatAdj] [platform]</li>
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platform] [greekLetter]</li>
+    <li>questName->[platAdj] [platform] [RomanNumeral]</li>
+    <li>ancientPlatAdj->bị bỏ rơi</li>
+    <li>ancientPlatAdj->cổ đại</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->ánh sao</li>
+    <li>platAdj->tinh vân</li>
+    <li>platAdj->chân trời</li>
+    <li>platAdj->nhật thực</li>
+    <li>platAdj->thiên đỉnh</li>
+    <li>platAdj->cực quang</li>
+    <li>platAdj->hào quang</li>
+    <li>platAdj->tân tinh</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->sự an ủi</li>
+    <li>platAdj->ánh sáng</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->tinh tú</li>
+    <li>platAdj->xin lỗi</li>
+    <li>platAdj->Ares</li>
+    <li>platAdj->âm phủ</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->tình yêu</li>
+    <li>platAdj->đồng hồ bấm giờ</li>
+    <li>platAdj->Zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->Hermes</li>
+    <li>platAdj->tập bản đồ</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->tiên phong</li>
+    <li>platAdj->bảo hộ</li>
+    <li>platAdj->chim sa</li>
+    <li>platAdj->lò rèn trên trời</li>
+    <li>platAdj->titan</li>
+    <li>platform(p=2)->Ga tàu</li>
+    <li>platform->nền tảng</li>
+    <li>platform->nền tảng quỹ đạo</li>
+    <li>platform->trung tâm quỹ đạo</li>
+    <li>platform(p=0.5)->cổng trời</li>
+    <li>platform(p=0.5)->tàu vũ trụ</li>
+    <li>platform(p=0.5)->cửa ngõ</li>
+    <li>greekLetter->alpha</li>
+    <li>greekLetter->phiên bản beta</li>
+    <li>greekLetter->theta</li>
+    <li>greekLetter->đồng bằng</li>
+    <li>greekLetter->zeta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy nền tảng này đã được người khác xác nhận quyền sở hữu. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an asteroid orbiting the planet. It contains significant amounts of [resource], and potentially other resources as well.\n\nOrbital miners steer asteroids into orbit so that they can be mined and the ore sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
   -->
-  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>TODO</OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của một tiểu hành tinh quay quanh hành tinh. Nó chứa một lượng đáng kể [resource] và các tài nguyên tiềm năng khác.\n\nNhững người khai thác quỹ đạo điều khiển các tiểu hành tinh vào quỹ đạo để chúng có thể được khai thác và bán quặng cho các nhà buôn quỹ đạo. Bạn không phát hiện bất kỳ dấu hiệu sự sống nào từ tiểu hành tinh này.\n\nBạn có thể tiếp cận tiểu hành tinh bằng các thùng vận chuyển, phi thuyền hoặc trọng lực. Trang bị cho cư dân của bạn đủ trang phục quỹ đạo trước khi khởi hành.</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[resource] Asteroid</li>
   -->
-  <OpportunitySite_Asteroid.questNameRules.rulesStrings>TODO</OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>questName->[resource] Tiểu hành tinh</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an orbital platform. You detect high levels of mechanoid activity.\n\nYou can scavenge valuables from the platform.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>TODO</OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của bệ quỹ đạo. Bạn phát hiện mức độ hoạt động cơ học cao.\n\nBạn có thể nhặt những vật có giá trị từ nền tảng.\n\nBạn có thể di chuyển đến các vị trí quỹ đạo bằng trọng lực, phi thuyền hoặc kén vận chuyển.</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[platAdj] [platform] [designation]</li>
     <li>questName->[platAdj] [platform]</li>
@@ -105,18 +170,38 @@
     <li>mechanoid->centipede</li>
     <li>mechanoid->cyclops</li>
   -->
-  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>TODO</OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->[platAdj] [platform] [designation]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=3)->máy móc</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->nguồn gốc</li>
+    <li>platAdj->tổng hợp</li>
+    <li>platAdj->cuộc họp</li>
+    <li>platAdj->sự hình thành</li>
+    <li>platform->nền tảng</li>
+    <li>platform->Ga tàu</li>
+    <li>platform->trung tâm</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->lưỡi hái</li>
+    <li>mechanoid->thương gia</li>
+    <li>mechanoid->con rết</li>
+    <li>mechanoid->Cyclops</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy nền tảng này đã được người khác xác nhận quyền sở hữu. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] an unusual asteroid orbiting the planet. The asteroid has a hollow core which contains several structures.\n\nYou can break in to obtain the loot inside.\n\nBe warned - the buildings may contain defense systems.</li>
   -->
-  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>TODO</OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] một tiểu hành tinh bất thường quay quanh hành tinh. Tiểu hành tinh này có lõi rỗng chứa một số cấu trúc.\n\nBạn có thể đột nhập để lấy chiến lợi phẩm bên trong.\n\nHãy cảnh báo - các tòa nhà có thể chứa hệ thống phòng thủ.</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[adjective] [orbital] [stash_noun]</li>
     <li>questName->[orbital] [stash_noun]</li>
@@ -127,14 +212,25 @@
     <li>stash_noun->Stash</li>
     <li>stash_noun->Cache</li>
   -->
-  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>TODO</OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>questName->[adjective] [orbital] [stash_noun]</li>
+    <li>questName->[orbital] [stash_noun]</li>
+    <li>adjective->ẩn giấu</li>
+    <li>adjective->bí mật</li>
+    <li>orbital->quỹ đạo</li>
+    <li>orbital->tiểu hành tinh</li>
+    <li>stash_noun->cất giữ</li>
+    <li>stash_noun->bộ nhớ đệm</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the coordinates of a massive piece of wreckage in orbit. It could contain valuable resources. Orbital debris fields are often occupied by hostile scavengers.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>TODO</OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] tọa độ của một mảnh vỡ lớn trên quỹ đạo. Nó có thể chứa các tài nguyên có giá trị. Các bãi rác quỹ đạo thường bị chiếm đóng bởi những kẻ nhặt rác thù địch.\n\nBạn có thể di chuyển đến các vị trí quỹ đạo bằng cách sử dụng trọng lực, phi thuyền hoặc tàu vận chuyển.</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=2)->the ruins of [platAdj] [platform]</li>
     <li>questName->[platAdj] [wreckage]</li>
@@ -190,18 +286,74 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>TODO</OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>questName(p=2)->tàn tích của [platAdj] [platform]</li>
+    <li>questName->[platAdj] [wreckage]</li>
+    <li>questName->[PlaceOutlander] [wreckage]</li>
+    <li>questName->[ruined] [platAdj] [platform]</li>
+    <li>platAdj->ánh sao</li>
+    <li>platAdj->tinh vân</li>
+    <li>platAdj->chân trời</li>
+    <li>platAdj->nhật thực</li>
+    <li>platAdj->thiên đỉnh</li>
+    <li>platAdj->cực quang</li>
+    <li>platAdj->hào quang</li>
+    <li>platAdj->tân tinh</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->sự an ủi</li>
+    <li>platAdj->ánh sáng</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->tinh tú</li>
+    <li>platAdj->xin lỗi</li>
+    <li>platAdj->Ares</li>
+    <li>platAdj->âm phủ</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->tình yêu</li>
+    <li>platAdj->đồng hồ bấm giờ</li>
+    <li>platAdj->Zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->Hermes</li>
+    <li>platAdj->tập bản đồ</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->tiên phong</li>
+    <li>platAdj->bảo hộ</li>
+    <li>platAdj->chim sa</li>
+    <li>platAdj->lò rèn trên trời</li>
+    <li>platAdj->titan</li>
+    <li>wreckage(p=2)->đống đổ nát</li>
+    <li>wreckage(p=2)->xác tàu đắm</li>
+    <li>wreckage->tàn tích quỹ đạo</li>
+    <li>wreckage->cánh đồng mảnh vụn</li>
+    <li>platform(p=2)->Ga tàu</li>
+    <li>platform->nền tảng</li>
+    <li>platform(p=0.5)->cổng trời</li>
+    <li>platform(p=0.5)->tàu vũ trụ</li>
+    <li>platform(p=0.5)->cửa ngõ</li>
+    <li>ruined->bị hủy hoại</li>
+    <li>ruined->bị phá hủy</li>
+    <li>ruined->đánh đắm</li>
+    <li>ruined->Mất</li>
+    <li>ruined->bị tàn phá</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the orbital wreck has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy xác tàu quỹ đạo đã được người khác xác nhận quyền sở hữu. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an orbital satellite. These satellites are unmanned and often incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms.\n\nYou can scavenge valuable technology from the satellites but be warned, satellites are heavily guarded by ancient security systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>TODO</OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của một vệ tinh quỹ đạo. Những vệ tinh này không có người lái và thường không có khả năng hỗ trợ sự sống. Vệ tinh phục vụ nhiều mục đích khác nhau, từ thu thập năng lượng đến nền tảng vũ khí.\n\nBạn có thể thu thập công nghệ có giá trị từ các vệ tinh nhưng hãy cảnh báo, các vệ tinh được bảo vệ nghiêm ngặt bởi các hệ thống an ninh cổ xưa.\n\nBạn có thể di chuyển đến các vị trí trên quỹ đạo bằng trọng lực, phi thuyền hoặc kén vận chuyển.</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[PlaceOutlander] [platform]</li>
     <li>questName->[platAdj] [platform]</li>
@@ -235,12 +387,44 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_Satellite.questNameRules.rulesStrings>TODO</OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>questName->[PlaceOutlander] [platform]</li>
+    <li>questName->[platAdj] [platform]</li>
+    <li>platAdj(p=4)->quỹ đạo</li>
+    <li>platAdj->quan sát</li>
+    <li>platAdj->mạng</li>
+    <li>platAdj->đế quốc</li>
+    <li>platAdj->mặt trời</li>
+    <li>platAdj->ánh sao</li>
+    <li>platAdj->tinh vân</li>
+    <li>platAdj->chân trời</li>
+    <li>platAdj->nhật thực</li>
+    <li>platAdj->thiên đỉnh</li>
+    <li>platAdj->cực quang</li>
+    <li>platAdj->hào quang</li>
+    <li>platAdj->tân tinh</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->sự an ủi</li>
+    <li>platAdj->ánh sáng</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->tinh tú</li>
+    <li>platAdj->tiếng vọng</li>
+    <li>platform(p=4)->vệ tinh</li>
+    <li>platform->tiếp sức</li>
+    <li>platform->nhẫn</li>
+    <li>platform->liên kết vệ tinh</li>
+    <li>platform->lính gác</li>
+    <li>platform->xuất sắc</li>
+    <li>platform->đèn hiệu</li>
+    <li>platform->người ném bom</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Bạn đã phát hiện ra</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
   <!-- EN: Scanner readings indicate the satellite has boosted itself into a higher, unreachable orbit. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>Dữ liệu từ máy quét cho thấy vệ tinh đã tự đẩy mình lên quỹ đạo cao hơn, không thể tiếp cận được. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

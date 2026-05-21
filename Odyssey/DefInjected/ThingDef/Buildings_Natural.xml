@@ -2,58 +2,66 @@
 <LanguageData>
   
   <!-- EN: ancient light -->
-  <AncientEmergencyLight_Blue.label>TODO</AncientEmergencyLight_Blue.label>
+  <AncientEmergencyLight_Blue.label>ánh sáng cổ xưa</AncientEmergencyLight_Blue.label>
   <!-- EN: An ancient light containing a long-lasting battery. -->
-  <AncientEmergencyLight_Blue.description>TODO</AncientEmergencyLight_Blue.description>
+  <AncientEmergencyLight_Blue.description>Một chiếc đèn cổ chứa pin có tuổi thọ cao.</AncientEmergencyLight_Blue.description>
   
   <!-- EN: mechanoid light -->
-  <AncientEmergencyLight_Green.label>TODO</AncientEmergencyLight_Green.label>
+  <AncientEmergencyLight_Green.label>ánh sáng cơ học</AncientEmergencyLight_Green.label>
   <!-- EN: A light used in mechanoid facilities. The green hue is optimal for mechanoid optical arrays. -->
-  <AncientEmergencyLight_Green.description>TODO</AncientEmergencyLight_Green.description>
+  <AncientEmergencyLight_Green.description>Một loại đèn được sử dụng trong các cơ sở cơ khí. Màu xanh lá cây là tối ưu cho mảng quang học cơ học.</AncientEmergencyLight_Green.description>
   
   <!-- EN: ancient emergency light -->
-  <AncientEmergencyLight_Red.label>TODO</AncientEmergencyLight_Red.label>
+  <AncientEmergencyLight_Red.label>đèn khẩn cấp cổ xưa</AncientEmergencyLight_Red.label>
   <!-- EN: An ancient light containing a long-lasting battery. -->
-  <AncientEmergencyLight_Red.description>TODO</AncientEmergencyLight_Red.description>
+  <AncientEmergencyLight_Red.description>Một chiếc đèn cổ chứa pin có tuổi thọ cao.</AncientEmergencyLight_Red.description>
   
   <!-- EN: ancient heat vent -->
-  <AncientHeatVent.label>TODO</AncientHeatVent.label>
+  <AncientHeatVent.label>lỗ thoát nhiệt cổ xưa</AncientHeatVent.label>
   <!-- EN: A massive duct that drops endlessly into the ground. It will regularly vent heat from an underground megastructure, dramatically raising the temperature of the surrounding area. -->
-  <AncientHeatVent.description>TODO</AncientHeatVent.description>
+  <AncientHeatVent.description>Một ống dẫn khổng lồ rơi vô tận vào lòng đất. Nó sẽ thường xuyên thoát nhiệt từ một cơ sở hạ tầng dưới lòng đất, làm tăng đáng kể nhiệt độ của khu vực xung quanh.</AncientHeatVent.description>
   
   <!-- EN: ancient smoke vent -->
-  <AncientSmokeVent.label>TODO</AncientSmokeVent.label>
+  <AncientSmokeVent.label>lỗ thoát khói cổ</AncientSmokeVent.label>
   <!-- EN: The exhaust vent of some long forgotten underground megastructure. It periodically vents a large amount of smoke, blocking the sun for days at a time. -->
-  <AncientSmokeVent.description>TODO</AncientSmokeVent.description>
+  <AncientSmokeVent.description>Ống xả của một công trình ngầm nào đó đã bị lãng quên từ lâu. Nó định kỳ thải ra một lượng khói lớn, chặn ánh nắng mặt trời trong nhiều ngày.</AncientSmokeVent.description>
   
   <!-- EN: ancient toxic vent -->
-  <AncientToxVent.label>TODO</AncientToxVent.label>
+  <AncientToxVent.label>lỗ thông hơi độc cổ xưa</AncientToxVent.label>
   <!-- EN: A massive duct that vents toxic fumes from an underground megastructure. It will regularly cause toxic fallout in the area. -->
-  <AncientToxVent.description>TODO</AncientToxVent.description>
+  <AncientToxVent.description>Một ống dẫn khổng lồ thoát khói độc từ một công trình ngầm dưới lòng đất. Nó sẽ thường xuyên gây ra bụi phóng xạ độc hại trong khu vực.</AncientToxVent.description>
   
   <!-- EN: burrow wall -->
-  <BurrowWall.label>TODO</BurrowWall.label>
+  <BurrowWall.label>tường hang</BurrowWall.label>
   <!-- EN: A compact mix of dirt, rock, and insect secretion. -->
-  <BurrowWall.description>TODO</BurrowWall.description>
+  <BurrowWall.description>Một hỗn hợp nhỏ gọn của bụi bẩn, đá và côn trùng tiết ra.</BurrowWall.description>
   
   <!-- EN: sulfur spout -->
-  <GeothermalVent.label>TODO</GeothermalVent.label>
+  <GeothermalVent.label>vòi lưu huỳnh</GeothermalVent.label>
   <!-- EN: A naturally-occurring break in the ground from which volcanic gases escape. These vents bring nutrients to the surface from deep underground. Collectively, the fumes they spew are enough to block out the sun. -->
-  <GeothermalVent.description>TODO</GeothermalVent.description>
+  <GeothermalVent.description>Một vết nứt xảy ra một cách tự nhiên trong lòng đất từ ​​đó khí núi lửa thoát ra. Những lỗ thông hơi này mang chất dinh dưỡng lên bề mặt từ sâu dưới lòng đất. Nhìn chung, khói chúng phun ra đủ để che khuất ánh nắng mặt trời.</GeothermalVent.description>
   
   <!-- EN: cave entrance -->
-  <InsectLairEntrance.label>TODO</InsectLairEntrance.label>
+  <InsectLairEntrance.label>lối vào hang động</InsectLairEntrance.label>
   <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
-  <InsectLairEntrance.description>TODO</InsectLairEntrance.description>
+  <InsectLairEntrance.description>Lối vào mạng lưới hang động. Có thể leo xuống các hang động bên dưới.</InsectLairEntrance.description>
+  <!-- EN: Cannot collapse -->
+  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>Không thể thu gọn</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
+  <!-- EN: Collapsing the cave entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <InsectLairEntrance.comps.CompSealable.confirmSealText>Việc sập cửa hang là vĩnh viễn. Mọi thứ hoặc bất kỳ ai còn lại bên dưới sẽ bị mất vĩnh viễn.{0}\n\nBạn có chắc chắn muốn tiếp tục không?</InsectLairEntrance.comps.CompSealable.confirmSealText>
+  <!-- EN: Choose a colonist to permanently collapse the entrance. Anything or anyone left below will be lost forever. -->
+  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>Chọn một cư dân để đánh sập vĩnh viễn lối vào. Bất cứ điều gì hoặc bất cứ ai còn lại dưới đây sẽ bị mất vĩnh viễn.</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
+  <!-- EN: Collapse cave entrance -->
+  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>Sụp đổ lối vào hang động</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
   
   <!-- EN: life support unit -->
-  <LifeSupportUnit.label>TODO</LifeSupportUnit.label>
+  <LifeSupportUnit.label>đơn vị hỗ trợ cuộc sống</LifeSupportUnit.label>
   <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->
-  <LifeSupportUnit.description>TODO</LifeSupportUnit.description>
+  <LifeSupportUnit.description>Một đơn vị được kết nối với mạng lưới hỗ trợ sự sống lớn hơn của nền tảng quỹ đạo. Nó giữ cho phòng được sưởi ấm và điều áp.</LifeSupportUnit.description>
   
   <!-- EN: obsidian -->
-  <MineableObsidian.label>TODO</MineableObsidian.label>
+  <MineableObsidian.label>đá hắc thạch</MineableObsidian.label>
   <!-- EN: Volcanic rock formed by rapidly cooling lava. It can be mined for obsidian glass. -->
-  <MineableObsidian.description>TODO</MineableObsidian.description>
+  <MineableObsidian.description>Đá núi lửa được hình thành do dung nham nguội nhanh. Nó có thể được khai thác để lấy thủy tinh obsidian.</MineableObsidian.description>
   
 </LanguageData>

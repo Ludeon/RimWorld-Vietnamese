@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: Quality factors determine the engine's cooldown duration and the chance for a mishap when landing. -->
-  <GravshipLaunch.description>TODO</GravshipLaunch.description>
+  <GravshipLaunch.description>Các yếu tố chất lượng quyết định thời gian hồi chiêu của động cơ và khả năng xảy ra sự cố khi hạ cánh.</GravshipLaunch.description>
   <!-- EN: {PAWN_labelShort}'s piloting ability -->
-  <GravshipLaunch.comps.0.label>TODO</GravshipLaunch.comps.0.label>
+  <GravshipLaunch.comps.0.label>Khả năng lái của {PAWN_labelShort}</GravshipLaunch.comps.0.label>
   <!-- EN: pilot's piloting ability -->
-  <GravshipLaunch.comps.0.labelAbstract>TODO</GravshipLaunch.comps.0.labelAbstract>
+  <GravshipLaunch.comps.0.labelAbstract>khả năng lái của phi công</GravshipLaunch.comps.0.labelAbstract>
   <!-- EN: {PAWN_labelShort}'s piloting ability -->
-  <GravshipLaunch.comps.1.label>TODO</GravshipLaunch.comps.1.label>
+  <GravshipLaunch.comps.1.label>Khả năng lái của {PAWN_labelShort}</GravshipLaunch.comps.1.label>
   <!-- EN: copilot's piloting ability -->
-  <GravshipLaunch.comps.1.labelAbstract>TODO</GravshipLaunch.comps.1.labelAbstract>
+  <GravshipLaunch.comps.1.labelAbstract>khả năng lái của phi công phụ</GravshipLaunch.comps.1.labelAbstract>
   <!-- EN: crew count -->
-  <GravshipLaunch.comps.2.label>TODO</GravshipLaunch.comps.2.label>
+  <GravshipLaunch.comps.2.label>số lượng thủy thủ đoàn</GravshipLaunch.comps.2.label>
   <!-- EN: small thrusters -->
-  <GravshipLaunch.comps.3.label>TODO</GravshipLaunch.comps.3.label>
+  <GravshipLaunch.comps.3.label>máy đẩy nhỏ</GravshipLaunch.comps.3.label>
   <!-- EN: large thrusters -->
-  <GravshipLaunch.comps.4.label>TODO</GravshipLaunch.comps.4.label>
+  <GravshipLaunch.comps.4.label>máy đẩy lớn</GravshipLaunch.comps.4.label>
   <!-- EN: pilot subpersona core -->
-  <GravshipLaunch.comps.5.label>TODO</GravshipLaunch.comps.5.label>
+  <GravshipLaunch.comps.5.label>lõi nhân vật phi công</GravshipLaunch.comps.5.label>
   <!-- EN: At the current quality, the gravship won't be able to launch again for {0_time} after landing. -->
-  <GravshipLaunch.extraOutcomeDescriptions.0.description>TODO</GravshipLaunch.extraOutcomeDescriptions.0.description>
+  <GravshipLaunch.extraOutcomeDescriptions.0.description>Với chất lượng hiện tại, trọng lực sẽ không thể khởi động lại trong {0_time} sau khi hạ cánh.</GravshipLaunch.extraOutcomeDescriptions.0.description>
   <!-- EN: Additionally, there's a {0_percentage} chance of having a minor incident when landing the gravship. -->
-  <GravshipLaunch.extraOutcomeDescriptions.1.description>TODO</GravshipLaunch.extraOutcomeDescriptions.1.description>
+  <GravshipLaunch.extraOutcomeDescriptions.1.description>Ngoài ra, có {0_percentage} khả năng xảy ra sự cố nhỏ khi hạ cánh trọng lực.</GravshipLaunch.extraOutcomeDescriptions.1.description>
   
 </LanguageData>

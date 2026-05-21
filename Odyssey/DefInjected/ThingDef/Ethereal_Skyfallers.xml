@@ -1,19 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: drop pod (incoming) -->
-  <DropPodIncomingMechanoidSoft.label>TODO</DropPodIncomingMechanoidSoft.label>
+  <!-- EN: ancient drop pod (incoming) -->
+  <DropPodIncomingAncient.label>kén vận chuyển cổ xưa (đang tới)</DropPodIncomingAncient.label>
+  
+  <!-- EN: mechanoid drop pod (incoming) -->
+  <DropPodIncomingMechanoidSoft.label>kén vận chuyển cơ khí (đang tới)</DropPodIncomingMechanoidSoft.label>
+  
+  <!-- EN: ancient drop pod (leaving) -->
+  <DropPodLeavingAncient.label>kén vận chuyển cổ xưa (rời đi)</DropPodLeavingAncient.label>
   
   <!-- EN: mechanoid drop pod (leaving) -->
-  <DropPodLeavingMechanoid.label>TODO</DropPodLeavingMechanoid.label>
+  <DropPodLeavingMechanoid.label>kén vận chuyển cơ khí (rời đi)</DropPodLeavingMechanoid.label>
   
   <!-- EN: lava rock (incoming) -->
-  <LavaRockIncoming.label>TODO</LavaRockIncoming.label>
+  <LavaRockIncoming.label>đá nham thạch (đến)</LavaRockIncoming.label>
   
   <!-- EN: passenger shuttle (incoming) -->
-  <PassengerShuttleIncoming.label>TODO</PassengerShuttleIncoming.label>
+  <PassengerShuttleIncoming.label>xe đưa đón khách (đến)</PassengerShuttleIncoming.label>
   
   <!-- EN: passenger shuttle (leaving) -->
-  <PassengerShuttleLeaving.label>TODO</PassengerShuttleLeaving.label>
+  <PassengerShuttleLeaving.label>xe đưa đón hành khách (đi)</PassengerShuttleLeaving.label>
   
 </LanguageData>

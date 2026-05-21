@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: heavy bridge -->
-  <HeavyBridge.label>TODO</HeavyBridge.label>
+  <HeavyBridge.label>cây cầu nặng</HeavyBridge.label>
   <!-- EN: A stronger version of the basic bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
-  <HeavyBridge.description>TODO</HeavyBridge.description>
+  <HeavyBridge.description>Một phiên bản mạnh mẽ hơn của cây cầu cơ bản hỗ trợ các kết cấu nặng ở trên. Bạn có thể xây dựng cả một thuộc địa trên mặt nước bằng thứ này.</HeavyBridge.description>
   
   <!-- EN: gravship substructure -->
-  <Substructure.label>TODO</Substructure.label>
-  <!-- EN: A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. -->
-  <Substructure.description>TODO</Substructure.description>
+  <Substructure.label>cấu trúc phụ của trọng lực</Substructure.label>
+  <!-- EN: A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine.\n\nGravship substructure can be removed using the 'remove foundation' designator. -->
+  <Substructure.description>Một cấu trúc giàn nhẹ có sàn phía trên tạo thành sàn của tàu trọng lực. Chỉ những thứ ở trên cùng của cấu trúc phụ này mới có thể được nâng lên bằng trường bay của động cơ trọng lực. Tầng này phải được xây dựng trong phạm vi của động cơ trọng lực.\n\nCấu trúc phụ của Gravship có thể được loại bỏ bằng cách sử dụng công cụ chỉ định 'loại bỏ nền móng'.</Substructure.description>
   
 </LanguageData>

@@ -16,7 +16,21 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-  <NamerGlacialPlain.rulePack.rulesStrings>TODO</NamerGlacialPlain.rulePack.rulesStrings>
+  <NamerGlacialPlain.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[glacialPlain_adjective] [narrative_name]</li>
+    <li>glacialPlain_adjective(p=2)->băng giá</li>
+    <li>glacialPlain_adjective->lạnh lùng</li>
+    <li>glacialPlain_adjective->băng giá</li>
+    <li>glacialPlain_adjective->hùng vĩ</li>
+    <li>glacialPlain_adjective->đông lạnh</li>
+    <li>terrain_word->sông băng</li>
+    <li>terrain_word(p=0.5)->bãi băng</li>
+    <li>terrain_word(p=0.5)->chỏm băng</li>
+    <li>terrain_word(p=0.3)->cánh đồng</li>
+    <li>terrain_word(p=0.3)->đồng bằng băng giá</li>
+    <li>terrain_word(p=0.3)->kéo dài</li>
+    <li>terrain_word(p=0.3)->đường</li>
+  </NamerGlacialPlain.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
@@ -31,7 +45,19 @@
     <li>terrain_word->darklands</li>
     <li>terrain_word->dark forest</li>
   -->
-  <NamerGlowforest.rulePack.rulesStrings>TODO</NamerGlowforest.rulePack.rulesStrings>
+  <NamerGlowforest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
+    <li>glowForest_adjective(p=2)->nấm</li>
+    <li>glowForest_adjective->nở hoa</li>
+    <li>glowForest_adjective->tối tăm</li>
+    <li>glowForest_adjective->phát triển quá mức</li>
+    <li>glowForest_adjective->xương xẩu</li>
+    <li>terrain_word(p=3)->rừng phát sáng</li>
+    <li>terrain_word->giường sợi nấm</li>
+    <li>terrain_word->rừng nấm</li>
+    <li>terrain_word->vùng đất tối</li>
+    <li>terrain_word->rừng tối</li>
+  </NamerGlowforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
@@ -47,7 +73,20 @@
     <li>terrain_word->steppe</li>
     <li>terrain_word->flats</li>
   -->
-  <NamerGrasslands.rulePack.rulesStrings>TODO</NamerGrasslands.rulePack.rulesStrings>
+  <NamerGrasslands.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
+    <li>grasslands_adjective(p=2)->phẳng</li>
+    <li>grasslands_adjective->khô</li>
+    <li>grasslands_adjective->lộng gió</li>
+    <li>grasslands_adjective->lăn</li>
+    <li>grasslands_adjective->vô tận</li>
+    <li>terrain_word(p=2)->đồng cỏ</li>
+    <li>terrain_word(p=2)->đồng cỏ</li>
+    <li>terrain_word(p=2)->đồng bằng</li>
+    <li>terrain_word->xavan</li>
+    <li>terrain_word->thảo nguyên</li>
+    <li>terrain_word->căn hộ</li>
+  </NamerGrasslands.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
@@ -65,7 +104,22 @@
     <li>terrain_word->inferno</li>
     <li>terrain_word->range</li>
   -->
-  <NamerLavaField.rulePack.rulesStrings>TODO</NamerLavaField.rulePack.rulesStrings>
+  <NamerLavaField.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
+    <li>lavaField_adjective(p=2)->núi lửa</li>
+    <li>lavaField_adjective->bốc lửa</li>
+    <li>lavaField_adjective->địa ngục</li>
+    <li>lavaField_adjective->đốt cháy</li>
+    <li>lavaField_adjective->rực sáng</li>
+    <li>terrain_word(p=3)->cánh đồng dung nham</li>
+    <li>terrain_word->rạn nứt</li>
+    <li>terrain_word->cao nguyên</li>
+    <li>terrain_word->đồng bằng magma</li>
+    <li>terrain_word->trút giận</li>
+    <li>terrain_word->lò nung</li>
+    <li>terrain_word->địa ngục</li>
+    <li>terrain_word->phạm vi</li>
+  </NamerLavaField.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
@@ -87,6 +141,25 @@
     <li>terrain_word->lands</li>
     <li>terrain_word->bastion</li>
   -->
-  <NamerScarlands.rulePack.rulesStrings>TODO</NamerScarlands.rulePack.rulesStrings>
+  <NamerScarlands.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
+    <li>r_name(p=0.2)->[narrative_name] [terrain_word]</li>
+    <li>ruin_adjective(p=2)->bị hủy hoại</li>
+    <li>ruin_adjective->cổ đại</li>
+    <li>ruin_adjective->cũ</li>
+    <li>ruin_adjective->tan vỡ</li>
+    <li>ruin_adjective->tàn lụi</li>
+    <li>ruin_adjective->tro tàn</li>
+    <li>terrain_word(p=6)->tàn tích</li>
+    <li>terrain_word(p=3)->vùng đất đỏ tươi</li>
+    <li>terrain_word->cơ sở hạ tầng</li>
+    <li>terrain_word->vùng đất hoang</li>
+    <li>terrain_word->rác thải</li>
+    <li>terrain_word->cằn cỗi</li>
+    <li>terrain_word->vết tích</li>
+    <li>terrain_word->vùng đất độc tố</li>
+    <li>terrain_word->vùng đất</li>
+    <li>terrain_word->pháo đài</li>
+  </NamerScarlands.rulePack.rulesStrings>
   
 </LanguageData>

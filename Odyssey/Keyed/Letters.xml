@@ -2,150 +2,156 @@
 <LanguageData>
 
   <!-- EN: {FACTION_pawnsPlural} from {FACTION_name} are attacking! They've used the gravcore to lure you into an ambush. -->
-  <GravcoreAbandonedSettlementRaid>TODO</GravcoreAbandonedSettlementRaid>
+  <GravcoreAbandonedSettlementRaid>{FACTION_pawnsPlural} từ {FACTION_name} đang tấn công! Họ đã sử dụng gravecore để dụ bạn vào cuộc phục kích.</GravcoreAbandonedSettlementRaid>
   <!-- EN: More reinforcements are on their way, and will arrive in the next few days. Prepare for their attack, or escape before they arrive. -->
-  <GravcoreAbandonedSettlementRaid_Reinforcements>TODO</GravcoreAbandonedSettlementRaid_Reinforcements>
+  <GravcoreAbandonedSettlementRaid_Reinforcements>Nhiều quân tiếp viện hơn đang trên đường đến và sẽ đến trong vài ngày tới. Chuẩn bị cho cuộc tấn công của họ hoặc trốn thoát trước khi họ đến.</GravcoreAbandonedSettlementRaid_Reinforcements>
   
   <!-- EN: Relay defense response -->
-  <GravcoreMechRelayRaidLetterLabel>TODO</GravcoreMechRelayRaidLetterLabel>
+  <GravcoreMechRelayRaidLetterLabel>Phản ứng phòng thủ chuyển tiếp</GravcoreMechRelayRaidLetterLabel>
   <!-- EN: Mechanoids are arriving to defend the relay!\n\nThey are arriving by transport pod and will attack immediately. -->
-  <GravcoreMechRelayRaidLetterText>TODO</GravcoreMechRelayRaidLetterText>
+  <GravcoreMechRelayRaidLetterText>Người máy đang đến để bảo vệ cuộc tiếp sức!\n\nChúng đang đến bằng tàu vận chuyển và sẽ tấn công ngay lập tức.</GravcoreMechRelayRaidLetterText>
   
   <!-- EN: Amongst the remnants of the crashed mechanoid platform, a still-intact grav engine hums with energy.\n\nYou can build gravship substructure around the engine to create a new gravship. The engine pushes against gravity, levitating the ship and allowing long-distance travel.\n\nLaunch a gravship by researching basic gravtech, then building fuel tanks, thrusters, and a pilot console.\n\nLaunching a gravship will abandon your current map unless you build a grav anchor first.\n\n  - Research unlocked: Basic gravtech\n  - Flooring unlocked: Gravship substructure -->
-  <GravEngineInspectedLetterContents>TODO</GravEngineInspectedLetterContents>
+  <GravEngineInspectedLetterContents>Trong số những tàn tích còn sót lại của nền tảng cơ khí bị rơi, một động cơ trọng lực vẫn còn nguyên vẹn đang hoạt động với năng lượng.\n\nBạn có thể xây dựng cấu trúc phụ của trọng lực xung quanh động cơ để tạo ra một trọng lực mới. Động cơ chống lại trọng lực, nâng con tàu lên và cho phép di chuyển quãng đường dài.\n\nKhởi động tàu trọng lực bằng cách nghiên cứu công nghệ trọng lực cơ bản, sau đó chế tạo thùng nhiên liệu, bộ đẩy và bảng điều khiển phi công.\n\nViệc phóng tàu trọng lực sẽ loại bỏ bản đồ hiện tại của bạn trừ khi bạn xây dựng một mỏ neo trọng lực trước.\n\n - Nghiên cứu đã mở khóa: Cơ bản graftech\n - Đã mở khóa sàn: Cấu trúc phụ của Gravship</GravEngineInspectedLetterContents>
   <!-- EN: View quest -->
   <ViewQuest>Xem nhiệm vụ</ViewQuest>
   
   <!-- Asteroid -->
   <!-- EN: {RESOURCE} asteroid -->
-  <AsteroidLetter>TODO</AsteroidLetter> 
+  <AsteroidLetter>{RESOURCE} tiểu hành tinh</AsteroidLetter> 
   <!-- EN: You've discovered the location of an asteroid orbiting the planet. It contains significant amounts of {RESOURCE}, and potentially other resources.\n\nOrbital miners steer valuable asteroids into planetary orbit so that they can be easily mined and sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. -->
-  <AsteroidLetterText>TODO</AsteroidLetterText>
+  <AsteroidLetterText>Bạn đã phát hiện ra vị trí của một tiểu hành tinh quay quanh hành tinh. Nó chứa một lượng đáng kể {RESOURCE} và các tài nguyên tiềm năng khác.\n\nNhững người khai thác quỹ đạo điều khiển các tiểu hành tinh có giá trị vào quỹ đạo hành tinh để chúng có thể dễ dàng khai thác và bán cho các nhà buôn quỹ đạo. Bạn không phát hiện bất kỳ dấu hiệu sự sống nào từ tiểu hành tinh này.\n\nBạn có thể tiếp cận tiểu hành tinh bằng tàu vận chuyển, phi thuyền hoặc gravship.</AsteroidLetterText>
 
   <!-- EN: {RESOURCE} asteroid -->
-  <AsteroidName>TODO</AsteroidName>
+  <AsteroidName>{RESOURCE} tiểu hành tinh</AsteroidName>
 
   <!-- Ancient Reactor -->
   <!-- EN: Ancient reactor -->
-  <AncientReactorArrivedLetter>TODO</AncientReactorArrivedLetter>
+  <AncientReactorArrivedLetter>lò phản ứng cổ xưa</AncientReactorArrivedLetter>
   <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is damaged and leaking, covering the region in toxic fallout. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
-  <AncientReactorArrivedLetterText>TODO</AncientReactorArrivedLetterText>
+  <AncientReactorArrivedLetterText>Một lò phản ứng cổ xưa được giấu trong đống đổ nát gần đó. Lò phản ứng bị hư hỏng và rò rỉ, bao phủ khu vực trong bụi phóng xạ độc hại. Xác định vị trí và vô hiệu hóa lò phản ứng để thu được trọng lực và ngăn chặn bụi phóng xạ.</AncientReactorArrivedLetterText>
 
   <!-- Frozen Terraformer -->
   <!-- EN: Ancient terraformer -->
-  <FrozenTerraformerArrivedLetter>TODO</FrozenTerraformerArrivedLetter>
+  <FrozenTerraformerArrivedLetter>máy địa hình cổ đại</FrozenTerraformerArrivedLetter>
   <!-- EN: The malfunctioning terraformer has encased itself in solid ice. The gravcore energy signal is coming from somewhere within. Find and destroy the terraformer to obtain the gravcore. -->
-  <FrozenTerraformerArrivedLetterText>TODO</FrozenTerraformerArrivedLetterText>
+  <FrozenTerraformerArrivedLetterText>Máy địa hình bị trục trặc đã tự bọc mình trong lớp băng rắn. Tín hiệu năng lượng gradcore đang đến từ đâu đó bên trong. Tìm và tiêu diệt terraformer để lấy gravecore.</FrozenTerraformerArrivedLetterText>
 
   <!-- Ancient Stockpile -->
   <!-- EN: Ancient stockpile -->
-  <AncientStockpileArrivedLetter>TODO</AncientStockpileArrivedLetter>
+  <AncientStockpileArrivedLetter>kho đồ cổ</AncientStockpileArrivedLetter>
   <!-- EN: The gravcore energy signal is coming from one of the nearby underground stockpiles. Hack the entrances and search the stockpiles to find the gravcore.\n\nBe careful, some of the defense systems may still be active. -->
-  <AncientStockpileArrivedLetterText>TODO</AncientStockpileArrivedLetterText>
+  <AncientStockpileArrivedLetterText>Tín hiệu năng lượng trọng lực đang đến từ một trong những kho dự trữ dưới lòng đất gần đó. Hack các lối vào và lục soát kho dự trữ để tìm gravecore.\n\nHãy cẩn thận, một số hệ thống phòng thủ có thể vẫn còn hoạt động.</AncientStockpileArrivedLetterText>
 
   <!-- Orbital Mechanoid Platform -->
   <!-- EN: Mechanoid platform -->
-  <OrbitalMechanoidPlatformLetterArrived>TODO</OrbitalMechanoidPlatformLetterArrived>
+  <OrbitalMechanoidPlatformLetterArrived>Nền tảng cơ khí</OrbitalMechanoidPlatformLetterArrived>
   <!-- EN: This orbital platform is built to service and deploy combat mechanoids, likely as part of some ancient planet-spanning war machine.\n\nThe gravcore signal is coming from somewhere within. -->
-  <OrbitalMechanoidPlatformLetterArrivedText>TODO</OrbitalMechanoidPlatformLetterArrivedText>
+  <OrbitalMechanoidPlatformLetterArrivedText>Nền tảng quỹ đạo này được xây dựng để phục vụ và triển khai các cỗ máy chiến đấu, có thể là một phần của cỗ máy chiến tranh trải dài khắp hành tinh cổ đại.\n\nTín hiệu gravecore đang đến từ đâu đó bên trong.</OrbitalMechanoidPlatformLetterArrivedText>
 
   <!-- Orbital Ancient Platform -->
   <!-- EN: Ancient platform -->
-  <OrbitalAncientPlatformLetterArrived>TODO</OrbitalAncientPlatformLetterArrived>
+  <OrbitalAncientPlatformLetterArrived>Nền tảng cổ xưa</OrbitalAncientPlatformLetterArrived>
   <!-- EN: The people who once inhabited this orbital platform are long gone and its original purpose has long been forgotten.\n\nThe gravcore signal is coming from somewhere within. -->
-  <OrbitalAncientPlatformLetterArrivedText>TODO</OrbitalAncientPlatformLetterArrivedText>
+  <OrbitalAncientPlatformLetterArrivedText>Những người từng sinh sống trên nền tảng quỹ đạo này đã qua đời từ lâu và mục đích ban đầu của nó đã bị lãng quên từ lâu.\n\nTín hiệu gravecore đang đến từ đâu đó bên trong.</OrbitalAncientPlatformLetterArrivedText>
   
   <!-- Ancient Reactor -->
   <!-- EN: Crashed mechanoid platform -->
-  <CrashedPlatformArrivedLetter>TODO</CrashedPlatformArrivedLetter>
+  <CrashedPlatformArrivedLetter>nền tảng cơ khí bị rơi</CrashedPlatformArrivedLetter>
   <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
-  <CrashedPlatformArrivedLetterText>TODO</CrashedPlatformArrivedLetterText>
+  <CrashedPlatformArrivedLetterText>Phần còn lại của một nền tảng quỹ đạo nằm rải rác gần đó. Hãy cẩn thận, đống đổ nát có chứa các máy móc thù địch.\n\nTín hiệu trọng lực đang đến từ đâu đó trong khu vực xảy ra vụ tai nạn.</CrashedPlatformArrivedLetterText>
 
   <!-- Lava Incidents-->
   <!-- EN: Lava emergence -->
-  <LetterLabelLavaEmergence>TODO</LetterLabelLavaEmergence>
+  <LetterLabelLavaEmergence>Dung nham xuất hiện</LetterLabelLavaEmergence>
   <!-- EN: Lava is emerging from cracks in the ground! It'll continue to pool until it creates a small lake. It will then take several days to cool, after which it can be removed. -->
-  <LetterLavaEmergence>TODO</LetterLavaEmergence>
+  <LetterLavaEmergence>Dung nham đang nổi lên từ các vết nứt trên mặt đất! Nó sẽ tiếp tục bơi cho đến khi tạo thành một hồ nước nhỏ. Sau đó sẽ mất vài ngày để nguội, sau đó nó có thể được gỡ bỏ.</LetterLavaEmergence>
   <!-- EN: Lava flow -->
-  <LetterLabelLavaFlow>TODO</LetterLabelLavaFlow>
+  <LetterLabelLavaFlow>dòng dung nham</LetterLabelLavaFlow>
   <!-- EN: Lava has begun to pour into the region, flooding the low-lying volcanic rock. Keep your colonists out of harm's way! -->
-  <LetterLavaFlow>TODO</LetterLavaFlow>
+  <LetterLavaFlow>Dung nham đã bắt đầu đổ vào khu vực, làm ngập các tảng đá núi lửa nằm ở vùng trũng. Giữ cư dân của bạn tránh bị tổn hại!</LetterLavaFlow>
 
   <!-- Seasonal Flooding -->
   <!-- EN: Seasonal flooding -->
-  <LetterLabelSeasonalFlooding>TODO</LetterLabelSeasonalFlooding>
+  <LetterLabelSeasonalFlooding>Lũ lụt theo mùa</LetterLabelSeasonalFlooding>
   <!-- EN: Rainfall upriver is causing the river to swell. The flooding will subside after several days. -->
-  <LetterSeasonalFlooding>TODO</LetterSeasonalFlooding>
+  <LetterSeasonalFlooding>Lượng mưa ở thượng nguồn khiến nước sông dâng cao. Lũ lụt sẽ giảm sau vài ngày.</LetterSeasonalFlooding>
   <!-- EN: Low temperatures have begun to freeze the river. Flooding is subsiding. -->
-  <MessageSeasonalFloodingFrozen>TODO</MessageSeasonalFloodingFrozen>
+  <MessageSeasonalFloodingFrozen>Nhiệt độ thấp đã bắt đầu đóng băng dòng sông. Lũ lụt đang rút dần.</MessageSeasonalFloodingFrozen>
   <!-- EN: Flooding is subsiding. -->
-  <MessageFloodingSubsiding>TODO</MessageFloodingSubsiding>
+  <MessageFloodingSubsiding>Lũ lụt đang rút dần.</MessageFloodingSubsiding>
 
   <!-- Fishing -->
   <!-- EN: Rare catch -->
-  <LetterLabelRareCatch>TODO</LetterLabelRareCatch>
+  <LetterLabelRareCatch>đánh bắt quý hiếm</LetterLabelRareCatch>
   <!-- EN: While fishing, {PAWN_nameDef} made an unusual catch -->
-  <LetterTextRareCatch>TODO</LetterTextRareCatch>
+  <LetterTextRareCatch>Trong khi câu cá, {PAWN_nameDef} đã câu được một mẻ cá bất thường</LetterTextRareCatch>
 
   <!-- Pursuing Mechanoids -->
   <!-- EN: Incoming mechanoids -->
-  <LetterLabelMechanoidThreat>TODO</LetterLabelMechanoidThreat>
+  <LetterLabelMechanoidThreat>Cơ khí đến</LetterLabelMechanoidThreat>
   <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your gravship, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the pilot console, and selecting launch. -->
-  <LetterTextMechanoidThreat>TODO</LetterTextMechanoidThreat>
+  <LetterTextMechanoidThreat>Quá trình quét của mechhive gần như xác định được vị trí của bạn. Khi xác định được trọng lực của bạn, nó sẽ cử một lực lượng cơ khí khổng lồ đến giết bạn.\n\nThu thập nguồn cung cấp của bạn, sau đó chạy trốn khỏi bản đồ bằng cách chọn bảng điều khiển phi công và chọn phóng.</LetterTextMechanoidThreat>
 
   <!-- Mechhive -->
   <!-- EN: Mechhive signal -->
-  <LetterLabelMechhiveWarning>TODO</LetterLabelMechhiveWarning>
+  <LetterLabelMechhiveWarning>Tín hiệu cơ học</LetterLabelMechhiveWarning>
   <!-- EN: You have detected a massive gravtech energy reading indicating that the mechhive is hidden somewhere in orbit. If you could find it, you could shut it down - or make use of its power.\n\nMechhives are production-and-control platforms that birth mechanoids and coordinate their actions around the planet. They're powered by a persona core.\n\nCollect more gravship technology to track down the mechhive's location. -->
-  <LetterTextMechhiveWarning>TODO</LetterTextMechhiveWarning>
+  <LetterTextMechhiveWarning>Bạn đã phát hiện thấy chỉ số năng lượng graftech khổng lồ cho thấy tổ máy được giấu ở đâu đó trên quỹ đạo. Nếu bạn có thể tìm thấy nó, bạn có thể tắt nó - hoặc tận dụng sức mạnh của nó.\n\nMechhives là nền tảng sản xuất và kiểm soát, sinh ra các cơ chế và điều phối hành động của chúng trên khắp hành tinh. Chúng được cung cấp năng lượng bởi lõi nhân cách.\n\nThu thập thêm công nghệ trọng lực để theo dõi vị trí của mechhive.</LetterTextMechhiveWarning>
 
   <!-- EN: Cerebrex core -->
-  <OrbitalMechhiveLetterArrived>TODO</OrbitalMechhiveLetterArrived>
+  <OrbitalMechhiveLetterArrived>lõi não</OrbitalMechhiveLetterArrived>
   <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
-  <OrbitalMechhiveLetterArrivedText>TODO</OrbitalMechhiveLetterArrivedText>
+  <OrbitalMechhiveLetterArrivedText>Ở trung tâm của nền tảng quỹ đạo là một cấu trúc cơ khí khổng lồ được làm từ các sợi siêu công nghệ mịn như sợi tóc hỗ trợ lõi nhân cách AI. Đây là lõi trí tuệ của cơ khí điều khiển các máy móc trên khắp hành tinh.\n\nCấu trúc được bảo vệ bởi các bộ ổn định gần đó, khiến nó gần như bất khả xâm phạm. Tìm và phá hủy chất ổn định não để giảm khả năng phòng thủ của lõi.</OrbitalMechhiveLetterArrivedText>
 
   <!-- EN: Mechanoid assault -->
-  <MechhiveRaidLetterLabel>TODO</MechhiveRaidLetterLabel>
+  <MechhiveRaidLetterLabel>Tấn công cơ khí</MechhiveRaidLetterLabel>
   <!-- EN: The cerebrex core is sending mechanoids to attack you. Get ready! -->
-  <MechhiveRaidLetterText>TODO</MechhiveRaidLetterText>
+  <MechhiveRaidLetterText>Lõi não đang gửi các cơ chế tấn công bạn. Hãy sẵn sàng!</MechhiveRaidLetterText>
 
   <!-- EN: Defense response -->
-  <MechhiveDefenseResponseLetterLabel>TODO</MechhiveDefenseResponseLetterLabel>
+  <MechhiveDefenseResponseLetterLabel>Phản ứng phòng thủ</MechhiveDefenseResponseLetterLabel>
   <!-- EN: The mechanoid hive has summoned mechanoid reinforcements to defend itself. They are arriving by transport pod and will attack immediately! -->
-  <MechhiveDefenseResponseLetterText>TODO</MechhiveDefenseResponseLetterText>
+  <MechhiveDefenseResponseLetterText>Tổ ong cơ khí đã triệu tập quân tiếp viện cơ giới để tự vệ. Chúng đang đến bằng tàu vận chuyển và sẽ tấn công ngay lập tức!</MechhiveDefenseResponseLetterText>
 
   <!-- EN: Cerebrex core -->
-  <CerebrexCoreLoweredLetterLabel>TODO</CerebrexCoreLoweredLetterLabel>
+  <CerebrexCoreLoweredLetterLabel>lõi não</CerebrexCoreLoweredLetterLabel>
   <!-- EN: By destroying the stabilizers, you've lowered the cerebrex core's defenses. Send a colonist to inspect the core. -->
-  <CerebrexCoreLoweredLetterText>TODO</CerebrexCoreLoweredLetterText>
+  <CerebrexCoreLoweredLetterText>Bằng cách phá hủy chất ổn định, bạn đã hạ thấp khả năng phòng thủ của lõi não. Gửi một cư dân để kiểm tra lõi.</CerebrexCoreLoweredLetterText>
 
   <!-- EN: Mechanoids deactivated -->
-  <CerebrexCoreDestroyedLetterLabel>TODO</CerebrexCoreDestroyedLetterLabel>
+  <CerebrexCoreDestroyedLetterLabel>Cơ khí bị vô hiệu hóa</CerebrexCoreDestroyedLetterLabel>
   <!-- EN: By destroying the cerebrex core, {PAWN_nameDef} has deactivated mechanoids across the planet.\n\nThe mechanoid threat is over. -->
-  <CerebrexCoreDestroyedLetterText>TODO</CerebrexCoreDestroyedLetterText>
+  <CerebrexCoreDestroyedLetterText>Bằng cách phá hủy lõi não, {PAWN_nameDef} đã vô hiệu hóa các cơ chế trên khắp hành tinh.\n\nMối đe dọa cơ học đã kết thúc.</CerebrexCoreDestroyedLetterText>
 
   <!-- EN: Cerebrex node -->
-  <CerebrexCoreScavengedLetterLabel>TODO</CerebrexCoreScavengedLetterLabel>
+  <CerebrexCoreScavengedLetterLabel>nút não</CerebrexCoreScavengedLetterLabel>
   <!-- EN: The scavenged node from the cerebrex core lies nearby. It responds strongly to the core, clearly still linked to it.\n\nEquip the node to a colonist to make use of it. -->
-  <CerebrexCoreScavengedLetterText>TODO</CerebrexCoreScavengedLetterText>
+  <CerebrexCoreScavengedLetterText>Nút được nhặt từ lõi tiểu não nằm gần đó. Nó phản ứng mạnh mẽ với cốt lõi, rõ ràng vẫn được liên kết với nó.\n\nTrang bị nút cho người dân thuộc địa để sử dụng nó.</CerebrexCoreScavengedLetterText>
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelGravshipEnteredEnemyBase>TODO</LetterLabelGravshipEnteredEnemyBase>
+  <LetterLabelGravshipEnteredEnemyBase>Cuộc tấn công bắt đầu</LetterLabelGravshipEnteredEnemyBase>
   <!-- EN: Your gravship has landed at {0} and is ready to begin the attack. -->
-  <LetterGravshipEnteredEnemyBase>TODO</LetterGravshipEnteredEnemyBase>
+  <LetterGravshipEnteredEnemyBase>Trọng lực của bạn đã hạ cánh ở {0} và sẵn sàng bắt đầu cuộc tấn công.</LetterGravshipEnteredEnemyBase>
   
   <!-- Survey Scanner -->
   <!-- EN: Surveying scanner -->
-  <LetterLabelSurveyScannerArrived>TODO</LetterLabelSurveyScannerArrived>
+  <LetterLabelSurveyScannerArrived>máy quét khảo sát</LetterLabelSurveyScannerArrived>
   <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
-  <LetterSurveyScannerArrived>TODO</LetterSurveyScannerArrived>
+  <LetterSurveyScannerArrived>Bảo vệ máy quét cho đến khi hoàn thành việc khảo sát khu vực. Việc này sẽ mất {DURATION}.</LetterSurveyScannerArrived>
+  
+  <!-- Psilocaps -->
+  <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginPsilocap>Nhờ ăn phải psilocap, [PAWN_nameIndef] đã có cảm hứng!</LetterInspirationBeginPsilocap>
+  <!-- EN: This happened due to ingesting psilocaps. -->
+  <MentalBreakReason_Psilocap>Điều này xảy ra do ăn phải psilocap.</MentalBreakReason_Psilocap>
 
   <!-- EN: Insect lair -->
-  <EnteredMegahiveLabel>TODO</EnteredMegahiveLabel>
+  <EnteredMegahiveLabel>Hang ổ côn trùng</EnteredMegahiveLabel>
   <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->
-  <EnteredMegahiveText>TODO</EnteredMegahiveText>
+  <EnteredMegahiveText>{PAWN_nameDef} đã đến sâu trong hang ổ côn trùng khổng lồ dưới lòng đất. Không khí nặng mùi hôi thối của côn trùng tiết ra.</EnteredMegahiveText>
   <!-- EN: The gravcore signal is coming from somewhere behind the burrow walls. Attack the burrow walls to explore further. -->
-  <EnteredMegahiveGravcoreExtra>TODO</EnteredMegahiveGravcoreExtra>
+  <EnteredMegahiveGravcoreExtra>Tín hiệu trọng lực đang đến từ đâu đó phía sau bức tường hang. Tấn công các bức tường hang để khám phá thêm.</EnteredMegahiveGravcoreExtra>
 
 </LanguageData>

@@ -37,7 +37,42 @@
     <li>spaceCollectiveNoun->Marauders</li>
     <li>spaceCollectiveNoun->Reapers</li>
   -->
-  <NamerFactionSalvagers.rulePack.rulesStrings>TODO</NamerFactionSalvagers.rulePack.rulesStrings>
+  <NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>r_name->Những người cứu hộ [spaceAdj]</li>
+    <li>r_name->Những người nhặt rác [spaceAdj]</li>
+    <li>r_name->[spaceAdj] [AnimalBadass]s</li>
+    <li>r_name->Các [spaceAdj] [AnimalBadass]</li>
+    <li>r_name->Các [spaceAdj] [Enemy]</li>
+    <li>r_name->Các [spaceNoun] [Enemy]</li>
+    <li>r_name->[spaceNoun] [groupname]</li>
+    <li>r_name->[spaceAdj] [groupname]</li>
+    <li>r_name->[ColorBadass] [spaceNoun]</li>
+    <li>r_name->[AdjectiveBadass] [spaceNoun]</li>
+    <li>r_name->[ColorBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->[AdjectiveBadass] [spaceCollectiveNoun]</li>
+    <li>r_name->[spaceNoun] của [ConceptBadass]</li>
+    <li>r_name(p=2)->[NamePerson] của [spaceNoun]s</li>
+    <li>r_name(p=2)->[NamePerson] của [spaceCollectiveNoun]</li>
+    <li>r_name(p=2)->[NamePerson] của [spaceAdj] [spaceCollectiveNoun]</li>
+    <li>spaceAdj->quỹ đạo</li>
+    <li>spaceAdj->vũ trụ</li>
+    <li>spaceAdj->Tinh tú</li>
+    <li>spaceAdj->mặt trời</li>
+    <li>spaceAdj->thiên thể</li>
+    <li>spaceNoun->ngôi sao</li>
+    <li>spaceNoun->mặt trăng</li>
+    <li>spaceNoun->sao chổi</li>
+    <li>spaceNoun->tiểu hành tinh</li>
+    <li>spaceNoun->nhật thực</li>
+    <li>spaceCollectiveNoun->Hạm đội</li>
+    <li>spaceCollectiveNoun->Hạm đội</li>
+    <li>spaceCollectiveNoun->đội tàu</li>
+    <li>spaceCollectiveNoun->Hạm đội</li>
+    <li>spaceCollectiveNoun->Corsair</li>
+    <li>spaceCollectiveNoun->Cướp biển</li>
+    <li>spaceCollectiveNoun->kẻ cướp</li>
+    <li>spaceCollectiveNoun->máy gặt</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[tradeAdj] [tradeNoun]</li>
@@ -66,7 +101,33 @@
     <li>tradeNoun->emporium</li>
     <li>tradeNoun->nexus</li>
   -->
-  <NamerFactionTradersGuild.rulePack.rulesStrings>TODO</NamerFactionTradersGuild.rulePack.rulesStrings>
+  <NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[tradeAdj] [tradeNoun]</li>
+    <li>tradeAdj->của thương gia</li>
+    <li>tradeAdj->quỹ đạo</li>
+    <li>tradeAdj->buôn bán</li>
+    <li>tradeAdj->miếng đệm</li>
+    <li>tradeAdj->không gian</li>
+    <li>tradeAdj->vũ trụ</li>
+    <li>tradeAdj->chuyến bay trên bầu trời</li>
+    <li>tradeAdj->vô sinh</li>
+    <li>tradeAdj->exo</li>
+    <li>tradeNoun->bang hội</li>
+    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->tổ chức</li>
+    <li>tradeNoun->liên minh</li>
+    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->liên minh</li>
+    <li>tradeNoun->liên đoàn</li>
+    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->công ty</li>
+    <li>tradeNoun->mạng</li>
+    <li>tradeNoun->trao đổi</li>
+    <li>tradeNoun->chợ</li>
+    <li>tradeNoun->cửa hàng</li>
+    <li>tradeNoun->mối quan hệ</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[platAdj] [platform]</li>
@@ -105,6 +166,42 @@
     <li>platform->dock</li>
     <li>platform->ring</li>
   -->
-  <NamerSettlementTradersGuild.rulePack.rulesStrings>TODO</NamerSettlementTradersGuild.rulePack.rulesStrings>
+  <NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[platAdj] [platform]</li>
+    <li>platAdj->ánh sao</li>
+    <li>platAdj->ánh nắng mặt trời</li>
+    <li>platAdj->tinh vân</li>
+    <li>platAdj->bụi sao</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->chân trời</li>
+    <li>platAdj->thiên hà</li>
+    <li>platAdj->vũ trụ</li>
+    <li>platAdj->trống rỗng</li>
+    <li>platAdj->tiểu hành tinh</li>
+    <li>platAdj->sao chổi</li>
+    <li>platAdj->nhật thực</li>
+    <li>platAdj->chuẩn tinh</li>
+    <li>platAdj->sao xung</li>
+    <li>platAdj->sao băng</li>
+    <li>platAdj->thiên đỉnh</li>
+    <li>platAdj->âm lịch</li>
+    <li>platAdj->mặt trời</li>
+    <li>platAdj->thiên thể</li>
+    <li>platAdj->tia trăng</li>
+    <li>platAdj->ánh nắng chói chang</li>
+    <li>platAdj->cánh đồng sao</li>
+    <li>platAdj->vũ trụ</li>
+    <li>platAdj->Tinh tú</li>
+    <li>platAdj->cực quang</li>
+    <li>platAdj->ánh sáng rực rỡ</li>
+    <li>platAdj->hào quang</li>
+    <li>platform->nền tảng</li>
+    <li>platform->Ga tàu</li>
+    <li>platform->trung tâm</li>
+    <li>platform->Ga tàu</li>
+    <li>platform->căn cứ</li>
+    <li>platform->bến tàu</li>
+    <li>platform->nhẫn</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
   
 </LanguageData>

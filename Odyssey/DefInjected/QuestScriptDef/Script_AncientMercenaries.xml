@@ -6,7 +6,11 @@
     <li>location(atLandmark==true)->The soldiers are hiding out in an ancient structure at [landmarkName].</li>
     <li>location(atLandmark==false)->The soldiers are hiding out in an ancient structure.</li>
   -->
-  <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] vị trí của một đại đội lính đánh thuê khét tiếng. Những người lính cổ xưa này đến từ một thời kỳ bị lãng quên từ lâu trong lịch sử hành tinh. Gần đây họ đã thức dậy sau giấc ngủ bí mật và đang gây rắc rối trong khu vực.\n\nCông ty được lãnh đạo bởi [LEADER_nameDef], người sở hữu vũ khí [WEAPON_quality] độc nhất. Nhóm gồm có:\n\n[mercenaryList]\n\nNếu bạn có thể bắt hoặc giết thủ lĩnh, bạn có thể lấy vũ khí độc nhất.\n\n[location]</li>
+    <li>location(atLandmark==true)->Những người lính đang ẩn náu trong một công trình kiến ​​trúc cổ kính ở [landmarkName].</li>
+    <li>location(atLandmark==false)->Những người lính đang ẩn náu trong một công trình kiến ​​trúc cổ kính.</li>
+  </OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [mercenaries]</li>
     <li>questName->[ancient] [mercenaries]</li>
@@ -18,7 +22,17 @@
     <li>mercenaries->Warriors</li>
     <li>mercenaries->Fighters</li>
   -->
-  <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+    <li>questName->[ancient] [mercenaries]</li>
+    <li>questName->[ancient] [mercenaries]</li>
+    <li>ancient->cổ đại</li>
+    <li>ancient->thức tỉnh</li>
+    <li>ancient->Ngủ tiền điện tử</li>
+    <li>mercenaries->lính đánh thuê</li>
+    <li>mercenaries->người lính</li>
+    <li>mercenaries->chiến binh</li>
+    <li>mercenaries->Máy bay chiến đấu</li>
+  </OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient mercenaries</li>
     <li>subject->ancient soldiers</li>
@@ -30,6 +44,16 @@
     <li>questMapText->dangerous ancients</li>
     <li>questMapText->ancient weapons</li>
   -->
-  <OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+    <li>subject->lính đánh thuê cổ đại</li>
+    <li>subject->người lính cổ xưa</li>
+    <li>subject->người xưa</li>
+    <li>questMapFeature->đồn trú quân sự</li>
+    <li>questMapFeature->vẽ một người lính cổ xưa</li>
+    <li>questMapFeature->phác họa một người đàn ông từ thời điểm khác</li>
+    <li>questMapText->họ thức rồi</li>
+    <li>questMapText->người xưa nguy hiểm</li>
+    <li>questMapText->vũ khí cổ xưa</li>
+  </OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
   
 </LanguageData>

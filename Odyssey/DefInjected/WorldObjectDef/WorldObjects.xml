@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: abandoned landmark -->
-  <AbandonedLandmark.label>di tích bị bỏ hoang</AbandonedLandmark.label>
+  <AbandonedLandmark.label>di tích ?ị ?ỏ hoang</AbandonedLandmark.label>
   <!-- EN: An abandoned campsite at a landmark. -->
-  <AbandonedLandmark.description>Một địa điểm dựng trại bỏ hoang tại địa danh này.</AbandonedLandmark.description>
+  <AbandonedLandmark.description>Một địa điểm dựng trại ?ỏ hoang tại địa danh này.</AbandonedLandmark.description>
   
   <!-- EN: basic asteroid -->
   <AsteroidBasic.label>thiên thạch thông thường</AsteroidBasic.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidBasic.description>Một thiên thạch vacstone đã bị kéo vào quỹ đạo xung quanh hành tinh trong một chiến dịch khai thác từ lâu. Phần lớn tài nguyên quý giá đã bị khai thác khỏi thiên thạch này.\n\nVị trí này có thể tiếp cận bằng pods vận chuyển, tàu chở (shuttle) hoặc gravship.</AsteroidBasic.description>
+  <AsteroidBasic.description>Một thiên thạch vacstone đã ?ị kéo vào quỹ đạo xung quanh hành tinh trong một chiến dịch khai thác từ lâu. Phần lớn tài nguyên quý giá đã ?ị khai thác khỏi thiên thạch này.\n\nVị trí này có thể tiếp cận ?ằng kén vận chuyển, tàu chở (shuttle) hoặc gravship.</AsteroidBasic.description>
   
   <!-- EN: asteroid mining site -->
   <AsteroidMiningSite.label>thiên thạch có thể khai thác</AsteroidMiningSite.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidMiningSite.description>Một thiên thạch vacstone đã bị kéo vào quỹ đạo như một phần của hoạt động khai thác. Thiên thạch mới chỉ bị khai thác một phần.\n\nBạn có thể tiếp cận vị trí này thông qua phi thuyền hoặc phi thuyền trọng trường.</AsteroidMiningSite.description>
+  <AsteroidMiningSite.description>Một thiên thạch vacstone đã ?ị kéo vào quỹ đạo như một phần của hoạt động khai thác. Thiên thạch mới chỉ ?ị khai thác một phần.\n\nBạn có thể tiếp cận vị trí này thông qua phi thuyền hoặc phi thuyền trọng trường.</AsteroidMiningSite.description>
   
   <!-- EN: claimable site -->
   <ClaimableSite.label>địa điểm có thể chiếm đóng</ClaimableSite.label>
@@ -23,14 +23,14 @@
   <ClaimableSpaceSite.label>địa điểm không gian có thể chiếm đóng</ClaimableSpaceSite.label>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSpaceSettlement.label>khu định cư bị phá hủy</DestroyedSpaceSettlement.label>
+  <DestroyedSpaceSettlement.label>khu định cư ?ị phá hủy</DestroyedSpaceSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSpaceSettlement.description>Một khu định cư đã bị phá hủy.</DestroyedSpaceSettlement.description>
+  <DestroyedSpaceSettlement.description>Một khu định cư đã ?ị phá hủy.</DestroyedSpaceSettlement.description>
   
   <!-- EN: gravship -->
   <Gravship.label>phi thuyền trọng trường</Gravship.label>
   <!-- EN: A gravship in flight. -->
-  <Gravship.description>Một phi thuyền trọng trường đang bay.</Gravship.description>
+  <Gravship.description>Một phi thuyền trọng trường đang ?ay.</Gravship.description>
   
   <!-- EN: gravship launch -->
   <GravshipLaunch.label>Cất cánh phi thuyền trọng trường</GravshipLaunch.label>
@@ -43,12 +43,12 @@
   <!-- EN: orbital item stash -->
   <OrbitalItemStash.label>kho vật phẩm quỹ đạo</OrbitalItemStash.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <OrbitalItemStash.description>Một thiên thạch vacstone đã bị kéo vào quỹ đạo trong một chiến dịch khai thác từ lâu; hầu hết tài nguyên quý giá đã bị khai thác.\n\nVị trí này có thể tiếp cận bằng pods vận chuyển, tàu chở (shuttle) hoặc gravship.</OrbitalItemStash.description>
+  <OrbitalItemStash.description>Một thiên thạch vacstone đã ?ị kéo vào quỹ đạo trong một chiến dịch khai thác từ lâu; hầu hết tài nguyên quý giá đã ?ị khai thác.\n\nVị trí này có thể tiếp cận ?ằng kén vận chuyển, tàu chở (shuttle) hoặc gravship.</OrbitalItemStash.description>
   
   <!-- EN: passenger shuttle -->
   <PassengerShuttle.label>tàu chở hành khách</PassengerShuttle.label>
   <!-- EN: A passenger shuttle in flight. -->
-  <PassengerShuttle.description>Một tàu chở hành khách đang bay.</PassengerShuttle.description>
+  <PassengerShuttle.description>Một tàu chở hành khách đang ?ay.</PassengerShuttle.description>
   
   <!-- EN: space -->
   <Space.label>vũ trụ</Space.label>
@@ -56,7 +56,7 @@
   <!-- EN: orbital settlement -->
   <SpaceSettlement.label>nền tảng định cư quỹ đạo</SpaceSettlement.label>
   <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
-  <SpaceSettlement.description>Một căn cứ quỹ đạo do một phe nhân loại khác kiểm soát. Họ sẽ không hoan nghênh khách viếng thăm.\n\nNhững nền tảng này có hệ thống vũ khí tự động tầm xa có thể tiêu diệt tàu địch. Chúng chỉ có thể tiếp cận an toàn bằng một phi thuyền trọng trường trang bị bộ gây nhiễu tín hiệu.</SpaceSettlement.description>
+  <SpaceSettlement.description>Một căn cứ quỹ đạo do một phe nhân loại khác kiểm soát. Họ sẽ không hoan nghênh khách viếng thăm.\n\nNhững nền tảng này có hệ thống vũ khí tự động tầm xa có thể tiêu diệt tàu địch. Chúng chỉ có thể tiếp cận an toàn ?ằng một phi thuyền trọng trường trang ?ị ?ộ gây nhiễu tín hiệu.</SpaceSettlement.description>
   
   <!-- EN: space site -->
   <SpaceSite.label>địa điểm không gian</SpaceSite.label>
