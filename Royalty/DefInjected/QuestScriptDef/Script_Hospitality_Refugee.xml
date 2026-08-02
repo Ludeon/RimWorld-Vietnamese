@@ -169,24 +169,17 @@
   <Hospitality_Refugee.questDescriptionRules.rulesStrings>
     <li>offer(lodgerCount==1)->đề nghị</li>
     <li>offer(lodgerCount>=2)->đề nghị</li>
-
     <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
     <li>lodgersPronoun(lodgerCount>=2)->họ</li>
-
     <li>lodgersPreposition(lodgerCount==1)->bản thân [asker_objective]</li>
     <li>lodgersPreposition(lodgerCount>=2)->bản thân họ</li>
-
     <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
     <li>lodgersObjective(lodgerCount>=2)->họ</li>
-
     <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
     <li>lodgersPossessive(lodgerCount>=2)->của họ</li>
-
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
-
     <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] cầu xin bạn cho phép ở lại [map_definite] trong [questDurationTicks_duration] để [lodgersPronoun] có thể nghỉ ngơi và tập hợp lại.\n\nĐổi lại, [lodgersPronoun] [offer] làm việc và chiến đấu miễn phí trong khoảng thời gian đó.\n\n[joinInfo] [lodgersPronoun] cũng có thể thưởng cho bạn sau này vì đã giúp đỡ [lodgersObjective] - nhưng không có cách nào biết được ý định thật sự của [lodgersPossessive].\n\n[travelerInfo] không thuộc bất kỳ phe phái nào. Nếu muốn, bạn có thể giết, bắt giữ, bán hoặc thu hoạch [lodgersObjective] mà không gây ảnh hưởng ngoại giao.</li>
-
     <li>approachInfo(lodgerCount==1)->Một [faction_pawnSingular] tuyệt vọng tên là [asker_nameDef] đang tiến đến.</li>
     <li>approachInfo(lodgerCount==2)->[asker_nameDef] và một [faction_pawnSingular] tuyệt vọng khác đang tiến đến.</li>
     <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] đang tiến đến cùng với một đứa trẻ đi theo.</li>
@@ -194,12 +187,10 @@
     <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] [faction_pawnsPlural] tuyệt vọng, bao gồm một đứa trẻ, đang tiến đến. Thủ lĩnh của họ tên là [asker_nameDef].</li>
     <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] [faction_pawnsPlural] tuyệt vọng, bao gồm một vài đứa trẻ, đang tiến đến. Thủ lĩnh của họ tên là [asker_nameDef].</li>
     <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->Một nhóm [lodgerCount] [faction_pawnsPlural] tuyệt vọng đang tiến đến, gồm [asker_nameDef] và [lodgersCountMinusOne] đứa trẻ mà [asker_pronoun] đã che chở dưới sự bảo bọc của [asker_possessive].</li>
-
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] tuyên bố đã mất nhà trong một cuộc tấn công gần đây.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] tuyên bố đã tỉnh dậy khỏi giấc ngủ đông lạnh sâu một mình và không có bạn bè.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] tuyên bố đã bị đuổi khỏi nhà bởi một người yêu cũ đầy thù hận.</li>
     <li>claimInfo(lodgerCount==1)->[asker_nameDef] tuyên bố đã bị trục xuất sau một cuộc tranh cãi với thủ lĩnh làng.</li>
-
     <li>claimInfo(lodgerCount>=2)->Họ tuyên bố đã mất nhà trong một cuộc tấn công gần đây.</li>
     <li>claimInfo(lodgerCount>=2)->Họ tuyên bố đã trốn thoát khỏi một hoạt động thu hoạch nội tạng.</li>
     <li>claimInfo(lodgerCount>=2)->Họ nói rằng họ đã trốn thoát khỏi một đoàn xe nô lệ.</li>
@@ -207,10 +198,8 @@
     <li>claimInfo(lodgerCount>=2)->Họ nói rằng một cơn bão điện lớn đã thiêu rụi nhà của họ.</li>
     <li>claimInfo(lodgerCount>=2)->Họ nói rằng đoàn xe của họ bị phục kích và mọi thứ đã bị cướp mất.</li>
     <li>claimInfo(lodgerCount>=2)->Họ nói rằng họ bị trục xuất khỏi thị trấn vì bất đồng về đạo đức.</li>
-
     <li>joinInfo(lodgerCount==1)->Nếu bạn khiến [asker_objective] hài lòng, [asker_pronoun] có thể đề nghị gia nhập bạn.</li>
     <li>joinInfo(lodgerCount>=2)->Nếu bạn khiến họ hài lòng, một số người trong số họ có thể đề nghị gia nhập bạn.</li>
-
     <li>travelerInfo(lodgerCount==1)->[faction_pawnSingular] này là</li>
     <li>travelerInfo(lodgerCount>=2)->Những [faction_pawnsPlural] này là</li>
   </Hospitality_Refugee.questDescriptionRules.rulesStrings>
@@ -252,10 +241,8 @@
     <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
     <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</li>
     <li>questName(lodgerCount>=2)->[asker_nameDef]'s [lodgerPlural]</li>
-
     <li>athe->một</li>
     <li>athe->những</li>
-
     <li>lodgerAdj->mệt mỏi</li>
     <li>lodgerAdj->lạc mất</li>
     <li>lodgerAdj->khốn khó</li>
@@ -267,14 +254,12 @@
     <li>lodgerAdj->không rõ</li>
     <li>lodgerAdj->cô độc</li>
     <li>lodgerAdj->bị bỏ rơi</li>
-
     <li>lodgerSingle->lữ khách</li>
     <li>lodgerSingle->người tị nạn</li>
     <li>lodgerSingle->kẻ lang thang</li>
     <li>lodgerSingle->người sống sót</li>
     <li>lodgerSingle->du mục</li>
     <li>lodgerSingle->kẻ phiêu bạt</li>
-
     <li>lodgerPlural->những lữ khách</li>
     <li>lodgerPlural->những người tị nạn</li>
     <li>lodgerPlural->những kẻ lang thang</li>
@@ -302,26 +287,17 @@
   <RefugeeBetrayal.questContentRules.rulesStrings>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
-
     <li>betrayalOfferRewardLetterLabel->Phần thưởng phản bội: [factionOpponent_nameDef]</li>
-
     <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] đã hứa thưởng cho bạn nếu bạn giết [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] đã nghe tin rằng việc này đã hoàn thành và đang gửi cho bạn những thứ sau thông qua khoang thả (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-
     <li>betrayalOfferFailedBecauseRecruitedLetterLabel->Phần thưởng phản bội bị thu hồi</li>
-
     <li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] đã biết rằng tất cả thành viên còn sống của [faction_name] đã gia nhập phe của bạn! [factionOpponent_nameDef] muốn toàn bộ thành viên của [faction_name] phải chết và do đó đã thu hồi lời đề nghị của [factionOpponent_possessive].</li>
-
     <li>betrayalOfferFailedLetterLabel->Phần thưởng phản bội bị thu hồi</li>
-
     <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] đã biết rằng một trong những thành viên của [faction_name] không còn ở [map_definite]. [factionOpponent_nameDef] muốn toàn bộ thành viên của [faction_name] phải chết và do đó đã thu hồi lời đề nghị của [factionOpponent_possessive].</li>
-
     <li>otherLodgers(lodgerCount==1)-></li>
     <li>otherLodgers(lodgerCount==2)->và một [lodgersLabel] khác</li>
     <li>otherLodgers(lodgerCount>=3)->và một vài [lodgersLabelPlural] khác</li>
-
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> và tất cả thành viên khác của [faction_name]</li>
-
     <li>questOver->Nhiệm vụ '[resolvedQuestName]' đã kết thúc.</li>
   </RefugeeBetrayal.questContentRules.rulesStrings>
   <!-- EN:
@@ -346,17 +322,13 @@
   -->
   <RefugeeBetrayal.questDescriptionRules.rulesStrings>
     <li>questDescription->[factionOpponent_nameDef], một [factionOpponent_faction_pawnSingular] thuộc [factionOpponent_faction_name], đã biết rằng [asker_nameDef] [otherLodgers] đang được tiếp nhận tại [map_definite]. [factionOpponent_pronoun] là kẻ thù của [asker_nameDef] và muốn thấy [asker_objective] chết.\n\n[factionOpponent_pronoun] sẽ gửi cho bạn phần thưởng sau nếu bạn giết tất cả thành viên của [faction_name] (tổng giá trị [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
-
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
-
     <li>otherLodgers(lodgerCount==1)-></li>
     <li>otherLodgers(lodgerCount==2)->và một [lodgersLabel] khác</li>
     <li>otherLodgers(lodgerCount>=3)->và một vài [lodgersLabelPlural] khác</li>
-
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> và tất cả thành viên khác của [faction_name]</li>
-
     <li>areIs(lodgerCount==1)->là</li>
     <li>areIs(lodgerCount>=2)->là</li>
   </RefugeeBetrayal.questDescriptionRules.rulesStrings>
@@ -385,7 +357,7 @@
     <li>questName->Refugee delayed reward</li>
   -->
   <RefugeeDelayedReward.questNameRules.rulesStrings>
-   <li>questName->Phần thưởng trì hoãn của người tị nạn</li>
+    <li>questName->Phần thưởng trì hoãn của người tị nạn</li>
   </RefugeeDelayedReward.questNameRules.rulesStrings>
   
 </LanguageData>
