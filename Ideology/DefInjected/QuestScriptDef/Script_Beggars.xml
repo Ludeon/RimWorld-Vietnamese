@@ -66,7 +66,7 @@
     <li>beggingForInfo->x[requestedThingCount] [requestedThing_label]</li>
     <li>traverObjective(beggarCount==1)->[beggars0_objective]</li>
     <li>traverObjective(beggarCount>=2)->họ</li>
-    <li>questDescription->[approachInfo]. [requestInfo]. [claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[travelerInfo] không thuộc bất kỳ phe phái nào. Nếu bạn muốn, bạn có thể giết, bắt giữ, bán, hoặc thu hoạch [traverObjective], mà không chịu hậu quả ngoại giao nào..</li>
+    <li>questDescription->[approachInfo]. [requestInfo]. [claimInfo].\n\n[interactionInfo].\n\n[moveOnInfo].\n\n[travelerInfo] không thuộc bất kỳ phe phái nào. Nếu bạn muốn, bạn có thể giết, bắt giữ, bán, hoặc thu hoạch [traverObjective], mà không chịu hậu quả ngoại giao nào.</li>
     <li>approachInfo(beggarCount==1)->Một [groupLabelSingle] nghèo mang tên [beggars0_nameDef] đang đến tìm kiếm sự giúp đỡ</li>
     <li>approachInfo(beggarCount>=2)->Một nhóm [groupLabelPlural] nghèo đang đến tìm kiếm sự giúp đỡ</li>
     <li>requestInfo(beggarCount==1)->[beggars0_nameDef] đang van xin được nhận [beggingForInfo]</li>
@@ -78,13 +78,13 @@
     <li>claimInfo(beggarCount==1,requestedThingDefName==Beer)->[beggars0_nameDef] muốn giải tỏa nỗi buồn [beggars0_possessive] sau khi mất một lữ khách đi cùng sau một tai nạn tồi tệ</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==Silver)->Họ cần bạc để mua chuộc lại người bạn bị bắt cóc</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineHerbal)->Họ cần thuốc men để thực hiện ca phẫu thuật cứu sống lữ khách bị tấn công bởi các cỗ máy chiến đấu cơ</li>
-    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineIndustrial)->They need the medicine to help their friends at a nearby settlement that was devasted by raiders</li>
+    <li>claimInfo(beggarCount>=2,requestedThingDefName==MedicineIndustrial)->Họ cần số thuốc này để giúp bạn bè của mình tại một khu định cư gần đó vừa bị bọn cướp tàn phá</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==Penoxycyline)->Họ cần [requestedThing_label] để có thể tiếp tục hành trình tìm ngôi nhà mới một cách an toàn</li>
     <li>claimInfo(beggarCount>=2,requestedThingDefName==Beer)->Họ cần [requestedThing_label] để giúp giải tỏa nỗi buồn bị mất nhà sau một cuộc tấn công tồi tệ</li>
     <li>interactionInfo(beggarCount==1)->Bạn có thể đưa vật phẩm cho [beggars0_nameDef] bằng cách chọn một cư dân và nhấp chuột phải lên [beggars0_objective]</li>
     <li>interactionInfo(beggarCount>=2)->Bạn có thể đưa vật phẩm cho nhóm [groupLabelPlural] bằng cách chọn một cư dân và nhấp chuột phải lên [beggars0_nameDef]</li>
     <li>moveOnInfo(beggarCount==1)->[beggars0_nameDef] sẽ rời đi sau [visitDurationTicks_duration]</li>
-    <li>moveOnInfo(beggarCount>=2)->The [groupLabelPlural] sẽ rời đi sau [visitDurationTicks_duration]</li>
+    <li>moveOnInfo(beggarCount>=2)->[groupLabelPlural] sẽ rời đi sau [visitDurationTicks_duration]</li>
   </Beggars.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(beggarCount==1)->[beggarSingle] [seekingSingle] [alms]</li>
