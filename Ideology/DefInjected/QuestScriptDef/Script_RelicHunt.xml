@@ -7,8 +7,10 @@
     <li>questDescriptionPartBeforeDiscovery->First, you need to find the [relic_name]. Watch for opportunities to gather information about it.</li>
   -->
   <RelicHunt.questDescriptionRules.rulesStrings>
-    <li>questDescription->Bạn biết được rằng thánh tích của [ideo_name] đang ở gần.\n\n[relic_name] là một món đồ cổ được tôn kính bởi toàn bộ các [ideo_memberNamePlural]. Nếu bạn có thể lấy nó, bạn có thể tạo một cái hòm để để nó giúp các [ideo_memberNamePlural] vui hơn, thu hút nhiều người hành hương giàu có, và mang nhiều người đến với [ideo_name].</li>
-  </RelicHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(classicMode==True)->Bạn đã biết được rằng có một thánh tích quý giá ở gần đây.\n\n[relic_name] là một trong [relicGlobalCount] cổ vật được nhiều người tôn thờ. Nếu thu thập được nó, bạn có thể xây dựng một điện thờ thánh tích để khiến các thực dân hạnh phúc và thu hút những người hành hương giàu có.</li>
+    <li>questDescription(classicMode==False)->Bạn đã biết được rằng có một thánh tích của [ideo_name] ở gần đây.\n\n[relic_name] là một cổ vật được toàn thể [ideo_memberNamePlural] tôn thờ. Nếu thu thập được nó, bạn có thể xây dựng một đại điện thờ thánh tích để khiến [ideo_memberNamePlural] hạnh phúc, thu hút những người hành hương giàu có và mang thêm người đến với [ideo_name].</li>
+    <li>questDescriptionPartBeforeDiscovery->Trước tiên, bạn cần tìm ra [relic_name]. Hãy chú ý đến mọi cơ hội để thu thập thông tin về nó.</li>
+</RelicHunt.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [hunt] for the [item]</li>
     <li>questName->The [itemAdj] [item]</li>
