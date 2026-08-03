@@ -7,7 +7,9 @@
 This is Vietnamese translation data for RimWorld.
 
 ### 1. Cài đặt việt hoá
-<h1></h1> Nó đã được tích hợp vào game </h1>
+ Cài tay Releases bên phải để được trải nghiệm bản mới
+
+ hoặc chờ nó cập nhập vào game
 
 ### 2. Phản hồi về lỗi
 Chỉ nhận phản hồi tại server discord
