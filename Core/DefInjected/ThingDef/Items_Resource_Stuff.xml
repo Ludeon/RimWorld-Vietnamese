@@ -7,9 +7,9 @@
   <Cloth.description>Vải được dệt từ sợi bông tự nhiên.</Cloth.description>
   
   <!-- EN: devilstrand -->
-  <DevilstrandCloth.label>vải nấm quỷ</DevilstrandCloth.label>
+  <DevilstrandCloth.label>vải Devilstrand</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>Loại vải được dệt từ sợi chiết xuất từ nấm devilstrand. Rất bền, cách nhiệt tốt và bảo vệ khỏi lửa rất tốt.</DevilstrandCloth.description>
+  <DevilstrandCloth.description>Loại vải được dệt từ các sợi siêu nhỏ chiết xuất từ nấm Devilstrand. Nó rất bền, cách nhiệt tốt và có khả năng chống lửa đặc biệt tốt.</DevilstrandCloth.description>
   
   <!-- EN: gold -->
   <Gold.label>vàng</Gold.label>
@@ -21,7 +21,7 @@
   <!-- EN: hyperweave -->
   <Hyperweave.label>siêu lụa</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>Vải lụa được dệt từ sợi na-nô dùng kĩ thuật tiên tiến nhất. Trang phục may từ loại vải này có độ co giản tốt, khả năng hấp thụ sát thương mảnh cao cùng độ bền tuyệt đối. Kỹ thuật sản xuất ra loại vải này đến nay còn nằm trong bí mật của khoa học.</Hyperweave.description>
+  <Hyperweave.description>Các sợi nano được dệt thành từng tấm ở cấp độ phân tử bằng các mechanite chuyên dụng. Chúng thường rất linh hoạt, nhưng sẽ cứng lại khi va đập để hấp thụ lực và cực kỳ khó bị phá hủy. Bí mật sản xuất vật liệu này chỉ được những nền văn minh Glitterworld tiên tiến nhất biết đến.</Hyperweave.description>
   
   <!-- EN: jade -->
   <Jade.label>ngọc bích</Jade.label>
@@ -63,28 +63,28 @@
   <WoodLog.tools.log.label>khúc gỗ</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>lông đà mã</WoolAlpaca.label>
+  <WoolAlpaca.label>len lạc đà alpaca</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
-  <WoolAlpaca.description>Bô lông cực kỳ mềm mại và rất ấm của đà mã.</WoolAlpaca.description>
+  <WoolAlpaca.description>Loại len cực kỳ mềm mại của lạc đà alpaca. Nó giữ ấm tốt, bảo vệ tốt khỏi nhiệt và có giá trị cao.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>lông bò rừng</WoolBison.label>
+  <WoolBison.label>len bò rừng</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>Lông dày và thô của một con bò rừng. Khá ấm áp.</WoolBison.description>
+  <WoolBison.description>len dày và thô của một con bò rừng. Khá ấm áp.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>lông lười</WoolMegasloth.label>
+  <WoolMegasloth.label>len megasloth</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>Dù lông lười hơi thô, sợi lông dài khiến nó rất chắc. Ngoài ra còn cực kì ấm nữa.</WoolMegasloth.description>
+  <WoolMegasloth.description>Mặc dù hơi thô, các sợi dài của len megasloth khiến nó cực kỳ bền. Nó giữ ấm đặc biệt tốt.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>lông bò bắc mỹ</WoolMuffalo.label>
+  <WoolMuffalo.label>len Muffalo</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>Mềm, nhẹ và cách nhiệt rất tốt, lông bò Bắc Mỹ có thể giữ ấm cho cơ thể kể cả trong cái lạnh khắc nghiệt nhất.</WoolMuffalo.description>
+  <WoolMuffalo.description>Mềm, nhẹ và cách nhiệt rất tốt, len Muffalo có thể giữ ấm cho cơ thể kể cả trong cái lạnh khắc nghiệt nhất.</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>lông lạc đà</WoolSheep.label>
+  <WoolSheep.label>len cừu</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>Trang phục bằng lông lạc đà thường được mặc bởi du mục trên sa mạc để bảo vệ họ khỏi cái nóng khủng khiếp. Lông lạc đà có khả năng cách nhiệt cực tốt vì đặc tính vật lý của nó.</WoolSheep.description>
+  <WoolSheep.description>Len cừu. Nó có khả năng cách nhiệt tốt.</WoolSheep.description>
   
 </LanguageData>
