@@ -5,13 +5,13 @@
     <li>questDescription->[discoveryMethod] the location of an alpha thrumbo.\n\nAlpha thrumbos are exceptionally rare creatures, believed by many to be mere fiction. Too wild for most to tame and too powerful for most to hunt, their horns are worth more than their weight in gold.</li>
   -->
   <OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryMethod] vị trí của alpha Thrmbo.\n\nAlpha Thrmbo là những sinh vật đặc biệt quý hiếm, được nhiều người tin rằng chỉ là hư cấu. Quá hoang dã để hầu hết mọi người có thể thuần hóa và quá mạnh mẽ để hầu hết mọi người có thể săn bắn, sừng của chúng có giá trị hơn trọng lượng vàng của chúng.</li>
+    <li>questDescription->[discoveryMethod] vị trí của alpha thrumbo.\n\nAlpha thrumbo là những sinh vật đặc biệt quý hiếm, được nhiều người tin rằng chỉ là hư cấu. Quá hoang dã để hầu hết mọi người có thể thuần hóa và quá mạnh mẽ để hầu hết mọi người có thể săn bắn, sừng của chúng có giá trị hơn trọng lượng vàng của chúng.</li>
   </OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->alpha thrumbo</li>
   -->
   <OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
-    <li>questName->tiếng ồn alpha</li>
+    <li>questName->alpha thrumbo</li>
   </OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->alpha thrumbos</li>
@@ -27,15 +27,15 @@
     <li>questMapText->they are real</li>
   -->
   <OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
-    <li>subject->tiếng ồn alpha</li>
+    <li>subject->alpha thrumbo</li>
     <li>subject->ngón tay cái</li>
     <li>subject->ngón tay cái hiếm gặp</li>
     <li>subject->động vật quý hiếm</li>
     <li>subject->sinh vật huyền thoại</li>
-    <li>questMapFeature->vẽ một chiếc kèn trống</li>
-    <li>questMapFeature->bản phác thảo của một chiếc kèn trông kỳ quặc</li>
+    <li>questMapFeature->vẽ một thrumbo</li>
+    <li>questMapFeature->bản phác thảo của một thrumbo trông kỳ quặc</li>
     <li>questMapText->môi trường sống của Thrmbo</li>
-    <li>questMapText->tiếng ồn alpha</li>
+    <li>questMapText->alpha thrumbo</li>
     <li>questMapText->đã tìm thấy con thú</li>
     <li>questMapText->họ là thật</li>
   </OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
@@ -44,6 +44,6 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>Nhiệm vụ đã hết hạn: [resolvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the alpha thrumbo has moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy alpha Thrmbo đã tiếp tục. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>Thông tin liên lạc bị chặn cho thấy alpha thrumbo đã tiếp tục. Nhiệm vụ [resolvedQuestName] đã hết hạn.</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

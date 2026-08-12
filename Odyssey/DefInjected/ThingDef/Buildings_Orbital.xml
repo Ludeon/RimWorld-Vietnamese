@@ -4,16 +4,16 @@
   <!-- EN: orbital scanner -->
   <OrbitalScanner.label>máy quét quỹ đạo</OrbitalScanner.label>
   <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. Building multiple orbital scanners does not increase the chance to find new locations. -->
-  <OrbitalScanner.description>Một bộ ?ảm biến quét thụ động để tìm ?á? vật thể bất thường quay quanh hành tinh. Nó sẽ định kỳ phát hiện ?á? vị trí trên quỹ đạo ?ó thể đượ? truy ?ập bằng ?á? khoang vận ?huyển, phi thuyền hoặ? trọng lự?.\n\nMáy quét sẽ không hoạt động dưới mái nhà. Xây dựng nhiều máy quét quỹ đạo không làm tăng ?ơ hội tìm thấy địa điểm mới.</OrbitalScanner.description>
+  <OrbitalScanner.description>Một thiết bị cảm biến quét thụ động các vật thể bất thường đang quay quanh hành tinh. Định kỳ, nó sẽ phát hiện các vị trí trên quỹ đạo có thể đến bằng khoang vận chuyển, tàu con thoi hoặc tàu trọng lực.\n\nMáy quét sẽ không hoạt động khi ở dưới mái. Xây dựng nhiều máy quét quỹ đạo không làm tăng khả năng phát hiện các vị trí mới.</OrbitalScanner.description>
   
   <!-- EN: oxygen pump -->
-  <OxygenPump.label>bơm oxy</OxygenPump.label>
+  <OxygenPump.label>bơm oxygen</OxygenPump.label>
   <!-- EN: A small wall-mounted unit that releases oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit. -->
-  <OxygenPump.description>Một thiết bị nhỏ treo tường ?ó ?hứ? năng giải phóng oxy vào phòng xung quanh, ?ho phép ?á? khu vự? khép kín điều hòa áp suất trong không gian. Cần thiết ?ho việ? ở lại lâu trên quỹ đạo.</OxygenPump.description>
+  <OxygenPump.description>Một thiết bị nhỏ gắn trên tường, giải phóng oxy vào căn phòng xung quanh, cho phép các khu vực kín được tái tạo áp suất trong không gian. Thiết yếu cho những chuyến lưu trú dài ngày trên quỹ đạo.</OxygenPump.description>
   
   <!-- EN: vac barrier -->
-  <VacBarrier.label>rào ?ản ?hỗ trống</VacBarrier.label>
+  <VacBarrier.label>rào chắn chân không</VacBarrier.label>
   <!-- EN: An ultrasonic barrier that prevents depressurization in space. The field compresses air molecules near the threshold, preventing gases from escaping while allowing people to freely travel through it. A vac barrier will do nothing to prevent intruders.\n\nMust be powered to prevent depressurization. -->
-  <VacBarrier.description>Một rào ?ản siêu âm ngăn ?hặn sự giảm áp suất trong không gian. Trường này nén ?á? phân tử không khí gần ngưỡng, ngăn không ?ho khí thoát ra ngoài đồng thời ?ho phép ?on người tự do di ?huyển qua đó. Rào ?hắn trống sẽ không ?ó tá? dụng gì để ngăn ?hặn những kẻ xâm nhập.\n\nPhải đượ? ?ấp nguồn để ngăn ?hặn tình trạng giảm áp suất.</VacBarrier.description>
+  <VacBarrier.description>Một rào chắn siêu âm ngăn không cho không khí bị giảm áp trong không gian. Trường này nén các phân tử không khí gần ranh giới, ngăn khí thoát ra ngoài trong khi vẫn cho phép con người tự do đi qua. Rào chắn chân không không có tác dụng ngăn chặn kẻ xâm nhập.\n\nPhải được cung cấp điện để ngăn giảm áp.</VacBarrier.description>
   
 </LanguageData>
