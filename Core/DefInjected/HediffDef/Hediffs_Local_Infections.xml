@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: flu -->
-  <Animal_Flu.label>cúm động vật</Animal_Flu.label>
+  <Animal_Flu.label>cúm</Animal_Flu.label>
   <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
   <Animal_Flu.description>Một bệnh truyền nhiễm do vi rút cúm gây ra. Chủng này thích nghi để lây nhiễm cho các loài không phải người.</Animal_Flu.description>
   <!-- EN: minor -->
@@ -13,7 +13,7 @@
   <Animal_Flu.stages.extreme.label>Nặng</Animal_Flu.stages.extreme.label>
   
   <!-- EN: plague -->
-  <Animal_Plague.label>bệnh dịch hạch</Animal_Plague.label>
+  <Animal_Plague.label>dịch hạch</Animal_Plague.label>
   <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
   <Animal_Plague.description>Một bệnh truyền nhiễm do vi khuẩn gây ra. Chủng này thích nghi với việc lây nhiễm sang các loài không phải người.</Animal_Plague.description>
   <!-- EN: minor -->
@@ -26,9 +26,9 @@
   <Animal_Plague.stages.extreme-1.label>rất nặng</Animal_Plague.stages.extreme-1.label>
   
   <!-- EN: fibrous mechanites -->
-  <FibrousMechanites.label>sợi cơ khí</FibrousMechanites.label>
+  <FibrousMechanites.label>máy móc nano kí sinh cơ bắp</FibrousMechanites.label>
   <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
-  <FibrousMechanites.description>Cơ chế bán kết hợp phát triển các liên kết sợi trong mô cơ. Chúng tăng cường sức mạnh của nạn nhân, nhưng cũng gây ra đau đớn dữ dội. Đây có lẽ là một chủng đột biến của các cơ chế tăng cường sức mạnh.</FibrousMechanites.description>
+  <FibrousMechanites.description>Các máy móc nano kí sinh liên kết bán ổn định phát triển những liên kết dạng sợi trong mô cơ. Chúng làm tăng sức mạnh của vật chủ, nhưng cũng gây ra những cơn đau dữ dội. Có lẽ đây là một biến chủng đột biến của loại máy móc nano kí sinh tăng cường sức mạnh.</FibrousMechanites.description>
   <!-- EN: mild pain -->
   <FibrousMechanites.stages.mild_pain.label>đau nhẹ</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
@@ -53,7 +53,7 @@
   <!-- EN: lung rot -->
   <LungRot.label>thối phổi</LungRot.label>
   <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
-  <LungRot.description>Một bệnh do vi khuẩn nhắm vào phổi của một cá nhân. Các trường hợp nhỏ chỉ gây kích ứng một chút, nhưng nếu không được kiểm soát, sự phát triển của vi khuẩn sẽ dẫn đến lượng chất lỏng tích tụ ngày càng nhiều trong phổi của nạn nhân, cuối cùng dẫn đến tử vong.\n\nNếu được điều trị đúng cách, hệ thống miễn dịch của cơ thể cuối cùng sẽ loại bỏ được bệnh thối phổi.</LungRot.description>
+  <LungRot.description>Một bệnh do vi khuẩn gây ra, tấn công phổi của cá thể. Các trường hợp nhẹ chỉ gây khó chịu đôi chút, nhưng nếu không được kiểm soát, vi khuẩn phát triển khiến lượng dịch tích tụ trong phổi của nạn nhân ngày càng tăng, cuối cùng dẫn đến tử vong.\n\nNếu được điều trị đúng cách, hệ miễn dịch của cơ thể cuối cùng sẽ loại bỏ được chứng thối phổi.</LungRot.description>
   <!-- EN: A painful bacterial disease caused by exposure to rot stink gas. Upon reaching full saturation, it will kill the affected individual. -->
   <LungRot.descriptionShort>Một căn bệnh vi khuẩn gây đau đớn do tiếp xúc với khí thối rữa. Khi đạt đến độ bão hòa hoàn toàn, nó sẽ giết chết cá nhân bị ảnh hưởng.</LungRot.descriptionShort>
   <!-- EN: minor -->
@@ -77,7 +77,7 @@
   <LungRotExposure.stages.serious.label>nặng</LungRotExposure.stages.serious.label>
   
   <!-- EN: malaria -->
-  <Malaria.label>bệnh sốt rét</Malaria.label>
+  <Malaria.label>sốt rét</Malaria.label>
   <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
   <Malaria.description>Là bệnh truyền nhiễm do muỗi vằn ký sinh.</Malaria.description>
   <!-- EN: minor -->
@@ -88,12 +88,12 @@
   <Malaria.stages.extreme.label>nặng</Malaria.stages.extreme.label>
   
   <!-- EN: muscle parasites -->
-  <MuscleParasites.label>ký sinh trùng</MuscleParasites.label>
+  <MuscleParasites.label>ký sinh trùng cơ</MuscleParasites.label>
   <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
   <MuscleParasites.description>Sinh vật ký sinh trong cơ. Những điều này gây ra sự yếu kém và thiếu phối hợp.</MuscleParasites.description>
   
   <!-- EN: plague -->
-  <Plague.label>bệnh dịch hạch</Plague.label>
+  <Plague.label>dịch hạch</Plague.label>
   <!-- EN: An infectious disease caused by bacteria. -->
   <Plague.description>Một bệnh truyền nhiễm do vi khuẩn gây ra.</Plague.description>
   <!-- EN: minor -->
@@ -106,7 +106,7 @@
   <Plague.stages.extreme-1.label>rất nặng</Plague.stages.extreme-1.label>
   
   <!-- EN: scaria infection -->
-  <ScariaInfection.label>nhiễm virus cuồng loạn</ScariaInfection.label>
+  <ScariaInfection.label>nhiễm scaria</ScariaInfection.label>
   <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
   <ScariaInfection.description>Một bệnh nhiễm trùng do vi khuẩn scaria gây ra. Nếu không được điều trị, bệnh cuối cùng sẽ khiến vật chủ rơi vào cơn thịnh nộ điên cuồng.</ScariaInfection.description>
   <!-- EN: Scaria: {PAWN_nameDef} -->
@@ -123,16 +123,16 @@
   <ScariaInfection.stages.extreme.label>cực nặng</ScariaInfection.stages.extreme.label>
   
   <!-- EN: sensory mechanites -->
-  <SensoryMechanites.label>cảm giác cơ khí</SensoryMechanites.label>
+  <SensoryMechanites.label>máy móc nano ký sinh thần kinh</SensoryMechanites.label>
   <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
-  <SensoryMechanites.description>Cơ chế bán kết hợp cư trú trong hệ thống thần kinh. Chúng tăng cường các giác quan của nạn nhân, nhưng cũng gây ra đau đớn dữ dội. Đây có lẽ là một chủng đột biến của các cơ chế tăng cường cảm giác.</SensoryMechanites.description>
+  <SensoryMechanites.description>Các máy móc nano ký sinh liên kết bán ổn định cư trú trong hệ thần kinh. Chúng tăng cường các giác quan của vật chủ, nhưng cũng gây ra những cơn đau dữ dội. Có lẽ đây là một biến chủng đột biến của loại vi máy tăng cường giác quan.</SensoryMechanites.description>
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>đau nhẹ</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
   <SensoryMechanites.stages.intense_pain.label>đau nhức nhối</SensoryMechanites.stages.intense_pain.label>
   
   <!-- EN: sleeping sickness -->
-  <SleepingSickness.label>bệnh ngũ gật</SleepingSickness.label>
+  <SleepingSickness.label>bệnh ngủ gật</SleepingSickness.label>
   <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
   <SleepingSickness.description>Một bệnh truyền nhiễm do ký sinh trùng truyền qua côn trùng. Bệnh ngủ không gây chết người như một số bệnh khác, nhưng tiến triển từ từ. Cơ thể mất nhiều thời gian để loại bỏ nhiễm trùng.</SleepingSickness.description>
   <!-- EN: minor -->
