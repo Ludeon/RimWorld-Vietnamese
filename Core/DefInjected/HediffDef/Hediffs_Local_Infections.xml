@@ -106,15 +106,15 @@
   <Plague.stages.extreme-1.label>rất nặng</Plague.stages.extreme-1.label>
   
   <!-- EN: scaria infection -->
-  <ScariaInfection.label>nhiễm scaria</ScariaInfection.label>
+  <ScariaInfection.label>nhiễm khuẩn cuồng loạn</ScariaInfection.label>
   <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
-  <ScariaInfection.description>Một bệnh nhiễm trùng do vi khuẩn scaria gây ra. Nếu không được điều trị, bệnh cuối cùng sẽ khiến vật chủ rơi vào cơn thịnh nộ điên cuồng.</ScariaInfection.description>
+  <ScariaInfection.description>Một bệnh nhiễm trùng do vi khuẩn cuồng loạn gây ra. Nếu không được điều trị, bệnh cuối cùng sẽ khiến vật chủ rơi vào cơn thịnh nộ điên cuồng.</ScariaInfection.description>
   <!-- EN: Scaria: {PAWN_nameDef} -->
-  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>Scaria: {PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>Khuẩn cuồng loạn: {PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
   <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
-  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} đã phát bệnh scaria từ nhiễm trùng {PAWN_possessive}, khiến {PAWN_objective} rơi vào cơn thịnh nộ điên cuồng. Scaria có thể được chữa bằng một ca phẫu thuật y tế đặc biệt, nhưng trước tiên {PAWN_nameDef} phải bị hạ gục.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} đã phát triển khuẩn cuồng loạn do nhiễm bệnh, khiến {PAWN_objective} rơi vào trạng thái cuồng nộ. Khuẩn cuồng loạn có thể được chữa khỏi bằng một ca phẫu thuật y tế đặc biệt, nhưng trước tiên phải hạ gục {PAWN_nameDef}.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
   <!-- EN: a scaria infection -->
-  <ScariaInfection.labelNoun>một ca nhiễm scaria</ScariaInfection.labelNoun>
+  <ScariaInfection.labelNoun>một ca nhiễm khuẩn cuồng loạn</ScariaInfection.labelNoun>
   <!-- EN: minor -->
   <ScariaInfection.stages.minor.label>nhẹ</ScariaInfection.stages.minor.label>
   <!-- EN: major -->
