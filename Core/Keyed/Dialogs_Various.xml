@@ -631,7 +631,7 @@
   <!-- EN: For this item, this price is {0}. -->
   <PriceTypeDesc>Vật này có giá là {0}.</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>Bao nhiêu vật phẩm mà thị trấn có thể trao đổi.\n\nBạn chỉ có thể bán vật phẩm cho Thương nhân Liên hà nếu vật phẩm đó ở cạnh đèn hiệu trao đổi.</ColonyCount>
+  <ColonyCount>Số lượng vật phẩm này mà thuộc địa có sẵn để giao thương.\n\nBạn chỉ có thể bán vật phẩm cho các thương nhân quỹ đạo nếu chúng ở gần một đèn hiệu giao thương quỹ đạo.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
   <TraderCount>Thương nhân phải trao đổi bao nhiêu vật phẩm này.</TraderCount>
   <!-- EN: Accept -->
@@ -647,7 +647,7 @@
   <!-- EN: Your tradeable silver: {0} -->
   <YourTradeableSilver>Số bạc mà bạn có thể giao dịch: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>Bạn chỉ có thể dùng bạc ở cạnh đèn hiệu giao thương và không nằm dưới mái nhà.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>Bạn chỉ có thể dùng bạc ở cạnh đèn hiệu giao thương quỹ đạo và không nằm dưới mái nhà.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
   <TraderHasNoMore>Thương gia không còn gì cả.</TraderHasNoMore>
   <!-- EN: No more to sell. -->

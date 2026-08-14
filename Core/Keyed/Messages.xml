@@ -2,16 +2,16 @@
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
-  <MessageSiegersAssaulting>{0} từ băng {1} đang pháo kích thị trấn.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Quân vây hãm {0} từ {1} đang tấn công thuộc địa.</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>{0} từ băng {1} đang bắt đầu tấn công.</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{0} từ {1} đang bắt đầu tấn công.</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>{0} từ băng {1} đã phát hiện ra quân nhân của bạn và tấn công sớm hơn dự kiến.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} từ {1} đã phát hiện ra bạn và tấn công sớm hơn dự kiến.</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} từ băng {1} quyết định bắt cóc bất cứ ai có thể và rời đi.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} từ {1} quyết định bắt cóc bất cứ ai có thể và rời đi.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} từ băng {1} cướp những gì có thể và rời đi.</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} từ {1} cướp những gì có thể và rời đi.</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
   <MechanoidsMovingOn>Mechanoid không cảm nhận thấy mục tiêu nào nữa và đang rời đi.</MechanoidsMovingOn>
@@ -20,23 +20,23 @@
   <MessageCaravanDetectedRaidArrived>{0} từ {1} đã đến khu vực đoàn lữ hành của bạn và đang tấn công. Còn nhóm nữa đang trên đường và sẽ đến trong {2}.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>{0} từ băng {1} đang rời đi.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} từ {1} đang rời đi.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} từ băng {1} đã bỏ cuộc và đang rời đi.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} từ {1} đã bỏ cuộc và đang rời đi.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} từ băng {1} đã thỏa mãn với những gì đã gây ra cho bạn và đang rời đi.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} từ {1} đã thỏa mãn với những gì đã gây ra cho bạn và đang rời đi.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>{0} từ băng {1} đang bỏ chạy.</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} từ {1} đang bỏ chạy.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>Đồng minh {0} từ băng {1} đang rời đi.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Đồng minh {0} từ  {1} đang rời đi.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{0} từ bằng {1} đang đưa người bị thương đi.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} từ {1} đang đưa người bị thương đi.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{0} từ băng {1} đã bị kẹt và đang đào đường thoát.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{0} từ {1} đã bị kẹt và đang đào đường thoát.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{0} từ băng {1} đang rời đi khỏi khu vực vì nhiệt độ khắc nghiệt.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0} từ {1} đang rời đi khỏi khu vực vì nhiệt độ khắc nghiệt.</MessageVisitorsDangerousTemperature>
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
   <MessageVisitorsAnomalousWeather>{0} từ {1} đang rời khỏi bản đồ vì thời tiết nguy hiểm.</MessageVisitorsAnomalousWeather>
   <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
@@ -51,10 +51,10 @@
   <MessageSeasonBegun>{0} đã bắt đầu.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0} đã rời khỏi tầm liên lạc của rada.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} đã rời khỏi tầm liên lạc.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>Bạn cần một Đèn hiệu Giao dịch Không gian mạnh hơn để giao tiếp với phi thuyền.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Bạn cần một đèn hiệu giao thương quỹ đạo được cấp điện để giao dịch với phi thuyền.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
   <MessageNeedRoyalTitleToCallWithShip>Người gọi phải có tước hiệu {0_label} trở lên.</MessageNeedRoyalTitleToCallWithShip>
 

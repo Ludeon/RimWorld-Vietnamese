@@ -168,9 +168,9 @@
   </MicroelectronicsBasics.generalRules.rulesStrings>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>bơm ẩm</MoisturePump.label>
+  <MoisturePump.label>máy hút ẩm đất</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>Xây dựng máy bơm độ ẩm, rất chậm bình thường hóa độ ẩm trong mặt đất xung quanh chúng. Nó có thể biến mặt ướt thành đất khô và chuyển hóa cát mềm thành cát bình thường.</MoisturePump.description>
+  <MoisturePump.description>Xây dựng máy hút ẩm đất, giúp điều chỉnh độ ẩm của mặt đất xung quanh chúng về mức bình thường một cách chậm rãi theo thời gian. Chúng có thể làm khô đất ẩm và biến cát mềm thành cát thường.</MoisturePump.description>
   <!-- EN:
     <li>subject->moisture pumps</li>
     <li>subject_story->studied the ancient windmill moisture pumps of Earth</li>
@@ -179,11 +179,11 @@
     <li>subject_gerund->constructing moisture pumps</li>
   -->
   <MoisturePump.generalRules.rulesStrings>
-    <li>subject->máy bơm ẩm</li>
-    <li>subject_story->nghiên cứu các máy bơm ẩm chạy bằng cối xay gió cổ đại của Trái Đất</li>
+    <li>subject->máy hút ẩm đất</li>
+    <li>subject_story->nghiên cứu các máy hút ẩm đất chạy bằng cối xay gió cổ đại của Trái Đất</li>
     <li>subject_story->rút cạn các đầm lầy lớn từng sinh bệnh dịch</li>
     <li>subject_story->dại dột cố gắng rút cạn cả biển</li>
-    <li>subject_gerund->xây dựng máy bơm ẩm</li>
+    <li>subject_gerund->xây dựng máy hút ẩm đất</li>
   </MoisturePump.generalRules.rulesStrings>
   
   <!-- EN: multibarrel weapons -->
