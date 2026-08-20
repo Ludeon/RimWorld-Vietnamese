@@ -11,11 +11,11 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Nguy cơ suy sụp cực độ</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
-  <BreakRiskMinorDesc>Những cư dân này có tâm trạng xấu và có thể bị suy sụp tinh thần nhẹ bất cứ lúc nào:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Những cư dân này có tâm trạng xấu và có thể bị suy sụp tinh thần nhẹ bất cứ lúc nào:\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
-  <BreakRiskMajorDesc>Những cư dân này có tâm trạng rất xấu và có thể bị suy sụp tinh thần nghiêm trọng bất cứ lúc nào:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Những cư dân này có tâm trạng rất xấu và có thể bị suy sụp tinh thần nghiêm trọng bất cứ lúc nào:\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
-  <BreakRiskExtremeDesc>Những cư dân này đang căng thẳng cực độ và có thể bị suy sụp tinh thần cực độ (có thể bạo lực) bất cứ lúc nào:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Những cư dân này đang căng thẳng cực độ và có thể bị suy sụp tinh thần cực độ (có thể bạo lực) bất cứ lúc nào:\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân này để xem điều gì đang làm họ phiền muộn.\n\nĐể làm cho những cư dân cảm thấy tốt hơn, bạn có thể làm những việc như làm cho họ những bữa ăn ưa thích, cho họ nhiều giờ giải trí hơn mỗi ngày và những đồ vật giải trí đẹp hơn, đặt chúng trong những môi trường đẹp, cho họ uống và hút thuốc, và nhiều hơn nữa.</BreakRiskDescEnding>
 
@@ -24,9 +24,9 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Những cư dân cần cứu hộ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Cần phòng thủ</NeedDefenses>
@@ -121,7 +121,7 @@
   <!-- EN: Boredom -->
   <Boredom>Chán ngẫy</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
-  <BoredomDesc>Những người này có nhu cầu giải trí hoặc được giao cho giải trí, nhưng họ chán mọi nguồn giải trí có sẵn:\n\n{0}\n\nCho họ thêm một số giải trí đa dạng.\n\nCác loại hình giải trí hiện có cho {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+  <BoredomDesc>Những người này có nhu cầu giải trí hoặc được giao cho giải trí, nhưng họ chán mọi nguồn giải trí có sẵn:\n\n{0}\n\nCho họ thêm một số giải trí đa dạng.\n\nCác loại hình giải trí hiện có cho {PAWN_labelShort}:\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Cần pin</NeedBatteries>
@@ -133,9 +133,9 @@
   <NeedBatteriesNotResearchedDesc>Nghiên cứu pin và chế tạo một cặp để đảm bảo nguồn điện bền vững.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>Kẻ nóng nảy có vũ khí tầm xa</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>Đấu sĩ mang vũ khí tầm xa</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>Một trong những cư dân của bạn có đặc điểm tính cách là Kẻ nóng nảy, nhưng đang mang vũ khí tầm xa. Điều này sẽ làm cho họ rất không vui.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Một trong những cư dân của bạn có đặc điểm Đấu sĩ, nhưng đang mang vũ khí tầm xa. Điều này sẽ làm cho họ rất không vui.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>Kẻ dùng khiên có vũ khí tầm xa</ShieldUserHasRangedWeapon>
@@ -228,9 +228,9 @@
   <BuildingCantBeUsedRoofedDesc>Một hoặc nhiều tòa nhà của bạn chỉ có thể được sử dụng nếu không được lợp mái, nhưng có một mái nhà trên nó. (Các) tòa nhà sẽ không thể sử dụng được cho đến khi bạn gỡ bỏ mái nhà.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>Say nắng</AlertHeatstroke>
+  <AlertHeatstroke>Sốc nhiệt</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>Những người sau đây đang bị say nắng:\n\n{0}\nĐưa họ đến một khu vực mát mẻ. Bạn có thể hạ nhiệt phòng bằng máy làm mát thủ công hoặc máy lạnh. Không gian ngầm sâu cũng tự nhiên mát mẻ, nếu cách biệt với ngoài trời bằng một cánh cửa.</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Những người sau đây đang bị sốc nhiệt:\n\n{0}\nĐưa họ đến một khu vực mát mẻ. Bạn có thể hạ nhiệt phòng bằng máy làm mát thủ công hoặc máy lạnh. Không gian ngầm sâu cũng tự nhiên mát mẻ, nếu cách biệt với ngoài trời bằng một cánh cửa.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Khách không vui</QuestPartMoodBelowThreshold>
