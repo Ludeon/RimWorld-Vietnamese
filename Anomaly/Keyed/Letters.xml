@@ -132,9 +132,9 @@
   <!-- EN: {STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power.\n\nThis metal hell is a connecting channel to an inhuman hyperintelligence. -->
   <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} đã kích hoạt khối đá và bị hút vào một không gian khác.\n\n{STUDIER_pronoun} bị ném đến một căn phòng với đầy gai nhọn kim loại. Mọi bề mặt đều phủ chất lỏng màu đen, không khí đặc quánh năng lượng. Địa ngục kim loại này là đường kết nối đến một trí tuệ siêu việt phi nhân tính.</VoidAwakeningFinalStructuresActivatedText> 
   <!-- EN: Shambler assault -->
-  <VoidAwakeningShamblerArrivalLabel>Shambler đột kích</VoidAwakeningShamblerArrivalLabel>
+  <VoidAwakeningShamblerArrivalLabel>Xác sống đột kích</VoidAwakeningShamblerArrivalLabel>
   <!-- EN: A horde of shamblers have been attracted by the void structures. Get ready! -->
-  <VoidAwakeningShamblerArrivalText>Một đàn Shambler đã bị thu hút bởi các cấu trúc hư không. Chuẩn bị chiến đấu!</VoidAwakeningShamblerArrivalText>
+  <VoidAwakeningShamblerArrivalText>Một đàn xác sống đã bị thu hút bởi các cấu trúc hư không. Chuẩn bị chiến đấu!</VoidAwakeningShamblerArrivalText>
   <!-- EN: Fleshbeast tunneling -->
   <VoidAwakeningFleshbeastBurrowLabel>Quái thịt đào hang</VoidAwakeningFleshbeastBurrowLabel>
   <!-- EN: The monolith has generated a powerful psychic pulse, attracting nearby entities.\n\nBeneath the ground, you can hear meaty shrieks and scratching claws. Fleshbeasts are tunneling towards you. Get ready! -->
@@ -148,7 +148,7 @@
   <!-- EN: The activated void structure has generated a twisted psychic pulse, attracting nearby entities. Get ready! -->
   <VoidAwakeningEntityArrivalText>Cấu trúc hư không đã được kích hoạt và sinh ra xung thần giao vặn vẹo, thu hút những thực thể gần đó. Chuẩn bị!</VoidAwakeningEntityArrivalText>
   <!-- EN: Embrace the void -->
-  <VoidAwakeningBreadcrumbLetterLabel>Lá thư từ Hư không</VoidAwakeningBreadcrumbLetterLabel>
+  <VoidAwakeningBreadcrumbLetterLabel>Ôm trọn Hư không</VoidAwakeningBreadcrumbLetterLabel>
   <!-- EN: While interacting with the void structure, {PAWN_nameDef} saw a vision of the void. For a moment {PAWN_pronoun} swam the black ocean of infinite depth and felt its endless inhuman power.\n\n{PAWN_nameDef} thinks there may be a way to control that power by embracing the void. If you were to permanently open the conduit to the void, rather than shutting it down, it could offer untold possibilities. -->
   <VoidAwakeningBreadcrumbLetterText>Khi tương tác với cấu trúc hư không, {PAWN_nameDef} bắt gặp ảo ảnh từ hư không. Trong khoảnh khắc đó {PAWN_pronoun} đắm mình vào đại dương bóng tối vô tận và cảm nhận sức mạnh vô hạn, phi nhân tính của nó.\n\n{PAWN_nameDef} tin rằng mình đã tìm ra cách điều khiển nguồn sức mạnh này bằng cách nắm lấy hư không. Nếu bạn mở hoàn toàn liên kết với hư không thay vì vô hiệu hóa nó, tiềm năng là vô tận.</VoidAwakeningBreadcrumbLetterText>
 
@@ -162,15 +162,15 @@
   <!-- EN: {PAWN_nameDef} has reappeared. {PAWN_pronoun} is weary from {PAWN_possessive} efforts, but otherwise healthy.\n\nBy closing the channel to the void, {PAWN_nameDef} has stopped any more unnatural phenomena from entering our world. Hostile entities in the area have all fallen to the ground, lifeless.\n\nTales of {PAWN_possessive} heroism are sure to spread far and wide. -->
   <DisruptedLinkText>{PAWN_nameDef} tái xuất. Dù mệt mỏi sau công cuộc {PAWN_possessive} nhưng {PAWN_pronoun} vẫn khỏe mạnh.\n\nBằng cách đóng lại liên kết hư không, {PAWN_nameDef} đã chặn đứng mọi hiện tượng dị thường xâm nhập thế giới chúng ta. Loài địch trong khu vực đều đồng loạt gục ngã, bất động.\n\nNhững câu chuyện về sự anh hùng của {PAWN_possessive} chắc hẳn sẽ được truyền đi xa rộng.</DisruptedLinkText>
   <!-- EN: fleshcrafting -->
-  <RewardFleshcraftingAbility>Dị hóa cơ thể</RewardFleshcraftingAbility>
+  <RewardFleshcraftingAbility>dị hóa cơ thể</RewardFleshcraftingAbility>
   <!-- EN: slaughter -->
-  <RewardSlaughterAbility>Tàn sát</RewardSlaughterAbility>
+  <RewardSlaughterAbility>tàn sát</RewardSlaughterAbility>
   <!-- EN: shambler control -->
-  <RewardShamblerControlAbility>Điều khiển Shambler</RewardShamblerControlAbility>
+  <RewardShamblerControlAbility>điều khiển xác sống</RewardShamblerControlAbility>
 
   <!-- Duplicate sickness -->
   <!-- EN: Duplicate sickness -->
-  <DuplicateSicknessLabel>Bệnh nhân bản</DuplicateSicknessLabel>
+  <DuplicateSicknessLabel>Di chứng nhân bản</DuplicateSicknessLabel>
   <!-- EN: Both {0_nameDef} and {0_possessive} duplicate are feeling unwell. Their condition seems to be related to the duplication process and is worsening. The psychic connection that binds them is causing them to slowly lose consciousness. The condition won't get better until one of them dies. -->
   <DuplicateSicknessText>Cả {0_nameDef} và nhân bản của {0_possessive} đều thấy không khỏe. Tình trạng bệnh dường như liên quan đến quá trình nhân bản và đang ngày càng xấu đi. Kết nối thần giao ràng buộc họ đang khiến cả hai dần rơi vào trạng thái hôn mê. Tình trạng sẽ không cải thiện nếu một trong hai chết đi.</DuplicateSicknessText>
 
@@ -212,9 +212,9 @@
   <!-- EN: Something in the darkness has attacked {0_nameDef}!\n\nThese attacks will continue until {0_pronoun} is safely in the light. -->
   <PawnAttackedInDarknessText>Có thứ gì đó trong bóng tối đã tấn công {0_nameDef}! \n\nNhững cuộc tấn công này sẽ tiếp tục cho đến khi {0_pronoun} ở nơi có ánh sáng chiếu tới.</PawnAttackedInDarknessText>
   <!-- EN: Noctol attack -->
-  <NoctolAttackLetterLabel>Noctol tấn công</NoctolAttackLetterLabel>
+  <NoctolAttackLetterLabel>Dạ yểm tấn công</NoctolAttackLetterLabel>
   <!-- EN: The darkness has begun to stir. Inhuman chittering sounds emerge from somewhere within the inky black.\n\nBlack, insect-like noctols will attack from the darkness soon. -->
-  <NoctolAttackLetterText>Bóng tối bắt đầu chuyển động. Tiếng rít vô nhân tính vẳng lên từ đâu đó trong màn đêm đặc quánh.\n\nNhững con Noctol đen đúa, giống bọ sẽ sớm lao ra tấn công từ bóng tối.</NoctolAttackLetterText>
+  <NoctolAttackLetterText>Bóng tối bắt đầu chuyển động. Tiếng rít vô nhân tính vẳng lên từ đâu đó trong màn đêm đặc quánh.\n\nNhững con dạ yểm đen đúa, giống bọ sẽ sớm lao ra tấn công từ bóng tối.</NoctolAttackLetterText>
   <!-- EN: Darkness soon -->
   <DarknessWarningLetterLabel>Bóng tối cận kề</DarknessWarningLetterLabel>
   <!-- EN: The darkness is almost here. Only those in direct light from lamps, torches, or flares will be safe.\n\nTo keep colonists in the light, you can restrict their movement in the SCHEDULE tab by assigning allowed areas. -->
@@ -222,19 +222,19 @@
   <!-- EN: Darkness wavering -->
   <DarknessWaveringLetterLabel>Bóng tối dao động</DarknessWaveringLetterLabel>
   <!-- EN: With the destruction of the noctolith, a faint crack appears in the darkness, before being filled with more of the sooty black.\n\nDestroy the remaining noctoliths to end the unnatural darkness. -->
-  <DarknessWaveringLetterText>Sau khi Noctolith bị phá hủy, một vết nứt mờ ảo xuất hiện trong bóng tối, nhưng nhanh chóng bị nhấn chìm trong màu đen tro tàn.\n\nHãy phá hủy những Noctolith còn lại để chấm dứt bóng tối phi tự nhiên này.</DarknessWaveringLetterText>
+  <DarknessWaveringLetterText>Sau khi trụ yểm thạch bị phá hủy, một vết nứt mờ ảo xuất hiện trong bóng tối, nhưng nhanh chóng bị nhấn chìm trong màu đen tro tàn.\n\nHãy phá hủy những trụ yểm thạch còn lại để chấm dứt bóng tối phi tự nhiên này.</DarknessWaveringLetterText>
 
   <!-- Shambler Swarms -->
   <!-- EN: Shamblers approach -->
-  <LetterLabelShamblerSwarmArrived>Shambler kéo đến</LetterLabelShamblerSwarmArrived>
+  <LetterLabelShamblerSwarmArrived>Xác sống kéo đến</LetterLabelShamblerSwarmArrived>
   <!-- EN: Shambler approaches -->
-  <LetterLabelShamblerArrived>Shambler tới gần</LetterLabelShamblerArrived>
+  <LetterLabelShamblerArrived>Xác sống tới gần</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
-  <LetterShamblerSwarmArrived>Một nhóm {0} Shambler - những xác chết thối rữa biết đi - đang tới gần. Một thế lực vô nhân tính nào đó đã hồi sinh những cái xác này và sai khiến chúng giết chóc.\n\nChúng sẽ lang thang trong khu vực. Nếu thấy người, chúng sẽ tấn công. Ngược lại, chúng sẽ rời đi trong vài ngày.\n\nNếu bắt sống được một con, bạn có thể nghiên cứu nó để tìm hiểu thêm về các Dị thường.</LetterShamblerSwarmArrived>
+  <LetterShamblerSwarmArrived>Một nhóm {0} xác sống - những xác chết thối rữa biết đi - đang tới gần. Một thế lực vô nhân tính nào đó đã hồi sinh những cái xác này và sai khiến chúng giết chóc.\n\nChúng sẽ lang thang trong khu vực. Nếu thấy người, chúng sẽ tấn công. Ngược lại, chúng sẽ rời đi trong vài ngày.\n\nNếu bắt sống được một con, bạn có thể nghiên cứu nó để tìm hiểu thêm về các Dị thường.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
   <LetterShamblerArrived>Một xác chết thối rữa biết đi đang tới gần. Một thế lực vô nhân tính nào đó đã hồi sinh cái xác này và sai khiến nó giết chóc.\n\nNó sẽ lang thang trong khu vực. Nếu thấy người, nó sẽ tấn công. Ngược lại, nó sẽ rời đi trong vài ngày.\n\nNếu bắt sống được nó, bạn có thể nghiên cứu nó để tìm hiểu thêm về các Dị thường.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
-  <LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} Shambler</LetterLabelShamblerAnimalsArrived>
+  <LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} xác sống</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerAnimalsArrived>Một nhóm xác chết thối rữa {ANIMALKIND_label} biết đi đang tới gần. Một thế lực vô nhân tính nào đó đã hồi sinh những cái xác này và sai khiến chúng giết chóc.\n\nChúng sẽ lang thang trong khu vực. Nếu thấy người, chúng sẽ tấn công. Ngược lại, chúng sẽ rời đi trong vài ngày.\n\nNếu bắt sống được một con, bạn có thể nghiên cứu nó để tìm hiểu thêm về các Dị thường.</LetterShamblerAnimalsArrived>
 
@@ -254,28 +254,28 @@
 
   <!-- Nociosphere -->
   <!-- EN: Nociosphere defeated -->
-  <NociosphereDefeatedLabel>Noicosphere bị đánh bại</NociosphereDefeatedLabel>
+  <NociosphereDefeatedLabel>Khối cầu đau đớn bị đánh bại</NociosphereDefeatedLabel>
   <!-- EN: The nociosphere has been destroyed, leaving behind a number of valuable resources. -->
-  <NociosphereDefeatedText>Noicosphere đã bị phá hủy, để lại một lượng lớn tài nguyên quý giá.</NociosphereDefeatedText>
+  <NociosphereDefeatedText>Khối cầu đau đớn đã bị phá hủy, để lại một lượng lớn tài nguyên quý giá.</NociosphereDefeatedText>
   <!-- EN: Nociosphere destabilising -->
-  <NociosphereBecomingUnstableLabel>Noicosphere bất ổn</NociosphereBecomingUnstableLabel> 
+  <NociosphereBecomingUnstableLabel>Khối cầu đau đớn bất ổn</NociosphereBecomingUnstableLabel> 
   <!-- EN: The nociosphere's energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed. -->
-  <NociosphereBecomingUnstableText>Mô hình năng lượng của Noicosphere bắt đầu thay đổi và thích nghi. Trong vòng 10 ngày, nó sẽ không còn phản ứng với tác động ức chế nữa.\n\nNoicosphere sẽ kích hoạt nếu không bị ngăn chặn kịp thời.</NociosphereBecomingUnstableText> 
+  <NociosphereBecomingUnstableText>Mô hình năng lượng của khối cầu đau đớn bắt đầu thay đổi và thích nghi. Trong vòng 10 ngày, nó sẽ không còn phản ứng với tác động ức chế nữa.\n\nKhối cầu đau đớn sẽ kích hoạt nếu không bị ngăn chặn kịp thời.</NociosphereBecomingUnstableText> 
   <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
-  <NociosphereBecomingUnstableTextExtraSendable>Gửi Noicosphere tấn công một lực lượng địch mạnh để vô hiệu hóa nó. Sau cuộc tàn sát, nó sẽ biến mất vĩnh viễn.</NociosphereBecomingUnstableTextExtraSendable>
+  <NociosphereBecomingUnstableTextExtraSendable>Gửi khối cầu đau đớn tấn công một lực lượng địch mạnh để vô hiệu hóa nó. Sau cuộc tàn sát, nó sẽ biến mất vĩnh viễn.</NociosphereBecomingUnstableTextExtraSendable>
   <!-- EN: Study the nociosphere to find a way to dispose of it. -->
-  <NociosphereBecomingUnstableTextExtraNotSendable>Nghiên cứu Noicosphere để tìm cách vô hiệu hóa nó.</NociosphereBecomingUnstableTextExtraNotSendable>
+  <NociosphereBecomingUnstableTextExtraNotSendable>Nghiên cứu khối cầu đau đớn để tìm cách vô hiệu hóa nó.</NociosphereBecomingUnstableTextExtraNotSendable>
   <!-- EN: Nociosphere unstable -->
-  <NociosphereUnstableLabel>Noicosphere mất ổn định</NociosphereUnstableLabel>
+  <NociosphereUnstableLabel>Khối cầu đau đớn mất ổn định</NociosphereUnstableLabel>
   <!-- EN: The nociosphere has become unstable and is no longer responding to suppression. When its activity reaches 100%, it will awaken. -->
-  <NociosphereUnstableText>Noicosphere đã mất ổn định và không còn phản ứng với tác động ức chế. Khi mức hoạt động của nó chạm 100%, nó sẽ thức tỉnh.</NociosphereUnstableText>
+  <NociosphereUnstableText>Khối cầu đau đớn đã mất ổn định và không còn phản ứng với tác động ức chế. Khi mức hoạt động của nó chạm 100%, nó sẽ thức tỉnh.</NociosphereUnstableText>
   <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
-  <NociosphereUnstableTextExtraSendable>Gửi Noicosphere tấn công một lực lượng địch mạnh để vô hiệu hóa nó. Sau cuộc tàn sát, nó sẽ biến mất vĩnh viễn.</NociosphereUnstableTextExtraSendable> 
+  <NociosphereUnstableTextExtraSendable>Gửi khối cầu đau đớn tấn công một lực lượng địch mạnh để vô hiệu hóa nó. Sau cuộc tàn sát, nó sẽ biến mất vĩnh viễn.</NociosphereUnstableTextExtraSendable> 
   <!-- EN: Prepare for the nociosphere's onslaught. -->
-  <NociosphereUnstableTextExtraNotSendable>Chuẩn bị cho cuộc tấn công của Noicosphere.</NociosphereUnstableTextExtraNotSendable>
+  <NociosphereUnstableTextExtraNotSendable>Chuẩn bị cho cuộc tấn công của khối cầu đau đớn.</NociosphereUnstableTextExtraNotSendable>
 
   <!-- EN: Strange corpse -->
-  <UnnaturalCorpseArrivalLabel>Xác chết lạ</UnnaturalCorpseArrivalLabel>
+  <UnnaturalCorpseArrivalLabel>Xác chết kỳ lạ</UnnaturalCorpseArrivalLabel>
   <!-- EN: An unnatural human corpse has appeared, as if out of thin air.\n\nOn further inspection, the corpse looks identical to {PAWN_nameDef}. Its skin feels waxy and warm to the touch.\n\nStudy the corpse to learn more about it. -->
   <UnnaturalCorpseArrivalText>Một xác chết người kỳ lạ xuất hiện, như từ hư không.\n\nQuan sát kỹ hơn, xác chết này trông giống hệt {PAWN_nameDef}. Da của nó vẫn ấm và có cảm giác như sáp.\n\nNghiên cứu xác chết này để tìm hiểu thêm về nó.</UnnaturalCorpseArrivalText>
 
@@ -285,10 +285,10 @@
   <GoldenCubeArrivalText>Một khối lập phương lạ đáp xuống gần đây. Nó sáng bóng như vàng nhưng không thể bị trầy xước. Nó rất nhẹ và ấm khi chạm vào. Ánh sáng phản chiếu trên bề mặt nó rất thu hút.\n\n{PAWN_nameDef} cảm thấy bị cuốn hút một cách khó hiểu về phía khối lập phương.\n\nNghiên cứu khối lập phương để tìm hiểu thêm về nó.</GoldenCubeArrivalText>
 
   <!-- EN: Void curiosity -->
-  <VoidCuriosityLabel>Tò mò với Hư khôngVoidCuriosityLabel</VoidCuriosityLabel>
+  <VoidCuriosityLabel>Tò mò với Hư không</VoidCuriosityLabel>
   <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nPlace a psychic ritual spot to perform the void provocation ritual. -->
-  <VoidCuriosityText_Researched>{PAWN_nameDef} trở nên vô cùng hứng thú với Hư không và muốn tìm hiểu nó thông qua nghi thức Khiêu khích Hư không (Void Provocation).\n\nSử dụng nghi thức Khiêu khích Hư không để khám phá và bắt giữ thực thể. Thực thể bị bắt có thể được nghiên cứu để hoàn thành các dự án Anomaly hoặc kết nối với Máy khai thác Bioferrite để sản sinh ra Bioferrite.\n\nĐặt một Điểm nghi thức tâm linh để thực hiện Khiêu khích Hư không.</VoidCuriosityText_Researched>
+  <VoidCuriosityText_Researched>{PAWN_nameDef} trở nên vô cùng hứng thú với Hư không và muốn tìm hiểu nó thông qua nghi thức Khiêu khích Hư không (Void Provocation).\n\nSử dụng nghi thức Khiêu khích Hư không để khám phá và bắt giữ thực thể. Thực thể bị bắt có thể được nghiên cứu để hoàn thành các dự án Anomaly hoặc kết nối với Máy khai thác kim loại sinh học để sản sinh ra kim loại sinh học.\n\nĐặt một Điểm nghi thức tâm linh để thực hiện Khiêu khích Hư không.</VoidCuriosityText_Researched>
   <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nResearch void provocation, then place a psychic ritual spot to perform the ritual. -->
-  <VoidCuriosityText_NotResearched>{PAWN_nameDef} trở nên vô cùng hứng thú với Hư không và muốn tìm hiểu nó thông qua nghi thức Khiêu khích Hư không (Void Provocation).\n\nSử dụng nghi thức Khiêu khích Hư không để khám phá và bắt giữ thực thể. Thực thể bị bắt có thể được nghiên cứu để hoàn thành các dự án Anomaly hoặc kết nối với Máy khai thác Bioferrite để sản sinh ra Bioferrite.\n\nHãy nghiên cứu Khiêu khích Hư không trước, sau đó đặt một Điểm nghi thức tâm linh để tiến hành nghi thức.</VoidCuriosityText_NotResearched>
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef} trở nên vô cùng hứng thú với Hư không và muốn tìm hiểu nó thông qua nghi thức Khiêu khích Hư không (Void Provocation).\n\nSử dụng nghi thức Khiêu khích Hư không để khám phá và bắt giữ thực thể. Thực thể bị bắt có thể được nghiên cứu để hoàn thành các dự án Anomaly hoặc kết nối với Máy khai thác kim loại sinh học để sản sinh ra kim loại sinh học.\n\nHãy nghiên cứu Khiêu khích Hư không trước, sau đó đặt một Điểm nghi thức tâm linh để tiến hành nghi thức.</VoidCuriosityText_NotResearched>
 
 </LanguageData>

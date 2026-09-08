@@ -17,9 +17,9 @@
 
   <!-- Self-resurrection -->
   <!-- EN: {0_nameDef} can self-resurrect on command using death refusal. -->
-  <SelfResurrectText>{0_nameDef} có thể tự hồi sinh khi có lệnh bằng cách sử dụng Kháng tử.</SelfResurrectText>
+  <SelfResurrectText>{0_nameDef} có thể tự hồi sinh khi có lệnh bằng cách sử dụng từ chối tử thần.</SelfResurrectText>
   <!-- EN: {0_nameDef} is using death refusal to self-resurrect. -->
-  <MessageUsingSelfResurrection>{0_nameDef} đang sử dụng Kháng tử để tự hồi sinh.</MessageUsingSelfResurrection>
+  <MessageUsingSelfResurrection>{0_nameDef} đang sử dụng từ chối tử thần để tự hồi sinh.</MessageUsingSelfResurrection>
 
   <!-- Pit Gate -->
   <!-- EN: The pit gate has collapsed. -->
@@ -73,20 +73,20 @@
   
   <!-- Revenant -->
   <!-- EN: A hidden revenant has been revealed! -->
-  <MessageRevenantForcedVisibility>revenant vừa bị bắt hiện hình!</MessageRevenantForcedVisibility>
+  <MessageRevenantForcedVisibility>U hồn vừa bị bắt hiện hình!</MessageRevenantForcedVisibility>
   <!-- EN: {PAWN_nameDef} can hear the revenant {1} nearby! -->
-  <MessageRevenantHeard>{PAWN_nameDef} nghe tiếng revenant {1} gần đây!</MessageRevenantHeard>
+  <MessageRevenantHeard>{PAWN_nameDef} nghe tiếng u hồn {1} gần đây!</MessageRevenantHeard>
   
   <!-- Abilities -->
   <!-- EN: {ABILITY_label} cannot be used on non-bleeding creatures. -->
   <MessageCannotUseOnNonBleeder>Không thể sử dụng chiêu thức {ABILITY_label} lên sinh vật không chảy máu.</MessageCannotUseOnNonBleeder>
   
   <!-- EN: {WAKER_nameDef} has disturbed a fingerspike. -->
-  <MessageFingerspikeDisturbed>{WAKER_nameDef} đã đánh động Gai ngón.</MessageFingerspikeDisturbed>
+  <MessageFingerspikeDisturbed>{WAKER_nameDef} đã đánh động quái thịt gai.</MessageFingerspikeDisturbed>
   <!-- EN: {WAKER_nameDef} has disturbed several fingerspikes. -->
-  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} đã đánh động nhiều Gai ngón.</MessageFingerspikeDisturbedPlural>
+  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} đã đánh động nhiều quái thịt gai.</MessageFingerspikeDisturbedPlural>
 
   <!-- EN: The death pall has begun to resurrect corpses. -->
-  <DeathPallResurrectedMessage>Màn tang tóc đã hồi sinh {0_indefinite}.</DeathPallResurrectedMessage>
+  <DeathPallResurrectedMessage>Màn sương tử linh bắt đầu đánh thức các xác chết.</DeathPallResurrectedMessage>
   
 </LanguageData>

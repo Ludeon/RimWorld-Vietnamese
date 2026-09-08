@@ -30,7 +30,7 @@
   <!-- EN: Map-wide offset -->
   <Stat_ContainmentStrength_MapwideOffset>Bù trừ phạm vi bản đồ</Stat_ContainmentStrength_MapwideOffset>
   <!-- EN: door open -->
-  <Stat_ContainmentStrength_DoorForcedOpen>Cửa bị mở</Stat_ContainmentStrength_DoorForcedOpen>
+  <Stat_ContainmentStrength_DoorForcedOpen>cửa mở</Stat_ContainmentStrength_DoorForcedOpen>
   <!-- EN: Not fully roofed -->
   <Stat_ContainmentStrength_NotFullyRoofed>Mái không hoàn thiện</Stat_ContainmentStrength_NotFullyRoofed>
   <!-- EN: Flooring -->
@@ -39,13 +39,13 @@
   <Stat_ContainmentStrength_Platform>Bệ</Stat_ContainmentStrength_Platform>
 
   <!-- EN: Bioferrite generation -->
-  <StatsReport_BioferriteGeneration>Tạo Bioferrite</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration>Tạo kim loại sinh học</StatsReport_BioferriteGeneration>
   <!-- EN: How much bioferrite this entity generates per day when connected to a bioferrite harvester. -->
-  <StatsReport_BioferriteGeneration_Desc>Lượng Bioferrite thực thể này tạo ra mỗi ngày. Khi bị bắt trên bệ giam giữ, có thể thu thập Bioferrite từ nó bằng cách xây dựng một máy khai thác Bioferrite.</StatsReport_BioferriteGeneration_Desc>
+  <StatsReport_BioferriteGeneration_Desc>Lượng kim loại sinh học thực thể này tạo ra mỗi ngày. Khi bị bắt trên bệ giam giữ, có thể thu thập kim loại sinh học từ nó bằng cách xây dựng một máy khai thác kim loại sinh học.</StatsReport_BioferriteGeneration_Desc>
   <!-- EN: Multiplier for bioferrite density -->
-  <StatsReport_BioferriteDensityMultiplier>Hệ số mật độ Bioferrite</StatsReport_BioferriteDensityMultiplier>
+  <StatsReport_BioferriteDensityMultiplier>Hệ số mật độ kim loại sinh học</StatsReport_BioferriteDensityMultiplier>
   <!-- EN: Multiplier for bioferrite extracted recently -->
-  <StatsReport_BioferriteExtractedMultiplier>Hệ số cho lượng bioferrite vừa được trích xuất</StatsReport_BioferriteExtractedMultiplier>
+  <StatsReport_BioferriteExtractedMultiplier>Hệ số cho lượng kim loại sinh học vừa được trích xuất</StatsReport_BioferriteExtractedMultiplier>
 
   <!-- EN: Offering -->
   <StatsReport_Offering>Lễ vật</StatsReport_Offering>
@@ -68,7 +68,7 @@
   <StatsReport_ContainmentStrengthOffset_Desc>Mức độ ảnh hưởng đến khả năng giữ một thực thể trên bệ giam giữ. Thực thể được giam giữ tốt sẽ khó thoát hơn và cung cấp nhiều kiến thức hơn khi nghiên cứu.</StatsReport_ContainmentStrengthOffset_Desc>
 
   <!-- EN: Duration -->
-  <StatsReport_SerumDuration>Thời lượng huyết thanh</StatsReport_SerumDuration>
+  <StatsReport_SerumDuration>Hiệu lực</StatsReport_SerumDuration>
   <!-- EN: How long the effects of a serum last. -->
   <StatsReport_SerumDuration_Desc>Hiệu lực của huyết thanh kéo dài bao lâu.</StatsReport_SerumDuration_Desc>
   

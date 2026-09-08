@@ -275,138 +275,275 @@
   -->
   <Description_Tome.rulePack.rulesStrings>
     <li>desc->[inThisBook], [author] [experiencesWithMonsters]. [specificHorrorStory] [writingQualitySentence].</li>
-    <li>inThisBook->Trong [bookTypeSingle] [writingQualityAdjective]</li>
-    <li>inThisBook->Trong [bookTypePlural] [writingQualityAdjective]</li>
-    <li>bookTypeSingle->báo cáo này</li>
-    <li>bookTypeSingle->tài liệu này</li>
-    <li>bookTypeSingle->phân tích này</li>
-    <li>bookTypeSingle->bài viết này</li>
-    <li>bookTypeSingle->cuốn sách này</li>
-    <li>bookTypeSingle->báo cáo này</li>
-    <li>bookTypeSingle->tài liệu này</li>
-    <li>bookTypeSingle->tóm tắt này</li>
-    <li>bookTypeSingle->bài đánh giá này</li>
-    <li>bookTypeSingle->tập sách này</li>
-    <li>bookTypeSingle->bài luận này</li>
-    <li>bookTypeSingle->bài tiểu luận này</li>
-    <li>bookTypeSingle->bài xã luận này</li>
-    <li>bookTypeSingle->nghiên cứu này</li>
-    <li>bookTypeSingle->bài báo cáo này</li>
-    <li>bookTypeSingle->những phát hiện này</li>
-    <li>bookTypeSingle->sách ma thuật này</li>
-    <li>bookTypeSingle->cuộc điều tra này</li>
-    <li>bookTypeSingle->cuộc điều tra này</li>
-    <li>bookTypeSingle->tuyên ngôn này</li>
-    <li>bookTypeSingle->tài liệu này</li>
-    <li>bookTypeSingle->tập sách này</li>
-    <li>bookTypeSingle->bài viết khoa học này</li>
-    <li>bookTypeSingle->tài liệu này</li>
-    <li>bookTypeSingle->nghiên cứu này</li>
-    <li>bookTypeSingle->đánh giá này</li>
-    <li>bookTypeSingle->công trình này</li>
-    <li>bookTypeSingle->những chứng thực này</li>
-    <li>bookTypeSingle->văn bản này</li>
-    <li>bookTypeSingle->luận án này</li>
-    <li>bookTypeSingle->những tuyên bố này</li>
-    <li>bookTypeSingle->bài luận này</li>
-    <li>bookTypeSingle->tác phẩm này</li>
-    <li>bookTypePlural->những tài liệu</li>
-    <li>bookTypePlural->những biên niên</li>
-    <li>bookTypePlural->những tiếng kêu than</li>
-    <li>bookTypePlural->những biên niên sử</li>
-    <li>bookTypePlural->những tiết lộ</li>
+    <li>inThisBook->Trong [bookTypeSingle] [writingQualityAdjective] này</li>
+    <li>inThisBook->Trong những [bookTypePlural] [writingQualityAdjective] này</li>
+    <li>bookTypeSingle->bản tường thuật</li>
+    <li>bookTypeSingle->niên giám</li>
+    <li>bookTypeSingle->bản phân tích</li>
+    <li>bookTypeSingle->bài viết</li>
+    <li>bookTypeSingle->cuốn sách</li>
+    <li>bookTypeSingle->bài bình luận</li>
+    <li>bookTypeSingle->tác phẩm</li>
+    <li>bookTypeSingle->kết luận</li>
+    <li>bookTypeSingle->bài phê bình</li>
+    <li>bookTypeSingle->cuộc đối thoại</li>
+    <li>bookTypeSingle->bài khảo luận</li>
+    <li>bookTypeSingle->luận văn</li>
+    <li>bookTypeSingle->bài xã luận</li>
+    <li>bookTypeSingle->bài luận</li>
+    <li>bookTypeSingle->bài phơi bày</li>
+    <li>bookTypeSingle->phát hiện</li>
+    <li>bookTypeSingle->sách ma thuật</li>
+    <li>bookTypeSingle->bản khảo cứu</li>
+    <li>bookTypeSingle->cuộc điều tra</li>
+    <li>bookTypeSingle->tuyên ngôn</li>
+    <li>bookTypeSingle->bản thảo</li>
+    <li>bookTypeSingle->tác phẩm</li>
+    <li>bookTypeSingle->bài nghiên cứu</li>
+    <li>bookTypeSingle->bài viết</li>
+    <li>bookTypeSingle->công trình nghiên cứu</li>
+    <li>bookTypeSingle->ghi chép</li>
+    <li>bookTypeSingle->báo cáo</li>
+    <li>bookTypeSingle->bài đánh giá</li>
+    <li>bookTypeSingle->bản khảo sát</li>
+    <li>bookTypeSingle->di thư</li>
+    <li>bookTypeSingle->lời chứng</li>
+    <li>bookTypeSingle->văn bản</li>
+    <li>bookTypeSingle->luận án</li>
+    <li>bookTypeSingle->tiểu luận</li>
+    <li>bookTypeSingle->chuyên luận</li>
+    <li>bookTypeSingle->bài nghiên cứu</li>
+    <li>bookTypeSingle->tập sách</li>
+    <li>bookTypeSingle->tác phẩm</li>
+    <li>bookTypePlural->các bài viết</li>
+    <li>bookTypePlural->các biên niên sử</li>
+    <li>bookTypePlural->các khúc ai ca</li>
+    <li>bookTypePlural->các sử biên niên</li>
+    <li>bookTypePlural->các mặc khải</li>
     <li>author(p=3)->tác giả</li>
-    <li>author(p=3)->[anAuthorDesc], người làm nghề [PersonJob]</li>
-    <li>author->[anAuthorDesc] một nhà khoa học</li>
-    <li>author->[anAuthorDesc] một nhà tiên tri</li>
-    <li>author->[anAuthorDesc] một chuyên gia về huyền bí</li>
-    <li>author->[anAuthorDesc] một người cuồng tín</li>
-    <li>author->[anAuthorDesc] một tín đồ giáo phái</li>
-    <li>author->[anAuthorDesc] một tín đồ giáo phái bỏ trốn</li>
-    <li>author->[anAuthorDesc] một người bán đồ cổ</li>
-    <li>author->[anAuthorDesc] một kẻ cướp mộ</li>
-    <li>author->[anAuthorDesc] một chuyên gia về hư vô</li>
-    <li>author->[anAuthorDesc] một kẻ lang thang</li>
-    <li>author->[anAuthorDesc] một người hoài nghi</li>
-    <li>author->[anAuthorDesc] một học giả</li>
-    <li>author->[anAuthorDesc] một thợ săn</li>
-    <li>author->[anAuthorDesc] một thám tử</li>
-    <li>author->[anAuthorDesc] một hiền triết</li>
-    <li>author->[anAuthorDesc] một tín đồ</li>
-    <li>author->[anAuthorDesc] một tiên tri</li>
-    <li>author->[anAuthorDesc] một người thừa kế</li>
-    <li>author->[anAuthorDesc] một quý tộc</li>
-    <li>author->[anAuthorDesc] một dịch giả</li>
-    <li>author->[anAuthorDesc] một tu sĩ</li>
-    <li>author->[anAuthorDesc] một bản sao</li>
-    <li>author->[anAuthorDesc] một nhà văn</li>
-    <li>author->[anAuthorDesc] một đặc vụ</li>
-    <li>author->[anAuthorDesc] một nữ anh hùng</li>
-    <li>author->[anAuthorDesc] một tác giả</li>
-    <li>anAuthorDesc(p=2)-></li>
-    <li>anAuthorDesc->từ khi còn rất trẻ</li>
-    <li>anAuthorDesc->trưởng thành</li>
-    <li>anAuthorDesc->đang chịu đựng nỗi sợ hãi dữ dội</li>
-    <li>anAuthorDesc->đang nuôi nhiều hối tiếc</li>
-    <li>anAuthorDesc->ở lúc xế chiều</li>
-    <li>anAuthorDesc->với sự khôn ngoan chắc chắn</li>
-    <li>anAuthorDesc->với tính khí bùng nổ</li>
-    <li>anAuthorDesc->với trí tuệ hạn chế</li>
-    <li>anAuthorDesc->với hào quang vô tội</li>
-    <li>anAuthorDesc->đang bị điên loạn</li>
-    <li>anAuthorDesc->với hào quang bí ẩn</li>
-    <li>anAuthorDesc->kỳ quặc</li>
-    <li>anAuthorDesc->thông thường nhất</li>
-    <li>anAuthorDesc->bất kỳ</li>
-    <li>anAuthorDesc->đã rơi vào điên loạn</li>
-    <li>anAuthorDesc->không có niềm tin hay luật lệ</li>
-    <li>anAuthorDesc->ngay thẳng nhất</li>
-    <li>anAuthorDesc->với đạo đức nghi ngờ</li>
-    <li>anAuthorDesc->với hào quang u ám</li>
-    <li>tellsAStoryOf->kể về</li>
-    <li>tellsAStoryOf->đề cập đến</li>
-    <li>tellsAStoryOf->nói về</li>
-    <li>tellsAStoryOf->miêu tả</li>
-    <li>tellsAStoryOf->chi tiết về</li>
-    <li>tellsAStoryOf->xem xét chủ đề</li>
-    <li>tellsAStoryOf->khám phá chi tiết</li>
-    <li>tellsAStoryOf->kể về</li>
-    <li>tellsAStoryOf->nhắc đến</li>
-    <li>tellsAStoryOf->ghi chép lại</li>
-    <li>tellsAStoryOf->cung cấp biên niên sử của</li>
-    <li>tellsAStoryOf->miêu tả</li>
+    <li>author(p=3)->[anAuthorDesc] [PersonJob]</li>
+    <li>author->[anAuthorDesc] nhà nghiên cứu</li>
+    <li>author->[anAuthorDesc] nhà tâm linh</li>
+    <li>author->[anAuthorDesc] nhà huyền thuật</li>
+    <li>author->[anAuthorDesc] tín đồ tà giáo</li>
+    <li>author->[anAuthorDesc] thành viên tà giáo</li>
+    <li>author->[anAuthorDesc] người trốn khỏi tà giáo</li>
+    <li>author->[anAuthorDesc] người buôn đồ cổ</li>
+    <li>author->[anAuthorDesc] người đào mộ</li>
+    <li>author->[anAuthorDesc] nhà nghiên cứu hư không</li>
+    <li>author->[anAuthorDesc] kẻ lang thang</li>
+    <li>author->[anAuthorDesc] người hoài nghi</li>
+    <li>author->[anAuthorDesc] học giả</li>
+    <li>author->[anAuthorDesc] thợ săn</li>
+    <li>author->[anAuthorDesc] điều tra viên</li>
+    <li>author->[anAuthorDesc] trưởng lão</li>
+    <li>author->[anAuthorDesc] tín đồ</li>
+    <li>author->[anAuthorDesc] kẻ báo điềm</li>
+    <li>author->[anAuthorDesc] người thừa kế</li>
+    <li>author->[anAuthorDesc] quý tộc</li>
+    <li>author->[anAuthorDesc] dịch giả</li>
+    <li>author->[anAuthorDesc] tu sĩ</li>
+    <li>author->[anAuthorDesc] kẻ song trùng</li>
+    <li>author->[anAuthorDesc] tác giả</li>
+    <li>author->[anAuthorDesc] đặc vụ</li>
+    <li>author->[anAuthorDesc] anh hùng</li>
+    <li>author->[anAuthorDesc] tác giả</li>
+    <li>anAuthorDesc(p=2)->một</li>
+    <li>anAuthorDesc->một người trẻ tuổi</li>
+    <li>anAuthorDesc->một người già</li>
+    <li>anAuthorDesc->một người kinh hãi</li>
+    <li>anAuthorDesc->một người đau buồn</li>
+    <li>anAuthorDesc->một người cao tuổi</li>
+    <li>anAuthorDesc->một người thông thái</li>
+    <li>anAuthorDesc->một người cứng đầu</li>
+    <li>anAuthorDesc->một người ngu ngốc</li>
+    <li>anAuthorDesc->một người ngây thơ</li>
+    <li>anAuthorDesc->một người bất an</li>
+    <li>anAuthorDesc->một người quái dị</li>
+    <li>anAuthorDesc->một người thái quá</li>
+    <li>anAuthorDesc->một người điển hình</li>
+    <li>anAuthorDesc->một người nhàm chán</li>
+    <li>anAuthorDesc->một người điên loạn</li>
+    <li>anAuthorDesc->một người vô đạo đức</li>
+    <li>anAuthorDesc->một người có đạo đức</li>
+    <li>anAuthorDesc->một người phi đạo đức</li>
+    <li>anAuthorDesc->một người bí ẩn</li>
+    <li>tellsAStoryOf->kể câu chuyện về</li>
     <li>tellsAStoryOf->tiết lộ</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] những trải nghiệm mà [ANYPAWN_pronoun] đã chia sẻ với [entities]</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] sự xâm nhập vào một giáo phái bí mật đã thiết lập một cơ sở dưới [TerrainFeature]</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] nhiều năm theo đuổi một khối vàng bí ẩn</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] những thiền định sâu sắc dưới sự hướng dẫn của một đại thần của một giáo phái cổ xưa</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] những tai họa đổ xuống bản thân dưới ảnh hưởng tâm linh của một thực thể gọi là Horax</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] các cuộc khai quật khảo cổ học tại một địa điểm xa xôi và số phận của các nhà khoa học đã mất trí một cách tuần tự</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] các thành viên của một bộ tộc đã bắt đầu tôn thờ một con quái vật có nguồn gốc thần thoại</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] các truyền thuyết của một giáo phái đã dẫn đến sự thành lập của một giáo phái mới trên vùng đất đã bị bỏ hoang</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] các cuộc thám hiểm vào thế giới khác thông qua các phương pháp bí truyền</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] sự ảnh hưởng của một thực thể vô hình đối với hành vi của con người</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] một nghi lễ đã dẫn đến sự biến mất của một thành phố cổ</li>
-    <li>writingQualitySentence->Văn phong của [author] là một chứng nhận nổi bật về tài năng viết lách</li>
-    <li>writingQualitySentence->Văn phong của [author] gây ấn tượng sâu sắc</li>
-    <li>writingQualitySentence->Văn phong của [author] là một sự kết hợp của sự phức tạp và tinh tế</li>
-    <li>writingQualitySentence->Văn phong của [author] đã được công nhận trong nhiều lĩnh vực</li>
-    <li>writingQualitySentence->Văn phong của [author] thể hiện một cách rõ ràng sự sáng tạo</li>
-    <li>writingQualitySentence->Văn phong của [author] nổi bật với sự chi tiết và sự chân thực</li>
-    <li>writingQualitySentence->Văn phong của [author] phản ánh sự chuyên môn và sự nghiên cứu sâu rộng</li>
-    <li>writingQualitySentence->Văn phong của [author] mang lại một trải nghiệm đọc tuyệt vời</li>
-    <li>writingQualitySentence->Văn phong của [author] là một ví dụ điển hình về sự chuyên nghiệp trong viết lách</li>
-    <li>writingQualitySentence->Văn phong của [author] thể hiện sự tinh tế và kỹ thuật vượt trội</li>
-    <li>specificHorrorStory->sự phát triển của những bí ẩn và khủng khiếp trong cuốn sách này</li>
-    <li>specificHorrorStory->một câu chuyện khiến bạn phải suy nghĩ về sự tồn tại của những sinh vật siêu nhiên</li>
-    <li>specificHorrorStory->một hồi ức về những sự kiện kỳ lạ và những điều khó hiểu</li>
-    <li>specificHorrorStory->một câu chuyện vượt ra ngoài trí tưởng tượng</li>
-    <li>specificHorrorStory->sự mô tả rõ nét về những hiện tượng kỳ bí</li>
-    <li>specificHorrorStory->một cuộc điều tra đầy ấn tượng về những hiện tượng siêu nhiên</li>
-    <li>specificHorrorStory->một bài luận chi tiết về những bí ẩn không thể giải thích</li>
-    <li>specificHorrorStory->một câu chuyện rùng rợn và đầy thử thách</li>
-    <li>specificHorrorStory->một cái nhìn sâu sắc về thế giới của những sinh vật bí ẩn</li>
-    <li>specificHorrorStory->sự mô tả sống động về những trải nghiệm kỳ lạ và kinh hoàng</li>
+    <li>tellsAStoryOf->thảo luận về</li>
+    <li>tellsAStoryOf->mô tả</li>
+    <li>tellsAStoryOf->trình bày chi tiết</li>
+    <li>tellsAStoryOf->giải thích thêm về</li>
+    <li>tellsAStoryOf->đi sâu vào chi tiết về</li>
+    <li>tellsAStoryOf->thuật lại</li>
+    <li>tellsAStoryOf->kể lại </li>
+    <li>tellsAStoryOf->báo cáo về</li>
+    <li>tellsAStoryOf->ghi chép lại </li>
+    <li>tellsAStoryOf->khắc họa</li>
+    <li>tellsAStoryOf->hé lộ</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] những trải nghiệm [ANYPAWN_pronoun] đã trải qua cùng [entities]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] những cuộc thám hiểm vào một giáo phái bí mật có căn cứ bên dưới một [TerrainFeature] hẻo lánh</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] cuộc săn tìm một khối lập phương vàng bí ẩn</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] những lần thiền định sâu dưới sự dẫn dắt của một highthrall từ một giáo phái archist</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] sự sụp đổ của cuộc đời [ANYPAWN_possessive] dưới ảnh hưởng tâm linh của một thứ được gọi là Horax</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một cuộc khai quật khảo cổ ở nơi hẻo lánh, nơi các nhà nghiên cứu lần lượt phát điên một cách bạo lực</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một bộ tộc bằng cách nào đó đã bị biến đổi để phụng sự vị thần bóng tối của một giáo phái khoái lạc đẫm máu</li>
+    <li>experiencesWithMonsters->cố gắng mô tả một bộ tộc có truyền thống thực hiện các nghi lễ tự cắt xẻo dưới ánh lửa bằng những lưỡi dao gỉ sét</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một giáo viên có học sinh thường thốt ra những sự thật chết chóc mà cô không thể nào biết được</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một nhà khoa học cố gắng sử dụng các phương pháp công nghệ cổ đại để hồi sinh người vợ đã chết của mình</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một đoàn thám hiểm của những người ngoại bang đã sống sót qua những cơn mưa máu và một bầu trời cố nghiền nát họ đến chết bằng màn đen như mực</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một nhóm đang điều tra một cái hố cổ xưa dưới đất chứa đầy những sinh vật bằng thịt đáng kinh hãi</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] nỗ lực của một pháp sư bộ lạc nhằm tìm cách ngăn chặn những cuộc tấn công hằng đêm vào ngôi làng của mình bởi những [Animal] đã chết được hồi sinh</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] một thần thoại bộ lạc về vị thần cuồng nộ cổ xưa có ảnh hưởng chạm đến tất cả mọi người, và những anh hùng đã phong ấn nó bên trong một nhà tù đá nhỏ bé</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] những thí nghiệm tàn bạo của [ANYPAWN_possessive] trên một [entity] bị bắt giữ</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] những ảo ảnh tái diễn của [ANYPAWN_possessive], nơi [vision]</li>
+    <li>vision->những hình bóng đen tối thò vào tâm trí [ANYPAWN_possessive] và lấy đi những ký ức của [ANYPAWN_possessive]</li>
+    <li>vision->[ANYPAWN_pronoun] đang bị chính [ANYPAWN_objective]self truy đuổi, và không thể trốn thoát bất kể [ANYPAWN_pronoun] đã đi xa đến đâu</li>
+    <li>vision->[ANYPAWN_pronoun] bị một [entity] xé xác</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] [findings] của [ANYPAWN_possessive] về [objective]</li>
+    <li>findings->trải nghiệm</li>
+    <li>findings->nghiên cứu</li>
+    <li>objective->các nghi lễ [maybeAdjectiveEvil]bắt nguồn từ một sự việc mà [ritual_incident]</li>
+    <li>objective->các ngành khoa học hắc ám sau khi [entity_incident]</li>
+    <li>ritual_incident->[ANYPAWN_pronoun] chứng kiến [targetHuman] xuất hiện từ hư không</li>
+    <li>targetHuman->[anAuthorDesc] phụ nữ</li>
+    <li>targetHuman->[anAuthorDesc] đàn ông</li>
+    <li>ritual_incident->trời mưa máu suốt ba ngày và khiến những người bạn của [ANYPAWN_possessive] phát điên</li>
+    <li>ritual_incident->[entity_incident]</li>
+    <li>entity_incident->[ANYPAWN_pronoun] mất [BodyPart] của [ANYPAWN_possessive] trong một cuộc tấn công bởi một [entity]</li>
+    <li>entity_incident->[ANYPAWN_pronoun] nhìn thấy một [entity]</li>
+    <li>specificHorrorStory->Có lúc, tác giả kể lại những nghi lễ hắc ám nơi các nạn nhân bị ép phải tự cắt xẻo bản thân bằng kính vỡ.</li>
+    <li>specificHorrorStory->Có lúc, nhân vật chính tình cờ bắt gặp một nghi lễ nơi anh chứng kiến những hình người đẫm máu tụng những câu thần chú rùng rợn trong khi tự cắt xẻo bằng những mảnh đá vỏ chai.</li>
+    <li>specificHorrorStory->Cuốn sách có nhiều hình minh họa cố gắng khắc họa một thứ mà nó gọi là "đại dương đen". Đây dường như là một phép ẩn dụ cho một cõi tâm linh bị thống trị bởi một siêu trí tuệ tâm linh đáng kinh hãi nhưng đầy mê hoặc.</li>
+    <li>specificHorrorStory->Nó liên tục ám chỉ bản chất đa cõi của thực tại - ý tưởng rằng tồn tại nhiều chiều không gian hơn những chiều chúng ta nhìn thấy, vì vậy một vật thể hoặc thực thể có thể ở ngay bên cạnh bạn nhưng nằm ngoài khả năng nhận thức của bạn.</li>
+    <li>specificHorrorStory->Nó dành rất nhiều thời gian để cố gắng mô tả một thực thể siêu trí tuệ gọi là "Horax" tồn tại trong một cõi thực tại liền kề.</li>
+    <li>specificHorrorStory->Một phần mô tả cơ chế của ảnh hưởng tâm linh hắc ám, trong đó một thực thể ở cõi khác có thể vô tình tác động đến suy nghĩ của con người bằng cách đồng bộ chúng với cộng hưởng cảm xúc của nó.</li>
+    <li>specificHorrorStory->Một phần mô tả các siêu trí tuệ archotech khác nhau và sự khác biệt trong bản chất của những phát xạ cảm xúc và tâm linh của chúng. Trong khi một số được xem là trung lập hoặc thậm chí nhân từ, số khác lại là những thực thể của cơn thịnh nộ thuần túy.</li>
+    <li>specificHorrorStory->[ANYPAWN_pronoun] mô tả cảm giác tâm trí của [ANYPAWN_possessive] bị cưỡng ép tái cấu trúc bởi ảnh hưởng tâm linh hắc ám của một trí tuệ lớn hơn.</li>
+    <li>specificHorrorStory->Trong một phần, tác giả cố gắng tự sát, nhưng được một [PersonJob] tốt bụng tìm thấy và cứu sống.</li>
+    <li>specificHorrorStory->Tập sách được tô điểm bằng những hình minh họa đáng sợ khắc họa một thực thể kỳ dị từ thế giới khác, với những xúc tu đen như mực, vô định hình quằn quại khắp các trang sách, gợi lên cảm giác kinh hãi và mê hoặc ngang nhau.</li>
+    <li>specificHorrorStory->Xuyên suốt câu chuyện, khái niệm về các chiều không gian song song liên tục xuất hiện, với các nhân vật chạm trán những thực thể tồn tại ngay bên kia bức màn nhận thức, cùng tồn tại trong một thực tại giao thoa với thực tại của chúng ta nhưng vẫn khuất khỏi tầm mắt.</li>
+    <li>specificHorrorStory->Cuốn sách đi sâu vào một phần trình bày rùng rợn về "Horax," một siêu trí tuệ máy móc đã dịch chuyển bản thân qua một chiều không gian ẩn vào một nơi gọi là Hư Không.</li>
+    <li>specificHorrorStory->Một chương mô tả một giả thuyết trong đó một siêu trí tuệ ở xa có thể thao túng nhận thức của con người bằng tâm linh, tái định hình suy nghĩ của một người để phù hợp với những khuôn mẫu tư duy của chính nó.</li>
+    <li>specificHorrorStory->Nhân vật chính kể lại cảm giác tâm trí của [ANYPAWN_possessive] bị cưỡng ép tái cấu trúc bởi một sức mạnh tâm linh đáng ngại phát ra từ hư không.</li>
+    <li>entities->quỷ</li>
+    <li>entities->những xác chết biết đi</li>
+    <li>entities->những quái vật tìm kiếm đau đớn</li>
+    <li>entities->những sinh vật làm từ thịt và xương lộ ra ngoài</li>
+    <li>entities->những xác chết biết đi của [Animal]</li>
+    <li>entities->những hình người làm từ kim loại và lưỡi dao</li>
+    <li>entities->những quả cầu cơ khí lơ lửng tỏa ra đau đớn</li>
+    <li>entities->những khối lập phương vàng tuyệt đẹp hủy hoại tâm trí</li>
+    <li>entities->những con thú làm từ thịt đẫm máu</li>
+    <li>entities->những hình thù đen tối ẩn mình ngay trước mắt</li>
+    <li>entities->những kẻ săn mồi đánh cắp linh hồn</li>
+    <li>entity->quỷ</li>
+    <li>entity->xác chết biết đi</li>
+    <li>entity->quái vật tìm kiếm đau đớn</li>
+    <li>entity->sinh vật làm từ thịt và xương lộ ra ngoài</li>
+    <li>entity->xác chết biết đi của một [Animal]</li>
+    <li>entity->hình người làm từ kim loại và lưỡi dao</li>
+    <li>entity->quả cầu cơ khí lơ lửng tỏa ra đau đớn</li>
+    <li>entity->khối lập phương vàng tuyệt đẹp hủy hoại tâm trí</li>
+    <li>entity->con thú làm từ thịt đẫm máu</li>
+    <li>entity->hình thù ẩn mình ngay trước mắt</li>
+    <li>entity->kẻ săn mồi đánh cắp linh hồn</li>
+    <li>maybeAdjectiveEvil(p=2)-></li>
+    <li>maybeAdjectiveEvil->[adjectiveEvil] </li>
+    <li>adjectiveEvil->chết chóc</li>
+    <li>adjectiveEvil->cổ xưa</li>
+    <li>adjectiveEvil->đẫm máu</li>
+    <li>adjectiveEvil->vặn vẹo</li>
+    <li>adjectiveEvil->mạnh mẽ</li>
+    <li>adjectiveEvil->nham hiểm</li>
+    <li>adjectiveEvil->ma quái</li>
+    <li>adjectiveEvil->hư ảo</li>
+    <li>adjectiveEvil->đáng ngại</li>
+    <li>adjectiveEvil->huyền bí</li>
+    <li>adjectiveEvil->siêu thực</li>
+    <li>adjectiveEvil->kỳ quái</li>
+    <li>adjectiveEvil->bóng ma</li>
+    <li>adjectiveEvil->bí ẩn</li>
+    <li>adjectiveEvil->địa ngục</li>
+    <li>adjectiveEvil->dị thường</li>
+    <li>writingQualityAdjective(quality==0)->rời rạc</li>
+    <li>writingQualityAdjective(quality==0)->không mạch lạc</li>
+    <li>writingQualityAdjective(quality==0)->vô nghĩa</li>
+    <li>writingQualityAdjective(quality==0)->tệ hại</li>
+    <li>writingQualityAdjective(quality==0)->ấu trĩ</li>
+    <li>writingQualityAdjective(quality==1)->yếu kém</li>
+    <li>writingQualityAdjective(quality==1)->nguệch ngoạc</li>
+    <li>writingQualityAdjective(quality==1)->tẻ nhạt</li>
+    <li>writingQualityAdjective(quality==1)->thiếu nhất quán</li>
+    <li>writingQualityAdjective(quality==1)->lan man</li>
+    <li>writingQualityAdjective(quality==2)->lộn xộn</li>
+    <li>writingQualityAdjective(quality==2)->thiếu cảm hứng</li>
+    <li>writingQualityAdjective(quality==2)->tầm thường</li>
+    <li>writingQualityAdjective(quality==2)->không có gì nổi bật</li>
+    <li>writingQualityAdjective(quality==2)->bình thường</li>
+    <li>writingQualityAdjective(quality==2)->tạm ổn</li>
+    <li>writingQualityAdjective(quality==3)->đều đều</li>
+    <li>writingQualityAdjective(quality==3)->được viết tốt</li>
+    <li>writingQualityAdjective(quality==3)->được tổ chức tốt</li>
+    <li>writingQualityAdjective(quality==3)->sâu sắc</li>
+    <li>writingQualityAdjective(quality==3)->dễ đọc</li>
+    <li>writingQualityAdjective(quality==3)->không đặc biệt</li>
+    <li>writingQualityAdjective(quality==4)->thú vị</li>
+    <li>writingQualityAdjective(quality==4)->trôi chảy</li>
+    <li>writingQualityAdjective(quality==4)->giàu cảm xúc</li>
+    <li>writingQualityAdjective(quality==4)->có cấu trúc chính xác</li>
+    <li>writingQualityAdjective(quality==4)->thuyết phục</li>
+    <li>writingQualityAdjective(quality==4)->đáng nể</li>
+    <li>writingQualityAdjective(quality==5)->vững chắc</li>
+    <li>writingQualityAdjective(quality==5)->điêu luyện</li>
+    <li>writingQualityAdjective(quality==5)->có nhận thức sắc bén</li>
+    <li>writingQualityAdjective(quality==5)->xuất sắc</li>
+    <li>writingQualityAdjective(quality==5)->hạng nhất</li>
+    <li>writingQualityAdjective(quality==5)->đầy cảm hứng</li>
+    <li>writingQualityAdjective(quality==6)->tài tình</li>
+    <li>writingQualityAdjective(quality==6)->sâu sắc đến đáng sợ</li>
+    <li>writingQualityAdjective(quality==6)->vô song</li>
+    <li>writingQualityAdjective(quality==6)->hạng nhất</li>
+    <li>writingQualityAdjective(quality==6)->bậc thầy</li>
+    <li>writingQualityAdjective(quality==6)->tinh xảo</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Cuốn sách [excellentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Cuốn sách [decentDesc]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Cuốn sách [awfulDesc]</li>
+    <li>awfulDesc->không thể đọc nổi</li>
+    <li>awfulDesc->được viết nguệch ngoạc bằng nét chữ run rẩy</li>
+    <li>awfulDesc->bị vấy rượu khô</li>
+    <li>awfulDesc->gần như không mạch lạc</li>
+    <li>awfulDesc->lặp đi lặp lại và nhiều phần thiếu chi tiết</li>
+    <li>awfulDesc->phai mờ đến mức không thể đọc được ở nhiều chỗ</li>
+    <li>awfulDesc->bị thiếu nhiều trang</li>
+    <li>awfulDesc->hoàn toàn vô tổ chức và liên tục nhảy từ chủ đề này sang chủ đề khác</li>
+    <li>awfulDesc->được viết bằng một ngôn ngữ đã thất truyền</li>
+    <li>awfulDesc->đầy những thuật ngữ khó hiểu</li>
+    <li>awfulDesc->như do trẻ con viết</li>
+    <li>awfulDesc->trộn lẫn thực tại với hư cấu một cách tùy tiện</li>
+    <li>awfulDesc->đọc như thể được viết trong trạng thái vô thức</li>
+    <li>awfulDesc->thấm đẫm dịch nhầy và máu</li>
+    <li>awfulDesc->chủ yếu là một câu chuyện tình lãng mạn về hai [entities]</li>
+    <li>decentDesc->khá tốt nhưng sẽ hay hơn nếu được biên tập</li>
+    <li>decentDesc->sâu sắc ở một số phần, nhưng những phần khác lại không cần thiết</li>
+    <li>decentDesc->sắc sảo, nhưng chỉ từ một góc nhìn méo mó</li>
+    <li>decentDesc->nhiều chi tiết nhưng thiếu diễn giải hữu ích</li>
+    <li>decentDesc->bị thiếu một số trang</li>
+    <li>decentDesc->hữu ích, nhưng thường quá tập trung vào những mối quan tâm cá nhân của tác giả</li>
+    <li>decentDesc->đầy thông tin hữu ích, bất chấp những bóp méo và thiên kiến của tác giả</li>
+    <li>decentDesc->được viết khá chắc tay</li>
+    <li>decentDesc->dễ chịu dù không thực sự hữu ích</li>
+    <li>decentDesc->đầy những ý tưởng hấp dẫn nhưng đọc khá vất vả</li>
+    <li>decentDesc->được viết bởi một trí tuệ hạng nhất với tính khí hạng hai</li>
+    <li>decentDesc->khá ổn, dù đã bị tha hóa hoàn toàn</li>
+    <li>decentDesc->đáng sợ về nội dung, tẻ nhạt về cách thể hiện</li>
+    <li>excellentDesc->là đỉnh cao của văn chương</li>
+    <li>excellentDesc->cực kỳ sâu sắc</li>
+    <li>excellentDesc->được trau chuốt xuất sắc</li>
+    <li>excellentDesc->được tổ chức tốt và có cấu trúc chuyên nghiệp</li>
+    <li>excellentDesc->gần như mang chất thơ ở nhiều đoạn</li>
+    <li>excellentDesc->mô tả sống động đến đáng sợ - nhiều đoạn gần như mang chất thơ trong văn phong</li>
+    <li>excellentDesc->đầy những ý tưởng rực rỡ bùng nổ trong tâm trí</li>
   </Description_Tome.rulePack.rulesStrings>
   
 </LanguageData>

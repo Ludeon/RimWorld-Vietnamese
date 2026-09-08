@@ -25,9 +25,9 @@
   <CreepJoinerTimeoutDescAppended>Chọn một cư dân và nhấp chuột phải vào vị khách.\n\nHành động nhanh... họ không thích bị phớt lờ.</CreepJoinerTimeoutDescAppended>
 
   <!-- EN: Undercave unstable -->
-  <Alert_UndercaveUnstable>Hầm ngầm không ổn định</Alert_UndercaveUnstable>
+  <Alert_UndercaveUnstable>Hang ngầm không ổn định</Alert_UndercaveUnstable>
   <!-- EN: The undercave has become unstable and will collapse soon.\n\nGet your colonists out before it's too late. -->
-  <Alert_UndercaveUnstableDesc>Hầm ngầm trở nên không ổn định và sẽ sớm sụp đổ.\n\nĐưa cư dân ra ngoài trước khi quá muộn.</Alert_UndercaveUnstableDesc>
+  <Alert_UndercaveUnstableDesc>Hang ngầm trở nên không ổn định và sẽ sớm sụp đổ.\n\nĐưa cư dân ra ngoài trước khi quá muộn.</Alert_UndercaveUnstableDesc>
 
   <!-- EN: Cultist psychic ritual -->
   <Alert_CultistPsychicRitual>Nghi thức tâm linh của Tín đồ</Alert_CultistPsychicRitual>
@@ -44,10 +44,10 @@
   <!-- EN: Pit gate opening -->
   <AlertEmergingPitGate>Cổng vực thẳm đang mở</AlertEmergingPitGate>
   <!-- EN: The ground is collapsing in on itself. A pit gate will soon form. -->
-  <AlertEmergingPitGateDesc>Mặt đất sắp sụp vào chính nó. Một cổng vực thẳm sẽ sớm hình thành.</AlertEmergingPitGateDesc>
+  <AlertEmergingPitGateDesc>Mặt đất đang sụt lún vào bên trong. Một cổng vực thẳm sẽ sớm hình thành.</AlertEmergingPitGateDesc>
 
   <!-- EN: Insufficient containment -->
-  <Alert_InsufficientContainment>Giam giữ không đủ</Alert_InsufficientContainment>
+  <Alert_InsufficientContainment>Giam giữ không đủ an toàn</Alert_InsufficientContainment>
   <!-- EN: The following entities are being held in rooms that do not meet their minimum containment strength -->
   <Alert_InsufficientContainmentDesc>Các thực thể sau đang bị nhốt trong phòng không đạt độ chắc chắn tối thiểu</Alert_InsufficientContainmentDesc>
   <!-- EN: They will escape soon. Build stronger walls, doors, or other containment devices to hold them. -->
@@ -59,18 +59,18 @@
   <AlertHoldingPlatformDesc>Xây dựng bệ giam giữ hoặc đặt các điểm giam giữ để chứa và nghiên cứu các thực thể bị bắt.</AlertHoldingPlatformDesc>
 
   <!-- EN: Cube withdrawal -->
-  <AlertCubeWithdrawal>Hội chứng Cai nghiện khối lập phương</AlertCubeWithdrawal>
+  <AlertCubeWithdrawal>Cơn nghiện khối lập phương</AlertCubeWithdrawal>
   <!-- EN: The following people are suffering from cube withdrawal -->
-  <AlertCubeWithdrawalDesc>Những người sau đây đang có hội chứng cai nghiện khối lập phương</AlertCubeWithdrawalDesc>
+  <AlertCubeWithdrawalDesc>Những người sau đây đang có cơn nghiện khối lập phương</AlertCubeWithdrawalDesc>
   <!-- EN: Their skin itches and their mind races, craving closeness to the golden cube. Their symptoms will worsen until they can play with the cube.\n\nEnsure that they have free time and can reach the golden cube. -->
   <AlertCubeWithdrawalDescAppended>Da họ ngứa ngáy và tâm trí rối loạn, thèm được ở gần khối lập phương vàng. Triệu chứng sẽ xấu đi cho đến khi họ chơi được với khối lập phương.\n\nĐảm bảo họ có thời gian rảnh và có thể tiếp cận khối lập phương.</AlertCubeWithdrawalDescAppended>
 
   <!-- EN: Devourer digestion -->
-  <AlertDigestion>Quá trình tiêu hóa của Sinh vật Nuốt chửng</AlertDigestion>
+  <AlertDigestion>Quá trình tiêu hóa của quái thôn phệ</AlertDigestion>
   <!-- EN: The following people or creatures are being digested by a devourer -->
-  <AlertDigestionDesc>Những người hoặc sinh vật sau đang bị Sinh vật Nuốt chửng tiêu hóa</AlertDigestionDesc>
+  <AlertDigestionDesc>Những người hoặc sinh vật sau đang bị quái thôn phệ tiêu hóa</AlertDigestionDesc>
   <!-- EN: Kill the devourer to release them before it's too late. -->
-  <AlertDigestionDescAppended>Giết Sinh vật Nuốt chửng để giải thoát họ trước khi quá muộn.</AlertDigestionDescAppended>
+  <AlertDigestionDescAppended>Giết quái thôn phệ để giải thoát họ trước khi quá muộn.</AlertDigestionDescAppended>
   
   <!-- EN: Inhibitor blocked -->
   <AlertInhibitorBlocked>Thiết bị ức chế bị chặn</AlertInhibitorBlocked>
@@ -92,12 +92,12 @@
   <!-- EN: You've discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
   <AlertGrayFleshSampleDesc>Bạn đã phát hiện ra một dải mô thịt. Hãy phân tích nó để tìm hiểu thêm về dấu hiệu sinh học.</AlertGrayFleshSampleDesc>
   <!-- EN: Neural lump -->
-  <AlertNeuralLump>Khối thần kinh</AlertNeuralLump>
+  <AlertNeuralLump>Khối tế bào thần kinh</AlertNeuralLump>
   <!-- EN: A fleshmass nerve bundle has dropped a neural lump. Analyze it to learn how to kill the fleshmass heart. -->
   <AlertNeuralLumpDesc>Một khối thịt thần kinh đã rơi ra một khối thần kinh. Phân tích nó để tìm cách giết trái tim khối thịt.</AlertNeuralLumpDesc>
   <!-- EN: Revenant flesh -->
-  <AlertRevenantFlesh>Thịt Revenant</AlertRevenantFlesh>
+  <AlertRevenantFlesh>Thịt U hồn</AlertRevenantFlesh>
   <!-- EN: The wounded revenant left behind a piece of itself. Analyze it to learn how to track the revenant. -->
-  <AlertRevenantFleshDesc>Revenant bị thương đã để lại một phần cơ thể. Hãy phân tích để học cách lần theo dấu vết của Revenant.</AlertRevenantFleshDesc>
+  <AlertRevenantFleshDesc>U hồn bị thương đã để lại một phần cơ thể. Hãy phân tích để học cách lần theo dấu vết của u hồn.</AlertRevenantFleshDesc>
 
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: inhuman -->
-  <Inhuman.label>Vô nhân tính</Inhuman.label>
+  <Inhuman.label>vô nhân tính</Inhuman.label>
   <!-- EN: Humanity is a barrier to our connection with the machine god and its pleasurable rewards. -->
-  <Inhuman.description>Nhân tính là rào cản ngăn cách chúng ta với máy thần và những ân huệ của ngài.</Inhuman.description>
+  <Inhuman.description>Nhân tính là rào cản ngăn cách chúng ta với máy móc chi thần và những ân huệ của ngài.</Inhuman.description>
   <!-- EN:
     <li>memeAdjective->inhuman</li>
     <li>memeAdjective->unhuman</li>
@@ -18,11 +18,11 @@
   -->
   <Inhuman.generalRules.rulesStrings>
     <li>memeAdjective->vô nhân tính</li>
-    <li>memeAdjective->máy móc</li>
+    <li>memeAdjective->dị loại</li>
     <li>memeAdjective->bóng tối</li>
-    <li>memeAdjective->hư vô</li>
+    <li>memeAdjective->hắc ám</li>
     <li>memeConcept->sự vô nhân tính</li>
-    <li>memeConcept->bóng tối</li>
+    <li>memeConcept->hắc ám</li>
     <li>memeConcept->hư vô</li>
     <li>memeConcept->thực thể</li>
     <li>memeConcept->cuồng nộ</li>
@@ -40,7 +40,7 @@
   <Ritualist.generalRules.rulesStrings>
     <li>memeAdjective->nghi lễ</li>
     <li>memeConcept->nghi lễ</li>
-    <li>memeMoralist->kẻ thực hiện nghi lễ</li>
+    <li>memeMoralist->tế tự giả</li>
   </Ritualist.generalRules.rulesStrings>
   
 </LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: advanced psychic rituals -->
-  <AdvancedPsychicRituals.label>Nghi thức tâm linh cao cấp</AdvancedPsychicRituals.label>
+  <AdvancedPsychicRituals.label>nghi thức tâm linh cao cấp</AdvancedPsychicRituals.label>
   <!-- EN: Perform advanced psychic rituals. -->
   <AdvancedPsychicRituals.description>Thực hiện các nghi thức tâm linh cao cấp.</AdvancedPsychicRituals.description>
   <!-- EN:
@@ -17,15 +17,15 @@
     <li>subject->nghi thức tâm linh cao cấp</li>
     <li>subject_story->bị bắt vào một giáo phái tâm linh</li>
     <li>subject_story->gặp một giáo chủ lưu vong, kẻ đã thích thú khoe khoang các bí kíp</li>
-    <li>subject_story->nâng cao kiến thức về tế lễ hiến sinh</li>
+    <li>subject_story->làm sâu sắc thêm hiểu biết của [ANYPAWN_possessive] về việc hiến tế trong nghi thức</li>
     <li>subject_story->được bổ nhiệm là giáo sư lịch sử tâm linh tại Đại học Ix</li>
     <li>subject_gerund->thực hiện các nghi thức tâm linh cao cấp</li>
   </AdvancedPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: atmospheric heater -->
-  <AtmosphericHeater.label>Lò sưởi khí quyển</AtmosphericHeater.label>
+  <AtmosphericHeater.label>sưởi ấm khí quyển</AtmosphericHeater.label>
   <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
-  <AtmosphericHeater.description>Xây dựng các lò sưởi chạy bằng Bioferrite, tạo đủ nhiệt để làm ấm toàn bộ khu vực.</AtmosphericHeater.description>
+  <AtmosphericHeater.description>Xây dựng các máy sưởi chạy bằng kim loại sinh học, tạo đủ nhiệt để làm ấm toàn bộ khu vực.</AtmosphericHeater.description>
   <!-- EN:
     <li>subject->bioferrite heating</li>
     <li>subject_story->upgraded archaic geothermal plants</li>
@@ -36,19 +36,19 @@
     <li>subject_gerund->constructing bioferrite-fueled heaters</li>
   -->
   <AtmosphericHeater.generalRules.rulesStrings>
-    <li>subject->làm nóng bằng Bioferrite</li>
+    <li>subject->làm nóng bằng kim loại sinh học</li>
     <li>subject_story->nâng cấp các nhà máy địa nhiệt cổ xưa</li>
-    <li>subject_story->nghiên cứu nhiệt lượng phát ra từ sinh-kim loại</li>
+    <li>subject_story->đã nghiên cứu lượng nhiệt tỏa ra của kim loại sinh học</li>
     <li>subject_story->nghiên cứu năng lượng dự trữ vô hạn của công nghệ cổ xưa</li>
     <li>subject_story->khảo sát hệ thống sưởi lòng đất trên các thế giới băng giá mật độ cao</li>
-    <li>subject_gerund->làm nóng bằng bioferrite</li>
-    <li>subject_gerund->xây dựng các lò sưởi chạy bằng Bioferrite</li>
+    <li>subject_gerund->làm nóng bằng kim loại sinh học</li>
+    <li>subject_gerund->xây dựng các lò sưởi chạy bằng kim loại sinh học</li>
   </AtmosphericHeater.generalRules.rulesStrings>
   
   <!-- EN: void provocation -->
-  <BasicPsychicRituals.label>Nghi thức tâm linh sơ cấp</BasicPsychicRituals.label>
+  <BasicPsychicRituals.label>khiêu khích hư không</BasicPsychicRituals.label>
   <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
-  <BasicPsychicRituals.description>Xây dựng diểm thực hiện nghi lễ và tiến hành các nghi thức tâm linh. Sử dụng nghi lễ khiêu khích Hư vô để triệu hồi các thực thể mới.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.description>Xây dựng điểm thực hiện nghi lễ và tiến hành các nghi thức tâm linh. Sử dụng nghi lễ khiêu khích hư không để triệu hồi các thực thể mới.</BasicPsychicRituals.description>
   <!-- EN:
     <li>subject->psychic rituals</li>
     <li>subject_story->studied the rituals of Horax cultists</li>
@@ -62,10 +62,10 @@
   -->
   <BasicPsychicRituals.generalRules.rulesStrings>
     <li>subject->nghi thức tâm linh</li>
-    <li>subject_story->theo dõi các nghi lễ của tà đạo Horax</li>
+    <li>subject_story->theo dõi các nghi lễ của giáo phái Horax</li>
     <li>subject_story->tái hiện các bàn thờ nguyên thủy</li>
     <li>subject_story->xây dựng nền tảng cơ bản cho giao tiếp tâm linh</li>
-    <li>subject_story->chứng kiến một nghi lễ khiêu khích Hư vô thất bại trên một thế giới tử thần</li>
+    <li>subject_story->chứng kiến một nghi lễ khiêu khích hư không thất bại trên một thế giới tử thần</li>
     <li>subject_story->giao tiếp với một mảnh kiến trúc công nghệ cổ xưa trên đỉnh trụ cột sa mạc</li>
     <li>subject_gerund->tiến hành nghi thức tâm linh</li>
     <li>subject_gerund->xây dựng điểm nghi lễ</li>
@@ -73,9 +73,9 @@
   </BasicPsychicRituals.generalRules.rulesStrings>
   
   <!-- EN: bioferrite extraction -->
-  <BioferriteExtraction.label>Chiết xuất bioferrite</BioferriteExtraction.label>
+  <BioferriteExtraction.label>chiết xuất kim loại sinh học</BioferriteExtraction.label>
   <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
-  <BioferriteExtraction.description>Chiết xuất bioferrite trực tiếp từ các thực thể bị bắt giữ. Sử dụng nó để chế tạo vũ khí và trang phục tại một điểm chế tạo hoặc máy định hình bioferrite.</BioferriteExtraction.description>
+  <BioferriteExtraction.description>Chiết xuất kim loại sinh học trực tiếp từ các thực thể bị bắt giữ. Sử dụng nó để chế tạo vũ khí và trang phục tại điểm chế tạo hoặc máy định hình kim loại sinh học.</BioferriteExtraction.description>
   <!-- EN:
     <li>subject->bioferrite extraction</li>
     <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
@@ -85,18 +85,18 @@
     <li>subject_gerund->extracting bioferrite</li>
   -->
   <BioferriteExtraction.generalRules.rulesStrings>
-    <li>subject->chiết xuất bioferrite</li>
+    <li>subject->chiết xuất kim loại sinh học</li>
     <li>subject_story->chiết xuất một hợp chất hữu cơ từ mẫu thịt đang biến đổi nhanh chóng</li>
-    <li>subject_story->lột và luộc thịt của một cây báo trước</li>
-    <li>subject_story->điều tra báo cáo về hiện tượng archotech</li>
+    <li>subject_story->lột và luộc thịt của một cây điềm gở</li>
+    <li>subject_story->đã điều tra các báo cáo về một hiện tượng archotech</li>
     <li>subject_story->phát hiện một kim loại hữu cơ mới</li>
-    <li>subject_gerund->chiết xuất bioferrite</li>
+    <li>subject_gerund->chiết xuất kim loại sinh học</li>
   </BioferriteExtraction.generalRules.rulesStrings>
   
   <!-- EN: bioferrite generator -->
-  <BioferriteGenerator.label>Máy phát điện Bioferrite</BioferriteGenerator.label>
+  <BioferriteGenerator.label>phát điện kim loại sinh học</BioferriteGenerator.label>
   <!-- EN: Build power generators that burn bioferrite as a fuel. -->
-  <BioferriteGenerator.description>Dựng các máy phát điện đốt bio-ferrite làm nhiên liệu.</BioferriteGenerator.description>
+  <BioferriteGenerator.description>Xây các máy phát điện đốt kim loại sinh học làm nhiên liệu.</BioferriteGenerator.description>
   <!-- EN:
     <li>subject->bioferrite power generation</li>
     <li>subject_story->was trained in the use of innovative power sources</li>
@@ -108,20 +108,20 @@
     <li>subject_gerund->powering generators using bioferrite</li>
   -->
   <BioferriteGenerator.generalRules.rulesStrings>
-    <li>subject->phát năng lượng bằng Bioferrite</li>
+    <li>subject->phát năng lượng bằng kim loại sinh học</li>
     <li>subject_story->được huấn luyện sử dụng các nguồn năng lượng tân tiến</li>
     <li>subject_story->khám phá các ứng dụng của nhiên liệu gốc sợi và kim loại</li>
     <li>subject_story->phát hiện niềm đam mê với lửa và những thứ có khả năng cháy</li>
     <li>subject_story->làm kỹ thuật viên, bảo dưỡng các hệ thống năng lượng quỹ đạo</li>
     <li>subject_story->chế biến hệ động vật hoang dã của một hành tinh làm nhiên liệu</li>
-    <li>subject_gerund->dựng các máy phát điện chạy bằng Bioferrite</li>
-    <li>subject_gerund->cung cấp năng lượng cho máy phát điện bằng Bioferrite</li>
+    <li>subject_gerund->dựng các máy phát điện chạy bằng kim loại sinh học</li>
+    <li>subject_gerund->cung cấp năng lượng cho máy phát điện bằng kim loại sinh học</li>
   </BioferriteGenerator.generalRules.rulesStrings>
   
   <!-- EN: bioferrite harvester -->
-  <BioferriteHarvesting.label>Khai thác Bioferrite</BioferriteHarvesting.label>
+  <BioferriteHarvesting.label>thu hoạch kim loại sinh học</BioferriteHarvesting.label>
   <!-- EN: Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction. -->
-  <BioferriteHarvesting.description>Xây dựng các máy khai thác Bioferrite để sản xuất loại nhiên liệu này từ các thực thể bị bắt giam tại bệ giữ.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.description>Xây dựng máy thu hoạch kim loại sinh học để sản xuất loại nhiên liệu này từ các thực thể bị bắt giam tại bệ giữ. Sản lượng kim loại sinh học nhiều hơn so với việc chiết xuất thủ công.</BioferriteHarvesting.description>
   <!-- EN:
     <li>subject->bioferrite</li>
     <li>subject_story->investigated an exotic metal-like fibrous substance</li>
@@ -131,18 +131,18 @@
     <li>subject_gerund->harvesting bioferrite</li>
   -->
   <BioferriteHarvesting.generalRules.rulesStrings>
-    <li>subject->Bioferrite</li>
+    <li>subject->kim loại sinh học</li>
     <li>subject_story->nghiên cứu một dạng sợi kim loại kỳ lạ</li>
-    <li>subject_story->giải phẫu một xác chết Ghoul gớm ghiếc</li>
+    <li>subject_story->giải phẫu một xác chết ngạ quỷ</li>
     <li>subject_story->khám phá kho chứa các kim loại hữu cơ</li>
     <li>subject_story->quan sát hệ động vật hoang dã kỳ lạ nhiễm kim loại</li>
-    <li>subject_gerund->khai thác bioferrite</li>
+    <li>subject_gerund->khai thác kim loại sinh học</li>
   </BioferriteHarvesting.generalRules.rulesStrings>
   
   <!-- EN: bioferrite weaponry -->
-  <BioferriteIgnition.label>Vũ khí Bioferrite</BioferriteIgnition.label>
+  <BioferriteIgnition.label>vũ khí kim loại sinh học</BioferriteIgnition.label>
   <!-- EN: Create advanced weapons that use bioferrite as a fuel source. -->
-  <BioferriteIgnition.description>Chế tạo các vũ khí cao cấp sử dụng Bioferrite làm nguồn nhiên liệu.</BioferriteIgnition.description>
+  <BioferriteIgnition.description>Chế tạo các vũ khí cao cấp sử dụng kim loại sinh học làm nguồn nhiên liệu.</BioferriteIgnition.description>
   <!-- EN:
     <li>subject->bioferrite combustion</li>
     <li>subject->bioferrite weaponry</li>
@@ -153,19 +153,19 @@
     <li>subject_gerund->building bioferrite-based weapons</li>
   -->
   <BioferriteIgnition.generalRules.rulesStrings>
-    <li>subject->đốt Bioferrite</li>
-    <li>subject->vũ khí bioferrite</li>
+    <li>subject->đốt kim loại sinh học</li>
+    <li>subject->vũ khí kim loại sinh học</li>
     <li>subject_story->làm việc cho một trạm khai thác trên một thiên thạch cổ xưa</li>
     <li>subject_story->nghiên cứu về điểm cháy của các vật liệu lạ</li>
     <li>subject_story->gia nhập nhánh nghiên cứu của một tập đoàn sản xuất vũ khí</li>
     <li>subject_story->gỡ mìn sinh học trong một sa mạc chứa công nghệ cổ xưa</li>
-    <li>subject_gerund->chế tạo các vũ khí sử dụng bioferrite</li>
+    <li>subject_gerund->chế tạo các vũ khí sử dụng kim loại sinh học</li>
   </BioferriteIgnition.generalRules.rulesStrings>
   
   <!-- EN: bioferrite shaping -->
-  <BioferriteShaping.label>Tạo hình Bioferrite</BioferriteShaping.label>
+  <BioferriteShaping.label>định hình kim loại sinh học</BioferriteShaping.label>
   <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
-  <BioferriteShaping.description>Nắn và định hình Bioferrite thành các công cụ, vũ khí, sàn nhà hữu dụng và hơn thế nữa.</BioferriteShaping.description>
+  <BioferriteShaping.description>Nắn và định hình kim loại sinh học thành các công cụ, vũ khí, sàn nhà và hơn thế nữa.</BioferriteShaping.description>
   <!-- EN:
     <li>subject->bioferrite shaping</li>
     <li>subject_story->learned unique techniques for molding and sculpting</li>
@@ -176,17 +176,17 @@
     <li>subject_gerund->shaping bioferrite</li>
   -->
   <BioferriteShaping.generalRules.rulesStrings>
-    <li>subject->tạo hình Bioferrite</li>
+    <li>subject->định hình kim loại sinh học</li>
     <li>subject_story->học được kĩ thuật đặc biệt để nắn và điêu khắc</li>
     <li>subject_story->được huấn luyện trong kĩ thuật định hình bằng nhiệt</li>
-    <li>subject_story-> làm việc tại một xưởng đúc vật liệu ngoại lai</li>
-    <li>subject_story-> phụ tá cho một nhà khoa học vật liệu công nghệ cổ xưa</li>
+    <li>subject_story->làm việc tại một xưởng đúc vật liệu ngoại lai</li>
+    <li>subject_story->phụ tá cho một nhà khoa học vật liệu công nghệ cổ xưa</li>
     <li>subject_story->nghiên cứu quá trình hình thành các công trình cổ đại</li>
-    <li>subject_gerund->tạo hình bioferrite</li>
+    <li>subject_gerund->định hình kim loại sinh học</li>
   </BioferriteShaping.generalRules.rulesStrings>
   
   <!-- EN: bliss lobotomy -->
-  <BlissLobotomy.label>Phẫu thuật thùy não</BlissLobotomy.label>
+  <BlissLobotomy.label>phẫu thuật thùy não</BlissLobotomy.label>
   <!-- EN: Perform a surgery that lobotomizes a person, making them happier while rendering them incapable of intellectual and skilled labor. -->
   <BlissLobotomy.description>Thực hiện ca phẫu thuật thùy não, biến đối tượng thành kẻ ngây dại hạnh phúc, không còn khả năng lao động trí óc hay có kĩ năng nào.</BlissLobotomy.description>
   <!-- EN:
@@ -198,16 +198,16 @@
     <li>subject_gerund->excising brain tissue</li>
   -->
   <BlissLobotomy.generalRules.rulesStrings>
-    <li>subject->Phẫu thuật thùy não</li>
+    <li>subject->phẫu thuật thùy não</li>
     <li>subject_story->bị cắt thùy não vì tội chống lại chính quyền</li>
     <li>subject_story->phục hồi vài nạn nhân sống sót của thí nghiệm Eldorf</li>
     <li>subject_story->học việc dưới trướng một bác sĩ phẫu thuật não kiêm thợ cắt tóc</li>
-    <li>subject_gerund->thực hiện các ca Phẫu thuật thùy não</li>
+    <li>subject_gerund->thực hiện các ca phẫu thuật thùy não</li>
     <li>subject_gerund->cắt bỏ mô não</li>
   </BlissLobotomy.generalRules.rulesStrings>
   
   <!-- EN: blood rain -->
-  <BloodRain.label>Mưa máu</BloodRain.label>
+  <BloodRain.label>mưa máu</BloodRain.label>
   <!-- EN: Perform a psychic ritual which causes blood-like psychofluid to fall from the sky. Anyone caught outside will soon be driven into a berserk rage. -->
   <BloodRain.description>Thực hiện một nghi thức tâm linh khiến chất lỏng tựa máu rơi xuống từ bầu trời. Bất kỳ ai ở bên ngoài sẽ nhanh chóng rơi vào cơn điên cuồng thịnh nộ.</BloodRain.description>
   <!-- EN:
@@ -224,11 +224,11 @@
     <li>subject_story->nghiên cứu các đường dẫn thần kinh của những kẻ cuồng nộ</li>
     <li>subject_story->lấy mẫu các dòng chảy tâm linh trên thế giới siêu việt Ix</li>
     <li>subject_story->bị nhiễm tâm dịch sau một trận mưa và bị lấp đầy bởi cơn cuồng nộ bất trị</li>
-    <li>subject_gerund->gây mưa máu</li>
+    <li>subject_gerund->khiến trời đổ mưa máu</li>
   </BloodRain.generalRules.rulesStrings>
   
   <!-- EN: brainwipe -->
-  <Brainwipe.label>Tẩy não</Brainwipe.label>
+  <Brainwipe.label>tẩy não</Brainwipe.label>
   <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
   <Brainwipe.description>Thực hiện nghi thức tâm linh xóa đi phần lớn ký ức của một người. Những sự kiện gây chấn động tâm lý sẽ bị lãng quên. Tù nhân cứng đầu sẽ dễ dàng bị chiêu mộ hơn. Cho phép chiêu mộ các tù nhân trung thành tuyệt đối.</Brainwipe.description>
   <!-- EN:
@@ -241,7 +241,7 @@
     <li>subject_gerund->performing a ritual to erase a subject's mind</li>
   -->
   <Brainwipe.generalRules.rulesStrings>
-    <li>subject->tẩy não</li>
+    <li>subject->xóa bỏ tâm trí</li>
     <li>subject_story->nghiên cứu các trường hợp bị mất trí nhớ tình tiết</li>
     <li>subject_story->làm việc tại một phòng khám điều trị các trường hợp tổn thương não</li>
     <li>subject_story->nghiên cứu đường dẫn thần kinh của các bệnh nhân mất trí nhớ</li>
@@ -251,7 +251,7 @@
   </Brainwipe.generalRules.rulesStrings>
   
   <!-- EN: chronophagy -->
-  <Chronophagy.label>Thực niên thuật</Chronophagy.label>
+  <Chronophagy.label>thôn phệ thời gian</Chronophagy.label>
   <!-- EN: Perform a psychic ritual that causes a target to age rapidly. The ritual invoker will become younger in the process. The target will suffer brain damage as a result, which may be lethal for elderly targets. -->
   <Chronophagy.description>Thực hiện một nghi thức tâm linh khiến mục tiêu già đi nhanh chóng. Người chủ tế sẽ trở nên trẻ hơn trong quá trình. Mục tiêu sẽ bị tổn thương não, có khả năng tử vong với người cao tuổi.</Chronophagy.description>
   <!-- EN:
@@ -265,20 +265,20 @@
     <li>subject_gerund->performing a chronophagy ritual</li>
   -->
   <Chronophagy.generalRules.rulesStrings>
-    <li>subject->thực niên thuật</li>
+    <li>subject->thôn phệ thời gian</li>
     <li>subject_story->nghiên cứu thoái hóa do tuổi tác</li>
     <li>subject_story->nhân bản kết cấu khỏe mạnh từ sinh vật này sang sinh vật khác bằng phương pháp phá hủy</li>
     <li>subject_story->lập giả thuyết về các nghi thức khác nhau mà công nghệ truyền cổ xưa có thể cho phép</li>
     <li>subject_story->quan sát các phương pháp điều trị kéo dài tuổi thọ cho nhà giàu trên các thế giới hào nhoáng</li>
     <li>subject_gerund->cướp tuổi trẻ</li>
-    <li>subject_gerund->triệu hồi Thực niên thuật</li>
-    <li>subject_gerund->thực hiện nghi lễ Thực niên thuật</li>
+    <li>subject_gerund->triệu hồi thôn phệ thời gian</li>
+    <li>subject_gerund->thực hiện nghi lễ thôn phệ thời gian</li>
   </Chronophagy.generalRules.rulesStrings>
   
   <!-- EN: deadlife dust -->
-  <DeadlifeDust.label>Bụi Tử Sinh</DeadlifeDust.label>
+  <DeadlifeDust.label>bụi tử linh</DeadlifeDust.label>
   <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
-  <DeadlifeDust.description>Chế tạo các thiết bị giải phóng các đám mây kiến trúc siêu nhỏ. Các kiến trúc này có thể hồi sinh xác chết thành các Shambler chết chóc, chỉ tấn công kẻ thù của bạn.</DeadlifeDust.description>
+  <DeadlifeDust.description>Chế tạo các thiết bị giải phóng các đám mây kiến trúc siêu nhỏ. Các kiến trúc này có thể hồi sinh xác chết thành các xác sống chết chóc, chỉ tấn công kẻ thù của bạn.</DeadlifeDust.description>
   <!-- EN:
     <li>subject->deadlife dust</li>
     <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
@@ -289,19 +289,19 @@
     <li>subject_gerund->distributing archites to create shamblers</li>
   -->
   <DeadlifeDust.generalRules.rulesStrings>
-    <li>subject->bụi tử sinh</li>
-    <li>subject_story->tổng hợp hệ thống phát tán aerosol cho các nanobot</li>
+    <li>subject->bụi tử linh</li>
+    <li>subject_story->tổng hợp hệ thống phát tán bụi cho các nanobot</li>
     <li>subject_story->sử dụng các máy ly tâm phân tử tách các kiến trúc cấp độ khác nhau</li>
-    <li>subject_story->theo dõi vụ tấn công của bọn Shambler trên một vidclip Thế giới Đô thị</li>
+    <li>subject_story->theo dõi vụ tấn công của bọn xác sống trên một vidclip Thế giới Đô thị</li>
     <li>subject_story->phát triển một thiết bị điều khiển kiến trúc với hệ thống IFF tự chỉnh</li>
-    <li>subject_gerund->chế tạo bụi tử sinh</li>
-    <li>subject_gerund->phát tán kiến trúc để tạo Shambler</li>
+    <li>subject_gerund->chế tạo bụi tử linh</li>
+    <li>subject_gerund->phát tán kiến trúc để tạo xác sống</li>
   </DeadlifeDust.generalRules.rulesStrings>
   
   <!-- EN: death refusal -->
-  <DeathRefusal.label>Kháng tử</DeathRefusal.label>
+  <DeathRefusal.label>từ chối tử thần</DeathRefusal.label>
   <!-- EN: Perform a psychic ritual which grants death refusal to an individual, allowing them to self-resurrect once after dying. -->
-  <DeathRefusal.description>Thực hiện nghi thức tâm linh ban Kháng tử cho một cá nhân, cho phép họ tự hồi sinh một lần sau khi chết.</DeathRefusal.description>
+  <DeathRefusal.description>Thực hiện nghi thức tâm linh ban khả năng từ chối tử thần cho một cá nhân, cho phép họ tự hồi sinh một lần sau khi chết.</DeathRefusal.description>
   <!-- EN:
     <li>subject->death refusal invocation</li>
     <li>subject_story->investigated tales of impossible survival</li>
@@ -322,9 +322,9 @@
   </DeathRefusal.generalRules.rulesStrings>
   
   <!-- EN: disruptor flares -->
-  <DisruptorFlares.label>Pháo sáng gây nhiễu</DisruptorFlares.label>
+  <DisruptorFlares.label>pháo sáng gây nhiễu</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
-  <DisruptorFlares.description>Chế tạo các pháo sáng dùng Bioferrite vạch trần các sinh vật tàng hình và chiếu sáng một khu vực.</DisruptorFlares.description>
+  <DisruptorFlares.description>Chế tạo các pháo sáng dùng kim loại sinh học vạch trần các sinh vật tàng hình và chiếu sáng một khu vực.</DisruptorFlares.description>
   <!-- EN:
     <li>subject->bioferrite flares</li>
     <li>subject->short-term lighting</li>
@@ -336,20 +336,20 @@
     <li>subject_gerund->crafting bioferrite flares</li>
   -->
   <DisruptorFlares.generalRules.rulesStrings>
-    <li>subject->đèn flare bioferrite</li>
+    <li>subject->pháo sáng sinh học</li>
     <li>subject->chiếu sáng ngắn hạn</li>
     <li>subject_story->nghiên cứu phổ điện từ không nhìn thấy được</li>
     <li>subject_story->vô hiệu hóa các trung tâm thị giác của các đối tượng thử nghiệm</li>
     <li>subject_story->nghiên cứu các kỹ thuật phát quang sinh học của động vật trong thế giới ban đêm</li>
-    <li>subject_story->thu hẹp phổ điện từ của các phát xạ năng lượng archite</li>
+    <li>subject_story->thu hẹp phổ điện từ của các phát xạ năng lượng cổ đại</li>
     <li>subject_gerund->tăng cường tầm nhìn tạm thời</li>
-    <li>subject_gerund->chế tạo đèn flare bioferrite</li>
+    <li>subject_gerund->chế tạo đèn pháo sáng sinh học</li>
   </DisruptorFlares.generalRules.rulesStrings>
   
   <!-- EN: electroharvester -->
-  <Electroharvester.label>Thiết bị thu điện</Electroharvester.label>
+  <Electroharvester.label>máy thu hoạch điện năng</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
-  <Electroharvester.description>Xây dựng một máy phát điện hút điện từ các thực thể bị giam giữ. Quá trình này làm cho các thực thể trở nên khó kiểm soát hơn.</Electroharvester.description>
+  <Electroharvester.description>Xây dựng một máy phát điện từ các thực thể bị giam giữ. Quá trình này làm cho các thực thể trở nên khó kiểm soát hơn.</Electroharvester.description>
   <!-- EN:
     <li>subject->entity-derived power generation</li>
     <li>subject_story->researched ion pumps in cell membranes</li>
@@ -370,9 +370,9 @@
   </Electroharvester.generalRules.rulesStrings>
   
   <!-- EN: entity containment -->
-  <EntityContainment.label>Kiểm soát thực thể</EntityContainment.label>
+  <EntityContainment.label>kiểm soát thực thể</EntityContainment.label>
   <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
-  <EntityContainment.description>Xây dựng các nền tảng giữ và các chất ức chế để kiểm soát các thực thể tốt hơn.</EntityContainment.description>
+  <EntityContainment.description>Xây dựng các nền tảng giữ và các cách áp chế để kiểm soát các thực thể tốt hơn.</EntityContainment.description>
   <!-- EN:
     <li>subject->entity containment</li>
     <li>subject_story->worked in a prisonworld research facility</li>
@@ -393,9 +393,9 @@
   </EntityContainment.generalRules.rulesStrings>
   
   <!-- EN: frenzy inducer -->
-  <FrenzyInducer.label>Thiết bị kích thích cuồng loạn</FrenzyInducer.label>
+  <FrenzyInducer.label>thiết bị kích thích cuồng loạn</FrenzyInducer.label>
   <!-- EN: Build shard-powered structures that generate a frenetic psychic field to make anyone nearby move and work faster. However, the unstable emotional energy creates a tendency towards violence, irritating anyone nearby. -->
-  <FrenzyInducer.description>Xây dựng các cấu trúc sử dụng shard để tạo ra một trường tâm linh cuồng loạn, giúp mọi người xung quanh di chuyển và làm việc nhanh hơn. Tuy nhiên, năng lượng cảm xúc không ổn định tạo ra xu hướng bạo lực, gây khó chịu cho những người xung quanh.</FrenzyInducer.description>
+  <FrenzyInducer.description>Xây dựng các cấu trúc sử dụng mảy vỡ để tạo ra một trường tâm linh cuồng loạn, giúp mọi người xung quanh di chuyển và làm việc nhanh hơn. Tuy nhiên, năng lượng cảm xúc không ổn định tạo ra xu hướng bạo lực, gây khó chịu cho những người xung quanh.</FrenzyInducer.description>
   <!-- EN:
     <li>subject->archotech frenzy inducers</li>
     <li>subject_story->worked as a motivational therapist</li>
@@ -416,9 +416,9 @@
   </FrenzyInducer.generalRules.rulesStrings>
   
   <!-- EN: ghoul enhancements -->
-  <GhoulEnhancements.label>Cải tiến ngạ quỷ</GhoulEnhancements.label>
+  <GhoulEnhancements.label>cải tiến ngạ quỷ</GhoulEnhancements.label>
   <!-- EN: Craft bioferrite prosthetics to make ghouls stronger. -->
-  <GhoulEnhancements.description>Chế tạo các bộ phận giả bằng bioferrite để làm cho ngạ quỷ mạnh mẽ hơn.</GhoulEnhancements.description>
+  <GhoulEnhancements.description>Chế tạo các bộ phận giả bằng kim loại sinh học để làm cho ngạ quỷ mạnh mẽ hơn.</GhoulEnhancements.description>
   <!-- EN:
     <li>subject->ghoul enhancements</li>
     <li>subject_story->experimented with the dead and the twice-dead</li>
@@ -431,13 +431,13 @@
     <li>subject_story->thử nghiệm với những người chết và những người chết hai lần</li>
     <li>subject_story->cấy ghép các vật phẩm ngày càng kỳ lạ vào ngạ quỷ</li>
     <li>subject_story->nghiên cứu các bộ phận giả ngạ quỷ phức tạp hơn</li>
-    <li>subject_gerund->cải thiện một ngạ quỷ bằng bộ phận giả bioferrite</li>
+    <li>subject_gerund->cải thiện một ngạ quỷ bằng bộ phận bằng kim loại sinh học</li>
   </GhoulEnhancements.generalRules.rulesStrings>
   
   <!-- EN: ghoul infusion -->
-  <GhoulInfusion.label>truyền dịch ngạ quỷ</GhoulInfusion.label>
+  <GhoulInfusion.label>biến đổi ngạ quỷ</GhoulInfusion.label>
   <!-- EN: Perform a surgery that infuses a living person with an archotech shard, transforming them into a terrifying ghoul. Ghouls are strong melee combatants but are incapable of doing work. Ghouls will go mad if they are not fed enough raw meat. -->
-  <GhoulInfusion.description>Thực hiện một ca phẫu thuật tiêm một người sống với một shard archotech, biến họ thành một Ngạ quỷ đáng sợ. Ngạ quỷ là những chiến binh cận chiến mạnh mẽ nhưng không thể làm việc. Ngạ quỷ sẽ phát điên nếu không được cho ăn đủ thịt sống.</GhoulInfusion.description>
+  <GhoulInfusion.description>Thực hiện một ca phẫu thuật tiêm một người sống với một mảnh vỡ cổ đại, biến họ thành một ngạ quỷ đáng sợ. ngạ quỷ là những chiến binh cận chiến mạnh mẽ nhưng không thể làm việc. Ngạ quỷ sẽ phát điên nếu không được cho ăn đủ thịt sống.</GhoulInfusion.description>
   <!-- EN:
     <li>subject->ghoul creation</li>
     <li>subject_story->supplied condemned prisonworld inhabitants for urbworld conflicts</li>
@@ -456,7 +456,7 @@
   </GhoulInfusion.generalRules.rulesStrings>
   
   <!-- EN: ghoul resurrection -->
-  <GhoulResurrection.label>Hồi sinh ngạ quỷ</GhoulResurrection.label>
+  <GhoulResurrection.label>hồi sinh ngạ quỷ</GhoulResurrection.label>
   <!-- EN: Synthesize a serum that can bring dead ghouls back to life. -->
   <GhoulResurrection.description>Tổng hợp một loại huyết thanh có thể đưa các ngạ quỷ đã chết sống lại.</GhoulResurrection.description>
   <!-- EN:
@@ -479,9 +479,9 @@
   </GhoulResurrection.generalRules.rulesStrings>
   
   <!-- EN: insanity weaponry -->
-  <InsanityWeaponry.label>Vũ khí gây điên loạn</InsanityWeaponry.label>
+  <InsanityWeaponry.label>vũ khí gây điên loạn</InsanityWeaponry.label>
   <!-- EN: Restructure archotech shards into limited-use weapons that shock, manipulate, and destroy enemies using archotechnology. -->
-  <InsanityWeaponry.description>Cấu trúc lại các shard archotech thành vũ khí sử dụng có hạn, gây sốc, thao túng và tiêu diệt kẻ thù bằng công nghệ archotech.</InsanityWeaponry.description>
+  <InsanityWeaponry.description>Cấu trúc lại các mảnh vỡ archotech thành vũ khí sử dụng có hạn, gây sốc, thao túng và tiêu diệt kẻ thù bằng công nghệ archotech.</InsanityWeaponry.description>
   <!-- EN:
     <li>subject->archotech insanity weaponry</li>
     <li>subject_story->explored psychological warfare for [ANYPAWN_possessive] dissertation</li>
@@ -491,7 +491,7 @@
     <li>subject_gerund->restructuring archotech into insanity-inducing weaponry</li>
   -->
   <InsanityWeaponry.generalRules.rulesStrings>
-    <li>subject->vũ khí gây điên loạn archotech</li>
+    <li>subject->vũ khí archotech gây điên loạn </li>
     <li>subject_story->khám phá chiến tranh tâm lý cho luận văn của [ANYPAWN_possessive]</li>
     <li>subject_story->quan sát một tiểu đoàn Đế chế bị đánh bại và học được giá trị của nỗi sợ</li>
     <li>subject_story->làm việc trong một nhà thương của các nạn nhân archotech</li>
@@ -500,7 +500,7 @@
   </InsanityWeaponry.generalRules.rulesStrings>
   
   <!-- EN: juggernaut serum -->
-  <JuggernautSerum.label>Huyết thanh Juggernaut</JuggernautSerum.label>
+  <JuggernautSerum.label>huyết thanh cường lực</JuggernautSerum.label>
   <!-- EN: Synthesize a serum which temporarily increases the user's strength and speed, and allows them to recover from injuries faster. However, it reduces their mood. -->
   <JuggernautSerum.description>Tổng hợp một loại huyết thanh làm tăng tạm thời sức mạnh và tốc độ của người dùng, đồng thời giúp họ phục hồi từ các vết thương nhanh hơn. Tuy nhiên, nó làm giảm tâm trạng của họ.</JuggernautSerum.description>
   <!-- EN:
@@ -512,18 +512,18 @@
     <li>subject_gerund->synthesizing juggernaut serums</li>
   -->
   <JuggernautSerum.generalRules.rulesStrings>
-    <li>subject->huyết thanh Juggernaut</li>
-    <li>subject_story->bị cấm thi đấu tại các giải đấu của thế giới trung tâm sau khi [ANYPAWN_pronoun] bị bắt gặp doping một đội bằng Huyết thanh Juggernaut</li>
-    <li>subject_story->cung cấp Huyết thanh Juggernaut cho binh lính khi đạn hết</li>
+    <li>subject->huyết thanh cường lực</li>
+    <li>subject_story->bị cấm thi đấu tại các giải đấu của thế giới trung tâm sau khi [ANYPAWN_pronoun] đã bị bắt quả tang khi đang lén tiêm huyết thanh cường lực cho cả đội</li>
+    <li>subject_story->cung cấp Huyết thanh cường lực cho binh lính khi đạn hết</li>
     <li>subject_story->nghiên cứu việc sử dụng huyết thanh trong các lĩnh vực xây dựng nô lệ</li>
-    <li>subject_story->ngã vào một thùng huyết thanh Juggernaut</li>
-    <li>subject_gerund->tổng hợp huyết thanh Juggernaut</li>
+    <li>subject_story->ngã vào một thùng huyết thanh cường lực</li>
+    <li>subject_gerund->tổng hợp huyết thanh cường lực</li>
   </JuggernautSerum.generalRules.rulesStrings>
   
   <!-- EN: metalblood serum -->
-  <MetalbloodSerum.label>Huyết thanh Metalblood</MetalbloodSerum.label>
+  <MetalbloodSerum.label>huyết thanh huyết kim</MetalbloodSerum.label>
   <!-- EN: Synthesize metalblood serums that make the user more resistant to damage. -->
-  <MetalbloodSerum.description>Tổng hợp các huyết thanh metalblood giúp người dùng kháng cự tốt hơn với tổn thương.</MetalbloodSerum.description>
+  <MetalbloodSerum.description>Tổng hợp các huyết thanh huyết kim giúp người dùng kháng cự tốt hơn với tổn thương.</MetalbloodSerum.description>
   <!-- EN:
     <li>subject->metalblood serums</li>
     <li>subject_story->researched reactive liquids for use in milworld armor</li>
@@ -533,16 +533,16 @@
     <li>subject_gerund->synthesizing metalblood serums</li>
   -->
   <MetalbloodSerum.generalRules.rulesStrings>
-    <li>subject->huyết thanh metalblood</li>
+    <li>subject->huyết thanh huyết kim</li>
     <li>subject_story->nghiên cứu các chất lỏng phản ứng để sử dụng trong giáp quân đội</li>
     <li>subject_story->là một trong những người tiên phong sớm trong công nghệ thay thế máu</li>
     <li>subject_story->phát hiện một máy phân phối metalblood trên một thế giới chết trơ trụi</li>
-    <li>subject_story->sử dụng súng phun lửa chống lại một lực lượng dân quân sử dụng metalblood</li>
-    <li>subject_gerund->tổng hợp huyết thanh metalblood</li>
+    <li>subject_story->sử dụng súng phun lửa chống lại một lực lượng dân quân sử dụng huyết kim</li>
+    <li>subject_gerund->tổng hợp huyết thanh huyết kim</li>
   </MetalbloodSerum.generalRules.rulesStrings>
   
   <!-- EN: mind-numb serum -->
-  <MindNumbSerum.label>Huyết thanh Mind-Numb</MindNumbSerum.label>
+  <MindNumbSerum.label>huyết thanh tê liệt tâm trí</MindNumbSerum.label>
   <!-- EN: Synthesize a serum that stabilizes a person's mood, preventing mental breaks. -->
   <MindNumbSerum.description>Tổng hợp một loại huyết thanh ổn định tâm trạng của một người, ngăn ngừa các cơn suy sụp tinh thần.</MindNumbSerum.description>
   <!-- EN:
@@ -554,18 +554,18 @@
     <li>subject_gerund->synthesizing mind-numb serums</li>
   -->
   <MindNumbSerum.generalRules.rulesStrings>
-    <li>subject->huyết thanh mind-numb</li>
+    <li>subject->huyết thanh tê liệt tâm trí</li>
     <li>subject_story->phá hoại một buổi biểu diễn cảm xúc bằng cách bí mật làm tê liệt ca sĩ chính</li>
-    <li>subject_story->lọc huyết thanh mind-numb liều thấp vào nguồn nước của nhà thương</li>
-    <li>subject_story->phân phát huyết thanh mind-numb cho các binh lính cấp dưới trước và sau trận chiến</li>
+    <li>subject_story->lọc huyết thanh tê liệt tâm trí liều thấp vào nguồn nước của trại tâm thần</li>
+    <li>subject_story->phân phát huyết thanh tê liệt tâm trí cho các binh lính cấp dưới trước và sau trận chiến</li>
     <li>subject_story->nghiên cứu việc sử dụng archotech để làm tê liệt cơn đau</li>
-    <li>subject_gerund->tổng hợp huyết thanh mind-numb</li>
+    <li>subject_gerund->tổng hợp huyết thanh tê liệt tâm trí</li>
   </MindNumbSerum.generalRules.rulesStrings>
   
   <!-- EN: mutation weaponry -->
-  <MutationWeaponry.label>Vũ khí đột biến</MutationWeaponry.label>
+  <MutationWeaponry.label>vũ khí đột biến</MutationWeaponry.label>
   <!-- EN: Restructure archotech shards into limited-use weapons that twist living targets into terrifying creatures. -->
-  <MutationWeaponry.description>Cấu trúc lại các shard archotech thành vũ khí sử dụng có hạn, biến các mục tiêu sống thành những sinh vật đáng sợ.</MutationWeaponry.description>
+  <MutationWeaponry.description>Cấu trúc lại các mảnh vỡ archotech thành vũ khí sử dụng có hạn, biến các mục tiêu sống thành những sinh vật đáng sợ.</MutationWeaponry.description>
   <!-- EN:
     <li>subject->mutation induction</li>
     <li>subject->archotech mutation weaponry</li>
@@ -590,7 +590,7 @@
   </MutationWeaponry.generalRules.rulesStrings>
   
   <!-- EN: neurosis pulse -->
-  <NeurosisPulse.label>Pulsa thần kinh</NeurosisPulse.label>
+  <NeurosisPulse.label>xung cuồng loạn</NeurosisPulse.label>
   <!-- EN: Perform a psychic ritual that makes everyone in the region work faster but become more irritable. -->
   <NeurosisPulse.description>Thực hiện một nghi thức tâm linh khiến mọi người trong khu vực làm việc nhanh hơn nhưng trở nên dễ cáu gắt hơn.</NeurosisPulse.description>
   <!-- EN:
@@ -604,7 +604,7 @@
     <li>subject_gerund->performing a ritual to raise worker productivity</li>
   -->
   <NeurosisPulse.generalRules.rulesStrings>
-    <li>subject->pulsa thần kinh</li>
+    <li>subject->xung cuồng loạn</li>
     <li>subject->mệnh lệnh công việc</li>
     <li>subject_story->gia nhập một giáo phái công nhân trên một thế giới đô thị</li>
     <li>subject_story->cảm nhận áp lực tâm linh của một nghi lễ trong khi làm việc</li>
@@ -615,7 +615,7 @@
   </NeurosisPulse.generalRules.rulesStrings>
   
   <!-- EN: philophagy -->
-  <Philophagy.label>Philophagy</Philophagy.label>
+  <Philophagy.label>hấp thu tri thức</Philophagy.label>
   <!-- EN: Perform a psychic ritual that drains experience from a victim and gives it to the invoker. The process will dull the target's mind, weakening their skills and causing brain damage. -->
   <Philophagy.description>Thực hiện một nghi thức tâm linh hút kinh nghiệm từ nạn nhân và chuyển cho người thực hiện. Quá trình này sẽ làm tê liệt trí óc của mục tiêu, làm yếu kỹ năng của họ và gây tổn thương não bộ.</Philophagy.description>
   <!-- EN:
@@ -629,9 +629,9 @@
     <li>subject_gerund->performing a ritual to steal a victim's skills</li>
   -->
   <Philophagy.generalRules.rulesStrings>
-    <li>subject->philophagy</li>
+    <li>subject->hấp thu tri thức</li>
     <li>subject->chuyển giao kỹ năng</li>
-    <li>subject_story->theo dấu vết của các nạn nhân để lại bởi một philophage</li>
+    <li>subject_story->đã lần theo dấu vết các nạn nhân do một kẻ hấp thu tri thức bỏ lại</li>
     <li>subject_story->nghiên cứu các quá trình sao chép thần kinh trong các phòng thí nghiệm của một thế giới lấp lánh</li>
     <li>subject_story->nghiên cứu các tâm trí bị tổn thương của nạn nhân giáo phái</li>
     <li>subject_story->phát hiện kỹ năng của [ANYPAWN_possessive] bị suy giảm sau một cuộc tấn công tâm linh</li>
@@ -640,7 +640,7 @@
   </Philophagy.generalRules.rulesStrings>
   
   <!-- EN: pleasure pulse -->
-  <PleasurePulse.label>Pulsa hạnh phúc</PleasurePulse.label>
+  <PleasurePulse.label>xung khoái cảm</PleasurePulse.label>
   <!-- EN: Perform a psychic ritual that makes everyone in the region happier but reduces their desire to work. -->
   <PleasurePulse.description>Thực hiện một nghi thức tâm linh khiến mọi người trong khu vực cảm thấy hạnh phúc hơn nhưng giảm mong muốn làm việc của họ.</PleasurePulse.description>
   <!-- EN:
@@ -653,7 +653,7 @@
     <li>subject_gerund->performing a psychic ritual to induce pleasure</li>
   -->
   <PleasurePulse.generalRules.rulesStrings>
-    <li>subject->gọi hạnh phúc</li>
+    <li>subject->kêu gọi khoái lạc</li>
     <li>subject_story->đọc một câu chuyện cổ xưa của Trái Đất ca ngợi một thực phẩm kỳ diệu gọi là soma</li>
     <li>subject_story->nghiên cứu huyền thoại về những người ăn hoa sen</li>
     <li>subject_story->làm việc với các triết gia xã hội để tạo ra một nghi lễ hữu ích</li>
@@ -663,7 +663,7 @@
   </PleasurePulse.generalRules.rulesStrings>
   
   <!-- EN: proximity detector -->
-  <ProximityDetector.label>Thiết bị phát hiện tàng hình</ProximityDetector.label>
+  <ProximityDetector.label>cảm biến phát hiện tàng hình</ProximityDetector.label>
   <!-- EN: Build a device that can detect invisible creatures. -->
   <ProximityDetector.description>Xây dựng một thiết bị có thể phát hiện các sinh vật vô hình.</ProximityDetector.description>
   <!-- EN:
@@ -677,7 +677,7 @@
     <li>subject_gerund->detecting invisible creatures</li>
   -->
   <ProximityDetector.generalRules.rulesStrings>
-    <li>subject->Thiết bị phát hiện tàng hình</li>
+    <li>subject->cảm biến phát hiện tàng hình</li>
     <li>subject->cảm biến chuyển động</li>
     <li>subject_story->xem các cuộn phim giải trí cổ xưa và được truyền cảm hứng</li>
     <li>subject_story->thử nghiệm các thiết bị chống psi đơn giản</li>
@@ -688,7 +688,7 @@
   </ProximityDetector.generalRules.rulesStrings>
   
   <!-- EN: psychophagy -->
-  <Psychophagy.label>Psychophagy</Psychophagy.label>
+  <Psychophagy.label>tước đoạt tinh thần</Psychophagy.label>
   <!-- EN: Perform a psychic ritual which deadens a target's psychic sensitivity and temporarily boosts the ritual invoker's psychic sensitivity. The target will suffer brain damage as a side-effect. -->
   <Psychophagy.description>Thực hiện một nghi thức tâm linh làm giảm độ nhạy tâm linh của mục tiêu và tạm thời tăng độ nhạy tâm linh của người thực hiện. Mục tiêu sẽ bị tổn thương não bộ như một tác dụng phụ.</Psychophagy.description>
   <!-- EN:
@@ -701,7 +701,7 @@
     <li>subject_gerund->performing a psychophagy ritual</li>
   -->
   <Psychophagy.generalRules.rulesStrings>
-    <li>subject->psychophagy</li>
+    <li>subject->tước đoạt tinh thần</li>
     <li>subject->cướp đoạt tâm linh</li>
     <li>subject_story->nghiên cứu sự giảm nhạy cảm đối với các tác động tâm linh</li>
     <li>subject_story->quản lý việc chuyển giao archite từ các đối tượng đã chết</li>
@@ -712,9 +712,9 @@
   </Psychophagy.generalRules.rulesStrings>
   
   <!-- EN: revenant invisibility -->
-  <RevenantInvisibility.label>Ẩn hình revenant</RevenantInvisibility.label>
+  <RevenantInvisibility.label>u hồn ẩn hình</RevenantInvisibility.label>
   <!-- EN: Modify a revenant spine so that it can be implanted in a human, allowing them to become temporarily invisible. -->
-  <RevenantInvisibility.description>Sửa đổi cột sống revenant để có thể cấy vào người, cho phép họ trở nên vô hình tạm thời.</RevenantInvisibility.description>
+  <RevenantInvisibility.description>Sửa đổi cột sống u hồn để có thể cấy vào người, cho phép họ trở nên vô hình tạm thời.</RevenantInvisibility.description>
   <!-- EN:
     <li>subject->invisibility</li>
     <li>subject_story->implanted a monster's spine into a human, without considering the consequences</li>
@@ -730,12 +730,12 @@
     <li>subject_story->viết một tiểu thuyết về đạo đức biến mất của một người vô hình</li>
     <li>subject_story->phát hiện một cột sống kim loại lạ trong một hệ sao chết</li>
     <li>subject_story->mơ về một đội quân chiến binh vô hình</li>
-    <li>subject_gerund->thích ứng cột sống revenant</li>
-    <li>subject_gerund->cấy cột sống revenant vào người</li>
+    <li>subject_gerund->thích ứng cột sống u hồn</li>
+    <li>subject_gerund->cấy cột sống u hồn vào người</li>
   </RevenantInvisibility.generalRules.rulesStrings>
   
   <!-- EN: serum synthesis -->
-  <SerumSynthesis.label>Tổng hợp huyết thanh</SerumSynthesis.label>
+  <SerumSynthesis.label>tổng hợp huyết thanh</SerumSynthesis.label>
   <!-- EN: Build a serum lab to synthesize high-tech serums. Serums harness archotechnological power to bestow a temporary effect on the user. -->
   <SerumSynthesis.description>Xây dựng một phòng thí nghiệm huyết thanh để tổng hợp các huyết thanh công nghệ cao. Huyết thanh khai thác sức mạnh archotech để ban tặng hiệu ứng tạm thời cho người dùng.</SerumSynthesis.description>
   <!-- EN:
@@ -756,7 +756,7 @@
   </SerumSynthesis.generalRules.rulesStrings>
   
   <!-- EN: skip abduction -->
-  <SkipAbductionPlayer.label>Đánh cắp ngẫu nhiên</SkipAbductionPlayer.label>
+  <SkipAbductionPlayer.label>nghi thức bắt cóc</SkipAbductionPlayer.label>
   <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
   <SkipAbductionPlayer.description>Thực hiện một nghi thức tâm linh để bắt cóc một người thù địch ngẫu nhiên từ bất kỳ đâu trên thế giới, đưa họ vào trạng thái hôn mê ngắn hạn để bắt giữ.</SkipAbductionPlayer.description>
   <!-- EN:
@@ -781,9 +781,9 @@
   </SkipAbductionPlayer.generalRules.rulesStrings>
   
   <!-- EN: sleep suppressor -->
-  <SleepSuppressor.label>Thiết bị ngăn chặn giấc ngủ</SleepSuppressor.label>
+  <SleepSuppressor.label>thiết bị ngăn chặn giấc ngủ</SleepSuppressor.label>
   <!-- EN: Build shard-powered structures that stimulate those nearby to prevent fatigue. The device will irritate anyone nearby. -->
-  <SleepSuppressor.description>Xây dựng các cấu trúc sử dụng năng lượng shard để kích thích những người xung quanh nhằm ngăn ngừa mệt mỏi. Thiết bị sẽ gây kích ứng cho bất kỳ ai ở gần đó.</SleepSuppressor.description>
+  <SleepSuppressor.description>Xây dựng các cấu trúc sử dụng năng lượng mảnh vỡ để kích thích những người xung quanh nhằm ngăn ngừa mệt mỏi. Thiết bị sẽ gây kích ứng cho bất kỳ ai ở gần đó.</SleepSuppressor.description>
   <!-- EN:
     <li>subject->sleep suppression</li>
     <li>subject_story->studied sleep deprivation in factory workers</li>
@@ -806,7 +806,7 @@
   </SleepSuppressor.generalRules.rulesStrings>
   
   <!-- EN: draw animals -->
-  <SummonAnimals.label>Gọi động vật</SummonAnimals.label>
+  <SummonAnimals.label>gọi động vật</SummonAnimals.label>
   <!-- EN: Perform a psychic ritual which will draw a herd of animals. -->
   <SummonAnimals.description>Thực hiện một nghi thức tâm linh để gọi một đàn động vật.</SummonAnimals.description>
   <!-- EN:
@@ -827,7 +827,7 @@
   </SummonAnimals.generalRules.rulesStrings>
   
   <!-- EN: summon fleshbeasts -->
-  <SummonFleshbeastsPlayer.label>gọi Quái thịt</SummonFleshbeastsPlayer.label>
+  <SummonFleshbeastsPlayer.label>gọi quái thịt</SummonFleshbeastsPlayer.label>
   <!-- EN: Perform a psychic ritual which provokes fleshbeasts to emerge from the ground near enemies, attacking anyone nearby. -->
   <SummonFleshbeastsPlayer.description>Thực hiện một nghi thức tâm linh để kích thích thú thịt xuất hiện từ mặt đất gần kẻ thù, tấn công bất kỳ ai xung quanh.</SummonFleshbeastsPlayer.description>
   <!-- EN:
@@ -841,18 +841,18 @@
     <li>subject_gerund->performing a ritual to summon fleshbeasts</li>
   -->
   <SummonFleshbeastsPlayer.generalRules.rulesStrings>
-    <li>subject->gọi Quái thịt</li>
+    <li>subject->gọi quái thịt</li>
     <li>subject_story->đọc các cuốn sách cổ về nguồn gốc của sự sống</li>
     <li>subject_story->trải nghiệm trực tiếp sự phát sinh tự phát ở các boomrat của Sahe</li>
     <li>subject_story->xem một bộ phim cổ xưa về sự hợp nhất thịt và được truyền cảm hứng</li>
     <li>subject_story->nghiên cứu sự chuyển giao và tách biệt ý thức trong việc hợp nhất hữu cơ</li>
     <li>subject_story->quan sát một cộng đồng dirtmole đã gặp phải những quái vật kinh hoàng dưới lòng đất</li>
-    <li>subject_gerund->gọi Quái thịt</li>
-    <li>subject_gerund->thực hiện một nghi lễ để gọi Quái thịt</li>
+    <li>subject_gerund->gọi quái thịt</li>
+    <li>subject_gerund->thực hiện một nghi lễ để gọi quái thịt</li>
   </SummonFleshbeastsPlayer.generalRules.rulesStrings>
   
   <!-- EN: provoke pit gate -->
-  <SummonPitGate.label>Gọi Cổng vực thẳm</SummonPitGate.label>
+  <SummonPitGate.label>gọi cổng vực thẳm</SummonPitGate.label>
   <!-- EN: Perform a psychic ritual which causes underground fleshbeasts to open up a massive hole in the ground. The hole leads down to a fleshbeast-infested cavern which can be explored for resources. -->
   <SummonPitGate.description>Thực hiện một nghi thức tâm linh khiến các thú thịt dưới lòng đất mở ra một hố khổng lồ trên mặt đất. Hố này dẫn xuống một động đầy thú thịt mà có thể được khám phá để thu thập tài nguyên.</SummonPitGate.description>
   <!-- EN:
@@ -865,13 +865,13 @@
     <li>subject_gerund->summoning a pit gate</li>
   -->
   <SummonPitGate.generalRules.rulesStrings>
-    <li>subject->gọi Cổng vực thẳm</li>
-    <li>subject_story->nghiên cứu sự xâm nhiễm fleshmeld</li>
+    <li>subject->gọi cổng vực thẳm</li>
+    <li>subject_story->nghiên cứu sự xâm nhiễm của quái thịt</li>
     <li>subject_story->thu thập các câu chuyện về sinh vật gestalt</li>
     <li>subject_story->quản lý thư viện sách của một trường giáo phái thế giới chết</li>
     <li>subject_story->cử hành một nghi lễ lún đất</li>
-    <li>subject_gerund->thực hiện một nghi lễ để tạo ra Cổng vực thẳm</li>
-    <li>subject_gerund->gọi Cổng vực thẳm</li>
+    <li>subject_gerund->thực hiện một nghi lễ để tạo ra cổng vực thẳm</li>
+    <li>subject_gerund->gọi cổng vực thẳm</li>
   </SummonPitGate.generalRules.rulesStrings>
   
   <!-- EN: draw shamblers -->
@@ -890,7 +890,7 @@
   <SummonShamblers.generalRules.rulesStrings>
     <li>subject->gọi xác sống</li>
     <li>subject_story->nghiên cứu các giáo phái necro của các thế giới chết, từ sự an toàn của một thư viện đại học</li>
-    <li>subject_story->thu thập các câu chuyện về các cuộc tấn công của shamblers</li>
+    <li>subject_story->thu thập các câu chuyện về các cuộc tấn công của xác sống</li>
     <li>subject_story->nghiên cứu sự hình thành chỉ sợi archite trong các sinh vật đã chết</li>
     <li>subject_story->nhìn thấy đủ loại điều kỳ lạ khi là một người phụ trách thế giới tử thần</li>
     <li>subject_gerund->gọi xác sống</li>
@@ -898,9 +898,9 @@
   </SummonShamblers.generalRules.rulesStrings>
   
   <!-- EN: void sculptures -->
-  <VoidSculptures.label>Tạc điêu khắc hư không</VoidSculptures.label>
+  <VoidSculptures.label>tạc điêu khắc hư không</VoidSculptures.label>
   <!-- EN: Craft special void sculptures from bioferrite to enhance the quality of psychic rituals. -->
-  <VoidSculptures.description>Tạo các tác phẩm điêu khắc hư không đặc biệt từ bioferrite để nâng cao chất lượng của các nghi thức tâm linh.</VoidSculptures.description>
+  <VoidSculptures.description>Tạo các tác phẩm điêu khắc hư không đặc biệt từ kim loại sinh học để nâng cao chất lượng của các nghi thức tâm linh.</VoidSculptures.description>
   <!-- EN:
     <li>subject->void sculptures</li>
     <li>subject->bioferrite sculpture</li>
@@ -914,14 +914,14 @@
   -->
   <VoidSculptures.generalRules.rulesStrings>
     <li>subject->điêu khắc hư không</li>
-    <li>subject->điêu khắc bioferrite</li>
+    <li>subject->điêu khắc kim loại sinh học</li>
     <li>subject_story->mô hình hóa không gian khả năng archotech bằng máy tính</li>
     <li>subject_story->được một sibyl thuê để tạc những giấc mơ của cô ấy</li>
     <li>subject_story->muốn làm cho các tác phẩm điêu khắc trở nên sống động</li>
     <li>subject_story->mơ về một đại dương vô tận, được hình thành bởi bàn tay con người</li>
     <li>subject_story->quan sát các nhà tâm linh Đế chế làm việc</li>
-    <li>subject_gerund->tạc bằng bioferrite</li>
-    <li>subject_gerund->tạo ra các tác phẩm điêu khắc nghi lễ từ bioferrite</li>
+    <li>subject_gerund->tạc bằng kim loại sinh học</li>
+    <li>subject_gerund->tạo ra các tác phẩm điêu khắc nghi lễ từ kim loại sinh học</li>
   </VoidSculptures.generalRules.rulesStrings>
   
 </LanguageData>

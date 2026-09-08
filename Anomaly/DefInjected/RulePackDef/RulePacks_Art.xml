@@ -38,9 +38,9 @@
     <li>adjectiveCube->blurry</li>
   -->
   <NamerArtCubeSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAny] Khối</li>
-    <li>r_art_name->[adjectiveCube] Khối</li>
-    <li>r_art_name->Khối của [ConceptAny]</li>
+    <li>r_art_name->Khối lập phương [AdjectiveAny]</li>
+    <li>r_art_name->Khối lập phương [adjectiveCube]</li>
+    <li>r_art_name->Khối lập phươngcủa [ConceptAny]</li>
     <li>adjectiveCube->mềm nhũn</li>
     <li>adjectiveCube->biến dạng</li>
     <li>adjectiveCube->lồi lõm</li>
@@ -99,8 +99,8 @@
     <li>adjectiveUnsettling->otherworldly</li>
   -->
   <NamerArtVoidSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAngsty] Tượng</li>
-    <li>r_art_name->[adjectiveUnsettling] Tượng</li>
+    <li>r_art_name->Tượng [AdjectiveAngsty]</li>
+    <li>r_art_name->Tượng [adjectiveUnsettling]</li>
     <li>adjectiveUnsettling->khó chịu</li>
     <li>adjectiveUnsettling->gây rối</li>
     <li>adjectiveUnsettling->lạ lùng</li>

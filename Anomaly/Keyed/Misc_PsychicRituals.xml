@@ -22,13 +22,13 @@
   <!-- EN: choose a location -->
   <PsychicRitual_LocationTargetting>chọn một địa điểm</PsychicRitual_LocationTargetting>
   <!-- EN: total quality -->
-  <PsychicRitualExpectedQualityLabel>Chất lượng dự kiến</PsychicRitualExpectedQualityLabel>
+  <PsychicRitualExpectedQualityLabel>chất lượng dự kiến</PsychicRitualExpectedQualityLabel>
   <!-- EN: quality factors -->
-  <PsychicRitualQualityFactorLabel>Hệ số chất lượng</PsychicRitualQualityFactorLabel>
+  <PsychicRitualQualityFactorLabel>hệ số chất lượng</PsychicRitualQualityFactorLabel>
   <!-- EN: duration -->
-  <PsychicRitualExpectedDurationLabel>Thời lượng dự kiến</PsychicRitualExpectedDurationLabel>
+  <PsychicRitualExpectedDurationLabel>thời lượng</PsychicRitualExpectedDurationLabel>
   <!-- EN: required offering -->
-  <PsychicRitualRequiredOffering>Cống phẩm yêu cầu</PsychicRitualRequiredOffering>
+  <PsychicRitualRequiredOffering>cống phẩm yêu cầu</PsychicRitualRequiredOffering>
   <!-- EN: Caused by psychic ritual -->
   <CausedByPsychicRitual>Bởi nghi thức tâm linh</CausedByPsychicRitual>
   <!-- EN: Cooldown -->
@@ -41,9 +41,9 @@
   <!-- EN: The {0} psychic ritual can be performed again. -->
   <PsychicRitualCanBeCastAgain>Có thể tiến hành nghi thức tâm linh {0} thêm lần nữa.</PsychicRitualCanBeCastAgain>
   <!-- EN: No basic anomaly research project selected. -->
-  <NoBasicResearchForPsychicRitual>Chưa có đề tài nghiên cứu Dị thường cơ bản nào được chọn.</NoBasicResearchForPsychicRitual>
+  <NoBasicResearchForPsychicRitual>Chưa có đề tài nghiên cứu dị thường cơ bản nào được chọn.</NoBasicResearchForPsychicRitual>
   <!-- EN: Must perform {0} psychic ritual on the surface. -->
-  <CantCastOnPocketMap>Cần thực hiện nghi thức tâm linh {0} ở bản đồ thế giới.</CantCastOnPocketMap>
+  <CantCastOnPocketMap>Phải thực hiện nghi thức ngoại cảm {0} trên mặt đất.</CantCastOnPocketMap>
 
   <!-- EN: Warning: Performing a ritual on {PAWN_nameDef} will anger {PAWN_possessive} faction ({FACTION_name}) -->
   <PsychicRitualFactionWarning>Cảnh báo: Thực hiện nghi thức tâm linh lên {PAWN_nameDef} sẽ chọc giận phe {PAWN_possessive} ({FACTION_name})</PsychicRitualFactionWarning>
@@ -96,7 +96,7 @@
   <!-- EN: {PAWN_labelShort} had better things to do -->
   <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort} đã rời đi.</PsychicRitualLeaveReason_LeftVoluntarily>
   <!-- EN: {PAWN_labelShort} is drafted -->
-  <PsychicRitualLeaveReason_Drafted>{PAWN_labelShort} được lệnh nhập ngũ.</PsychicRitualLeaveReason_Drafted>
+  <PsychicRitualLeaveReason_Drafted>{PAWN_labelShort} đang bị điều động.</PsychicRitualLeaveReason_Drafted>
   <!-- EN: {PAWN_labelShort} is in a mental state -->
   <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort} bị rối loạn tâm trí.</PsychicRitualLeaveReason_InMentalState>
   <!-- EN: {PAWN_labelShort} is bleeding -->
@@ -163,7 +163,7 @@
   <!-- EN: waiting on -->
   <PsychicRitualToil_GatherForInvocation_Report>đang chờ đợi</PsychicRitualToil_GatherForInvocation_Report>
   <!-- EN: invoking the void -->
-  <PsychicRitualToil_InvokeHorax_Report>đang triệu hồi hư vô</PsychicRitualToil_InvokeHorax_Report>
+  <PsychicRitualToil_InvokeHorax_Report>đang triệu hồi hư không</PsychicRitualToil_InvokeHorax_Report>
 
   <!-- EN: {TARGET_labelShort} was destroyed -->
   <PsychicRitualDef_TargetDestroyed>Mục tiêu {TARGET_labelShort} đã bị phá hủy.</PsychicRitualDef_TargetDestroyed>
@@ -195,11 +195,11 @@
 
   <!-- Shambler summoning -->
   <!-- EN: No nearby shamblers. -->
-  <NoNearbyShamblers>Không có Shambler gần kề.</NoNearbyShamblers>
+  <NoNearbyShamblers>Không có xác sống gần kề.</NoNearbyShamblers>
 
   <!-- Pit gate summoning -->
   <!-- EN: There is already a pit gate on the map. -->
-  <PitGateAlreadyExists>Đã tồn tại một cánh Cổng vực thẳm trên bản đồ này.</PitGateAlreadyExists>
+  <PitGateAlreadyExists>Đã tồn tại một cánh cổng vực thẳm trên bản đồ này.</PitGateAlreadyExists>
   
   <!-- Chronophagy -->
   <!-- EN: The invoker must be at least {0} years old. -->

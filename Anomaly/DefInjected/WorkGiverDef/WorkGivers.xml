@@ -2,84 +2,84 @@
 <LanguageData>
   
   <!-- EN: suppress entity activity -->
-  <ActivitySuppression.label>Ức chế thực thể</ActivitySuppression.label>
+  <ActivitySuppression.label>trấn áp thực thể</ActivitySuppression.label>
   <!-- EN: suppressing -->
-  <ActivitySuppression.gerund>Ức chế</ActivitySuppression.gerund>
+  <ActivitySuppression.gerund>đang áp trấn áp</ActivitySuppression.gerund>
   <!-- EN: suppress -->
-  <ActivitySuppression.verb>Ức chế</ActivitySuppression.verb>
+  <ActivitySuppression.verb>trấn áp</ActivitySuppression.verb>
   
   <!-- EN: make things at bioferrite shaper -->
-  <DoBillsBioferriteShaper.label>Tạo vật thể ở Bàn tạo hình bioferrite</DoBillsBioferriteShaper.label>
+  <DoBillsBioferriteShaper.label>tạo vật thể ở máy định hình kim loại sinh học</DoBillsBioferriteShaper.label>
   <!-- EN: working at -->
-  <DoBillsBioferriteShaper.gerund>đang làm việc</DoBillsBioferriteShaper.gerund>
+  <DoBillsBioferriteShaper.gerund>đang làm việc tại</DoBillsBioferriteShaper.gerund>
   <!-- EN: work at -->
-  <DoBillsBioferriteShaper.verb>làm việc</DoBillsBioferriteShaper.verb>
+  <DoBillsBioferriteShaper.verb>làm việc tại</DoBillsBioferriteShaper.verb>
   
   <!-- EN: make things at serum lab -->
-  <DoBillsSerumCentrifuge.label>Tạo serum ở máy ly tâm</DoBillsSerumCentrifuge.label>
+  <DoBillsSerumCentrifuge.label>tạo huyết thanh ở máy ly tâm</DoBillsSerumCentrifuge.label>
   <!-- EN: working at -->
-  <DoBillsSerumCentrifuge.gerund>trộn serum</DoBillsSerumCentrifuge.gerund>
+  <DoBillsSerumCentrifuge.gerund>đang tạo huyết thanh tại</DoBillsSerumCentrifuge.gerund>
   <!-- EN: work at -->
-  <DoBillsSerumCentrifuge.verb>trộn serum</DoBillsSerumCentrifuge.verb>
+  <DoBillsSerumCentrifuge.verb>tạo huyết thanh tại</DoBillsSerumCentrifuge.verb>
   
   <!-- EN: tend to entities -->
-  <DoctorTendToEntities.label>Chăm sóc thực thể</DoctorTendToEntities.label>
+  <DoctorTendToEntities.label>chăm sóc thực thể</DoctorTendToEntities.label>
   <!-- EN: tending to -->
-  <DoctorTendToEntities.gerund>chăm sóc</DoctorTendToEntities.gerund>
+  <DoctorTendToEntities.gerund>đang chăm sóc tại</DoctorTendToEntities.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToEntities.verb>chăm sóc</DoctorTendToEntities.verb>
+  <DoctorTendToEntities.verb>chăm sóc tại</DoctorTendToEntities.verb>
   
   <!-- EN: execute entities -->
-  <ExecuteEntity.label>Xóa sổ thực thể</ExecuteEntity.label>
+  <ExecuteEntity.label>hành quyết thực thể</ExecuteEntity.label>
   <!-- EN: executing -->
-  <ExecuteEntity.gerund>xóa sổ</ExecuteEntity.gerund>
+  <ExecuteEntity.gerund>đang hành quyết</ExecuteEntity.gerund>
   <!-- EN: execute -->
-  <ExecuteEntity.verb>xóa sổ</ExecuteEntity.verb>
+  <ExecuteEntity.verb>hành quyết</ExecuteEntity.verb>
   
   <!-- EN: extract bioferrite from entities -->
-  <ExtractBioferrite.label>Chiết xuất bioferrite từ các thực thể</ExtractBioferrite.label>
+  <ExtractBioferrite.label>chiết xuất kim loại sinh học từ các thực thể</ExtractBioferrite.label>
   <!-- EN: extracting from -->
   <ExtractBioferrite.gerund>đang chiết xuất từ</ExtractBioferrite.gerund>
   <!-- EN: extract from -->
   <ExtractBioferrite.verb>chiết xuất từ</ExtractBioferrite.verb>
   
   <!-- EN: interrogate identity -->
-  <InterrogatePrisoner.label>Thẩm vấn tù nhân</InterrogatePrisoner.label>
+  <InterrogatePrisoner.label>thẩm vấn danh tính</InterrogatePrisoner.label>
   <!-- EN: interrogating -->
   <InterrogatePrisoner.gerund>đang thẩm vấn</InterrogatePrisoner.gerund>
   <!-- EN: interrogate -->
   <InterrogatePrisoner.verb>thẩm vấn</InterrogatePrisoner.verb>
   
   <!-- EN: release entities -->
-  <ReleaseEntity.label>Thả thực thể</ReleaseEntity.label>
+  <ReleaseEntity.label>thả thực thể</ReleaseEntity.label>
   <!-- EN: releasing -->
   <ReleaseEntity.gerund>đang thả</ReleaseEntity.gerund>
   <!-- EN: release -->
   <ReleaseEntity.verb>thả</ReleaseEntity.verb>
   
   <!-- EN: study -->
-  <StudyInteract.label>Nghiên cứu</StudyInteract.label>
+  <StudyInteract.label>nghiên cứu</StudyInteract.label>
   <!-- EN: studying -->
   <StudyInteract.gerund>đang nghiên cứu</StudyInteract.gerund>
   <!-- EN: study -->
   <StudyInteract.verb>nghiên cứu</StudyInteract.verb>
   
   <!-- EN: take bioferrite out of bioferrite harvester -->
-  <TakeBioferriteOutOfHarvester.label>Thu hoạch bioferrite từ máy thu hoạch</TakeBioferriteOutOfHarvester.label>
+  <TakeBioferriteOutOfHarvester.label>thu hoạch kim loại sinh học từ máy thu hoạch kim loại sinh học</TakeBioferriteOutOfHarvester.label>
   <!-- EN: taking bioferrite from -->
-  <TakeBioferriteOutOfHarvester.gerund>đang thu hoạch bioferrite từ</TakeBioferriteOutOfHarvester.gerund>
+  <TakeBioferriteOutOfHarvester.gerund>đang thu hoạch kim loại sinh học từ</TakeBioferriteOutOfHarvester.gerund>
   <!-- EN: take bioferrite -->
-  <TakeBioferriteOutOfHarvester.verb>thu hoạch bioferrite</TakeBioferriteOutOfHarvester.verb>
+  <TakeBioferriteOutOfHarvester.verb>thu hoạch kim loại sinh học</TakeBioferriteOutOfHarvester.verb>
   
   <!-- EN: capture entity -->
-  <TakeEntityToHoldingPlatform.label>Bắt giữ thực thể</TakeEntityToHoldingPlatform.label>
+  <TakeEntityToHoldingPlatform.label>bắt giữ thực thể</TakeEntityToHoldingPlatform.label>
   <!-- EN: capturing -->
   <TakeEntityToHoldingPlatform.gerund>đang bắt giữ</TakeEntityToHoldingPlatform.gerund>
   <!-- EN: capture -->
   <TakeEntityToHoldingPlatform.verb>bắt giữ</TakeEntityToHoldingPlatform.verb>
   
   <!-- EN: transfer entities -->
-  <TransferEntity.label>Di chuyển thực thể</TransferEntity.label>
+  <TransferEntity.label>di chuyển thực thể</TransferEntity.label>
   <!-- EN: transferring -->
   <TransferEntity.gerund>đang di chuyển</TransferEntity.gerund>
   <!-- EN: transfer -->

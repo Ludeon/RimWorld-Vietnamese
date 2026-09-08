@@ -3,7 +3,7 @@
 
   <!-- ITab_Entity -->
   <!-- EN: Escape interval -->
-  <HoldingPlatformEscapeMTBDays>Chu kỳ trốn thoát (ngày)</HoldingPlatformEscapeMTBDays>
+  <HoldingPlatformEscapeMTBDays>Chu kỳ trốn thoát</HoldingPlatformEscapeMTBDays>
   <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
   <HoldingPlatformEscapeMTBDaysDesc>Thời gian trung bình giữa các lần trốn thoát. Chịu ảnh hưởng bởi độ bền giam giữ, loại thực thể, khả năng di chuyển của thực thể, và thời gian thực thể bị giam giữ. Một số thực thể còn bị kìm hãm bởi nhiệt độ thấp.</HoldingPlatformEscapeMTBDaysDesc>
   <!-- EN: Entity -->
@@ -25,19 +25,19 @@
   <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
   <EntityStudyMode_ReleaseDesc>Quản ngục sẽ thả thực thể khỏi bệ giam giữ. Thực thể có thể có thái độ thù địch khi được thả.</EntityStudyMode_ReleaseDesc>
   <!-- EN: Execute -->
-  <EntityStudyMode_Execute>Xử tử</EntityStudyMode_Execute>
+  <EntityStudyMode_Execute>Hành quyết</EntityStudyMode_Execute>
   <!-- EN: A warden will execute the restrained entity. -->
   <EntityStudyMode_ExecuteDesc>Quản ngục sẽ xử tử thực thể bị giam giữ.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
-  <EntityStudyMode_Extract>Trích xuất bioferrite</EntityStudyMode_Extract>
+  <EntityStudyMode_Extract>Trích xuất kim loại sinh học</EntityStudyMode_Extract>
   <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->
-  <EntityStudyMode_ExtractDesc>Các bác sĩ sẽ trích xuất bioferrite từ thực thể bị bắt giữ bất cứ khi nào có thể. Phương pháp trích xuất này đơn giản nhưng không hiệu quả. Không thể thực hiện nếu thực thể đang được gắn với máy thu bioferrite.</EntityStudyMode_ExtractDesc>
+  <EntityStudyMode_ExtractDesc>Các bác sĩ sẽ trích xuất kim loại sinh học từ thực thể bị bắt giữ bất cứ khi nào có thể. Phương pháp trích xuất này đơn giản nhưng không hiệu quả. Không thể thực hiện nếu thực thể đang được gắn với máy thu kim loại sinh học.</EntityStudyMode_ExtractDesc>
   <!-- EN: Requires bioferrite extraction. -->
-  <RequiresBioferriteExtraction>Cần trích xuất bioferrite.</RequiresBioferriteExtraction>
+  <RequiresBioferriteExtraction>Cần trích xuất kim loại sinh học.</RequiresBioferriteExtraction>
   <!-- EN: Blocked by bioferrite harvester. -->
-  <BioferriteHarvesterAttached>Bị chặn bởi máy thu bioferrite.</BioferriteHarvesterAttached>
+  <BioferriteHarvesterAttached>Bị chặn bởi máy thu kim loại sinh học.</BioferriteHarvesterAttached>
   <!-- EN: Can't be executed. -->
-  <CantBeExecuted>Không thể bị xử tử</CantBeExecuted>
+  <CantBeExecuted>Không thể bị hành quyết</CantBeExecuted>
   <!-- EN: Knowledge gain -->
   <StudyKnowledgeGain>Kiến thức thu được</StudyKnowledgeGain>
   <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
@@ -46,7 +46,7 @@
   <MedicineQualityDescriptionEntity>Loại thuốc khả dụng cho thực thể này.</MedicineQualityDescriptionEntity>
 
   <!-- EN: Electroharvester -->
-  <FactorForElectroharvester>Máy hút điện</FactorForElectroharvester>
+  <FactorForElectroharvester>Máy thu hoạch điện năng</FactorForElectroharvester>
   <!-- EN: Long captivity -->
   <FactorForDaysInCaptivity>Thời gian bị giam lâu</FactorForDaysInCaptivity>
   <!-- EN: Cold containment bonus -->
@@ -58,7 +58,7 @@
   <!-- EN: Containment strength -->
   <FactorContainmentStrength>Độ bền giam giữ</FactorContainmentStrength>
   <!-- EN: Electroharvester -->
-  <FactorElectroharvester>Máy hút điện</FactorElectroharvester>
+  <FactorElectroharvester>Máy thu hoạch điện năng</FactorElectroharvester>
   <!-- EN: Activity -->
   <FactorActivity>Hoạt động</FactorActivity>
 
