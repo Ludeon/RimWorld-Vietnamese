@@ -5,14 +5,14 @@
   <BrainwipeTarget.label>mục tiêu</BrainwipeTarget.label>
   
   <!-- EN: chanter -->
-  <Chanter.label>Chủ tế phụ</Chanter.label>
+  <Chanter.label>ngâm tụng giả</Chanter.label>
   <!-- EN: Chanters add psychic power to the ritual. -->
-  <Chanter.description>Chủ tế phụ cường hóa nghi thức bằng năng lượng tâm linh.</Chanter.description>
+  <Chanter.description>Ngâm tụng giả cường hóa nghi thức bằng năng lượng tâm linh.</Chanter.description>
   
   <!-- EN: chanter -->
-  <ChanterAdvanced.label>Chủ tế cao cấp</ChanterAdvanced.label>
+  <ChanterAdvanced.label>ngâm tụng giả</ChanterAdvanced.label>
   <!-- EN: Chanters add psychic power to the ritual. -->
-  <ChanterAdvanced.description>Chủ tế cao cấp cường hóa nghi thức bằng năng lượng tâm linh.</ChanterAdvanced.description>
+  <ChanterAdvanced.description>Ngâm tụng giả cường hóa nghi thức bằng năng lượng tâm linh.</ChanterAdvanced.description>
   
   <!-- EN: target -->
   <ChronophagyTarget.label>mục tiêu</ChronophagyTarget.label>
@@ -20,7 +20,7 @@
   <!-- EN: target -->
   <DeathRefusalTarget.label>mục tiêu</DeathRefusalTarget.label>
   <!-- EN: {PAWN_labelShort} cannot have any more death refusals stacked -->
-  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort} không thể nhận thêm hiệu ứng Kháng tử.</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort} không thể nhận thêm hiệu ứng từ chối tử thần.</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
   
   <!-- EN: defenders -->
   <Defender.label>hộ vệ</Defender.label>
@@ -28,7 +28,7 @@
   <Defender.description>Hộ vệ bảo vệ người tham gia trong nghi lễ.</Defender.description>
   
   <!-- EN: invoker -->
-  <Invoker.label>Chủ tế</Invoker.label>
+  <Invoker.label>chủ tế</Invoker.label>
   
   <!-- EN: target -->
   <PhilophagyTarget.label>mục tiêu</PhilophagyTarget.label>
