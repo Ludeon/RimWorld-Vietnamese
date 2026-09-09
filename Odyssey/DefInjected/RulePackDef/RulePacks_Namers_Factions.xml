@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_name->The [spaceAdj] Salvagers</li>
     <li>r_name->The [spaceAdj] Scavengers</li>
@@ -73,7 +73,7 @@
     <li>spaceCollectiveNoun->kẻ cướp</li>
     <li>spaceCollectiveNoun->máy gặt</li>
   </NamerFactionSalvagers.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->[tradeAdj] [tradeNoun]</li>
     <li>tradeAdj->merchant's</li>
@@ -102,33 +102,33 @@
     <li>tradeNoun->nexus</li>
   -->
   <NamerFactionTradersGuild.rulePack.rulesStrings>
-    <li>r_name->[tradeAdj] [tradeNoun]</li>
-    <li>tradeAdj->của thương gia</li>
+    <li>r_name->[tradeNoun] [tradeAdj]</li>
+    <li>tradeAdj->thương gia</li>
     <li>tradeAdj->quỹ đạo</li>
-    <li>tradeAdj->buôn bán</li>
-    <li>tradeAdj->miếng đệm</li>
+    <li>tradeAdj->thương mại</li>
+    <li>tradeAdj->của phi hành gia</li>
     <li>tradeAdj->không gian</li>
     <li>tradeAdj->vũ trụ</li>
-    <li>tradeAdj->chuyến bay trên bầu trời</li>
-    <li>tradeAdj->vô sinh</li>
-    <li>tradeAdj->exo</li>
-    <li>tradeNoun->bang hội</li>
-    <li>tradeNoun->tập đoàn</li>
-    <li>tradeNoun->tổ chức</li>
+    <li>tradeAdj->thiên không</li>
+    <li>tradeAdj->sinh ra từ hư không</li>
+    <li>tradeAdj->ngoại hành tinh</li>
+    <li>tradeNoun->nghiệp đoàn</li>
     <li>tradeNoun->liên minh</li>
-    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->tập đoàn liên kết</li>
+    <li>tradeNoun->hiệp hội</li>
+    <li>tradeNoun->liên minh độc quyền</li>
     <li>tradeNoun->liên minh</li>
-    <li>tradeNoun->liên đoàn</li>
-    <li>tradeNoun->tập đoàn</li>
-    <li>tradeNoun->tập đoàn</li>
+    <li>tradeNoun->liên bang</li>
+    <li>tradeNoun->tập đoàn đa ngành</li>
     <li>tradeNoun->công ty</li>
-    <li>tradeNoun->mạng</li>
-    <li>tradeNoun->trao đổi</li>
+    <li>tradeNoun->doanh nghiệp</li>
+    <li>tradeNoun->mạng lưới</li>
+    <li>tradeNoun->sàn giao dịch</li>
     <li>tradeNoun->chợ</li>
-    <li>tradeNoun->cửa hàng</li>
-    <li>tradeNoun->mối quan hệ</li>
+    <li>tradeNoun->đại thương hội</li>
+    <li>tradeNoun->đầu mối</li>
   </NamerFactionTradersGuild.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->[platAdj] [platform]</li>
     <li>platAdj->starlight</li>
@@ -203,5 +203,5 @@
     <li>platform->bến tàu</li>
     <li>platform->nhẫn</li>
   </NamerSettlementTradersGuild.rulePack.rulesStrings>
-  
+
 </LanguageData>
