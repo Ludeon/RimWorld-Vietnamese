@@ -2,22 +2,22 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>Ấn để chuyển đến vấn đề</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Nhấn để định vị sự cố</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Nguy cơ suy sụp nhỏ</BreakRiskMinor>
+  <BreakRiskMinor>Nguy cơ suy sụp nhẹ</BreakRiskMinor>
   <!-- EN: Major break risk -->
   <BreakRiskMajor>Nguy cơ suy sụp nghiêm trọng</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Nguy cơ suy sụp cực độ</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
-  <BreakRiskMinorDesc>Những cư dân này có tâm trạng xấu và có thể bị suy sụp tinh thần nhẹ bất cứ lúc nào:\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Những cư dân này có tâm trạng kém và có thể bị suy sụp tinh thần nhẹ bất cứ lúc nào:\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
-  <BreakRiskMajorDesc>Những cư dân này có tâm trạng rất xấu và có thể bị suy sụp tinh thần nghiêm trọng bất cứ lúc nào:\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Những cư dân này có tâm trạng rất tệ và có thể bị suy sụp tinh thần nghiêm trọng bất cứ lúc nào:\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
-  <BreakRiskExtremeDesc>Những cư dân này đang căng thẳng cực độ và có thể bị suy sụp tinh thần cực độ (có thể bạo lực) bất cứ lúc nào:\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Những cư dân này đang căng thẳng tột độ và có thể bị suy sụp tinh thần cực độ (có thể bạo lực) bất cứ lúc nào:\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân này để xem điều gì đang làm họ phiền muộn.\n\nĐể làm cho những cư dân cảm thấy tốt hơn, bạn có thể làm những việc như làm cho họ những bữa ăn ưa thích, cho họ nhiều giờ giải trí hơn mỗi ngày và những đồ vật giải trí đẹp hơn, đặt chúng trong những môi trường đẹp, cho họ uống và hút thuốc, và nhiều hơn nữa.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Kiểm tra thẻ Nhu Cầu của những cư dân này để xem điều gì đang làm họ phiền muộn.\n\nNhằm cải thiện tâm trạng của các cư dân, bạn có thể cho họ những bữa ăn tốt hơn, cho họ nhiều giờ giải trí hơn mỗi ngày và công trình giải trí đa dạng hơn, sắp xếp họ ở không gian sống tốt hơn, cho họ sử dụng chất kích thích, vân vân và mây mây.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Cư dân cần cứu hộ</ColonistNeedsRescue>
@@ -29,7 +29,7 @@
   <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>Cần phòng thủ</NeedDefenses>
+  <NeedDefenses>Cần công trình phòng thủ</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
   <NeedDefensesDesc>Bạn đã đến đây đủ lâu rồi đấy và có lẽ cũng đã bị phát hiện. Bọn cướp sẽ tấn công sớm thôi.\n\nBạn nên chuẩn bị phòng thủ, như bao cát hoặc bẫy.</NeedDefensesDesc>
 
