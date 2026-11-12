@@ -111,13 +111,13 @@
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>Hành quyết cư dân phạm tội\n\nNếu bật tùy chọn này, quản ngục sẽ tiến hành hành quyết người này.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} đã bị đánh dấu hành quyết. Quản ngục rảnh tay tiếp theo sẽ đến hành quyết {0_objective}.</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} đã có tên trong sổ tử. Quản ngục rảnh tay tiếp theo sẽ tới tiễn {0_objective} lên đường.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} của {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Hành động này sẽ khiến {PAWN_nameDef} mất tước hiệu {TITLE} {PAWN_possessive}. Bạn sẽ không nhận được bất kỳ khoản bồi thường nào khi từ bỏ tước hiệu này.\n\nViệc này sẽ gây ra những hệ quả sau:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} sẽ mất các đặc quyền sau:</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} sẽ mất các đặc quyền sau:</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
   <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} sẽ mất {POINTS} điểm đặc quyền chưa dùng với {FACTION_name}.</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
@@ -153,7 +153,7 @@
   <!-- EN: Overheating -->
   <Overheating>Quá nóng</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Hỏng do nhiệt độ</RuinedByTemperature>
+  <RuinedByTemperature>Hỏng do nhiệt độ.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Mất bộ phận cơ thể</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
@@ -227,9 +227,9 @@
   <!-- EN: {0} downed -->
   <CaravanPawnsDowned>{0} đã gục ngã</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Đang di chuyển</CaravanTraveling>
+  <CaravanTraveling>Đang di chuyển.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Đang đợi</CaravanWaiting>
+  <CaravanWaiting>Đang đợi.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>Được cõng do bệnh tật</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
@@ -386,7 +386,7 @@
   <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
   <CaravanBonusTip>Người này mang lại bùa lợi tăng tốc độ di chuyển. Tốc độ tăng thêm bằng mức trung bình của tất cả thành viên trong đoàn lữ hành.</CaravanBonusTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>Đoàn lữ hành này bị quá tải, không thể di chuyển.</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>Đoàn lữ hành này đang bị chết dí tại chỗ vì thồ hàng quá nặng.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Tốc độ của thành viên lữ hành</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -464,7 +464,7 @@
   <!-- EN: Required -->
   <Required>Yêu cầu</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>Cảnh báo: Bạn không thể hoàn thành yêu cầu giao thương bằng kén vận tải.\nNếu phóng đi, khu định cư sẽ coi đó là quà biếu và không trả thưởng cho bạn.\n\nĐể giao thương, hãy dẫn đoàn lữ hành đến tận nơi!\n\nBạn có chắc muốn biếu không số hàng đã chất trong kén cho phe này?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Cảnh báo: Không thể trả đơn giao thương bằng khoang vận chuyển đâu!\nNếu cố tình phóng đi, khu định cư kia sẽ coi đó là quà biếu và quỵt luôn tiền thưởng của bạn.\n\nMuốn giao thương sòng phẳng, hãy dẫn đoàn lữ hành đến tận nơi!\n\nBạn có chắc muốn biếu không đống hàng trong khoang cho phe này không?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>tù nhân</PrisonerLower>
   <!-- EN: prisoners -->
@@ -516,9 +516,9 @@
   <!-- EN: Activates in {0} -->
   <SendSignalOnCountdownCompTime>Kích hoạt trong {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>Nhiệt năng thần kinh</PsychicEntropy>
+  <PsychicEntropy>Nhiệt thần kinh</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>Nhiệt năng</PsychicEntropyShort>
+  <PsychicEntropyShort>Nhiệt</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>Tăng {0} nhờ cảm giác đau</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
@@ -568,7 +568,7 @@
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>Nguyên liệu</ThoughtFoodEatenIngredients>
   <!-- EN: Shield pack -->
-  <ShieldInbuilt>Thiết bị tạo lá chắn</ShieldInbuilt>
+  <ShieldInbuilt>Thiết bị tạo khiên</ShieldInbuilt>
   <!-- EN: Punctured - will explode soon. -->
   <PuncturedWillExplode>Bị chọc thủng - sắp phát nổ.</PuncturedWillExplode>
   <!-- EN: Click to open research window -->
@@ -681,11 +681,11 @@
   <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Chữa thất bại!\nTỉ lệ: {0}</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>Thu hoạch\nhỏng</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>Thu hoạch\ntoang</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
   <TextMote_YieldWasted>Sản lượng\ntổn thất</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>Sản phẩm\như hỏng</TextMote_ProductWasted>
+  <TextMote_ProductWasted>Sản phẩm\nlãng phí</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
   <TextMote_RecruitFail>Thu phục thất bại!\nTỉ lệ: {0}</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
@@ -699,9 +699,9 @@
   <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Huấn luyện thành công: {0}\nTỉ lệ: {1}</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>Sửa chữa\nhỏng</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>Sửa chữa\ntoang</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>Xây dựng\nhỏng</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>Xây dựng\ntoang</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>Né</TextMote_Dodge>
   <!-- EN: Immune -->
@@ -784,7 +784,7 @@
 
   <!-- Cell Inspector (Khung thông tin ô đất góc dưới bên trái) -->
   <!-- EN: Beauty -->
-  <Beauty_Label>Độ đẹp</Beauty_Label>
+  <Beauty_Label>Mỹ quan</Beauty_Label>
   <!-- EN: Zone -->
   <Zone_Label>Vùng</Zone_Label>
   <!-- EN: Roof -->
@@ -837,9 +837,9 @@
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>từ chối bạo lực</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} chưa ở chế độ chiến đấu.</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} chưa được triệu tập.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{PAWN_nameDef} không thể dùng vũ khí tầm xa vì đang mặc {APPAREL_label}.</ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef} bị vướng {APPAREL_label} nên đành bất lực, không thể bóp cò súng.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Không thể sử dụng trong {0}</CannotUseReason_PocketMap>
   <!-- EN: Range reduced -->
@@ -957,7 +957,7 @@
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
   <LordReportListeningSpeech>Đang nghe {ORGANIZER_labelShort} phát biểu</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Đang tập hợp thương đoàn</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Đang tập hợp đoàn lữ hành</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -995,7 +995,7 @@
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Đang cho dùng {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>người bài trừ chất kích thích sẽ bất mãn</TeetotalerUnhappy>
+  <TeetotalerUnhappy>người bài chất kích thích sẽ bất mãn</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
   <ProsthophobeUnhappy>người tôn sùng cơ thể tự nhiên sẽ bất mãn</ProsthophobeUnhappy>
 
@@ -1067,7 +1067,7 @@
   <!-- EN: View information. -->
   <DefInfoTip>Xem thông tin chi tiết.</DefInfoTip>
   <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTipController>Chọn đối tượng tiếp theo trong cùng một ô.\n\nBạn cũng có thể thao tác bằng cách nhấn chậm lại vào ô đó một lần nữa.</SelectNextInSquareTipController>
+  <SelectNextInSquareTipController>Chọn đối tượng tiếp theo trong cùng một ô.\n\nBạn cũng có thể thao tác bằng cách nhấp chậm lại vào ô đó một lần nữa.</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
@@ -1249,19 +1249,19 @@
   
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSterilizeConfirm>Bạn có chắc muốn triệt sản {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalSterilizeConfirm>
+  <AnimalSterilizeConfirm>Bạn có chắc muốn "thiến" {PAWN_nameDef} không? Làm trò này là phe {FACTION_name} sẽ nổi điên lên đấy.</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSlaughterConfirm>Bạn có chắc muốn giết mổ {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalSlaughterConfirm>
+  <AnimalSlaughterConfirm>Bạn có chắc muốn giết mổ {PAWN_nameDef}? Làm trò này là phe {FACTION_name} sẽ nổi điên lên đấy.</AnimalSlaughterConfirm>
   <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalReleaseConfirm>Bạn có chắc muốn thả tự do cho {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalReleaseConfirm>
+  <AnimalReleaseConfirm>Bạn có chắc muốn thả tự do cho {PAWN_nameDef}? Làm trò này là phe {FACTION_name} sẽ nổi điên lên đấy.</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
   <ShowLearningHelperWhenEmptyToggleButton>Bật/tắt hiển thị bảng hướng dẫn khi trống.\n\nBảng hướng dẫn luôn hiện ra nếu có mục kiến thức đang được kích hoạt. Tùy chọn này giúp ẩn bảng đi khi không có mục nào hoạt động.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visibility of zones. -->
-  <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các khu vực.</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các vùng.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
-  <ShowBeautyToggleButton>Bật/tắt hiển thị độ đẹp.\n\nHiển thị mức độ đẹp mắt của môi trường xung quanh theo cảm nhận của nhân vật khi đứng tại vị trí con trỏ đang chỉ tới.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Bật/tắt hiển thị mỹ quan.\n\nHiển thị mức độ đẹp mắt của môi trường xung quanh theo cảm nhận của nhân vật khi đứng tại vị trí con trỏ đang chỉ tới.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
   <ShowRoomStatsToggleButton>Bật/tắt hiển thị chỉ số phòng.\n\nHiển thị các thông số chi tiết của căn phòng mà con trỏ đang chỉ vào.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
@@ -1343,7 +1343,7 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Phải đặt phần đầu nối liền với khung dầm phi thuyền.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Phải đặt cạnh thiết bị cần phễu nạp cám.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Phải đặt sát hông máy đùn cám heo hoặc thiết bị cần phễu nạp.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Phải đặt trực tiếp lên mạch phun hơi nước.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
@@ -1375,7 +1375,7 @@
   <!-- EN: Contains -->
   <CasketContains>Chứa</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>CẢNH BÁO!\n\n{PAWN_nameDef} là cư dân tự do cuối cùng của bạn! Nếu để {PAWN_objective} bước vào kén ngủ đông đó, bạn có thể sẽ không thể tiếp tục chơi được nữa. Bạn có chắc muốn tiến hành không?</CasketWarning>
+  <CasketWarning>CẢNH BÁO!\n\n{PAWN_nameDef} là cư dân cuối cùng còn đứng vững của căn cứ! Nếu để {PAWN_objective} chui tọt vào kén ngủ đông đó, ván chơi coi như đóng máy. Bạn có chắc muốn chơi lớn không?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -1419,7 +1419,7 @@
   <!-- EN: Not installed -->
   <NotInstalled>Chưa lắp đặt</NotInstalled>
   <!-- EN: Extracted tree will die in {time} unless replanted. -->
-  <MinifiedTreeWillDieIn>Cây đã bứng sẽ chết sau {time} nếu không được trồng lại.</MinifiedTreeWillDieIn>
+  <MinifiedTreeWillDieIn>Cây bứng gốc sẽ héo chết sau {time} nữa nếu không mau đem trồng lại xuống đất.</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1463,7 +1463,7 @@
   <!-- EN: Game Over -->
   <GameOver>Trò chơi kết thúc</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Tất cả cư dân đều đã chết hoặc bỏ đi. Câu chuyện khép lại tại đây.\n\nCó lẽ một ngày nào đó, sẽ có kẻ khác tìm đến và tận dụng đống tàn tích của nơi này.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Tất cả cư dân đều đã bỏ mạng hoặc cao chạy xa bay. Câu chuyện khép lại tại đây.\n\nBiết đâu một ngày đẹp trời, kẻ khác sẽ mò tới và tận dụng đống phế tích này.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Lao xuống ở tốc độ cận ánh sáng, vũ khí hủy diệt hành tinh giáng thẳng vào mặt đất với sức công phá tương đương hàng nghìn tỷ quả bom khinh khí. Tựa như một quả bóng nước trúng đạn súng trường, thế giới này hóa lỏng ngay dưới cú va chạm và phun trào ruột gan nóng chảy khắp vũ trụ.\n\nMột phần của {0} giờ đây chỉ còn là một vành đai tiểu hành tinh nhỏ bé. Phần còn lại biến thành một địa ngục phóng xạ rực lửa, liên tục cuộn sóng bởi những cơn địa chấn hành tinh cao hàng ki-lô-mét.\n\nBạn đã không thể sống sót.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
@@ -1547,11 +1547,11 @@
   <!-- EN: Fighting -->
   <ActivityIconAttacking>Đang chiến đấu</ActivityIconAttacking>
   <!-- EN: Idle -->
-  <ActivityIconIdle>Đang nhàn rỗi</ActivityIconIdle>
+  <ActivityIconIdle>Đang rảnh háng</ActivityIconIdle>
   <!-- EN: Burning -->
   <ActivityIconBurning>Đang bốc cháy</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>Đang tập hợp thương đoàn</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Đang tập hợp đoàn lữ hành</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
@@ -1603,7 +1603,7 @@
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>Tổng thời gian hành trình: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Chế độ hoạch định sử dụng tốc độ di chuyển mặc định của thương đoàn. Tốc độ thực tế có thể khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Chế độ hoạch định sử dụng tốc độ di chuyển mặc định của đoàn lữ hành. Tốc độ thực tế có thể khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>Đang tính toán cho: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
@@ -1615,9 +1615,9 @@
   <!-- EN: {Key:Cancel}: Exit planning mode. -->
   <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Thoát chế độ hoạch định.</RoutePlannerPressEscapeToExitController>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Quay lại bảng lập thương đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Quay lại bảng lập đoàn lữ hành.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Quay lại bảng lập thương đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Quay lại bảng lập đoàn lữ hành.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>Thời gian di chuyển dự kiến: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
@@ -1681,7 +1681,7 @@
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_WalkIn>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ tìm đến và gia nhập cùng bạn {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ gia nhập thương đoàn của bạn {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ gia nhập đoàn lữ hành của bạn {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
   <Reward_Items>các khoang vận chuyển chứa những tài nguyên sau sẽ được thả xuống (tổng giá trị {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):\n\n{0} -->
@@ -1779,7 +1779,7 @@
   <HealingRestoreBodyPart>{1} của {0_nameDef} đã được phục hồi.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>Cảnh báo: Xây công trình ở đây sẽ khiến phe {FACTION_name} phẫn nộ!</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>Cảnh báo: Dựng công trình ở đây là phe {FACTION_name} lập tức nổi điên lên đấy!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
   <ChooseLandingSite>Chọn bãi đáp</ChooseLandingSite>
@@ -1887,7 +1887,7 @@
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>{1} của {PAWN_labelShort}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>Độ đẹp của phòng</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>Mỹ quan của phòng</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>Kỳ vọng của {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
@@ -1973,7 +1973,7 @@
 
   <!-- Shields -->
   <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
-  <ShieldPersonalTip>Lá chắn cá nhân có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người mặc bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ShieldPersonalTip>
+  <ShieldPersonalTip>Khiên cá nhân có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người mặc bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ShieldPersonalTip>
 
   <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
   <UnrecruitableDesc>{PAWN_nameDef} trung thành tuyệt đối với quê hương đến mức {PAWN_pronoun} sẽ từ chối chiêu mộ nếu bị bắt làm tù binh.</UnrecruitableDesc>
@@ -2120,7 +2120,7 @@
   <!-- EN: Jump to location -->
   <WorldJumpTo>Chuyển tới địa điểm</WorldJumpTo>
   <!-- EN: Find a colony, caravan, or quest location on the world map. -->
-  <WorldJumpToDesc>Tìm thuộc địa, thương đoàn hoặc vị trí nhiệm vụ trên bản đồ thế giới.</WorldJumpToDesc>
+  <WorldJumpToDesc>Tìm thuộc địa, đoàn lữ hành hoặc vị trí nhiệm vụ trên bản đồ thế giới.</WorldJumpToDesc>
   <!-- EN: Nothing to jump to. -->
   <NothingToJumpTo>Không có địa điểm nào để chuyển tới.</NothingToJumpTo>
   <!-- EN: cannot function in {0} -->
@@ -2154,17 +2154,17 @@
 
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>Năng lượng lá chắn</ShieldEnergy>
+  <ShieldEnergy>Năng lượng khiên</ShieldEnergy>
   <!-- EN: Shield cooldown -->
   <ShieldTimeToRecovery>Thời gian hồi phục</ShieldTimeToRecovery>
   <!-- EN: Shield duration -->
-  <ShieldDuration>Thời lượng lá chắn</ShieldDuration>
+  <ShieldDuration>Thời lượng khiên</ShieldDuration>
   <!-- EN: On cooldown -->
   <ShieldOnCooldown>Đang hồi phục</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
   <ShieldBelowMinHitpoints>Dưới mức năng lượng tối thiểu</ShieldBelowMinHitpoints>
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>Lá chắn năng lượng chiếu góc thấp có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người trang bị bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ProjectileInterceptorTip>
+  <ProjectileInterceptorTip>Khiên năng lượng chiếu góc thấp có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người trang bị bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ProjectileInterceptorTip>
 
   <!-- EN: max {0} -->
   <MaxOf>tối đa {0}</MaxOf>

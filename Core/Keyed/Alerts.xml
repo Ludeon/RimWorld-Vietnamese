@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>Nhấn để định vị sự cố</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Nhấp để định vị sự cố</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
   <BreakRiskMinor>Nguy cơ suy sụp nhẹ</BreakRiskMinor>
@@ -26,7 +26,7 @@
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấn nút Cò trái vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Cần công trình phòng thủ</NeedDefenses>
@@ -36,7 +36,7 @@
   <!-- EN: Need doctor -->
   <NeedDoctor>Cần bác sĩ</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Những cư dân này cần được chăm sóc y tế, nhưng bạn chưa có cư dân khỏe mạnh được phân công công việc chữa bệnh.\n\n{0}\nChỉ định một cư dân khỏe mạnh cho loại công việc Bác sĩ. Nếu không được điều trị, vết thương có thể không bao giờ lành đúng cách và có thể trở thành vĩnh viễn.</NeedDoctorDesc>
+  <NeedDoctorDesc>Những cư dân này cần được chăm sóc y tế, nhưng bạn chưa có cư dân khỏe mạnh được phân công công việc chữa bệnh.\n{0}\n\nChỉ định một cư dân khỏe mạnh cho loại công việc Bác sĩ. Nếu không được điều trị, vết thương có thể không bao giờ lành đúng cách và có thể trở thành vĩnh viễn.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Cần thợ mỏ</NeedMiner>
@@ -93,7 +93,7 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>Kiệt sức</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Những cư dân này đã mệt lử và sắp đổ gục vì thiếu ngủ:\n{0}\n\nHãy cho họ đi nghỉ ngay. Họ sẽ cần một chiếc giường dành riêng cho cư dân, và đảm bảo bạn đã hủy lệnh triệu tập chiến đấu của họ.</ExhaustionDesc>
+  <ExhaustionDesc>Những cư dân này đã mệt lử và sắp đổ gục vì thiếu ngủ:\n{0}\n\nHãy cho họ đi nghỉ ngay. Họ sẽ cần một chiếc giường dành riêng cho cư dân, và đảm bảo bạn đã hủy lệnh triệu tập của họ.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>Cần phễu nạp cám</NeedFoodHopper>
@@ -220,7 +220,7 @@
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Đoàn lữ hành bị quá tải</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>Một đoàn lữ hành đang bị chết dí tại chỗ do thồ hàng quá nặng vượt mức cho phép.\n\nHãy giúp đoàn tiếp tục di chuyển bằng cách vứt bỏ bớt những món đồ không cần thiết trong tab VẬT PHẨM.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Một đoàn lữ hành đang bị chết dí tại chỗ do thồ hàng quá nặng vượt mức cho phép.\n\nHãy giúp đoàn tiếp tục di chuyển bằng cách vứt bỏ bớt những món đồ không cần thiết trong thẻ VẬT PHẨM.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>Công trình bị vướng mái che</BuildingCantBeUsedRoofed>
@@ -273,7 +273,7 @@
   <!-- EN: Animal filth -->
   <AlertAnimalFilth>Vật nuôi làm bẩn nhà</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>Một con vật nuôi khoái xả bẩn đang đi lượn lờ trong nhà trên nền sàn sạch vẽ.\n\nVật nuôi xả ra lượng chất bẩn rất lớn khi di chuyển trên sàn nhà thông thường. Hãy tống chúng ra ngoài trời, hoặc lót thảm rơm - nơi chúng xả bẩn ít hơn nhiều.\n\nBạn có thể kiểm tra tốc độ xả bẩn của từng con trong bảng chỉ số bằng cách nhấn vào nút 'i'.\n\nMấy con "thủ phạm" gồm có:\n{0}</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>Một con vật nuôi khoái xả bẩn đang đi lượn lờ trong nhà trên nền sàn sạch sẽ.\n\nVật nuôi xả ra lượng chất bẩn rất lớn khi di chuyển trên sàn nhà thông thường. Hãy tống chúng ra ngoài trời, hoặc lót thảm rơm - nơi chúng xả bẩn ít hơn nhiều.\n\nBạn có thể kiểm tra tốc độ xả bẩn của từng con trong bảng chỉ số bằng cách nhấp vào nút 'i'.\n\nMấy con "thủ phạm" gồm có:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
   <AlertAnimalPenNeeded>Cần chuồng gia súc</AlertAnimalPenNeeded>
@@ -302,7 +302,7 @@
   <!-- EN: Hungry pen animals -->
   <AlertPennedAnimalHungry>Vật nuôi trong chuồng bị đói</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
-  <AlertPennedAnimalHungryDesc>Một số vật nuôi trong chuồng đang réo rắt vì đói.\n\nNhấp vào cọc đánh dấu chuồng và xem tab Thức ăn để biết chi tiết.\n\nLoài ăn cỏ có thể cần diện tích chuồng rộng hơn để đủ cỏ mọc. Các loài khác cần được cung cấp cỏ khô hoặc thức ăn tương tự thông qua bãi chứa.\n\nMấy con trong chuồng đang đói gồm:\n{0}</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Một số vật nuôi trong chuồng đang réo rắt vì đói.\n\nNhấp vào cọc đánh dấu chuồng và xem thẻ Thức ăn để biết chi tiết.\n\nLoài ăn cỏ có thể cần diện tích chuồng rộng hơn để đủ cỏ mọc. Các loài khác cần được cung cấp cỏ khô hoặc thức ăn tương tự thông qua vùng kho chứa.\n\nMấy con trong chuồng đang đói gồm:\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
   <AlertHitchedAnimalHungryNoFood>Gia súc buộc cọc bị đói</AlertHitchedAnimalHungryNoFood>
@@ -310,9 +310,9 @@
   <AlertHitchedAnimalHungryNoFoodDesc>Một số vật nuôi đang bị buộc vào cọc gia súc bị đói do không có thức ăn trong tầm với.\n\nHãy mang thức ăn đến cho chúng, hoặc nhổ cọc buộc ra để chúng tự đi kiếm cái ăn.\n\nNhững con buộc cọc đang đói gồm:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>Giặc kéo đến sau {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>Địch kéo đến sau {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>Đám kẻ thù đã đánh hơi thấy các khu vực sau và chuẩn bị kéo quân sang càn quét:\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>Địch đã đánh hơi thấy các khu vực sau và chuẩn bị kéo quân sang càn quét:\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
   <AlertTimedRaidsArrivingAt>Tràn vào {0} sau {1}</AlertTimedRaidsArrivingAt>
 
@@ -322,9 +322,9 @@
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Các phe này sẽ lập tức hóa thù địch và xông vào cắn xé nếu bạn cố tình nán lại khu định cư hoặc tiền đồn của họ quá lâu:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>{0} cây bới gốc sắp héo chết</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>{0} cây đã bứng sắp héo chết</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>{0} cây vừa bới gốc lên sẽ héo chết trong chưa đầy một ngày tới. Việc này sẽ khiến mấy tín đồ cuồng cây trong căn cứ khóc lóc om sòm vì đụng chạm đến niềm tin của họ.\n\nMau mau đem trồng lại số cây này xuống đất để cứu vãn tình hình.</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc>{0} cây vừa bứng lên sẽ héo chết trong chưa đầy một ngày tới. Việc này sẽ khiến mấy tín đồ cuồng cây trong căn cứ khóc lóc om sòm vì đụng chạm đến niềm tin của họ.\n\nMau mau đem trồng lại số cây này xuống đất để cứu vãn tình hình.</AlertMinifiedTreeAboutToDieDesc>
 
   <!-- EN: Need research bench -->
   <NeedResearchBench>Thiếu bàn nghiên cứu</NeedResearchBench>
