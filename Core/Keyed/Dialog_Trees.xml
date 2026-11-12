@@ -1,76 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>{0} thét mấy tiếng vào chiếc điện đàm rồi ngắt máy.</FactionGreetingHostile>
+<!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>{0} tuôn một tràng chửi thề vào bộ đàm rồi dập máy cái rụp.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
-  <FactionGreetingHostileAppreciative>{0} yêu cầu bạn thể hiện thành ý bằng cách mang quà đến thị trấn của {0_possessive} hoặc thả tự do cho tù nhân thuộc băng của {0_possessive}. {0_pronoun} sẽ chấp nhận đàm phán với bạn nếu bạn thực hiện được một trong các điều trên.\n\nSau khi phỉ báng bạn vài câu nữa, {0_pronoun} liền cúp máy.</FactionGreetingHostileAppreciative>
+  <FactionGreetingHostileAppreciative>{0} đòi bạn phải tỏ thành ý trước, chẳng hạn như mang quà tới một khu định cư {0_possessive} hoặc thả tự do nguyên vẹn cho tù nhân thuộc phe {0_possessive}. Chừng nào chưa làm được thì {0_pronoun} miễn tiếp chuyện.\n\nLầm bầm chửi rủa thêm vài câu, {0_pronoun} dập máy.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
-  <FactionGreetingWary>{0} chào đón {NEGOTIATOR_labelShort} một cách nồng nhiệt và hỏi bạn muốn giao dịch gì..</FactionGreetingWary>
+  <FactionGreetingWary>{0} chào {NEGOTIATOR_labelShort} một cách dè chừng và hỏi bạn tìm đến có việc gì.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} chào đón {NEGOTIATOR_labelShort} một cách nồng nhiệt và hỏi bạn muốn {LEADER_pronoun} giúp gì.</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} niềm nở chào đón {NEGOTIATOR_labelShort} và hỏi {LEADER_pronoun} có thể giúp gì cho bạn.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>không muốn làm {0}</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>không làm {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Ngắt kết nối</Disconnect>
 
   <!-- Gift offer -->
   <!-- EN: Offer gift -->
-  <OfferGift>Tặng quà</OfferGift>
+  <OfferGift>Biếu quà</OfferGift>
   <!-- EN: must be ally -->
   <MustBeAlly>phải là đồng minh</MustBeAlly>
   <!-- EN: need {0} goodwill -->
-  <NeedGoodwill>cần {0} điểm giao hảo</NeedGoodwill>
+  <NeedGoodwill>cần {0} thiện chí</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>cần {0} bạc cạnh đèn giao thương</NeedSilverLaunchable>
+  <NeedSilverLaunchable>cần {0} bạc trong vùng đèn giao thương</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
   <NotEnoughSilver>không đủ bạc</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
-  <SilverForGoodwill>{0} bạc đổi {1} điểm giao hảo</SilverForGoodwill>
+  <SilverForGoodwill>{0} bạc đổi {1} thiện chí</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>{0} đã cảm ơn bạn.\n\n(Điểm giao hảo tăng {1})</SilverGiftSent>
+  <SilverGiftSent>{0} gửi lời cảm ơn bạn.\n\n(Thiện chí tăng thêm {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>Yêu cầu một đoàn giao thương (mất: {0} điểm giao hảo)</RequestTrader>
+  <RequestTrader>Gọi đoàn lữ hành (tốn: {0} thiện chí)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0} hỏi bạn muốn đoàn giao thương loại nào.</ChooseTraderKind>
+  <ChooseTraderKind>{0} hỏi bạn muốn gọi loại đoàn lữ hành nào.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
-  <TraderSent>{0} đồng ý gửi một đoàn giao thương tới chỗ bạn. Đoàn giao thương sẽ đến nơi trong vòng vài ngày tới.</TraderSent>
+  <TraderSent>{0} đồng ý cử một đoàn lữ hành tới chỗ bạn. Họ sẽ có mặt trong vài ngày tới.</TraderSent>
   <!-- EN: wait {0} -->
-  <WaitTime>đợi {0}</WaitTime>
+  <WaitTime>chờ {0}</WaitTime>
 
   <!-- Orbital trade request -->
   <!-- EN: Request orbital trader (cost: {0} goodwill) -->
-  <RequestOrbitalTrader>Yêu cầu thương nhân quỹ đạo (tốn: {0} thiện chí)</RequestOrbitalTrader>
+  <RequestOrbitalTrader>Gọi tàu buôn vũ trụ (tốn: {0} thiện chí)</RequestOrbitalTrader>
   <!-- EN: {0} asks what kind of orbital trader you want. -->
-  <ChooseOrbitalTraderKind>{0} hỏi bạn muốn loại thương nhân quỹ đạo nào.</ChooseOrbitalTraderKind>
+  <ChooseOrbitalTraderKind>{0} hỏi bạn muốn gọi loại tàu buôn vũ trụ nào.</ChooseOrbitalTraderKind>
   <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
-  <OrbitalTraderSent>{0} sẽ yêu cầu một thương nhân quỹ đạo ghé thăm bạn. Họ sẽ đến trong vài giờ.</OrbitalTraderSent>
+  <OrbitalTraderSent>{0} sẽ nhắn một tàu buôn vũ trụ ghé qua chỗ bạn. Tàu sẽ tới trong vài giờ nữa.</OrbitalTraderSent>
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
-  <RequestAICoreInformation>Yêu cầu địa điểm của một {0} (tốn: {1} bạc)</RequestAICoreInformation>
+  <RequestAICoreInformation>Hỏi tung tích của một {0} (tốn: {1} bạc)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
-  <RequestAICoreInformationResult>{0} gửi lại thông tin mà bạn yêu cầu và chúc bạn gặp may mắn.</RequestAICoreInformationResult>
+  <RequestAICoreInformationResult>{0} gửi lại thông tin bạn yêu cầu và chúc bạn may mắn.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
-  <NoKnownAICore>địa điểm được biết đã không còn</NoKnownAICore>  
+  <NoKnownAICore>không còn biết địa điểm nào khác</NoKnownAICore>  
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Yêu cầu cứu viện ngay lập tức (tốn: {0} điểm giao hảo)</RequestMilitaryAid>
+  <RequestMilitaryAid>Gọi viện binh khẩn cấp (tốn: {0} thiện chí)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0} sẽ không chiến đấu với phe không phải kẻ thù của họ. Việc này bao gồm cả {1} đang tấn công bạn. Bạn vẫn muốn gọi viện binh chứ?</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>{0} sẽ không đánh nhau với những phe không phải kẻ thù của họ - bao gồm cả đám đang đe dọa bạn là {1}. Bạn vẫn muốn gọi viện binh chứ?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>Cứ gọi họ đến.</CallConfirm>
+  <CallConfirm>Vẫn cứ gọi.</CallConfirm>
   <!-- EN: No, never mind. -->
   <CallCancel>Thôi khỏi.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
-  <MilitaryAidSent>{0} đồng ý đưa lính đến cứu viện bạn.</MilitaryAidSent>
+  <MilitaryAidSent>{0} đồng ý cử quân tới chi viện cho bạn.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} cáo lỗi vì họ sẽ không thể đến kịp thời gian.\n\n(Trình độ kỹ thuật của nhóm này quá thấp để sử dụng kén vận chuyển)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} cáo lỗi vì không thể kéo quân tới kịp lúc.\n\n(Trình độ công nghệ của phe này quá lạc hậu để dùng khoang vận chuyển)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
-  <HostileVisitorsPresent>kẻ thù viếng thăm</HostileVisitorsPresent>
+  <HostileVisitorsPresent>đang có kẻ thù trong khu vực</HostileVisitorsPresent>
 
 </LanguageData>

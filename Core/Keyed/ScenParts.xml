@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- ======================== Non-grouped ========================-->
+<!-- ======================== Non-grouped ========================-->
 
   <!-- EN: Title -->
   <ScenarioTitle>Tiêu đề</ScenarioTitle>
   <!-- EN: Your faction will be a {0}. -->
-  <ScenPart_PlayerFaction>Phe của bạn sẽ là một {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Phe của bạn sẽ là {0}.</ScenPart_PlayerFaction>
 
   <!-- EN: Start with 1 person. -->
   <ScenPart_StartWithPawn>Bắt đầu với 1 người.</ScenPart_StartWithPawn>
@@ -15,13 +15,13 @@
   <!-- EN: chosen from -->
   <ScenPart_StartWithPawns_OutOf>chọn từ</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
-  <RandomPet>thú nuôi ngẫu nhiên</RandomPet>
+  <RandomPet>vật nuôi ngẫu nhiên</RandomPet>
 
   <!-- EN: Start with research: {0} -->
-  <ScenPart_StartingResearchFinished>Bắt đầu với công nghệ: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Bắt đầu với nghiên cứu: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
-  <ScenPart_ArriveInDropPods>Đến bằng kén vận chuyển.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Đáp xuống bằng khoang vận chuyển.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
   <ScenPart_StatFactor>Chỉ số "{0}" sẽ được nhân với {1}.</ScenPart_StatFactor>
@@ -31,29 +31,29 @@
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
-  <ScenPart_PawnsHaveHediff>{0} có cơ hội {1} để bắt đầu với {2}.</ScenPart_PawnsHaveHediff>
+  <ScenPart_PawnsHaveHediff>{0} có tỉ lệ {1} bắt đầu với {2}.</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
   <ConfigurableSeverity>mức độ nghiêm trọng: {0}</ConfigurableSeverity>
 
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
-  <ScenPart_SetNeed>{0} có cơ hội {1} để đặt {2} giữa {3} và {4}.</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0} có tỉ lệ {1} có mức {2} trong khoảng từ {3} đến {4}.</ScenPart_SetNeed>
   <!-- EN: level: {0} -->
   <ConfigurableLevel>cấp độ: {0}</ConfigurableLevel>
 
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
-  <ScenPart_PawnsHaveTrait>{0} có cơ hội {1} để bắt đầu với đặc điểm: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_PawnsHaveTrait>{0} có tỉ lệ {1} bắt đầu với đặc điểm: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>Nhân vật và sinh vật phát nổ khi chết ({0}, bán kính {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} have a {1} chance to start naked. -->
-  <ScenPart_PawnsAreNaked>{0} có {1} cơ hội để bắt đầu khỏa thân. </ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsAreNaked>{0} có tỉ lệ {1} bắt đầu khỏa thân.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
-  <ScenPart_StartingPawnAgeMin>Người của bạn sẽ ít nhất {0} tuổi.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMin>Cư dân của bạn sẽ ít nhất {0} tuổi.</ScenPart_StartingPawnAgeMin>
   <!-- EN: Your people will be at most {0} years old. -->
-  <ScenPart_StartingPawnAgeMax>Người của bạn sẽ có nhiều nhất {0} tuổi.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeMax>Cư dân của bạn sẽ tối đa {0} tuổi.</ScenPart_StartingPawnAgeMax>
   <!-- EN: Your people will be between {0} and {1} years old. -->
-  <ScenPart_StartingPawnAgeRange>Người của bạn sẽ trong khoảng từ {0} đến {1} tuổi.</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeRange>Cư dân của bạn sẽ trong độ tuổi từ {0} đến {1}.</ScenPart_StartingPawnAgeRange>
 
   <!-- EN: Start with {0}. -->
   <ScenPart_StartWithSpecificColonists>Bắt đầu với {0}.</ScenPart_StartWithSpecificColonists>
@@ -61,22 +61,22 @@
   <PawnCount>{COUNT} {KINDLABEL}</PawnCount>
   
   <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
-  <ScenPart_Error>Một hoặc nhiều phần trong kịch bản này không thể tải do thiếu nội dung mod.\n\nBạn có thể tải kịch bản với tất cả mod yêu cầu, hoặc vẫn tải mà không có các phần kịch bản bị thiếu.</ScenPart_Error>
+  <ScenPart_Error>Một hoặc nhiều thành phần trong kịch bản này không thể tải do thiếu nội dung mod.\n\nBạn có thể tải kịch bản kèm đầy đủ các mod được yêu cầu, hoặc vẫn tiếp tục tải mà bỏ qua những phần bị thiếu.</ScenPart_Error>
 
   <!-- ======================== Grouped ========================-->
 
   <!-- EN: Start with -->
   <ScenPart_StartWith>Bắt đầu với</ScenPart_StartWith>
   <!-- EN: Map is scattered with -->
-  <ScenPart_MapScatteredWith>Bản đồ nằm rải rác với</ScenPart_MapScatteredWith>
+  <ScenPart_MapScatteredWith>Rải rác trên bản đồ</ScenPart_MapScatteredWith>
   <!-- EN: Permanent game condition(s) -->
-  <ScenPart_PermaGameCondition>Điều kiện trò chơi vĩnh viễn</ScenPart_PermaGameCondition>
+  <ScenPart_PermaGameCondition>Hiện tượng đặc biệt vĩnh viễn</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
-  <ScenPart_DisableIncident>Sự cố đã chấm dứt</ScenPart_DisableIncident>
+  <ScenPart_DisableIncident>Sự kiện bị vô hiệu hóa</ScenPart_DisableIncident>
   <!-- EN: Incident created -->
-  <ScenPart_CreateIncident>Sự cố được tạo ra</ScenPart_CreateIncident>
+  <ScenPart_CreateIncident>Tạo sự kiện</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
-  <ScenPart_DisallowBuilding>Không bao giờ có thể xây dựng</ScenPart_DisallowBuilding>
+  <ScenPart_DisallowBuilding>Cấm xây dựng</ScenPart_DisallowBuilding>
 
   <!-- ======================== Layers ========================-->
   
@@ -123,5 +123,4 @@
   
   <!-- EN: Planet layer -->
   <ScenPart_ForcedMapPlanetLayer>Lớp hành tinh</ScenPart_ForcedMapPlanetLayer>
-
 </LanguageData>
