@@ -24,7 +24,7 @@
   <!-- EN: bisexual -->
   <Bisexual.degreeDatas.bisexual.label>song tính</Bisexual.degreeDatas.bisexual.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
-  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} rung động được với cả nam lẫn nữ. Trai gái quan trọng đ*o gì, sướng là được</Bisexual.degreeDatas.bisexual.description>
+  <Bisexual.degreeDatas.bisexual.description>Trai gái quan trọng đ*o gì, sướng là được</Bisexual.degreeDatas.bisexual.description>
 
   <!-- EN: bloodlust -->
   <Bloodlust.degreeDatas.bloodlust.label>khát máu</Bloodlust.degreeDatas.bloodlust.label>
@@ -61,111 +61,111 @@
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
   <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} cực kỳ ngứa mắt và lúc nào cũng dè chừng, không thể tin tưởng nổi cánh đàn bà con gái.</DislikesWomen.degreeDatas.misogynist.description>
   
-  <!-- EN: fast learner -->
+<!-- EN: fast learner -->
   <FastLearner.degreeDatas.fast_learner.label>tiếp thu nhanh</FastLearner.degreeDatas.fast_learner.label>
   <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
-  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} có sở trường về học tập. {PAWN_pronoun} chọn mọi thứ nhanh hơn nhiều so với những thứ khác.</FastLearner.degreeDatas.fast_learner.description>
-  
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} có cái đầu nhảy số cực nhanh, học một biết mười. Mấy thứ kỹ năng mới toanh {PAWN_pronoun} tiếp thu vèo vèo, bỏ xa đám người thường cả cây số.</FastLearner.degreeDatas.fast_learner.description>
+
   <!-- EN: gay -->
   <Gay.degreeDatas.gay.label>đồng tính</Gay.degreeDatas.gay.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
-  <Gay.degreeDatas.gay.description>{PAWN_nameDef} bị thu hút một cách lãng mạn đối với những người thuộc giới tính riêng của {PAWN_possessive}.</Gay.degreeDatas.gay.description>
-  
+  <Gay.degreeDatas.gay.description>chỉ có người cùng phe mới mang lại hạnh phúc cho nhau.</Gay.degreeDatas.gay.description>
+
   <!-- EN: gourmand -->
-  <Gourmand.degreeDatas.gourmand.label>ham ăn</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.label>sành ăn</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>Cuộc sống của {PAWN_nameDef} xoay quanh thức ăn. {PAWN_pronoun} bị đói nhanh chóng và nếu {PAWN_pronoun} có tâm trạng xấu, {PAWN_pronoun} thường sẽ tự thỏa mãn {PAWN_objective} bằng cách ăn.</Gourmand.degreeDatas.gourmand.description>
-  
+  <Gourmand.degreeDatas.gourmand.description>Lẽ sống của {PAWN_nameDef} xoay quanh cái dạ dày. {PAWN_pronoun} cực kỳ mau đói, và thỉnh thoảng lại lên cơn "thú tính" lao vào càn quét sạch sành sanh kho lương thực, bất chấp lúc đó bụng đang no căng.</Gourmand.degreeDatas.gourmand.description>
+
   <!-- EN: great memory -->
   <GreatMemory.degreeDatas.great_memory.label>trí nhớ tốt</GreatMemory.degreeDatas.great_memory.label>
   <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
-  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} có một bộ nhớ tuyệt vời cực chi tiết. {PAWN_pronoun} sẽ mất các kỹ năng không sử dụng với một nửa tỷ lệ của người khác.</GreatMemory.degreeDatas.great_memory.description>
-  
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} sở hữu bộ não nhớ dai như đỉa, chi tiết nhỏ nhặt đến mấy cũng ghim chặt trong đầu. Tốc độ mai một các kỹ năng ít dùng của {PAWN_pronoun} chỉ bằng một nửa người bình thường.</GreatMemory.degreeDatas.great_memory.description>
+
   <!-- EN: greedy -->
   <Greedy.degreeDatas.greedy.label>tham lam</Greedy.degreeDatas.greedy.label>
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
-  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} cần một phòng ngủ thực sự ấn tượng. {PAWN_pronoun} bị mất tâm trạng nếu {PAWN_pronoun} không nhận được những gì {PAWN_pronoun} muốn.</Greedy.degreeDatas.greedy.description>
-  
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} mắc bệnh đòi hỏi, lúc nào cũng mơ mộng một căn phòng ngủ sang chảnh lộng lẫy. Không chiều theo ý {PAWN_pronoun} là tâm trạng lại tụt dốc không phanh ngay.</Greedy.degreeDatas.greedy.description>
+
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>ghen tị</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>Đối với {PAWN_nameDef}, thật tệ khi có một phòng ngủ kém ấn tượng hơn người khác. {PAWN_pronoun} bị mất tâm trạng nếu bất kỳ thuộc địa nào có phòng ngủ ấn tượng hơn.</Jealous.degreeDatas.jealous.description>
-  
+  <Jealous.degreeDatas.jealous.description>Với {PAWN_nameDef}, việc phải ở phòng ngủ bèo bọt hơn kẻ khác là một sự sỉ nhục không thể nuốt trôi. Chỉ cần thấy có cư dân nào sở hữu phòng ngủ xịn sò hơn mình là {PAWN_pronoun} lập tức lên cơn gato, tụt tâm trạng thê thảm.</Jealous.degreeDatas.jealous.description>
+
   <!-- EN: kind -->
-  <Kind.degreeDatas.kind.label>ôn hòa</Kind.degreeDatas.kind.label>
+  <Kind.degreeDatas.kind.label>tốt bụng</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef} là một người tốt. {PAWN_pronoun} có xu hướng khai sáng cho người khác và không bao giờ xúc phạm người khác.</Kind.degreeDatas.kind.description>
-  
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} là người cực kỳ tử tế và hay giúp đỡ mọi người. {PAWN_pronoun} hiếm khi mở miệng xúc phạm ai, lại còn hay buông lời ngọt ngào sưởi ấm tâm hồn thiên hạ. {PAWN_pronoun} cũng chẳng bao giờ đánh giá người khác qua vẻ bề ngoài, nhưng vì tính cả nể nên rất dễ hùa theo số đông.</Kind.degreeDatas.kind.description>
+
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>khổ dâm</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>Đối với {PAWN_nameDef}, có điều gì đó thú vị về việc bị tổn thương. {PAWN_pronoun} không biết tại sao, {PAWN_pronoun} chỉ đơn giản là khác biệt.</Masochist.degreeDatas.masochist.description>
-  
+  <Masochist.degreeDatas.masochist.description>Với {PAWN_nameDef}, cảm giác bị bầm dập, đau đớn lại mang đến một sự kích thích khó tả. Chính {PAWN_pronoun} cũng chẳng hiểu tại sao, chắc tại dây thần kinh của {PAWN_pronoun} được đấu nối khác người thường.</Masochist.degreeDatas.masochist.description>
+
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>cú đêm</NightOwl.degreeDatas.night_owl.label>
   <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} thích ngày ngủ đêm bay.\n\n{PAWN_pronoun} nhận được tâm trạng tích cực nếu thức vào ban đêm (23h-6h) và tâm trạng tiêu cực nếu thức vào ban ngày (11h-18h).\n\n{PAWN_pronoun} không bị phạt tâm trạng khi ở trong bóng tối.</NightOwl.degreeDatas.night_owl.description>
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} là dân chơi hệ "ngày ngủ đêm bay".\n\n{PAWN_pronoun} sẽ phơi phới yêu đời nếu được thức xuyên đêm (23h-6h) và ủ rũ bực bội nếu bị bắt thức vào ban ngày (11h-18h).\n\nNgoài ra, bóng tối với {PAWN_pronoun} là bạn nên hoàn toàn không bị phạt tâm trạng khi làm việc trong tối.</NightOwl.degreeDatas.night_owl.description>
   
-  <!-- EN: nimble -->
+<!-- EN: nimble -->
   <Nimble.degreeDatas.nimble.label>lanh lợi</Nimble.degreeDatas.nimble.label>
   <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} có trí thông minh động học đáng chú ý. {PAWN_pronoun} dường như nhảy múa xung quanh nguy hiểm với ân sủng phi thường.</Nimble.degreeDatas.nimble.description>
-  
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} sở hữu phản xạ cơ thể cực kỳ bén nhạy. Mỗi khi lao vào chỗ hiểm nguy, {PAWN_pronoun} né đòn lả lướt như đang múa ba-lê giữa làn mưa đạn.</Nimble.degreeDatas.nimble.description>
+
   <!-- EN: nudist -->
   <Nudist.degreeDatas.nudist.label>cuồng khỏa thân</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} tận hưởng cảm giác tự do đến từ việc khỏa thân. {PAWN_pronoun} có thể mặc quần áo, nhưng sẽ hạnh phúc hơn nếu không có nó.</Nudist.degreeDatas.nudist.description>
-  
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} cực kỳ mê mẩn cảm giác tự do phóng khoáng khi được "trần như mộng" hòa mình với thiên nhiên. {PAWN_pronoun} vẫn chịu mặc quần áo bình thường, nhưng cứ lột sạch ra không mảnh vải che thân là {PAWN_pronoun} lại sướng rơn.</Nudist.degreeDatas.nudist.description>
+
   <!-- EN: psychopath -->
-  <Psychopath.degreeDatas.psychopath.label>tâm thần</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.label>thái nhân cách</Psychopath.degreeDatas.psychopath.label>
   <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} không có sự đồng cảm. Nỗi khổ của người khác sẽ không làm {PAWN_objective} bận tâm. {PAWN_pronoun} không bận tâm nếu những người khác bị đánh cắp, bị bỏ mặc, bị cầm tù hoặc bị bán làm nô lệ - trừ khi nó ảnh hưởng đến {PAWN_objective}. Vì vậy, {PAWN_pronoun} cảm thấy không có tâm trạng tăng cường từ xã hội.</Psychopath.degreeDatas.psychopath.description>
-  
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} là kẻ máu lạnh vô cảm, không hề biết đồng cảm là gì. Nỗi đau của thiên hạ chẳng mảy may làm {PAWN_objective} bận lòng. Người khác có bị xẻ thịt làm gỏi, vứt xác phơi sương, tống ngục hay bán làm nô lệ thì {PAWN_pronoun} cũng mặc kệ - miễn không động đến lông chân {PAWN_objective} là được. Bù lại, chuyện giao lưu chém gió với mọi người cũng chẳng mang lại chút niềm vui nào cho {PAWN_pronoun}.</Psychopath.degreeDatas.psychopath.description>
+
   <!-- EN: pyromaniac -->
-  <Pyromaniac.degreeDatas.pyromaniac.label>cuồng lửa</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.label>cuồng phóng hỏa</Pyromaniac.degreeDatas.pyromaniac.label>
   <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} thích lửa. {PAWN_pronoun} sẽ không bao giờ dập tắt đám cháy. Để giảm bớt căng thẳng, {PAWN_pronoun} đôi khi sẽ tiếp tục đốt cháy ngẫu nhiên. Điều này xảy ra thường xuyên hơn nếu tâm trạng {PAWN_possessive} thấp.</Pyromaniac.degreeDatas.pyromaniac.description>
-  
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} mê mẩn những ngọn lửa rực cháy. {PAWN_pronoun} tuyệt đối không bao giờ chịu đi dập lửa, và thỉnh thoảng lại lên cơn đi châm lửa đốt phá lung tung bất kể tâm trạng vui buồn. Ngược lại, cứ được đứng ngắm lửa cháy hay cầm vũ khí phóng hỏa trên tay là {PAWN_pronoun} lại thấy yêu đời.</Pyromaniac.degreeDatas.pyromaniac.description>
+
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>ngủ nhanh</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>ngủ siêu tốc</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} không cần ngủ nhiều như người bình thường. Cho dù {PAWN_pronoun} đang ngủ trên giường hay trên mặt đất, {PAWN_pronoun} sẽ được nghỉ ngơi hoàn toàn trong khoảng hai phần ba thời gian thông thường.</QuickSleeper.degreeDatas.quick_sleeper.description>
-  
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} chẳng cần ngủ nhiều như người thường. Dù nằm giường êm nệm ấm hay lăn lóc dưới nền đất lạnh, {PAWN_pronoun} cũng chỉ mất khoảng hai phần ba thời gian thông thường là đã bật dậy tỉnh như sáo.</QuickSleeper.degreeDatas.quick_sleeper.description>
+
   <!-- EN: slow learner -->
   <SlowLearner.degreeDatas.slow_learner.label>chậm hiểu</SlowLearner.degreeDatas.slow_learner.label>
   <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
-  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} chậm tiếp thu. {PAWN_pronoun} học mọi thứ chậm hơn nhiều so với những người khác.</SlowLearner.degreeDatas.slow_learner.description>
-  
+  <SlowLearner.degreeDatas.slow_learner.description>Đầu óc {PAWN_nameDef} nhảy số hơi chậm. {PAWN_pronoun} tiếp thu mọi thứ chậm chạp hơn hẳn người bình thường.</SlowLearner.degreeDatas.slow_learner.description>
+
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>quá thông minh</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} quá thông minh đối với những gì mà {PAWN_possessive} có. {PAWN_pronoun} học mọi thứ nhanh hơn mọi người, nhưng có thể khá lập dị.</TooSmart.degreeDatas.too_smart.description>
-  
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} thông minh quá mức cần thiết nên đâm ra hơi dở hơi. {PAWN_pronoun} học cái gì cũng nhanh, bỏ xa thiên hạ, nhưng tính tình lại cực kỳ lập dị và khó chiều.</TooSmart.degreeDatas.too_smart.description>
+
   <!-- EN: tortured artist -->
-  <TorturedArtist.degreeDatas.tortured_artist.label>nghệ sĩ khốn khổ</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.label>nghệ sĩ sầu đời</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
-  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} luôn cảm thấy bị xa lánh và không được mọi người xung quanh thấu hiểu. {PAWN_pronoun} luôn bị trừ điểm tâm trạng do buồn bã, nhưng có 50% cơ hội được cảm hứng sáng tạo sau một cơn suy sụp tinh thần.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} luôn mang tâm hồn nhạy cảm, lúc nào cũng thấy mình lạc lõng và chẳng ai trên đời thấu hiểu nổi. {PAWN_pronoun} bị trừ điểm tâm trạng triền miên vì sầu đời, nhưng bù lại cứ sau mỗi lần lên cơn suy sụp tinh thần thì {PAWN_pronoun} lại có 50% cơ hội bùng nổ cảm hứng sáng tạo.</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
-  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Là một nghệ sĩ bị tra tấn đau khổ, {PAWN_nameIndef} đã đón nhận một nguồn cảm hứng.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Nhờ nỗi đau tinh thần của một nghệ sĩ sầu đời, {PAWN_nameIndef} đã bất ngờ bùng nổ cảm hứng sáng tạo.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
-  <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>cứng cáp</Tough.degreeDatas.tough.label>
+<!-- EN: tough -->
+  <Tough.degreeDatas.tough.label>mình đồng da sắt</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>{PAWN_nameDef} có da thịt dày và xương bền. {PAWN_pronoun} nhận sát thương ít hơn nhiều so với những người khác từ cùng một cú đánh. {PAWN_pronoun} cực kỳ khó giết.</Tough.degreeDatas.tough.description>
-  
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} sở hữu lớp da dày như da trâu, thớ thịt săn chắc cùng bộ khung xương cứng hơn thép. Cùng một cú đánh trời giáng nhưng {PAWN_pronoun} chịu sát thương ít hơn hẳn người thường. Muốn tiễn {PAWN_objective} lên bảng đếm số là cả một kỳ tích đấy.</Tough.degreeDatas.tough.description>
+
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>cuồng cơ thể cải tạo</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.label>tín đồ độ chế</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
-  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} cảm thấy bị giới hạn trong cơ thể con người yếu ớt của {PAWN_possessive}. {PAWN_pronoun} thường mơ ước được cường hóa bằng các bộ phận cơ thể nhân tạo hoặc xenogenetics.\n"Huyết nhục khổ yếu, cơ giới phi thăng"</Transhumanist.degreeDatas.body_modder.description>
-  
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} luôn thấy tù túng trong cái cơ thể phàm trần yếu ớt này. {PAWN_pronoun} suốt ngày mơ mộng được "lên đời" bằng phụ tùng cơ khí nhân tạo hoặc công nghệ biến đổi gen.</Transhumanist.degreeDatas.body_modder.description>
+
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>kẻ thích lòng đất</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>chuột chũi</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} không có nhu cầu chạm cỏ. {PAWN_pronoun} sẽ không bao giờ cảm thấy tù túng hay chán không gian kín và không bị bóng tối làm phiền. Tuy nhiên, {PAWN_nameDef} sẽ cảm thấy không vui khi ở ngoài trời.</Undergrounder.degreeDatas.undergrounder.description>
-  
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} hoàn toàn không có nhu cầu "chạm cỏ" hay hít khí trời. {PAWN_pronoun} chẳng bao giờ thấy ngột ngạt, không mắc bệnh cuồng chân khi ở lì trong phòng kín và cũng chẳng ngán bóng tối. Ngược lại, hễ bước chân ra ngoài trời là {PAWN_nameDef} lại thấy khó ở trong người.</Undergrounder.degreeDatas.undergrounder.description>
+
   <!-- EN: wimp -->
-  <Wimp.degreeDatas.wimp.label>nhát gan</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.label>mỏng manh dễ vỡ</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} yếu đuối và hèn nhát. Ngay cả một chút đau đớn cũng sẽ là nghiêm trọng đối với {PAWN_objective}.</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} vừa yếu nhớt lại vừa nhát cáy. Chỉ cần dính một vết xước nhẹ hay đau bụng sương sương là {PAWN_pronoun} cũng đủ lăn đùng ra sốc vì đau, nằm bất động như tàu lá chuối.</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>
