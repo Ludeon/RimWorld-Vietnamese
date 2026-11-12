@@ -739,27 +739,27 @@
   <!-- EN: Maximum {0} areas allowed. -->
   <MaxAreasReached>Cho phép tối đa {0} khu vực.</MaxAreasReached>
 
-  <!-- Animal pens -->
+ <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>Không được tiết lộ</PenUnenclosedLabel>
+  <PenUnenclosedLabel>Chưa rào kín</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>mở cửa</PenOpenDoorLabel>
+  <PenOpenDoorLabel>cửa đang mở</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
   <RenameAnimalPen>Đổi tên chuồng</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>dánh dấu chuồng {0}</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>Cọc đánh dấu chuồng {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
   <InPen>Trong chuồng</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>không phải trong chuồng</Unpenned>
+  <Unpenned>ngoài chuồng</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>Có thể tạo chuồng cho động vật bằng cách xây dựng một điểm đánh dấu chuồng bên trong một khu vực kín. Người xử lý của bạn sẽ đưa động vật đến một chuồng thích hợp. Chuồng có thể được bao quanh bằng hàng rào, rào chắn, tường và cửa.</UnpennedTooltip>
+  <UnpennedTooltip>Bạn có thể tạo chuồng bằng cách đặt một cọc đánh dấu chuồng vào bên trong một khu vực khép kín. Dân chăn nuôi sẽ dắt động vật tới chuồng phù hợp. Chuồng có thể được quây kín bằng hàng rào, chướng ngại vật, tường và cửa.</UnpennedTooltip>
   <!-- EN: Roped by -->
   <RopedByPawn>Được dắt bởi</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>Được dắt đến</RopedToThing>
+  <RopedToThing>Được buộc vào</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>Buộc tai chỗ</RopedToSpot>
+  <RopedToSpot>Được buộc tại chỗ.</RopedToSpot>
   <!-- EN: Pen size -->
   <PenSizeLabel>Kích thước chuồng</PenSizeLabel>
   <!-- EN: Very small pen -->
@@ -771,98 +771,97 @@
   <!-- EN: Large pen -->
   <PenSizeDesc_Large>Chuồng lớn</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>Không bao quanh - xây dựng hàng rào</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>Chưa rào kín - hãy xây hàng rào</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
   <PenCapacityDesc>Sức chứa {ANIMALDEF_label}</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>Động vật mẫu</PenExampleAnimals>
+  <PenExampleAnimals>Ví dụ về động vật</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
-  <NoExteriorAccess>Không có lối vào bên ngoài - Động vật không thể được đưa vào hoặc mang ra ngoài.</NoExteriorAccess>
+  <NoExteriorAccess>Không có lối ra vào - Động vật không thể được dắt ra hoặc vào.</NoExteriorAccess>
   
   <!-- EN: Must be connected to walls on both sides to function. -->
-  <DoorMustBeEnclosedByWalls>Cần phải được kết nối với các bức tường ở cả hai bên để hoạt động.</DoorMustBeEnclosedByWalls>
+  <DoorMustBeEnclosedByWalls>Phải nối với tường ở cả hai bên thì mới hoạt động.</DoorMustBeEnclosedByWalls>
 
-  <!-- Cell Inspector -->
+  <!-- Cell Inspector (Khung thông tin ô đất góc dưới bên trái) -->
   <!-- EN: Beauty -->
-  <Beauty_Label>Đẹp</Beauty_Label>
+  <Beauty_Label>Độ đẹp</Beauty_Label>
   <!-- EN: Zone -->
   <Zone_Label>Vùng</Zone_Label>
   <!-- EN: Roof -->
-  <Roof_Label>Mái nhà</Roof_Label>
+  <Roof_Label>Mái che</Roof_Label>
   <!-- EN: Terrain -->
   <Terrain_Label>Địa hình</Terrain_Label>
   <!-- EN: Snow -->
-  <Snow_Label>tuyết</Snow_Label>
+  <Snow_Label>Tuyết</Snow_Label>
   <!-- EN: Walk speed -->
-  <WalkSpeed_Label>Tốc độ đi bộ</WalkSpeed_Label>
+  <WalkSpeed_Label>Tốc độ di chuyển</WalkSpeed_Label>
   <!-- EN: Fertility -->
-  <Fertility_Label>Khả năng sinh sản</Fertility_Label>
+  <Fertility_Label>Độ màu mỡ</Fertility_Label>
   <!-- EN: Temperature -->
-  <Temperature_Label>Địa hình</Temperature_Label>
+  <Temperature_Label>Nhiệt độ</Temperature_Label>
   <!-- EN: Light level -->
-  <LightLevel_Label>Mức độ ánh sáng</LightLevel_Label>
+  <LightLevel_Label>Độ sáng</LightLevel_Label>
   <!-- EN: Biome -->
   <Biome_Label>Quần xã sinh vật</Biome_Label>
   <!-- EN: Hilliness -->
-  <Hilliness_Label>Đồi núi</Hilliness_Label>
+  <Hilliness_Label>Địa thế đồi núi</Hilliness_Label>
   <!-- EN: Road -->
-  <Road_Label>Đường</Road_Label>
+  <Road_Label>Đường sá</Road_Label>
   <!-- EN: River -->
-  <River_Label>Sông</River_Label> 
+  <River_Label>Sông ngòi</River_Label> 
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty_Label>Di chuyển khó khăn</MovementDifficulty_Label>
+  <MovementDifficulty_Label>Độ khó di chuyển</MovementDifficulty_Label>
   <!-- EN: Pollution -->
-  <Pollution_Label>Ô nhiễm</Pollution_Label>
+  <Pollution_Label>Mức ô nhiễm</Pollution_Label>
   <!-- EN: Filth -->
-  <Filth_Label>Bẩn thỉu</Filth_Label>
+  <Filth_Label>Độ bẩn</Filth_Label>
   
   <!-- EN: Features -->
   <Features_Label>Đặc điểm</Features_Label>
   <!-- EN: Faction -->
   <Faction_Label>Phe phái</Faction_Label>
   <!-- EN: Relationship -->
-  <Relationship_Label>Mối quan hệ</Relationship_Label>
+  <Relationship_Label>Quan hệ</Relationship_Label>
   <!-- EN: Colonists -->
-  <CaravanColonists_Label>Cư dân</CaravanColonists_Label>
+  <CaravanColonists_Label>Thành viên đoàn</CaravanColonists_Label>
   <!-- EN: Status -->
   <CaravanStatus_Label>Trạng thái</CaravanStatus_Label>
   <!-- EN: Time to destination -->
   <CaravanTTD_Label>Thời gian đến đích</CaravanTTD_Label>
   
-
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Không thể ra lệnh cho người mà bạn không điều khiển.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Không thể ra lệnh cho nhân vật bạn không điều khiển.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} không thích vũ lực.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} từ chối dùng bạo lực.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>không thích vũ lực</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>từ chối bạo lực</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} chưa ở chế độ chiến đấu.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{PAWN_nameDef} không thể sử dụng vũ khí tầm xa do {APPAREL_label} của {PAWN_possessive}. </ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef} không thể dùng vũ khí tầm xa vì đang mặc {APPAREL_label}.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Không thể sử dụng trong {0}</CannotUseReason_PocketMap>
   <!-- EN: Range reduced -->
-  <WeatherMaxRangeCap>Phạm vi giảm</WeatherMaxRangeCap>
+  <WeatherMaxRangeCap>Tầm bắn bị giảm</WeatherMaxRangeCap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
   <Snow>Tuyết</Snow>
   <!-- EN: No snow -->
-  <SnowNone>Không có tuyết</SnowNone>
+  <SnowNone>Không có</SnowNone>
   <!-- EN: dusting -->
-  <SnowDusting>Tuyết (bụi)</SnowDusting>
+  <SnowDusting>tuyết (lất phất)</SnowDusting>
   <!-- EN: thin -->
-  <SnowThin>Tuyết (mỏng)</SnowThin>
+  <SnowThin>tuyết (mỏng)</SnowThin>
   <!-- EN: medium -->
-  <SnowMedium>Tuyết (vừa)</SnowMedium>
+  <SnowMedium>tuyết (vừa)</SnowMedium>
   <!-- EN: thick -->
-  <SnowThick>Tuyết (dày)</SnowThick>
+  <SnowThick>tuyết (dày)</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
-  <GunInstalled>Đã dựng xong.</GunInstalled>
+  <GunInstalled>Đã lắp đặt.</GunInstalled>
   <!-- EN: Minimum range -->
   <MinimumRange>Tầm bắn tối thiểu</MinimumRange>
   <!-- EN: Can fire in -->
@@ -870,145 +869,145 @@
   <!-- EN: Cannot fire -->
   <CannotFire>Không thể bắn</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>mái nhà che</Roofed>
+  <Roofed>vướng mái che</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
   <ShellLoaded>Đạn đã nạp: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Chưa nạp đạn.</ShellNotLoaded>
   <!-- EN: Already active -->
-  <AlreadyActive>Đã hoạt động</AlreadyActive>
+  <AlreadyActive>Đã kích hoạt</AlreadyActive>
   <!-- EN: Order activation -->
-  <OrderActivation>Kích hoạt đơn hàng</OrderActivation>
+  <OrderActivation>Ra lệnh kích hoạt</OrderActivation>
   <!-- EN: Order a colonist to activate {THING_definite}. -->
-  <OrderActivationDesc>Ra lệnh cho một cư dân kích hoạt {THING_definite}.</OrderActivationDesc>
+  <OrderActivationDesc>Ra lệnh cho một cư dân tới kích hoạt {THING_definite}.</OrderActivationDesc>
   <!-- EN: Send a colonist to activate this. -->
-  <MustBeActivatedByColonist>Phải được kích hoạt bởi một cư dân.</MustBeActivatedByColonist>
+  <MustBeActivatedByColonist>Điều một cư dân tới kích hoạt thứ này.</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
-  <NoNearbyFire>Không có lửa gần đó</NoNearbyFire>
+  <NoNearbyFire>Không có đám cháy nào gần đó</NoNearbyFire>
   <!-- EN: No nearby fire. No fuel was used. -->
-  <NoNearbyFireNoFuelUsed>Không có lửa gần đó. Không có nhiên liệu đã được sử dụng.</NoNearbyFireNoFuelUsed>
+  <NoNearbyFireNoFuelUsed>Không có đám cháy nào gần đó. Chưa tốn nhiên liệu.</NoNearbyFireNoFuelUsed>
   <!-- EN: Choose who should activate this. -->
-  <ChooseWhoShouldActivate>Chọn người sẽ kích hoạt nó.</ChooseWhoShouldActivate>
+  <ChooseWhoShouldActivate>Chọn người sẽ kích hoạt.</ChooseWhoShouldActivate>
   <!-- EN: No fuel -->
-  <NoFuel>Không có nhiên liệu</NoFuel>
+  <NoFuel>Hết nhiên liệu</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>đang mang {THING_label} tới {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>đang chuyển {THING_label} tới {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>chôn {THING_label} trong {DESTINATION}.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>đang chôn {THING_label} tại {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
   <ReportHauling>đang mang {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>đang vác đồ.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>đang khuân vác.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
   <ReportSleeping>đang ngủ.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>đang nghỉ ngơi.</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>nằm xuống.</ReportLayingDown>
+  <ReportLayingDown>đang nằm nghỉ.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>đang ngắm bình minh.</WatchingSunrise>
+  <WatchingSunrise>đang ngắm bình minh lên.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>đang ngắm mây.</CloudWatching>
+  <CloudWatching>đang ngắm mây trôi.</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>đang ngắm hoàng hôn.</WatchingSunset>
+  <WatchingSunset>đang ngắm hoàng hôn buông.</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>đang ngắm sao.</Stargazing>
+  <Stargazing>đang ngắm sao trời.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>đang ngắm nhật thực</WatchingEclipse>
+  <WatchingEclipse>đang chiêm ngưỡng nhật thực.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>đang ngắm cực quang.</WatchingAurora>
+  <WatchingAurora>đang chiêm ngưỡng cực quang.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>đang dùng {0} trên {1}.</UsingVerb>
+  <UsingVerb>đang dùng {0} lên {1}.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>đang dùng {0}</UsingVerbNoTarget>
+  <UsingVerbNoTarget>đang dùng {0}.</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>khu vực</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>đang lẩn trốn.</ReportCowering>
+  <ReportCowering>đang co rúm sợ hãi.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>đang đứng.</ReportStanding>
+  <ReportStanding>đang đứng yên.</ReportStanding>
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>đang dập lửa.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>đang dập lửa trên {TARGET_label}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>đang dập lửa cho {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>đang đào xác.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>đang đào xác lên.</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
-  <CarriedBy>đang được chở bởi {0_labelShort}.</CarriedBy> 
+  <CarriedBy>đang được vác bởi {0_labelShort}.</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>bên trong {0_labelShort}.</InContainer> 
+  <InContainer>nằm trong {0_labelShort}.</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>Đã ngã gục, không thể bò được.</DownedCannotCrawl> 
+  <DownedCannotCrawl>đã ngã gục, không thể bò.</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>Đã ngã gục, bất tỉnh.</DownedUnconscious> 
+  <DownedUnconscious>đã ngã gục, bất tỉnh.</DownedUnconscious>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Đang tham dự hôn lễ</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Đang dự hôn lễ</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Đang dự tiệc</LordReportAttendingParty>
+  <LordReportAttendingParty>Đang tham gia tiệc tùng</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>Tham dự buổi thương nghị</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Đang thưởng thức hòa nhạc</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>Tổ chức buổi thương nghị</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Đang biểu diễn hòa nhạc</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>Đưa ra một bài phát biểu</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Đang phát biểu</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Nghe bài phát biểu của {ORGANIZER_labelShort}</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Đang nghe {ORGANIZER_labelShort} phát biểu</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Đang tập hợp đội</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Đang tập hợp thương đoàn</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>Độ lệch hồng tâm</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>Kỹ năng</ShootReportShooterAbility>
+  <ShootReportShooterAbility>Kỹ năng xạ thủ</ShootReportShooterAbility>
   <!-- EN: Weapon -->
   <ShootReportWeapon>Vũ khí</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>Trời tối</Darkness>
+  <Darkness>Bóng tối</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>Mục tiêu nằm dưới đất</TargetProne>
+  <TargetProne>Mục tiêu đang nằm</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>Độ lớn mục tiêu</TargetSize>
+  <TargetSize>Kích thước mục tiêu</TargetSize>
   <!-- EN: Weather -->
   <Weather>Thời tiết</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>Ản nấp</ShootingCover>
+  <ShootingCover>Độ che chắn</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label} dừng {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} cản được {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
-  <NoCoverLower>không ẩn nấp</NoCoverLower>
+  <NoCoverLower>không có chỗ che chắn</NoCoverLower>
   <!-- EN: Execution -->
-  <Execution>Kết liễu</Execution>
+  <Execution>Hành quyết</Execution>
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>làm {0}</RecipeMake>
+  <RecipeMake>chế tạo {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>Làm {0}.</RecipeMakeDescription>
+  <RecipeMakeDescription>Chế tạo {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Đang làm {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>Đang chế tạo {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>Ép dùng {0}</RecipeAdminister>
+  <RecipeAdminister>cho dùng {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Đang ép dùng {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Đang cho dùng {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>người cai rựu sẽ không vui</TeetotalerUnhappy>
+  <TeetotalerUnhappy>người bài trừ chất kích thích sẽ bất mãn</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>tấm thân thuần khiết sẽ không vui</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>người tôn sùng cơ thể tự nhiên sẽ bất mãn</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Kết thúc sau: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>Sẽ phai nhạt sau: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>ý định ko thể thực hiện bởi bởi</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>tâm trạng bị lấn át bởi</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Bắt đầu hết hạn trong: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Bắt đầu phai nhạt sau: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Kết thúc hết hạn trong: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Hoàn toàn biến mất sau: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Ngưỡng suy sụp cực độ</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
@@ -1016,23 +1015,23 @@
   <!-- EN: Minor break threshold -->
   <MentalBreakThresholdMinor>Ngưỡng suy sụp nhẹ</MentalBreakThresholdMinor>
 
-  <!-- Pawn info readout -->
+<!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{1} {PAWN_gender}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} của {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} trong {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} tại {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} dưới {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} dưới trướng {1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{0} {2_lifeStageAdjective}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Phe phái</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>Phe phái mà {PAWN_labelShort} hiện thuộc về.</FactionDesc>
+  <FactionDesc>Phe phái hiện tại của {PAWN_labelShort}.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>Phe phái ban đầu của {PAWN_labelShort}. {PAWN_pronoun} sẽ quay lại phe gốc khi rời khỏi phe hiện tại.</ExtraFactionDesc>
+  <ExtraFactionDesc>Phe phái gốc của {PAWN_labelShort}.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Trang bị</Equipped>
   <!-- EN: nothing -->
@@ -1042,67 +1041,67 @@
   <!-- EN: Unconscious -->
   <Unconscious>Bất tỉnh</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>Đang bị sốc vì đau</PainShock>
+  <PainShock>Đang sốc vì đau</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>Sốc cơn đau</PainShockShort>
+  <PainShockShort>Sốc vì đau</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Bất động</Incapacitated>
+  <Incapacitated>Mất khả năng hành động</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>Đang bị giam giữ (chậm)</InRestraints>
+  <InRestraints>Đang bị còng trói (chậm)</InRestraints>
   <!-- EN: Carrying -->
   <Carrying>Đang mang</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Ảnh hưởng bởi</AffectedBy>
+  <AffectedBy>Bị ảnh hưởng bởi:</AffectedBy>
   <!-- EN: Queued -->
   <Queued>Hàng đợi</Queued>
   <!-- EN: State -->
-  <State>Tình trạng</State>
+  <State>Trạng thái</State>
   <!-- EN: stun -->
   <StunLower>choáng</StunLower>
   <!-- EN: Slowed by damage -->
-  <SlowedByDamage>Làm chậm do sát thương</SlowedByDamage>
+  <SlowedByDamage>Chậm lại do thương tích</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>Chọn vật tiếp theo trong cùng ô.\n\nPhím tắt: {0}\n\nHoặc click vào cùng 1 ô vuông chậm rãi để chọn vật tiếp theo.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>Chọn đối tượng tiếp theo trong cùng một ô.\n\n(*SectionTitle)Phím tắt:(/SectionTitle) {0}\n\nBạn cũng có thể nhấp chậm lại vào cùng ô đó để thực hiện.</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>Xem thông tin của vật này</DefInfoTip>
+  <DefInfoTip>Xem thông tin chi tiết.</DefInfoTip>
   <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTipController>Chọn điều tiếp theo trong cùng một ô vuông.\n\nBạn cũng có thể thực hiện việc này bằng cách nhấp từ từ vào ô vuông đó một lần nữa.</SelectNextInSquareTipController>
+  <SelectNextInSquareTipController>Chọn đối tượng tiếp theo trong cùng một ô.\n\nBạn cũng có thể thao tác bằng cách nhấn chậm lại vào ô đó một lần nữa.</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Phản ứng của người này lúc gặp nguy hiểm khi không ở chế độ chiến đấu.</HostilityReponseTip>
+  <HostilityReponseTip>Thay đổi cách người này phản ứng khi gặp địch ở gần lúc chưa được triệu tập.</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>Phản ứng hiện tại</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>Chế độ hiện tại</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
   <OfLower>của</OfLower>
 
-  <!-- Power readout -->
+<!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>Chưa kết nối tới nguồn điện</PowerNotConnected>
+  <PowerNotConnected>Chưa kết nối nguồn điện.</PowerNotConnected>
   <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
-  <PowerConnectedRateStored>Hiệu năng hiện tại (ra/vào): {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Điện dư: {0} W (tích trữ {1} Wd)</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Mức năng lượng cần</PowerNeeded>
+  <PowerNeeded>Điện năng cần</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>Năng lượng đầu ra</PowerOutput>
+  <PowerOutput>Công suất phát</PowerOutput>
   <!-- EN: {0} W when active -->
-  <PowerActiveNeeded>{0} W khi kích hoạt</PowerActiveNeeded>
+  <PowerActiveNeeded>{0} W khi hoạt động</PowerActiveNeeded>
   <!-- EN: Stored -->
-  <PowerBatteryStored>Chứa</PowerBatteryStored>
+  <PowerBatteryStored>Tích trữ</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>Hiệu năng</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>Hiệu suất</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>Tự xả</SelfDischarging>
+  <SelfDischarging>Hao hụt điện</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
-  <TargetTemperature>Chỉ tiêu nhiệt độ</TargetTemperature>
+  <TargetTemperature>Nhiệt độ mục tiêu</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>Mức năng lượng đang sử dụng</PowerConsumptionMode>
+  <PowerConsumptionMode>Mức tiêu thụ điện</PowerConsumptionMode>
   <!-- EN: high -->
   <PowerConsumptionHigh>cao</PowerConsumptionHigh>
   <!-- EN: low -->
@@ -1112,103 +1111,103 @@
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
-  <Indoors>Trong phòng</Indoors>
+  <Indoors>Trong nhà</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>Không có mái</IndoorsUnroofed>
+  <IndoorsUnroofed>Hở mái che</IndoorsUnroofed>
   <!-- EN: outdoors -->
-  <Outdoors>Ngoài trời</Outdoors>
+  <Outdoors>ngoài trời</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
   <RotStateFresh>Còn tươi</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>Đang thối rửa</RotStateRotting>
+  <RotStateRotting>Đang thối rữa</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>Xác khô</RotStateDessicated>
+  <RotStateDessicated>Khô xác</RotStateDessicated>
   <!-- EN: Frozen -->
   <CurrentlyFrozen>Đông đá</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>Giữ lạnh (thối rửa sau {0})</CurrentlyRefrigerated> 
+  <CurrentlyRefrigerated>Giữ lạnh, hỏng sau {0}</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>Không được giữ lạnh (thối rửa sau {0})</NotRefrigerated> 
+  <NotRefrigerated>Không giữ lạnh, hỏng sau {0}</NotRefrigerated> 
   <!-- EN: over a decade -->
-  <OverADecade>hơn một thập kỉ</OverADecade>
+  <OverADecade>hơn một thập kỷ</OverADecade>
   <!-- EN: less than a day -->
   <LessThanADay>dưới một ngày</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Bị bắn bởi {1_labelShort}</ShotBy>
+  <ShotBy>Bị {1_labelShort} bắn</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Không thể bắn trúng mục tiêu.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Tỷ lệ chọc thú nổi điên trên mỗi phát bắn</ManhunterPerHit>
+  <ManhunterPerHit>Tỉ lệ thú hóa điên mỗi phát bắn</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>Nguyên liệu</Ingredients>
   <!-- EN: The ingredients used to make this meal. -->
-  <IngredientsDesc>Các thành phần được sử dụng để làm cho bữa ăn này.</IngredientsDesc>
+  <IngredientsDesc>Các nguyên liệu dùng để chế biến bữa ăn này.</IngredientsDesc>
   <!-- EN: Dietary type -->
-  <DietaryType>Loại chế độ ăn uống</DietaryType>
+  <DietaryType>Loại khẩu phần</DietaryType>
   <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
-  <DietaryTypeDesc>Loại bữa ăn được sản xuất. Một số người có sở thích cho các loại bữa ăn cụ thể.</DietaryTypeDesc>
+  <DietaryTypeDesc>Loại khẩu phần được chế biến. Một số người có sở thích hoặc kiêng khem đối với từng loại món ăn nhất định.</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>chỉ ngăn xếp với các bữa ăn tương tự</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>chỉ xếp chồng với các món ăn cùng loại</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>Mức sinh trưởng: {0}</PercentGrowth>
+  <PercentGrowth>Sinh trưởng: {0}</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>Tốc độ sinh trưởng</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>Phát triển đầy đủ trong {0}.</FullyGrownIn>
+  <FullyGrownIn>Trưởng thành hoàn toàn sau {0} sinh trưởng.</FullyGrownIn>
   <!-- EN: needs light level -->
-  <PlantNeedsLightLevel>Mức độ ánh sáng yêu cầu</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>cần độ sáng</PlantNeedsLightLevel>
   <!-- EN: resting -->
-  <PlantResting>Đang nghỉ</PlantResting>
+  <PlantResting>đang nghỉ</PlantResting>
   <!-- EN: temperature growth multiplier {0}% -->
-  <OutOfIdealTemperatureRange>Nhiệt độ không thích hợp. Tốc độ phát triển còn: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>tốc độ sinh trưởng theo nhiệt độ: {0}%</OutOfIdealTemperatureRange>
   <!-- EN: out of temperature growth range -->
-  <OutOfIdealTemperatureRangeNotGrowing>Nhiệt độ không thích hợp để phát triển.</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>ngoài ngưỡng nhiệt độ sinh trưởng</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Có thể thu hoạch</ReadyToHarvest>
+  <ReadyToHarvest>Sẵn sàng thu hoạch.</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>Trưởng thành</Mature>
+  <Mature>Trưởng thành.</Mature>
   <!-- EN: Average plant age -->
   <AveragePlantAge>Tuổi cây trung bình</AveragePlantAge>
   <!-- EN: Oldest plant age -->
   <OldestPlantAge>Tuổi cây già nhất</OldestPlantAge>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>Thời gian sinh trưởng</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Mùa sinh trưởng</OutdoorGrowingPeriod>
   <!-- EN: Never -->
-  <NoGrowingPeriod>Không bao giờ</NoGrowingPeriod>
+  <NoGrowingPeriod>Không có</NoGrowingPeriod>
   <!-- EN: Year-round -->
   <GrowYearRound>Quanh năm</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>Có thể trồng ngay bây giờ.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Đang trong mùa sinh trưởng.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>Không thể trồng (nhiệt độ không thích hợp).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Không thể trồng (nhiệt độ mùa không phù hợp).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Nhiễm cháy lá</Blighted>
+  <Blighted>Nhiễm bệnh cháy lá</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Đang chết dần do tiếp xúc với ánh nắng</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Đang chết dần do tiếp xúc với ánh sáng</DyingBecauseExposedToLight>
   <!-- EN: Dying from non-ideal terrain -->
-  <DyingBecauseOfTerrain>Đang chết dần do địa hình không phù hợp</DyingBecauseOfTerrain>
+  <DyingBecauseOfTerrain>Đang chết dần do địa hình không thích hợp</DyingBecauseOfTerrain>
   <!-- EN: Cut now -->
-  <AutoCutNow>Cắt ngay</AutoCutNow>
+  <AutoCutNow>Chặt ngay</AutoCutNow>
   <!-- EN: harvesting -->
   <HarvestGerund>đang thu hoạch</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>đang cắt</CutGerund>
+  <CutGerund>đang chặt</CutGerund>
   <!-- EN: Cut all blight -->
-  <CutAllBlight>Cắt tất cả bệnh cháy lá</CutAllBlight>
+  <CutAllBlight>Chặt sạch cây cháy lá</CutAllBlight>
   <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
-  <CutAllBlightDesc>Đánh dấu tất cả các cây bị bệnh để tiêu hủy. Cây bị bệnh sẽ không cho ra bất kỳ lương thực hoặc tài nguyên nào và nên được tiêu hủy trước khi bệnh lan rộng.</CutAllBlightDesc>
+  <CutAllBlightDesc>Đánh dấu tiêu hủy toàn bộ cây nhiễm bệnh cháy lá. Cây bị bệnh sẽ không cho thu hoạch lương thực hay tài nguyên và cần được tiêu hủy ngay trước khi dịch bệnh lây lan.</CutAllBlightDesc>
 
-  <!-- Zones -->
+<!-- Zones -->
   <!-- EN: Zone -->
-  <Zone>Khu vực</Zone>
+  <Zone>Vùng</Zone>
   <!-- EN: Growing zone -->
   <GrowingZone>Vùng trồng trọt</GrowingZone>
   <!-- EN: growing -->
@@ -1218,13 +1217,13 @@
   <!-- EN: stockpile -->
   <StockpileGroup>kho chứa</StockpileGroup>
   <!-- EN: Dumping stockpile zone -->
-  <DumpingStockpile>Vùng chứa rác</DumpingStockpile>
+  <DumpingStockpile>Vùng bãi thải</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
-  <CorpseStockpile>Khu vực lưu trữ xác chết</CorpseStockpile>
+  <CorpseStockpile>Vùng chứa xác</CorpseStockpile>
   <!-- EN: Priority -->
   <Priority>Độ ưu tiên</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>Xóa tất cả</ClearAll>
+  <ClearAll>Bỏ chọn tất cả</ClearAll>
   <!-- EN: Allow all -->
   <AllowAll>Cho phép tất cả</AllowAll>
   
@@ -1250,59 +1249,59 @@
   
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSterilizeConfirm>Bạn có chắc chắn muốn triệt sản {PAWN_nameDef}? Việc này sẽ khiến {FACTION_name} tức giận.</AnimalSterilizeConfirm>
+  <AnimalSterilizeConfirm>Bạn có chắc muốn triệt sản {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSlaughterConfirm>Bạn có chắc chắn muốn giết {PAWN_nameDef}? Việc này sẽ khiến {FACTION_name} tức giận.</AnimalSlaughterConfirm>
+  <AnimalSlaughterConfirm>Bạn có chắc muốn giết mổ {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalSlaughterConfirm>
   <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalReleaseConfirm>Bạn có chắc chắn muốn thả {PAWN_nameDef}? Việc này sẽ khiến {FACTION_name} tức giận.</AnimalReleaseConfirm>
+  <AnimalReleaseConfirm>Bạn có chắc muốn thả tự do cho {PAWN_nameDef}? Hành động này sẽ khiến phe {FACTION_name} phẫn nộ.</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>Bật/Tắt hiển thị hướng dẫn chơi.\n\nHưỡng dẫn chơi luôn hiển thị nếu có một mục được kích hoạt xem. Chuyển đổi này làm cho nó biến mất khi không có mục nào đang được xem.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Bật/tắt hiển thị bảng hướng dẫn khi trống.\n\nBảng hướng dẫn luôn hiện ra nếu có mục kiến thức đang được kích hoạt. Tùy chọn này giúp ẩn bảng đi khi không có mục nào hoạt động.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visibility of zones. -->
   <ZoneVisibilityToggleButton>Bật/Tắt hiển thị các khu vực.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
-  <ShowBeautyToggleButton>Bật/tắt hiển thị độ thẩm mĩ.\n\nĐộ thẩm mĩ của khu vực con trỏ bạn đạn chỉ tới thể hiện cư dân bạn cảm thấy đẹp thế nào khi đứng đấy.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Bật/tắt hiển thị độ đẹp.\n\nHiển thị mức độ đẹp mắt của môi trường xung quanh theo cảm nhận của nhân vật khi đứng tại vị trí con trỏ đang chỉ tới.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
-  <ShowRoomStatsToggleButton>Bật/tắt thông tin của phòng.\n\nHiển thị thông tin của phòng mà con chuột bạn đang chỉ vào.</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Bật/tắt hiển thị chỉ số phòng.\n\nHiển thị các thông số chi tiết của căn phòng mà con trỏ đang chỉ vào.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Bật/tắt thanh hiển thị cư dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của tất cả cư dân dọc màn hình phía trên.\n\nBạn có thể sắp xếp lại bằng cách giữ chuột phải trên hình cư dân và kéo đến vị trị mong muốn.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Bật/tắt thanh chân dung cư dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của toàn bộ cư dân dọc theo cạnh trên màn hình.\n\nBạn có thể sắp xếp lại thứ tự bằng cách giữ chuột phải và kéo thả biểu tượng.</ShowColonistBarToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
-  <ShowColonistBarToggleButtonController>Bật/tắt thanh hiển thị cư dân.\n\nHiển thị biểu tượng và trạng thái cơ bản cho tất cả những cư dân dọc theo đầu màn hình.\n\nBạn có thể sắp xếp lại thứ tự của các cư dân trong thanh cư dân bằng cách nhấn vào nút kích hoạt bên trái và kéo chúng.</ShowColonistBarToggleButtonController>
+  <ShowColonistBarToggleButtonController>Bật/tắt thanh chân dung cư dân.\n\nHiển thị biểu tượng và trạng thái cơ bản của toàn bộ cư dân dọc theo cạnh trên màn hình.\n\nBạn có thể sắp xếp lại thứ tự trên thanh này bằng cách giữ nút cò trái và kéo thả.</ShowColonistBarToggleButtonController>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Bật/tắt tự động mở rộng khu vực nhà ở xung quanh công trình mới xây.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Bật/tắt tự động mở rộng khu vực nhà xung quanh các công trình mới xây.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Bật/tắt tự động xây lại công trình bị phá hủy.</AutoRebuildButton>
+  <AutoRebuildButton>Bật/tắt tự động xây lại các công trình bị phá hủy nằm trong khu vực nhà.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Bật/tắt bảng tự động phân loại tài nguyên.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Bật/tắt chế độ phân loại danh mục trên bảng thống kê tài nguyên.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>Bật/tắt hiển thị tên thú đã đã thuần hóa.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Bật/tắt hiển thị tên của các vật nuôi đã thuần hóa và được đặt tên.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>Bật/tắt hiển thị mái nhà.</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>Bật/tắt lớp phủ hiển thị mái che.</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>Bật/tắt hiển thị độ màu mỡ.\n\nĐiều này cho thấy mặt đất màu mỡ như thế nào, ảnh hưởng đến loại cây nào có thể phát triển và tốc độ phát triển của chúng.</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>Bật/tắt lớp phủ độ màu mỡ.\n\nHiển thị mức độ màu mỡ của đất đai, yếu tố quyết định loại cây có thể trồng và tốc độ sinh trưởng của chúng.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>Bật/tắt hiển thị địa hình.\n\nĐiều này liên quan đến những loại công trình có thể được xây dựng tại mỗi địa điểm.\n\nVí dụ, một số loại mặt đất chỉ chấp nhận các tòa nhà nhẹ hoặc trung bình, nhưng không chấp nhận các tòa nhà nặng. Cầu chỉ có thể được xây dựng trên mặt nước.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>Bật/tắt lớp phủ khả năng chịu tải của địa hình.\n\nCho biết những loại công trình nào có thể xây dựng được tại từng vị trí.\n\nVí dụ, một số nền đất yếu chỉ chịu được công trình nhẹ hoặc trung bình, không thể xây công trình nặng. Riêng cầu chỉ có thể bắc qua mặt nước.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>Khóa xoay camera.</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>Khóa góc xoay camera sao cho hướng Bắc luôn ở phía trên.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>Bật/tắt hiệu ứng ngày đêm.</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Bật/tắt hiệu ứng ánh sáng ngày và đêm trên bản đồ hành tinh.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
-  <ShowBasesExpandingIconsToggleButton>Bật/tắt hiện biểu tượng từ xa cho các khu định cư thuộc phe khác.</ShowBasesExpandingIconsToggleButton>
+  <ShowBasesExpandingIconsToggleButton>Bật/tắt hiển thị biểu tượng phóng to cho các khu định cư thuộc phe phái khác.</ShowBasesExpandingIconsToggleButton>
   <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
-  <ShowImportantExpandingIconsToggleButton>Bật/tắt hiện biểu tượng từ xa cho các địa điểm quan trọng như thuộc địa, địa điểm nhiệm vụ và bản đồ đang hoạt động.</ShowImportantExpandingIconsToggleButton>
+  <ShowImportantExpandingIconsToggleButton>Bật/tắt hiển thị biểu tượng phóng to cho các địa điểm quan trọng như thuộc địa của bạn, vị trí nhiệm vụ và các bản đồ đang hoạt động.</ShowImportantExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>Bật/tắt hiện tên địa điểm.</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Bật/tắt hiển thị tên các địa danh tự nhiên.</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
-  <ShowTemperatureOverlayToggleButton>Chuyển đổi lớp phủ nhiệt. Điều này cho thấy nhiệt độ không khí trong mỗi phòng và ngoài trời.\n\nNhững cư dân sẽ không hài lòng nếu nhiệt độ quá cao hoặc quá thấp. Tiếp xúc với nhiệt độ khắc nghiệt có thể dẫn đến hạ thân nhiệt, tê cóng, say nắng, bỏng và tử vong.</ShowTemperatureOverlayToggleButton>
+  <ShowTemperatureOverlayToggleButton>Bật/tắt lớp phủ nhiệt độ.\n\nHiển thị nhiệt độ không khí trong từng căn phòng cũng như ngoài trời.\n\nCư dân sẽ bất mãn nếu nhiệt độ quá nóng hoặc quá lạnh. Tiếp xúc với nền nhiệt khắc nghiệt có thể gây hạ thân nhiệt, tê cóng, sốc nhiệt, bỏng và tử vong.</ShowTemperatureOverlayToggleButton>
 
-  <!-- Hotkeys -->
+<!-- Hotkeys -->
   <!-- EN: Hotkey -->
   <HotKeyTip>Phím tắt</HotKeyTip>
   
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Cháy ở {1_label}</FireOn>
+  <FireOn>cháy tại {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>Đang cháy</Burning>
   <!-- EN: fire size {0} -->
@@ -1310,129 +1309,129 @@
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>Chỉ định sự kiện xảy ra.</GameConditionsTip>
+  <GameConditionsTip>Các hiện tượng đặc biệt đang ảnh hưởng đến khu vực này.</GameConditionsTip>
   <!-- EN: time left -->
   <TimeLeft>thời gian còn lại</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>ngày xuất hiện</ImpactDate>
+  <ImpactDate>ngày xảy ra</ImpactDate>
   <!-- EN: Source unknown. -->
   <SourceUnknown>Không rõ nguồn gốc.</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>Nhấn vào đây để nhảy đến nguồn.</ClickToJumpToSource>
+  <ClickToJumpToSource>Nhấp để chuyển tới nguồn phát.</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>Nhấn vào đây để nhảy đến cơn bão.</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>Nhấp để chuyển tới vùng bão sét.</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
   <CausedByQuest>Gây ra bởi nhiệm vụ: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>Không đủ vật liệu để xây thứ này.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>Bạn không có vật liệu phù hợp để xây công trình này.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>{0} sẽ giảm năng suất lao động</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} sẽ bị giảm tốc độ làm việc</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>Không thể đặt dưới mái nhà.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>Không thể đặt dưới mái che.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
   <MustPlaceUnderThickRoof>Phải đặt dưới mái che dày.</MustPlaceUnderThickRoof>
   <!-- EN: Must be placed against a wall. -->
-  <MustPlaceOnWall>Phải được đặt dựa vào một bức tường.</MustPlaceOnWall>
+  <MustPlaceOnWall>Phải đặt áp sát tường.</MustPlaceOnWall>
   <!-- EN: Something is already placed on this wall. -->
-  <SomethingPlacedOnThisWall>Có thứ gì đó đã được đặt trên bức tường này.</SomethingPlacedOnThisWall>
+  <SomethingPlacedOnThisWall>Đã có vật khác được gắn trên bức tường này.</SomethingPlacedOnThisWall>
   <!-- EN: This building can not support attachments. -->
-  <CannotSupportAttachment>Toà nhà này không thể hỗ trợ gắn thêm phụ kiện.</CannotSupportAttachment>
+  <CannotSupportAttachment>Công trình này không hỗ trợ gắn thêm thiết bị.</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>Phải đặt một đầu nối với thân phi thuyền.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>Phải đặt phần đầu nối liền với khung dầm phi thuyền.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Phải đặt kế vật cần phễu.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Phải đặt cạnh thiết bị cần phễu nạp cám.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>Phải đặt trên</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>Phải đặt trực tiếp lên mạch phun hơi nước.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>Cả 2 đầu của máy lạnh phải thông thoáng.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>Cả mặt nóng và mặt lạnh của máy điều hòa đều phải thông thoáng.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>Cả 2 đầu phải thông thoáng để không khí đi qua.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Cả hai mặt đều phải thông thoáng để không khí lưu thông.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
-  <MustPlaceAdjacentStandable>Phải đặt sao cho có không gian thông thoáng ở mọi mặt.</MustPlaceAdjacentStandable>
+  <MustPlaceAdjacentStandable>Phải đặt sao cho mọi phía đều có chỗ đứng thông thoáng.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>Phải đặt cạnh bồn tiếp nhiên liệu của bệ phóng.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>Phải đặt cạnh cổng tiếp nhiên liệu của bệ phóng.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>Phải được đặt ở mỏ tài nguyên đào được.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>Phải đặt trên mỏ tài nguyên có thể khoan.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>Không thể được đặt bên cạnh bẫy.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Không thể đặt ngay cạnh bẫy.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>Không thể đặt cạnh tòa nhà khác cùng loại.</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>Không thể đặt cạnh công trình khác cùng loại.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Chặn bởi</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>Bị chặn bởi</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Bị chặn bởi mái nhà</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>Bị chặn bởi mái che</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>Lưu lượng giảm do nằm gần cối xoay nước khác.</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>Giảm lưu lượng: Nhiễu loạn từ guồng nước khác</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
   <CasketContains>Chứa</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>CẢNH BÁO!\n\n{PAWN_nameDef} là người cuối cùng của thị trấn! Nếu bạn đưa {PAWN_objective} bước vào kén ngủ đông đó, trò chơi sẽ kết thúc ngay. Bạn có muốn tiếp tục?</CasketWarning>
+  <CasketWarning>CẢNH BÁO!\n\n{PAWN_nameDef} là cư dân tự do cuối cùng của bạn! Nếu để {PAWN_objective} bước vào kén ngủ đông đó, bạn có thể sẽ không thể tiếp tục chơi được nữa. Bạn có chắc muốn tiến hành không?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>Không thể cất cánh</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>Không thể cất cánh.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>Sẵn sàng cất cánh</ShipReportCanLaunch>
+  <ShipReportCanLaunch>Sẵn sàng cất cánh.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>Thiếu linh kiện quan trọng</ShipReportMissingPart>
+  <ShipReportMissingPart>Thiếu bộ phận quan trọng</ShipReportMissingPart>
   <!-- EN: requires -->
   <ShipReportMissingPartRequires>yêu cầu</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>Còn kén ngủ đông trống</ShipReportNoFullPods>
+  <ShipReportNoFullPods>Không có kén ngủ đông nào có người</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>Tạm dừng bộ phận</ShipReportHibernating>
+  <ShipReportHibernating>Bộ phận đang ngủ đông</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Bộ phận chưa sẵn sàng</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>Không có khu định cư để trở về. Hãy hình thành một khu định cư trước.</ShipNoSettlementToReturnTo> 
-  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name) đã sẵn sàng để bắt đầu quá trình khởi động lò phản ứng.\n\nAnh ta cảnh báo quá trình khởi động sẽ mất 15 ngày, và trong thời gian này thì băng cướp, lính đánh thuê hay cỗ máy chiến đấu cơ sẽ liên tục tấn công khu vực này.\n\nCố gắng xây dựng hàng phòng thủ cho tốt nhé.</HibernateWarning>
+  <ShipNoSettlementToReturnTo>Không có khu định cư nào để quay về. Hãy lập một khu định cư trước.</ShipNoSettlementToReturnTo> 
+<!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) đã sẵn sàng đánh thức lò phản ứng.\n\nÔng ta cảnh báo quá trình này sẽ kéo dài suốt 15 ngày đêm, và xung năng lượng khổng lồ tỏa ra sẽ bị dò thấy từ cách xa hàng vạn dặm.\n\nThứ tín hiệu đặc trưng của tàu du hành liên sao này sẽ đánh động mọi băng cướp liều mạng cùng những bầy đoàn robot sát thủ Mechanoid tàn bạo kéo tới.\n\nNhững đợt tổng tấn công khốc liệt chưa từng thấy sắp ập xuống. Hãy chắc chắn phòng tuyến của bạn đã sẵn sàng tử thủ.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>Lò phản ứng đã sẵn sàng để khởi động.\n\nQuá trình này sẽ mất khoảng 15 ngày, và trong thời gian này thì băng cướp, lính đánh thuê hay cỗ máy chiến đấu cơ sẽ liên tục tấn công khu vực này.\n\nCố gắng xây dựng hàng phòng thủ cho tốt nhé.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>Lò phản ứng đã sẵn sàng khởi động.\n\nQuá trình này sẽ kéo dài suốt 15 ngày đêm, và xung năng lượng khổng lồ tỏa ra sẽ bị dò thấy từ cách xa hàng vạn dặm. Thứ tín hiệu đặc trưng của tàu du hành liên sao này sẽ đánh động mọi băng cướp liều mạng cùng những bầy đoàn robot sát thủ Mechanoid tàn bạo kéo tới.\n\nNhững đợt tổng tấn công khốc liệt chưa từng thấy sắp ập xuống. Hãy chắc chắn phòng tuyến của bạn đã sẵn sàng tử thủ.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) đã sẵn sàng để bắt đầu quá trình khởi động lò phản ứng. Anh ta cảnh báo quá trình khởi động sẽ mất 15 ngày.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) đã sẵn sàng đánh thức lò phản ứng. Ông ta cảnh báo quá trình này sẽ kéo dài suốt 15 ngày đêm.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>Lò phản ứng đã sẵn sàng để bắt đầu khởi động. Quá trình này sẽ mất khoảng 15 ngày.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>Lò phản ứng đã sẵn sàng khởi động. Quá trình này sẽ kéo dài suốt 15 ngày đêm.</HibernateWarningStandalonePacifist>
 
-  <!-- Neurotrainer -->
+<!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
-  <SkillNeurotrainerLabel>bộ dẫn truyền thần kinh ({0})</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>ống cấy kỹ năng ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>Sử dụng bộ dẫn truyền thần kinh để học {0}</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>Dùng ống cấy kỹ năng để học {0}</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>Một siêu máy móc sử dụng một lần, rèn luyện một kỹ năng cụ thể.\n\nLiều được dùng trực tiếp vào mắt. Sau khi được giải phóng vào não, các máy móc nhanh chóng cải thiện các kỹ năng của chủ thể trong một lĩnh vực đặc biệt cụ thể, tự chuyển hóa thành mô thần kinh khi cần thiết.</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>Một liều vi máy siêu đậm đặc dùng một lần giúp huấn luyện một kỹ năng nhất định.\n\nLiều thuốc được tiêm trực tiếp qua hốc mắt. Khi đến não bộ, các vi máy sẽ nhanh chóng nâng cao kỹ năng của đối tượng trong lĩnh vực tương ứng, tự biến đổi thành mô thần kinh khi cần thiết.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} đã sử dụng {1} bộ dẫn truyền thần kinh để đi từ cấp {2} đến cấp {3}.</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} đã dùng ống cấy kỹ năng {1} để tăng từ cấp {2} lên cấp {3}.</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
-  <Installed>Đã cài đặt</Installed>
+  <Installed>Đã lắp đặt</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>Chưa cài đặt</NotInstalled>
+  <NotInstalled>Chưa lắp đặt</NotInstalled>
   <!-- EN: Extracted tree will die in {time} unless replanted. -->
-  <MinifiedTreeWillDieIn>Cây chiết sẽ chết sau {time} trừ khi được trồng lại.</MinifiedTreeWillDieIn>
+  <MinifiedTreeWillDieIn>Cây đã bứng sẽ chết sau {time} nếu không được trồng lại.</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
-  <Title>Tiêu đề</Title>
+  <Title>Tựa đề</Title>
   <!-- EN: Untitled -->
-  <Untitled>Vô danh</Untitled>
+  <Untitled>Vô đề</Untitled>
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>Chưa hoàn thành {0}</UnfinishedItem>
+  <UnfinishedItem>{0} chưa hoàn thiện</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>Chưa hoàn thành {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>{1} {0} chưa hoàn thiện</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
@@ -1440,23 +1439,23 @@
   <!-- EN: quality -->
   <quality>chất lượng</quality>
   <!-- EN: An item's quality is how well-made it is. -->
-  <QualityDescription>Chất lượng của vật nói lên độ tốt của nó</QualityDescription>
+  <QualityDescription>Chất lượng phản ánh mức độ tinh xảo của vật phẩm khi được chế tác.</QualityDescription>
   <!-- EN: Quality: {0} -->
   <QualityIs>Chất lượng: {0}</QualityIs>
 
-  <!-- Mood descriptions -->
+<!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>trạng thái tinh thần</Mood_MentalState>
+  <Mood_MentalState>rối loạn tinh thần</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>tuyệt vọng</Mood_AboutToBreak>
+  <Mood_AboutToBreak>sắp suy sụp</Mood_AboutToBreak>
   <!-- EN: on edge -->
-  <Mood_OnEdge>buồn bã</Mood_OnEdge>
+  <Mood_OnEdge>bất ổn</Mood_OnEdge>
   <!-- EN: stressed -->
   <Mood_Stressed>căng thẳng</Mood_Stressed>
   <!-- EN: neutral -->
   <Mood_Neutral>bình thường</Mood_Neutral>
   <!-- EN: content -->
-  <Mood_Content>vui vẻ</Mood_Content>
+  <Mood_Content>hài lòng</Mood_Content>
   <!-- EN: happy -->
   <Mood_Happy>hạnh phúc</Mood_Happy>
 
@@ -1464,35 +1463,35 @@
   <!-- EN: Game Over -->
   <GameOver>Trò chơi kết thúc</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>cư dân của bạn đã chết hoặc đã đi. Câu chuyện chấm dứt tại đây.\n\nCó lẽ sẽ có ai đó đến sau có thể sử dụng lại tàn tích từng là thị trấn này.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Tất cả cư dân đều đã chết hoặc bỏ đi. Câu chuyện khép lại tại đây.\n\nCó lẽ một ngày nào đó, sẽ có kẻ khác tìm đến và tận dụng đống tàn tích của nơi này.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>Ở tốc độ cận ánh sáng, Chúa tán cho 1 bạt tay bay luôn con mẹ nó hành tinh bạn đang sống. Tất cả mọi sinh vật trên hành tinh này đều ra đi.\n\nMột phần của {0} hiện là một vành đai tiểu hành tinh nhỏ. Phần còn lại là một địa ngục phóng xạ nóng chảy, liên tục gợn sóng với những hành tinh cao hàng km.\n\nBạn không thể sống sót.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Lao xuống ở tốc độ cận ánh sáng, vũ khí hủy diệt hành tinh giáng thẳng vào mặt đất với sức công phá tương đương hàng nghìn tỷ quả bom khinh khí. Tựa như một quả bóng nước trúng đạn súng trường, thế giới này hóa lỏng ngay dưới cú va chạm và phun trào ruột gan nóng chảy khắp vũ trụ.\n\nMột phần của {0} giờ đây chỉ còn là một vành đai tiểu hành tinh nhỏ bé. Phần còn lại biến thành một địa ngục phóng xạ rực lửa, liên tục cuộn sóng bởi những cơn địa chấn hành tinh cao hàng ki-lô-mét.\n\nBạn đã không thể sống sót.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>Bạn đã phóng con tàu!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>Bạn đã phóng phi thuyền thành công!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>Máy tính của bạn bây giờ sẽ cố gắng hướng dẫn tàu đến nơi an toàn. Nó có thể tìm thấy một hành tinh thịnh vượng trong hệ thống này. Hoặc, nó có thể thực hiện một hành trình dài hàng thế kỷ đến một ngôi sao khác. Nó thậm chí có thể quyết định ẩn mình dưới băng trên một tiểu hành tinh trong vài nghìn năm, chờ đợi ai đó xây dựng một thế giới long lanh mới ở đây.\n\nKhi nào tìm ra bạn sẽ được đánh thức.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>Trí tuệ nhân tạo điều khiển sẽ dẫn dắt con tàu tìm đến một bến đỗ an toàn. Nó có thể tìm thấy một hành tinh trù phú ngay trong hệ sao này, hoặc dấn thân vào cuộc hành trình kéo dài hàng thế kỷ tới một vì sao khác. Thậm chí, nó có thể quyết định ẩn mình dưới lớp băng của một tiểu hành tinh suốt vài thiên niên kỷ, chờ đợi ngày ai đó kiến tạo nên một thế giới hoàng kim mới tại đây.\n\nBạn sẽ biết câu trả lời khi tỉnh giấc.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>Những cư dân này đã rời khỏi:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>Những cư dân đã trốn thoát:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
   <GameOverColonistsLeft>Những cư dân bị bỏ lại:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>Trong sự tưởng nhớ đến:\n</GameOverInMemoryOf>
+  <GameOverInMemoryOf>Để tưởng nhớ:\n</GameOverInMemoryOf>
   <!-- EN: Keep watching -->
-  <GameOverKeepWatching>Theo dõi tiếp</GameOverKeepWatching>
+  <GameOverKeepWatching>Tiếp tục quan sát</GameOverKeepWatching>
   <!-- EN: Keep watching for now -->
-  <GameOverKeepWatchingForNow>Hiện tại tiếp tục theo dõi</GameOverKeepWatchingForNow>
+  <GameOverKeepWatchingForNow>Tạm thời tiếp tục quan sát</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
-  <GameOverCreateNewWanderers>Tạo những người lang thang mới</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderers>Tạo nhóm lữ khách mới</GameOverCreateNewWanderers>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
-  <GameOverCreateNewWanderersText>Mọi người đã chết hoặc đã rời đi. Có lẽ ai đó sẽ tìm thấy công dụng cho những đống đổ nát của nơi này.\n\nChọn những người lang thang mới đến khu định cư của bạn và tiếp tục câu chuyện.</GameOverCreateNewWanderersText>
+  <GameOverCreateNewWanderersText>Mọi người đều đã chết hoặc rời đi. Có lẽ kẻ khác sẽ tìm thấy công dụng cho đống phế tích này.\n\nHãy chọn những lữ khách mới đặt chân đến thuộc địa và viết tiếp câu chuyện.</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>Màn hình chính</GameOverMainMenu>
   <!-- EN: No colony -->
-  <NoColony>Không có khu định cư</NoColony>
+  <NoColony>Không có thuộc địa</NoColony>
   <!-- EN: cannot reach any destination -->
-  <NoWandererDestination>không thể tới bất kỳ điểm đến nào</NoWandererDestination>
+  <NoWandererDestination>không thể tiếp cận bất kỳ điểm đến nào</NoWandererDestination>
   <!-- EN: must wait {0}h -->
-  <GameOverCreateNewWanderersWait>Tạo những người lang thang mới (cần chờ {0}h)</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersWait>cần chờ {0} giờ</GameOverCreateNewWanderersWait>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1502,39 +1501,39 @@
   <!-- EN: inactive -->
   <InactiveFacility>không hoạt động</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>Liên kết đến</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>Có thể liên kết với</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>Không liên kết với một tòa nhà</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>Chưa liên kết với công trình nào</FacilityNoPotentialLinks>
   <!-- EN: Max connected per building -->
-  <FacilityMaxSimultaneousConnections>Tối đa kết nối cùng lúc mỗi tòa nhà</FacilityMaxSimultaneousConnections>
+  <FacilityMaxSimultaneousConnections>Số kết nối tối đa mỗi công trình</FacilityMaxSimultaneousConnections>
   <!-- EN: Front of building is blocked. -->
-  <FacilityFrontBlocked>Phía trước của tòa nhà bị chặn.</FacilityFrontBlocked>
+  <FacilityFrontBlocked>Phía trước công trình bị chặn.</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{1} của {PAWN_labelShort} đang phát triển.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{1} của {PAWN_labelShort} đang tiến triển nặng hơn.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{1} của {PAWN_labelShort} đã ổn định lại.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{1} của {PAWN_labelShort} đã ổn định.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
   <DiseaseGrowthModeChanged_Remission>{1} của {PAWN_labelShort} đang thuyên giảm.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Có thể dùng.</MarriageSpotUsable>
+  <MarriageSpotUsable>Có thể sử dụng.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Không thể dùng: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Không thể sử dụng: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>chặn</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>bị chặn lối</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
   <MarriageSpotDangerous>quá nguy hiểm cho {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>cấm cho {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>bị cấm đối với {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>dự bị</MarriageSpotReserved>
+  <MarriageSpotReserved>đã có người đặt trước</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>không với tới vì {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>{1_labelShort} không thể tiếp cận</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>nhà tù</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>nằm trong phòng giam</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
   <NotEnjoyableOutsideTemperature>nhiệt độ không thích hợp</NotEnjoyableOutsideTemperature>
 
@@ -1544,93 +1543,93 @@
   <!-- EN: Sleeping -->
   <ActivityIconSleeping>Đang ngủ</ActivityIconSleeping>
   <!-- EN: Fleeing -->
-  <ActivityIconFleeing>Đang bỏ chạy</ActivityIconFleeing>
+  <ActivityIconFleeing>Đang tháo chạy</ActivityIconFleeing>
   <!-- EN: Fighting -->
   <ActivityIconAttacking>Đang chiến đấu</ActivityIconAttacking>
   <!-- EN: Idle -->
-  <ActivityIconIdle>Đang rỗi</ActivityIconIdle>
+  <ActivityIconIdle>Đang nhàn rỗi</ActivityIconIdle>
   <!-- EN: Burning -->
-  <ActivityIconBurning>Đang cháy</ActivityIconBurning>
+  <ActivityIconBurning>Đang bốc cháy</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>Đang tập hợp đội</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Đang tập hợp thương đoàn</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>Đang bảo trì.</DueForMaintenance>
+  <DueForMaintenance>Đến hạn bảo trì.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Hư hại do thiếu bảo trì.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Đang xuống cấp do thiếu bảo trì.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Tiến trình đào khối quặng tiếp theo</ProgressToNextLump>
+  <ProgressToNextLump>Tiến độ khai thác khối quặng tiếp theo</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Khoáng sản bên dưới</ResourceBelow>
+  <ResourceBelow>Tài nguyên bên dưới</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>Tiến trình tới phần tiếp theo</ProgressToNextPortion>
+  <ProgressToNextPortion>Tiến độ tới phần tiếp theo</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>Không còn tài nguyên bên dưới</DeepDrillNoResources>
+  <DeepDrillNoResources>Không có tài nguyên bên dưới.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Tài nguyên dưới mũi khoan sâu đã cạn, máy khoan tự động tắt. Mở lại sẽ khoan lên {0}.</DeepDrillExhausted>
+  <DeepDrillExhausted>Tài nguyên tại điểm khoan sâu đã cạn kiệt, máy khoan tự động chuyển sang trạng thái cấm. Hãy bỏ cấm để bắt đầu khai thác {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>Tài nguyên dưới máy khoan sâu đã hết.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>Tài nguyên tại điểm khoan sâu đã cạn kiệt.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>Nạp lại còn lại</ChargesRemaining>
+  <ChargesRemaining>Số lần nạp còn lại</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>Hướng dẫn cơ bản</LearningHelper>
+  <LearningHelper>Bảng hướng dẫn</LearningHelper>
   <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
-  <LearningHelperTooltip>Hướng dẫn trong trò chơi nhằm mục đích dạy cho bạn thông tin về các chủ đề liên quan đến tình trạng hiện tại thuộc địa của bạn</LearningHelperTooltip>
+  <LearningHelperTooltip>Trình hướng dẫn trong game giúp cung cấp kiến thức về các cơ chế liên quan đến tình hình hiện tại của thuộc địa.</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
-  <MarkLearned>Đã biết</MarkLearned>
+  <MarkLearned>Đánh dấu đã học</MarkLearned>
   <!-- EN: Already learned -->
-  <AlreadyLearned>Hướng dẫn nâng cao</AlreadyLearned>
+  <AlreadyLearned>Đã học</AlreadyLearned>
   <!-- EN: Filter -->
   <Filter>Bộ lọc</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>Hiện hướng bắc. Nhấp để xoay camera sao cho cực bắc ở phía trên.</CompassTip>
+  <CompassTip>Hiển thị hướng Bắc. Nhấp để xoay camera sao cho cực Bắc nằm ở phía trên.</CompassTip>
 
-  <!-- World route planner -->
+<!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Nhấp để vào chế độ lập kế hoạch hành trình.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Nhấp để vào chế độ hoạch định lộ trình, nơi bạn có thể vạch sẵn hành trình và tính toán khoảng cách giữa các điểm dừng chân.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Thêm ít nhất 2 điểm đến.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Thêm từ 2 điểm dừng chân trở lên.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Thêm ít nhất 1 điểm đến.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Thêm ít nhất 1 điểm dừng chân.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>Tổng thời gian di chuyển: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>Tổng thời gian hành trình: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Ở chế độ giả lập, tốc độ di chuyển đặt ở mức mặc định. Tốc độ thực tế của đoàn sẽ khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Chế độ hoạch định sử dụng tốc độ di chuyển mặc định của thương đoàn. Tốc độ thực tế có thể khác.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Tính toán: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Đang tính toán cho: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Nhấp chuột phải: Thêm/Xóa điểm đến.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Nhấp chuột phải: Thêm/xóa điểm dừng chân.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Nhấp chuột trái: Thêm/Xóa điểm đến.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Nút cò trái: Thêm/xóa điểm dừng chân.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: Thoát khỏi chế độ giả định.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: Thoát chế độ hoạch định.</RoutePlannerPressEscapeToExit>
   <!-- EN: {Key:Cancel}: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Thoát khỏi chế độ giả định.</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Thoát chế độ hoạch định.</RoutePlannerPressEscapeToExitController>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Trờ về bảng thông tin của đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Quay lại bảng lập thương đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Trờ về bảng thông tin của đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Quay lại bảng lập thương đoàn.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>Est. thời gian di chuyển: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>Thời gian di chuyển dự kiến: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>Est. thời gian di chuyển (tính từ điểm cuối cùng): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Thời gian di chuyển dự kiến (từ điểm trước): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>Est. tổng thời gian di chuyển: {0}</EstimatedTimeToTile>
+  <EstimatedTimeToTile>Thời gian di chuyển dự kiến: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
   <ForagedFoodAmount>Lượng thức ăn hái lượm được</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>Gì cũng mặc</OutfitAnything>
+  <OutfitAnything>Mặc tự do</OutfitAnything>
   <!-- EN: Worker -->
   <OutfitWorker>Lao động</OutfitWorker>
   <!-- EN: Soldier -->
@@ -1648,223 +1647,223 @@
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: Xem những lệnh khả dụng...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Xem các mệnh lệnh khả dụng...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>Xem lệnh khả dụng...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Xem các mệnh lệnh khả dụng...</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
   <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2} </PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Nhiệt thần kinh: {0} / {1}\nTốc độ tụt: {2} / s ({3}s trước khi về 0)</PawnTooltipPsychicEntropyStats>
+ <PawnTooltipPsychicEntropyStats>Tốc độ tản nhiệt: {0}/s (về 0 sau {1}s)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Nhiệt thần kinh tăng sau khi thực hiện một năng lực tâm linh. Vượt quá giới hạn bình thường có thể gây ra suy sụp tinh thần kéo dài nhiều ngày.\n\nNhiệt thần kinh tiêu tan tự nhiên theo thời gian. Quá trình này có thể được tăng tốc bằng cách mặc trang phục eltex hoặc bị đau.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Nhiệt thần kinh tích tụ sau mỗi lần thi triển năng lực tâm linh. Vượt quá giới hạn cho phép có thể dẫn đến cơn suy sụp tâm linh kéo dài nhiều ngày.\n\nNhiệt thần kinh sẽ tự tản đi theo thời gian. Quá trình này diễn ra nhanh hơn khi mặc trang phục eltex hoặc khi cơ thể đang chịu đau đớn.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Giảm đau\n\nĐau tập trung tâm trí và tăng tốc độ tản nhiệt thần kinh.\n\nMức độ đau: {0}\nThưởng hồi phục nhiệt: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Kích thích từ cơn đau\n\nCơn đau gột rửa tạp niệm, ép tâm trí tập trung cao độ và đẩy nhanh tốc độ tản nhiệt thần kinh.\n\nMức độ đau: {0}\nTốc độ tản nhiệt cộng thêm: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Chuyển đổi giới hạn nhiệt thần kinh. Vượt quá giới hạn nhiệt của bạn có thể gây ra suy sụp tinh thần kéo dài nhiều ngày. Nó sẽ không gây ra thiệt hại vĩnh viễn.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Bật/tắt bộ giới hạn nhiệt thần kinh. Vượt quá giới hạn nhiệt có thể gây ra cơn suy sụp tâm linh kéo dài nhiều ngày, nhưng sẽ không để lại di chứng vĩnh viễn.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>Tinh thần lực: {0}</PawnTooltipPsyfocus>
   
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{1} {0}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>một {0_title} có tên {0_nameDef} {0_age}-tuổi sẽ đến trong một kén vận chuyển {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ đáp xuống bằng khoang vận chuyển {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>một {0_title} có tên {0_nameDef} {0_age}-tuổi sẽ đến và gia nhập bạn {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ tìm đến và gia nhập cùng bạn {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>một {0_title} có tên {0_nameDef} {0_age}-tuổi sẽ gia nhập bạn {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>một {0_title} tên là {0_nameDef} ({0_age} tuổi) sẽ gia nhập thương đoàn của bạn {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
-  <Reward_Items>các kén vận chuyển với các tài nguyên sau sẽ đến (tổng giá trị {1}):\n{0}</Reward_Items>
+  <Reward_Items>các khoang vận chuyển chứa những tài nguyên sau sẽ được thả xuống (tổng giá trị {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):\n\n{0} -->
-  <Reward_Items_Caravan>bạn sẽ nhận được (tổng giá trị {1}):\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>bạn sẽ nhận được (tổng giá trị {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>quan hệ giữa phe của bạn với {0_name} sẽ được cải thiện thêm {1}</Reward_Goodwill>
+  <Reward_Goodwill>thiện chí giữa phe bạn với {0_name} sẽ tăng thêm {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>bạn sẽ được đưa đến những vì sao</Reward_PassageOffworld>
+  <Reward_PassageOffworld>bạn sẽ được đưa tới những vì sao</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>Vượt ra ngoài thế giới</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>Hành trình tới những vì sao</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>bạn có thể cướp bóc mọi thứ từ trại</Reward_CampLoot>
+  <Reward_CampLoot>bạn có thể vơ vét toàn bộ chiến lợi phẩm tại khu trại</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>cướp bóc từ trại</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>Chiến lợi phẩm khu trại</Reward_CampLoot_Label>
   <!-- EN: It is unclear what will happen if you accept this quest -->
-  <Reward_Unknown>Chưa rõ điều gì sẽ xảy ra nếu bạn chấp nhận nhiệm vụ này</Reward_Unknown>
+  <Reward_Unknown>Chưa rõ chuyện gì sẽ xảy ra nếu bạn chấp nhận nhiệm vụ này</Reward_Unknown>
   <!-- EN: Unknown -->
-  <Reward_Unknown_Label>Chưa biết</Reward_Unknown_Label>
+  <Reward_Unknown_Label>Chưa rõ</Reward_Unknown_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>khách tham quan sẽ làm việc và chiến đấu cho bạn</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>những vị khách sẽ hỗ trợ lao động và chiến đấu cùng bạn</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>Trợ giúp của du khách</Reward_VisitorsHelp_Label>
-  <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>Cấp liên kết tâm linh mới</Reward_BestowingCeremony_Label>
+  <Reward_VisitorsHelp_Label>Sự trợ giúp từ khách</Reward_VisitorsHelp_Label>
+ <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>Thăng cấp liên kết tâm linh</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME} có được liên kết tâm linh</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME} nhận được liên kết tâm linh</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>Xe đưa đón</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>Chiến lợi phẩm tàu con thoi</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>bạn có thể phá hủy và cướp xe đưa đón</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>bạn có thể tháo dỡ và thu gom tài nguyên từ tàu con thoi</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>Phần thưởng có thể có trong tương lai</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>Phần thưởng tiềm năng trong tương lai</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>một phần thưởng có thể được cấp trong tương lai</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>một phần thưởng có thể được trao trong tương lai</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>tước hiệu {TITLE}</Reward_Title_Label>
+  <Reward_Title_Label>Tước hiệu {TITLE}</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>{PAWNNAME} giành được tước hiệu {TITLE} từ {FACTION}</Reward_Title>
+  <Reward_Title>{PAWNNAME} được {FACTION} phong tước hiệu {TITLE}</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>giá trị {0}</TotalValue>
   
-  <!-- Bladelink -->
+<!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Gắn kết với: {0}</BondedWith>
+  <BondedWith>Liên kết với: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>Chưa được gắn kết</NotBonded>
+  <NotBonded>Chưa liên kết</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>gắn kết với người khác</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>đã liên kết với người khác</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>(liên kết hiện có)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(đã có liên kết)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>Mỗi người chỉ có thể liên kết với một vũ khí cá tính tại một thời điểm.\n\nĐể trang bị và liên kết với {WEAPON_labelShort}, vũ khí hiện tại của {PAWN_nameDef} {BONDEDWEAPON_labelShort} phải bị phá hủy.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>Mỗi người chỉ có thể liên kết với một vũ khí tri giác tại một thời điểm.\n\nĐể trang bị và liên kết với {WEAPON_labelShort}, vũ khí {BONDEDWEAPON_labelShort} đang liên kết với {PAWN_nameDef} phải bị phá hủy trước.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} đã sẵng sàng liên kết với {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} đã liên kết với {BONDEDWEAPON_labelShort} rồi</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>vũ khí khóa sinh trắc học {0}</Biocoded>
+  <Biocoded>{0} khóa sinh trắc</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>Đang khóa sinh trắc học: {0}</CodedFor>
+  <CodedFor>Khóa sinh trắc: {0}</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>Đã khóa sinh trắc học</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>khóa sinh trắc</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1}. -->
-  <InterceptsProjectilesEvery>Chặn {0} mỗi {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Đánh chặn {0} mỗi {1}.</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0}. -->
-  <InterceptsProjectiles>Chặn {0}</InterceptsProjectiles>
+  <InterceptsProjectiles>Đánh chặn {0}.</InterceptsProjectiles>
   <!-- EN: ground and aerial projectiles -->
-  <InterceptsProjectiles_BothProjectiles>đạn mặt đất và trên không</InterceptsProjectiles_BothProjectiles>
+  <InterceptsProjectiles_BothProjectiles>đạn tầm thấp và đạn tầm cao</InterceptsProjectiles_BothProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>pháo phòng đất</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>đạn tầm thấp</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>pháo phòng không</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>đạn tầm cao</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>Giới tính bị ảnh hưởng</AffectedGender>
+  <AffectedGender>Giới tính chịu ảnh hưởng</AffectedGender>
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Nguyên nhân: {0}</CausedByHediff>
   
   <!-- EN: {DAMAGE_label} weakness -->
-  <DamageFactorWeakness>Điểm yếu của {DAMAGE_label}</DamageFactorWeakness>
+  <DamageFactorWeakness>Điểm yếu sát thương {DAMAGE_label}</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
-  <DamageFactorResistance>Kháng cự của {DAMAGE_label}</DamageFactorResistance>
+  <DamageFactorResistance>Kháng sát thương {DAMAGE_label}</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
-  <DamageFactor>Sát thương {DAMAGE_label} mà sinh vật này nhận được được nhân với số lượng này.</DamageFactor>
+  <DamageFactor>Sát thương {DAMAGE_label} mà sinh vật này phải chịu sẽ được nhân với hệ số này.</DamageFactor>
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
   <HealingHealHediff>{1} của {0_nameDef} đã được chữa lành.</HealingHealHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>{1} của {0_nameDef} đã được khôi phục.</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>{1} của {0_nameDef} đã được phục hồi.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>Thận trọng: Đặt một tòa nhà ở đây sẽ khiến {FACTION_name} tức giận!</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>Cảnh báo: Xây công trình ở đây sẽ khiến phe {FACTION_name} phẫn nộ!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>Chọn nơi đáp</ChooseLandingSite>
+  <ChooseLandingSite>Chọn bãi đáp</ChooseLandingSite>
 
   <!-- LordJobs -->
   <!-- EN: Outcome chances at {0} quality -->
-  <LordJobOutcomeChances>Cơ hội kết quả ở chất lượng {0}</LordJobOutcomeChances>
+  <LordJobOutcomeChances>Tỉ lệ kết quả ở mức chất lượng {0}</LordJobOutcomeChances>
   <!-- EN: Expected duration -->
-  <ExpectedLordJobDuration>Thời gian dự kiến</ExpectedLordJobDuration>
+  <ExpectedLordJobDuration>Thời lượng dự kiến</ExpectedLordJobDuration>
 
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>nghi thức</Ritual>
+  <Ritual>nghi lễ</Ritual>
 
   <!-- EN: Takes place at -->
   <RitualTakesPlaceAt>Diễn ra tại</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>Bất kỳ {0}</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>Bất kỳ {0} nào</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>Tham dự {0}</LordReportAttending>
+  <LordReportAttending>Đang tham dự {0}</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
-  <RitualCalledOff>{0} đã bị hủy.</RitualCalledOff>
+  <RitualCalledOff>{0} đã bị hủy bỏ.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>{0} không được hoàn thành vì thiếu người tham dự.</RitualNobodyAttended>
+  <RitualNobodyAttended>{0} bất thành vì thiếu người tham dự.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>{0} đã được hoàn thành.</RitualFinished>
+  <RitualFinished>{0} đã hoàn tất.</RitualFinished>
   <!-- EN: ends in {0} -->
   <RitualEndsIn>kết thúc sau {0}</RitualEndsIn>
   <!-- EN: Can start any time -->
-  <RitualStartAnyTime>Có thể bắt đầu bất cứ lúc nào</RitualStartAnyTime>
+  <RitualStartAnyTime>Có thể tổ chức bất cứ lúc nào</RitualStartAnyTime>
   <!-- EN: Can start after event -->
-  <RitualStartEvent>Có thể bắt đầu sau sự kiện</RitualStartEvent>
+  <RitualStartEvent>Có thể tổ chức sau sự kiện</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>Lấy nét đối tượng</RitualFocusObjects>
+  <RitualFocusObjects>Vật phẩm trung tâm</RitualFocusObjects>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>Các vai trò tham gia</RitualParticipatingRoles>
+  <RitualParticipatingRoles>Vai trò tham dự</RitualParticipatingRoles>
   <!-- EN: Organizers -->
-  <Organizers>Ban tổ chức</Organizers>
+  <Organizers>Người chủ trì</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>Yếu tố chất lượng</QualityFactors>
+  <QualityFactors>Yếu tố ảnh hưởng chất lượng</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>Điều kiện này có thể được đáp ứng, tùy thuộc vào cách mọi thứ diễn ra.\n\nNếu nó được đáp ứng, phần thưởng chất lượng sẽ được áp dụng.</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>Điều kiện này có thể đạt được tùy vào diễn biến thực tế.\n\nNếu đạt được, điểm thưởng chất lượng sẽ được cộng thêm.</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
-  <QualityFactorTooltipNotFulfilled>Điều kiện này không được đáp ứng.\n\nPhần thưởng chất lượng sẽ không được áp dụng.</QualityFactorTooltipNotFulfilled>
+  <QualityFactorTooltipNotFulfilled>Điều kiện này chưa được đáp ứng.\n\nĐiểm thưởng chất lượng sẽ không được áp dụng.</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
-  <Spectators>Khán giả</Spectators>
+  <Spectators>Người dự khán</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>Không tham gia</NotParticipating>
+  <NotParticipating>Không tham dự</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>Kéo và thả hoặc nhấp chuột trái/phải để di chuyển mọi người.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Kéo thả hoặc nhấp chuột trái/phải để sắp xếp người tham dự.</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
-  <DragPawnsToRolesInfoController>Kéo và thả hoặc nhấp chuột để di chuyển mọi người.</DragPawnsToRolesInfoController>
+  <DragPawnsToRolesInfoController>Kéo thả hoặc nhấn nút để sắp xếp người tham dự.</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>Nô lệ. Tài sản con người của người khác.</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>Một nô lệ. Tài sản sống thuộc quyền sở hữu của kẻ khác.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort} đang ngủ. Nếu được đưa vào nghi thức, {0_pronoun} sẽ thức dậy để tham gia.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} đang ngủ. Nếu được xếp vào nghi lễ, {0_pronoun} sẽ thức dậy để tham dự.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
-  <RitualBeginSleepingWarning>Một số người tham gia được chọn đang ngủ. Họ sẽ thức dậy khi bạn bắt đầu nghi lễ.</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>Một số người được chọn đang ngủ. Họ sẽ thức dậy ngay khi bạn bắt đầu nghi lễ.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
-  <RitualRoleRequiresSocialRole>Vị trí này được thực hiện tốt nhất bởi một cư dân nắm giữ vai trò xã hội của {0}.\n\nNếu ai đó không có vai trò này đảm nhiệm vị trí này, bạn sẽ không nhận được (các) phần thưởng sau</RitualRoleRequiresSocialRole>
+  <RitualRoleRequiresSocialRole>Vị trí này phù hợp nhất với cư dân đang giữ chức vụ {0}.\n\nNếu giao cho người không giữ chức vụ này, bạn sẽ mất các điểm thưởng sau:</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
-  <RitualRoleCantSubstitute>Không có sự thay thế nào cho vai trò của {0}.</RitualRoleCantSubstitute>
+  <RitualRoleCantSubstitute>Không có người thay thế cho vai trò {0}.</RitualRoleCantSubstitute>
   <!-- EN: {0} progress -->
-  <RitualOutcomeProgress>{0} tiến hành</RitualOutcomeProgress>
+  <RitualOutcomeProgress>Tiến độ {0}</RitualOutcomeProgress>
   <!-- EN: {0} quality depends on -->
-  <RitualOutcomeQualityAbstract>{0} chất lượng phụ thuộc vào</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualityAbstract>Chất lượng của {0} phụ thuộc vào</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>{0} tổng chất lượng là {1}, được xác định bởi các yếu tố này</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>Tổng chất lượng của {0} đạt {1}, được quyết định bởi các yếu tố sau</RitualOutcomeQualitySpecific>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>Thực hiện gần đây</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>Vừa mới tổ chức gần đây</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>{0} kỳ vọng</RitualQualityExpectations>
+  <RitualQualityExpectations>Kỳ vọng {0}</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>Âm thanh xung quanh nghi lễ</RitualAmbienceSound>
+  <RitualAmbienceSound>Âm thanh nền nghi lễ</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
-  <RitualQualityLowWarning>Tổng {0} chất lượng thấp hơn {1}. Tiếp tục rất có thể sẽ tác động tiêu cực đến thuộc địa của bạn.\n\nBạn có chắc không?</RitualQualityLowWarning>
+  <RitualQualityLowWarning>Tổng chất lượng của {0} đang thấp hơn {1}. Nếu vẫn tiến hành, rất có thể sẽ gây tác động xấu đến thuộc địa.\n\nBạn có chắc muốn tiếp tục không?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
-  <AbilitySpeechDisabledNoSpot>Không có nơi thích hợp có thể tiếp cận để nói chuyện.</AbilitySpeechDisabledNoSpot>
+  <AbilitySpeechDisabledNoSpot>Không có vị trí phù hợp nào có thể tiếp cận để diễn thuyết.</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of {1}. -->
-  <AbilityDisabledNoCapacity>{0_labelShort} không có khả năng {1}.</AbilityDisabledNoCapacity>
+  <AbilityDisabledNoCapacity>{0_labelShort} mất khả năng {1}.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>Mọi người tham gia nghi lễ có {0} tâm trạng trong {1} ngày.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>Mọi người tham dự nghi lễ sẽ nhận {0} tâm trạng trong {1} ngày.</RitualOutcomeExtraDesc_Mood>
   <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
-  <RitualOutcomeNoQuality>Nghi thức này không có sự bù đắp về chất lượng, vì vậy kết quả tốt nhất luôn được mong đợi</RitualOutcomeNoQuality>
+  <RitualOutcomeNoQuality>Nghi lễ này không chịu ảnh hưởng bởi mức chất lượng, nên kết quả tốt nhất luôn được đảm bảo</RitualOutcomeNoQuality>
 
   <!-- EN: Begin -->
   <Begin>Bắt đầu</Begin>
@@ -1873,91 +1872,91 @@
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>Bắt đầu {0} cho {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>{0} (trong số {1})</QualityOutOf>
+  <QualityOutOf>{0} (trên {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0} là một nghi thức dành riêng cho ngày tháng. Bạn sẽ có thể bắt đầu nó trong {1}, trên {2}.</DateRitualNoObligation>
+  <DateRitualNoObligation>{0} là nghi lễ cố định theo ngày. Bạn sẽ có thể bắt đầu nghi lễ sau {1} nữa, vào ngày {2}.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>Thay bằng</PreceptReplaceWith>
+  <PreceptReplaceWith>Thay thế bằng</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>Chỗ ngồi nghi lễ của {IDEOS}</RitualSeatOf>
+  <RitualSeatOf>Ghế nghi lễ của {IDEOS}</RitualSeatOf>
   <!-- EN: Expected quality -->
   <ExpectedLordJobQuality>Chất lượng dự kiến</ExpectedLordJobQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>Chất lượng ban đầu</StartingQuality>
+  <StartingQuality>Chất lượng khởi điểm</StartingQuality>
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>{1} của {PAWN_labelShort}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>Phòng đẹp</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>Độ đẹp của phòng</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>Kỳ vọng của {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
-  <RitualOutcomeLovedOnePresentLabel>Món quà người thân yêu</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentLabel>Có mặt người thân yêu</RitualOutcomeLovedOnePresentLabel>
   <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
-  <RitualOutcomeLovedOnePresentTip>Bất kỳ người nào {PAWN_labelShort} coi họ là bạn hoặc hơn thế nữa.</RitualOutcomeLovedOnePresentTip>
+  <RitualOutcomeLovedOnePresentTip>Bất kỳ ai được {PAWN_labelShort} xem là bạn bè hoặc thân thiết hơn thế.</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>Bất kỳ trong số này</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>Bất kỳ điều kiện nào sau đây</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>Thay thế {PAWN_labelShort}</RitualRoleReplaces>
+  <RitualRoleReplaces>Thay thế cho {PAWN_labelShort}</RitualRoleReplaces>
 
-  <!-- EN: present -->
+<!-- EN: present -->
   <Present>có mặt</Present>
   <!-- EN: {0} used -->
-  <Used>{0} đã sử dụng</Used>
+  <Used>{0} đã dùng</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>{0} chất lượng ban đầu</StartingRitualQuality>
+  <StartingRitualQuality>{0} chất lượng khởi điểm</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>chất lượng lên đến {0}</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>tối đa {0} chất lượng</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
   <OutcomeBonusDesc_QualitySingleOffset>{0} chất lượng</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{RITUALLABEL} {OUTCOMELABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>Tối đa {0}</MaxValue>
+  <MaxValue>tối đa {0}</MaxValue>
 
   <!-- EN: {0} of -->
-  <ThingOf>{0} trong tổng số</ThingOf>
+  <ThingOf>{0} đơn vị</ThingOf>
   <!-- EN: {0} of {1} -->
-  <ThingOfSource>{0} trong {1}</ThingOfSource>
+  <ThingOfSource>{0} {1}</ThingOfSource>
   <!-- EN: {0} of {1} and {2} -->
-  <ThingOfTwoSources>{0} trong {1} và {2}</ThingOfTwoSources>
+  <ThingOfTwoSources>{0} ({1} và {2})</ThingOfTwoSources>
 
   <!-- Gas types -->
   <!-- EN: blind smoke -->
-  <BlindSmoke>khói mù mịt</BlindSmoke>
+  <BlindSmoke>khói mù</BlindSmoke>
   <!-- EN: tox gas -->
   <ToxGas>khí độc</ToxGas>
   <!-- EN: rot stink -->
-  <RotStink>thối</RotStink>
+  <RotStink>khí xác thối</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>bụi deadlife</DeadlifeDust> 
+  <DeadlifeDust>bụi tử linh</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>phải được gọi nhập ngũ.</AbilityDisabledUndrafted>
+  <AbilityDisabledUndrafted>phải được triệu tập.</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>khả năng đang hồi. Sẽ sẵn sàng sau {0}.</AbilityOnCooldown>
+  <AbilityOnCooldown>năng lực đang hồi chiêu. Sẽ sẵn sàng sau {0}.</AbilityOnCooldown>
   <!-- EN: ability out of charges. -->
-  <AbilityNoCharges>khả năng hết số lần sử dụng.</AbilityNoCharges>
+  <AbilityNoCharges>năng lực đã hết lượt dùng.</AbilityNoCharges>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>khả năng đã được xếp hàng.</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>năng lực đã nằm trong hàng đợi.</AbilityAlreadyQueued>
   <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
-  <AbilityReadyLabel>Khả năng sẵn sàng cho {PAWN_nameDef}: {0}</AbilityReadyLabel>
+  <AbilityReadyLabel>{PAWN_nameDef} đã sẵn sàng dùng năng lực: {0}</AbilityReadyLabel>
   <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
-  <AbilitiesReadyLabel>Khả năng sẵn sàng cho {PAWN_nameDef}: {0}</AbilitiesReadyLabel>
+  <AbilitiesReadyLabel>{PAWN_nameDef} đã sẵn sàng dùng các năng lực: {0}</AbilitiesReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>{0_nameDef} đã sẵn sàng sử dụng {1}.</AbilityReadyText>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <AbilityDisabledInRitual>{0_labelShort} đang tham gia {1}.</AbilityDisabledInRitual>
+  <AbilityDisabledInRitual>{0_labelShort} đang tham dự {1}.</AbilityDisabledInRitual>
   <!-- EN: Charges -->
-  <Charges>Số lần dùng</Charges>
+  <Charges>Số lượt dùng</Charges>
 
   <!-- EN: {0_nameDef} is in a mental state. -->
-  <PawnIsInMentalState>{0_nameDef} đang ở trong trạng thái tinh thần.</PawnIsInMentalState>
+  <PawnIsInMentalState>{0_nameDef} đang mất kiểm soát.</PawnIsInMentalState>
   <!-- EN: {0_nameDef} is in an aggressive mental state. -->
-  <PawnIsInAggroMentalState>{0_nameDef} đang ở trong trạng thái tinh thần hung hăng.</PawnIsInAggroMentalState>
+  <PawnIsInAggroMentalState>{0_nameDef} đang phát cuồng.</PawnIsInAggroMentalState>
 
   <!-- EN: Disabled work -->
   <DisabledWorkLabel>Công việc bị vô hiệu hóa</DisabledWorkLabel>
@@ -1970,14 +1969,14 @@
   <!-- EN: Change the color of the light. -->
   <GlowerChangeColorDescription>Thay đổi màu sắc của ánh sáng.</GlowerChangeColorDescription>
   <!-- EN: You must research {0} to change light color. -->
-  <GlowerChangeColorNeedsResearch>Bạn phải nghiên cứu {0} để thay đổi màu sáng.</GlowerChangeColorNeedsResearch>
+  <GlowerChangeColorNeedsResearch>Bạn phải nghiên cứu {0} để đổi màu ánh sáng.</GlowerChangeColorNeedsResearch>
 
   <!-- Shields -->
   <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
-  <ShieldPersonalTip>Một lá chắn cá nhân sẽ cố gắng ngăn chặn các đường đạn hoặc mảnh đạn đang bay tới. Nó ngăn người đeo bắn ra ngoài và tắt ngay lập tức nếu bị trúng EMP.</ShieldPersonalTip>
+  <ShieldPersonalTip>Lá chắn cá nhân có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người mặc bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ShieldPersonalTip>
 
   <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
-  <UnrecruitableDesc>{PAWN_nameDef} trung thành với quê hương của mình đến mức {PAWN_pronoun} sẽ từ chối tuyển mộ nếu bị bắt làm tù binh.</UnrecruitableDesc>
+  <UnrecruitableDesc>{PAWN_nameDef} trung thành tuyệt đối với quê hương đến mức {PAWN_pronoun} sẽ từ chối chiêu mộ nếu bị bắt làm tù binh.</UnrecruitableDesc>
 
   <!-- EN: Random -->
   <Random>Ngẫu nhiên</Random>
@@ -1985,18 +1984,18 @@
   <!-- EN: Plant {0_label} -->
   <PlantThing>Trồng {0_label}</PlantThing>
   <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>Trồng {0_label} trong một khu vực đã chọn.</PlantThingDesc>
+  <PlantThingDesc>Trồng {0_label} tại khu vực được chỉ định.</PlantThingDesc>
   <!-- EN: Cancel planting {0_label} -->
   <CancelPlantThing>Hủy trồng {0_label}</CancelPlantThing>
   <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>Hủy trồng {0_label}.</CancelPlantThingDesc>
+  <CancelPlantThingDesc>Hủy lệnh trồng {0_label}.</CancelPlantThingDesc>
 
   <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>một cuộc tụ họp khác đang diễn ra.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechDisabledAnotherGatheringInProgress>một buổi tụ họp khác đang diễn ra.</AbilitySpeechDisabledAnotherGatheringInProgress>
   <!-- EN: Next speech ready in -->
   <AbilitySpeechCooldown>Bài phát biểu tiếp theo sẵn sàng sau</AbilitySpeechCooldown>
   <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>Bắt đầu lúc</AbilitySpeechTargetsLabel>
+  <AbilitySpeechTargetsLabel>Tổ chức tại</AbilitySpeechTargetsLabel>
   
   <!-- Books -->
 
@@ -2005,102 +2004,101 @@
   <!-- EN: Dangers -->
   <Dangers>Nguy hiểm</Dangers>
   <!-- EN: already unlocked -->
-  <AlreadyUnlocked>Đã mở khóa</AlreadyUnlocked>
+  <AlreadyUnlocked>đã mở khóa</AlreadyUnlocked>
   <!-- EN: when discovered -->
-  <WhenDiscovered>Khi được phát hiện</WhenDiscovered>
+  <WhenDiscovered>khi khám phá</WhenDiscovered>
   
   <!-- EN: Was driven into a mental break after reading {0}. -->
-  <BookMentalBreakMessage>Đã bị đẩy vào cơn suy sụp tinh thần sau khi đọc {0}.</BookMentalBreakMessage>
+  <BookMentalBreakMessage>Đã rơi vào trạng thái suy sụp tinh thần sau khi đọc {0}.</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
-  <BookReadProgress>{0} đã hoàn thành (hoàn tất trong {1} giờ)</BookReadProgress>
+  <BookReadProgress>Đã đọc {0} (hoàn tất sau {1} giờ)</BookReadProgress>
   
   <!-- EN: learning speed -->
-  <BookLearningModifier>Tốc độ học tập</BookLearningModifier>
+  <BookLearningModifier>tốc độ học tập</BookLearningModifier>
   <!-- EN: Mental break chance -->
-  <BookMentalBreak>Cơ hội suy sụp tinh thần</BookMentalBreak>
+  <BookMentalBreak>Tỉ lệ suy sụp tinh thần</BookMentalBreak>
   
   <!-- EN: {BOOK_labelShort} is not readable -->
   <BookNotReadable>{BOOK_labelShort} không thể đọc được</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
-  <BookCantRead>{PAWN_nameDef} không thể đọc</BookCantRead>
+  <BookCantRead>{PAWN_nameDef} không biết đọc</BookCantRead>
   <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
   <BookCantBeStage>{PAWN_nameDef} phải là {STAGES}</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
   <BookBlind>{PAWN_nameDef} bị mù</BookBlind>
   
   <!-- EN: max level {0} -->
-  <BookMaxLevel>Cấp độ tối đa {0}</BookMaxLevel>
+  <BookMaxLevel>cấp tối đa {0}</BookMaxLevel>
   
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
-  <ReadingReportHeader>Đang đọc {0}: {1} đã hoàn thành (hoàn tất trong {2} giờ)</ReadingReportHeader>
+  <ReadingReportHeader>Đang đọc {0}: đã xong {1} (hoàn tất sau {2} giờ)</ReadingReportHeader>
   
   <!-- EN: Assign reading -->
-  <ReadingDialogTitle>Gán việc đọc</ReadingDialogTitle>
+  <ReadingDialogTitle>Chỉ định đọc sách</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
-  <ReadingAssignTo>Gán cho {0}</ReadingAssignTo>
+  <ReadingAssignTo>Giao cho {0}</ReadingAssignTo>
   <!-- EN: Assign -->
-  <ReadingAssign>Gán</ReadingAssign>
+  <ReadingAssign>Chỉ định</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
-  <ContainedBooksDesc>Các cuốn sách hiện có trên kệ sách này.</ContainedBooksDesc>
+  <ContainedBooksDesc>Những cuốn sách hiện đang đặt trên kệ này.</ContainedBooksDesc>
   
   <!-- EN: Books stored -->
-  <BookshelfStoredInspect>Các cuốn sách được lưu trữ</BookshelfStoredInspect>
+  <BookshelfStoredInspect>Sách đang lưu trữ</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
-  <BookshelfReadingBonusInspect>Phần thưởng đọc sách trong phòng</BookshelfReadingBonusInspect>
+  <BookshelfReadingBonusInspect>Hiệu quả đọc sách của phòng</BookshelfReadingBonusInspect>
 
   <!-- EN: Remove this book from the bookshelf. -->
-  <EjectBookTooltip>Gỡ bỏ cuốn sách này khỏi kệ sách.</EjectBookTooltip>
+  <EjectBookTooltip>Lấy cuốn sách này khỏi kệ.</EjectBookTooltip>
   
   <!-- Pushing -->
   <!-- EN: Push to... -->
-  <CommandPushTo>Đẩy đến...</CommandPushTo>
+  <CommandPushTo>Đẩy tới...</CommandPushTo>
   <!-- EN: requires {0} -->
-  <RequiredCapacity>Yêu cầu {0}</RequiredCapacity>
+  <RequiredCapacity>yêu cầu {0}</RequiredCapacity>
 
   <!-- Pocket Maps -->
   <!-- EN: Unable to enter {0}, destination is blocked -->
-  <UnableToEnterPortal>Không thể vào {0}, điểm đến bị chặn</UnableToEnterPortal>
+  <UnableToEnterPortal>Không thể tiến vào {0}, lối đến đã bị chặn</UnableToEnterPortal>
 
   <!-- EN: This category of research has not been discovered. -->
-  <ResearchNotDiscovered>Danh mục nghiên cứu này chưa được phát hiện.</ResearchNotDiscovered>
+  <ResearchNotDiscovered>Nhánh nghiên cứu này chưa được khám phá.</ResearchNotDiscovered>
 
   <!-- EN: Emergence -->
-  <Emergence>Sự xuất hiện</Emergence>
+  <Emergence>Xuất hiện</Emergence>
   
   <!-- EN: remove {0} -->
-  <RemovePart>Gỡ bỏ {0}</RemovePart>
+  <RemovePart>gỡ bỏ {0}</RemovePart>
 
   <!-- EN: {GERUND} {TARGETLABEL} at -->
   <DoWorkAtThing>{GERUND} {TARGETLABEL} tại</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
-  <CanBeStudiedInDuration>Có thể được nghiên cứu trong {0}</CanBeStudiedInDuration>
+  <CanBeStudiedInDuration>có thể nghiên cứu sau {0}</CanBeStudiedInDuration>
   
   <!-- EN: About to explode -->
-  <AboutToExplode>Sắp nổ</AboutToExplode>
+  <AboutToExplode>Sắp phát nổ</AboutToExplode>
   <!-- EN: No fuel to eject -->
   <RefuelableNoFuelToEject>Không có nhiên liệu để xả</RefuelableNoFuelToEject>
   
   <!-- EN: New Anomaly expansion available now! -->
-  <MainScreen_AnomalyAvailableNow>Mở rộng Anomaly mới hiện có!</MainScreen_AnomalyAvailableNow>
+  <MainScreen_AnomalyAvailableNow>Bản mở rộng Anomaly mới đã ra mắt!</MainScreen_AnomalyAvailableNow>
 
   <!-- EN: Disabled by scenario -->
   <DisabledByScenario>Bị vô hiệu hóa bởi kịch bản</DisabledByScenario>
 
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>bị chặn bởi mái nhà</BlockedByRoof>
+  <BlockedByRoof>bị chặn bởi mái che</BlockedByRoof>
   <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
-  <BlockedByTerrain>Bị chặn bởi địa hình (cần địa hình hỗ trợ {0_label})</BlockedByTerrain>
+  <BlockedByTerrain>Bị chặn bởi địa hình (cần nền địa hình hỗ trợ {0_label})</BlockedByTerrain>
 
   <!-- Craters -->
   <!-- EN: Fill in -->
-  <DesignatorFillIn>Lấp kín</DesignatorFillIn>
+  <DesignatorFillIn>San lấp</DesignatorFillIn>
   <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
-  <DesignatorFillInDesc>Lấp kín hố này.</DesignatorFillInDesc>
-
+  <DesignatorFillInDesc>Chỉ định san lấp hố sụt này. Một cư dân được phân công xây dựng sẽ tiến hành lấp hố.</DesignatorFillInDesc>
   <!-- Hacking -->
   <!-- EN: Hack progress -->
-  <HackProgress>Tiến trình hack</HackProgress>
+  <HackProgress>Tiến độ hack</HackProgress>
   <!-- EN: hacking speed -->
   <HackingSpeed>tốc độ hack</HackingSpeed>
   <!-- EN: {0}'s -->
@@ -2108,25 +2106,25 @@
   <!-- EN: hacked -->
   <Hacked>đã hack</Hacked>
   <!-- EN: Terminals hacked -->
-  <TerminalsHacked>Số thiết bị đầu cuối đã hack</TerminalsHacked>
+  <TerminalsHacked>Thiết bị đầu cuối đã hack</TerminalsHacked>
   <!-- EN: Intellectual needed -->
   <IntellectualSkillPrerequisite>Cần kỹ năng Trí tuệ</IntellectualSkillPrerequisite>
   <!-- EN: Auto hack -->
   <AutoHack>Tự động hack</AutoHack>
   <!-- EN: When enabled, researchers will automatically hack this. -->
-  <AutoHackDesc>Khi bật, nhà nghiên cứu sẽ tự động hack thứ này.</AutoHackDesc>
+  <AutoHackDesc>Khi kích hoạt, các nhà nghiên cứu sẽ tự động hack thiết bị này.</AutoHackDesc>
 
   <!-- World -->
   <!-- EN: View {LAYER_label} -->
   <WorldSelectLayer>Xem {LAYER_label}</WorldSelectLayer>
   <!-- EN: Jump to location -->
-  <WorldJumpTo>Chuyển đến địa điểm</WorldJumpTo>
+  <WorldJumpTo>Chuyển tới địa điểm</WorldJumpTo>
   <!-- EN: Find a colony, caravan, or quest location on the world map. -->
-  <WorldJumpToDesc>Tìm thuộc địa, đoàn lữ hành hoặc địa điểm nhiệm vụ trên bản đồ thế giới.</WorldJumpToDesc>
+  <WorldJumpToDesc>Tìm thuộc địa, thương đoàn hoặc vị trí nhiệm vụ trên bản đồ thế giới.</WorldJumpToDesc>
   <!-- EN: Nothing to jump to. -->
   <NothingToJumpTo>Không có địa điểm nào để chuyển tới.</NothingToJumpTo>
   <!-- EN: cannot function in {0} -->
-  <CannotFunctionOnLayer>không thể hoạt động ở {0}</CannotFunctionOnLayer>
+  <CannotFunctionOnLayer>không thể hoạt động tại {0}</CannotFunctionOnLayer>
   <!-- EN: New settlement -->
   <NewSettlement>Khu định cư mới</NewSettlement>
   <!-- EN: Settled -->
@@ -2136,23 +2134,23 @@
   <!-- EN: Cannot perform {GERUND} {LAYER} -->
   <CannotPerformPlanetLayer>Không thể thực hiện {GERUND} {LAYER}</CannotPerformPlanetLayer>
   <!-- EN: This will not affect you {GERUND} {LAYER}. -->
-  <ThisWillNotAffectLayer>Việc này sẽ không ảnh hưởng đến bạn {GERUND} {LAYER}.</ThisWillNotAffectLayer>
+  <ThisWillNotAffectLayer>Điều này sẽ không ảnh hưởng khi bạn {GERUND} {LAYER}.</ThisWillNotAffectLayer>
 
   <!-- Pocket maps -->
   <!-- EN: Enter {0} -->
-  <EnterPortal>Vào {0}</EnterPortal>
+  <EnterPortal>Tiến vào {0}</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>Đang vào {0}</EnteringPortal>
+  <EnteringPortal>Đang tiến vào {0}</EnteringPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>Chọn người và vật phẩm để vào {0}.</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>Chọn người và vật phẩm để tiến vào {0}.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>Hủy vào</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>Hủy tiến vào</CommandCancelEnterPortal>
   <!-- EN: Cancel exiting -->
-  <CommandCancelExitPortal>Hủy thoát ra</CommandCancelExitPortal>
+  <CommandCancelExitPortal>Hủy rời khỏi</CommandCancelExitPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>Hủy chất người hoặc vật phẩm vào đây.</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>Hủy đưa người hoặc vật phẩm vào đây.</CommandCancelEnterPortalDesc>
   <!-- EN: Exit {0} -->
-  <ExitPortal>Rời {0}</ExitPortal>
+  <ExitPortal>Rời khỏi {0}</ExitPortal>
 
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
@@ -2162,11 +2160,11 @@
   <!-- EN: Shield duration -->
   <ShieldDuration>Thời lượng lá chắn</ShieldDuration>
   <!-- EN: On cooldown -->
-  <ShieldOnCooldown>Đang hồi</ShieldOnCooldown>
+  <ShieldOnCooldown>Đang hồi phục</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
   <ShieldBelowMinHitpoints>Dưới mức năng lượng tối thiểu</ShieldBelowMinHitpoints>
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>Một máy chiếu có tấm chắn phía trước sẽ cố gắng ngăn chặn các viên đạn hoặc mảnh đạn tới từ phía trước. Nó sẽ tắt ngay lập tức nếu bị tấn công bởi một EMP.</ProjectileInterceptorTip>
+  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ProjectileInterceptorTip>Lá chắn năng lượng chiếu góc thấp có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người trang bị bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ProjectileInterceptorTip>
 
   <!-- EN: max {0} -->
   <MaxOf>tối đa {0}</MaxOf>
@@ -2176,15 +2174,15 @@
 
   <!-- Scanner -->
   <!-- EN: Blocked by roof -->
-  <CannotUseScannerRoofed>Bị chặn bởi mái</CannotUseScannerRoofed>
+  <CannotUseScannerRoofed>Bị chặn bởi mái che</CannotUseScannerRoofed>
   <!-- EN: Biome does not contain drillable resources -->
-  <CannotUseScannerNoBedrock>Quần xã không có tài nguyên có thể khoan</CannotUseScannerNoBedrock>
+  <CannotUseScannerNoBedrock>Quần xã này không có tài nguyên có thể khoan</CannotUseScannerNoBedrock>
   
   <!-- Quests -->
   <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
-  <CannotAcceptQuestFromLayer>Không thể nhận nhiệm vụ này {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
+  <CannotAcceptQuestFromLayer>Không thể nhận nhiệm vụ này khi đang {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
   <!-- EN: Cannot accept this quest without a permanent colony. -->
-  <CannotAcceptQuestNoMap>Không thể nhận nhiệm vụ này nếu không có thuộc địa cố định.</CannotAcceptQuestNoMap>
+  <CannotAcceptQuestNoMap>Không thể nhận nhiệm vụ này khi chưa có thuộc địa cố định.</CannotAcceptQuestNoMap>
 
   <!-- EN: {0} of {1} -->
   <GuildTradeShipName>{0} của {1}</GuildTradeShipName>
