@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- WITab titles -->
+<!-- WITab titles -->
   <!-- EN: Terrain -->
   <TabTerrain>Địa hình</TabTerrain>
   <!-- EN: Planet -->
@@ -21,56 +20,55 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Bỏ {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>Vứt bỏ {{0}}x {0}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Bạn có chắc muốn bỏ đi {0}?\n\nVật phẩm bỏ đi sẽ biến mất vĩnh viễn.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Bạn có chắc muốn vứt bỏ {0} không?\n\nVật phẩm đã vứt bỏ sẽ biến mất vĩnh viễn và không thể thu hồi lại.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>Bỏ đi</AbandonTip>
+  <AbandonTip>Vứt bỏ</AbandonTip>
   <!-- EN: Banish -->
   <BanishTip>Trục xuất</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Bỏ đi số lượng cụ thể</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Vứt bỏ số lượng cụ thể</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Bỏ đi (tất cả)</AbandonAllTip>
+  <AbandonAllTip>Vứt bỏ (tất cả)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Vật phẩm bỏ đi sẽ biến mất vĩnh viễn.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Vật phẩm đã vứt bỏ sẽ biến mất vĩnh viễn và không thể thu hồi lại.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{1_labelShort} có thể sẽ chết.</BanishTipWillDie>
+  <BanishTipWillDie>{1_labelShort} nhiều khả năng sẽ bỏ mạng.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
   <CaravanColonists>Cư dân</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Tù nhân và động vật</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>Tù nhân và vật nuôi</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Vật phẩm</CaravanItems>
+  <CaravanItems>Hành trang</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Nhấn để mở tab chi tiết.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Nhấp để mở thẻ xem chi tiết.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Tù nhân</CaravanPrisoners>
   <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>Vật phẩm có thể trang bị</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>Không ai có khả năng</NoneCapable>
+  <NoneCapable>Không ai đủ khả năng</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Đoàn lữ hành không di chuyển</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Đoàn lữ hành đang dừng chân</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Kéo thả để sắp xếp lại</DragToRearrange>
+  <DragToRearrange>Kéo thả để sắp xếp lại.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>Chỉ định chính sách dùng chất kích thích</AssignDrugPolicies>
+  <AssignDrugPolicies>Chính sách dùng chất kích thích</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Người hoặc con vật này có nên được các thành viên khác trong đoàn khiêng vác khi bị bệnh không?\n\nThành viên được khiêng vác có thể nghỉ ngơi ngay cả khi đoàn đang di chuyển, nhưng sẽ làm đoàn chậm lại.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Cho phép các thành viên khác cõng người hoặc vật nuôi này khi bị bệnh hay không.\n\nThành viên được cõng vẫn có thể nghỉ ngơi ngay cả khi đoàn đang di chuyển, nhưng sẽ làm chậm tốc độ cả đoàn.</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->
   <PlanetSeed>Seed</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Mức độ bao phủ</PlanetCoverageShort>
-
+  <PlanetCoverageShort>Độ bao phủ</PlanetCoverageShort>
 </LanguageData>
