@@ -203,7 +203,7 @@
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Không thể di chuyển: quá tải.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Hết lương thực</CaravanOutOfFood>
+  <CaravanOutOfFood>Hết lương thực.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Lương thực trụ được: {0} ngày</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
@@ -283,7 +283,7 @@
   <!-- EN: Beauty here -->
   <BeautyHere>Mỹ quan tại đây</BeautyHere>
   <!-- EN: no power -->
-  <NoPower>Mất điện</NoPower>
+  <NoPower>không có điện</NoPower>
   <!-- EN: not in {0} -->
   <NotInRoomRole>không ở trong {0}</NotInRoomRole>
   <!-- EN: Work speed -->
@@ -540,7 +540,7 @@
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
   <NaturalGoodwillDescription>Thiện chí tự nhiên dựa trên bản sắc và niềm tin của phe phái. Nếu thiện chí hiện tại chênh lệch quá nhiều so với thiện chí tự nhiên, nó sẽ từ từ dịch chuyển về mức thiện chí tự nhiên theo thời gian.\n\nMọi tác động làm thay đổi thiện chí đều được nhân với {0} trong quá trình dịch chuyển về mức thiện chí tự nhiên.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>giảm sự phản kháng của {0_nameIndef}</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>giảm độ phản kháng của {0_nameIndef}</JobReport_ReduceResistance>
   <!-- EN: Too large -->
   <TooLargeForBed>Quá lớn</TooLargeForBed>
   <!-- EN: Warning -->
@@ -592,7 +592,7 @@
   <!-- EN: person -->
   <Person>người</Person>
   <!-- EN: activated. -->
-  <Activated>Đã kích hoạt.</Activated> 
+  <Activated>đã kích hoạt.</Activated> 
   <!-- EN: Contains -->
   <Contains>Chứa</Contains>
   <!-- EN: Hostiles -->
@@ -707,7 +707,7 @@
   <!-- EN: Immune -->
   <TextMote_Immune>Miễn dịch</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>Sơ cứu {0}</TextMote_Tended>
+  <TextMote_Tended>Đã chữa trị {0}</TextMote_Tended>
   <!-- EN: level {0} -->
   <TextMote_SkillUp>Lên cấp {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
@@ -833,9 +833,9 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Không thể ra lệnh cho nhân vật bạn không điều khiển.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} từ chối dùng bạo lực.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} không có khả năng bạo lực..</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>từ chối bạo lực</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>Không có khả năng bạo lực.c</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} chưa được triệu tập.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
@@ -939,9 +939,9 @@
   <!-- EN: inside {0_labelShort}. -->
   <InContainer>nằm trong {0_labelShort}.</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>đã ngã gục, không thể bò.</DownedCannotCrawl> 
+  <DownedCannotCrawl>đã gục ngã, không thể bò.</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>đã ngã gục, bất tỉnh.</DownedUnconscious>
+  <DownedUnconscious>đã gục ngã, bất tỉnh.</DownedUnconscious>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -1529,7 +1529,7 @@
   <!-- EN: forbidden for {1_labelShort} -->
   <MarriageSpotForbidden>bị cấm đối với {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>đã có người đặt trước</MarriageSpotReserved>
+  <MarriageSpotReserved>đã bị chiếm dụng</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
   <MarriageSpotUnreachable>{1_labelShort} không thể tiếp cận</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
