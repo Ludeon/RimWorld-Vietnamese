@@ -24,7 +24,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 ## 2. Quy tắc kỹ thuật XML & Ngữ pháp tiếng Việt
 
 1. **Bảo toàn thẻ và biến hệ thống:**
-   - Tuyệt đối không dịch, không xóa hoặc đổi tên các biến trong ngoặc nhọn (`{0}`, `{PAWN_labelShort}`, `{FACTION_name}`, `{GERUND}`, `{LAYER}`...), biến ngoặc vuông (`[PAWN_pronoun]`), các thẻ định dạng (`(*SectionTitle)...(/SectionTitle)`, `(*Name)...(/Name)`) và ký tự xuống dòng (`\n\n`).
+   - Tuyệt đối không dịch, không xóa hoặc đổi tên các biến trong ngoặc nhọn (`{0}`, `{PAWN_labelShort}`, `{FACTION_name}`, `{GERUND}`, `{LAYER}`...), biến ngoặc vuông (`[PAWN_pronoun]`), các thẻ định dạng (`(*SectionTitle)...(/SectionTitle)`, `(*Name)...(/Name)`) và ký tự xuống dòng (`\n`, `\n\n`). Tuyệt đối không tự ý thêm biến lạ không có trong câu gốc tiếng Anh.
 
 2. **Xử lý biến sở hữu (`{0_possessive}`, `{PAWN_possessive}`):**
    - Đặt biến sở hữu **ngay sau danh từ**, **KHÔNG** thêm chữ _"của"_ phía trước vì bộ ngữ pháp của game sẽ tự động chèn _"của \[Tên\]"_.
@@ -53,8 +53,9 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Visitor**          | khách ghé thăm            |                                                 |
 | **Warden**           | quản ngục                 | Công việc cai quản / chiêu mộ tù nhân           |
 | **Handler**          | dân chăn nuôi             | Công việc thuần hóa / lùa gia súc               |
-| **Faction**          | phe / phe phái            | Dùng _phe_ trong hội thoại, _phe phái_ trên UI  |
+| **Faction**          | phe / phe phái            | Dùng _phe_ trong hội thoại, _phe phái_ trên UI (không dịch _bè phái_) |
 | **Faction leader**   | thủ lĩnh                  |                                                 |
+| **Bestower**         | sứ giả ban tước           | Sứ giả Đế chế tổ chức lễ phong tước             |
 | **Settlement**       | khu định cư               | Căn cứ cố định của các phe trên bản đồ thế giới |
 | **Colony**           | thuộc địa / căn cứ        | _Thuộc địa_ (chính thức), _căn cứ_ (văn nói)    |
 | **Outpost**          | tiền đồn                  |                                                 |
@@ -85,7 +86,8 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Nutrient paste dispenser** | máy đùn cám heo                | Giữ đúng chất hài hước đặc trưng của game |
 | **Hopper**                   | phễu nạp                       |                                           |
 | **Battery**                  | ắc quy                         | Thiết bị trữ điện căn cứ (không dịch _pin_) |
-| **Turret**                   | ụ súng / ụ súng phòng thủ      |                                           |
+| **Turret**                   | trụ súng / ụ súng              | Dùng _trụ súng_ trên UI                   |
+| **Throneroom**               | phòng ngai vàng                |                                           |
 | **Animal pen**               | chuồng / chuồng gia súc        |                                           |
 | **Pen marker**               | cọc đánh dấu chuồng            |                                           |
 | **Hitching spot**            | cọc buộc gia súc / cọc gia súc |                                           |
@@ -99,7 +101,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Blight**                   | bệnh cháy lá                   |                                           |
 | **Wort**                     | hèm bia                        | Nguyên liệu ủ bia                         |
 
-### D. Trạng thái, Tâm linh & Công nghệ cao
+### D. Trạng thái, Tâm linh, Nghiên cứu & Công nghệ cao
 
 | Tiếng Anh (EN)              | Tiếng Việt chuẩn (VI)                     | Ghi chú ngữ cảnh                              |
 | --------------------------- | ----------------------------------------- | --------------------------------------------- |
@@ -108,6 +110,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Incapacitated**           | mất khả năng hành động                    |                                               |
 | **Downed**                  | gục ngã                                   |                                               |
 | **Pain shock**              | sốc vì đau                                |                                               |
+| **Sterile / Sterilize**     | vô sinh / thiến                       | Không dịch *sterile* là *vô tính*             |
 | **Psylink**                 | liên kết tâm linh                         |                                               |
 | **Psycast / Psychic power** | năng lực tâm linh                         |                                               |
 | **Psyfocus**                | tinh thần lực                             |                                               |
@@ -119,13 +122,18 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Skill neurotrainer**      | ống cấy kỹ năng                           |                                               |
 | **Mechanoid**               | robot sát thủ Mechanoid / robot Mechanoid | Giữ lại tên riêng _Mechanoid_ để dễ nhận diện |
 | **Techprint**               | bản thiết kế công nghệ                    |                                               |
+| **Research project**        | đề tài nghiên cứu                         | Dùng _đề tài_ thay cho _dự án_               |
+| **Study**                   | khảo sát                                  | Nghiên cứu thực thể/cổ vật (không dịch _học tập_) |
 
 ## 4. Các lỗi dịch thô cần tránh (Do's & Don'ts)
 
-- **Chance -> `tỉ lệ`** (Không dịch là _cơ hội_ trong các thông số xác suất: _tỉ lệ bắn trúng_, _tỉ lệ suy sụp_).
+- **Chance -> `tỉ lệ`** (Không dịch là _cơ hội_ hay _xác suất_ trong các thông số UI: _tỉ lệ bắn trúng_, _tỉ lệ suy sụp_).
 - **Incident -> `sự kiện`** (Không dịch là _sự cố_ trong phần thiết lập kịch bản).
 - **Hit points -> `độ bền`** (Không dịch là _điểm máu_ đối với vật thể/công trình).
 - **Work type -> `công việc`** (Không dịch là _loại hình lao động_).
+- **Colony wealth -> `tài sản thuộc địa`** (Không dịch là _độ giàu_ hay _của cải_).
+- **Offer -> `lời đề nghị`** (Trong nhiệm vụ/giao thương, không dịch là _ưu đãi_).
+- **Click / Jump to -> `nhấp / chuyển tới`** (Thống nhất trên mọi hướng dẫn UI, không dùng _click_ hay _nhảy tới_).
 - **Recruit -> `chiêu mộ`** (Không dịch là _tuyển dụng_).
 - **Capture -> `bắt giữ`** (Không dịch máy móc là _nắm bắt_ hay _bắt buộc_).
 - **A child of {AGE} -> `một đứa trẻ {AGE} tuổi`** (Không dịch nhầm thành _con của {AGE}_).
