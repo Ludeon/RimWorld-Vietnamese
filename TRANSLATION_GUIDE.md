@@ -90,7 +90,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 
 | Tiếng Anh (EN)               | Tiếng Việt chuẩn (VI)          | Ghi chú ngữ cảnh                          |
 | ---------------------------- | ------------------------------ | ----------------------------------------- |
-| **Bill**                     | đơn / đơn chế tạo              | Danh sách lệnh sản xuất trên bàn chế tạo  |
+| **Bill**                     | công việc / việc               | Danh sách lệnh làm việc trên bếp, bàn chế tạo, lò... |
 | **Nutrient paste dispenser** | máy đùn cám heo                | Giữ đúng chất hài hước đặc trưng của game |
 | **Hopper**                   | phễu nạp                       |                                           |
 | **Battery**                  | ắc quy                         | Thiết bị trữ điện căn cứ (không dịch _pin_) |
@@ -140,7 +140,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 - **Trait -> `tính cách`** (Không dịch là _đặc điểm_).
 - **Drug policy -> `chính sách thuốc`** (Không dịch là _chính sách dược phẩm_).
 - **Hive -> `tổ`** (Không dịch dài dòng thành _tổ côn trùng_).
-- **Bill -> `đơn chế tạo`** (Không dịch trùng với _công việc_ của Work).
+- **Bill -> `công việc / việc`** (Bao quát cả bếp nấu, bàn rèn, lò hỏa táng; không dịch là _hóa đơn_ hay _đơn chế tạo_).
 - **Chance -> `tỉ lệ`** (Không dịch là _cơ hội_ hay _xác suất_ trong các thông số UI: _tỉ lệ bắn trúng_, _tỉ lệ suy sụp_).
 - **Incident -> `sự kiện`** (Không dịch là _sự cố_ trong phần thiết lập kịch bản).
 - **Hit points -> `độ bền`** (Không dịch là _điểm máu_ đối với vật thể/công trình).
