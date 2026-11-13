@@ -1,171 +1,171 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} bị điên</LetterLabelAnimalInsanitySingle>
+<!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} phát điên</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>Một {ANIMAL_label} gần đó đã phát điên. Nó sẽ tấn công tất cả mọi người mà nó nhìn thấy.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Một con {ANIMAL_label} quanh đây vừa phát điên. Nó sẽ lao vào cắn xé bất cứ ai lọt vào tầm mắt.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>{0} bị điên</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>{0} phát điên</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>Một số loại xung tâm linh đã quét qua khu vực này. Cư dân của bạn vẫn ổn, nhưng...\n\ncó vẻ như nhiều con {0} ở trong vùng đã bị điên.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Một luồng sóng tâm linh quái dị vừa quét qua vùng này. Cư dân của bạn vẫn bình an vô sự, nhưng...\n\nCó vẻ như hàng loạt {0} quanh đây đã bị kích động đến phát điên.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>Bệnh cháy lá: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>Bệnh cháy lá đã được phát hiện trên {PLANTDEF_labelPlural}!\nBạn nên cắt bỏ hoặc đốt những cây bị ảnh hưởng trước khi bệnh cháy lá lan rộng.</LetterCropBlight>
+  <LetterCropBlight>Phát hiện bệnh cháy lá trên {PLANTDEF_labelPlural}!\n\nHãy mau chóng chặt bỏ hoặc thiêu rụi số cây nhiễm bệnh trước khi dịch lây lan ra cả ruộng.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Phép màu</LetterLabelMiracleHeal>
   <!-- EN: {0} has experienced a miraculous recovery! -->
-  <MiracleHeal>{0} đã trải qua một sự phục hồi kỳ diệu!</MiracleHeal>
+  <MiracleHeal>{0} đã bình phục một cách kỳ diệu!</MiracleHeal>
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>Một trong {LEADER_factionPawnsPlural} - {LEADER_labelShort}, là người lãnh đạo phe phái.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Một tên trong đám {LEADER_factionPawnsPlural} - {LEADER_labelShort}, chính là thủ lĩnh của phe này.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>Một trong {LEADER_factionPawnsPlural} - {LEADER_labelShort}, là người lãnh đạo phe phái.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Một người trong nhóm {LEADER_factionPawnsPlural} - {LEADER_labelShort}, chính là thủ lĩnh của phe này.</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
-  <LetterLabelRefugeePodCrash>Kén vận chuyển bị rơi</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Khoang vận chuyển gặp nạn</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>{PAWN_titleIndef} có tên {PAWN_nameDef} đang gặp sự cố trong nhóm vận chuyển gần đó. Nếu {PAWN_pronoun} sống sót sau tác động, {PAWN_pronoun} sẽ bị thương nặng.</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} tên {PAWN_nameDef} đang lao xuống gần đây trong một khoang vận chuyển. Nếu sống sót sau cú va chạm, {PAWN_pronoun} sẽ bị thương rất nặng.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
-  <RefugeePodCrash_Child>{PAWN_nameDef} là con của {AGE}.</RefugeePodCrash_Child>
+  <RefugeePodCrash_Child>{PAWN_nameDef} mới chỉ là một đứa trẻ {AGE} tuổi.</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} không liên kết với bất kỳ phe phái nào. Bạn có thể giải cứu {PAWN_objective} và hy vọng {PAWN_pronoun} tham gia tự nguyện hoặc bắt buộc {PAWN_objective} cho mục đích chiêu hàng hoặc làm nô lệ.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} không thuộc phe phái nào cả. Bạn có thể cứu chữa và hy vọng {PAWN_pronoun} tự nguyện gia nhập, hoặc tống giam {PAWN_objective} để chiêu mộ hay bắt làm nô lệ.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Hostile>{PAWN_nameDef} là từ kẻ thù của bạn {PAWN_factionName}. Bạn có thể nắm bắt {PAWN_objective} cho mục đích chiêu hàng hoặc làm nô lệ.</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} là người của phe thù địch {PAWN_factionName}. Bạn có thể bắt giữ {PAWN_objective} để chiêu mộ hoặc ép làm nô lệ.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If {PAWN_pronoun} returns home safely, {PAWN_pronoun} will spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} là từ {PAWN_factionName}. Nếu bạn giải cứu {PAWN_objective}, {PAWN_pronoun} có thể tham gia tự nguyện. Mặt khác, {PAWN_pronoun} sẽ trở về nhà và lan truyền thiện chí giữa các phe phái của bạn.\n\nBạn cũng có thể bắt giữ {PAWN_objective} cho mục đích tuyển dụng hoặc làm nô lệ, nhưng điều này sẽ gây phẫn nộ cho phe {PAWN_possessive}.</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} đến từ phe {PAWN_factionName}. Nếu được cứu sống và trở về nhà an toàn, {PAWN_pronoun} sẽ giúp tăng thiện chí giữa hai phe.\n\nBạn cũng có thể bắt giữ {PAWN_objective} để chiêu mộ hoặc bắt làm nô lệ, nhưng làm trò này là phe {PAWN_possessive} sẽ nổi điên lên đấy.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <LetterLabelWandererJoins>Người định cư mới: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <LetterLabelWandererJoins>Lữ khách gia nhập: {PAWN_nameDef}</LetterLabelWandererJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
-  <LetterWandererJoins>Một {PAWN_title} có tên {PAWN_nameDef} đã đến và muốn tham gia thuộc địa.\n\n[PAWN_pronoun] sẵn sàng đóng góp, nhưng sẽ không tự nguyện rời đi vì cho rằng {PAWN_objective} không còn nơi nào khác để đến. Bạn có thể từ chối {PAWN_objective} và đuổi {PAWN_objective} đi. Tuy nhiên, các thực dân của bạn sẽ cảm thấy bất an khi xua đuổi một người đang cần giúp đỡ.</LetterWandererJoins>
+  <LetterWandererJoins>Một {PAWN_title} tên {PAWN_nameDef} vừa mò tới và xin gia nhập thuộc địa.\n\n[PAWN_pronoun] sẵn sàng chung tay góp sức và sẽ không tự ý bỏ đi, vì bảo rằng mình chẳng còn chốn nào khác để nương thân. Bạn có thể thẳng thừng từ chối và đuổi {PAWN_objective} đi, nhưng các cư dân của bạn sẽ thấy cắn rứt khi xua đuổi một kẻ đang gặp bước đường cùng.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>Thùng hàng bị rơi</LetterLabelCargoPodCrash>
+  <LetterLabelCargoPodCrash>Khoang hàng rơi</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>Bạn đã phát hiện thấy một cụm các thùng hàng bị rơi gần đó.\n\nCó lẽ bạn sẽ tìm thấy thứ gì đó hữu ích trong đống đổ nát.</CargoPodCrash>
+  <CargoPodCrash>Bạn vừa phát hiện một cụm khoang hàng rơi xuống gần đây.\n\nBiết đâu lại liếm được thứ gì đó ngon ăn trong đống đổ nát.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>đường dây dẫn điện</AnElectricalConduit>
+  <AnElectricalConduit>một đoạn dây dẫn điện</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>Một lỗi trong {0} đã gây ra đoản mạch.</ShortCircuit>
+  <ShortCircuit>Sự cố ở {0} đã gây ra chập điện.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
-  <ShortCircuitStartedFire>Một lỗi trong {0} đã gây ra đoản mạch bắt đầu gây hỏa hoạn.</ShortCircuitStartedFire>
+  <ShortCircuitStartedFire>Sự cố ở {0} đã gây ra chập điện và bùng phát hỏa hoạn.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>Tất cả {0} Wd năng lượng trong pin kết nối đã được xả trong một vụ nổ điện.</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>Toàn bộ {0} Wd điện tích trữ trong hệ thống ắc quy kết nối đã phóng sạch ra ngoài trong một vụ nổ điện.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>Lượng năng lượng lớn này đã tạo ra một vụ nổ có kích thước đáng kể.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>Lượng điện năng khổng lồ này đã tạo ra một vụ nổ ra trò đấy.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
-  <ShortCircuitWasHuge>Đó thực sự là một vụ nổ lớn. Ồ</ShortCircuitWasHuge>
+  <ShortCircuitWasHuge>Á đù, đúng là một vụ nổ kinh thiên động địa. </ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>Một tàu thương mại đang đi qua gần đó.\n\nHọ được gọi là {0}. Họ là một {1}.\n\n{2}</TraderArrival>
+  <TraderArrival>Một tàu buôn vũ trụ đang bay ngang qua gần đây.\n\nHọ có tên là {0}, thuộc loại {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>Họ thuộc về phe {FACTION_name}.</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>Họ trực thuộc phe {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>Họ không thuộc về bất kỳ phe phái nào.</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>Họ hoạt động độc lập, không thuộc phe phái nào.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>Một {PAWN_title} từ {1} đang đi qua. {PAWN_pronoun} được đặt tên {PAWN_nameFull}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Một {PAWN_title} từ {1} đang đi ngang qua. {PAWN_pronoun} tên là {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
-  <GroupTravelersPassing>Một nhóm du khách từ {0} đang đi ngang qua.</GroupTravelersPassing>
+  <GroupTravelersPassing>Một nhóm lữ khách từ {0} đang đi ngang qua.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
-  <LetterLabelSingleVisitorArrives>Khách tham quan</LetterLabelSingleVisitorArrives>
+  <LetterLabelSingleVisitorArrives>Khách ghé thăm</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{PAWN_titleIndef} từ {1} đang tiến vào thuộc địa.\n\n{PAWN_pronoun} được đặt tên {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} từ {1} đang ghé thăm thuộc địa.\n\n{PAWN_pronoun} tên là {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} dường như có một vài mặt hàng để giao dịch.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} có mang theo một ít hàng hóa để trao đổi.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} là người lãnh đạo phe phái.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} chính là thủ lĩnh của phe này.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
-  <LetterLabelGroupVisitorsArrive>Khách tham quan</LetterLabelGroupVisitorsArrive>
+  <LetterLabelGroupVisitorsArrive>Khách ghé thăm</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>Một nhóm từ {0} đang tiến vào thuộc địa. {1} {2}</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Một nhóm người từ {0} đang ghé thăm thuộc địa.{1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
-  <GroupVisitorsArriveTraderInfo>Họ dường như có một vài mặt hàng để giao dịch.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveTraderInfo>Họ có mang theo một ít hàng hóa để trao đổi.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>Một trong những khách tham quan - {1_labelShort}, là người lãnh đạo phe phái.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>Một trong số khách ghé thăm - {1_labelShort}, chính là thủ lĩnh của phe này.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
-  <VisitorsLeaving>Khách tham quan từ {0} đang rời đi.</VisitorsLeaving>
+  <VisitorsLeaving>Đoàn khách từ {0} đang rời đi.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Đàn thú săn người</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>Một bầy {0} đang săn người đã tiến vào khu vực! Bị phát điên bởi căn bệnh được gọi là khuẩn cuồng loạn, chúng sẽ lang thang khắp vùng, săn tìm thịt người. Chúng sẽ không tấn công cửa trừ khi nhìn thấy ai đó đi qua cửa. Hãy trốn bên trong và bạn sẽ được an toàn. Chúng cũng sẽ không tấn công các tháp pháo đã tắt, vì vậy hãy tắt tháp pháo để bảo vệ chúng. {0} sẽ rời khỏi khu vực sau một hoặc hai ngày. Bạn có thể ẩn nấp và chờ chúng rời đi, hoặc chiến đấu với chúng.</ManhunterPackArrived>
+  <ManhunterPackArrived>Một bầy {0} săn người vừa tràn vào khu vực! Bị kích động đến điên loạn bởi căn bệnh mang tên scaria, chúng sẽ lùng sục khắp vùng để săn thịt người.\n\nChúng sẽ không phá cửa trừ khi tận mắt thấy có người đi qua đó. Cứ chui vào nhà đóng chặt cửa là bạn sẽ an toàn. Chúng cũng không tấn công các trụ súng đã ngắt điện, nên hãy tắt điện trụ súng đi để tránh bị cắn nát.\n\nĐàn {0} sẽ bỏ đi sau một hoặc hai ngày. Bạn có thể đóng cửa cố thủ chờ chúng rút, hoặc ra ngoài quyết chiến.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Cấu trúc {SOURCE_label} đã phát ra một xung tâm linh khiến những con vật gần đó phát điên.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label} vừa phát ra một luồng xung tâm linh khiến đám thú quanh đây phát điên.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>Phần tàu bị rơi đã phát ra một xung tâm linh tập trung khiến cư dân {0} điên loạn.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Mảnh vỡ phi thuyền rơi đã phát ra một luồng xung tâm linh tập trung khiến cư dân {0} phát điên.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>Đánh thức {0} ngày trước</AwokeDaysAgo>
+  <AwokeDaysAgo>Thức tỉnh {0} ngày trước</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>Đã kích hoạt {0} ngày trước</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Kích hoạt {0} ngày trước</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
   <OpenedDaysAgo>Đã mở {0} ngày trước</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Cường độ âm vang tâm linh: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>Âm vang tâm linh mạnh lên</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Âm vang tâm linh tăng cường</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Phần tàu bị rơi hiện đang phát ra một âm vang tâm linh mạnh hơn. Mọi người dạng người thuộc giới tính {0} trong khu vực giờ cảm thấy bất an, kinh hãi và hoang tưởng hơn.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Mảnh vỡ phi thuyền rơi hiện đang phát ra luồng âm vang tâm linh mạnh hơn nữa. Toàn bộ người giới tính {0} trong khu vực giờ đây đều cảm thấy bất an, hoảng loạn và hoang tưởng tột độ.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
-  <LetterLabelAgentRevealed>Nội gián</LetterLabelAgentRevealed>
+  <LetterLabelAgentRevealed>Nội gián lộ diện</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} đã được tiết lộ là một nội gián kẻ thù {1} của bạn.\n\nHọ đang cố gắng trốn thoát ngay bây giờ.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} đã bị vạch trần là nội gián của phe thù địch {1}.\n\nChúng đang tìm cách tẩu thoát ngay lúc này.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
-  <LetterLabelBeaversArrived>Hải ly!</LetterLabelBeaversArrived>
+  <LetterLabelBeaversArrived>Hải ly khổng lồ!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>Một nhóm Hải ly đói đã xuất hiện.\n\nHãy thử loại bỏ chúng trước khi chúng phá húy mọi nguồn gỗ cuối cùng trong khu vực.</BeaversArrived>
+  <BeaversArrived>Một đàn hải ly phàm ăn vừa kéo tới.\n\nHãy mau tiêu diệt chúng trước khi chúng gặm sạch sành sanh mọi nguồn gỗ cuối cùng trong vùng.</BeaversArrived>
   
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} tự thuần hóa</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>{0} đã trở nên thuần hóa.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} đã tự thuần hóa.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{0} đã trở nên thuần hóa. Nó hiện được chỉ định {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0} đã tự thuần hóa và được đánh mã số là {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{0} đã trở nên thuần hóa. Những cư dân đã quyết định đặt tên cho nó là {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>{0} đã tự thuần hóa. Các cư dân quyết định đặt tên cho nó là {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0} gia nhập</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>Một nhóm {0}, bị bỏ rơi hoặc bị lạc, đã lang thang vào khu vực.\n\nChúng dường như đã quen với sự tiếp xúc của con người và đang gia nhập thuộc địa.</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Một đàn {0}, có lẽ bị bỏ rơi hoặc đi lạc, vừa lang thang vào khu vực.\n\nChúng tỏ ra khá dạn người và quyết định gia nhập thuộc địa.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>Thrumbos quý hiếm</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Thrumbo quý hiếm</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>Một đàn nhỏ của thrumbos đã lang thang vào khu vực.\n\nHòa bình tự nhiên, những sinh vật quý hiếm này cực kỳ nguy hiểm khi đối đầu. Một số thương nhân sẵn sàng trả nhiều tiền cho da và sừng quý giá của họ.\n\nThrumbos sẽ rời khỏi khu vực trong một vài ngày.</LetterThrumboPasses>
+  <LetterThrumboPasses>Một đàn thrumbo nhỏ vừa lang thang vào khu vực.\n\nBản tính vốn hiền lành, nhưng những sinh vật quý hiếm này lại cực kỳ hung dữ và nguy hiểm nếu bị chọc giận. Một số thương nhân sẵn sàng trả giá rất cao để mua bộ da và chiếc sừng quý giá của chúng.\n\nĐàn thrumbo sẽ rời khỏi vùng này sau vài ngày nữa.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} từ {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>Một đoàn lữ hành từ {0} đang đến gần. Họ là một {1}.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Một đoàn lữ hành từ {0} đang tiến lại gần. Họ là {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>Họ sẽ quanh quẩn ở thuộc địa một thời gian trước khi rời đi. Bạn có thể tấn công họ - nhưng điều này sẽ chọc giận phe của họ!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Họ sẽ nán lại quanh thuộc địa một thời gian trước khi rời đi. Bạn có thể tấn công họ - nhưng làm trò này là phe của họ sẽ nổi điên lên đấy!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Đòi tiền chuộc tại {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} liên lạc với bạn trên đài phát thanh. Họ đang giữ cựu cư dân {PAWN_labelShort} để đòi tiền chuộc.\n\nHọ sẵn sàng trả lại {PAWN_objective} cho bạn để đổi lấy {2} bạc.</RansomDemand>
+  <RansomDemand>{1} liên lạc với bạn qua bộ đàm. Chúng đang bắt giữ cựu cư dân {PAWN_labelShort} để đòi tiền chuộc.\n\nChúng đồng ý thả {PAWN_objective} về với bạn để đổi lấy {2} bạc.</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>Chấp nhận</RansomDemand_Accept>
   <!-- EN: Reject -->
@@ -173,71 +173,71 @@
   
   <!-- Journey-related -->
   <!-- EN: Ship found -->
-  <EscapeShipFoundLabel>Tìm thấy tàu</EscapeShipFoundLabel>
+  <EscapeShipFoundLabel>Tìm thấy phi thuyền</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Bạn đã đến tọa độ được gửi bởi (*Name)Charlon Whitestone(/Name) và phát hiện ra phi thuyền ẩn.\n\nLò phản ứng của tàu vẫn ở chế độ ngủ đông sâu, vì vậy nó chưa thể bay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\nCharlon Whitestone cảnh báo bạn rằng quá trình khởi động sẽ mất khoảng 15 ngày và sóng năng lượng sẽ được phát hiện từ khoảng cách xa. Loại sóng năng lượng này biểu thị khả năng bay giữa các vì sao, và sẽ thu hút các nhóm người đột kích tuyệt vọng và bầy cỗ máy chiến đấu cơ chết người.\n\nBạn sẽ bị tấn công với cường độ bạn chưa từng thấy. Hãy chắc chắn rằng phòng thủ của bạn được chuẩn bị đầu tiên.</EscapeShipFound>
+  <EscapeShipFound>Bạn đã tìm đến tọa độ do (*Name)Charlon Whitestone(/Name) gửi và phát hiện ra chiếc phi thuyền ẩn giấu.\n\nLò phản ứng của tàu vẫn đang ngủ đông sâu nên chưa thể cất cánh ngay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\n(*Name)Charlon Whitestone(/Name) cảnh báo quá trình khởi động sẽ kéo dài suốt 15 ngày đêm, và xung năng lượng khổng lồ tỏa ra sẽ bị dò thấy từ cách xa hàng vạn dặm. Thứ tín hiệu đặc trưng của tàu du hành liên sao này sẽ đánh động mọi băng cướp liều mạng cùng những bầy đoàn robot sát thủ Mechanoid tàn bạo kéo tới.\n\nNhững đợt tổng tấn công khốc liệt chưa từng thấy sắp ập xuống. Hãy chắc chắn phòng tuyến của bạn đã sẵn sàng tử thủ.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>Bạn đã đạt đến tọa độ được gửi bởi (*Name)Charlon Whitestone(/Name) và phát hiện ra phi thuyền bí ẩn.\n\nLò phản ứng của tàu vẫn ở chế độ ngủ đông sâu, vì vậy nó chưa thể bay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\nCharlon Whitestone cảnh báo bạn rằng quá trình khởi động sẽ mất khoảng 15 ngày.</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Bạn đã tìm đến tọa độ do (*Name)Charlon Whitestone(/Name) gửi và phát hiện ra chiếc phi thuyền ẩn giấu.\n\nLò phản ứng của tàu vẫn đang ngủ đông sâu nên chưa thể cất cánh ngay. Bạn có thể khởi động nó bằng cách tương tác với lõi máy tính.\n\n(*Name)Charlon Whitestone(/Name) cảnh báo quá trình khởi động sẽ kéo dài suốt 15 ngày đêm.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>Gặp mặt đoàn lữ hành của {0}</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Chạm mặt đoàn lữ hành ({0})</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0} đã gặp gỡ hòa bình với một đoàn lữ hành từ {1}. Các đoàn lũ hành khác bao gồm:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>{0} đã chạm mặt trong hòa bình với một đoàn lữ hành từ {1}. Đoàn lữ hành đối phương gồm có:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>Giao dịch</CaravanMeeting_Trade>
   <!-- EN: Attack -->
   <CaravanMeeting_Attack>Tấn công</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>Bỏ qua</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Đi tiếp</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>không có thành viên đoàn lữ hành nào có khả năng giao dịch</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>không có thành viên nào trong đoàn đủ khả năng giao dịch</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>cần một nhà giao dịch có tước hiệu {0} từ {1_name}</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>cần một người giao dịch có tước hiệu {0} của {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Yêu cầu đoàn lữ hành</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>Một khu định cư gần đó, {0}, liên lạc với bạn với một yêu cầu giao dịch đặc biệt. Họ muốn mua:\n\n {1} (trị giá {2})\n\nTrong khi trả lại, họ cung cấp:\n\n {3} (trị giá {4})\n\nYêu cầu này hết hạn sau: {5}\n\nNếu bạn muốn thực hiện giao dịch, hãy gửi một đoàn lữ hành với các vật tư được yêu cầu. Thời gian di chuyển ước tính là {6}. Bạn có thể xem lại ưu đãi này bằng cách chọn {0} trên bản đồ thế giới.</LetterCaravanRequest>
+  <LetterCaravanRequest>Một khu định cư gần đó là {0} vừa liên hệ với bạn kèm theo một yêu cầu giao dịch đặc biệt. Họ muốn mua:\n\n  {1} (trị giá {2})\n\nĐổi lại, họ sẽ trả:\n\n  {3} (trị giá {4})\n\nYêu cầu này sẽ hết hạn sau: {5}\n\nNếu muốn thực hiện giao dịch, hãy cử một đoàn lữ hành mang theo số vật tư được yêu cầu tới đó. Thời gian di chuyển ước tính là {6}. Bạn có thể xem lại lời đề nghị này bằng cách chọn {0} trên bản đồ thế giới.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>Yêu cầu: {0} ({2}) ({1} còn lại)</CaravanRequestInfo>
+  <CaravanRequestInfo>Yêu cầu: {0} ({2}) (còn {1})</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>chất lượng bình thường hoặc tốt hơn</NormalQualityOrBetter>
+  <NormalQualityOrBetter>chất lượng bình thường trở lên</NormalQualityOrBetter>
   <!-- EN: not tainted -->
   <NotTainted>không bị ô uế</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>Đoàn lữ hành bị xin đểu bởi {0}</CaravanDemandTitle>
+  <CaravanDemandTitle>Chặn đường xin đểu ({0})</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0} đã bị phục kích bởi một nhóm {2} {4} từ {1}. Chúng sẽ tấn công trừ khi bạn cho chúng:\n\n{3}</CaravanDemand>
+  <CaravanDemand>{0} đã bị phục kích bởi một đám {2} {4} đến từ {1}. Chúng sẽ lao vào tấn công trừ khi bạn nộp cho chúng:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
-  <CaravanDemand_Give>Cho và đi qua</CaravanDemand_Give>
+  <CaravanDemand_Give>Nộp đồ và đi tiếp</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
   <CaravanDemand_Fight>Từ chối và chiến đấu</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>Nhiệm vụ không còn nữa</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Nhiệm vụ không còn khả dụng</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>Nhiệm vụ không còn nữa</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Các nhiệm vụ không còn khả dụng</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>Vì bạn không còn thù địch với {0}, nên thư {1} không còn khả dụng.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Vì bạn không còn thù địch với {0} nữa, địa điểm {1} sẽ không còn khả dụng.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>Vì bạn không còn thù địch với {0}, các thư sau đây sẽ không còn khả dụng</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Vì bạn không còn thù địch với {0} nữa, các địa điểm sau đây sẽ không còn khả dụng:</LetterSiteNoLongerHostileMulti>
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerFactionHostile>Nhiệm vụ thất bại</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>Nhiệm vụ hiện không thể hoàn thành vì {FACTION_name} là thù địch.</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Nhiệm vụ hiện không thể hoàn thành vì {FACTION_name} đã trở nên thù địch.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerCaptured>Nhiệm vụ thất bại</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>Nhiệm vụ hiện không thể hoàn thành vì {SUBJECT_definite} đã bị bắt.</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Nhiệm vụ hiện không thể hoàn thành vì {SUBJECT_definite} đã bị bắt giữ.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->

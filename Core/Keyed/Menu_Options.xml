@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- Audiovisuals -->
+<!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
-  <Audiovisuals>Âm Thanh - Hình Ảnh</Audiovisuals>
+  <Audiovisuals>Âm thanh & Hình ảnh</Audiovisuals>
   <!-- EN: Master volume -->
-  <MasterVolume>Âm lượng tổng thể</MasterVolume>
+  <MasterVolume>Âm lượng tổng</MasterVolume>
   <!-- EN: Game volume -->
   <GameVolume>Âm lượng game</GameVolume>
   <!-- EN: Music volume -->
@@ -13,17 +13,17 @@
   <!-- EN: Ambience volume -->
   <AmbientVolume>Âm lượng môi trường</AmbientVolume>
   <!-- EN: UI volume -->
-  <UIVolume>Âm lượng UI</UIVolume>
+  <UIVolume>Âm lượng giao diện</UIVolume>
   <!-- EN: Affects all sounds. -->
-  <MasterVolumeTooltip>Ảnh hưởng đến tất cả các âm thanh.</MasterVolumeTooltip>
+  <MasterVolumeTooltip>Ảnh hưởng đến toàn bộ âm thanh.</MasterVolumeTooltip>
   <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
-  <GameVolumeTooltip>Ảnh hưởng đến tất cả các âm thanh trên thế giới, ví dụ: chặt cây, xây tường.</GameVolumeTooltip>
+  <GameVolumeTooltip>Ảnh hưởng đến mọi âm thanh trong thế giới trò chơi, ví dụ: chặt cây, xây tường.</GameVolumeTooltip>
   <!-- EN: Affects music. -->
-  <MusicVolumeTooltip>Ảnh hưởng đến âm nhạc.</MusicVolumeTooltip>
+  <MusicVolumeTooltip>Ảnh hưởng đến nhạc nền.</MusicVolumeTooltip>
   <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
-  <AmbientVolumeTooltip>Ảnh hưởng đến tất cả các âm thanh xung quanh, ví dụ: gió, côn trùng.</AmbientVolumeTooltip>
+  <AmbientVolumeTooltip>Ảnh hưởng đến mọi âm thanh môi trường, ví dụ: tiếng gió, côn trùng.</AmbientVolumeTooltip>
   <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
-  <UIVolumeTooltip>Ảnh hưởng đến tất cả âm thanh giao diện, ví dụ: bấm nút, tin nhắn.</UIVolumeTooltip>
+  <UIVolumeTooltip>Ảnh hưởng đến mọi âm thanh giao diện, ví dụ: nhấp nút, thông báo.</UIVolumeTooltip>
   <!-- EN: Anti-aliasing -->
   <Antialiasing>Khử răng cưa</Antialiasing>
 
@@ -31,119 +31,119 @@
   <!-- EN: Remember draw styles -->
   <RememberDrawStyle>Ghi nhớ kiểu vẽ</RememberDrawStyle>
   <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
-  <RememberDrawStyle_Tooltip>Khi bật, kiểu vẽ sẽ không trở về kiểu mặc định khi đặt công trình hoặc vùng mới.</RememberDrawStyle_Tooltip>
+  <RememberDrawStyle_Tooltip>Khi bật, kiểu vẽ sẽ không đặt lại về mặc định mỗi khi bạn đặt công trình hoặc vùng mới.</RememberDrawStyle_Tooltip>
   <!-- EN: Zoom switches world map layers -->
   <ZoomSwitchLayer>Thu phóng chuyển lớp bản đồ thế giới</ZoomSwitchLayer>
   <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
-  <ZoomSwitchLayer_Tooltip>Khi bật, thu nhỏ trên bản đồ thế giới sẽ chuyển sang góc nhìn quỹ đạo. Phóng to sẽ hiển thị lại hành tinh.</ZoomSwitchLayer_Tooltip>
+  <ZoomSwitchLayer_Tooltip>Khi bật, thu nhỏ trên bản đồ thế giới sẽ chuyển sang góc nhìn quỹ đạo. Phóng to sẽ hiển thị lại bề mặt hành tinh.</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
-  <EdgeScreenScroll>Cuộn chuột trên màn hình</EdgeScreenScroll>
+  <EdgeScreenScroll>Cuộn camera ở mép màn hình</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
-  <ZoomToMouse>Thu phóng tới con trỏ</ZoomToMouse>
+  <ZoomToMouse>Thu phóng theo con trỏ</ZoomToMouse>
   <!-- EN: Pause on load -->
-  <PauseOnLoad>Tạm dừng khi tải</PauseOnLoad>
+  <PauseOnLoad>Tạm dừng khi tải bản lưu</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Tạm dừng khi có thư khẩn</PauseOnUrgentLetter>
   <!-- EN: Pause on letter -->
-  <AutomaticPauseModeSetting>Tạm dừng</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Tạm dừng khi có thư</AutomaticPauseModeSetting>
   <!-- EN: Disable game-specific cursor -->
-  <CustomCursor>Con trỏ tùy chỉnh</CustomCursor>
+  <CustomCursor>Tắt con trỏ riêng của trò chơi</CustomCursor>
   <!-- EN: Hide hats on UI -->
-  <HatsShownOnlyOnMap>Mũ chỉ hiển thị trên bản đồ trò chơi</HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Ẩn mũ trên giao diện</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
-  <UIScale>Tỷ lệ giao diện</UIScale>
+  <UIScale>Tỉ lệ giao diện</UIScale>
   <!-- EN: Keyboard configuration -->
   <KeyboardConfig>Cấu hình bàn phím</KeyboardConfig>
   <!-- EN: Controller configuration -->
-  <ControllerConfig>Cấu hình bộ điều khiển</ControllerConfig>
+  <ControllerConfig>Cấu hình tay cầm</ControllerConfig>
   <!-- EN: Modify -->
-  <ModifyConfig>Sửa đổi</ModifyConfig>
+  <ModifyConfig>Tùy chỉnh</ModifyConfig>
   <!-- EN: Choose language -->
   <ChooseLanguage>Chọn ngôn ngữ</ChooseLanguage>
   <!-- EN: Reset learning helper -->
-  <ResetAdaptiveTutor>Đặt lại trình trợ giúp</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Đặt lại trợ lý hướng dẫn</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>Hướng dẫn được đặt lại. Bây giờ bạn sẽ được hưỡng dẫn lại tất cả các bài học từ đầu.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Đã đặt lại trợ lý hướng dẫn. Giờ đây bạn sẽ được hướng dẫn lại toàn bộ bài học từ đầu.</AdaptiveTutorIsReset>
   <!-- EN: Keyboard mode -->
-  <SteamDeckKeyboardMode>chế độ bàn phím</SteamDeckKeyboardMode>
+  <SteamDeckKeyboardMode>Chế độ bàn phím</SteamDeckKeyboardMode>
   <!-- EN: Run in background -->
-  <RunInBackground>Chạy trong nền</RunInBackground>
+  <RunInBackground>Chạy dưới nền</RunInBackground>
   <!-- EN: Development mode -->
   <DevelopmentMode>Chế độ nhà phát triển</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>Tự động đặt lại cấu hình mod khi sự cố</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Tự động đặt lại cấu hình mod khi gặp sự cố</ResetModsConfigOnCrash>
   <!-- EN: Quick start has no cryptosleep sickness -->
-  <DisableQuickStartCryptoSickness>Khởi đầu nhanh không bị bệnh ngủ đông</DisableQuickStartCryptoSickness>
+  <DisableQuickStartCryptoSickness>Khởi đầu nhanh không bị say ngủ đông</DisableQuickStartCryptoSickness>
   <!-- EN: Start game with dev palette on -->
-  <StartDevPaletteOn>Bắt đầu trò chơi với bảng công cụ dev đang bật</StartDevPaletteOn>
+  <StartDevPaletteOn>Mở sẵn bảng công cụ dev khi vào game</StartDevPaletteOn>
   <!-- EN: Open log on warnings -->
   <OpenLogOnWarnings>Mở nhật ký khi có cảnh báo</OpenLogOnWarnings>
   <!-- EN: Close log by pressing cancel -->
   <CloseLogWindowOnEscape>Đóng nhật ký bằng phím hủy</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
-  <LogVerbose>Đăng nhập phức tạp</LogVerbose>
+  <LogVerbose>Ghi nhật ký chi tiết</LogVerbose>
   <!-- EN: Save data folder -->
-  <SaveGameDataFolder>Mở thư mục lưu dữ liệu</SaveGameDataFolder>
+  <SaveGameDataFolder>Thư mục dữ liệu lưu</SaveGameDataFolder>
   <!-- EN: Save data location -->
-  <SaveGameDataLocation>Hiển thị vị trí lưu dữ liệu</SaveGameDataLocation>
+  <SaveGameDataLocation>Vị trí dữ liệu lưu</SaveGameDataLocation>
   <!-- EN: Log file folder -->
-  <LogFileFolder>Mở thư mục tệp nhật ký</LogFileFolder>
+  <LogFileFolder>Thư mục tệp nhật ký</LogFileFolder>
   <!-- EN: Log file location -->
-  <LogFileLocation>Hiển thị vị trí tệp nhật ký</LogFileLocation>
+  <LogFileLocation>Vị trí tệp nhật ký</LogFileLocation>
   <!-- EN: Open -->
   <OpenFolder>Mở</OpenFolder>
   <!-- EN: Show -->
   <ShowFolder>Hiển thị</ShowFolder>
   <!-- EN: Preferred "Name in Game" characters -->
-  <NamesYouWantToSee>Nhân vật ưa thích do người chơi tạo. Những nhân vật này sẽ có nhiều khả năng xuất hiện ngẫu nhiên trong khi chơi:</NamesYouWantToSee>
+  <NamesYouWantToSee>Nhân vật "Name in Game" ưa thích</NamesYouWantToSee>
   <!-- EN: These characters will be more likely to appear randomly during play. -->
   <NamesYouWantToSeeSubText>Những nhân vật này sẽ có nhiều khả năng xuất hiện ngẫu nhiên trong quá trình chơi.</NamesYouWantToSeeSubText>
   <!-- EN: Add name -->
   <AddName>Thêm tên</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
-  <TypeFirstNickOrLastName>Nhập tên, biệt hiệu hoặc họ của nhân vật.</TypeFirstNickOrLastName>
+  <TypeFirstNickOrLastName>Nhập tên, biệt danh hoặc họ.</TypeFirstNickOrLastName>
   <!-- EN: This name is already on the preferred list. -->
-  <MessageAlreadyPreferredName>Tên này đã có trong danh sách ưa thích.</MessageAlreadyPreferredName>
+  <MessageAlreadyPreferredName>Tên này đã có trong danh sách ưa thích rồi.</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>Cài đặt người kể chuyện</ChangeStoryteller>
+  <ChangeStoryteller>Thiết lập người kể chuyện</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Khoảng cách tự lưu</AutosaveInterval>
+  <AutosaveInterval>Chu kỳ tự động lưu</AutosaveInterval>
   <!-- EN: The number of in game days between each auto save. -->
-  <AutosaveIntervalTooltip>Số ngày trong trò chơi giữa mỗi lần lưu tự động.</AutosaveIntervalTooltip>
+  <AutosaveIntervalTooltip>Số ngày trong game giữa mỗi lần tự động lưu.</AutosaveIntervalTooltip>
   <!-- EN: Temperature unit -->
-  <TemperatureMode>Chế độ nhiệt độ</TemperatureMode>
+  <TemperatureMode>Đơn vị nhiệt độ</TemperatureMode>
   <!-- EN: Show realtime clock -->
-  <ShowRealtimeClock>Hiển thị đồng hồ hệ thống</ShowRealtimeClock>
+  <ShowRealtimeClock>Hiển thị đồng hồ thực</ShowRealtimeClock>
   <!-- EN: Use 12 hour clock -->
-  <TwelveHourClockMode>Dùng đồng hồ 12 giờ</TwelveHourClockMode>
+  <TwelveHourClockMode>Dùng định dạng 12 giờ</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
-  <DisableTinyText>Vô hiệu hóa phông chữ nhỏ</DisableTinyText>
+  <DisableTinyText>Tắt chữ cỡ nhỏ</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>Số lượng thuộc địa tối đa: {0}</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>Số thuộc địa tối đa: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Autosaves count: {0} -->
   <AutosavesCount>Số bản tự động lưu: {0}</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Độ nhạy chuột khi kéo bản đồ</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>Thực vật lắc lư theo gió</PlantWindSway>
+  <PlantWindSway>Cây cối đung đưa theo gió</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Bật kích thước bản đồ thử nghiệm</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Khoảng thời gian tự động lưu tối đa trong chế độ permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Chu kỳ tự động lưu tối đa ở chế độ Permadeath là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>Cài đặt Mod</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>Vô hiệu hóa vĩnh viễn chế độ phát triển</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Tắt vĩnh viễn chế độ nhà phát triển</PermanentlyDisableDevMode>
   <!-- EN: Texture compression -->
   <TextureCompression>Nén họa tiết</TextureCompression>
   <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
-  <TextureCompression_Tooltip>Tắt tính năng nén họa tiết sẽ sử dụng nhiều RAM VGA hơn, nhưng làm cho họa tiết trông tốt hơn một chút ở các vùng chi tiết. Chỉ tắt tính năng này nếu bạn biết mình còn nhiều RAM VGA.\n\nLưu ý rằng việc sử dụng một số mod thường sẽ tiêu tốn nhiều RAM VGA hơn, vì vậy bạn có thể cần phải bật tính năng này nếu thêm một số mod nhất định.</TextureCompression_Tooltip>
+  <TextureCompression_Tooltip>Tắt nén họa tiết sẽ ngốn nhiều VRAM hơn, nhưng giúp họa tiết trông sắc nét hơn một chút ở các vùng nhiều chi tiết. Chỉ nên tắt tùy chọn này nếu card đồ họa của bạn còn dư nhiều VRAM.\n\nLưu ý rằng một số mod thường tiêu tốn rất nhiều VRAM, nên có thể bạn sẽ cần bật lại tính năng này nếu cài thêm mod.</TextureCompression_Tooltip>
   <!-- EN: Smooth camera jumps -->
-  <SmoothCameraJumps>Camera nhảy mượt mà</SmoothCameraJumps>
+  <SmoothCameraJumps>Chuyển cảnh camera mượt</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
-  <SmoothCameraJumpsDesc>Khi được bật, máy ảnh sẽ xoay nhanh khi lấy nét ở một vị trí mới. Khi tắt, máy ảnh sẽ nhảy ngay lập tức.</SmoothCameraJumpsDesc>
+  <SmoothCameraJumpsDesc>Khi bật, camera sẽ lia nhanh tới vị trí mới khi chuyển góc nhìn. Khi tắt, camera sẽ chuyển tới ngay lập tức.</SmoothCameraJumpsDesc>
   <!-- EN: Gravship cutscenes -->
-  <GravshipCutscenes>Cảnh cắt cảnh tàu trọng trường</GravshipCutscenes>
+  <GravshipCutscenes>Hoạt cảnh tàu trọng trường</GravshipCutscenes>
   <!-- EN: When disabled, gravships will take off and land instantly. -->
   <GravshipCutscenesDesc>Khi tắt, tàu trọng trường sẽ cất cánh và hạ cánh ngay lập tức.</GravshipCutscenesDesc>
 
@@ -155,28 +155,27 @@
   <!-- EN: Borderless fullscreen -->
   <BorderlessFullscreen>Toàn màn hình không viền</BorderlessFullscreen>
   <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
-  <BorderlessFullscreenInstructions>Để chạy RimWorld ở chế độ toàn màn hình không viền:\n\n1) Mở Steam\n2) Chuyển đến tab "Thư viện" ở trên cùng\n3) Tìm RimWorld trong danh sách và nhấp chuột phải vào nó\n4) Chọn "Thuộc tính... "\n5) Thêm "-popupwindow" không có dấu ngoặc kép vào "Launch options" trong tab "General"\n6) Khởi động lại trò chơi\n7) Nếu thực hiện đúng, bạn sẽ không thấy cửa sổ này\n\nGợi ý: Sử dụng Windows Key + Shift + Trái/Phải để di chuyển cửa sổ giữa các màn hình của bạn.</BorderlessFullscreenInstructions>
+  <BorderlessFullscreenInstructions>Để chạy RimWorld ở chế độ toàn màn hình không viền:\n\n1) Mở Steam\n2) Chuyển đến tab "Thư viện" ở trên cùng\n3) Tìm RimWorld trong danh sách và nhấp chuột phải vào nó\n4) Chọn "Thuộc tính..."\n5) Thêm "-popupwindow" (không có dấu ngoặc kép) vào ô "Launch options" trong tab "General"\n6) Khởi động lại trò chơi\n7) Nếu thực hiện đúng, bạn sẽ không thấy cửa sổ này nữa\n\nGợi ý: Nhấn phím Windows + Shift + Mũi tên Trái/Phải để di chuyển cửa sổ giữa các màn hình.</BorderlessFullscreenInstructions>
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>Chọn mod ...</SelectMod>
+  <SelectMod>Chọn mod...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>Không có mod nào được tải.</NoConfigurableMods>
+  <NoConfigurableMods>Không có mod nào có phần cài đặt được tải.</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
-  <RestoreToDefaultSettingsLabel>Khôi phục tất cả các cài đặt về mặc định</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettingsLabel>Khôi phục toàn bộ cài đặt về mặc định</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
-  <RestoreToDefaultSettings>Khôi phục cài đặt gốc</RestoreToDefaultSettings>
+  <RestoreToDefaultSettings>Khôi phục mặc định</RestoreToDefaultSettings>
   <!-- EN: All settings have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>Cài đặt của bạn đã được khôi phục. Trò chơi sẽ khởi động lại tự động.</ResetAndRestart>
+  <ResetAndRestart>Toàn bộ cài đặt đã được đặt lại. Trò chơi sẽ tự động khởi động lại ngay bây giờ.</ResetAndRestart>
   <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>Tất cả các cài đặt của bạn sẽ được đặt lại về mặc định và trò chơi sẽ được khởi động lại. Tất cả tiến độ chưa được lưu sẽ bị mất!\n\nTiếp tục?</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Toàn bộ cài đặt sẽ được đặt lại về mặc định và trò chơi sẽ khởi động lại. Mọi tiến trình chưa lưu sẽ bị mất.\n\nTiếp tục?</ResetAndRestartConfirmationDialog>
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
-  <ChangedTextureCompressionRestart>Thay đổi tùy chọn nén họa tiết yêu cầu khởi động lại. Tất cả tiến trình chưa được lưu sẽ bị mất!\n\nTiếp tục?</ChangedTextureCompressionRestart>
+  <ChangedTextureCompressionRestart>Thay đổi thiết lập nén họa tiết yêu cầu khởi động lại trò chơi. Mọi tiến trình chưa lưu sẽ bị mất.\n\nTiếp tục?</ChangedTextureCompressionRestart>
   
   <!-- Background image -->
   <!-- EN: Menu background -->
-  <SetBackgroundImage>Nền menu</SetBackgroundImage>
-
+  <SetBackgroundImage>Hình nền menu</SetBackgroundImage>
 </LanguageData>
