@@ -21,6 +21,9 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 
   - Gọi kẻ địch hoặc cướp bóc là **chúng / bọn chúng / đám...**.
 
+- **Quy tắc giữ nguyên tên vật phẩm:**
+  - Giữ nguyên tên riêng của các bệnh, thuốc lắc, thực phẩm(scaria, yayo, flake, luciferium, psychoid leaves,...)
+
 ## 2. Quy tắc kỹ thuật XML & Ngữ pháp tiếng Việt
 
 1. **Bảo toàn thẻ và biến hệ thống:**
@@ -84,11 +87,13 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Hitching spot**            | cọc buộc gia súc / cọc gia súc |                                           |
 | **Stockpile zone**           | vùng kho chứa                  |                                           |
 | **Dumping stockpile**        | vùng bãi thải                  |                                           |
+|**Plan**|quy hoạch||
 | **Growing zone**             | vùng trồng trọt                |                                           |
 | **Tainted (apparel)**        | ô uế                           | Quần áo lột từ xác chết                   |
 | **Tattered apparel**         | trang phục rách rưới           |                                           |
 | **Blight**                   | bệnh cháy lá                   |                                           |
 | **Wort**                     | hèm bia                        | Nguyên liệu ủ bia                         |
+| **extract tree**             | bứng cây                       |                                           |
 
 ### D. Trạng thái, Tâm linh & Công nghệ cao
 
