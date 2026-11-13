@@ -176,7 +176,7 @@
   <!-- EN: Injured -->
   <Injured>Bị thương</Injured>
   <!-- EN: untended injury -->
-  <UntendedInjury>vết thương chưa băng bó</UntendedInjury>
+  <UntendedInjury>vết thương chưa được chữa trị</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>không có vấn đề sức khỏe</NoHealthConditions>
   <!-- EN: Whole body -->
@@ -224,7 +224,7 @@
   <!-- EN: Allow self-tend -->
   <AllowSelfTend>Cho phép tự chữa trị</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <AllowSelfTendTip>Nếu bật tự băng bó, {0} sẽ tự xử lý vết thương ngay tại chỗ với hiệu suất bằng {1} so với bình thường.</AllowSelfTendTip>
+  <AllowSelfTendTip>Nếu bật tự chữa trị, {0} sẽ tự xử lý vết thương ngay tại chỗ với hiệu suất bằng {1} so với bình thường.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>chết sau {0}</DeathIn>
   <!-- EN: Allow medicine -->
