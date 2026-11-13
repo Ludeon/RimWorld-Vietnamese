@@ -19,7 +19,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
   - Gọi động vật là **nó / chúng** (không gọi là _họ_).
 
 - **Quy tắc giữ nguyên tên riêng & vật phẩm đặc thù:**
-  - Giữ nguyên tên riêng của các bệnh, thuốc lắc, thực phẩm đặc trưng và sinh vật hư cấu (`scaria`, `yayo`, `flake`, `luciferium`, `psychoid`, `thrumbo`...). Không giữ hậu tố số nhiều `-s` của tiếng Anh.
+  - Giữ nguyên tên riêng của các bệnh, thuốc lắc, thực phẩm đặc trưng, sinh vật hư cấu (`scaria`, `yayo`, `flake`, `luciferium`, `psychoid`, `thrumbo`...) và các thuật ngữ công nghệ/khoa học viễn tưởng đã Việt hóa thông dụng (`hack`, `EMP`, `laser`, `plasma`...). Không giữ hậu tố số nhiều `-s` của tiếng Anh.
 
 ## 2. Quy tắc kỹ thuật XML & Ngữ pháp tiếng Việt
 
@@ -38,7 +38,9 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 4. **Quy tắc viết hoa / viết thường:**
    - Các thẻ có hậu tố `Lower` (như `<DyingLower>`, `<AnimalsLower>`, `<StunLower>`) hoặc cụm từ nối tiếp giữa câu bắt buộc **viết thường chữ cái đầu** (trừ danh từ riêng).
    - Không để dấu cách thừa trước dấu chấm câu, dấu chấm lửng (`...`) hoặc trước thẻ đóng XML.
-
+5. **Chính tả & Hậu tố biến tên gọi:**
+   - Giữ nguyên tuyệt đối hậu tố độ dài tên biến (`{1_labelShort}`, `{0_label}`, `{0_definite}`), không tự ý đổi sang hậu tố khác.
+   - Thống nhất chính tả tiếng Việt: viết **`kỹ năng`** (không dùng *kĩ năng*); phân biệt **`dành cho`** (để riêng cho ai/cái gì) với **`giành`** (tranh giành).
 ## 3. Bảng thuật ngữ chuẩn (Standard Glossary)
 
 ### A. Con người, Phe phái & Ngoại giao
@@ -110,7 +112,9 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Tattered apparel**         | trang phục rách rưới           |                                           |
 | **Blight**                   | bệnh cháy lá                   |                                           |
 | **Wort**                     | hèm bia                        | Nguyên liệu ủ bia                         |
-
+| **Food** | lương thực / thức ăn | Dùng _lương thực_ cho kho dự trữ tổng, đoàn lữ hành, thu hoạch; dùng _thức ăn_ cho bữa ăn cá nhân, vật nuôi, nguyên liệu nấu nướng |
+| **Food restriction / policy** | chế độ ăn / chính sách ăn uống | Thiết lập khẩu phần trong tab Phân công (không dịch là _giới hạn thức ăn_) |
+| **Medicine restriction** | mức thuốc cho phép / chế độ dùng thuốc | Thiết lập loại thuốc được phép dùng trong tab Sức khỏe (không dịch là _giới hạn thuốc_) |
 ### D. Trạng thái, Tâm linh, Nghiên cứu & Công nghệ cao
 
 | Tiếng Anh (EN)              | Tiếng Việt chuẩn (VI)                     | Ghi chú ngữ cảnh                              |
@@ -137,6 +141,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Techprint**               | bản thiết kế công nghệ                    |                                               |
 | **Research project**        | đề tài nghiên cứu                         | Dùng _đề tài_ thay cho _dự án_               |
 | **Study**                   | khảo sát                                  | Nghiên cứu thực thể/cổ vật (không dịch _học tập_) |
+| **Hack / Hacking**          | hack                                      | Giữ nguyên từ mượn _hack_ (tránh dùng _xâm nhập_ dễ nhầm với kẻ địch đột nhập căn cứ) |
 
 ## 4. Các lỗi dịch thô cần tránh (Do's & Don'ts)
 
@@ -158,3 +163,15 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 - **Brawler -> `Đấu sĩ`** (Tính cách cận chiến).
 - **Teetotaler -> `Bài chất kích thích`** (Tính cách).
 - **Body purist -> `Tôn thờ nguyên bản`** (Tính cách).
+- **Reserved / Reserved by -> `đã bị chiếm dụng` / `đã bị {1} chiếm dụng`** (Không dịch là *dự trữ* hay *dành cho* trong trạng thái tương tác vật thể).
+- **No power -> `không có điện`** (Không dịch máy móc là *không có năng lượng*).
+- **No path -> `không có lối đi`** (Thống nhất trên toàn bộ thông báo, không dùng *con đường*).
+- **Deconstruct / Mining -> `tháo dỡ / khai khoáng`** (Không dịch là *phá hủy / đào mỏ*).
+- **Incapable of violence / shooting -> `không có khả năng bạo lực / bắn súng`** (Không dịch là *sợ bạo lực* hay *chụp*).
+- **Implant (install) -> `cấy ghép`** (Không dịch là *cài đặt* như phần mềm).
+- **Food / Medicine restriction -> `chế độ ăn / mức thuốc cho phép`** (Không dịch thô *restriction* là *giới hạn*).
+- **Pack animal -> `thú thồ`** (Không dịch là *đàn thú*).
+- **Tend -> `chữa trị`** (Thống nhất với *tự chữa trị*, không dịch là *chăm nom*).
+- **Hack -> `xâm nhập`** (Thống nhất cả tiêu đề lẫn mô tả, không dùng *truy cập trái phép* gây dài dòng trên nút).
+- **Designation -> `chỉ định`** (Không nhầm lẫn với *destination / đích đến*).
+- **Contents (khoang vận chuyển / hòm đồ) -> `vật phẩm bên trong`** (Không dịch máy móc là *nội dung*).
