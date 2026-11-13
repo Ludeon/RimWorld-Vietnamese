@@ -1,0 +1,127 @@
+# QUY CHUẨN DỊCH THUẬT & BẢNG THUẬT NGỮ RIMWORLD (VIỆT HÓA)
+
+## 1. Văn phong & Định hướng giọng điệu (Tone & Voice)
+
+Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xuất hiện trong game:
+
+- **Lớp 1 - Giao diện, Chỉ số, Nút bấm & Cơ chế (UI / Stats / Gizmos):**
+  - **Yêu cầu:** Ngắn gọn, súc tích, chuẩn xác, ưu tiên danh từ và động từ trực diện để không bị tràn khung giao diện.
+
+  - **Ví dụ:** `Giường y tế`, `Cấm chặt cây`, `San lấp`, `Độ lệch hồng tâm`, `Nhiệt thần kinh`.
+
+- **Lớp 2 - Cảnh báo, Hội thoại, Mô tả sự kiện & Thông báo (Alerts / Dialogs / Descriptions):**
+  - **Yêu cầu:** Bụi bặm, đời thường, mang chất sinh tồn khắc nghiệt pha chút hài hước đen (dark humor) đặc trưng của RimWorld. Cho phép dùng khẩu ngữ, từ lóng tự nhiên nhưng không lạm dụng gây phản cảm.
+
+  - **Ví dụ:** _"tuôn một tràng chửi thề vào bộ đàm rồi dập máy cái rụp"_, _"đứng mọc rêu chờ bạn chỉ hướng đi"_, _"quỵt luôn tiền thưởng"_, _"Cư dân rảnh háng"_, _"Thu hoạch toang"_.
+
+- **Quy tắc xưng hô:**
+  - Gọi người chơi là **bạn**.
+
+  - Gọi cư dân hoặc đồng minh là **họ / người này**.
+
+  - Gọi kẻ địch hoặc cướp bóc là **chúng / bọn chúng / đám...**.
+
+## 2. Quy tắc kỹ thuật XML & Ngữ pháp tiếng Việt
+
+1. **Bảo toàn thẻ và biến hệ thống:**
+   - Tuyệt đối không dịch, không xóa hoặc đổi tên các biến trong ngoặc nhọn (`{0}`, `{PAWN_labelShort}`, `{FACTION_name}`, `{GERUND}`, `{LAYER}`...), các thẻ định dạng (`(*SectionTitle)...(/SectionTitle)`, `(*Name)...(/Name)`) và ký tự xuống dòng (`\n\n`).
+
+2. **Xử lý biến sở hữu (`{0_possessive}`, `{PAWN_possessive}`):**
+   - Đặt biến sở hữu **ngay sau danh từ**, **KHÔNG** thêm chữ _"của"_ phía trước vì bộ ngữ pháp của game sẽ tự động chèn _"của \[Tên\]"_.
+
+   - **Đúng:** `khu định cư {0_possessive}`, `tước hiệu {TITLE} {PAWN_possessive}`
+
+   - **Sai:** `khu định cư của {0_possessive}` (sẽ bị lặp thành _"của của..."_).
+
+3. **Quy tắc viết hoa / viết thường:**
+   - Các thẻ có hậu tố `Lower` (như `<DyingLower>`, `<AnimalsLower>`, `<StunLower>`) hoặc cụm từ nối tiếp giữa câu bắt buộc **viết thường chữ cái đầu** (trừ danh từ riêng).
+
+   - Không để dấu cách thừa trước dấu chấm câu hoặc trước thẻ đóng XML.
+
+## 3. Bảng thuật ngữ chuẩn (Standard Glossary)
+
+### A. Con người, Phe phái & Ngoại giao
+
+| Tiếng Anh (EN)       | Tiếng Việt chuẩn (VI)     | Ghi chú ngữ cảnh                                |
+| -------------------- | ------------------------- | ----------------------------------------------- |
+| **Colonist**         | cư dân                    | Thành viên thuộc địa của người chơi             |
+| **Prisoner**         | tù nhân                   |                                                 |
+| **Slave**            | nô lệ                     |                                                 |
+| **Refugee**          | dân tị nạn                |                                                 |
+| **Wanderer**         | lữ khách                  |                                                 |
+| **Warden**           | quản ngục                 | Công việc cai quản / chiêu mộ tù nhân           |
+| **Handler**          | dân chăn nuôi             | Công việc thuần hóa / lùa gia súc               |
+| **Faction**          | phe / phe phái            | Dùng _phe_ trong hội thoại, _phe phái_ trên UI  |
+| **Settlement**       | khu định cư               | Căn cứ cố định của các phe trên bản đồ thế giới |
+| **Colony**           | thuộc địa / căn cứ        | _Thuộc địa_ (chính thức), _căn cứ_ (văn nói)    |
+| **Outpost**          | tiền đồn                  |                                                 |
+| **Goodwill**         | thiện chí                 | Điểm quan hệ ngoại giao giữa các phe            |
+| **Natural goodwill** | thiện chí tự nhiên        |                                                 |
+| **Raid**             | đột kích                  |                                                 |
+| **Hostiles**         | thế lực thù địch / kẻ thù |                                                 |
+
+### B. Phương tiện, Lữ hành & Bản đồ thế giới
+
+| Tiếng Anh (EN)               | Tiếng Việt chuẩn (VI) | Ghi chú ngữ cảnh                                            |
+| ---------------------------- | --------------------- | ----------------------------------------------------------- |
+| **Transport pod / Drop pod** | khoang vận chuyển     | Thống nhất dùng chung cho cả bệ phóng và rơi tự do          |
+| **Shuttle**                  | tàu con thoi          |                                                             |
+| **Cryptosleep casket**       | kén ngủ đông          | Chỉ dùng chữ _kén_ cho loại này                             |
+| **Orbital trader**           | tàu buôn vũ trụ       | Không dịch là "thương nhân quỹ đạo"                         |
+| **Caravan / Trade caravan**  | đoàn lữ hành          | Dùng thống nhất cho cả đoàn của người chơi và đoàn buôn NPC |
+| **Planet layer**             | lớp hành tinh         | Dùng cho bản đồ quỹ đạo / bề mặt                            |
+| **Biome**                    | quần xã sinh vật      |                                                             |
+| **Waypoint**                 | điểm dừng chân        |                                                             |
+
+### C. Công trình, Chăn nuôi & Vật phẩm
+
+| Tiếng Anh (EN)               | Tiếng Việt chuẩn (VI)          | Ghi chú ngữ cảnh                          |
+| ---------------------------- | ------------------------------ | ----------------------------------------- |
+| **Nutrient paste dispenser** | máy đùn cám heo                | Giữ đúng chất hài hước đặc trưng của game |
+| **Hopper**                   | phễu nạp                       |                                           |
+| **Animal pen**               | chuồng / chuồng gia súc        |                                           |
+| **Pen marker**               | cọc đánh dấu chuồng            |                                           |
+| **Hitching spot**            | cọc buộc gia súc / cọc gia súc |                                           |
+| **Stockpile zone**           | vùng kho chứa                  |                                           |
+| **Dumping stockpile**        | vùng bãi thải                  |                                           |
+| **Growing zone**             | vùng trồng trọt                |                                           |
+| **Tainted (apparel)**        | ô uế                           | Quần áo lột từ xác chết                   |
+| **Tattered apparel**         | trang phục rách rưới           |                                           |
+| **Blight**                   | bệnh cháy lá                   |                                           |
+| **Wort**                     | hèm bia                        | Nguyên liệu ủ bia                         |
+
+### D. Trạng thái, Tâm linh & Công nghệ cao
+
+| Tiếng Anh (EN)              | Tiếng Việt chuẩn (VI)                     | Ghi chú ngữ cảnh                              |
+| --------------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Draft / Drafted**         | triệu tập / được triệu tập                | Trạng thái điều khiển trực tiếp chiến đấu     |
+| **Mental break**            | suy sụp tinh thần                         |                                               |
+| **Incapacitated**           | mất khả năng hành động                    |                                               |
+| **Downed**                  | gục ngã                                   |                                               |
+| **Pain shock**              | sốc vì đau                                |                                               |
+| **Psylink**                 | liên kết tâm linh                         |                                               |
+| **Psycast / Psychic power** | năng lực tâm linh                         |                                               |
+| **Psyfocus**                | tinh thần lực                             |                                               |
+| **Neural heat**             | nhiệt thần kinh                           |                                               |
+| **Persona weapon**          | vũ khí tri giác                           |                                               |
+| **Bladelink (Bonded)**      | liên kết                                  |                                               |
+| **Biocoded**                | khóa sinh trắc                            |                                               |
+| **Skill neurotrainer**      | ống cấy kỹ năng                           |                                               |
+| **Mechanoid**               | robot sát thủ Mechanoid / robot Mechanoid | Giữ lại tên riêng _Mechanoid_ để dễ nhận diện |
+| **Techprint**               | bản thiết kế công nghệ                    |                                               |
+
+## 4. Các lỗi dịch thô cần tránh (Do's & Don'ts)
+
+- **Chance -> `tỉ lệ`** (Không dịch là _cơ hội_ trong các thông số xác suất: _tỉ lệ bắn trúng_, _tỉ lệ suy sụp_).
+
+- **Incident -> `sự kiện`** (Không dịch là _sự cố_ trong phần thiết lập kịch bản).
+
+- **Hit points -> `độ bền`** (Không dịch là _điểm máu_ đối với vật thể/công trình).
+
+- **Work type -> `công việc`** (Không dịch là _loại hình lao động_).
+
+- **Brawler -> `Đấu sĩ`** (Đặc điểm tính cách cận chiến).
+
+- **Teetotaler -> `Bài chất kích thích`** (Đặc điểm tính cách).
+
+- **Body purist -> `Tôn thờ nguyên bản`** (Đặc điểm tính cách).
