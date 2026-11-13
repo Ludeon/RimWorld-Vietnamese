@@ -54,6 +54,10 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Warden**           | quản ngục                 | Công việc cai quản / chiêu mộ tù nhân           |
 | **Handler**          | dân chăn nuôi             | Công việc thuần hóa / lùa gia súc               |
 | **Trait**            | tính cách                 | Đặc tính nhân vật (không dịch _đặc điểm_)        |
+| **Bio**              | tiểu sử                   | Thẻ thông tin tiểu sử nhân vật                  |
+| **Opinion**          | thiện cảm                 | Điểm quan hệ giữa hai cá nhân (không dịch _ý kiến_) |
+| **Resistance**       | độ phản kháng             | Chỉ số kháng cự chiêu mộ của tù nhân            |
+| **Unwavering loyalty** | trung thành sắt đá      | Tù nhân không thể chiêu mộ                      |
 | **Faction**          | phe / phe phái            | Dùng _phe_ trong hội thoại, _phe phái_ trên UI (không dịch _bè phái_) |
 | **Faction leader**   | thủ lĩnh                  |                                                 |
 | **Bestower**         | sứ giả ban tước           | Sứ giả Đế chế tổ chức lễ phong tước             |
@@ -86,6 +90,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 
 | Tiếng Anh (EN)               | Tiếng Việt chuẩn (VI)          | Ghi chú ngữ cảnh                          |
 | ---------------------------- | ------------------------------ | ----------------------------------------- |
+| **Bill**                     | đơn / đơn chế tạo              | Danh sách lệnh sản xuất trên bàn chế tạo  |
 | **Nutrient paste dispenser** | máy đùn cám heo                | Giữ đúng chất hài hước đặc trưng của game |
 | **Hopper**                   | phễu nạp                       |                                           |
 | **Battery**                  | ắc quy                         | Thiết bị trữ điện căn cứ (không dịch _pin_) |
@@ -135,6 +140,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 - **Trait -> `tính cách`** (Không dịch là _đặc điểm_).
 - **Drug policy -> `chính sách thuốc`** (Không dịch là _chính sách dược phẩm_).
 - **Hive -> `tổ`** (Không dịch dài dòng thành _tổ côn trùng_).
+- **Bill -> `đơn chế tạo`** (Không dịch trùng với _công việc_ của Work).
 - **Chance -> `tỉ lệ`** (Không dịch là _cơ hội_ hay _xác suất_ trong các thông số UI: _tỉ lệ bắn trúng_, _tỉ lệ suy sụp_).
 - **Incident -> `sự kiện`** (Không dịch là _sự cố_ trong phần thiết lập kịch bản).
 - **Hit points -> `độ bền`** (Không dịch là _điểm máu_ đối với vật thể/công trình).
@@ -142,7 +148,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 - **Colony wealth -> `tài sản thuộc địa`** (Không dịch là _độ giàu_ hay _của cải_).
 - **Offer -> `lời đề nghị`** (Trong nhiệm vụ/giao thương, không dịch là _ưu đãi_).
 - **Click / Jump to -> `nhấp / chuyển tới`** (Thống nhất trên mọi hướng dẫn UI, không dùng _click_ hay _nhảy tới_).
-- **Recruit -> `chiêu mộ`** (Không dịch là _tuyển dụng_).
+- **Recruit -> `chiêu mộ`** (Không dịch là _tuyển dụng_ hay _chiêu hàng_).
 - **Capture -> `bắt giữ`** (Không dịch máy móc là _nắm bắt_ hay _bắt buộc_).
 - **A child of {AGE} -> `một đứa trẻ {AGE} tuổi`** (Không dịch nhầm thành _con của {AGE}_).
 - **Brawler -> `Đấu sĩ`** (Tính cách cận chiến).
