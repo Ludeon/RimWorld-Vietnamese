@@ -251,7 +251,7 @@
   <!-- EN: Entering {0}. -->
   <CaravanEntering>Đang tiến vào {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Đang tấn công {0}</CaravanAttacking>
+  <CaravanAttacking>Đang tấn công {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Đang tặng quà cho {0}</CaravanOfferingGifts>
   <!-- EN: Trading with {0}. -->
@@ -833,9 +833,9 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Không thể ra lệnh cho nhân vật bạn không điều khiển.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} không có khả năng bạo lực..</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} không có khả năng bạo lực.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>Không có khả năng bạo lực.c</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>Không có khả năng bạo lực.</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} chưa được triệu tập.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
