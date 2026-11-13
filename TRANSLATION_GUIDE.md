@@ -57,7 +57,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 | **Bio**              | tiểu sử                   | Thẻ thông tin tiểu sử nhân vật                  |
 | **Opinion**          | thiện cảm                 | Điểm quan hệ giữa hai cá nhân (không dịch _ý kiến_) |
 | **Resistance**       | độ phản kháng             | Chỉ số kháng cự chiêu mộ của tù nhân            |
-| **Unwavering loyalty** | trung thành sắt đá      | Tù nhân không thể chiêu mộ                      |
+| **Unwavering loyalty** | trung thành tuyệt đối      | Tù nhân không thể chiêu mộ                      |
 | **Faction**          | phe / phe phái            | Dùng _phe_ trong hội thoại, _phe phái_ trên UI (không dịch _bè phái_) |
 | **Faction leader**   | thủ lĩnh                  |                                                 |
 | **Bestower**         | sứ giả ban tước           | Sứ giả Đế chế tổ chức lễ phong tước             |
