@@ -171,7 +171,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 - **Implant (install) -> `cấy ghép`** (Không dịch là *cài đặt* như phần mềm).
 - **Food / Medicine restriction -> `chế độ ăn / mức thuốc cho phép`** (Không dịch thô *restriction* là *giới hạn*).
 - **Pack animal -> `thú thồ`** (Không dịch là *đàn thú*).
-- **Tend -> `chữa trị`** (Thống nhất với *tự chữa trị*, không dịch là *chăm nom*).
-- **Hack -> `xâm nhập`** (Thống nhất cả tiêu đề lẫn mô tả, không dùng *truy cập trái phép* gây dài dòng trên nút).
+- **Tend -> `chữa trị / điều trị / băng bó`** (Tùy độ dài nút UI và ngữ cảnh y tế, không dịch là *chăm nom*).
+- **Hack -> `hack`** (Giữ nguyên từ mượn trên cả nút bấm lẫn mô tả, không dùng *xâm nhập* hay *truy cập trái phép*).
 - **Designation -> `chỉ định`** (Không nhầm lẫn với *destination / đích đến*).
-- **Contents (khoang vận chuyển / hòm đồ) -> `vật phẩm bên trong`** (Không dịch máy móc là *nội dung*).
+- **Contents -> `Bên trong` (tiêu đề UI) / `vật phẩm bên trong` (mô tả dài)** (Không dịch máy móc là *nội dung*).
