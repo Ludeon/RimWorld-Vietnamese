@@ -115,6 +115,9 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 
 | Tiếng Anh (EN)              | Tiếng Việt chuẩn (VI)                     | Ghi chú ngữ cảnh                              |
 | --------------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Sharp (armor / damage)**  | xuyên cắt / chống xuyên cắt               | Đạn bắn, mũi tên, dao kiếm, móng vuốt (không dịch _nhọn_) |
+| **Blunt (armor / damage)**  | va đập / chống va đập                     | Chùy, búa, nắm đấm, chấn động (không dịch _cùn_) |
+| **Heat (armor / damage)**   | nhiệt / chống nhiệt                       | Lửa, laser, plasma                            |
 | **Draft / Drafted**         | triệu tập / được triệu tập                | Trạng thái điều khiển trực tiếp chiến đấu     |
 | **Mental break**            | suy sụp tinh thần                         |                                               |
 | **Incapacitated**           | mất khả năng hành động                    |                                               |
@@ -137,6 +140,7 @@ Bản dịch chia làm **2 lớp văn bản** rõ ràng tùy theo vị trí xu�
 
 ## 4. Các lỗi dịch thô cần tránh (Do's & Don'ts)
 
+- **Sharp / Blunt -> `xuyên cắt / va đập`** (Trong chỉ số giáp dùng _chống xuyên cắt / chống va đập_, không dịch thô là _nhọn / cùn_).
 - **Trait -> `tính cách`** (Không dịch là _đặc điểm_).
 - **Drug policy -> `chính sách thuốc`** (Không dịch là _chính sách dược phẩm_).
 - **Hive -> `tổ`** (Không dịch dài dòng thành _tổ côn trùng_).
