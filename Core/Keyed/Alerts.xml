@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>Nhấp để định vị sự cố</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Nhấp để chuyển tới sự cố</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
   <BreakRiskMinor>Nguy cơ suy sụp nhẹ</BreakRiskMinor>
@@ -24,7 +24,7 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Những cư dân cần cứu hộ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Những cư dân đang mất khả năng hành động trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấp chuột phải vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
   <ColonistsNeedRescueDescController>Những cư dân đang bất tỉnh trên mặt đất:\n{0}\nGửi một cư dân khác đến giải cứu và mang họ trở lại giường.\n\n(Để giải cứu, chọn một cư dân khác, sau đó nhấn nút Cò trái vào nạn nhân và chọn Cứu hộ).</ColonistsNeedRescueDescController>
 
@@ -96,7 +96,7 @@
   <ExhaustionDesc>Những cư dân này đã mệt lử và sắp đổ gục vì thiếu ngủ:\n{0}\n\nHãy cho họ đi nghỉ ngay. Họ sẽ cần một chiếc giường dành riêng cho cư dân, và đảm bảo bạn đã hủy lệnh triệu tập của họ.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Cần phễu nạp cám</NeedFoodHopper>
+  <NeedFoodHopper>Cần phễu nạp</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
   <NeedFoodHopperDesc>Bạn có cái máy đùn cám heo nhưng chưa chịu gắn phễu nạp bên cạnh.\n\nMuốn máy hoạt động, bạn phải nhét thức ăn thô vào cái phễu đặt sát hông để nó nghiền ra cám.\n\nHãy xây ngay một cái phễu nạp nằm sát cạnh cỗ máy.</NeedFoodHopperDesc>
 
@@ -235,7 +235,7 @@
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Khách khứa tuột tâm trạng</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>Nhiệm vụ {0} yêu cầu bạn phải hầu hạ vị khách này luôn vui vẻ, nhưng tâm trạng của họ đang tụt dốc không phanh. Hãy làm gì đó để gỡ gạc ngay:\n{1}\n\nMẹo: Bơm cho họ ít "đồ" là cách kéo tâm trạng thần tốc nhất - trừ khi vị khách này mang đặc tính Bài chất kích thích hoặc tôn giáo của họ cấm tiệt món này.</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Nhiệm vụ {0} yêu cầu bạn phải hầu hạ vị khách này luôn vui vẻ, nhưng tâm trạng của họ đang tụt dốc không phanh. Hãy làm gì đó để gỡ gạc ngay:\n{1}\n\nMẹo: Bơm cho họ ít "đồ" là cách kéo tâm trạng thần tốc nhất - trừ khi vị khách này có tính Bài chất kích thích hoặc tôn giáo của họ cấm tiệt món này.</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Tàu con thoi cất cánh sau {0}</QuestPartShuttleLeaveDelay>

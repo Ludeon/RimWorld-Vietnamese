@@ -167,7 +167,7 @@
   <!-- EN: Broken down -->
   <BrokenDown>Hỏng hóc</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(gắn kết)</BondBrackets>
+  <BondBrackets>(liên kết)</BondBrackets>
   <!-- EN: Fuel -->
   <Fuel>Nhiên liệu</Fuel>
   <!-- EN: Fuel -->
@@ -333,7 +333,7 @@
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Thời gian còn lại: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>Chuột trái để sắp xếp theo cột này.</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>Nhấp chuột trái để sắp xếp theo cột này.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
   <WorkPriorityShiftClickTip>Shift + chuột trái: Tăng ưu tiên\nShift + chuột phải: Giảm ưu tiên</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
@@ -530,7 +530,7 @@
   <!-- EN: Any of -->
   <AnyOf>Một trong số</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>Yêu cầu đặc điểm {0}</TraitRequired>
+  <TraitRequired>Yêu cầu tính cách {0}</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>Thiện chí</Goodwill>
   <!-- EN: Natural goodwill -->
@@ -637,7 +637,7 @@
   <PreventCuttingDesc>Khi bật, cư dân sẽ không chặt cây này.</PreventCuttingDesc>
 
  <!-- EN: Resulting from trait -->
-  <ComesFromTrait>Do đặc tính</ComesFromTrait>
+  <ComesFromTrait>Do tính cách</ComesFromTrait>
   <!-- EN: Resulting from condition -->
   <ComesFromHediff>Do tình trạng sức khỏe</ComesFromHediff>
   <!-- EN: Adds need -->
@@ -687,7 +687,7 @@
   <!-- EN: Product\nwasted -->
   <TextMote_ProductWasted>Sản phẩm\nlãng phí</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Thu phục thất bại!\nTỉ lệ: {0}</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Chiêu mộ thất bại!\nTỉ lệ: {0}</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>Phản kháng\n{0} còn {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
@@ -1976,7 +1976,7 @@
   <ShieldPersonalTip>Khiên cá nhân có khả năng đánh chặn đường đạn hoặc mảnh văng lao tới. Tuy nhiên, nó ngăn người mặc bắn ra ngoài và sẽ sập nguồn ngay lập tức nếu trúng xung điện từ EMP.</ShieldPersonalTip>
 
   <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
-  <UnrecruitableDesc>{PAWN_nameDef} trung thành tuyệt đối với quê hương đến mức {PAWN_pronoun} sẽ từ chối chiêu mộ nếu bị bắt làm tù binh.</UnrecruitableDesc>
+  <UnrecruitableDesc>{PAWN_nameDef} trung thành tuyệt đối với quê hương đến mức {PAWN_pronoun} sẽ từ chối chiêu mộ nếu bị bắt làm tù nhân.</UnrecruitableDesc>
 
   <!-- EN: Random -->
   <Random>Ngẫu nhiên</Random>
@@ -2073,7 +2073,7 @@
   <!-- EN: {GERUND} {TARGETLABEL} at -->
   <DoWorkAtThing>{GERUND} {TARGETLABEL} tại</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
-  <CanBeStudiedInDuration>có thể nghiên cứu sau {0}</CanBeStudiedInDuration>
+  <CanBeStudiedInDuration>có thể khảo sát sau {0}</CanBeStudiedInDuration>
   
   <!-- EN: About to explode -->
   <AboutToExplode>Sắp phát nổ</AboutToExplode>
